@@ -1,0 +1,15 @@
+label, text, speaker, autoLineBreak
+MBody_Diva_No5_ItemName, Virginia,  UI,  0
+MBody_Diva_No5_ItemExp, BP cost -1 when at half health.,  UI,  0
+MBody_Diva_No5_01_ItemName, Retro Pod,  UI,  0
+MBody_Diva_No5_01_ItemExp, Defensive resistances +10%.,  UI,  0
+MBody_Diva_No5_02_ItemName, Shanks,  UI,  0
+MBody_Diva_No5_02_ItemExp, Combo range +1.,  UI,  0
+MBody_Diva_No5_03_ItemName, Mover,  UI,  0
+MBody_Diva_No5_03_ItemExp, Mech support techs BP cost -1.,  UI,  0
+MBody_Diva_No5_04_ItemName, Battle Tank,  UI,  0
+MBody_Diva_No5_04_ItemExp, Delay +1.,  UI,  0
+MBody_Diva_No5_05_ItemName, Paradox,  UI,  0
+MBody_Diva_No5_05_ItemExp, Target's block chance -20%.,  UI,  0
+MBody_Maki_Diva_No5_01_ItemName, Mana Machine,  UI,  0
+MBody_Maki_Diva_No5_01_ItemExp, Allows the use of relics.,  UI,  0

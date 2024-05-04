@@ -1,0 +1,136 @@
+label, text, speaker, autoLineBreak
+BF_001_FormationName, Free For All,  UI,  0
+BF_001_FormationExp, Prevents enemies from focusing on a single ally.
+Action order increases after defending.
+BP increases by 1 each turn.,  UI,  0
+BF_002_FormationName, Coalescence,  UI,  0
+BF_002_FormationExp, A combo-oriented formation.
+BP cost -1 after a combo.
+BP increases by 1 each turn.,  UI,  0
+BF_003_FormationName, Succession,  UI,  0
+BF_003_FormationExp, A combo-oriented formation.
+BP cost -3 after defeating a foe.
+BP increases by 1 after combos.,  UI,  0
+BF_004_FormationName, Scramble,  UI,  0
+BF_004_FormationExp, Avoid those combos! Increases all allies' attack.
+BP cost -3 after defeating a foe.
+BP increases by 3 each turn. Resets after combos.,  UI,  0
+BF_005_FormationName, Tiger's Den,  UI,  0
+BF_005_FormationExp, A defensive formation. BP cost -1 after defending.
+Sacrifices all allies' attack for defense.
+BP increases by 1 each turn.,  UI,  0
+BF_006_FormationName, Imperial Cross,  UI,  0
+BF_006_FormationExp, Excels at both offense and defense.
+1st position targeted more; 5th targeted less.
+BP increases by 1 each turn.,  UI,  0
+BF_007_FormationName, Desert Lance,  UI,  0
+BF_007_FormationExp, Ally in 1st position acts as a decoy.
+1st position defense up; 2nd–5th down.
+BP increases by 1 each turn.,  UI,  0
+BF_008_FormationName, Dragon Stance,  UI,  0
+BF_008_FormationExp, Acts swiftly in ascending position order.
+Tech BP cost -1 in the 1st position.
+BP increases by 1 each turn. Resistant to paralysis. ,  UI,  0
+BF_009_FormationName, Procession,  UI,  0
+BF_009_FormationExp, A formation where allies act slowly but in sequence.
+Action order increases upon defending.
+BP increases by 1 each turn.,  UI,  0
+BF_010_FormationName, Sword and Scale,  UI,  0
+BF_010_FormationExp, Tech BP cost -1 in 1st position.
+Resistant to darkness.
+BP increases by 1 each turn.,  UI,  0
+BF_011_FormationName, War Cry,  UI,  0
+BF_011_FormationExp, Tech BP cost -1 in 1st position.
+Resistant to stun.
+BP increases by 1 each turn.,  UI,  0
+BF_012_FormationName, Hunter's Gambit,  UI,  0
+BF_012_FormationExp, Tech BP cost -1 in 5th position.
+Resistant to poison.
+BP increases by 1 each turn.,  UI,  0
+BF_013_FormationName, Blast Tempest,  UI,  0
+BF_013_FormationExp, Tech BP cost -1 in 5th position.
+Resistant to stench.
+BP increases by 1 each turn.,  UI,  0
+BF_014_FormationName, Retainers' League,  UI,  0
+BF_014_FormationExp, Used by squires to protect spellcasters.
+1st position conditional BP -1. 2nd position spell BP -1
+and increased attack. BP increases by 1 each turn.,  UI,  0
+BF_015_FormationName, Rising Power,  UI,  0
+BF_015_FormationExp, Facilitates the casting of powerful spells.
+Spell BP cost -2, increased attack, and increased defense
+in 5th position. BP increases by 1 each turn.,  UI,  0
+BF_016_FormationName, Fully Flanked,  UI,  0
+BF_016_FormationExp, Effective against flying foes.
+Gathers allies to either end of the timeline.
+BP increases by 1 after combos.,  UI,  0
+BF_017_FormationName, Last Stand,  UI,  0
+BF_017_FormationExp, Yield initiative in favor of conditionals and combos.
+Sacrifices all allies' attack for defense.
+BP increases by 1 after combos.,  UI,  0
+BF_018_FormationName, Wild Gemini,  UI,  0
+BF_018_FormationExp, Allows for easy 2x combos.
+BP cost -1 after performing combos.
+BP increases by 1 after combos.,  UI,  0
+BF_019_FormationName, Nimble Pegasus,  UI,  0
+BF_019_FormationExp, 1st position acts swiftly.
+Resistant to petrification.
+BP increases by 1 each turn.,  UI,  0
+BF_020_FormationName, Rear Guard,  UI,  0
+BF_020_FormationExp, Firms up defenses at the end of the line.
+Increased defense in the 5th position.
+BP increases by 1 each turn.,  UI,  0
+BF_021_FormationName, Phoenix Dance,  UI,  0
+BF_021_FormationExp, Ally in 3rd position draws enemy attacks.
+Attack down and defense up in 3rd position.
+BP increases by 1 each turn.,  UI,  0
+BF_022_FormationName, Puissance,  UI,  0
+BF_022_FormationExp, Facilitates spellcasting and effective against airborne foes.
+Spell BP cost -1, increased attack, and increased defense
+in 4th and 5th positions. BP increases by 1 each turn.,  UI,  0
+BF_023_FormationName, Limelight,  UI,  0
+BF_023_FormationExp, Puts 1st position in the spotlight.
+BP increases by 1 each turn.,  UI,  0
+BF_024_FormationName, Speculation,  UI,  0
+BF_024_FormationExp, 2nd, 3rd, and 4th positions have increased attack. All allies have decreased defense.
+BP increases by 1 after defeating foes by means other than poison or enemy actions.,  UI,  0
+BF_025_FormationName, Elemental Salvo,  UI,  0
+BF_025_FormationExp, Overwhelming spiritual power grants high starting BP,
+but decreases all allies' attack and defense.
+BP does not change.,  UI,  0
+BF_026_FormationName, Momentum,  UI,  0
+BF_026_FormationExp, 1st and 2nd positions focus on finishing off foes.
+BP cost -1 in 3rd position.
+BP increases by 2 after defeating foes by means other than poison or enemy actions.,  UI,  0
+BF_027_FormationName, Trickster,  UI,  0
+BF_027_FormationExp, Facilitates the use of counterattacks and interrupts.
+1st and 2nd positions are more easily targeted.
+BP increases by 1 after using counterattacks or interrupts.,  UI,  0
+BF_028_FormationName, Tercio,  UI,  0
+BF_028_FormationExp, Allies act slowly and sacrifice attack for defense.
+BP cost -1 in the 1st and 2nd positions.
+BP increases by 1 each turn.,  UI,  0
+BF_029_FormationName, Insulation,  UI,  0
+BF_029_FormationExp, Easy to disrupt enemy combos in 1st and 2nd positions.
+Resistant to confusion.
+BP increases by 1 each turn.,  UI,  0
+BF_099_FormationName, Bound Formation,  UI,  0
+BF_099_FormationExp, This formation cannot be changed.
+BP increases by 1 each turn.,  UI,  0
+BF_TUTORIAL_FormationName, Bound Formation,  UI,  0
+BF_TUTORIAL_FormationExp, This formation cannot be changed.
+BP increases by 1 each turn.,  UI,  0
+BF_TUTORIAL_BF_FormationName, Bound Formation,  UI,  0
+BF_TUTORIAL_BF_FormationExp, This formation cannot be changed.
+BP increases by 1 each turn.,  UI,  0
+BF_W14_1_FormationName, Bound Formation,  UI,  0
+BF_W14_1_FormationExp, This formation cannot be changed.
+BP increases by 1 each turn.,  UI,  0
+BF_W14_2_FormationName, Bound Formation,  UI,  0
+BF_W14_2_FormationExp, This formation cannot be changed.
+BP increases by 1 each turn.,  UI,  0
+BF_ENEMY_FRONT_FormationName, Bound Formation (Enemies in Front),  UI,  0
+BF_ENEMY_FRONT_FormationExp, This formation cannot be changed.
+BP increases by 1 each turn.,  UI,  0
+BF_ENEMY_BACK_FormationName, Bound Formation (Enemies in Back),  UI,  0
+BF_ENEMY_BACK_FormationExp, This formation cannot be changed.
+BP increases by 1 each turn.,  UI,  0

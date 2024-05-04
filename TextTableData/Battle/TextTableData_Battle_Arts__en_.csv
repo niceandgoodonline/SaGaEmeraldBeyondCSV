@@ -1,0 +1,2722 @@
+label, text, speaker, autoLineBreak
+WAIT_ArtsName, Bound,  UI,  0
+DEFENSE_ArtsName, Defend,  UI,  0
+MONSTER_RELEASE_ArtsName, Unleash,  UI,  0
+MONSTER_RELEASE_ArtsExp, (Guaranteed Hit) Consume HP and unleash an absorbed monster.,  UI,  0
+OHS_WL000_A01_ArtsName, Eliminate,  UI,  0
+OHS_WL000_A01_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+OHS_WL000_A01_OverAttackFirst, Elim,  UI,  0
+OHS_WL000_A01_OverAttackLast, Inate,  UI,  0
+OHS_WL000_A01_EX1_ArtsName, Knee Split,  UI,  0
+OHS_WL000_A01_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Stun chance 50%.,  UI,  0
+OHS_WL000_A01_EX1_OverAttackFirst, Knee,  UI,  0
+OHS_WL000_A01_EX1_OverAttackLast, Split,  UI,  0
+OHS_WL000_A01_EX2_ArtsName, Focused Split,  UI,  0
+OHS_WL000_A01_EX2_ArtsExp, (Enemy/Single Target/STR) Own spell power +10%.,  UI,  0
+OHS_WL000_A01_EX2_OverAttackFirst, Focused,  UI,  0
+OHS_WL000_A01_EX2_OverAttackLast, Split,  UI,  0
+OHS_WL000_A01_UN1_ArtsName, Pursuant Slash,  UI,  0
+OHS_WL000_A01_UN1_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+OHS_WL000_A01_UN1_OverAttackFirst, Pursuant,  UI,  0
+OHS_WL000_A01_UN1_OverAttackLast, Slash,  UI,  0
+OHS_WL000_A02_ArtsName, Brusque Slice,  UI,  0
+OHS_WL000_A02_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+OHS_WL000_A02_OverAttackFirst, Brusque,  UI,  0
+OHS_WL000_A02_OverAttackLast, Slice,  UI,  0
+OHS_WL000_A02_EX1_ArtsName, Uncouth Assault,  UI,  0
+OHS_WL000_A02_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Provoke enemy.,  UI,  0
+OHS_WL000_A02_EX1_OverAttackFirst, Uncouth,  UI,  0
+OHS_WL000_A02_EX1_OverAttackLast, Assault,  UI,  0
+OHS_WL000_PROTECT_ArtsName, Parry,  UI,  0
+OHS_WL000_PROTECT_ArtsExp, (Self) Nullify damage by deflecting attacks.,  UI,  0
+OHS_WL000_PROTECT_OverAttackFirst, Par,  UI,  0
+OHS_WL000_PROTECT_OverAttackLast, Ry,  UI,  0
+OHS_WL000_A04_ArtsName, Cutting Lunge,  UI,  0
+OHS_WL000_A04_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+OHS_WL000_A04_OverAttackFirst, Cutting,  UI,  0
+OHS_WL000_A04_OverAttackLast, Lunge,  UI,  0
+OHS_WL000_A04_EX1_ArtsName, Pursuant Blade,  UI,  0
+OHS_WL000_A04_EX1_ArtsExp, (Enemy/Single Target/MOB) [Custom Tech] ,  UI,  0
+OHS_WL000_A04_EX1_OverAttackFirst, Pursuant,  UI,  0
+OHS_WL000_A04_EX1_OverAttackLast, Blade,  UI,  0
+OHS_WL000_B01_ArtsName, Blood Rage,  UI,  0
+OHS_WL000_B01_ArtsExp, (Enemy/Single Target/STR) Darkness chance 50%.,  UI,  0
+OHS_WL000_B01_OverAttackFirst, Rage,  UI,  0
+OHS_WL000_B01_OverAttackLast, Rage,  UI,  0
+OHS_WL000_B01_EX1_ArtsName, Macabre Dance,  UI,  0
+OHS_WL000_B01_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Darkness chance 50%.,  UI,  0
+OHS_WL000_B01_EX1_OverAttackFirst, Macabre,  UI,  0
+OHS_WL000_B01_EX1_OverAttackLast, Dance,  UI,  0
+OHS_WLLSW_B01_ArtsName, Gale Slash,  UI,  0
+OHS_WLLSW_B01_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+OHS_WLLSW_B01_OverAttackFirst, Gale,  UI,  0
+OHS_WLLSW_B01_OverAttackLast, Gale,  UI,  0
+OHS_WLLSW_B01_EX1_ArtsName, Abiding Blade,  UI,  0
+OHS_WLLSW_B01_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] ,  UI,  0
+OHS_WLLSW_B01_EX1_OverAttackFirst, Abiding,  UI,  0
+OHS_WLLSW_B01_EX1_OverAttackLast, Abiding,  UI,  0
+OHS_WLLSW_B02_ArtsName, Airwave,  UI,  0
+OHS_WLLSW_B02_ArtsExp, (Enemy/Back/Antiair/STR) Attack enemies positioned in the back.,  UI,  0
+OHS_WLLSW_B02_OverAttackFirst, Air,  UI,  0
+OHS_WLLSW_B02_OverAttackLast, Wave,  UI,  0
+OHS_WLLSW_B02_EX1_ArtsName, Airswell,  UI,  0
+OHS_WLLSW_B02_EX1_ArtsExp, (Enemy/Back/Antiair/STR) [Custom Tech] Attack enemies positioned in the back. Stun chance 25%.,  UI,  0
+OHS_WLLSW_B02_EX1_OverAttackFirst, Air,  UI,  0
+OHS_WLLSW_B02_EX1_OverAttackLast, Swell,  UI,  0
+OHS_WLLSW_B03_ArtsName, Triple Thrust,  UI,  0
+OHS_WLLSW_B03_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+OHS_WLLSW_B03_OverAttackFirst, Triple,  UI,  0
+OHS_WLLSW_B03_OverAttackLast, Thrust,  UI,  0
+OHS_WLLSW_B03_EX1_ArtsName, Triple Crush,  UI,  0
+OHS_WLLSW_B03_EX1_ArtsExp, (Enemy/Single Target/Antiair/STR) [Custom Tech] ,  UI,  0
+OHS_WLLSW_B03_EX1_OverAttackFirst, Triple,  UI,  0
+OHS_WLLSW_B03_EX1_OverAttackLast, Crush,  UI,  0
+OHS_WLLSW_B04_ArtsName, Life Sprinkler,  UI,  0
+OHS_WLLSW_B04_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+OHS_WLLSW_B04_OverAttackFirst, Life,  UI,  0
+OHS_WLLSW_B04_OverAttackLast, Sprinkler,  UI,  0
+OHS_WLLSW_B04_EX1_ArtsName, Moonless Sky,  UI,  0
+OHS_WLLSW_B04_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] ,  UI,  0
+OHS_WLLSW_B04_EX1_OverAttackFirst, Moonless,  UI,  0
+OHS_WLLSW_B04_EX1_OverAttackLast, Sky,  UI,  0
+OHS_WLRAP_A01_ArtsName, Crystalline Carve,  UI,  0
+OHS_WLRAP_A01_ArtsExp, (Enemy/Single Target/MOB) Remove enmity.,  UI,  0
+OHS_WLRAP_A01_OverAttackFirst, Crystalline,  UI,  0
+OHS_WLRAP_A01_OverAttackLast, Carve,  UI,  0
+OHS_WLRAP_A01_EX1_ArtsName, Bond Avant,  UI,  0
+OHS_WLRAP_A01_EX1_ArtsExp, (Enemy/Single Target/MOB) [Custom Tech] Remove enmity.,  UI,  0
+OHS_WLRAP_A01_EX1_OverAttackFirst, Bond,  UI,  0
+OHS_WLRAP_A01_EX1_OverAttackLast, Avant,  UI,  0
+OHS_WLRAP_A02_ArtsName, Shocking Rush,  UI,  0
+OHS_WLRAP_A02_ArtsExp, (Enemy/Single Target/MOB) Paralysis chance 25%.,  UI,  0
+OHS_WLRAP_A02_OverAttackFirst, Shocking,  UI,  0
+OHS_WLRAP_A02_OverAttackLast, Rush,  UI,  0
+OHS_WLRAP_A02_EX1_ArtsName, Dernier Tonnerre,  UI,  0
+OHS_WLRAP_A02_EX1_ArtsExp, (Enemy/Single Target/MOB) [Custom Tech] Paralysis chance 50%.,  UI,  0
+OHS_WLRAP_A02_EX1_OverAttackFirst, Dernier,  UI,  0
+OHS_WLRAP_A02_EX1_OverAttackLast, Tonnerre,  UI,  0
+OHS_WLRAP_B01_ArtsName, Sword Ballet,  UI,  0
+OHS_WLRAP_B01_ArtsExp, (Enemy/All Targets/MOB),  UI,  0
+OHS_WLRAP_B01_OverAttackFirst, Ballet,  UI,  0
+OHS_WLRAP_B01_OverAttackLast, Ballet,  UI,  0
+OHS_WLRAP_B01_EX1_ArtsName, Battement,  UI,  0
+OHS_WLRAP_B01_EX1_ArtsExp, (Enemy/All Targets/MOB) [Custom Tech] ,  UI,  0
+OHS_WLRAP_B01_EX1_OverAttackFirst, Batt,  UI,  0
+OHS_WLRAP_B01_EX1_OverAttackLast, Ement,  UI,  0
+OHS_WLRAP_B02_ArtsName, Mega Thrust,  UI,  0
+OHS_WLRAP_B02_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+OHS_WLRAP_B02_OverAttackFirst, Mega,  UI,  0
+OHS_WLRAP_B02_OverAttackLast, Thrust,  UI,  0
+OHS_WLRAP_B02_EX1_ArtsName, Contre Attaque,  UI,  0
+OHS_WLRAP_B02_EX1_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX) [Custom Tech] ,  UI,  0
+OHS_WLRAP_B02_EX1_OverAttackFirst, Contre,  UI,  0
+OHS_WLRAP_B02_EX1_OverAttackLast, Attaque,  UI,  0
+OHS_WLDAG_A01_ArtsName, Apid Venom,  UI,  0
+OHS_WLDAG_A01_ArtsExp, (Enemy/Single Target/DEX) Poison chance 50%.,  UI,  0
+OHS_WLDAG_A01_OverAttackFirst, Apid,  UI,  0
+OHS_WLDAG_A01_OverAttackLast, Venom,  UI,  0
+OHS_WLDAG_A01_EX1_ArtsName, Startling Venom,  UI,  0
+OHS_WLDAG_A01_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] Poison chance 75%.,  UI,  0
+OHS_WLDAG_A01_EX1_OverAttackFirst, Startling,  UI,  0
+OHS_WLDAG_A01_EX1_OverAttackLast, Venom,  UI,  0
+OHS_WLDAG_B01_ArtsName, Moonfall Slash,  UI,  0
+OHS_WLDAG_B01_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+OHS_WLDAG_B01_OverAttackFirst, Moonfall,  UI,  0
+OHS_WLDAG_B01_OverAttackLast, Slash,  UI,  0
+OHS_WLDAG_B01_EX1_ArtsName, Solitary Twilight,  UI,  0
+OHS_WLDAG_B01_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] ,  UI,  0
+OHS_WLDAG_B01_EX1_OverAttackFirst, Solitary,  UI,  0
+OHS_WLDAG_B01_EX1_OverAttackLast, Twilight,  UI,  0
+OHS_WLDAG_B02_ArtsName, Backstab,  UI,  0
+OHS_WLDAG_B02_ArtsExp, (Enemy/Single Target/MOB) Sudden death chance 25%.,  UI,  0
+OHS_WLDAG_B02_OverAttackFirst, Back,  UI,  0
+OHS_WLDAG_B02_OverAttackLast, Stab,  UI,  0
+OHS_WLDAG_B02_EX1_ArtsName, Sacrificial Stabbing,  UI,  0
+OHS_WLDAG_B02_EX1_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX) [Custom Tech] Sudden death chance 25%.,  UI,  0
+OHS_WLDAG_B02_EX1_OverAttackFirst, Sacrificial,  UI,  0
+OHS_WLDAG_B02_EX1_OverAttackLast, Stab,  UI,  0
+OHS_WLDAG_B03_ArtsName, Kaleidoscope,  UI,  0
+OHS_WLDAG_B03_ArtsExp, (Enemy/Single Target/DEX) Stun chance 50%.,  UI,  0
+OHS_WLDAG_B03_OverAttackFirst, Kaleido,  UI,  0
+OHS_WLDAG_B03_OverAttackLast, Scope,  UI,  0
+OHS_WLDAG_B03_EX1_ArtsName, Linked Fractals,  UI,  0
+OHS_WLDAG_B03_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] Stun chance 50%.,  UI,  0
+OHS_WLDAG_B03_EX1_OverAttackFirst, Linked,  UI,  0
+OHS_WLDAG_B03_EX1_OverAttackLast, Fractals,  UI,  0
+OHS_WLAXE_A01_ArtsName, Impact Divide,  UI,  0
+OHS_WLAXE_A01_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+OHS_WLAXE_A01_OverAttackFirst, Impact,  UI,  0
+OHS_WLAXE_A01_OverAttackLast, Divide,  UI,  0
+OHS_WLAXE_A01_EX1_ArtsName, Tuning Divide,  UI,  0
+OHS_WLAXE_A01_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Own attack power +10%.,  UI,  0
+OHS_WLAXE_A01_EX1_OverAttackFirst, Tuning,  UI,  0
+OHS_WLAXE_A01_EX1_OverAttackLast, Divide,  UI,  0
+OHS_WLAXE_B01_ArtsName, Hell's Fury,  UI,  0
+OHS_WLAXE_B01_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+OHS_WLAXE_B01_OverAttackFirst, Hell's,  UI,  0
+OHS_WLAXE_B01_OverAttackLast, Fury,  UI,  0
+OHS_WLAXE_B01_EX1_ArtsName, Brutal Scarlet,  UI,  0
+OHS_WLAXE_B01_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] ,  UI,  0
+OHS_WLAXE_B01_EX1_OverAttackFirst, Bruta,  UI,  0
+OHS_WLAXE_B01_EX1_OverAttackLast, Scarlet,  UI,  0
+OHS_WLAXE_B02_ArtsName, Four Seasons,  UI,  0
+OHS_WLAXE_B02_ArtsExp, (Enemy/Single Target/STR) Distract chance 50%.,  UI,  0
+OHS_WLAXE_B02_OverAttackFirst, Four,  UI,  0
+OHS_WLAXE_B02_OverAttackLast, Seasons,  UI,  0
+OHS_WLAXE_B02_EX1_ArtsName, Theatrical Gig,  UI,  0
+OHS_WLAXE_B02_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Distract chance 50%. Own spell power +10%.,  UI,  0
+OHS_WLAXE_B02_EX1_OverAttackFirst, Theatrical,  UI,  0
+OHS_WLAXE_B02_EX1_OverAttackLast, Gig,  UI,  0
+OHS_WLAXE_B03_ArtsName, Reverse Delta,  UI,  0
+OHS_WLAXE_B03_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+OHS_WLAXE_B03_OverAttackFirst, Reverse,  UI,  0
+OHS_WLAXE_B03_OverAttackLast, Delta,  UI,  0
+OHS_WLAXE_B03_EX1_ArtsName, Beat Rush,  UI,  0
+OHS_WLAXE_B03_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Target speed -8%.,  UI,  0
+OHS_WLAXE_B03_EX1_OverAttackFirst, Beat,  UI,  0
+OHS_WLAXE_B03_EX1_OverAttackLast, Rush,  UI,  0
+OHS_WLTSW_A01_ArtsName, Dual Sunder,  UI,  0
+OHS_WLTSW_A01_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+OHS_WLTSW_A01_OverAttackFirst, Dual,  UI,  0
+OHS_WLTSW_A01_OverAttackLast, Sunder,  UI,  0
+OHS_WLTSW_B01_ArtsName, Dual Whirlwind,  UI,  0
+OHS_WLTSW_B01_ArtsExp, (Enemy/Random Target/Antiair/STR),  UI,  0
+OHS_WLTSW_B01_OverAttackFirst, Dual,  UI,  0
+OHS_WLTSW_B01_OverAttackLast, Whirlwind,  UI,  0
+OHS_WLTSW_B02_ArtsName, Dual Torrent,  UI,  0
+OHS_WLTSW_B02_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+OHS_WLTSW_B02_OverAttackFirst, Dual,  UI,  0
+OHS_WLTSW_B02_OverAttackLast, Torrent,  UI,  0
+THS_WH000_A01_ArtsName, Smash,  UI,  0
+THS_WH000_A01_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+THS_WH000_A01_OverAttackFirst, Sma,  UI,  0
+THS_WH000_A01_OverAttackLast, Sh,  UI,  0
+THS_WH000_A01_EX1_ArtsName, Boasting Slash,  UI,  0
+THS_WH000_A01_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Provoke enemy.,  UI,  0
+THS_WH000_A01_EX1_OverAttackFirst, Boasting,  UI,  0
+THS_WH000_A01_EX1_OverAttackLast, Slash,  UI,  0
+THS_WH000_A01_EX2_ArtsName, Focusing Smash,  UI,  0
+THS_WH000_A01_EX2_ArtsExp, (Enemy/Single Target/STR) Own spell power +20%.,  UI,  0
+THS_WH000_A01_EX2_OverAttackFirst, Focusing,  UI,  0
+THS_WH000_A01_EX2_OverAttackLast, Smash,  UI,  0
+THS_WH000_A01_UN1_ArtsName, Terminating Smash,  UI,  0
+THS_WH000_A01_UN1_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+THS_WH000_A01_UN1_OverAttackFirst, Terminating,  UI,  0
+THS_WH000_A01_UN1_OverAttackLast, Smash,  UI,  0
+THS_WH000_A02_ArtsName, Flowing Slash,  UI,  0
+THS_WH000_A02_ArtsExp, (Enemy/Single Target/STR) Target attack power -10%.,  UI,  0
+THS_WH000_A02_OverAttackFirst, Flowing,  UI,  0
+THS_WH000_A02_OverAttackLast, Slash,  UI,  0
+THS_WH000_A02_EX1_ArtsName, Enfeebling Slash,  UI,  0
+THS_WH000_A02_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] Target attack power -20%.,  UI,  0
+THS_WH000_A02_EX1_OverAttackFirst, Enfeebling,  UI,  0
+THS_WH000_A02_EX1_OverAttackLast, Slash,  UI,  0
+THS_WH000_PROTECT_ArtsName, Deflect,  UI,  0
+THS_WH000_PROTECT_ArtsExp, (Ally/Other) Take an attack intended for another ally. Reduces damage taken.,  UI,  0
+THS_WH000_PROTECT_OverAttackFirst, De,  UI,  0
+THS_WH000_PROTECT_OverAttackLast, Flect,  UI,  0
+THS_WH000_A04_ArtsName, Vertical Smash,  UI,  0
+THS_WH000_A04_ArtsExp, (Enemy/Single Target/STR) Target defense -10%.,  UI,  0
+THS_WH000_A04_OverAttackFirst, Vertical,  UI,  0
+THS_WH000_A04_OverAttackLast, Smash,  UI,  0
+THS_WH000_A04_EX1_ArtsName, Air Raid,  UI,  0
+THS_WH000_A04_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Target defense -10%.,  UI,  0
+THS_WH000_A04_EX1_OverAttackFirst, Air,  UI,  0
+THS_WH000_A04_EX1_OverAttackLast, Raid,  UI,  0
+THS_WH000_B01_ArtsName, Wheel Swing,  UI,  0
+THS_WH000_B01_ArtsExp, (Enemy/All Targets/STR),  UI,  0
+THS_WH000_B01_OverAttackFirst, Wheel,  UI,  0
+THS_WH000_B01_OverAttackLast, Swing,  UI,  0
+THS_WH000_B01_EX1_ArtsName, Twister,  UI,  0
+THS_WH000_B01_EX1_ArtsExp, (Enemy/All Targets/STR) [Custom Tech] ,  UI,  0
+THS_WH000_B01_EX1_OverAttackFirst, Twist,  UI,  0
+THS_WH000_B01_EX1_OverAttackLast, Twister,  UI,  0
+THS_WHGSW_A01_ArtsName, Bull Crush,  UI,  0
+THS_WHGSW_A01_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+THS_WHGSW_A01_OverAttackFirst, Bull,  UI,  0
+THS_WHGSW_A01_OverAttackLast, Crush,  UI,  0
+THS_WHGSW_A01_EX1_ArtsName, Bull Pursuit,  UI,  0
+THS_WHGSW_A01_EX1_ArtsExp, (Enemy/Single Target/MOB) [Custom Tech] ,  UI,  0
+THS_WHGSW_A01_EX1_OverAttackFirst, Bull,  UI,  0
+THS_WHGSW_A01_EX1_OverAttackLast, Pursuit,  UI,  0
+THS_WHGSW_B01_ArtsName, Jolting Slash,  UI,  0
+THS_WHGSW_B01_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+THS_WHGSW_B01_OverAttackFirst, Jolting,  UI,  0
+THS_WHGSW_B01_OverAttackLast, Slash,  UI,  0
+THS_WHGSW_B01_EX1_ArtsName, Mineshaft Slash,  UI,  0
+THS_WHGSW_B01_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Mech paralysis chance 50%.,  UI,  0
+THS_WHGSW_B01_EX1_OverAttackFirst, Mine,  UI,  0
+THS_WHGSW_B01_EX1_OverAttackLast, Slash,  UI,  0
+THS_WHGSW_B02_ArtsName, Absetzen,  UI,  0
+THS_WHGSW_B02_ArtsExp, (Enemy/Single Target/STR) Provoke enemy.,  UI,  0
+THS_WHGSW_B02_OverAttackFirst, Abse,  UI,  0
+THS_WHGSW_B02_OverAttackLast, Tzen,  UI,  0
+THS_WHGSW_B02_EX1_ArtsName, Schnell,  UI,  0
+THS_WHGSW_B02_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Provoke enemy. Own speed +8%.,  UI,  0
+THS_WHGSW_B02_EX1_OverAttackFirst, Sch,  UI,  0
+THS_WHGSW_B02_EX1_OverAttackLast, Nell,  UI,  0
+THS_WHGSW_B03_ArtsName, Upper Smash,  UI,  0
+THS_WHGSW_B03_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+THS_WHGSW_B03_OverAttackFirst, Upper,  UI,  0
+THS_WHGSW_B03_OverAttackLast, Smash,  UI,  0
+THS_WHGSW_B03_EX1_ArtsName, Super Smash,  UI,  0
+THS_WHGSW_B03_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] ,  UI,  0
+THS_WHGSW_B03_EX1_OverAttackFirst, Super,  UI,  0
+THS_WHGSW_B03_EX1_OverAttackLast, Smash,  UI,  0
+THS_WHGSW_B04_ArtsName, Vandalize,  UI,  0
+THS_WHGSW_B04_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+THS_WHGSW_B04_OverAttackFirst, Vand,  UI,  0
+THS_WHGSW_B04_OverAttackLast, Alize,  UI,  0
+THS_WHGSW_B04_EX1_ArtsName, Power Raiser,  UI,  0
+THS_WHGSW_B04_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Own attack power +20%.,  UI,  0
+THS_WHGSW_B04_EX1_OverAttackFirst, Power,  UI,  0
+THS_WHGSW_B04_EX1_OverAttackLast, Raise,  UI,  0
+THS_WHSSW_A01_ArtsName, Optical Slash,  UI,  0
+THS_WHSSW_A01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX),  UI,  0
+THS_WHSSW_A01_OverAttackFirst, Optical,  UI,  0
+THS_WHSSW_A01_OverAttackLast, Slash,  UI,  0
+THS_WHSSW_A01_EX1_ArtsName, Mistwalker,  UI,  0
+THS_WHSSW_A01_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] ,  UI,  0
+THS_WHSSW_A01_EX1_OverAttackFirst, Mist,  UI,  0
+THS_WHSSW_A01_EX1_OverAttackLast, Walker,  UI,  0
+THS_WHSSW_B01_EX1_ArtsName, Dark Centipede,  UI,  0
+THS_WHSSW_B01_EX1_ArtsExp, (Enemy/Single Target/Antiground/MOB) [Custom Tech] ,  UI,  0
+THS_WHSSW_B01_EX1_OverAttackFirst, Dark,  UI,  0
+THS_WHSSW_B01_EX1_OverAttackLast, Centipede,  UI,  0
+THS_WHSSW_B02_ArtsName, Shadow Reversal,  UI,  0
+THS_WHSSW_B02_ArtsExp, (Enemy/Single Target/Antiair/DEX) Stun chance 50%.,  UI,  0
+THS_WHSSW_B02_OverAttackFirst, Shadow,  UI,  0
+THS_WHSSW_B02_OverAttackLast, Reversal,  UI,  0
+THS_WHSSW_B02_EX1_ArtsName, Tigris Sever,  UI,  0
+THS_WHSSW_B02_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Stun chance 50%.,  UI,  0
+THS_WHSSW_B02_EX1_OverAttackFirst, Tigris,  UI,  0
+THS_WHSSW_B02_EX1_OverAttackLast, Sever,  UI,  0
+THS_WHSSW_B03_ArtsName, No Rhythm,  UI,  0
+THS_WHSSW_B03_ArtsExp, (Enemy/Single Target/Guaranteed Hit/MOB),  UI,  0
+THS_WHSSW_B03_OverAttackFirst, No,  UI,  0
+THS_WHSSW_B03_OverAttackLast, Rhythm,  UI,  0
+THS_WHSSW_B03_EX1_ArtsName, Running Slash,  UI,  0
+THS_WHSSW_B03_EX1_ArtsExp, (Enemy/Single Target/MOB) [Custom Tech] ,  UI,  0
+THS_WHSSW_B03_EX1_OverAttackFirst, Running,  UI,  0
+THS_WHSSW_B03_EX1_OverAttackLast, Slash,  UI,  0
+THS_WHSSW_B04_ArtsName, Scattered Petals,  UI,  0
+THS_WHSSW_B04_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+THS_WHSSW_B04_OverAttackFirst, Scattered,  UI,  0
+THS_WHSSW_B04_OverAttackLast, Petals,  UI,  0
+THS_WHSSW_B04_EX1_ArtsName, Disturbed Petals,  UI,  0
+THS_WHSSW_B04_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Confusion chance 50%.,  UI,  0
+THS_WHSSW_B04_EX1_OverAttackFirst, Disturbed,  UI,  0
+THS_WHSSW_B04_EX1_OverAttackLast, Petals,  UI,  0
+THS_WHPSW_A01_ArtsName, Aim,  UI,  0
+THS_WHPSW_A01_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+THS_WHPSW_A01_OverAttackFirst, A,  UI,  0
+THS_WHPSW_A01_OverAttackLast, Im,  UI,  0
+THS_WHPSW_A01_EX1_ArtsName, Divine Lancer,  UI,  0
+THS_WHPSW_A01_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] Target defense -10%.,  UI,  0
+THS_WHPSW_A01_EX1_OverAttackFirst, Divine,  UI,  0
+THS_WHPSW_A01_EX1_OverAttackLast, Lancer,  UI,  0
+THS_WHPSW_B01_ArtsName, Discord,  UI,  0
+THS_WHPSW_B01_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+THS_WHPSW_B01_OverAttackFirst, Dis,  UI,  0
+THS_WHPSW_B01_OverAttackLast, Cord,  UI,  0
+THS_WHPSW_B01_EX1_ArtsName, Surging Oscillation,  UI,  0
+THS_WHPSW_B01_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] ,  UI,  0
+THS_WHPSW_B01_EX1_OverAttackFirst, Surging,  UI,  0
+THS_WHPSW_B01_EX1_OverAttackLast, Oscillation,  UI,  0
+THS_WHPSW_B02_ArtsName, Stardust,  UI,  0
+THS_WHPSW_B02_ArtsExp, (Enemy/Single Target/Antiair/DEX) Paralysis chance 25%.,  UI,  0
+THS_WHPSW_B02_OverAttackFirst, Star,  UI,  0
+THS_WHPSW_B02_OverAttackLast, Dust,  UI,  0
+THS_WHPSW_B02_EX1_ArtsName, Spring Stardust,  UI,  0
+THS_WHPSW_B02_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Paralysis chance 25%.,  UI,  0
+THS_WHPSW_B02_EX1_OverAttackFirst, Spring,  UI,  0
+THS_WHPSW_B02_EX1_OverAttackLast, Stardust,  UI,  0
+THS_WHPSW_B03_ArtsName, Round Slicer,  UI,  0
+THS_WHPSW_B03_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+THS_WHPSW_B03_OverAttackFirst, Round,  UI,  0
+THS_WHPSW_B03_OverAttackLast, Slicer,  UI,  0
+THS_WHPSW_B03_EX1_ArtsName, Reaper,  UI,  0
+THS_WHPSW_B03_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] Stun chance 50%.,  UI,  0
+THS_WHPSW_B03_EX1_OverAttackFirst, Rea,  UI,  0
+THS_WHPSW_B03_EX1_OverAttackLast, Per,  UI,  0
+THS_WHPSW_B04_ArtsName, Triumvirate,  UI,  0
+THS_WHPSW_B04_ArtsExp, (Enemy/Single Target/DEX) Stun chance 50%.,  UI,  0
+THS_WHPSW_B04_OverAttackFirst, Trium,  UI,  0
+THS_WHPSW_B04_OverAttackLast, Virate,  UI,  0
+THS_WHPSW_B04_EX1_ArtsName, Tri-Spell Barrier,  UI,  0
+THS_WHPSW_B04_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] Target spell power -10%. Distract chance 50%. Own spell power +10%.,  UI,  0
+THS_WHPSW_B04_EX1_OverAttackFirst, Tri-Spell,  UI,  0
+THS_WHPSW_B04_EX1_OverAttackLast, Barrier,  UI,  0
+OHG_GL000_A01_ArtsName, Sharp Shot,  UI,  0
+OHG_GL000_A01_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+OHG_GL000_A01_OverAttackFirst, Sharp,  UI,  0
+OHG_GL000_A01_OverAttackLast, Shot,  UI,  0
+OHG_GL000_A01_EX1_ArtsName, Delayed Salvo,  UI,  0
+OHG_GL000_A01_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] ,  UI,  0
+OHG_GL000_A01_EX1_OverAttackFirst, Delayed,  UI,  0
+OHG_GL000_A01_EX1_OverAttackLast, Salvo,  UI,  0
+OHG_GL000_A01_EX2_ArtsName, Focusing Fire,  UI,  0
+OHG_GL000_A01_EX2_ArtsExp, (Enemy/Single Target/Antiair/DEX) Own spell power +10%.,  UI,  0
+OHG_GL000_A01_EX2_OverAttackFirst, Focusing,  UI,  0
+OHG_GL000_A01_EX2_OverAttackLast, Fire,  UI,  0
+OHG_GL000_A02_ArtsName, Threat Response,  UI,  0
+OHG_GL000_A02_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+OHG_GL000_A02_OverAttackFirst, Threat,  UI,  0
+OHG_GL000_A02_OverAttackLast, Response,  UI,  0
+OHG_GL000_A02_EX1_ArtsName, Deterring Discharge,  UI,  0
+OHG_GL000_A02_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Provoke enemy.,  UI,  0
+OHG_GL000_A02_EX1_OverAttackFirst, Deterring,  UI,  0
+OHG_GL000_A02_EX1_OverAttackLast, Discharge,  UI,  0
+OHG_GL000_A04_ArtsName, Quick Shot,  UI,  0
+OHG_GL000_A04_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+OHG_GL000_A04_OverAttackFirst, Quick,  UI,  0
+OHG_GL000_A04_OverAttackLast, Shot,  UI,  0
+OHG_GL000_A04_EX1_ArtsName, Falconfire,  UI,  0
+OHG_GL000_A04_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] ,  UI,  0
+OHG_GL000_A04_EX1_OverAttackFirst, Falcon,  UI,  0
+OHG_GL000_A04_EX1_OverAttackLast, Fire,  UI,  0
+OHG_GL000_A05_ArtsName, Stunning Shot,  UI,  0
+OHG_GL000_A05_ArtsExp, (Enemy/Single Target/Antiground/DEX) Stun chance 50%.,  UI,  0
+OHG_GL000_A05_OverAttackFirst, Stunning,  UI,  0
+OHG_GL000_A05_OverAttackLast, Shot,  UI,  0
+OHG_GL000_A05_EX1_ArtsName, Supporting Sweep,  UI,  0
+OHG_GL000_A05_EX1_ArtsExp, (Enemy/Single Target/Antiground/MOB) [Custom Tech] Stun chance 50%.,  UI,  0
+OHG_GL000_A05_EX1_OverAttackFirst, Supporting,  UI,  0
+OHG_GL000_A05_EX1_OverAttackLast, Sweep,  UI,  0
+OHG_GL000_B01_ArtsName, Covering Fire,  UI,  0
+OHG_GL000_B01_ArtsExp, (Ally/Other/Antiair/MOB),  UI,  0
+OHG_GL000_B01_OverAttackFirst, Covering,  UI,  0
+OHG_GL000_B01_OverAttackLast, Fire,  UI,  0
+OHG_GL000_B01_EX1_ArtsName, Run and Gun,  UI,  0
+OHG_GL000_B01_EX1_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX) [Custom Tech] ,  UI,  0
+OHG_GL000_B01_EX1_OverAttackFirst, Run and,  UI,  0
+OHG_GL000_B01_EX1_OverAttackLast, Gun,  UI,  0
+OHG_GL000_B03_ArtsName, Leading the People,  UI,  0
+OHG_GL000_B03_ArtsExp, (Enemy/Single Target/Antiair/DEX) When leading a United Attack, all participants' attack power +10%.,  UI,  0
+OHG_GL000_B03_OverAttackFirst, Leading,  UI,  0
+OHG_GL000_B03_OverAttackLast, The People,  UI,  0
+OHG_GL000_B03_EX1_ArtsName, Seulement Toi,  UI,  0
+OHG_GL000_B03_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] When leading a United Attack, all participants' attack power +20%.,  UI,  0
+OHG_GL000_B03_EX1_OverAttackFirst, Seulement,  UI,  0
+OHG_GL000_B03_EX1_OverAttackLast, Toi,  UI,  0
+OHG_GL000_B04_ArtsName, Mightier than the Sword,  UI,  0
+OHG_GL000_B04_ArtsExp, (Enemy/Single Target/Antiair/DEX) Target attack power -10%.,  UI,  0
+OHG_GL000_B04_OverAttackFirst, Mightier Than,  UI,  0
+OHG_GL000_B04_OverAttackLast, The Sword,  UI,  0
+OHG_GL000_B04_EX1_ArtsName, Odious Bullet,  UI,  0
+OHG_GL000_B04_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Target attack power -10%. Provoke enemy.,  UI,  0
+OHG_GL000_B04_EX1_OverAttackFirst, Odious,  UI,  0
+OHG_GL000_B04_EX1_OverAttackLast, Bullet,  UI,  0
+OHG_GL000_B05_ArtsName, One for One,  UI,  0
+OHG_GL000_B05_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+OHG_GL000_B05_OverAttackFirst, One,  UI,  0
+OHG_GL000_B05_OverAttackLast, For One,  UI,  0
+OHG_GL000_B05_EX1_ArtsName, Anti-Material Shot,  UI,  0
+OHG_GL000_B05_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] ,  UI,  0
+OHG_GL000_B05_EX1_OverAttackFirst, Anti-,  UI,  0
+OHG_GL000_B05_EX1_OverAttackLast, Material Shot,  UI,  0
+OHG_GL000_B06_ArtsName, Sleight Shot,  UI,  0
+OHG_GL000_B06_ArtsExp, (Enemy/Single Target/Antiair/DEX) Distract chance 50%.,  UI,  0
+OHG_GL000_B06_OverAttackFirst, Sleight,  UI,  0
+OHG_GL000_B06_OverAttackLast, Shot,  UI,  0
+OHG_GL000_B06_EX1_ArtsName, Hazefire,  UI,  0
+OHG_GL000_B06_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Distract chance 50%.,  UI,  0
+OHG_GL000_B06_EX1_OverAttackFirst, Haze,  UI,  0
+OHG_GL000_B06_EX1_OverAttackLast, Fire,  UI,  0
+OHG_GL000_B08_ArtsName, Bounding Shot,  UI,  0
+OHG_GL000_B08_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+OHG_GL000_B08_OverAttackFirst, Bounding,  UI,  0
+OHG_GL000_B08_OverAttackLast, Shot,  UI,  0
+OHG_GL000_B08_EX1_ArtsName, Fallen Shell,  UI,  0
+OHG_GL000_B08_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] ,  UI,  0
+OHG_GL000_B08_EX1_OverAttackFirst, Fallen,  UI,  0
+OHG_GL000_B08_EX1_OverAttackLast, Shell,  UI,  0
+OHG_GLTWO_A01_ArtsName, Switch,  UI,  0
+OHG_GLTWO_A01_ArtsExp, (Enemy/Random Target/Antiair/DEX),  UI,  0
+OHG_GLTWO_A01_OverAttackFirst, Swi,  UI,  0
+OHG_GLTWO_A01_OverAttackLast, Tch,  UI,  0
+OHG_GLTWO_A02_ArtsName, Dual-Wield Wild Shot,  UI,  0
+OHG_GLTWO_A02_ArtsExp, (Enemy/All Targets/Antiair/DEX),  UI,  0
+OHG_GLTWO_A02_OverAttackFirst, Dual-Wield,  UI,  0
+OHG_GLTWO_A02_OverAttackLast, Wild Shot,  UI,  0
+OHG_GLTWO_B01_ArtsName, Desperation,  UI,  0
+OHG_GLTWO_B01_ArtsExp, (Enemy/All Targets/Antiair/DEX),  UI,  0
+OHG_GLTWO_B01_OverAttackFirst, Desper,  UI,  0
+OHG_GLTWO_B01_OverAttackLast, Ation,  UI,  0
+OHG_SG000_B01_ArtsName, Crossfire,  UI,  0
+OHG_SG000_B01_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+OHG_SG000_B01_OverAttackFirst, Cross,  UI,  0
+OHG_SG000_B01_OverAttackLast, Fire,  UI,  0
+OHG_SG000_B02_ArtsName, Ascension,  UI,  0
+OHG_SG000_B02_ArtsExp, (Enemy/Single Target/Antiair/DEX) Stun chance 50%.,  UI,  0
+OHG_SG000_B02_OverAttackFirst, Ascen,  UI,  0
+OHG_SG000_B02_OverAttackLast, Sion,  UI,  0
+OHG_SG000_B03_ArtsName, Millionaire,  UI,  0
+OHG_SG000_B03_ArtsExp, (Enemy/Random Target/Antiair/DEX),  UI,  0
+OHG_SG000_B03_OverAttackFirst, Millio,  UI,  0
+OHG_SG000_B03_OverAttackLast, Naire,  UI,  0
+THG_GH000_A01_ArtsName, Buckshot,  UI,  0
+THG_GH000_A01_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+THG_GH000_A01_OverAttackFirst, Buck,  UI,  0
+THG_GH000_A01_OverAttackLast, Shot,  UI,  0
+THG_GH000_A01_EX1_ArtsName, Clearing Bullet,  UI,  0
+THG_GH000_A01_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] ,  UI,  0
+THG_GH000_A01_EX1_OverAttackFirst, Clearing,  UI,  0
+THG_GH000_A01_EX1_OverAttackLast, Bullet,  UI,  0
+THG_GH000_A01_EX2_ArtsName, Focused Buckshot,  UI,  0
+THG_GH000_A01_EX2_ArtsExp, (Enemy/Single Target/Antiair/DEX) Own spell power +20%.,  UI,  0
+THG_GH000_A01_EX2_OverAttackFirst, Focused,  UI,  0
+THG_GH000_A01_EX2_OverAttackLast, Buckshot,  UI,  0
+THG_GH000_A02_ArtsName, Shockwave,  UI,  0
+THG_GH000_A02_ArtsExp, (Enemy/Single Target/Antiground/DEX) Target speed -8%.,  UI,  0
+THG_GH000_A02_OverAttackFirst, Shock,  UI,  0
+THG_GH000_A02_OverAttackLast, Wave,  UI,  0
+THG_GH000_A02_EX1_ArtsName, Earth Dragon,  UI,  0
+THG_GH000_A02_EX1_ArtsExp, (Enemy/Single Target/Antiground/DEX) [Custom Tech] Target speed -8%.,  UI,  0
+THG_GH000_A02_EX1_OverAttackFirst, Earth,  UI,  0
+THG_GH000_A02_EX1_OverAttackLast, Dragon,  UI,  0
+THG_GH000_A03_ArtsName, Sunlight Shower,  UI,  0
+THG_GH000_A03_ArtsExp, (Enemy/Single Target/Antiair/DEX) Provoke enemy.,  UI,  0
+THG_GH000_A03_OverAttackFirst, Sunlight,  UI,  0
+THG_GH000_A03_OverAttackLast, Shower,  UI,  0
+THG_GH000_A03_EX1_ArtsName, Starshell,  UI,  0
+THG_GH000_A03_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Provoke enemy. Own defense +10%.,  UI,  0
+THG_GH000_A03_EX1_OverAttackFirst, Star,  UI,  0
+THG_GH000_A03_EX1_OverAttackLast, Shell,  UI,  0
+THG_GH000_A04_ArtsName, Chestbuster,  UI,  0
+THG_GH000_A04_ArtsExp, (Enemy/Single Target/Antiair/DEX) Target defense -10%.,  UI,  0
+THG_GH000_A04_OverAttackFirst, Chest,  UI,  0
+THG_GH000_A04_OverAttackLast, Buster,  UI,  0
+THG_GH000_A04_EX1_ArtsName, Spirit Buster,  UI,  0
+THG_GH000_A04_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Target defense -10%.,  UI,  0
+THG_GH000_A04_EX1_OverAttackFirst, Spirit,  UI,  0
+THG_GH000_A04_EX1_OverAttackLast, Buster,  UI,  0
+THG_GH000_B01_ArtsName, Trigger-Happy,  UI,  0
+THG_GH000_B01_ArtsExp, (Enemy/Single Target/Antiair/DEX) Own attack power +10%.,  UI,  0
+THG_GH000_B01_OverAttackFirst, Trigger-,  UI,  0
+THG_GH000_B01_OverAttackLast, Happy,  UI,  0
+THG_GH000_B01_EX1_ArtsName, Quick-Happy,  UI,  0
+THG_GH000_B01_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Own attack power +10%.,  UI,  0
+THG_GH000_B01_EX1_OverAttackFirst, Quick-,  UI,  0
+THG_GH000_B01_EX1_OverAttackLast, Happy,  UI,  0
+THG_GH000_B02_ArtsName, Suppression,  UI,  0
+THG_GH000_B02_ArtsExp, (Enemy/All Targets/Antiair/DEX),  UI,  0
+THG_GH000_B02_OverAttackFirst, Sup,  UI,  0
+THG_GH000_B02_OverAttackLast, Pression,  UI,  0
+THG_GH000_B02_EX1_ArtsName, Full Suppression,  UI,  0
+THG_GH000_B02_EX1_ArtsExp, (Enemy/All Targets/Antiair/DEX) [Custom Tech] ,  UI,  0
+THG_GH000_B02_EX1_OverAttackFirst, Full,  UI,  0
+THG_GH000_B02_EX1_OverAttackLast, Suppression,  UI,  0
+THG_GHMAC_A01_ArtsName, Gatling Cutter,  UI,  0
+THG_GHMAC_A01_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+THG_GHMAC_A01_OverAttackFirst, Gatling,  UI,  0
+THG_GHMAC_A01_OverAttackLast, Cutter,  UI,  0
+THG_GHMAC_A01_EX1_ArtsName, Rapid Cutter,  UI,  0
+THG_GHMAC_A01_EX1_ArtsExp, (Enemy/Single Target/Antiair/MOB) [Custom Tech] ,  UI,  0
+THG_GHMAC_A01_EX1_OverAttackFirst, Rapid,  UI,  0
+THG_GHMAC_A01_EX1_OverAttackLast, Cutter,  UI,  0
+THG_GHMAC_B01_ArtsName, Bombarding Fire,  UI,  0
+THG_GHMAC_B01_ArtsExp, (Enemy/All Targets/Antiair/DEX) Darkness chance 50%.,  UI,  0
+THG_GHMAC_B01_OverAttackFirst, Bombarding,  UI,  0
+THG_GHMAC_B01_OverAttackLast, Fire,  UI,  0
+THG_GHMAC_B01_EX1_ArtsName, Coordinated Bombardment,  UI,  0
+THG_GHMAC_B01_EX1_ArtsExp, (Enemy/All Targets/Antiair/DEX) [Custom Tech] Darkness chance 50%.,  UI,  0
+THG_GHMAC_B01_EX1_OverAttackFirst, Coordinated,  UI,  0
+THG_GHMAC_B01_EX1_OverAttackLast, Bombard,  UI,  0
+THG_GHMAC_B02_ArtsName, Lead Tempest,  UI,  0
+THG_GHMAC_B02_ArtsExp, (Enemy/Random Target/Antiair/DEX),  UI,  0
+THG_GHMAC_B02_OverAttackFirst, Lead,  UI,  0
+THG_GHMAC_B02_OverAttackLast, Tempest,  UI,  0
+THG_GHMAC_B02_EX1_ArtsName, Provocative Revolt,  UI,  0
+THG_GHMAC_B02_EX1_ArtsExp, (Enemy/Random Target/Antiair/DEX) [Custom Tech] Provoke enemy.,  UI,  0
+THG_GHMAC_B02_EX1_OverAttackFirst, Provocative,  UI,  0
+THG_GHMAC_B02_EX1_OverAttackLast, Revolt,  UI,  0
+THG_GHFLA_A01_ArtsName, Flame March,  UI,  0
+THG_GHFLA_A01_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+THG_GHFLA_A01_OverAttackFirst, Flame,  UI,  0
+THG_GHFLA_A01_OverAttackLast, March,  UI,  0
+THG_GHFLA_A01_EX1_ArtsName, Counterfire,  UI,  0
+THG_GHFLA_A01_EX1_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX) [Custom Tech] ,  UI,  0
+THG_GHFLA_A01_EX1_OverAttackFirst, Counter,  UI,  0
+THG_GHFLA_A01_EX1_OverAttackLast, Fire,  UI,  0
+THG_GHFLA_B01_ArtsName, Fireball,  UI,  0
+THG_GHFLA_B01_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+THG_GHFLA_B01_OverAttackFirst, Fire,  UI,  0
+THG_GHFLA_B01_OverAttackLast, Ball,  UI,  0
+THG_GHFLA_B01_EX1_ArtsName, Ignition,  UI,  0
+THG_GHFLA_B01_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] ,  UI,  0
+THG_GHFLA_B01_EX1_OverAttackFirst, Igni,  UI,  0
+THG_GHFLA_B01_EX1_OverAttackLast, Tion,  UI,  0
+THG_GHFLA_B02_ArtsName, Scorch,  UI,  0
+THG_GHFLA_B02_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+THG_GHFLA_B02_OverAttackFirst, Sco,  UI,  0
+THG_GHFLA_B02_OverAttackLast, Rch,  UI,  0
+THG_GHFLA_B02_EX1_ArtsName, Conditional Scorch,  UI,  0
+THG_GHFLA_B02_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] ,  UI,  0
+THG_GHFLA_B02_EX1_OverAttackFirst, Conditional,  UI,  0
+THG_GHFLA_B02_EX1_OverAttackLast, Scorch,  UI,  0
+THG_GHELE_A01_ArtsName, Magnetic Storm,  UI,  0
+THG_GHELE_A01_ArtsExp, (Enemy/All Targets/Antiair/DEX),  UI,  0
+THG_GHELE_A01_OverAttackFirst, Magnetic,  UI,  0
+THG_GHELE_A01_OverAttackLast, Storm,  UI,  0
+THG_GHELE_A01_EX1_ArtsName, Magnetic Destruction,  UI,  0
+THG_GHELE_A01_EX1_ArtsExp, (Enemy/All Targets/Antiair/DEX) [Custom Tech] Mech stun chance 50%.,  UI,  0
+THG_GHELE_A01_EX1_OverAttackFirst, Magnetic,  UI,  0
+THG_GHELE_A01_EX1_OverAttackLast, Destruction,  UI,  0
+THG_GHELE_A02_ArtsName, Stunshock,  UI,  0
+THG_GHELE_A02_ArtsExp, (Enemy/Single Target/Antiair/DEX) Stun chance 50%.,  UI,  0
+THG_GHELE_A02_OverAttackFirst, Stun,  UI,  0
+THG_GHELE_A02_OverAttackLast, Shock,  UI,  0
+THG_GHELE_A02_EX1_ArtsName, Electric Stranglehold,  UI,  0
+THG_GHELE_A02_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Stun chance 75%.,  UI,  0
+THG_GHELE_A02_EX1_OverAttackFirst, Electric,  UI,  0
+THG_GHELE_A02_EX1_OverAttackLast, Stranglehold,  UI,  0
+THG_GHELE_B01_ArtsName, Plasma Shot,  UI,  0
+THG_GHELE_B01_ArtsExp, (Enemy/Single Target/Antiair/DEX) Paralysis chance 50%.,  UI,  0
+THG_GHELE_B01_OverAttackFirst, Plasma,  UI,  0
+THG_GHELE_B01_OverAttackLast, Shot,  UI,  0
+THG_GHELE_B01_EX1_ArtsName, Shutdown,  UI,  0
+THG_GHELE_B01_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Mech paralysis chance 50%.,  UI,  0
+THG_GHELE_B01_EX1_OverAttackFirst, Shut,  UI,  0
+THG_GHELE_B01_EX1_OverAttackLast, Down,  UI,  0
+THG_GHBOM_A01_ArtsName, Grand Slam,  UI,  0
+THG_GHBOM_A01_ArtsExp, (Enemy/All Targets/Antiground/DEX),  UI,  0
+THG_GHBOM_A01_OverAttackFirst, Grand,  UI,  0
+THG_GHBOM_A01_OverAttackLast, Slam,  UI,  0
+THG_GHBOM_A01_EX1_ArtsName, Bug Hunt,  UI,  0
+THG_GHBOM_A01_EX1_ArtsExp, (Enemy/All Targets/Antiground/DEX) [Custom Tech] ,  UI,  0
+THG_GHBOM_A01_EX1_OverAttackFirst, Bug,  UI,  0
+THG_GHBOM_A01_EX1_OverAttackLast, Hunt,  UI,  0
+THG_GHBOM_B01_ArtsName, Break Shelter,  UI,  0
+THG_GHBOM_B01_ArtsExp, (Enemy/Single Target/Antiair/DEX) Target defense -10%.,  UI,  0
+THG_GHBOM_B01_OverAttackFirst, Break,  UI,  0
+THG_GHBOM_B01_OverAttackLast, Shelter,  UI,  0
+THG_GHBOM_B01_EX1_ArtsName, Final Break,  UI,  0
+THG_GHBOM_B01_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Target defense -10%.,  UI,  0
+THG_GHBOM_B01_EX1_OverAttackFirst, Final,  UI,  0
+THG_GHBOM_B01_EX1_OverAttackLast, Break,  UI,  0
+THG_GHBOM_B02_ArtsName, Daisy Cutter,  UI,  0
+THG_GHBOM_B02_ArtsExp, (Enemy/All Targets/Antiair/DEX),  UI,  0
+THG_GHBOM_B02_OverAttackFirst, Daisy,  UI,  0
+THG_GHBOM_B02_OverAttackLast, Cutter,  UI,  0
+THG_GHBOM_B02_EX1_ArtsName, Daisy Chain,  UI,  0
+THG_GHBOM_B02_EX1_ArtsExp, (Enemy/All Targets/Antiair/DEX) [Custom Tech] ,  UI,  0
+THG_GHBOM_B02_EX1_OverAttackFirst, Daisy,  UI,  0
+THG_GHBOM_B02_EX1_OverAttackLast, Chain,  UI,  0
+THG_GHCHE_A01_ArtsName, Tear Gas,  UI,  0
+THG_GHCHE_A01_ArtsExp, (Enemy/Single Target/Antiair/DEX) Target spell power -10%.,  UI,  0
+THG_GHCHE_A01_OverAttackFirst, Tear,  UI,  0
+THG_GHCHE_A01_OverAttackLast, Gas,  UI,  0
+THG_GHCHE_A01_EX1_ArtsName, Anti-Elemental,  UI,  0
+THG_GHCHE_A01_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Target spell power -20%.,  UI,  0
+THG_GHCHE_A01_EX1_OverAttackFirst, Anti-,  UI,  0
+THG_GHCHE_A01_EX1_OverAttackLast, Elemental,  UI,  0
+THG_GHCHE_B01_ArtsName, Poisonous Spray,  UI,  0
+THG_GHCHE_B01_ArtsExp, (Enemy/Single Target/Antiair/DEX) Poison chance 75%.,  UI,  0
+THG_GHCHE_B01_OverAttackFirst, Poisonous,  UI,  0
+THG_GHCHE_B01_OverAttackLast, Spray,  UI,  0
+THG_GHCHE_B01_EX1_ArtsName, Anti-Beast,  UI,  0
+THG_GHCHE_B01_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Poison chance 50%.,  UI,  0
+THG_GHCHE_B01_EX1_OverAttackFirst, Anti-,  UI,  0
+THG_GHCHE_B01_EX1_OverAttackLast, Beast,  UI,  0
+THG_GHCHE_B02_ArtsName, Flash Freeze,  UI,  0
+THG_GHCHE_B02_ArtsExp, (Enemy/Single Target/Antiair/DEX) Target attack power -10%.,  UI,  0
+THG_GHCHE_B02_OverAttackFirst, Flash,  UI,  0
+THG_GHCHE_B02_OverAttackLast, Freeze,  UI,  0
+THG_GHCHE_B02_EX1_ArtsName, Anti-Reptile,  UI,  0
+THG_GHCHE_B02_EX1_ArtsExp, (Enemy/Single Target/Antiair/DEX) [Custom Tech] Target attack power -20%.,  UI,  0
+THG_GHCHE_B02_EX1_OverAttackFirst, Anti-,  UI,  0
+THG_GHCHE_B02_EX1_OverAttackLast, Reptile,  UI,  0
+MAR_MA000_A01_ArtsName, Punch,  UI,  0
+MAR_MA000_A01_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MAR_MA000_A01_OverAttackFirst, Pun,  UI,  0
+MAR_MA000_A01_OverAttackLast, Ch,  UI,  0
+MAR_MA000_A01_EX1_ArtsName, Rapid Fist,  UI,  0
+MAR_MA000_A01_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] ,  UI,  0
+MAR_MA000_A01_EX1_OverAttackFirst, Rapid,  UI,  0
+MAR_MA000_A01_EX1_OverAttackLast, Fist,  UI,  0
+MAR_MA000_A07_ArtsName, Pressure Point,  UI,  0
+MAR_MA000_A07_ArtsExp, (Enemy/Single Target/DEX) Target defense -10%.,  UI,  0
+MAR_MA000_A07_OverAttackFirst, Pressure,  UI,  0
+MAR_MA000_A07_OverAttackLast, Point,  UI,  0
+MAR_MA000_A07_EX1_ArtsName, Mighty Inch,  UI,  0
+MAR_MA000_A07_EX1_ArtsExp, (Enemy/Single Target/DEX) [Custom Tech] Target defense -10%.,  UI,  0
+MAR_MA000_A07_EX1_OverAttackFirst, Mighty,  UI,  0
+MAR_MA000_A07_EX1_OverAttackLast, Inch,  UI,  0
+MAR_MA000_B03_ArtsName, Raksha,  UI,  0
+MAR_MA000_B03_ArtsExp, (Enemy/Single Target/STR) Provoke enemy.,  UI,  0
+MAR_MA000_B03_OverAttackFirst, Rak,  UI,  0
+MAR_MA000_B03_OverAttackLast, Sha,  UI,  0
+MAR_MA000_B03_EX1_ArtsName, Counter Raksha,  UI,  0
+MAR_MA000_B03_EX1_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX) [Custom Tech] Provoke enemy.,  UI,  0
+MAR_MA000_B03_EX1_OverAttackFirst, Counter,  UI,  0
+MAR_MA000_B03_EX1_OverAttackLast, Raksha,  UI,  0
+MAR_MA000_B06_ArtsName, Shenlong Firefist,  UI,  0
+MAR_MA000_B06_ArtsExp, (Enemy/Single Target/STR) Own attack power +10%.,  UI,  0
+MAR_MA000_B06_OverAttackFirst, Shenlong,  UI,  0
+MAR_MA000_B06_OverAttackLast, Firefist,  UI,  0
+MAR_MA000_B06_EX1_ArtsName, Fulong Firefist,  UI,  0
+MAR_MA000_B06_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] Own attack power +10%.,  UI,  0
+MAR_MA000_B06_EX1_OverAttackFirst, Fulong,  UI,  0
+MAR_MA000_B06_EX1_OverAttackLast, Firefist,  UI,  0
+MAR_MA000_B08_ArtsName, Guanyin,  UI,  0
+MAR_MA000_B08_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MAR_MA000_B08_OverAttackFirst, Guan,  UI,  0
+MAR_MA000_B08_OverAttackLast, Yin,  UI,  0
+MAR_MA000_B08_EX1_ArtsName, Sahasrabhuja,  UI,  0
+MAR_MA000_B08_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] ,  UI,  0
+MAR_MA000_B08_EX1_OverAttackFirst, Sahas,  UI,  0
+MAR_MA000_B08_EX1_OverAttackLast, Rabhuja!,  UI,  0
+MAR_MA000_A02_ArtsName, Kick,  UI,  0
+MAR_MA000_A02_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MAR_MA000_A02_OverAttackFirst, K,  UI,  0
+MAR_MA000_A02_OverAttackLast, Ick,  UI,  0
+MAR_MA000_A02_EX1_ArtsName, Raised Side Kick,  UI,  0
+MAR_MA000_A02_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] ,  UI,  0
+MAR_MA000_A02_EX1_OverAttackFirst, Raised,  UI,  0
+MAR_MA000_A02_EX1_OverAttackLast, Side Kick,  UI,  0
+MAR_MA000_A08_ArtsName, Thunder Kick,  UI,  0
+MAR_MA000_A08_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+MAR_MA000_A08_OverAttackFirst, Thunder,  UI,  0
+MAR_MA000_A08_OverAttackLast, Kick,  UI,  0
+MAR_MA000_A08_EX1_ArtsName, Blitz Bolt,  UI,  0
+MAR_MA000_A08_EX1_ArtsExp, (Enemy/Single Target/MOB) [Custom Tech] ,  UI,  0
+MAR_MA000_A08_EX1_OverAttackFirst, Blitz,  UI,  0
+MAR_MA000_A08_EX1_OverAttackLast, Bolt,  UI,  0
+MAR_MA000_B01_ArtsName, Flash Flood,  UI,  0
+MAR_MA000_B01_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MAR_MA000_B01_OverAttackFirst, Flash,  UI,  0
+MAR_MA000_B01_OverAttackLast, Flood,  UI,  0
+MAR_MA000_B01_EX1_ArtsName, Tracking Flood,  UI,  0
+MAR_MA000_B01_EX1_ArtsExp, (Enemy/Single Target/MOB) [Custom Tech] ,  UI,  0
+MAR_MA000_B01_EX1_OverAttackFirst, Tracking,  UI,  0
+MAR_MA000_B01_EX1_OverAttackLast, Flood,  UI,  0
+MAR_MA000_B04_ArtsName, Triple Dragon,  UI,  0
+MAR_MA000_B04_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MAR_MA000_B04_OverAttackFirst, Triple,  UI,  0
+MAR_MA000_B04_OverAttackLast, Dragon,  UI,  0
+MAR_MA000_B04_EX1_ArtsName, Draconic Maw,  UI,  0
+MAR_MA000_B04_EX1_ArtsExp, (Enemy/Single Target/STR) [Custom Tech] ,  UI,  0
+MAR_MA000_B04_EX1_OverAttackFirst, Draconic,  UI,  0
+MAR_MA000_B04_EX1_OverAttackLast, Maw,  UI,  0
+MAR_MA000_B07_ArtsName, Aerial Rush,  UI,  0
+MAR_MA000_B07_ArtsExp, (Enemy/Single Target/Antiair/MOB),  UI,  0
+MAR_MA000_B07_OverAttackFirst, Aerial,  UI,  0
+MAR_MA000_B07_OverAttackLast, Rush,  UI,  0
+MAR_MA000_B07_EX1_ArtsName, Axel Rush,  UI,  0
+MAR_MA000_B07_EX1_ArtsExp, (Enemy/Single Target/Antiair/MOB) [Custom Tech] Own speed +8%.,  UI,  0
+MAR_MA000_B07_EX1_OverAttackFirst, Axel,  UI,  0
+MAR_MA000_B07_EX1_OverAttackLast, Rush,  UI,  0
+MAR_MA000_A04_ArtsName, Tackle,  UI,  0
+MAR_MA000_A04_ArtsExp, (Enemy/Single Target/END),  UI,  0
+MAR_MA000_A04_OverAttackFirst, Tac,  UI,  0
+MAR_MA000_A04_OverAttackLast, Kle,  UI,  0
+MAR_MA000_A04_EX1_ArtsName, Leg Dive,  UI,  0
+MAR_MA000_A04_EX1_ArtsExp, (Enemy/Single Target/END) [Custom Tech] ,  UI,  0
+MAR_MA000_A04_EX1_OverAttackFirst, Leg,  UI,  0
+MAR_MA000_A04_EX1_OverAttackLast, Dive,  UI,  0
+MAR_MA000_A06_ArtsName, Flying Body Press,  UI,  0
+MAR_MA000_A06_ArtsExp, (Enemy/Single Target/END),  UI,  0
+MAR_MA000_A06_OverAttackFirst, Flying,  UI,  0
+MAR_MA000_A06_OverAttackLast, Body Press,  UI,  0
+MAR_MA000_A06_EX1_ArtsName, Spiral Splash,  UI,  0
+MAR_MA000_A06_EX1_ArtsExp, (Enemy/Single Target/END) [Custom Tech] ,  UI,  0
+MAR_MA000_A06_EX1_OverAttackFirst, Spiral,  UI,  0
+MAR_MA000_A06_EX1_OverAttackLast, Splash,  UI,  0
+MAR_MA000_A09_ArtsName, Kawazu Throw,  UI,  0
+MAR_MA000_A09_ArtsExp, (Enemy/Single Target/Antiground/END) Stun chance 50%.,  UI,  0
+MAR_MA000_A09_OverAttackFirst, Kawazu,  UI,  0
+MAR_MA000_A09_OverAttackLast, Throw,  UI,  0
+MAR_MA000_A09_EX1_ArtsName, Leg Sweep,  UI,  0
+MAR_MA000_A09_EX1_ArtsExp, (Enemy/Single Target/Antiground/DEX) [Custom Tech] Stun chance 50%.,  UI,  0
+MAR_MA000_A09_EX1_OverAttackFirst, Leg,  UI,  0
+MAR_MA000_A09_EX1_OverAttackLast, Sweep,  UI,  0
+MAR_MA000_B02_ArtsName, K.O. Throw,  UI,  0
+MAR_MA000_B02_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX),  UI,  0
+MAR_MA000_B02_OverAttackFirst, K.O.,  UI,  0
+MAR_MA000_B02_OverAttackLast, Throw,  UI,  0
+MAR_MA000_B02_EX1_ArtsName, Surefire Throw,  UI,  0
+MAR_MA000_B02_EX1_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX) [Custom Tech] ,  UI,  0
+MAR_MA000_B02_EX1_OverAttackFirst, Surefire,  UI,  0
+MAR_MA000_B02_EX1_OverAttackLast, Throw,  UI,  0
+MAR_MA000_B09_ArtsName, Windwhistle,  UI,  0
+MAR_MA000_B09_ArtsExp, (Enemy/Single Target/END) Remove enmity. Provoke enemy.,  UI,  0
+MAR_MA000_B09_OverAttackFirst, Wind,  UI,  0
+MAR_MA000_B09_OverAttackLast, Whistle,  UI,  0
+MAR_MA000_B09_EX1_ArtsName, Galewhistle,  UI,  0
+MAR_MA000_B09_EX1_ArtsExp, (Enemy/Single Target/END) [Custom Tech] Remove enmity. Provoke enemy.,  UI,  0
+MAR_MA000_B09_EX1_OverAttackFirst, Gale,  UI,  0
+MAR_MA000_B09_EX1_OverAttackLast, Whistle,  UI,  0
+MCH_M901_A01a_ArtsName, Saw,  UI,  0
+MCH_M901_A01a_ArtsExp, (Enemy/Single Target/STR) Sudden death chance 25%.,  UI,  0
+MCH_M901_A01a_OverAttackFirst, S,  UI,  0
+MCH_M901_A01a_OverAttackLast, Aw,  UI,  0
+MCH_M905_B01a_ArtsName, Cosmic Rave,  UI,  0
+MCH_M905_B01a_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+MCH_M905_B01a_OverAttackFirst, Cosmic,  UI,  0
+MCH_M905_B01a_OverAttackLast, Rave,  UI,  0
+MCH_M90X_A01a_ArtsName, Blade,  UI,  0
+MCH_M90X_A01a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MCH_M90X_A01a_OverAttackFirst, B,  UI,  0
+MCH_M90X_A01a_OverAttackLast, Lade,  UI,  0
+MCH_M90X_A02a_ArtsName, Multi-Slash,  UI,  0
+MCH_M90X_A02a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MCH_M90X_A02a_OverAttackFirst, Multi-,  UI,  0
+MCH_M90X_A02a_OverAttackLast, Slash,  UI,  0
+MCH_M90X_A03a_ArtsName, Frenetic Advance,  UI,  0
+MCH_M90X_A03a_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+MCH_M90X_A03a_OverAttackFirst, Frenetic,  UI,  0
+MCH_M90X_A03a_OverAttackLast, Advance,  UI,  0
+MCH_M90X_A04a_ArtsName, Self-Destruct,  UI,  0
+MCH_M90X_A04a_ArtsExp, (Enemy/Single Target) Detonate self to defeat an enemy.,  UI,  0
+MCH_M90X_A04a_OverAttackFirst, Self-,  UI,  0
+MCH_M90X_A04a_OverAttackLast, Destruct,  UI,  0
+MCH_M90X_A05a_ArtsName, Shock Sword,  UI,  0
+MCH_M90X_A05a_ArtsExp, (Enemy/Single Target/Antiair/STR) Stun chance 25%. Mech stun chance 50%.,  UI,  0
+MCH_M90X_A05a_OverAttackFirst, Shock,  UI,  0
+MCH_M90X_A05a_OverAttackLast, Sword,  UI,  0
+MCH_M90X_A06a_ArtsName, Guardian Program,  UI,  0
+MCH_M90X_A06a_ArtsExp, (Ally/Other) Take an attack intended for another ally. Reduces damage taken.,  UI,  0
+MCH_M90X_A06a_OverAttackFirst, Guardian,  UI,  0
+MCH_M90X_A06a_OverAttackLast, Program,  UI,  0
+MCH_M90X_B01a_ArtsName, Pop Knight,  UI,  0
+MCH_M90X_B01a_ArtsExp, (Enemy/All Targets/Antiair/INT),  UI,  0
+MCH_M90X_B01a_OverAttackFirst, Pop,  UI,  0
+MCH_M90X_B01a_OverAttackLast, Knight,  UI,  0
+MCH_M90X_B02a_ArtsName, Hammer,  UI,  0
+MCH_M90X_B02a_ArtsExp, (Enemy/Single Target/STR) Paralysis chance 25%. Mech paralysis chance 50%.,  UI,  0
+MCH_M90X_B02a_OverAttackFirst, Ham,  UI,  0
+MCH_M90X_B02a_OverAttackLast, Mer,  UI,  0
+MCH_M90X_B03a_ArtsName, Photon Sword,  UI,  0
+MCH_M90X_B03a_ArtsExp, (Enemy/Single Target/Antiair/STR) Darkness chance 50%.,  UI,  0
+MCH_M90X_B03a_OverAttackFirst, Photon,  UI,  0
+MCH_M90X_B03a_OverAttackLast, Sword,  UI,  0
+MCH_M90X_B04a_ArtsName, Divine Might,  UI,  0
+MCH_M90X_B04a_ArtsExp, (Enemy/Single Target/MOB) Stun chance 50%. Mech stun chance 75%.,  UI,  0
+MCH_M90X_B04a_OverAttackFirst, Divine,  UI,  0
+MCH_M90X_B04a_OverAttackLast, Might,  UI,  0
+MCH_M90X_B05a_ArtsName, Moon Scraper,  UI,  0
+MCH_M90X_B05a_ArtsExp, (Enemy/All Targets/STR),  UI,  0
+MCH_M90X_B05a_OverAttackFirst, Moon,  UI,  0
+MCH_M90X_B05a_OverAttackLast, Scraper,  UI,  0
+MCH_M90X_B06a_ArtsName, Tiger Break,  UI,  0
+MCH_M90X_B06a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MCH_M90X_B06a_OverAttackFirst, Tiger,  UI,  0
+MCH_M90X_B06a_OverAttackLast, Break,  UI,  0
+MCH_M903_B01a_ArtsName, Mech Sonata,  UI,  0
+MCH_M903_B01a_ArtsExp, (Enemy/All Targets/Antiair/INT) Mech stun chance 50%.,  UI,  0
+MCH_M903_B01a_OverAttackFirst, Mech,  UI,  0
+MCH_M903_B01a_OverAttackLast, Sonata,  UI,  0
+MCH_M904_B01a_ArtsName, Quad Missile,  UI,  0
+MCH_M904_B01a_ArtsExp, (Enemy/Random Target/Antiair/DEX),  UI,  0
+MCH_M904_B01a_OverAttackFirst, Quad,  UI,  0
+MCH_M904_B01a_OverAttackLast, Missile,  UI,  0
+MCH_M902_B01a_ArtsName, Frost Pillar,  UI,  0
+MCH_M902_B01a_ArtsExp, (Enemy/Random Target/Antiair/DEX),  UI,  0
+MCH_M902_B01a_OverAttackFirst, Frost,  UI,  0
+MCH_M902_B01a_OverAttackLast, Pillar,  UI,  0
+MCH_M90Y_A01a_ArtsName, Water Cannon,  UI,  0
+MCH_M90Y_A01a_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+MCH_M90Y_A01a_OverAttackFirst, Water,  UI,  0
+MCH_M90Y_A01a_OverAttackLast, Cannon,  UI,  0
+MCH_M90Y_A02a_ArtsName, Smartshot,  UI,  0
+MCH_M90Y_A02a_ArtsExp, (Enemy/Single Target/Antiair/INT) Provoke enemy.,  UI,  0
+MCH_M90Y_A02a_OverAttackFirst, Smart,  UI,  0
+MCH_M90Y_A02a_OverAttackLast, Shot,  UI,  0
+MCH_M90Y_A03a_ArtsName, Sparkling Mist,  UI,  0
+MCH_M90Y_A03a_ArtsExp, (Enemy/All Targets/Antiair/DEX) Target speed -8%.,  UI,  0
+MCH_M90Y_A03a_OverAttackFirst, Sparkling,  UI,  0
+MCH_M90Y_A03a_OverAttackLast, Mist,  UI,  0
+MCH_M90Y_A04a_ArtsName, Intercept System,  UI,  0
+MCH_M90Y_A04a_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX),  UI,  0
+MCH_M90Y_A04a_OverAttackFirst, Intercept,  UI,  0
+MCH_M90Y_A04a_OverAttackLast, System,  UI,  0
+MCH_M90Y_A05a_ArtsName, Bit,  UI,  0
+MCH_M90Y_A05a_ArtsExp, (Enemy/Single Target/Antiair/INT),  UI,  0
+MCH_M90Y_A05a_OverAttackFirst, B,  UI,  0
+MCH_M90Y_A05a_OverAttackLast, It,  UI,  0
+MCH_M90Y_A06a_ArtsName, Undodgeable Bullet,  UI,  0
+MCH_M90Y_A06a_ArtsExp, (Enemy/Single Target/Guaranteed Hit/INT),  UI,  0
+MCH_M90Y_A06a_OverAttackFirst, Undodgeable,  UI,  0
+MCH_M90Y_A06a_OverAttackLast, Bullet,  UI,  0
+MCH_M90Y_A07a_ArtsName, Periphery Barrage,  UI,  0
+MCH_M90Y_A07a_ArtsExp, (Enemy/All Targets/Antiair/DEX),  UI,  0
+MCH_M90Y_A07a_OverAttackFirst, Periphery,  UI,  0
+MCH_M90Y_A07a_OverAttackLast, Barrage,  UI,  0
+MCH_M90Y_A08a_ArtsName, Forced Cooling,  UI,  0
+MCH_M90Y_A08a_ArtsExp, (Enemy/Single Target/Antiair/DEX) Remove enmity.,  UI,  0
+MCH_M90Y_A08a_OverAttackFirst, Forced,  UI,  0
+MCH_M90Y_A08a_OverAttackLast, Cooling,  UI,  0
+MCH_M90Y_A09a_ArtsName, Logic Bomb,  UI,  0
+MCH_M90Y_A09a_ArtsExp, (Enemy/Single Target/Antiair/INT) Mech paralysis chance 50%.,  UI,  0
+MCH_M90Y_A09a_OverAttackFirst, Logic,  UI,  0
+MCH_M90Y_A09a_OverAttackLast, Bomb,  UI,  0
+MCH_M90Y_B01a_ArtsName, Rapid Firearms,  UI,  0
+MCH_M90Y_B01a_ArtsExp, (Enemy/Random Target/Antiair/DEX),  UI,  0
+MCH_M90Y_B01a_OverAttackFirst, Rapid,  UI,  0
+MCH_M90Y_B01a_OverAttackLast, Firearms,  UI,  0
+MCH_M90Y_B02a_ArtsName, Revolver Launcher,  UI,  0
+MCH_M90Y_B02a_ArtsExp, (Enemy/Random Target/Antiair/DEX),  UI,  0
+MCH_M90Y_B02a_OverAttackFirst, Revolver,  UI,  0
+MCH_M90Y_B02a_OverAttackLast, Launcher,  UI,  0
+MCH_M90Y_B03a_ArtsName, Heavy Machine Gun,  UI,  0
+MCH_M90Y_B03a_ArtsExp, (Enemy/All Targets/Antiair/DEX) Stun chance 25%. Mech stun chance 50%.,  UI,  0
+MCH_M90Y_B03a_OverAttackFirst, Heavy,  UI,  0
+MCH_M90Y_B03a_OverAttackLast, Machine Gun,  UI,  0
+MCH_M90Y_B04a_ArtsName, Ballistic Missile,  UI,  0
+MCH_M90Y_B04a_ArtsExp, (Enemy/All Targets/Antiair/INT),  UI,  0
+MCH_M90Y_B04a_OverAttackFirst, Ballistic,  UI,  0
+MCH_M90Y_B04a_OverAttackLast, Missile,  UI,  0
+MCH_M90Y_B05a_ArtsName, Artificial Hailstorm,  UI,  0
+MCH_M90Y_B05a_ArtsExp, (Enemy/All Targets/Antiair/INT),  UI,  0
+MCH_M90Y_B05a_OverAttackFirst, Artificial,  UI,  0
+MCH_M90Y_B05a_OverAttackLast, Hailstorm,  UI,  0
+MCH_M90Y_B06a_ArtsName, Beam of Destruction,  UI,  0
+MCH_M90Y_B06a_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+MCH_M90Y_B06a_OverAttackFirst, Beam of,  UI,  0
+MCH_M90Y_B06a_OverAttackLast, Destruction,  UI,  0
+MCH_M90Z_A01a_ArtsName, Fortification Pack,  UI,  0
+MCH_M90Z_A01a_ArtsExp, (Ally/Single Target) Target attack power +10%. Only works on mechs.,  UI,  0
+MCH_M90Z_A01a_OverAttackFirst, Fortification,  UI,  0
+MCH_M90Z_A01a_OverAttackLast, Pack,  UI,  0
+MCH_M90Z_A02a_ArtsName, Protection Pack,  UI,  0
+MCH_M90Z_A02a_ArtsExp, (Ally/Single Target) Target defense +10%. Only works on mechs.,  UI,  0
+MCH_M90Z_A02a_OverAttackFirst, Protection,  UI,  0
+MCH_M90Z_A02a_OverAttackLast, Pack,  UI,  0
+MCH_M90Z_A03a_ArtsName, Acceleration Pack,  UI,  0
+MCH_M90Z_A03a_ArtsExp, (Self) Speed +8%. Only works on mechs.,  UI,  0
+MCH_M90Z_A03a_OverAttackFirst, Acceleration,  UI,  0
+MCH_M90Z_A03a_OverAttackLast, Pack,  UI,  0
+MCH_M90Z_A04a_ArtsName, Deceleration Pack,  UI,  0
+MCH_M90Z_A04a_ArtsExp, (Self) Speed -8%. Only works on mechs.,  UI,  0
+MCH_M90Z_A04a_OverAttackFirst, Deceleration,  UI,  0
+MCH_M90Z_A04a_OverAttackLast, Pack,  UI,  0
+MCH_M90Z_A05a_ArtsName, Repair Pack,  UI,  0
+MCH_M90Z_A05a_ArtsExp, (Ally/Single Target) Cure mech ailments. Only works on mechs.,  UI,  0
+MCH_M90Z_A05a_OverAttackFirst, Repair,  UI,  0
+MCH_M90Z_A05a_OverAttackLast, Pack,  UI,  0
+MCH_M90Z_A06a_ArtsName, Optical Camouflage,  UI,  0
+MCH_M90Z_A06a_ArtsExp, (Self) Prevent the user from being targeted by the enemy.,  UI,  0
+MCH_M90Z_A06a_OverAttackFirst, Optical,  UI,  0
+MCH_M90Z_A06a_OverAttackLast, Camouflage,  UI,  0
+MCH_M90Z_B01a_ArtsName, Self-Defense Program,  UI,  0
+MCH_M90Z_B01a_ArtsExp, (Self) Nullify mech ailments for 6 turns.,  UI,  0
+MCH_M90Z_B01a_OverAttackFirst, Self-Defense,  UI,  0
+MCH_M90Z_B01a_OverAttackLast, Program,  UI,  0
+MCH_M90Z_B02a_ArtsName, Gilding Program,  UI,  0
+MCH_M90Z_B02a_ArtsExp, (Self) Nullify damage once, but suffer mech paralysis afterwards.,  UI,  0
+MCH_M90Z_B02a_OverAttackFirst, Gilding,  UI,  0
+MCH_M90Z_B02a_OverAttackLast, Program,  UI,  0
+MCH_M90Z_B03a_ArtsName, Safety Release,  UI,  0
+MCH_M90Z_B03a_ArtsExp, (Self) BP cost +1. Increase tech power for 4 turns following activation.,  UI,  0
+MCH_M90Z_B03a_OverAttackFirst, Safety,  UI,  0
+MCH_M90Z_B03a_OverAttackLast, Release,  UI,  0
+MON_M054_A01a_ArtsName, Cell Sap,  UI,  0
+MON_M054_A01a_ArtsExp, (Enemy/Single Target/INT),  UI,  0
+MON_M054_A01a_OverAttackFirst, Cell,  UI,  0
+MON_M054_A01a_OverAttackLast, Sap,  UI,  0
+MON_M003_A01a_ArtsName, Cat Scratch,  UI,  0
+MON_M003_A01a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MON_M003_A01a_OverAttackFirst, Cat,  UI,  0
+MON_M003_A01a_OverAttackLast, Scratch,  UI,  0
+MON_M110_A01a_ArtsName, Mole Spiral,  UI,  0
+MON_M110_A01a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MON_M110_A01a_OverAttackFirst, Mole,  UI,  0
+MON_M110_A01a_OverAttackLast, Spiral,  UI,  0
+EN_M000_A02a_ArtsName, Savoring Slash,  UI,  0
+EN_M000_A02a_ArtsExp, (Enemy/Single Target/STR) Target speed -8%.,  UI,  0
+EN_M000_A02a_OverAttackFirst, Savoring,  UI,  0
+EN_M000_A02a_OverAttackLast, Slash,  UI,  0
+EN_M000_A01a_ArtsName, Thundersmash,  UI,  0
+EN_M000_A01a_ArtsExp, (Enemy/Single Target/STR) Mech stun chance 50%.,  UI,  0
+EN_M000_A01a_OverAttackFirst, Thunder,  UI,  0
+EN_M000_A01a_OverAttackLast, Smash,  UI,  0
+EN_M000_A03a_ArtsName, Shadowbite,  UI,  0
+EN_M000_A03a_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+EN_M000_A03a_OverAttackFirst, Shadow,  UI,  0
+EN_M000_A03a_OverAttackLast, Bite,  UI,  0
+EN_M000_A04a_ArtsName, Fanged Reversal,  UI,  0
+EN_M000_A04a_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+EN_M000_A04a_OverAttackFirst, Fanged,  UI,  0
+EN_M000_A04a_OverAttackLast, Reversal,  UI,  0
+EN_M000_A05a_ArtsName, Fang Frenzy,  UI,  0
+EN_M000_A05a_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+EN_M000_A05a_OverAttackFirst, Fang,  UI,  0
+EN_M000_A05a_OverAttackLast, Frenzy,  UI,  0
+EN_M001_A01a_ArtsName, Covering Action,  UI,  0
+EN_M001_A01a_ArtsExp, (Ally/Other) Take an attack intended for another ally. Reduces damage taken.,  UI,  0
+EN_M001_A01a_OverAttackFirst, Covering,  UI,  0
+EN_M001_A01a_OverAttackLast, Action,  UI,  0
+EN_M001_A02a_ArtsName, Break Armor,  UI,  0
+EN_M001_A02a_ArtsExp, (Enemy/Single Target/STR) Target defense -10%.,  UI,  0
+EN_M001_A02a_OverAttackFirst, Break,  UI,  0
+EN_M001_A02a_OverAttackLast, Armor,  UI,  0
+EN_M001_A03a_ArtsName, Shout,  UI,  0
+EN_M001_A03a_OverAttackFirst, Sho,  UI,  0
+EN_M001_A03a_OverAttackLast, Ut,  UI,  0
+EN_M001_A04a_ArtsName, Break Counter,  UI,  0
+EN_M001_A04a_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX) Target defense -20%.,  UI,  0
+EN_M001_A04a_OverAttackFirst, Break,  UI,  0
+EN_M001_A04a_OverAttackLast, Counter,  UI,  0
+EN_M001_B01a_ArtsName, Blaze,  UI,  0
+EN_M001_B01a_OverAttackFirst, Bla,  UI,  0
+EN_M001_B01a_OverAttackLast, Ze,  UI,  0
+EN_M002_A01a_ArtsName, Rush,  UI,  0
+EN_M002_A01a_ArtsExp, (Enemy/Single Target/END) Mech stun chance 50%.,  UI,  0
+EN_M002_A01a_OverAttackFirst, Ru,  UI,  0
+EN_M002_A01a_OverAttackLast, Sh,  UI,  0
+EN_M002_A02a_ArtsName, Scoop Throw,  UI,  0
+EN_M002_A02a_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+EN_M002_A02a_OverAttackFirst, Scoop,  UI,  0
+EN_M002_A02a_OverAttackLast, Throw,  UI,  0
+EN_M002_A05a_ArtsName, Porcine Strike,  UI,  0
+EN_M002_A05a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M002_A05a_OverAttackFirst, Porcine,  UI,  0
+EN_M002_A05a_OverAttackLast, Strike,  UI,  0
+EN_M002_A04a_ArtsName, Hip Attack,  UI,  0
+EN_M002_A04a_ArtsExp, (Enemy/Single Target/STR) Provoke enemy.,  UI,  0
+EN_M002_A04a_OverAttackFirst, Hip,  UI,  0
+EN_M002_A04a_OverAttackLast, Attack,  UI,  0
+EN_M002_A03a_ArtsName, Reversal Stench,  UI,  0
+EN_M002_A03a_ArtsExp, (Enemy/Single Target/INT) Stench chance 100%.,  UI,  0
+EN_M002_A03a_OverAttackFirst, Reversal,  UI,  0
+EN_M002_A03a_OverAttackLast, Stench,  UI,  0
+EN_M002_A03a_A_ArtsName, Mustard Gas,  UI,  0
+EN_M002_A03a_A_ArtsExp, (Enemy/Single Target/INT) Stench chance 100%.,  UI,  0
+EN_M002_A03a_A_OverAttackFirst, Mustard,  UI,  0
+EN_M002_A03a_A_OverAttackLast, Gas,  UI,  0
+EN_M002_A03a_B_ArtsName, Pursuant Stench,  UI,  0
+EN_M002_A03a_B_ArtsExp, (Enemy/Single Target/INT) Stench chance 100%.,  UI,  0
+EN_M002_A03a_B_OverAttackFirst, Pursuant,  UI,  0
+EN_M002_A03a_B_OverAttackLast, Stench,  UI,  0
+EN_M010_A01a_ArtsName, Low Sweep,  UI,  0
+EN_M010_A01a_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+EN_M010_A01a_OverAttackFirst, Low,  UI,  0
+EN_M010_A01a_OverAttackLast, Sweep,  UI,  0
+EN_M010_A02a_ArtsName, Flowing Slash,  UI,  0
+EN_M010_A02a_ArtsExp, (Enemy/Single Target/STR) Target attack power -10%.,  UI,  0
+EN_M010_A02a_OverAttackFirst, Flowing,  UI,  0
+EN_M010_A02a_OverAttackLast, Slash,  UI,  0
+EN_M010_B02a_ArtsName, Slice and Dice,  UI,  0
+EN_M010_B02a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M010_B02a_OverAttackFirst, Slice and,  UI,  0
+EN_M010_B02a_OverAttackLast, Dice,  UI,  0
+EN_M010_A04a_ArtsName, Moonfall Slash,  UI,  0
+EN_M010_A04a_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+EN_M010_A04a_OverAttackFirst, Moonfall,  UI,  0
+EN_M010_A04a_OverAttackLast, Slash,  UI,  0
+EN_M010_B01a_ArtsName, Airwave,  UI,  0
+EN_M010_B01a_OverAttackFirst, Air,  UI,  0
+EN_M010_B01a_OverAttackLast, Wave,  UI,  0
+EN_M010_A03a_ArtsName, Sword Barrier,  UI,  0
+EN_M010_A03a_OverAttackFirst, Sword,  UI,  0
+EN_M010_A03a_OverAttackLast, Barrier,  UI,  0
+EN_M011_A01a_ArtsName, Feral Pounce,  UI,  0
+EN_M011_A01a_ArtsExp, (Enemy/Single Target/STR) Target defense -10%.,  UI,  0
+EN_M011_A01a_OverAttackFirst, Feral,  UI,  0
+EN_M011_A01a_OverAttackLast, Pounce,  UI,  0
+EN_M011_B01a_ArtsName, Howl,  UI,  0
+EN_M011_B01a_OverAttackFirst, H,  UI,  0
+EN_M011_B01a_OverAttackLast, Owl,  UI,  0
+EN_M011_B02a_ArtsName, Gliding Spikes,  UI,  0
+EN_M011_B02a_ArtsExp, (Enemy/Single Target/STR) Target attack power -10%.,  UI,  0
+EN_M011_B02a_OverAttackFirst, Gliding,  UI,  0
+EN_M011_B02a_OverAttackLast, Spikes,  UI,  0
+EN_M011_B03a_ArtsName, Flame Blast,  UI,  0
+EN_M011_B03a_OverAttackFirst, Flame,  UI,  0
+EN_M011_B03a_OverAttackLast, Blast,  UI,  0
+EN_M011_B04a_ArtsName, Frost Blast,  UI,  0
+EN_M011_B04a_OverAttackFirst, Frost,  UI,  0
+EN_M011_B04a_OverAttackLast, Blast,  UI,  0
+EN_M011_B05a_ArtsName, Lightning Blast,  UI,  0
+EN_M011_B05a_OverAttackFirst, Lightning,  UI,  0
+EN_M011_B05a_OverAttackLast, Blast,  UI,  0
+EN_M012_A01a_ArtsName, Invocation,  UI,  0
+EN_M012_A01a_OverAttackFirst, Invo,  UI,  0
+EN_M012_A01a_OverAttackLast, Cation,  UI,  0
+EN_M012_A02a_ArtsName, Exhalation,  UI,  0
+EN_M012_A02a_OverAttackFirst, Exha,  UI,  0
+EN_M012_A02a_OverAttackLast, Lation,  UI,  0
+EN_M012_B01a_ArtsName, Reprisal,  UI,  0
+EN_M012_B01a_OverAttackFirst, Repri,  UI,  0
+EN_M012_B01a_OverAttackLast, Sal,  UI,  0
+EN_M012_A03a_ArtsName, Capriciousness,  UI,  0
+EN_M012_A03a_ArtsExp, (Enemy/Single Target/Antiair/INT),  UI,  0
+EN_M012_A03a_OverAttackFirst, Capricious,  UI,  0
+EN_M012_A03a_OverAttackLast, Ness,  UI,  0
+EN_M012_A04a_ArtsName, Discipline,  UI,  0
+EN_M012_A04a_ArtsExp, (Enemy/Single Target/Antiair/INT),  UI,  0
+EN_M012_A04a_OverAttackFirst, Disci,  UI,  0
+EN_M012_A04a_OverAttackLast, Pline,  UI,  0
+EN_M021_A01a_ArtsName, Slap,  UI,  0
+EN_M021_A01a_ArtsExp, (Enemy/Single Target/STR) Provoke enemy.,  UI,  0
+EN_M021_A01a_OverAttackFirst, Sla,  UI,  0
+EN_M021_A01a_OverAttackLast, P,  UI,  0
+EN_M021_A02a_ArtsName, Intrusive Chop,  UI,  0
+EN_M021_A02a_ArtsExp, (Enemy/Single Target/DEX) Mech stun chance 50%.,  UI,  0
+EN_M021_A02a_OverAttackFirst, Intrusive,  UI,  0
+EN_M021_A02a_OverAttackLast, Chop,  UI,  0
+EN_M021_A03a_ArtsName, Entrap,  UI,  0
+EN_M021_A03a_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+EN_M021_A03a_OverAttackFirst, Ent,  UI,  0
+EN_M021_A03a_OverAttackLast, Rap,  UI,  0
+EN_M021_A04a_ArtsName, Boulder Toss,  UI,  0
+EN_M021_A04a_ArtsExp, (Enemy/Single Target/Antiair/DEX) Target speed -8%.,  UI,  0
+EN_M021_A04a_OverAttackFirst, Boulder,  UI,  0
+EN_M021_A04a_OverAttackLast, Toss,  UI,  0
+EN_M021_A05a_ArtsName, Palm Bomb,  UI,  0
+EN_M021_A05a_ArtsExp, (Enemy/Single Target/Antiair/INT),  UI,  0
+EN_M021_A05a_OverAttackFirst, Palm,  UI,  0
+EN_M021_A05a_OverAttackLast, Bomb,  UI,  0
+EN_M021_B01a_ArtsName, Sandstorm,  UI,  0
+EN_M021_B01a_OverAttackFirst, Sand,  UI,  0
+EN_M021_B01a_OverAttackLast, Storm,  UI,  0
+EN_M021_B02a_ArtsName, Harvest Explosion,  UI,  0
+EN_M021_B02a_OverAttackFirst, Harvest,  UI,  0
+EN_M021_B02a_OverAttackLast, Explosion,  UI,  0
+EN_M022_B01a_ArtsName, Heat Wave,  UI,  0
+EN_M022_B01a_OverAttackFirst, Heat,  UI,  0
+EN_M022_B01a_OverAttackLast, Wave,  UI,  0
+EN_M022_A02a_ArtsName, Blinding Pollen,  UI,  0
+EN_M022_A02a_ArtsExp, (Enemy/All Targets/Antiair/DEX) Darkness chance 50%.,  UI,  0
+EN_M022_A02a_OverAttackFirst, Blinding,  UI,  0
+EN_M022_A02a_OverAttackLast, Pollen,  UI,  0
+EN_M022_A01a_ArtsName, Sunshine,  UI,  0
+EN_M022_A01a_OverAttackFirst, Sun,  UI,  0
+EN_M022_A01a_OverAttackLast, Shine,  UI,  0
+EN_M022_A03a_ArtsName, Star Fixer,  UI,  0
+EN_M022_A03a_ArtsExp, (Enemy/Single Target/INT) Paralysis chance 50%. Mech paralysis chance 25%.,  UI,  0
+EN_M022_A03a_OverAttackFirst, Star,  UI,  0
+EN_M022_A03a_OverAttackLast, Fixer,  UI,  0
+EN_M022_B02a_ArtsName, Daybreak,  UI,  0
+EN_M022_B02a_OverAttackFirst, Day,  UI,  0
+EN_M022_B02a_OverAttackLast, Break,  UI,  0
+EN_M023_A01a_ArtsName, Nudge,  UI,  0
+EN_M023_A01a_ArtsExp, (Enemy/Single Target/STR) Provoke enemy.,  UI,  0
+EN_M023_A01a_OverAttackFirst, Nud,  UI,  0
+EN_M023_A01a_OverAttackLast, Ge,  UI,  0
+EN_M023_A04a_ArtsName, Absorb HP,  UI,  0
+EN_M023_A04a_OverAttackFirst, Absorb,  UI,  0
+EN_M023_A04a_OverAttackLast, HP,  UI,  0
+EN_M023_B01a_ArtsName, Shriek,  UI,  0
+EN_M023_B01a_OverAttackFirst, Shri,  UI,  0
+EN_M023_B01a_OverAttackLast, Ek,  UI,  0
+EN_M023_A03a_ArtsName, Pollen,  UI,  0
+EN_M023_A03a_ArtsExp, (Enemy/All Targets/DEX) Confusion chance 25%.,  UI,  0
+EN_M023_A03a_OverAttackFirst, Pol,  UI,  0
+EN_M023_A03a_OverAttackLast, Len,  UI,  0
+EN_M023_A02a_ArtsName, Hypnosis,  UI,  0
+EN_M023_A02a_OverAttackFirst, Hyp,  UI,  0
+EN_M023_A02a_OverAttackLast, Nosis,  UI,  0
+EN_M030_A01a_ArtsName, Bite,  UI,  0
+EN_M030_A01a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M030_A01a_OverAttackFirst, Bi,  UI,  0
+EN_M030_A01a_OverAttackLast, Te,  UI,  0
+EN_M030_A04a_ArtsName, Crunch,  UI,  0
+EN_M030_A04a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M030_A04a_OverAttackFirst, Crun,  UI,  0
+EN_M030_A04a_OverAttackLast, Ch,  UI,  0
+EN_M030_A02a_ArtsName, Poison Fangs,  UI,  0
+EN_M030_A02a_ArtsExp, (Enemy/Single Target/STR) Poison chance 75%.,  UI,  0
+EN_M030_A02a_OverAttackFirst, Poison,  UI,  0
+EN_M030_A02a_OverAttackLast, Fangs,  UI,  0
+EN_M030_A03a_ArtsName, Petrification Fangs,  UI,  0
+EN_M030_A03a_OverAttackFirst, Petrification,  UI,  0
+EN_M030_A03a_OverAttackLast, Fangs,  UI,  0
+EN_M030_A05a_ArtsName, Steelcrusher,  UI,  0
+EN_M030_A05a_OverAttackFirst, Steel,  UI,  0
+EN_M030_A05a_OverAttackLast, Crusher,  UI,  0
+EN_M031_A01a_ArtsName, Tear to Shreds,  UI,  0
+EN_M031_A01a_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+EN_M031_A01a_OverAttackFirst, Tear,  UI,  0
+EN_M031_A01a_OverAttackLast, To Shreds,  UI,  0
+EN_M031_A03a_ArtsName, Fang Salvo,  UI,  0
+EN_M031_A03a_OverAttackFirst, Fang,  UI,  0
+EN_M031_A03a_OverAttackLast, Salvo,  UI,  0
+EN_M031_A04a_ArtsName, Razor Teeth,  UI,  0
+EN_M031_A04a_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+EN_M031_A04a_OverAttackFirst, Razor,  UI,  0
+EN_M031_A04a_OverAttackLast, Teeth,  UI,  0
+EN_M031_B01a_ArtsName, Azure Dance,  UI,  0
+EN_M031_B01a_ArtsExp, (Enemy/All Targets/Antiground) Distract chance 50%. Target spell power -10%.,  UI,  0
+EN_M031_B01a_OverAttackFirst, Azure,  UI,  0
+EN_M031_B01a_OverAttackLast, Dance,  UI,  0
+EN_M031_A02a_ArtsName, Caterwaul,  UI,  0
+EN_M031_A02a_OverAttackFirst, Cater,  UI,  0
+EN_M031_A02a_OverAttackLast, Waul,  UI,  0
+EN_M032_A01a_ArtsName, Frigid Veil,  UI,  0
+EN_M032_A01a_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX),  UI,  0
+EN_M032_A01a_OverAttackFirst, Frigid,  UI,  0
+EN_M032_A01a_OverAttackLast, Veil,  UI,  0
+EN_M032_A02a_ArtsName, Rising Thrust,  UI,  0
+EN_M032_A02a_ArtsExp, (Enemy/Single Target/STR) Mech stun chance 50%.,  UI,  0
+EN_M032_A02a_OverAttackFirst, Rising,  UI,  0
+EN_M032_A02a_OverAttackLast, Thrust,  UI,  0
+EN_M032_B01a_ArtsName, Scuffle,  UI,  0
+EN_M032_B01a_ArtsExp, (Enemy/Single Target/STR) Target spell power -30%.,  UI,  0
+EN_M032_B01a_OverAttackFirst, Scuf,  UI,  0
+EN_M032_B01a_OverAttackLast, Fle,  UI,  0
+EN_M032_B03a_ArtsName, Thunderclap,  UI,  0
+EN_M032_B03a_OverAttackFirst, Thunder,  UI,  0
+EN_M032_B03a_OverAttackLast, Clap,  UI,  0
+EN_M032_B02a_ArtsName, Headbutt,  UI,  0
+EN_M032_B02a_ArtsExp, (Enemy/Single Target/DEX) Stun chance 75%.,  UI,  0
+EN_M032_B02a_OverAttackFirst, Head,  UI,  0
+EN_M032_B02a_OverAttackLast, Butt,  UI,  0
+EN_M040_A01a_ArtsName, Hammer Blow,  UI,  0
+EN_M040_A01a_ArtsExp, (Enemy/Single Target/STR) Stun chance 25%.,  UI,  0
+EN_M040_A01a_OverAttackFirst, Hammer,  UI,  0
+EN_M040_A01a_OverAttackLast, Blow,  UI,  0
+EN_M040_A02a_ArtsName, Welcoming Dance,  UI,  0
+EN_M040_A02a_OverAttackFirst, Welcoming,  UI,  0
+EN_M040_A02a_OverAttackLast, Dance,  UI,  0
+EN_M040_A05a_ArtsName, Eerie Dance,  UI,  0
+EN_M040_A05a_OverAttackFirst, Eerie,  UI,  0
+EN_M040_A05a_OverAttackLast, Dance,  UI,  0
+EN_M040_A03a_ArtsName, Counterkick,  UI,  0
+EN_M040_A03a_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX),  UI,  0
+EN_M040_A03a_OverAttackFirst, Counter,  UI,  0
+EN_M040_A03a_OverAttackLast, Kick,  UI,  0
+EN_M040_A04a_ArtsName, Amphibian Assault,  UI,  0
+EN_M040_A04a_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+EN_M040_A04a_OverAttackFirst, Amphibian,  UI,  0
+EN_M040_A04a_OverAttackLast, Assault,  UI,  0
+EN_M040_B01a_ArtsName, Amphibian Rain,  UI,  0
+EN_M040_B01a_OverAttackFirst, Amphibian,  UI,  0
+EN_M040_B01a_OverAttackLast, Rain,  UI,  0
+EN_M041_A02a_ArtsName, Tentacle,  UI,  0
+EN_M041_A02a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M041_A02a_OverAttackFirst, Ten,  UI,  0
+EN_M041_A02a_OverAttackLast, Tacle,  UI,  0
+EN_M041_A01a_ArtsName, Squirm,  UI,  0
+EN_M041_A01a_OverAttackFirst, Squ,  UI,  0
+EN_M041_A01a_OverAttackLast, Irm,  UI,  0
+EN_M041_B02a_ArtsName, Maelstrom,  UI,  0
+EN_M041_B02a_OverAttackFirst, Mael,  UI,  0
+EN_M041_B02a_OverAttackLast, Strom,  UI,  0
+EN_M041_B01a_ArtsName, Ink,  UI,  0
+EN_M041_B01a_ArtsExp, (Enemy/Random Target/Antiair/INT) Darkness chance 50%.,  UI,  0
+EN_M041_B01a_OverAttackFirst, In,  UI,  0
+EN_M041_B01a_OverAttackLast, K,  UI,  0
+EN_M041_B03a_ArtsName, Tiger Rampage,  UI,  0
+EN_M041_B03a_ArtsExp, (Enemy/Random Target/STR),  UI,  0
+EN_M041_B03a_OverAttackFirst, Tiger,  UI,  0
+EN_M041_B03a_OverAttackLast, Rampage,  UI,  0
+EN_M042_A02a_ArtsName, Pick,  UI,  0
+EN_M042_A02a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M042_A02a_OverAttackFirst, P,  UI,  0
+EN_M042_A02a_OverAttackLast, Ick,  UI,  0
+EN_M042_A03a_ArtsName, Pinpoint Breath,  UI,  0
+EN_M042_A03a_ArtsExp, (Enemy/Single Target/INT),  UI,  0
+EN_M042_A03a_OverAttackFirst, Pinpoint,  UI,  0
+EN_M042_A03a_OverAttackLast, Breath,  UI,  0
+EN_M042_A05a_ArtsName, Seismic Wave,  UI,  0
+EN_M042_A05a_OverAttackFirst, Seismic,  UI,  0
+EN_M042_A05a_OverAttackLast, Wave,  UI,  0
+EN_M042_A01a_ArtsName, Putrid Breath,  UI,  0
+EN_M042_A01a_ArtsExp, (Enemy/Single Target/INT) Stench chance 50%.,  UI,  0
+EN_M042_A01a_OverAttackFirst, Putrid,  UI,  0
+EN_M042_A01a_OverAttackLast, Breath,  UI,  0
+EN_M042_A04a_ArtsName, Painful Bite,  UI,  0
+EN_M042_A04a_ArtsExp, (Enemy/Single Target/DEX) Stun chance 50%.,  UI,  0
+EN_M042_A04a_OverAttackFirst, Painful,  UI,  0
+EN_M042_A04a_OverAttackLast, Bite,  UI,  0
+EN_M042_A06a_ArtsName, Petrifying Gas,  UI,  0
+EN_M042_A06a_OverAttackFirst, Petrifying,  UI,  0
+EN_M042_A06a_OverAttackLast, Gas,  UI,  0
+EN_M050_A02a_ArtsName, Gelatinous Barrier,  UI,  0
+EN_M050_A02a_OverAttackFirst, Gelatinous,  UI,  0
+EN_M050_A02a_OverAttackLast, Barrier,  UI,  0
+EN_M050_A06a_ArtsName, Goop,  UI,  0
+EN_M050_A06a_ArtsExp, (Enemy/Single Target/INT) Stench chance 50%.,  UI,  0
+EN_M050_A06a_OverAttackFirst, Go,  UI,  0
+EN_M050_A06a_OverAttackLast, Op,  UI,  0
+EN_M050_B01a_ArtsName, Acid Spray,  UI,  0
+EN_M050_B01a_OverAttackFirst, Acid,  UI,  0
+EN_M050_B01a_OverAttackLast, Spray,  UI,  0
+EN_M050_B02a_ArtsName, Squall,  UI,  0
+EN_M050_B02a_ArtsExp, (Enemy/All Targets/Guaranteed Hit/INT),  UI,  0
+EN_M050_B02a_OverAttackFirst, Squ,  UI,  0
+EN_M050_B02a_OverAttackLast, All,  UI,  0
+EN_M050_B03a_ArtsName, Lightning Pierce,  UI,  0
+EN_M050_B03a_OverAttackFirst, Lightning,  UI,  0
+EN_M050_B03a_OverAttackLast, Pierce,  UI,  0
+EN_M051_A01a_ArtsName, Melt,  UI,  0
+EN_M051_A01a_ArtsExp, (Enemy/Single Target/INT) Target defense -10%.,  UI,  0
+EN_M051_A01a_OverAttackFirst, Mel,  UI,  0
+EN_M051_A01a_OverAttackLast, T,  UI,  0
+EN_M051_A03a_ArtsName, Poisonous Mist,  UI,  0
+EN_M051_A03a_OverAttackFirst, Poisonous,  UI,  0
+EN_M051_A03a_OverAttackLast, Mist,  UI,  0
+EN_M051_A02a_ArtsName, Mind Blast,  UI,  0
+EN_M051_A02a_OverAttackFirst, Mind,  UI,  0
+EN_M051_A02a_OverAttackLast, Blast,  UI,  0
+EN_M051_B01a_ArtsName, Paralyzing Punch,  UI,  0
+EN_M051_B01a_ArtsExp, (Enemy/Single Target/STR) Paralysis chance 50%. Mech paralysis chance 25%.,  UI,  0
+EN_M051_B01a_OverAttackFirst, Paralyzing,  UI,  0
+EN_M051_B01a_OverAttackLast, Punch,  UI,  0
+EN_M051_B02a_ArtsName, Ambush,  UI,  0
+EN_M051_B02a_ArtsExp, (Enemy/Single Target/MOB) Sudden death chance 50%.,  UI,  0
+EN_M051_B02a_OverAttackFirst, Am,  UI,  0
+EN_M051_B02a_OverAttackLast, Bush,  UI,  0
+EN_M052_A01a_ArtsName, Tackle,  UI,  0
+EN_M052_A01a_ArtsExp, (Enemy/Single Target/END),  UI,  0
+EN_M052_A01a_OverAttackFirst, Tack,  UI,  0
+EN_M052_A01a_OverAttackLast, Le,  UI,  0
+EN_M052_A02a_ArtsName, Tremor,  UI,  0
+EN_M052_A02a_OverAttackFirst, Tre,  UI,  0
+EN_M052_A02a_OverAttackLast, Mor,  UI,  0
+EN_M052_B01a_ArtsName, Interrupting Conflagration,  UI,  0
+EN_M052_B01a_OverAttackFirst, Interrupting,  UI,  0
+EN_M052_B01a_OverAttackLast, Conflagration,  UI,  0
+EN_M052_B02a_ArtsName, Seven Blades,  UI,  0
+EN_M052_B02a_ArtsExp, (Enemy/Random Target/STR),  UI,  0
+EN_M052_B02a_OverAttackFirst, Seven,  UI,  0
+EN_M052_B02a_OverAttackLast, Blades,  UI,  0
+EN_M070_A01a_ArtsName, Topple,  UI,  0
+EN_M070_A01a_ArtsExp, (Enemy/Single Target/Antiground/END),  UI,  0
+EN_M070_A01a_OverAttackFirst, Top,  UI,  0
+EN_M070_A01a_OverAttackLast, Ple,  UI,  0
+EN_M070_A02a_ArtsName, Needles,  UI,  0
+EN_M070_A02a_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+EN_M070_A02a_OverAttackFirst, Need,  UI,  0
+EN_M070_A02a_OverAttackLast, Les,  UI,  0
+EN_M070_A03a_ArtsName, Boulder Slam,  UI,  0
+EN_M070_A03a_ArtsExp, (Enemy/Single Target/Antiground/END) Mech stun chance 50%.,  UI,  0
+EN_M070_A03a_OverAttackFirst, Boulder,  UI,  0
+EN_M070_A03a_OverAttackLast, Slam,  UI,  0
+EN_M070_A04a_ArtsName, Hidden Attack,  UI,  0
+EN_M070_A04a_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+EN_M070_A04a_OverAttackFirst, Hidden,  UI,  0
+EN_M070_A04a_OverAttackLast, Attack,  UI,  0
+EN_M070_B01a_ArtsName, Wild Barrage,  UI,  0
+EN_M070_B01a_OverAttackFirst, Wild,  UI,  0
+EN_M070_B01a_OverAttackLast, Barrage,  UI,  0
+EN_M070_B02a_ArtsName, Dungroller,  UI,  0
+EN_M070_B02a_OverAttackFirst, Dung,  UI,  0
+EN_M070_B02a_OverAttackLast, Roller,  UI,  0
+EN_M071_A01a_ArtsName, Feast,  UI,  0
+EN_M071_A01a_OverAttackFirst, Fe,  UI,  0
+EN_M071_A01a_OverAttackLast, Ast,  UI,  0
+EN_M071_A02a_ArtsName, Slash,  UI,  0
+EN_M071_A02a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M071_A02a_OverAttackFirst, Sl,  UI,  0
+EN_M071_A02a_OverAttackLast, Ash,  UI,  0
+EN_M071_A03a_ArtsName, Legbreaker,  UI,  0
+EN_M071_A03a_ArtsExp, (Enemy/Single Target/STR) Target speed -8%.,  UI,  0
+EN_M071_A03a_OverAttackFirst, Leg,  UI,  0
+EN_M071_A03a_OverAttackLast, Breaker,  UI,  0
+EN_M071_B01a_ArtsName, Wild Pierce,  UI,  0
+EN_M071_B01a_ArtsExp, (Enemy/All Targets/STR) Target attack power -10%.,  UI,  0
+EN_M071_B01a_OverAttackFirst, Wild,  UI,  0
+EN_M071_B01a_OverAttackLast, Pierce,  UI,  0
+EN_M071_A04a_ArtsName, Interrupting Stab,  UI,  0
+EN_M071_A04a_OverAttackFirst, Interrupting,  UI,  0
+EN_M071_A04a_OverAttackLast, Stab,  UI,  0
+EN_M072_A01a_ArtsName, Sonic Blade,  UI,  0
+EN_M072_A01a_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+EN_M072_A01a_OverAttackFirst, Sonic,  UI,  0
+EN_M072_A01a_OverAttackLast, Blade,  UI,  0
+EN_M072_A02a_ArtsName, Whirlwind,  UI,  0
+EN_M072_A02a_OverAttackFirst, Whirl,  UI,  0
+EN_M072_A02a_OverAttackLast, Wind,  UI,  0
+EN_M072_B02a_ArtsName, Swarm,  UI,  0
+EN_M072_B02a_OverAttackFirst, Sw,  UI,  0
+EN_M072_B02a_OverAttackLast, Arm,  UI,  0
+EN_M072_B03a_ArtsName, Hell Claw,  UI,  0
+EN_M072_B03a_ArtsExp, (Enemy/Single Target/DEX) Poison chance 75%.,  UI,  0
+EN_M072_B03a_OverAttackFirst, Hell,  UI,  0
+EN_M072_B03a_OverAttackLast, Claw,  UI,  0
+EN_M072_B01a_ArtsName, Reaper's Scythe,  UI,  0
+EN_M072_B01a_ArtsExp, (Enemy/Single Target/STR) Sudden death chance 50%.,  UI,  0
+EN_M072_B01a_OverAttackFirst, Reaper's,  UI,  0
+EN_M072_B01a_OverAttackLast, Scythe,  UI,  0
+EN_M080_A02a_ArtsName, Birdsong,  UI,  0
+EN_M080_A02a_OverAttackFirst, Bird,  UI,  0
+EN_M080_A02a_OverAttackLast, Song,  UI,  0
+EN_M080_A01a_ArtsName, Scratch,  UI,  0
+EN_M080_A01a_ArtsExp, (Enemy/Single Target/Antiair/STR),  UI,  0
+EN_M080_A01a_OverAttackFirst, Scrat,  UI,  0
+EN_M080_A01a_OverAttackLast, Ch,  UI,  0
+EN_M080_A05a_ArtsName, Blind,  UI,  0
+EN_M080_A05a_ArtsExp, (Enemy/Single Target/Antiair/STR) Darkness chance 50%.,  UI,  0
+EN_M080_A05a_OverAttackFirst, Bli,  UI,  0
+EN_M080_A05a_OverAttackLast, Nd,  UI,  0
+EN_M080_A04a_ArtsName, Swoop,  UI,  0
+EN_M080_A04a_ArtsExp, (Enemy/Single Target/Antiair/END) Stun chance 50%.,  UI,  0
+EN_M080_A04a_OverAttackFirst, Swo,  UI,  0
+EN_M080_A04a_OverAttackLast, Op,  UI,  0
+EN_M080_A03a_ArtsName, Feather Shot,  UI,  0
+EN_M080_A03a_ArtsExp, (Enemy/Single Target/Antiair/INT),  UI,  0
+EN_M080_A03a_OverAttackFirst, Feather,  UI,  0
+EN_M080_A03a_OverAttackLast, Shot,  UI,  0
+EN_M081_A01a_ArtsName, Cranium Tackle,  UI,  0
+EN_M081_A01a_ArtsExp, (Enemy/Single Target/Antiair/END) Mech stun chance 25%.,  UI,  0
+EN_M081_A01a_OverAttackFirst, Cranium,  UI,  0
+EN_M081_A01a_OverAttackLast, Tackle,  UI,  0
+EN_M081_A05a_ArtsName, Gaping Maw,  UI,  0
+EN_M081_A05a_ArtsExp, (Enemy/Single Target/Antiair/STR) Stench chance 50%.,  UI,  0
+EN_M081_A05a_OverAttackFirst, Gaping,  UI,  0
+EN_M081_A05a_OverAttackLast, Maw,  UI,  0
+EN_M081_A02a_ArtsName, Sonic Wave,  UI,  0
+EN_M081_A02a_OverAttackFirst, Sonic,  UI,  0
+EN_M081_A02a_OverAttackLast, Wave,  UI,  0
+EN_M081_A04a_ArtsName, Cyclone,  UI,  0
+EN_M081_A04a_OverAttackFirst, Cyc,  UI,  0
+EN_M081_A04a_OverAttackLast, Lone,  UI,  0
+EN_M081_A06a_ArtsName, Terrifying Wail,  UI,  0
+EN_M081_A06a_OverAttackFirst, Terrifying,  UI,  0
+EN_M081_A06a_OverAttackLast, Wail,  UI,  0
+EN_M081_A03a_ArtsName, Ultrasonic Wave,  UI,  0
+EN_M081_A03a_ArtsExp, (Enemy/Single Target/Antiair/INT),  UI,  0
+EN_M081_A03a_OverAttackFirst, Ultrasonic,  UI,  0
+EN_M081_A03a_OverAttackLast, Wave,  UI,  0
+EN_M082_A03a_ArtsName, Interrupting Tackle,  UI,  0
+EN_M082_A03a_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+EN_M082_A03a_OverAttackFirst, Interrupting,  UI,  0
+EN_M082_A03a_OverAttackLast, Tackle,  UI,  0
+EN_M082_A05a_ArtsName, Interrupting Beak,  UI,  0
+EN_M082_A05a_OverAttackFirst, Interrupting,  UI,  0
+EN_M082_A05a_OverAttackLast, Beak,  UI,  0
+EN_M082_A02a_ArtsName, Poke,  UI,  0
+EN_M082_A02a_ArtsExp, (Enemy/Single Target/Antiair/STR),  UI,  0
+EN_M082_A02a_OverAttackFirst, Po,  UI,  0
+EN_M082_A02a_OverAttackLast, Ke,  UI,  0
+EN_M082_A04a_ArtsName, Chiroptera Strike,  UI,  0
+EN_M082_A04a_OverAttackFirst, Chiroptera,  UI,  0
+EN_M082_A04a_OverAttackLast, Strike,  UI,  0
+EN_M082_A01a_ArtsName, Aural Blast,  UI,  0
+EN_M082_A01a_OverAttackFirst, Aural,  UI,  0
+EN_M082_A01a_OverAttackLast, Blast,  UI,  0
+EN_M090_A04a_ArtsName, Blaster,  UI,  0
+EN_M090_A04a_ArtsExp, (Enemy/Single Target/Antiair/INT),  UI,  0
+EN_M090_A04a_OverAttackFirst, Bla,  UI,  0
+EN_M090_A04a_OverAttackLast, Ster,  UI,  0
+EN_M090_A06a_ArtsName, Spreadfire,  UI,  0
+EN_M090_A06a_OverAttackFirst, Spread,  UI,  0
+EN_M090_A06a_OverAttackLast, Fire,  UI,  0
+EN_M090_A01a_ArtsName, Elemental Salvo,  UI,  0
+EN_M090_A01a_ArtsExp, (Ally/Single Target) Hasten chanting by 1 turn.,  UI,  0
+EN_M090_A01a_OverAttackFirst, Elemental,  UI,  0
+EN_M090_A01a_OverAttackLast, Salvo,  UI,  0
+EN_M090_A02a_ArtsName, Elemental Blessing,  UI,  0
+EN_M090_A02a_ArtsExp, (Ally/Single Target) Target spell power +20%.,  UI,  0
+EN_M090_A02a_OverAttackFirst, Elemental,  UI,  0
+EN_M090_A02a_OverAttackLast, Blessing,  UI,  0
+EN_M090_A05a_ArtsName, Elemental Ward,  UI,  0
+EN_M090_A05a_OverAttackFirst, Elemental,  UI,  0
+EN_M090_A05a_OverAttackLast, Ward,  UI,  0
+EN_M090_A03a_ArtsName, Conjuration,  UI,  0
+EN_M090_A03a_OverAttackFirst, Con,  UI,  0
+EN_M090_A03a_OverAttackLast, Juration,  UI,  0
+EN_M100_A01a_ArtsName, Thrust,  UI,  0
+EN_M100_A01a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M100_A01a_OverAttackFirst, Thru,  UI,  0
+EN_M100_A01a_OverAttackLast, St,  UI,  0
+EN_M100_B01a_ArtsName, Aerial Slash,  UI,  0
+EN_M100_B01a_ArtsExp, (Enemy/All Targets/Antiair/DEX),  UI,  0
+EN_M100_B01a_OverAttackFirst, Aerial,  UI,  0
+EN_M100_B01a_OverAttackLast, Slash,  UI,  0
+EN_M100_B02a_ArtsName, Demonic Scratch,  UI,  0
+EN_M100_B02a_ArtsExp, (Enemy/Single Target/STR) Sudden death chance 50%.,  UI,  0
+EN_M100_B02a_OverAttackFirst, Demonic,  UI,  0
+EN_M100_B02a_OverAttackLast, Scratch,  UI,  0
+EN_M100_A03a_ArtsName, Counterblaze,  UI,  0
+EN_M100_A03a_OverAttackFirst, Counter,  UI,  0
+EN_M100_A03a_OverAttackLast, Blaze,  UI,  0
+EN_M100_A04a_ArtsName, Counterfreeze,  UI,  0
+EN_M100_A04a_OverAttackFirst, Counter,  UI,  0
+EN_M100_A04a_OverAttackLast, Freeze,  UI,  0
+EN_M100_A05a_ArtsName, Counterspark,  UI,  0
+EN_M100_A05a_OverAttackFirst, Counter,  UI,  0
+EN_M100_A05a_OverAttackLast, Spark,  UI,  0
+EN_M100_A02a_ArtsName, Rage of the Earth,  UI,  0
+EN_M100_A02a_OverAttackFirst, Rage of the,  UI,  0
+EN_M100_A02a_OverAttackLast, Earth,  UI,  0
+EN_M101_A01a_ArtsName, Scratch,  UI,  0
+EN_M101_A01a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M101_A01a_OverAttackFirst, Scr,  UI,  0
+EN_M101_A01a_OverAttackLast, Atch,  UI,  0
+EN_M101_A04a_ArtsName, Heel Slash,  UI,  0
+EN_M101_A04a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M101_A04a_OverAttackFirst, Heel,  UI,  0
+EN_M101_A04a_OverAttackLast, Slash,  UI,  0
+EN_M101_A02a_ArtsName, Feather Slash,  UI,  0
+EN_M101_A02a_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+EN_M101_A02a_OverAttackFirst, Feather,  UI,  0
+EN_M101_A02a_OverAttackLast, Slash,  UI,  0
+EN_M101_B01a_ArtsName, Dance of Feathers,  UI,  0
+EN_M101_B01a_ArtsExp, (Enemy/Single Target/Guaranteed Hit/MOB),  UI,  0
+EN_M101_B01a_OverAttackFirst, Dance of,  UI,  0
+EN_M101_B01a_OverAttackLast, Feathers,  UI,  0
+EN_M101_B02a_ArtsName, Screech,  UI,  0
+EN_M101_B02a_OverAttackFirst, Scre,  UI,  0
+EN_M101_B02a_OverAttackLast, Ech,  UI,  0
+EN_M101_A03a_ArtsName, Summon Familiar,  UI,  0
+EN_M101_A03a_OverAttackFirst, Summon,  UI,  0
+EN_M101_A03a_OverAttackLast, Familiar,  UI,  0
+EN_M102_A03a_ArtsName, Riposte,  UI,  0
+EN_M102_A03a_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+EN_M102_A03a_OverAttackFirst, Rip,  UI,  0
+EN_M102_A03a_OverAttackLast, Oste,  UI,  0
+EN_M102_A08a_ArtsName, Rising Slash,  UI,  0
+EN_M102_A08a_ArtsExp, (Enemy/Single Target/STR) Mech stun chance 25%.,  UI,  0
+EN_M102_A08a_OverAttackFirst, Rising,  UI,  0
+EN_M102_A08a_OverAttackLast, Slash,  UI,  0
+EN_M102_A01a_ArtsName, Confusing Gaze,  UI,  0
+EN_M102_A01a_ArtsExp, (Enemy/Single Target/Antiair) Confusion chance 50%.,  UI,  0
+EN_M102_A01a_OverAttackFirst, Confusing,  UI,  0
+EN_M102_A01a_OverAttackLast, Gaze,  UI,  0
+EN_M102_A05a_ArtsName, Petrifying Gaze,  UI,  0
+EN_M102_A05a_OverAttackFirst, Petrifying,  UI,  0
+EN_M102_A05a_OverAttackLast, Gaze,  UI,  0
+EN_M102_A04a_ArtsName, Crippling Gaze,  UI,  0
+EN_M102_A04a_ArtsExp, (Enemy/Single Target/Antiair) Paralysis chance 50%.,  UI,  0
+EN_M102_A04a_OverAttackFirst, Crippling,  UI,  0
+EN_M102_A04a_OverAttackLast, Gaze,  UI,  0
+EN_M102_A06a_ArtsName, Gaze of Death,  UI,  0
+EN_M102_A06a_ArtsExp, (Enemy/Single Target/Antiair) Sudden death chance 50%.,  UI,  0
+EN_M102_A06a_OverAttackFirst, Gaze of,  UI,  0
+EN_M102_A06a_OverAttackLast, Death,  UI,  0
+EN_M102_A07a_ArtsName, Throw Sword,  UI,  0
+EN_M102_A07a_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+EN_M102_A07a_OverAttackFirst, Throw,  UI,  0
+EN_M102_A07a_OverAttackLast, Sword,  UI,  0
+EN_M102_A02a_ArtsName, Dance,  UI,  0
+EN_M102_A02a_OverAttackFirst, D,  UI,  0
+EN_M102_A02a_OverAttackLast, Ance,  UI,  0
+EN_M200_A01a_ArtsName, Nudge,  UI,  0
+EN_M200_A01a_OverAttackFirst, Nud,  UI,  0
+EN_M200_A01a_OverAttackLast, Ge,  UI,  0
+EN_M200_B01a_ArtsName, Suction,  UI,  0
+EN_M200_B01a_OverAttackFirst, Suct,  UI,  0
+EN_M200_B01a_OverAttackLast, Ion,  UI,  0
+EN_M200_A02a_ArtsName, Bound,  UI,  0
+EN_M200_A02a_OverAttackFirst, Bo,  UI,  0
+EN_M200_A02a_OverAttackLast, Und,  UI,  0
+EN_M200_B02a_ArtsName, Radiation,  UI,  0
+EN_M200_B02a_OverAttackFirst, Radia,  UI,  0
+EN_M200_B02a_OverAttackLast, Tion,  UI,  0
+SOUL_E_M0000_A_ArtsName, Sprawling Lick,  UI,  0
+SOUL_E_M0000_A_ArtsExp, (Enemy/Single Target/STR) Provoke enemy.,  UI,  0
+SOUL_E_M0000_A_OverAttackFirst, Sprawling,  UI,  0
+SOUL_E_M0000_A_OverAttackLast, Lick,  UI,  0
+SOUL_E_M0010_A_ArtsName, Lupine Cover,  UI,  0
+SOUL_E_M0010_A_ArtsExp, (Ally/Other) Take an attack intended for another ally. Reduces damage taken.,  UI,  0
+SOUL_E_M0010_A_OverAttackFirst, Lupine,  UI,  0
+SOUL_E_M0010_A_OverAttackLast, Cover,  UI,  0
+SOUL_E_M0020_A_ArtsName, Porcine Tackle,  UI,  0
+SOUL_E_M0020_A_ArtsExp, (Enemy/Single Target/END),  UI,  0
+SOUL_E_M0020_A_OverAttackFirst, Porcine,  UI,  0
+SOUL_E_M0020_A_OverAttackLast, Tackle,  UI,  0
+SOUL_E_M0100_A_ArtsName, Clear Water,  UI,  0
+SOUL_E_M0100_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+SOUL_E_M0100_A_OverAttackFirst, Clear,  UI,  0
+SOUL_E_M0100_A_OverAttackLast, Water,  UI,  0
+SOUL_E_M0110_A_ArtsName, Dragon's Fang,  UI,  0
+SOUL_E_M0110_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+SOUL_E_M0110_A_OverAttackFirst, Dragon's,  UI,  0
+SOUL_E_M0110_A_OverAttackLast, Fang,  UI,  0
+SOUL_E_M0120_A_ArtsName, Retaliation,  UI,  0
+SOUL_E_M0120_A_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX),  UI,  0
+SOUL_E_M0120_A_OverAttackFirst, Retalia,  UI,  0
+SOUL_E_M0120_A_OverAttackLast, Tion,  UI,  0
+SOUL_E_M0210_A_ArtsName, Felling Swing,  UI,  0
+SOUL_E_M0210_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+SOUL_E_M0210_A_OverAttackFirst, Felling,  UI,  0
+SOUL_E_M0210_A_OverAttackLast, Swing,  UI,  0
+SOUL_E_M0220_A_ArtsName, Heat Shower,  UI,  0
+SOUL_E_M0220_A_ArtsExp, (Enemy/Single Target/Antiair/DEX) Provoke enemy.,  UI,  0
+SOUL_E_M0220_A_OverAttackFirst, Heat,  UI,  0
+SOUL_E_M0220_A_OverAttackLast, Shower,  UI,  0
+SOUL_E_M0230_A_ArtsName, Bouncing Slug,  UI,  0
+SOUL_E_M0230_A_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+SOUL_E_M0230_A_OverAttackFirst, Bouncing,  UI,  0
+SOUL_E_M0230_A_OverAttackLast, Slug,  UI,  0
+SOUL_E_M0300_A_ArtsName, Delayed Fire,  UI,  0
+SOUL_E_M0300_A_ArtsExp, (Enemy/Single Target/Antiground/DEX) Stun chance 50%.,  UI,  0
+SOUL_E_M0300_A_OverAttackFirst, Delayed,  UI,  0
+SOUL_E_M0300_A_OverAttackLast, Fire,  UI,  0
+SOUL_E_M0310_A_ArtsName, Gale Parry,  UI,  0
+SOUL_E_M0310_A_ArtsExp, (Self) Nullify damage by deflecting attacks.,  UI,  0
+SOUL_E_M0310_A_OverAttackFirst, Gale,  UI,  0
+SOUL_E_M0310_A_OverAttackLast, Parry,  UI,  0
+SOUL_E_M0320_A_ArtsName, Buckshot Headbutt,  UI,  0
+SOUL_E_M0320_A_ArtsExp, (Enemy/Single Target/Antiair/DEX) Stun chance 50%.,  UI,  0
+SOUL_E_M0320_A_OverAttackFirst, Buckshot,  UI,  0
+SOUL_E_M0320_A_OverAttackLast, Headbutt,  UI,  0
+SOUL_E_M0400_A_ArtsName, Amphibian Punch,  UI,  0
+SOUL_E_M0400_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+SOUL_E_M0400_A_OverAttackFirst, Amphibian,  UI,  0
+SOUL_E_M0400_A_OverAttackLast, Punch,  UI,  0
+SOUL_E_M0410_A_ArtsName, Squidblade,  UI,  0
+SOUL_E_M0410_A_ArtsExp, (Enemy/All Targets/STR),  UI,  0
+SOUL_E_M0410_A_OverAttackFirst, Squid,  UI,  0
+SOUL_E_M0410_A_OverAttackLast, Blade,  UI,  0
+SOUL_E_M0420_A_ArtsName, Leaping Seahorse,  UI,  0
+SOUL_E_M0420_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+SOUL_E_M0420_A_OverAttackFirst, Leaping,  UI,  0
+SOUL_E_M0420_A_OverAttackLast, Seahorse,  UI,  0
+SOUL_E_M0500_A_ArtsName, Lightning Leg,  UI,  0
+SOUL_E_M0500_A_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+SOUL_E_M0500_A_OverAttackFirst, Lightning,  UI,  0
+SOUL_E_M0500_A_OverAttackLast, Leg,  UI,  0
+SOUL_E_M0510_A_ArtsName, Mighty Tutor,  UI,  0
+SOUL_E_M0510_A_ArtsExp, (Enemy/Single Target/Antiair/DEX) Target attack power -10%.,  UI,  0
+SOUL_E_M0510_A_OverAttackFirst, Mighty,  UI,  0
+SOUL_E_M0510_A_OverAttackLast, Tutor,  UI,  0
+SOUL_E_M0520_A_ArtsName, Haniwa Swordplay,  UI,  0
+SOUL_E_M0520_A_ArtsExp, (Enemy/Single Target/STR) Darkness chance 50%.,  UI,  0
+SOUL_E_M0520_A_OverAttackFirst, Haniwa,  UI,  0
+SOUL_E_M0520_A_OverAttackLast, Swordplay,  UI,  0
+SOUL_E_M0700_A_ArtsName, Boulder Slash,  UI,  0
+SOUL_E_M0700_A_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+SOUL_E_M0700_A_OverAttackFirst, Boulder,  UI,  0
+SOUL_E_M0700_A_OverAttackLast, Slash,  UI,  0
+SOUL_E_M0710_A_ArtsName, Carapace Buster,  UI,  0
+SOUL_E_M0710_A_ArtsExp, (Enemy/Single Target/Antiair/DEX) Target defense -20%.,  UI,  0
+SOUL_E_M0710_A_OverAttackFirst, Carapace,  UI,  0
+SOUL_E_M0710_A_OverAttackLast, Buster,  UI,  0
+SOUL_E_M0720_A_ArtsName, Mach Cleave,  UI,  0
+SOUL_E_M0720_A_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+SOUL_E_M0720_A_OverAttackFirst, Mach,  UI,  0
+SOUL_E_M0720_A_OverAttackLast, Cleave,  UI,  0
+SOUL_E_M0800_A_ArtsName, Fowl's Bane,  UI,  0
+SOUL_E_M0800_A_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+SOUL_E_M0800_A_OverAttackFirst, Fowl's,  UI,  0
+SOUL_E_M0800_A_OverAttackLast, Bane,  UI,  0
+SOUL_E_M0810_A_ArtsName, Flying Tackle,  UI,  0
+SOUL_E_M0810_A_ArtsExp, (Enemy/Single Target/Antiair/END),  UI,  0
+SOUL_E_M0810_A_OverAttackFirst, Flying,  UI,  0
+SOUL_E_M0810_A_OverAttackLast, Tackle,  UI,  0
+SOUL_E_M0820_A_ArtsName, Bat Chaser,  UI,  0
+SOUL_E_M0820_A_ArtsExp, (Enemy/Single Target/Antiair/MOB),  UI,  0
+SOUL_E_M0820_A_OverAttackFirst, Bat,  UI,  0
+SOUL_E_M0820_A_OverAttackLast, Chaser,  UI,  0
+SOUL_E_M0900_A_ArtsName, Elemental Suppression,  UI,  0
+SOUL_E_M0900_A_ArtsExp, (Enemy/All Targets/Antiair/DEX) Target spell power -20%.,  UI,  0
+SOUL_E_M0900_A_OverAttackFirst, Elemental,  UI,  0
+SOUL_E_M0900_A_OverAttackLast, Suppression,  UI,  0
+SOUL_E_M1000_A_ArtsName, Demonic Counter,  UI,  0
+SOUL_E_M1000_A_ArtsExp, (Enemy/Single Target/Guaranteed Hit/DEX),  UI,  0
+SOUL_E_M1000_A_OverAttackFirst, Demonic,  UI,  0
+SOUL_E_M1000_A_OverAttackLast, Counter,  UI,  0
+SOUL_E_M1010_A_ArtsName, Scream Burst,  UI,  0
+SOUL_E_M1010_A_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+SOUL_E_M1010_A_OverAttackFirst, Scream,  UI,  0
+SOUL_E_M1010_A_OverAttackLast, Burst,  UI,  0
+SOUL_E_M1020_A_ArtsName, Devilish Smash,  UI,  0
+SOUL_E_M1020_A_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+SOUL_E_M1020_A_OverAttackFirst, Devilish,  UI,  0
+SOUL_E_M1020_A_OverAttackLast, Smash,  UI,  0
+SOUL_E_M2000_A_ArtsName, Mighty Thrust,  UI,  0
+SOUL_E_M2000_A_ArtsExp, (Enemy/Single Target/DEX) Target defense -10%.,  UI,  0
+SOUL_E_M2000_A_OverAttackFirst, Mighty,  UI,  0
+SOUL_E_M2000_A_OverAttackLast, Thrust,  UI,  0
+OHS_WL000_A04_BLD02_ArtsName, Sanguine Chain,  UI,  0
+OHS_WL000_A04_BLD02_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/MOB),  UI,  0
+OHS_WL000_A04_BLD02_OverAttackFirst, Sanguine,  UI,  0
+OHS_WL000_A04_BLD02_OverAttackLast, Chain,  UI,  0
+THS_WHSSW_B01_ArtsName, Gravedigger,  UI,  0
+EN_M040_A02a_A_ArtsName, Welcoming Dance,  UI,  0
+EN_M040_A05a_A_ArtsName, Eerie Dance,  UI,  0
+EN_M040_B02a_ArtsName, Cyclone Squeeze,  UI,  0
+EN_M071_A01b_ArtsName, Feast,  UI,  0
+EN_M080_A06a_ArtsName, Mania,  UI,  0
+EN_M100_B01a_A_ArtsName, Cross Sever,  UI,  0
+EN_M100_A03a_A_ArtsName, Blaze Breath,  UI,  0
+EN_M100_A04a_A_ArtsName, Freeze Breath,  UI,  0
+EN_M100_A05a_A_ArtsName, Spark Breath,  UI,  0
+EN_M100_A02a_A_ArtsName, Lament of the Earth,  UI,  0
+SL_RB_A_01_IHA01_ArtsName, Purity Rise,  UI,  0
+SL_RB_A_02_IHA02_ArtsName, Harmony Rise,  UI,  0
+SL_RB_A_03_IHA03_ArtsName, Power Rise,  UI,  0
+SL_RB_A_04_IHA04_ArtsName, Verity Rise,  UI,  0
+SL_RB_B_01_IHA05_ArtsName, Power Incense,  UI,  0
+SL_RB_B_02_IHA06_ArtsName, Durability Incense,  UI,  0
+SL_RB_B_03_IHA07_ArtsName, Agility Incense,  UI,  0
+SL_RB_B_04_IHA08_ArtsName, Wisdom Incense,  UI,  0
+SL_RB_B_05_IHA09_ArtsName, Recovery Incense,  UI,  0
+SL_RB_C_01_IHA10_ArtsName, Paralysis Spores,  UI,  0
+SL_RB_C_02_IHA11_ArtsName, Poison Spores,  UI,  0
+SL_RB_C_03_IHA12_ArtsName, Darkness Spores,  UI,  0
+SL_RB_C_04_IHA13_ArtsName, Stench Spores,  UI,  0
+SL_RB_C_05_IHA14_ArtsName, Confusion Spores,  UI,  0
+SL_RB_C_06_IHA15_ArtsName, Agitation Spores,  UI,  0
+MAG_MG_A_01_Mo01_ArtsName, Gravity Bind,  UI,  0
+MAG_MG_A_02_Mo02_ArtsName, Wall of Air,  UI,  0
+MAG_MG_A_03_Mo03_ArtsName, Heaven's Thunder,  UI,  0
+MAG_MG_A_04_Mo04_ArtsName, Mirrorshade,  UI,  0
+MAG_MG_A_05_Mo05_ArtsName, Chaos Disaster,  UI,  0
+MAG_MG_B_01_Ka01_ArtsName, Sunlight,  UI,  0
+MAG_MG_B_02_Ka02_ArtsName, Song of Souls,  UI,  0
+MAG_MG_B_03_Ka03_ArtsName, Gale Blast,  UI,  0
+MAG_MG_B_04_Ka04_ArtsName, Awaken,  UI,  0
+MAG_MG_B_05_Ka05_ArtsName, Incineration,  UI,  0
+MAG_MG_C_01_Do01_ArtsName, Spellbind,  UI,  0
+MAG_MG_C_02_Do02_ArtsName, Delay Order,  UI,  0
+MAG_MG_C_03_Do03_ArtsName, Hypergravity,  UI,  0
+MAG_MG_C_04_Do04_ArtsName, Wall of Earth,  UI,  0
+MAG_MG_C_05_Do05_ArtsName, Churning Earth,  UI,  0
+MAG_MG_D_01_Ki01_ArtsName, Blood Curdle,  UI,  0
+MAG_MG_D_02_Ki02_ArtsName, Magical Harmony,  UI,  0
+MAG_MG_D_03_Ki03_ArtsName, Vermilion Sands,  UI,  0
+MAG_MG_D_04_Ki04_ArtsName, Magic Breath,  UI,  0
+MAG_MG_D_05_Ki05_ArtsName, The Tower,  UI,  0
+MAG_MG_E_01_Su01_ArtsName, Sharp Pain,  UI,  0
+MAG_MG_E_02_Su02_ArtsName, Holy Water,  UI,  0
+MAG_MG_E_03_Su03_ArtsName, Aqua Sphere,  UI,  0
+MAG_MG_E_04_Su04_ArtsName, Hasten Time,  UI,  0
+MAG_MG_E_05_Su05_ArtsName, Snowstorm,  UI,  0
+OHS_WL000_B01_A_OverAttackFirst, Rage,  UI,  0
+OHS_WL000_B01_A_OverAttackLast, Rage,  UI,  0
+OHS_WLLSW_B01_A_OverAttackFirst, Sanguine,  UI,  0
+OHS_WLLSW_B01_A_OverAttackLast, Block,  UI,  0
+OHS_WLAXE_B03_EX1_BASE_OverAttackFirst, Reverse,  UI,  0
+OHS_WLAXE_B03_EX1_BASE_OverAttackLast, Delta,  UI,  0
+THS_WH000_A02_SOUL_BASE_OverAttackFirst, Flowing,  UI,  0
+THS_WH000_A02_SOUL_BASE_OverAttackLast, Slash,  UI,  0
+THS_WH000_A04_SOUL_BASE_OverAttackFirst, Vertical,  UI,  0
+THS_WH000_A04_SOUL_BASE_OverAttackLast, Smash,  UI,  0
+THS_WH000_B01_A_OverAttackFirst, Death,  UI,  0
+THS_WH000_B01_A_OverAttackLast, Rattle,  UI,  0
+THS_WHGSW_A01_A_OverAttackFirst, Bull,  UI,  0
+THS_WHGSW_A01_A_OverAttackLast, Block,  UI,  0
+THS_WHSSW_B01_OverAttackFirst, Grave,  UI,  0
+THS_WHSSW_B01_OverAttackLast, Digger,  UI,  0
+THS_WHSSW_B04_EX1_BASE_OverAttackFirst, Scattered,  UI,  0
+THS_WHSSW_B04_EX1_BASE_OverAttackLast, Petals,  UI,  0
+THS_WHPSW_A01_EX1_BASE_OverAttackFirst, A,  UI,  0
+THS_WHPSW_A01_EX1_BASE_OverAttackLast, Im,  UI,  0
+THS_WHPSW_B02_A_OverAttackFirst, Chasing,  UI,  0
+THS_WHPSW_B02_A_OverAttackLast, Double Star,  UI,  0
+THS_WHPSW_B04_EX1_BASE_OverAttackFirst, Trium,  UI,  0
+THS_WHPSW_B04_EX1_BASE_OverAttackLast, Virate,  UI,  0
+THG_GH000_B02_SOUL_BASE_OverAttackFirst, Sup,  UI,  0
+THG_GH000_B02_SOUL_BASE_OverAttackLast, Pression,  UI,  0
+OHS_WL000_A01_UN2_OverAttackFirst, Al,  UI,  0
+OHS_WL000_A01_UN2_OverAttackLast, Arm,  UI,  0
+OHS_WL000_A04_UN1_OverAttackFirst, Peregrine,  UI,  0
+OHS_WL000_A04_UN1_OverAttackLast, Lunge,  UI,  0
+OHS_WLAXE_A01_UN1_OverAttackFirst, Hawk,  UI,  0
+OHS_WLAXE_A01_UN1_OverAttackLast, Chaser,  UI,  0
+THS_WH000_A02_UN1_OverAttackFirst, Cleansing,  UI,  0
+THS_WH000_A02_UN1_OverAttackLast, Flow,  UI,  0
+THS_WHPSW_B01_UN1_OverAttackFirst, Discordant,  UI,  0
+THS_WHPSW_B01_UN1_OverAttackLast, Descent,  UI,  0
+OHG_GL000_B06_UN1_OverAttackFirst, Focused,  UI,  0
+OHG_GL000_B06_UN1_OverAttackLast, Scatter,  UI,  0
+THG_GH000_A01_UN1_OverAttackFirst, Rough,  UI,  0
+THG_GH000_A01_UN1_OverAttackLast, Buckshot,  UI,  0
+MCH_M90X_A01a_A_OverAttackFirst, Quick,  UI,  0
+MCH_M90X_A01a_A_OverAttackLast, Blade,  UI,  0
+MCH_M90X_A01a_B_OverAttackFirst, Raw,  UI,  0
+MCH_M90X_A01a_B_OverAttackLast, Blade,  UI,  0
+MCH_M90X_A02a_A_OverAttackFirst, Spin,  UI,  0
+MCH_M90X_A02a_A_OverAttackLast, Slash,  UI,  0
+MCH_M90X_A03a_A_OverAttackFirst, Frenetic,  UI,  0
+MCH_M90X_A03a_A_OverAttackLast, Tracer,  UI,  0
+MCH_M90X_A03a_B_OverAttackFirst, Wal,  UI,  0
+MCH_M90X_A03a_B_OverAttackLast, Lop,  UI,  0
+MCH_M90X_A04a_B_OverAttackFirst, Occasional,  UI,  0
+MCH_M90X_A04a_B_OverAttackLast, Self-Destruct,  UI,  0
+MCH_M90X_A05a_A_OverAttackFirst, Marvelous,  UI,  0
+MCH_M90X_A05a_A_OverAttackLast, Sword,  UI,  0
+MCH_M90X_B01a_A_OverAttackFirst, Rushing,  UI,  0
+MCH_M90X_B01a_A_OverAttackLast, Knight,  UI,  0
+MCH_M90X_B02a_A_OverAttackFirst, Magnetic,  UI,  0
+MCH_M90X_B02a_A_OverAttackLast, Smash,  UI,  0
+MCH_M90X_B03a_A_OverAttackFirst, Flash,  UI,  0
+MCH_M90X_B03a_A_OverAttackLast, Sword,  UI,  0
+MCH_Diva_OverAttackFirst, Scattered,  UI,  0
+MCH_Diva_OverAttackLast, Petals,  UI,  0
+MCH_M90Y_A01a_A_OverAttackFirst, Heavy,  UI,  0
+MCH_M90Y_A01a_A_OverAttackLast, Water Cannon,  UI,  0
+MCH_M90Y_A01a_B_OverAttackFirst, Rustic,  UI,  0
+MCH_M90Y_A01a_B_OverAttackLast, Cannon,  UI,  0
+MCH_M90Y_A02a_A_OverAttackFirst, Supporting,  UI,  0
+MCH_M90Y_A02a_A_OverAttackLast, Shot,  UI,  0
+MCH_M90Y_A08a_A_OverAttackFirst, Frozen,  UI,  0
+MCH_M90Y_A08a_A_OverAttackLast, Bullet,  UI,  0
+MCH_M90Z_A01a_2_OverAttackFirst, Fortification,  UI,  0
+MCH_M90Z_A01a_2_OverAttackLast, Fortification,  UI,  0
+MCH_M90Z_A02a_2_OverAttackFirst, Protection,  UI,  0
+MCH_M90Z_A02a_2_OverAttackLast, Protection,  UI,  0
+MCH_M90Z_A03a_2_OverAttackFirst, Acceleration,  UI,  0
+MCH_M90Z_A03a_2_OverAttackLast, Acceleration,  UI,  0
+MCH_M90Z_A04a_2_OverAttackFirst, Deceleration,  UI,  0
+MCH_M90Z_A04a_2_OverAttackLast, Deceleration,  UI,  0
+MCH_M90Z_A05a_2_OverAttackFirst, Repair,  UI,  0
+MCH_M90Z_A05a_2_OverAttackLast, Repair,  UI,  0
+MCH_M90Z_A06a_2_OverAttackFirst, Optical,  UI,  0
+MCH_M90Z_A06a_2_OverAttackLast, Optical,  UI,  0
+MCH_M90Z_B01a_2_OverAttackFirst, Self-Defense,  UI,  0
+MCH_M90Z_B01a_2_OverAttackLast, Self-Defense,  UI,  0
+MCH_M90Z_B02a_2_OverAttackFirst, Gilding,  UI,  0
+MCH_M90Z_B02a_2_OverAttackLast, Gilding,  UI,  0
+MCH_M90Z_B03a_2_OverAttackFirst, Safety,  UI,  0
+MCH_M90Z_B03a_2_OverAttackLast, Safe,  UI,  0
+MCH_M90Y_B06a_EN_OverAttackFirst, Beam of,  UI,  0
+MCH_M90Y_B06a_EN_OverAttackLast, Destruction,  UI,  0
+MCH_M90X_A04a_EN_OverAttackFirst, Self-,  UI,  0
+MCH_M90X_A04a_EN_OverAttackLast, Destruct,  UI,  0
+MCH_M90X_A04a_EN2_OverAttackFirst, System,  UI,  0
+MCH_M90X_A04a_EN2_OverAttackLast, Failure,  UI,  0
+MCH_M90Z_A04a_EN3_OverAttackFirst, System,  UI,  0
+MCH_M90Z_A04a_EN3_OverAttackLast, Crash,  UI,  0
+MCH_M901_A01a_EN_OverAttackFirst, Demise,  UI,  0
+MCH_M901_A01a_EN_OverAttackLast, Disc,  UI,  0
+MCH_M90X_A06a_EN_OverAttackFirst, Guardian,  UI,  0
+MCH_M90X_A06a_EN_OverAttackLast, Program,  UI,  0
+MCH_M904_B01a_EN_OverAttackFirst, Homing,  UI,  0
+MCH_M904_B01a_EN_OverAttackLast, Missile,  UI,  0
+MCH_M90X_B03a_A_EN_OverAttackFirst, Early,  UI,  0
+MCH_M90X_B03a_A_EN_OverAttackLast, Flash,  UI,  0
+MCH_M90X_B03a_A_EN2_OverAttackFirst, Late,  UI,  0
+MCH_M90X_B03a_A_EN2_OverAttackLast, Flash,  UI,  0
+MCH_M90Y_B04a_EN_OverAttackFirst, Rear,  UI,  0
+MCH_M90Y_B04a_EN_OverAttackLast, Suppressive Fire,  UI,  0
+MCH_M90Z_A01a_EN_OverAttackFirst, Fortification,  UI,  0
+MCH_M90Z_A01a_EN_OverAttackLast, Pack,  UI,  0
+MCH_M90Z_A02a_EN_OverAttackFirst, Protection,  UI,  0
+MCH_M90Z_A02a_EN_OverAttackLast, Pack,  UI,  0
+MCH_M90Z_A03a_2_EN_OverAttackFirst, Acceleration Pack,  UI,  0
+MCH_M90Z_A03a_2_EN_OverAttackLast, Mark II,  UI,  0
+MON_M001X_A01a_OverAttackFirst, Lupine,  UI,  0
+MON_M001X_A01a_OverAttackLast, Fang,  UI,  0
+MON_M072X_A01a_OverAttackFirst, Mantis,  UI,  0
+MON_M072X_A01a_OverAttackLast, Blade,  UI,  0
+EN_M000_A01a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M000_A01a_Tri_OverAttackLast, Smash,  UI,  0
+EN_M001_A02a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M001_A02a_Tri_OverAttackLast, Break,  UI,  0
+EN_M002_A05a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M002_A05a_Tri_OverAttackLast, Strike,  UI,  0
+EN_M010_B01a_A_OverAttackFirst, Death,  UI,  0
+EN_M010_B01a_A_OverAttackLast, Wave,  UI,  0
+EN_M011_A01a_A_OverAttackFirst, Grand,  UI,  0
+EN_M011_A01a_A_OverAttackLast, Pounce,  UI,  0
+EN_M011_A01a_B_OverAttackFirst, Terra,  UI,  0
+EN_M011_A01a_B_OverAttackLast, Fang,  UI,  0
+EN_M011_B01a_A_OverAttackFirst, Great,  UI,  0
+EN_M011_B01a_A_OverAttackLast, Howl,  UI,  0
+EN_M011_B01a_B_OverAttackFirst, Autumn,  UI,  0
+EN_M011_B01a_B_OverAttackLast, Wind,  UI,  0
+EN_M011_B01a_C_OverAttackFirst, Bewildering,  UI,  0
+EN_M011_B01a_C_OverAttackLast, Howl,  UI,  0
+EN_M011_B01a_D_OverAttackFirst, Withering,  UI,  0
+EN_M011_B01a_D_OverAttackLast, Howl,  UI,  0
+EN_M011_B01a_E_OverAttackFirst, Paralyzing,  UI,  0
+EN_M011_B01a_E_OverAttackLast, Howl,  UI,  0
+EN_M011_B01a_F_OverAttackFirst, Deathly,  UI,  0
+EN_M011_B01a_F_OverAttackLast, Howl,  UI,  0
+EN_M011_B02a_A_OverAttackFirst, Grand,  UI,  0
+EN_M011_B02a_A_OverAttackLast, Spikes,  UI,  0
+EN_M011_B03a_A_OverAttackFirst, Flame,  UI,  0
+EN_M011_B03a_A_OverAttackLast, Eruption,  UI,  0
+EN_M011_B04a_A_OverAttackFirst, Frost,  UI,  0
+EN_M011_B04a_A_OverAttackLast, Eruption,  UI,  0
+EN_M011_B05a_A_OverAttackFirst, Lightning,  UI,  0
+EN_M011_B05a_A_OverAttackLast, Eruption,  UI,  0
+EN_M021_A01a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M021_A01a_Tri_OverAttackLast, Slap,  UI,  0
+EN_M021_A05a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M021_A05a_Tri_OverAttackLast, Bomber,  UI,  0
+EN_M022_A03a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M022_A03a_Tri_OverAttackLast, Fixer,  UI,  0
+EN_M030_A02a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M030_A02a_Tri_OverAttackLast, Venom,  UI,  0
+EN_M030_A03a_Heavy_OverAttackFirst, Mega-,  UI,  0
+EN_M030_A03a_Heavy_OverAttackLast, Petrification,  UI,  0
+EN_M031_A01a_A_OverAttackFirst, Charging,  UI,  0
+EN_M031_A01a_A_OverAttackLast, Tear,  UI,  0
+EN_M031_A03a_A_OverAttackFirst, Fang,  UI,  0
+EN_M031_A03a_A_OverAttackLast, Tailwind,  UI,  0
+EN_M032_A01a_A_OverAttackFirst, Frigid,  UI,  0
+EN_M032_A01a_A_OverAttackLast, Spear,  UI,  0
+EN_M032_B01a_A_OverAttackFirst, Ruck,  UI,  0
+EN_M032_B01a_A_OverAttackLast, Us,  UI,  0
+EN_M032_B02a_A_OverAttackFirst, Clob,  UI,  0
+EN_M032_B02a_A_OverAttackLast, Ber,  UI,  0
+EN_M040_A01a_A_OverAttackFirst, Shock,  UI,  0
+EN_M040_A01a_A_OverAttackLast, Hammer,  UI,  0
+EN_M040_A02a_A_OverAttackFirst, Welcoming,  UI,  0
+EN_M040_A02a_A_OverAttackLast, Dance,  UI,  0
+EN_M040_A05a_A_OverAttackFirst, Eerie,  UI,  0
+EN_M040_A05a_A_OverAttackLast, Dance,  UI,  0
+EN_M040_A03a_A_OverAttackFirst, Chain,  UI,  0
+EN_M040_A03a_A_OverAttackLast, Kick,  UI,  0
+EN_M040_A04a_A_OverAttackFirst, Amphibian,  UI,  0
+EN_M040_A04a_A_OverAttackLast, Panic,  UI,  0
+EN_M040_B02a_OverAttackFirst, Cyclone,  UI,  0
+EN_M040_B02a_OverAttackLast, Squeeze,  UI,  0
+EN_M041_A02a_A_OverAttackFirst, Squirm,  UI,  0
+EN_M041_A02a_A_OverAttackLast, Tentacle,  UI,  0
+EN_M041_B02a_A_OverAttackFirst, Cleansing,  UI,  0
+EN_M041_B02a_A_OverAttackLast, Wave,  UI,  0
+EN_M041_B01a_A_OverAttackFirst, Noxious,  UI,  0
+EN_M041_B01a_A_OverAttackLast, Ink,  UI,  0
+EN_M042_A02a_A_OverAttackFirst, Stone,  UI,  0
+EN_M042_A02a_A_OverAttackLast, Pick,  UI,  0
+EN_M042_A04a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M042_A04a_Tri_OverAttackLast, Bite,  UI,  0
+EN_M050_B01a_A_OverAttackFirst, Acid,  UI,  0
+EN_M050_B01a_A_OverAttackLast, Junction,  UI,  0
+EN_M052_A02a_A_OverAttackFirst, Counter,  UI,  0
+EN_M052_A02a_A_OverAttackLast, Tremor,  UI,  0
+EN_M052_B01a_A_OverAttackFirst, Con,  UI,  0
+EN_M052_B01a_A_OverAttackLast, Flagration,  UI,  0
+EN_M052_B02a_A_OverAttackFirst, Sp,  UI,  0
+EN_M052_B02a_A_OverAttackLast, Urn,  UI,  0
+EN_M071_A01b_OverAttackFirst, Fe,  UI,  0
+EN_M071_A01b_OverAttackLast, Ast,  UI,  0
+EN_M072_A01a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M072_A01a_Tri_OverAttackLast, Sonic,  UI,  0
+EN_M072_B03a_A_OverAttackFirst, Infernal,  UI,  0
+EN_M072_B03a_A_OverAttackLast, Claw,  UI,  0
+EN_M080_A06a_OverAttackFirst, Man,  UI,  0
+EN_M080_A06a_OverAttackLast, Ia,  UI,  0
+EN_M081_A01a_A_OverAttackFirst, GET BENT,,  UI,  0
+EN_M081_A01a_A_OverAttackLast, CHUMP!,  UI,  0
+EN_M081_A05a_A_OverAttackFirst, TO HELL,  UI,  0
+EN_M081_A05a_A_OverAttackLast, WITH YOU!,  UI,  0
+EN_M081_A04a_A_OverAttackFirst, DIE,  UI,  0
+EN_M081_A04a_A_OverAttackLast, ALREADY!,  UI,  0
+EN_M081_A03a_A_OverAttackFirst, LET'S GET,  UI,  0
+EN_M081_A03a_A_OverAttackLast, DANGEROUS!,  UI,  0
+EN_M081_A03a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M081_A03a_Tri_OverAttackLast, Roar,  UI,  0
+EN_M082_A02a_A_OverAttackFirst, Medd,  UI,  0
+EN_M082_A02a_A_OverAttackLast, Le,  UI,  0
+EN_M090_A04a_A_OverAttackFirst, Bla,  UI,  0
+EN_M090_A04a_A_OverAttackLast, Ster,  UI,  0
+EN_M090_A04a_Chase_OverAttackFirst, Pursuing,  UI,  0
+EN_M090_A04a_Chase_OverAttackLast, Blaster,  UI,  0
+EN_M090_A04a_Interrupt_OverAttackFirst, Interrupting,  UI,  0
+EN_M090_A04a_Interrupt_OverAttackLast, Blaster,  UI,  0
+EN_M090_A06a_Follow_OverAttackFirst, Chain,  UI,  0
+EN_M090_A06a_Follow_OverAttackLast, Spread,  UI,  0
+EN_M090_A03a_Sui_OverAttackFirst, Con,  UI,  0
+EN_M090_A03a_Sui_OverAttackLast, Juration,  UI,  0
+EN_M090_A03a_Ka_OverAttackFirst, Con,  UI,  0
+EN_M090_A03a_Ka_OverAttackLast, Juration,  UI,  0
+EN_M090_A03a_Moku_OverAttackFirst, Con,  UI,  0
+EN_M090_A03a_Moku_OverAttackLast, Juration,  UI,  0
+EN_M090_A03a_Do_OverAttackFirst, Con,  UI,  0
+EN_M090_A03a_Do_OverAttackLast, Juration,  UI,  0
+EN_M100_B01a_A_OverAttackFirst, Cross,  UI,  0
+EN_M100_B01a_A_OverAttackLast, Sever,  UI,  0
+EN_M100_B02a_NoTri_OverAttackFirst, Ultra Tri-,  UI,  0
+EN_M100_B02a_NoTri_OverAttackLast, Demonic Scratch,  UI,  0
+EN_M100_A03a_A_OverAttackFirst, Blaze,  UI,  0
+EN_M100_A03a_A_OverAttackLast, Breath,  UI,  0
+EN_M100_A04a_A_OverAttackFirst, Freeze,  UI,  0
+EN_M100_A04a_A_OverAttackLast, Breath,  UI,  0
+EN_M100_A05a_A_OverAttackFirst, Spark,  UI,  0
+EN_M100_A05a_A_OverAttackLast, Breath,  UI,  0
+EN_M100_A02a_A_OverAttackFirst, Lament of the,  UI,  0
+EN_M100_A02a_A_OverAttackLast, Earth,  UI,  0
+EN_M102_A07a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M102_A07a_Tri_OverAttackLast, Throw,  UI,  0
+EN_M200_A01a_A_OverAttackFirst, Pro,  UI,  0
+EN_M200_A01a_A_OverAttackLast, D,  UI,  0
+EN_M200_A01a_B_OverAttackFirst, Linked,  UI,  0
+EN_M200_A01a_B_OverAttackLast, Nudge,  UI,  0
+EN_M200_B01a_ADM_OverAttackFirst, Immense,  UI,  0
+EN_M200_B01a_ADM_OverAttackLast, Suction,  UI,  0
+EN_M200_B01a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M200_B01a_Tri_OverAttackLast, Vacuum,  UI,  0
+EN_M200_B02a_Attack_OverAttackFirst, Offensive,  UI,  0
+EN_M200_B02a_Attack_OverAttackLast, Radiation,  UI,  0
+EN_M200_B02a_Defense_OverAttackFirst, Defensive,  UI,  0
+EN_M200_B02a_Defense_OverAttackLast, Radiation,  UI,  0
+EN_M200_B02a_AD_OverAttackFirst, Multipurpose,  UI,  0
+EN_M200_B02a_AD_OverAttackLast, Radiation,  UI,  0
+EN_M200_B02a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M200_B02a_Tri_OverAttackLast, Mission,  UI,  0
+EN_M210_B01a_OverAttackFirst, Sacred,  UI,  0
+EN_M210_B01a_OverAttackLast, Song,  UI,  0
+EN_M210_B04a_OverAttackFirst, Star,  UI,  0
+EN_M210_B04a_OverAttackLast, Smasher,  UI,  0
+EN_M210_A03a_OverAttackFirst, Lance of,  UI,  0
+EN_M210_A03a_OverAttackLast, Light,  UI,  0
+EN_M210_A03a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M210_A03a_Tri_OverAttackLast, Arrow,  UI,  0
+EN_M210_B03a_OverAttackFirst, Earth,  UI,  0
+EN_M210_B03a_OverAttackLast, Quake,  UI,  0
+EN_M210_A01a_OverAttackFirst, Tram,  UI,  0
+EN_M210_A01a_OverAttackLast, Ple,  UI,  0
+EN_M210_A02a_OverAttackFirst, Freezing,  UI,  0
+EN_M210_A02a_OverAttackLast, Blaster,  UI,  0
+EN_M210_A04a_OverAttackFirst, Awa,  UI,  0
+EN_M210_A04a_OverAttackLast, Ken,  UI,  0
+EN_M220_B03a_OverAttackFirst, Thunder,  UI,  0
+EN_M220_B03a_OverAttackLast, Spike,  UI,  0
+EN_M220_A03a_OverAttackFirst, Tail,  UI,  0
+EN_M220_A03a_OverAttackLast, Swipe,  UI,  0
+EN_M220_B01a_OverAttackFirst, Cyc,  UI,  0
+EN_M220_B01a_OverAttackLast, Lone,  UI,  0
+EN_M220_B02a_OverAttackFirst, Ga,  UI,  0
+EN_M220_B02a_OverAttackLast, Aze,  UI,  0
+EN_M220_A02a_OverAttackFirst, Lightning,  UI,  0
+EN_M220_A02a_OverAttackLast, Crash,  UI,  0
+EN_M220_A02a_Tri_OverAttackFirst, Tri-,  UI,  0
+EN_M220_A02a_Tri_OverAttackLast, Thunder,  UI,  0
+EN_M220_A01a_OverAttackFirst, Brilli,  UI,  0
+EN_M220_A01a_OverAttackLast, Ance,  UI,  0
+EN_M220_A04a_OverAttackFirst, Con,  UI,  0
+EN_M220_A04a_OverAttackLast, Juration,  UI,  0
+EN_M220_A04a_A_OverAttackFirst, Con,  UI,  0
+EN_M220_A04a_A_OverAttackLast, Juration,  UI,  0
+EN_M230_B05a_OverAttackFirst, Rampaging,  UI,  0
+EN_M230_B05a_OverAttackLast, Exhaust,  UI,  0
+EN_M230_B05a_A_OverAttackFirst, Rampaging,  UI,  0
+EN_M230_B05a_A_OverAttackLast, Counter,  UI,  0
+EN_M230_A01a_OverAttackFirst, Axel,  UI,  0
+EN_M230_A01a_OverAttackLast, Turn,  UI,  0
+EN_M230_A01a_A_OverAttackFirst, Interrupting,  UI,  0
+EN_M230_A01a_A_OverAttackLast, Turn,  UI,  0
+EN_M230_A02a_OverAttackFirst, Wheel,  UI,  0
+EN_M230_A02a_OverAttackLast, Throw,  UI,  0
+EN_M230_A02a_A_OverAttackFirst, Wheel,  UI,  0
+EN_M230_A02a_A_OverAttackLast, Reversal,  UI,  0
+EN_M230_B01a_OverAttackFirst, Bre,  UI,  0
+EN_M230_B01a_OverAttackLast, Ath,  UI,  0
+EN_M230_B01a_1_OverAttackFirst, Red,  UI,  0
+EN_M230_B01a_1_OverAttackLast, Breath,  UI,  0
+EN_M230_B01a_2_OverAttackFirst, White,  UI,  0
+EN_M230_B01a_2_OverAttackLast, Breath,  UI,  0
+EN_M230_B01a_3_OverAttackFirst, Black,  UI,  0
+EN_M230_B01a_3_OverAttackLast, Breath,  UI,  0
+EN_M230_B01a_Change_M2300A_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B01a_Change_M2300A_OverAttackLast, Iwanaga-hime,  UI,  0
+EN_M230_B01a_Change_M2301A_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B01a_Change_M2301A_OverAttackLast, Kagutsuchi,  UI,  0
+EN_M230_B01a_Change_M2302A_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B01a_Change_M2302A_OverAttackLast, Susanoo,  UI,  0
+EN_M230_B01a_Change_M2303A_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B01a_Change_M2303A_OverAttackLast, Lion Spirit,  UI,  0
+EN_M230_B01a_Change_M2304A_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B01a_Change_M2304A_OverAttackLast, Benkei,  UI,  0
+EN_M230_B01a_Change_MECHAFRED_A_OverAttackFirst, Alessa,  UI,  0
+EN_M230_B01a_Change_MECHAFRED_A_OverAttackLast, Infatuation,  UI,  0
+EN_M230_B02a_OverAttackFirst, Right Face's,  UI,  0
+EN_M230_B02a_OverAttackLast, Breath,  UI,  0
+EN_M230_B02a_1_OverAttackFirst, Blue,  UI,  0
+EN_M230_B02a_1_OverAttackLast, Breath,  UI,  0
+EN_M230_B02a_2_OverAttackFirst, Yellow,  UI,  0
+EN_M230_B02a_2_OverAttackLast, Breath,  UI,  0
+EN_M230_B02a_3_OverAttackFirst, Black,  UI,  0
+EN_M230_B02a_3_OverAttackLast, Breath,  UI,  0
+EN_M230_B02a_Change_M2300B_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B02a_Change_M2300B_OverAttackLast, Konohanasakuya,  UI,  0
+EN_M230_B02a_Change_M2301B_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B02a_Change_M2301B_OverAttackLast, Ame-no-Uzume,  UI,  0
+EN_M230_B02a_Change_M2302B_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B02a_Change_M2302B_OverAttackLast, Yamata no Orochi,  UI,  0
+EN_M230_B02a_Change_M2303B_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B02a_Change_M2303B_OverAttackLast, Butterfly Spirit,  UI,  0
+EN_M230_B02a_Change_M2304B_OverAttackFirst, Personality Shift:,  UI,  0
+EN_M230_B02a_Change_M2304B_OverAttackLast, Ushiwakamaru,  UI,  0
+EN_M230_B02a_Change_MECHAFRED_B_OverAttackFirst, Corana,  UI,  0
+EN_M230_B02a_Change_MECHAFRED_B_OverAttackLast, Obsession,  UI,  0
+EN_M230_B03a_OverAttackFirst, Revolving,  UI,  0
+EN_M230_B03a_OverAttackLast, Tornado,  UI,  0
+EN_M230_A03a_OverAttackFirst, Cowering,  UI,  0
+EN_M230_A03a_OverAttackLast, Slap,  UI,  0
+EN_M230_B04a_OverAttackFirst, Timid,  UI,  0
+EN_M230_B04a_OverAttackLast, Aura,  UI,  0
+EN_M300_B01a_OverAttackFirst, Enfeebling,  UI,  0
+EN_M300_B01a_OverAttackLast, Notion,  UI,  0
+EN_M300_B02a_OverAttackFirst, Crumbling,  UI,  0
+EN_M300_B02a_OverAttackLast, Notion,  UI,  0
+EN_M300_B03a_OverAttackFirst, Lethargic,  UI,  0
+EN_M300_B03a_OverAttackLast, Notion,  UI,  0
+EN_M300_B04a_OverAttackFirst, Ignorant,  UI,  0
+EN_M300_B04a_OverAttackLast, Notion,  UI,  0
+EN_M300_MG_A_03_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_A_03_OverAttackLast, Heaven's Thunder,  UI,  0
+EN_M300_MG_B_03_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_B_03_OverAttackLast, Gale Blast,  UI,  0
+EN_M300_MG_C_03_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_C_03_OverAttackLast, Hypergravity,  UI,  0
+EN_M300_MG_D_03_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_D_03_OverAttackLast, Vermilion Sands,  UI,  0
+EN_M300_MG_E_03_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_E_03_OverAttackLast, Aqua Sphere,  UI,  0
+EN_M300_B11a_OverAttackFirst, Con,  UI,  0
+EN_M300_B11a_OverAttackLast, Juration,  UI,  0
+EN_M300_B21a_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B21a_OverAttackLast, Wood,  UI,  0
+EN_M300_MG_A_05_OverAttackFirst, Wood's,  UI,  0
+EN_M300_MG_A_05_OverAttackLast, Awakening,  UI,  0
+EN_M300_B22a_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B22a_OverAttackLast, Fire,  UI,  0
+EN_M300_MG_B_05_OverAttackFirst, Fire's,  UI,  0
+EN_M300_MG_B_05_OverAttackLast, Awakening,  UI,  0
+EN_M300_B23a_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B23a_OverAttackLast, Earth,  UI,  0
+EN_M300_MG_C_05_OverAttackFirst, Earth's,  UI,  0
+EN_M300_MG_C_05_OverAttackLast, Awakening,  UI,  0
+EN_M300_B24a_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B24a_OverAttackLast, Metal,  UI,  0
+EN_M300_MG_D_05_OverAttackFirst, Metal's,  UI,  0
+EN_M300_MG_D_05_OverAttackLast, Awakening,  UI,  0
+EN_M300_B25a_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B25a_OverAttackLast, Water,  UI,  0
+EN_M300_MG_E_05_OverAttackFirst, Water's,  UI,  0
+EN_M300_MG_E_05_OverAttackLast, Awakening,  UI,  0
+EN_M300_A01a_OverAttackFirst, Rear,  UI,  0
+EN_M300_A01a_OverAttackLast, Heat Cannon,  UI,  0
+EN_M300_A02a_OverAttackFirst, Forward,  UI,  0
+EN_M300_A02a_OverAttackLast, Cold Cannon,  UI,  0
+EN_M300_A03a_OverAttackFirst, Frigid,  UI,  0
+EN_M300_A03a_OverAttackLast, Heat,  UI,  0
+EN_M300_A03b_OverAttackFirst, Frigid,  UI,  0
+EN_M300_A03b_OverAttackLast, Heat,  UI,  0
+EN_M300_A04a_OverAttackFirst, Suction,  UI,  0
+EN_M300_A04a_OverAttackLast, Blast,  UI,  0
+EN_M300_A04b_OverAttackFirst, Suction,  UI,  0
+EN_M300_A04b_OverAttackLast, Blast,  UI,  0
+EN_M300_A11a_OverAttackFirst, Haphazard,  UI,  0
+EN_M300_A11a_OverAttackLast, Fire,  UI,  0
+EN_M300_A12a_OverAttackFirst, Cleansing,  UI,  0
+EN_M300_A12a_OverAttackLast, Blaze,  UI,  0
+EN_M300_A13a_OverAttackFirst, Still,  UI,  0
+EN_M300_A13a_OverAttackLast, Blade,  UI,  0
+EN_M300_A21a_OverAttackFirst, Mega,  UI,  0
+EN_M300_A21a_OverAttackLast, Quake,  UI,  0
+EN_M300_A22a_OverAttackFirst, Poisonous,  UI,  0
+EN_M300_A22a_OverAttackLast, Mist,  UI,  0
+EN_M300_A23a_OverAttackFirst, Lightning,  UI,  0
+EN_M300_A23a_OverAttackLast, Storm,  UI,  0
+EN_M300_A24a_OverAttackFirst, Lightning,  UI,  0
+EN_M300_A24a_OverAttackLast, Cyclone,  UI,  0
+EN_M300_A31a_OverAttackFirst, Lightning,  UI,  0
+EN_M300_A31a_OverAttackLast, Crash,  UI,  0
+EN_M300_A32a_OverAttackFirst, Thunder,  UI,  0
+EN_M300_A32a_OverAttackLast, Stroke,  UI,  0
+EN_M300_A33a_OverAttackFirst, Absolute,  UI,  0
+EN_M300_A33a_OverAttackLast, Orders,  UI,  0
+EN_M300_A33b_OverAttackFirst, Absolute,  UI,  0
+EN_M300_A33b_OverAttackLast, Orders,  UI,  0
+EN_M300_A41a_OverAttackFirst, Heat,  UI,  0
+EN_M300_A41a_OverAttackLast, Barrier,  UI,  0
+EN_M300_A42a_OverAttackFirst, Cold,  UI,  0
+EN_M300_A42a_OverAttackLast, Barrier,  UI,  0
+EN_M300_A43a_OverAttackFirst, Lightning,  UI,  0
+EN_M300_A43a_OverAttackLast, Barrier,  UI,  0
+EN_M300_A44a_OverAttackFirst, Enchanting,  UI,  0
+EN_M300_A44a_OverAttackLast, Dance,  UI,  0
+EN_M300_B31a_OverAttackFirst, Emerald,  UI,  0
+EN_M300_B31a_OverAttackLast, Union,  UI,  0
+EN_M300_B01a_R_OverAttackFirst, Enfeebling,  UI,  0
+EN_M300_B01a_R_OverAttackLast, Notion,  UI,  0
+EN_M300_B02a_R_OverAttackFirst, Crumbling,  UI,  0
+EN_M300_B02a_R_OverAttackLast, Notion,  UI,  0
+EN_M300_B03a_R_OverAttackFirst, Lethargic,  UI,  0
+EN_M300_B03a_R_OverAttackLast, Notion,  UI,  0
+EN_M300_B04a_R_OverAttackFirst, Ignorant,  UI,  0
+EN_M300_B04a_R_OverAttackLast, Notion,  UI,  0
+EN_M300_MG_A_03_R_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_A_03_R_OverAttackLast, Heaven's Thunder,  UI,  0
+EN_M300_MG_B_03_R_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_B_03_R_OverAttackLast, Gale Blast,  UI,  0
+EN_M300_MG_C_03_R_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_C_03_R_OverAttackLast, Hypergravity,  UI,  0
+EN_M300_MG_D_03_R_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_D_03_R_OverAttackLast, Vermilion Sands,  UI,  0
+EN_M300_MG_E_03_R_OverAttackFirst, Instant,  UI,  0
+EN_M300_MG_E_03_R_OverAttackLast, Aqua Sphere,  UI,  0
+EN_M300_B11a_R_OverAttackFirst, Con,  UI,  0
+EN_M300_B11a_R_OverAttackLast, Juration,  UI,  0
+EN_M300_B21a_R_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B21a_R_OverAttackLast, Wood,  UI,  0
+EN_M300_MG_A_05_R_OverAttackFirst, Wood's,  UI,  0
+EN_M300_MG_A_05_R_OverAttackLast, Awakening,  UI,  0
+EN_M300_B22a_R_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B22a_R_OverAttackLast, Fire,  UI,  0
+EN_M300_MG_B_05_R_OverAttackFirst, Fire's,  UI,  0
+EN_M300_MG_B_05_R_OverAttackLast, Awakening,  UI,  0
+EN_M300_B23a_R_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B23a_R_OverAttackLast, Earth,  UI,  0
+EN_M300_MG_C_05_R_OverAttackFirst, Earth's,  UI,  0
+EN_M300_MG_C_05_R_OverAttackLast, Awakening,  UI,  0
+EN_M300_B24a_R_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B24a_R_OverAttackLast, Metal,  UI,  0
+EN_M300_MG_D_05_R_OverAttackFirst, Metal's,  UI,  0
+EN_M300_MG_D_05_R_OverAttackLast, Awakening,  UI,  0
+EN_M300_B25a_R_OverAttackFirst, Chant of Awakening:,  UI,  0
+EN_M300_B25a_R_OverAttackLast, Water,  UI,  0
+EN_M300_MG_E_05_R_OverAttackFirst, Water's,  UI,  0
+EN_M300_MG_E_05_R_OverAttackLast, Awakening,  UI,  0
+EN_M300_A01a_R_OverAttackFirst, Rear,  UI,  0
+EN_M300_A01a_R_OverAttackLast, Heat Cannon,  UI,  0
+EN_M300_A02a_R_OverAttackFirst, Forward,  UI,  0
+EN_M300_A02a_R_OverAttackLast, Cold Cannon,  UI,  0
+EN_M300_A03a_R_OverAttackFirst, Frigid,  UI,  0
+EN_M300_A03a_R_OverAttackLast, Heat,  UI,  0
+EN_M300_A03b_R_OverAttackFirst, Frigid,  UI,  0
+EN_M300_A03b_R_OverAttackLast, Heat,  UI,  0
+EN_M300_A04a_R_OverAttackFirst, Suction,  UI,  0
+EN_M300_A04a_R_OverAttackLast, Blast,  UI,  0
+EN_M300_A04b_R_OverAttackFirst, Suction,  UI,  0
+EN_M300_A04b_R_OverAttackLast, Blast,  UI,  0
+EN_M300_A11a_R_OverAttackFirst, Haphazard,  UI,  0
+EN_M300_A11a_R_OverAttackLast, Fire,  UI,  0
+EN_M300_A12a_R_OverAttackFirst, Cleansing,  UI,  0
+EN_M300_A12a_R_OverAttackLast, Blaze,  UI,  0
+EN_M300_A13a_R_OverAttackFirst, Still,  UI,  0
+EN_M300_A13a_R_OverAttackLast, Blade,  UI,  0
+EN_M300_A21a_R_OverAttackFirst, Mega,  UI,  0
+EN_M300_A21a_R_OverAttackLast, Quake,  UI,  0
+EN_M300_A22a_R_OverAttackFirst, Poisonous,  UI,  0
+EN_M300_A22a_R_OverAttackLast, Mist,  UI,  0
+EN_M300_A23a_R_OverAttackFirst, Lightning,  UI,  0
+EN_M300_A23a_R_OverAttackLast, Storm,  UI,  0
+EN_M300_A24a_R_OverAttackFirst, Lightning,  UI,  0
+EN_M300_A24a_R_OverAttackLast, Cyclone,  UI,  0
+EN_M300_A31a_R_OverAttackFirst, Lightning,  UI,  0
+EN_M300_A31a_R_OverAttackLast, Crash,  UI,  0
+EN_M300_A32a_R_OverAttackFirst, Thunder,  UI,  0
+EN_M300_A32a_R_OverAttackLast, Stroke,  UI,  0
+EN_M300_A33a_R_OverAttackFirst, Absolute,  UI,  0
+EN_M300_A33a_R_OverAttackLast, Orders,  UI,  0
+EN_M300_A33b_R_OverAttackFirst, Absolute,  UI,  0
+EN_M300_A33b_R_OverAttackLast, Orders,  UI,  0
+EN_M300_A41a_R_OverAttackFirst, Heat,  UI,  0
+EN_M300_A41a_R_OverAttackLast, Barrier,  UI,  0
+EN_M300_A42a_R_OverAttackFirst, Cold,  UI,  0
+EN_M300_A42a_R_OverAttackLast, Barrier,  UI,  0
+EN_M300_A43a_R_OverAttackFirst, Lightning,  UI,  0
+EN_M300_A43a_R_OverAttackLast, Barrier,  UI,  0
+EN_M300_A44a_R_OverAttackFirst, Enchanting,  UI,  0
+EN_M300_A44a_R_OverAttackLast, Dance,  UI,  0
+EN_M300_B31a_R_OverAttackFirst, Emerald,  UI,  0
+EN_M300_B31a_R_OverAttackLast, Union,  UI,  0
+SOUL_E_M2200_A_OverAttackFirst, Wind,  UI,  0
+SOUL_E_M2200_A_OverAttackLast, Storm,  UI,  0
+SOUL_E_M2100_A_OverAttackFirst, Awakened,  UI,  0
+SOUL_E_M2100_A_OverAttackLast, Ricochet,  UI,  0
+OHS_WL000_A04_BLD01_OverAttackFirst, Scarlet,  UI,  0
+OHS_WL000_A04_BLD01_OverAttackLast, Harbinger,  UI,  0
+OHS_WL000_A04_BLD03_OverAttackFirst, Sanguine,  UI,  0
+OHS_WL000_A04_BLD03_OverAttackLast, Pursuit,  UI,  0
+OHS_WL000_B01_BLD01_OverAttackFirst, Blood,  UI,  0
+OHS_WL000_B01_BLD01_OverAttackLast, Rage,  UI,  0
+OHS_WL000_B01_BLD02_OverAttackFirst, Dark,  UI,  0
+OHS_WL000_B01_BLD02_OverAttackLast, Rage,  UI,  0
+THS_WH000_A02_BLD03_OverAttackFirst, Sanguine,  UI,  0
+THS_WH000_A02_BLD03_OverAttackLast, Counterattack,  UI,  0
+THS_WH000_A04_BLD01_OverAttackFirst, Sanguine,  UI,  0
+THS_WH000_A04_BLD01_OverAttackLast, Stun,  UI,  0
+THS_WH000_A04_BLD02_OverAttackFirst, Sanguine,  UI,  0
+THS_WH000_A04_BLD02_OverAttackLast, Delay,  UI,  0
+THS_WH000_B01_BLD01_OverAttackFirst, Sanguine,  UI,  0
+THS_WH000_B01_BLD01_OverAttackLast, Wind,  UI,  0
+THS_WH000_B01_BLD02_OverAttackFirst, Deadly,  UI,  0
+THS_WH000_B01_BLD02_OverAttackLast, Wind,  UI,  0
+OHG_GL000_B03_BLD01_OverAttackFirst, Leading the,  UI,  0
+OHG_GL000_B03_BLD01_OverAttackLast, People,  UI,  0
+OHG_GL000_B03_BLD02_OverAttackFirst, Brother,  UI,  0
+OHG_GL000_B03_BLD02_OverAttackLast, Hood,  UI,  0
+OHG_GL000_B04_BLD01_OverAttackFirst, Sanguine,  UI,  0
+OHG_GL000_B04_BLD01_OverAttackLast, Poison,  UI,  0
+OHG_GL000_B04_BLD02_OverAttackFirst, Deadly,  UI,  0
+OHG_GL000_B04_BLD02_OverAttackLast, Shot,  UI,  0
+OHG_GL000_B05_BLD01_OverAttackFirst, Sanguine,  UI,  0
+OHG_GL000_B05_BLD01_OverAttackLast, Touch,  UI,  0
+THG_GH000_A02_BLD01_OverAttackFirst, Last,  UI,  0
+THG_GH000_A02_BLD01_OverAttackLast, Blood,  UI,  0
+THG_GH000_A02_BLD02_OverAttackFirst, Sanguine,  UI,  0
+THG_GH000_A02_BLD02_OverAttackLast, Dread,  UI,  0
+THG_GH000_A03_BLD01_OverAttackFirst, Sanguine,  UI,  0
+THG_GH000_A03_BLD01_OverAttackLast, Shower,  UI,  0
+THG_GH000_B01_BLD01_OverAttackFirst, Trigger-,  UI,  0
+THG_GH000_B01_BLD01_OverAttackLast, Happy,  UI,  0
+THG_GH000_B02_BLD01_OverAttackFirst, Break,  UI,  0
+THG_GH000_B02_BLD01_OverAttackLast, Barrage,  UI,  0
+THG_GH000_B02_BLD02_OverAttackFirst, Deadly,  UI,  0
+THG_GH000_B02_BLD02_OverAttackLast, Barrage,  UI,  0
+MAR_MA000_B06_BLD01_OverAttackFirst, Shenlong,  UI,  0
+MAR_MA000_B06_BLD01_OverAttackLast, Firefist,  UI,  0
+MAR_MA000_B06_BLD02_OverAttackFirst, Shenlong,  UI,  0
+MAR_MA000_B06_BLD02_OverAttackLast, Windfist,  UI,  0
+MAR_MA000_B01_BLD01_OverAttackFirst, Swooning,  UI,  0
+MAR_MA000_B01_BLD01_OverAttackLast, Cascade,  UI,  0
+MAR_MA000_B01_BLD02_OverAttackFirst, Expiring,  UI,  0
+MAR_MA000_B01_BLD02_OverAttackLast, Cascade,  UI,  0
+MAR_MA000_B09_BLD01_OverAttackFirst, Blood,  UI,  0
+MAR_MA000_B09_BLD01_OverAttackLast, Whistle,  UI,  0
+SL_RB_A_01_IHA01_OverAttackFirst, Purity,  UI,  0
+SL_RB_A_01_IHA01_OverAttackLast, Rise,  UI,  0
+SL_RB_A_02_IHA02_OverAttackFirst, Harmony,  UI,  0
+SL_RB_A_02_IHA02_OverAttackLast, Rise,  UI,  0
+SL_RB_A_03_IHA03_OverAttackFirst, Power,  UI,  0
+SL_RB_A_03_IHA03_OverAttackLast, Rise,  UI,  0
+SL_RB_A_04_IHA04_OverAttackFirst, Verity,  UI,  0
+SL_RB_A_04_IHA04_OverAttackLast, Rise,  UI,  0
+SL_RB_B_01_IHA05_OverAttackFirst, Power,  UI,  0
+SL_RB_B_01_IHA05_OverAttackLast, Incense,  UI,  0
+SL_RB_B_02_IHA06_OverAttackFirst, Durability,  UI,  0
+SL_RB_B_02_IHA06_OverAttackLast, Incense,  UI,  0
+SL_RB_B_03_IHA07_OverAttackFirst, Agility,  UI,  0
+SL_RB_B_03_IHA07_OverAttackLast, Incense,  UI,  0
+SL_RB_B_04_IHA08_OverAttackFirst, Wisdom,  UI,  0
+SL_RB_B_04_IHA08_OverAttackLast, Incense,  UI,  0
+SL_RB_B_05_IHA09_OverAttackFirst, Recovery,  UI,  0
+SL_RB_B_05_IHA09_OverAttackLast, Incense,  UI,  0
+SL_RB_C_01_IHA10_OverAttackFirst, Paralysis,  UI,  0
+SL_RB_C_01_IHA10_OverAttackLast, Spores,  UI,  0
+SL_RB_C_02_IHA11_OverAttackFirst, Poison,  UI,  0
+SL_RB_C_02_IHA11_OverAttackLast, Spores,  UI,  0
+SL_RB_C_03_IHA12_OverAttackFirst, Darkness,  UI,  0
+SL_RB_C_03_IHA12_OverAttackLast, Spores,  UI,  0
+SL_RB_C_04_IHA13_OverAttackFirst, Stench,  UI,  0
+SL_RB_C_04_IHA13_OverAttackLast, Spores,  UI,  0
+SL_RB_C_05_IHA14_OverAttackFirst, Confusion,  UI,  0
+SL_RB_C_05_IHA14_OverAttackLast, Spores,  UI,  0
+SL_RB_C_06_IHA15_OverAttackFirst, Agitation,  UI,  0
+SL_RB_C_06_IHA15_OverAttackLast, Spores,  UI,  0
+MAG_MG_A_01_Mo01_OverAttackFirst, Gravity,  UI,  0
+MAG_MG_A_01_Mo01_OverAttackLast, Bind,  UI,  0
+MAG_MG_A_02_Mo02_OverAttackFirst, Wall of,  UI,  0
+MAG_MG_A_02_Mo02_OverAttackLast, Air,  UI,  0
+MAG_MG_A_03_Mo03_OverAttackFirst, Heaven's,  UI,  0
+MAG_MG_A_03_Mo03_OverAttackLast, Thunder,  UI,  0
+MAG_MG_A_04_Mo04_OverAttackFirst, Mirror,  UI,  0
+MAG_MG_A_04_Mo04_OverAttackLast, Shade,  UI,  0
+MAG_MG_A_05_Mo05_OverAttackFirst, Chaos,  UI,  0
+MAG_MG_A_05_Mo05_OverAttackLast, Disaster,  UI,  0
+MAG_MG_B_01_Ka01_OverAttackFirst, Sun,  UI,  0
+MAG_MG_B_01_Ka01_OverAttackLast, Light,  UI,  0
+MAG_MG_B_02_Ka02_OverAttackFirst, Song of,  UI,  0
+MAG_MG_B_02_Ka02_OverAttackLast, Souls,  UI,  0
+MAG_MG_B_03_Ka03_OverAttackFirst, Gale,  UI,  0
+MAG_MG_B_03_Ka03_OverAttackLast, Blast,  UI,  0
+MAG_MG_B_04_Ka04_OverAttackFirst, Awa,  UI,  0
+MAG_MG_B_04_Ka04_OverAttackLast, Ken,  UI,  0
+MAG_MG_B_05_Ka05_OverAttackFirst, Incinera,  UI,  0
+MAG_MG_B_05_Ka05_OverAttackLast, Tion,  UI,  0
+MAG_MG_C_01_Do01_OverAttackFirst, Spell,  UI,  0
+MAG_MG_C_01_Do01_OverAttackLast, Bind,  UI,  0
+MAG_MG_C_02_Do02_OverAttackFirst, Delay,  UI,  0
+MAG_MG_C_02_Do02_OverAttackLast, Order,  UI,  0
+MAG_MG_C_03_Do03_OverAttackFirst, Hyper,  UI,  0
+MAG_MG_C_03_Do03_OverAttackLast, Gravity,  UI,  0
+MAG_MG_C_04_Do04_OverAttackFirst, Wall of,  UI,  0
+MAG_MG_C_04_Do04_OverAttackLast, Earth,  UI,  0
+MAG_MG_C_05_Do05_OverAttackFirst, Churning,  UI,  0
+MAG_MG_C_05_Do05_OverAttackLast, Earth,  UI,  0
+MAG_MG_D_01_Ki01_OverAttackFirst, Blood,  UI,  0
+MAG_MG_D_01_Ki01_OverAttackLast, Curdle,  UI,  0
+MAG_MG_D_02_Ki02_OverAttackFirst, Magical,  UI,  0
+MAG_MG_D_02_Ki02_OverAttackLast, Harmony,  UI,  0
+MAG_MG_D_03_Ki03_OverAttackFirst, Vermilion,  UI,  0
+MAG_MG_D_03_Ki03_OverAttackLast, Sands,  UI,  0
+MAG_MG_D_04_Ki04_OverAttackFirst, Magic,  UI,  0
+MAG_MG_D_04_Ki04_OverAttackLast, Breath,  UI,  0
+MAG_MG_D_05_Ki05_OverAttackFirst, The,  UI,  0
+MAG_MG_D_05_Ki05_OverAttackLast, Tower,  UI,  0
+MAG_MG_E_01_Su01_OverAttackFirst, Sharp,  UI,  0
+MAG_MG_E_01_Su01_OverAttackLast, Pain,  UI,  0
+MAG_MG_E_02_Su02_OverAttackFirst, Holy,  UI,  0
+MAG_MG_E_02_Su02_OverAttackLast, Water,  UI,  0
+MAG_MG_E_03_Su03_OverAttackFirst, Aqua,  UI,  0
+MAG_MG_E_03_Su03_OverAttackLast, Sphere,  UI,  0
+MAG_MG_E_04_Su04_OverAttackFirst, Hasten,  UI,  0
+MAG_MG_E_04_Su04_OverAttackLast, Time,  UI,  0
+MAG_MG_E_05_Su05_OverAttackFirst, Snow,  UI,  0
+MAG_MG_E_05_Su05_OverAttackLast, Storm,  UI,  0
+OHS_WL000_B01_A_ArtsExp, (Enemy/Single Target/STR) Sudden death chance 75%.,  UI,  0
+OHS_WLLSW_B01_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+THS_WH000_B01_A_ArtsExp, (Enemy/All Targets/STR),  UI,  0
+THS_WHGSW_A01_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+THS_WHSSW_B01_ArtsExp, (Enemy/Single Target/Antiground/STR),  UI,  0
+THS_WHPSW_B02_A_ArtsExp, (Enemy/Other/Antiair/MOB) Paralysis chance 25%.,  UI,  0
+OHS_WL000_A01_UN2_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+OHS_WL000_A04_UN1_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+OHS_WLAXE_A01_UN1_ArtsExp, (Enemy/Single Target/Antiair/MOB),  UI,  0
+THS_WH000_A02_UN1_ArtsExp, (Enemy/Single Target/STR) Target attack power -10%.,  UI,  0
+THS_WHPSW_B01_UN1_ArtsExp, (Enemy/Single Target/DEX),  UI,  0
+OHG_GL000_B06_UN1_ArtsExp, (Enemy/Single Target/Antiair/DEX) Distract chance 75%.,  UI,  0
+THG_GH000_A01_UN1_ArtsExp, (Enemy/Single Target/Antiair/ACU),  UI,  0
+MCH_M90X_A01a_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MCH_M90X_A01a_B_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+MCH_M90X_A02a_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MCH_M90X_A03a_A_ArtsExp, (Enemy/Single Target/MOB),  UI,  0
+MCH_M90X_A03a_B_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MCH_M90X_A04a_B_ArtsExp, (Enemy/Single Target) Detonate self to defeat an enemy.,  UI,  0
+MCH_M90X_A05a_A_ArtsExp, (Enemy/Single Target/Antiair/DEX) Stun chance 50%. Mech stun chance 50%.,  UI,  0
+MCH_M90X_B01a_A_ArtsExp, (Enemy/All Targets/Antiair/INT),  UI,  0
+MCH_M90X_B02a_A_ArtsExp, (Enemy/Single Target/STR) Paralysis chance 50%. Mech paralysis chance 50%.,  UI,  0
+MCH_M90X_B03a_A_ArtsExp, (Enemy/Single Target/Antiair/STR) Darkness chance 100%.,  UI,  0
+MCH_Diva_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MCH_M90Y_A01a_A_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+MCH_M90Y_A01a_B_ArtsExp, (Enemy/Single Target/Antiair/DEX),  UI,  0
+MCH_M90Y_A02a_A_ArtsExp, (Enemy/Single Target/Antiair/INT),  UI,  0
+MCH_M90Y_A08a_A_ArtsExp, (Enemy/Single Target/Antiair/DEX) Remove enmity.,  UI,  0
+MCH_M90Z_A01a_2_ArtsExp, (Ally/Single Target) Target attack power +20%. Only works on mechs.,  UI,  0
+MCH_M90Z_A02a_2_ArtsExp, (Ally/Single Target) Target defense +20%. Only works on mechs.,  UI,  0
+MCH_M90Z_A03a_2_ArtsExp, (Self) Speed +16%. Only works on mechs.,  UI,  0
+MCH_M90Z_A04a_2_ArtsExp, (Self) Speed -16%. Only works on mechs.,  UI,  0
+MCH_M90Z_A05a_2_ArtsExp, (Ally/Single Target) Cure mech ailments. Only works on mechs.,  UI,  0
+MCH_M90Z_A06a_2_ArtsExp, (Self) Prevent the user from being targeted by the enemy.,  UI,  0
+MCH_M90Z_B01a_2_ArtsExp, (Self) Nullify mech ailments for 12 turns.,  UI,  0
+MCH_M90Z_B02a_2_ArtsExp, (Self) Nullify damage once, but suffer mech paralysis afterwards.,  UI,  0
+MCH_M90Z_B03a_2_ArtsExp, (Self) BP cost +1. Increase tech power for 5 turns following activation.,  UI,  0
+MON_M001X_A01a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+MON_M072X_A01a_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M031_A01a_A_ArtsExp, (Enemy/Single Target/STR) Stun chance 50%.,  UI,  0
+EN_M032_A01a_A_ArtsExp, (Enemy/Single Target/STR),  UI,  0
+EN_M032_B01a_A_ArtsExp, (Enemy/Single Target/STR) Target spell power -30%. Own speed +24%.,  UI,  0
+EN_M040_B02a_ArtsExp, (Enemy/Single Target/INT) Stun chance 50%.,  UI,  0
+EN_M041_B01a_A_ArtsExp, (Enemy/Random Target/Antiair/INT) Darkness chance 75%. Stench chance 75%.,  UI,  0
+EN_M072_B03a_A_ArtsExp, (Enemy/Single Target/DEX) Poison chance 50%.,  UI,  0
+EN_M081_A01a_A_ArtsExp, (Enemy/Single Target/Antiair/END) Mech stun chance 25%.,  UI,  0
+EN_M081_A05a_A_ArtsExp, (Enemy/Single Target/Antiair/STR) Stench chance 100%.,  UI,  0
+EN_M081_A03a_A_ArtsExp, (Enemy/Single Target/Antiair/INT),  UI,  0
+EN_M100_B01a_A_ArtsExp, (Enemy/All Targets/Antiair/STR),  UI,  0
+SOUL_E_M2200_A_ArtsExp, (Enemy/All Targets/STR),  UI,  0
+SOUL_E_M2100_A_ArtsExp, (Enemy/Single Target/Antiair/DEX) Own attack power +20%.,  UI,  0
+OHS_WL000_A04_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/MOB) Stun chance 50%.,  UI,  0
+OHS_WL000_A04_BLD03_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/MOB),  UI,  0
+OHS_WL000_B01_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -2/STR) Sudden death chance 75%.,  UI,  0
+OHS_WL000_B01_BLD02_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/STR) Darkness chance 75%.,  UI,  0
+THS_WH000_A02_BLD03_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/DEX) Target attack power -20%.,  UI,  0
+THS_WH000_A04_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/STR) Target defense -10%. Stun chance 100%.,  UI,  0
+THS_WH000_A04_BLD02_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/STR) Target defense -10%.,  UI,  0
+THS_WH000_B01_BLD02_ArtsExp, (Enemy/All Targets/Guaranteed Hit/LP -3/STR) Sudden death chance 50%.,  UI,  0
+OHG_GL000_B03_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -2/DEX) When leading a United Attack, all participants' attack power +10%.,  UI,  0
+OHG_GL000_B04_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/DEX) Target attack power -10%. Poison chance 75%.,  UI,  0
+OHG_GL000_B04_BLD02_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -2/DEX) Target attack power -10%. Sudden death chance 75%.,  UI,  0
+OHG_GL000_B05_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/DEX) ,  UI,  0
+THG_GH000_A02_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit on Ground/LP -1/DEX) Target speed -8%.,  UI,  0
+THG_GH000_A02_BLD02_ArtsExp, (Enemy/Single Target/Guaranteed Hit on Ground/LP -2/DEX) Target speed -8%. Confusion chance 75%.,  UI,  0
+THG_GH000_A03_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/DEX) Provoke enemy.,  UI,  0
+THG_GH000_B01_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/DEX) Stun chance 50%.,  UI,  0
+THG_GH000_B02_BLD02_ArtsExp, (Enemy/All Targets/Guaranteed Hit/LP -3/DEX) Sudden death chance 50%.,  UI,  0
+MAR_MA000_B06_BLD02_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/STR) Own attack power +10%.,  UI,  0
+MAR_MA000_B01_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/STR) Stun chance 100%.,  UI,  0
+MAR_MA000_B01_BLD02_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -2/STR) Sudden death chance 75%.,  UI,  0
+MAR_MA000_B09_BLD01_ArtsExp, (Enemy/Single Target/Guaranteed Hit/LP -1/DEX) Remove enmity. Provoke enemy.,  UI,  0
+SL_RB_A_01_IHA01_ArtsExp, (Self) Nullify status ailments for 8 turns.,  UI,  0
+SL_RB_A_02_IHA02_ArtsExp, (Self) Expand combo range.,  UI,  0
+SL_RB_A_03_IHA03_ArtsExp, (Self) Increase tech power for 3 turns following activation.,  UI,  0
+SL_RB_A_04_IHA04_ArtsExp, (Self) BP cost -1.,  UI,  0
+SL_RB_B_01_IHA05_ArtsExp, (Ally/Single Target) Target attack power +20%.,  UI,  0
+SL_RB_B_02_IHA06_ArtsExp, (Ally/Single Target) Target defense +20%.,  UI,  0
+SL_RB_B_03_IHA07_ArtsExp, (Ally/Single Target) Target speed +16%.,  UI,  0
+SL_RB_B_04_IHA08_ArtsExp, (Ally/Single Target) Target spell power +20%.,  UI,  0
+SL_RB_B_05_IHA09_ArtsExp, (Ally/Single Target) Cure status ailments.,  UI,  0
+SL_RB_C_01_IHA10_ArtsExp, (Enemy/Single Target/Antiair/INT) Paralysis chance 50%.,  UI,  0
+SL_RB_C_02_IHA11_ArtsExp, (Enemy/Single Target/Antiair/INT) Poison chance 75%.,  UI,  0
+SL_RB_C_03_IHA12_ArtsExp, (Enemy/Single Target/Antiair/INT) Darkness chance 50%.,  UI,  0
+SL_RB_C_04_IHA13_ArtsExp, (Enemy/Single Target/Antiair/INT) Stench chance 100%.,  UI,  0
+SL_RB_C_05_IHA14_ArtsExp, (Enemy/Single Target/Antiair/INT) Confusion chance 50%.,  UI,  0
+SL_RB_C_06_IHA15_ArtsExp, (Enemy/Single Target/Antiair/INT) Provoke enemy.,  UI,  0
+MAG_MG_A_01_Mo01_ArtsExp, (Enemy/Single Target/Antiair/INT/Wood) Stun chance 75%.,  UI,  0
+MAG_MG_A_02_Mo02_ArtsExp, (Ally/Single Target) Nullify status ailments for 15 turns.,  UI,  0
+MAG_MG_A_03_Mo03_ArtsExp, (Enemy/Random Target/Antiair/INT/Wood) Paralysis chance 50%. Mech paralysis chance 50%.,  UI,  0
+MAG_MG_A_04_Mo04_ArtsExp, (Ally/Single Target) Nullify damage once.,  UI,  0
+MAG_MG_A_05_Mo05_ArtsExp, (Enemy/Single Target/Antiair/INT/Wood) Poison chance 50%. Darkness chance 50%. Confusion chance 50%.,  UI,  0
+MAG_MG_B_01_Ka01_ArtsExp, (Enemy/Single Target/Antiair/INT/Fire),  UI,  0
+MAG_MG_B_02_Ka02_ArtsExp, (Ally/All Targets) Attack power +10%. Remove enmity.,  UI,  0
+MAG_MG_B_03_Ka03_ArtsExp, (Enemy/All Targets/Antiair/INT/Fire),  UI,  0
+MAG_MG_B_03_Ka13_A_ArtsExp, (Enemy/All Targets/Antiair/INT/Fire),  UI,  0
+MAG_MG_B_04_Ka04_ArtsExp, (Self) Increase tech power for 4 turns following activation.,  UI,  0
+MAG_MG_B_05_Ka05_ArtsExp, (Enemy/Single Target/Antiair/INT/Fire) Sudden death chance 50%. Target attack power -20%.,  UI,  0
+MAG_MG_C_01_Do01_ArtsExp, (Enemy/Single Target/Antiair/INT/Earth) Paralysis chance 75%.,  UI,  0
+MAG_MG_C_02_Do02_ArtsExp, (Enemy/Single Target/Antiair) Distract chance 100%. Target speed -24%.,  UI,  0
+MAG_MG_C_03_Do03_ArtsExp, (Enemy/All Targets/Antiair/INT/Earth),  UI,  0
+MAG_MG_C_04_Do04_ArtsExp, (Ally/All Targets) Target defense +10%.,  UI,  0
+MAG_MG_C_05_Do05_ArtsExp, (Enemy/All Targets/Antiair/INT/Earth) Target defense -10%.,  UI,  0
+MAG_MG_C_05_Do15_A_ArtsExp, (Enemy/All Targets/Antiair/INT/Earth) Target defense -10%. Target attack power -10%.,  UI,  0
+MAG_MG_D_01_Ki01_ArtsExp, (Enemy/Single Target/Antiair/INT/Metal) Stun chance 50%.,  UI,  0
+MAG_MG_D_02_Ki02_ArtsExp, (Ally/Single Target) Expand combo range (L).,  UI,  0
+MAG_MG_D_03_Ki03_ArtsExp, (Enemy/All Targets/Antiair/INT/Metal) Darkness chance 75%.,  UI,  0
+MAG_MG_D_04_Ki04_ArtsExp, (Self) BP cost -2.,  UI,  0
+MAG_MG_D_05_Ki05_ArtsExp, (Enemy/All Targets/Antiair/INT/Metal) Target spell power -20%.,  UI,  0
+MAG_MG_E_01_Su01_ArtsExp, (Enemy/Single Target/Antiair/INT/Water) Poison chance 75%.,  UI,  0
+MAG_MG_E_02_Su02_ArtsExp, (Ally/All Targets) Cure status ailments.,  UI,  0
+MAG_MG_E_03_Su03_ArtsExp, (Enemy/Single Target/Antiair/INT/Water) Remove special effects.,  UI,  0
+MAG_MG_E_04_Su04_ArtsExp, (Ally/All Targets) Target speed +8%.,  UI,  0
+MAG_MG_E_05_Su05_ArtsExp, (Enemy/All Targets/Antiair/INT/Water) Target speed -8%.,  UI,  0
+OHS_WL000_A01_UN2_ArtsName, Alarm,  UI,  0
+OHS_WL000_A04_UN1_ArtsName, Peregrine Lunge,  UI,  0
+OHS_WLAXE_A01_UN1_ArtsName, Hawk Chaser,  UI,  0
+THS_WH000_A02_UN1_ArtsName, Cleansing Flow,  UI,  0
+THS_WHPSW_B01_UN1_ArtsName, Discordant Descent,  UI,  0
+OHG_GL000_B06_UN1_ArtsName, Focused Scatter,  UI,  0
+THG_GH000_A01_UN1_ArtsName, Rough Buckshot,  UI,  0
+MCH_M90X_A03a_B_ArtsName, Wallop,  UI,  0
+MCH_M90X_A04a_B_ArtsName, Occasional Self-Destruct,  UI,  0
+MCH_M90X_A05a_A_ArtsName, Marvelous Sword,  UI,  0
+MCH_M90X_B01a_A_ArtsName, Rushing Knight,  UI,  0
+MCH_M90X_B02a_A_ArtsName, Magnetic Smash,  UI,  0
+MCH_M90X_B03a_A_ArtsName, Flash Sword,  UI,  0
+MCH_Diva_ArtsName, Scattered Petals,  UI,  0
+MCH_M90Y_A01a_A_ArtsName, Heavy Water Cannon,  UI,  0
+MCH_M90Y_A01a_B_ArtsName, Rustic Cannon,  UI,  0
+MCH_M90Y_A02a_A_ArtsName, Supporting Shot,  UI,  0
+MCH_M90Y_A08a_A_ArtsName, Frozen Bullet,  UI,  0
+MCH_M90X_A04a_EN_ArtsName, Self-Destruct,  UI,  0
+MCH_M90X_A04a_EN2_ArtsName, System Failure,  UI,  0
+MCH_M90Z_A04a_EN3_ArtsName, System Crash,  UI,  0
+MCH_M901_A01a_EN_ArtsName, Demise Disc,  UI,  0
+MCH_M90X_A06a_EN_ArtsName, Guardian Program,  UI,  0
+MCH_M904_B01a_EN_ArtsName, Homing Missile,  UI,  0
+MCH_M90X_B03a_A_EN_ArtsName, Early Flash,  UI,  0
+MCH_M90X_B03a_A_EN2_ArtsName, Late Flash,  UI,  0
+MCH_M90Y_B04a_EN_ArtsName, Rear Suppressive Fire,  UI,  0
+MCH_M90Z_A01a_EN_ArtsName, Fortification Pack Mark II,  UI,  0
+MCH_M90Z_A02a_EN_ArtsName, Protection Pack Mark II,  UI,  0
+MCH_M90Z_A03a_2_EN_ArtsName, Acceleration Pack Mark II,  UI,  0
+EN_M011_A01a_A_ArtsName, Grand Pounce,  UI,  0
+EN_M011_A01a_B_ArtsName, Terra Fang,  UI,  0
+EN_M011_B01a_A_ArtsName, Great Howl,  UI,  0
+EN_M011_B01a_B_ArtsName, Autumn Wind,  UI,  0
+EN_M011_B01a_C_ArtsName, Bewildering Howl,  UI,  0
+EN_M011_B01a_D_ArtsName, Withering Howl,  UI,  0
+EN_M011_B01a_E_ArtsName, Paralyzing Howl,  UI,  0
+EN_M011_B01a_F_ArtsName, Deathly Howl,  UI,  0
+EN_M011_B02a_A_ArtsName, Grand Spikes,  UI,  0
+EN_M200_B02a_Attack_ArtsName, Offensive Radiation,  UI,  0
+EN_M200_B02a_Defense_ArtsName, Defensive Radiation,  UI,  0
+EN_M200_B02a_AD_ArtsName, Multipurpose Radiation,  UI,  0
+EN_M230_B01a_1_ArtsName, Red Breath,  UI,  0
+EN_M230_B01a_2_ArtsName, White Breath,  UI,  0
+EN_M230_B01a_3_ArtsName, Black Breath,  UI,  0
+EN_M230_B01a_Change_M2300A_ArtsName, Personality Shift: Iwanaga-hime,  UI,  0
+EN_M230_B01a_Change_M2301A_ArtsName, Personality Shift: Kagutsuchi,  UI,  0
+EN_M230_B01a_Change_M2302A_ArtsName, Personality Shift: Susanoo,  UI,  0
+EN_M230_B01a_Change_M2303A_ArtsName, Personality Shift: Lion Spirit,  UI,  0
+EN_M230_B01a_Change_M2304A_ArtsName, Personality Shift: Benkei,  UI,  0
+EN_M230_B01a_Change_MECHAFRED_A_ArtsName, Alessa Infatuation,  UI,  0
+EN_M230_B02a_1_ArtsName, Blue Breath,  UI,  0
+EN_M230_B02a_2_ArtsName, Yellow Breath,  UI,  0
+EN_M230_B02a_3_ArtsName, Black Breath,  UI,  0
+EN_M230_B02a_Change_M2300B_ArtsName, Personality Shift: Konohanasakuya,  UI,  0
+EN_M230_B02a_Change_M2301B_ArtsName, Personality Shift: Ame-no-Uzume,  UI,  0
+EN_M230_B02a_Change_M2302B_ArtsName, Personality Shift: Yamata no Orochi,  UI,  0
+EN_M230_B02a_Change_M2303B_ArtsName, Personality Shift: Butterfly Spirit,  UI,  0
+EN_M230_B02a_Change_M2304B_ArtsName, Personality Shift: Ushiwakamaru,  UI,  0
+EN_M230_B02a_Change_MECHAFRED_B_ArtsName, Corana Obsession,  UI,  0
+EN_M300_B01a_ArtsName, Enfeebling Notion,  UI,  0
+EN_M300_B02a_ArtsName, Crumbling Notion,  UI,  0
+EN_M300_B03a_ArtsName, Lethargic Notion,  UI,  0
+EN_M300_B04a_ArtsName, Ignorant Notion,  UI,  0
+EN_M300_MG_A_03_ArtsName, Instant Heavenly Thunder,  UI,  0
+EN_M300_MG_B_03_ArtsName, Instant Gale Blast,  UI,  0
+EN_M300_MG_C_03_ArtsName, Instant Hypergravity,  UI,  0
+EN_M300_MG_D_03_ArtsName, Instant Vermilion Sands,  UI,  0
+EN_M300_MG_E_03_ArtsName, Instant Aqua Sphere,  UI,  0
+EN_M300_B11a_ArtsName, Conjuration,  UI,  0
+EN_M300_MG_A_05_ArtsName, Awakening Incantation: Wood,  UI,  0
+EN_M300_MG_B_05_ArtsName, Awakening Incantation: Fire,  UI,  0
+EN_M300_MG_C_05_ArtsName, Awakening Incantation: Earth,  UI,  0
+EN_M300_MG_D_05_ArtsName, Awakening Incantation: Metal,  UI,  0
+EN_M300_MG_E_05_ArtsName, Awakening Incantation: Water,  UI,  0
+EN_M300_A01a_ArtsName, Rear Heat Cannon,  UI,  0
+EN_M300_A02a_ArtsName, Forward Cold Cannon,  UI,  0
+EN_M300_A03a_ArtsName, Frigid Heat,  UI,  0
+EN_M300_A03b_ArtsName, Frigid Heat,  UI,  0
+EN_M300_A04a_ArtsName, Suction Blast,  UI,  0
+EN_M300_A04b_ArtsName, Suction Blast,  UI,  0
+EN_M300_A11a_ArtsName, Haphazard Fire,  UI,  0
+EN_M300_A12a_ArtsName, Cleansing Blaze,  UI,  0
+EN_M300_A13a_ArtsName, Still Blade,  UI,  0
+EN_M300_A21a_ArtsName, Megaquake,  UI,  0
+EN_M300_A22a_ArtsName, Poisonous Mist,  UI,  0
+EN_M300_A23a_ArtsName, Lightning Storm,  UI,  0
+EN_M300_A24a_ArtsName, Lightning Cyclone,  UI,  0
+EN_M300_A31a_ArtsName, Lightning Crash,  UI,  0
+EN_M300_A32a_ArtsName, Thunderstroke,  UI,  0
+EN_M300_A33a_ArtsName, Absolute Orders,  UI,  0
+EN_M300_A33b_ArtsName, Absolute Orders,  UI,  0
+EN_M300_A41a_ArtsName, Heat Barrier,  UI,  0
+EN_M300_A42a_ArtsName, Cold Barrier,  UI,  0
+EN_M300_A43a_ArtsName, Lightning Barrier,  UI,  0
+EN_M300_A44a_ArtsName, Enchanting Dance,  UI,  0
+EN_M300_B31a_ArtsName, Emerald Union,  UI,  0
+EN_M300_B01a_R_ArtsName, Enfeebling Notion,  UI,  0
+EN_M300_B02a_R_ArtsName, Crumbling Notion,  UI,  0
+EN_M300_B03a_R_ArtsName, Lethargic Notion,  UI,  0
+EN_M300_B04a_R_ArtsName, Ignorant Notion,  UI,  0
+EN_M300_MG_A_03_R_ArtsName, Instant Heavenly Thunder,  UI,  0
+EN_M300_MG_B_03_R_ArtsName, Instant Gale Blast,  UI,  0
+EN_M300_MG_C_03_R_ArtsName, Instant Hypergravity,  UI,  0
+EN_M300_MG_D_03_R_ArtsName, Instant Vermilion Sands,  UI,  0
+EN_M300_MG_E_03_R_ArtsName, Instant Aqua Sphere,  UI,  0
+EN_M300_B11a_R_ArtsName, Conjuration,  UI,  0
+EN_M300_MG_A_05_R_ArtsName, Awakening Incantation: Wood,  UI,  0
+EN_M300_MG_B_05_R_ArtsName, Awakening Incantation: Fire,  UI,  0
+EN_M300_MG_C_05_R_ArtsName, Awakening Incantation: Earth,  UI,  0
+EN_M300_MG_D_05_R_ArtsName, Awakening Incantation: Metal,  UI,  0
+EN_M300_MG_E_05_R_ArtsName, Awakening Incantation: Water,  UI,  0
+EN_M300_A01a_R_ArtsName, Rear Heat Cannon,  UI,  0
+EN_M300_A02a_R_ArtsName, Forward Cold Cannon,  UI,  0
+EN_M300_A03a_R_ArtsName, Frigid Heat,  UI,  0
+EN_M300_A03b_R_ArtsName, Frigid Heat,  UI,  0
+EN_M300_A04a_R_ArtsName, Suction Blast,  UI,  0
+EN_M300_A04b_R_ArtsName, Suction Blast,  UI,  0
+EN_M300_A11a_R_ArtsName, Haphazard Fire,  UI,  0
+EN_M300_A12a_R_ArtsName, Cleansing Blaze,  UI,  0
+EN_M300_A13a_R_ArtsName, Still Blade,  UI,  0
+EN_M300_A21a_R_ArtsName, Megaquake,  UI,  0
+EN_M300_A22a_R_ArtsName, Poisonous Mist,  UI,  0
+EN_M300_A23a_R_ArtsName, Lightning Storm,  UI,  0
+EN_M300_A24a_R_ArtsName, Lightning Cyclone,  UI,  0
+EN_M300_A31a_R_ArtsName, Lightning Crash,  UI,  0
+EN_M300_A32a_R_ArtsName, Thunderstroke,  UI,  0
+EN_M300_A33a_R_ArtsName, Absolute Orders,  UI,  0
+EN_M300_A33b_R_ArtsName, Absolute Orders,  UI,  0
+EN_M300_A41a_R_ArtsName, Heat Barrier,  UI,  0
+EN_M300_A42a_R_ArtsName, Cold Barrier,  UI,  0
+EN_M300_A43a_R_ArtsName, Lightning Barrier,  UI,  0
+EN_M300_A44a_R_ArtsName, Enchanting Dance,  UI,  0
+EN_M300_B31a_R_ArtsName, Emerald Union,  UI,  0
+SOUL_E_M2200_A_ArtsName, Windstorm,  UI,  0
+SOUL_E_M2100_A_ArtsName, Awakened Ricochet,  UI,  0
+OHS_WL000_A04_BLD01_ArtsName, Scarlet Harbinger,  UI,  0
+OHS_WL000_A04_BLD03_ArtsName, Sanguine Pursuit,  UI,  0
+OHS_WL000_B01_BLD01_ArtsName, Blood Rage,  UI,  0
+OHS_WL000_B01_BLD02_ArtsName, Dark Rage,  UI,  0
+THS_WH000_A02_BLD03_ArtsName, Sanguine Counterattack,  UI,  0
+THS_WH000_A04_BLD01_ArtsName, Sanguine Stun,  UI,  0
+THS_WH000_A04_BLD02_ArtsName, Sanguine Delay,  UI,  0
+THS_WH000_B01_BLD02_ArtsName, Deathgale,  UI,  0
+OHG_GL000_B03_BLD01_ArtsName, Leading the People,  UI,  0
+OHG_GL000_B04_BLD01_ArtsName, Sanguine Poison,  UI,  0
+OHG_GL000_B04_BLD02_ArtsName, Deadly Shot,  UI,  0
+OHG_GL000_B05_BLD01_ArtsName, Sanguine Touch,  UI,  0
+THG_GH000_A02_BLD01_ArtsName, Last Blood,  UI,  0
+THG_GH000_A02_BLD02_ArtsName, Sanguine Dread,  UI,  0
+THG_GH000_A03_BLD01_ArtsName, Sanguine Shower,  UI,  0
+THG_GH000_B01_BLD01_ArtsName, Trigger-Happy,  UI,  0
+THG_GH000_B02_BLD02_ArtsName, Deadly Barrage,  UI,  0
+MAR_MA000_B06_BLD02_ArtsName, Shenlong Windfist,  UI,  0
+MAR_MA000_B01_BLD01_ArtsName, Swooning Cascade,  UI,  0
+MAR_MA000_B01_BLD02_ArtsName, Expiring Cascade,  UI,  0
+MAR_MA000_B09_BLD01_ArtsName, Bloodwhistle,  UI,  0
+MAG_MG_B_03_Ka13_A_ArtsName, Gale Blast,  UI,  0
+MAG_MG_C_05_Do15_A_ArtsName, Churning Earth,  UI,  0
+OHS_WL000_B01_A_ArtsName, Blood Rage,  UI,  0
+OHS_WLLSW_B01_A_ArtsName, Sanguine Block,  UI,  0
+THS_WH000_B01_A_ArtsName, Wheel Swing: Death Rattle,  UI,  0
+THS_WHGSW_A01_A_ArtsName, Bull Block,  UI,  0
+THS_WHPSW_B02_A_ArtsName, Chasing Double Star,  UI,  0
+MCH_M90X_A01a_A_ArtsName, Quickblade,  UI,  0
+MCH_M90X_A01a_B_ArtsName, Rawblade,  UI,  0
+MCH_M90X_A02a_A_ArtsName, Spinslash,  UI,  0
+MCH_M90X_A03a_A_ArtsName, Frenetic Tracer,  UI,  0
+MCH_M90Z_A01a_2_ArtsName, Fortification Pack Mark II,  UI,  0
+MCH_M90Z_A02a_2_ArtsName, Protection Pack Mark II,  UI,  0
+MCH_M90Z_A03a_2_ArtsName, Acceleration Pack Mark II,  UI,  0
+MCH_M90Z_A04a_2_ArtsName, Deceleration Pack Mark II,  UI,  0
+MCH_M90Z_A05a_2_ArtsName, Repair Pack Mark II,  UI,  0
+MCH_M90Z_A06a_2_ArtsName, Optical Camouflage Mark II,  UI,  0
+MCH_M90Z_B01a_2_ArtsName, Self-Defense Program Mark II,  UI,  0
+MCH_M90Z_B02a_2_ArtsName, Gilding Program Mark II,  UI,  0
+MCH_M90Z_B03a_2_ArtsName, Safety Release Mark II,  UI,  0
+MCH_M90Y_B06a_EN_ArtsName, Beam of Destruction,  UI,  0
+MON_M001X_A01a_ArtsName, Lupine Fang,  UI,  0
+MON_M072X_A01a_ArtsName, Mantis Blade,  UI,  0
+EN_M000_A01a_Tri_ArtsName, Tri-Smash,  UI,  0
+EN_M001_A02a_Tri_ArtsName, Tri-Break,  UI,  0
+EN_M002_A05a_Tri_ArtsName, Tri-Strike,  UI,  0
+EN_M010_B01a_A_ArtsName, Deathwave,  UI,  0
+EN_M011_B03a_A_ArtsName, Flame Eruption,  UI,  0
+EN_M011_B04a_A_ArtsName, Frost Eruption,  UI,  0
+EN_M011_B05a_A_ArtsName, Lightning Eruption,  UI,  0
+EN_M021_A01a_Tri_ArtsName, Tri-Slap,  UI,  0
+EN_M021_A05a_Tri_ArtsName, Tri-Bomber,  UI,  0
+EN_M022_A03a_Tri_ArtsName, Tri-Fixer,  UI,  0
+EN_M030_A02a_Tri_ArtsName, Tri-Venom,  UI,  0
+EN_M030_A03a_Heavy_ArtsName, Mega-Petrification,  UI,  0
+EN_M031_A01a_A_ArtsName, Charging Tear,  UI,  0
+EN_M031_A03a_A_ArtsName, Fang Tailwind,  UI,  0
+EN_M032_A01a_A_ArtsName, Frigid Spear,  UI,  0
+EN_M032_B01a_A_ArtsName, Ruckus,  UI,  0
+EN_M032_B02a_A_ArtsName, Clobber,  UI,  0
+EN_M040_A01a_A_ArtsName, Shockless Hammer,  UI,  0
+EN_M040_A03a_A_ArtsName, Chain Kick,  UI,  0
+EN_M040_A04a_A_ArtsName, Amphibian Panic,  UI,  0
+EN_M041_A02a_A_ArtsName, Squirming Tentacles,  UI,  0
+EN_M041_B02a_A_ArtsName, Cleansing Wave,  UI,  0
+EN_M041_B01a_A_ArtsName, Noxious Ink,  UI,  0
+EN_M042_A02a_A_ArtsName, Stone Pick,  UI,  0
+EN_M042_A04a_Tri_ArtsName, Tri-Bite,  UI,  0
+EN_M050_B01a_A_ArtsName, Acid Junction,  UI,  0
+EN_M052_A02a_A_ArtsName, Counter Tremor,  UI,  0
+EN_M052_B01a_A_ArtsName, Conflagration,  UI,  0
+EN_M052_B02a_A_ArtsName, Spurning Seven Blades,  UI,  0
+EN_M072_A01a_Tri_ArtsName, Tri-Sonic,  UI,  0
+EN_M072_B03a_A_ArtsName, Infernal Claw,  UI,  0
+EN_M081_A01a_A_ArtsName, GET BENT, CHUMP!,  UI,  0
+EN_M081_A05a_A_ArtsName, TO HELL WITH YOU!,  UI,  0
+EN_M081_A04a_A_ArtsName, DIE ALREADY!,  UI,  0
+EN_M081_A03a_A_ArtsName, LET'S GET DANGEROUS!,  UI,  0
+EN_M081_A03a_Tri_ArtsName, Tri-Roar,  UI,  0
+EN_M082_A02a_A_ArtsName, Meddle,  UI,  0
+EN_M090_A04a_A_ArtsName, Blaster,  UI,  0
+EN_M090_A04a_Chase_ArtsName, Pursuing Blaster,  UI,  0
+EN_M090_A04a_Interrupt_ArtsName, Interrupting Blaster,  UI,  0
+EN_M090_A06a_Follow_ArtsName, Chain Spread,  UI,  0
+EN_M090_A03a_Sui_ArtsName, Conjuration,  UI,  0
+EN_M090_A03a_Ka_ArtsName, Conjuration,  UI,  0
+EN_M090_A03a_Moku_ArtsName, Conjuration,  UI,  0
+EN_M090_A03a_Do_ArtsName, Conjuration,  UI,  0
+EN_M100_B02a_NoTri_ArtsName, Ultra Tri-Demonic Scratch,  UI,  0
+EN_M102_A07a_Tri_ArtsName, Tri-Throw,  UI,  0
+EN_M200_A01a_A_ArtsName, Prod,  UI,  0
+EN_M200_A01a_B_ArtsName, Linked Nudge,  UI,  0
+EN_M200_B01a_ADM_ArtsName, Immense Suction,  UI,  0
+EN_M200_B01a_Tri_ArtsName, Tri-Vacuum,  UI,  0
+EN_M200_B02a_Tri_ArtsName, Tri-Emission,  UI,  0
+EN_M210_B01a_ArtsName, Sacred Song,  UI,  0
+EN_M210_B04a_ArtsName, Star Smasher,  UI,  0
+EN_M210_A03a_ArtsName, Lance of Light,  UI,  0
+EN_M210_A03a_Tri_ArtsName, Tri-Arrow,  UI,  0
+EN_M210_B03a_ArtsName, Earthquake,  UI,  0
+EN_M210_A01a_ArtsName, Trample,  UI,  0
+EN_M210_A02a_ArtsName, Freezing Blaster,  UI,  0
+EN_M210_A04a_ArtsName, Awaken,  UI,  0
+EN_M220_B03a_ArtsName, Thunderspike,  UI,  0
+EN_M220_A03a_ArtsName, Tail Swipe,  UI,  0
+EN_M220_B01a_ArtsName, Cyclone,  UI,  0
+EN_M220_B02a_ArtsName, Gaze,  UI,  0
+EN_M220_A02a_ArtsName, Lightning Crash,  UI,  0
+EN_M220_A02a_Tri_ArtsName, Tri-Thunder,  UI,  0
+EN_M220_A01a_ArtsName, Brilliance,  UI,  0
+EN_M220_A04a_ArtsName, Conjuration,  UI,  0
+EN_M220_A04a_A_ArtsName, Conjuration,  UI,  0
+EN_M230_B05a_ArtsName, Rampaging Exhaust,  UI,  0
+EN_M230_B05a_A_ArtsName, Rampaging Counter,  UI,  0
+EN_M230_A01a_ArtsName, Axel Turn,  UI,  0
+EN_M230_A01a_A_ArtsName, Interrupting Turn,  UI,  0
+EN_M230_A02a_ArtsName, Wheel Throw,  UI,  0
+EN_M230_A02a_A_ArtsName, Wheel Reversal,  UI,  0
+EN_M230_B03a_ArtsName, Revolving Tornado,  UI,  0
+EN_M230_A03a_ArtsName, Cowering Slap,  UI,  0
+EN_M230_B04a_ArtsName, Timid Aura,  UI,  0
+ARTS_001_UN_ArtsName, Impeccable Slowness,  UI,  0
+ARTS_001_UN_ArtsExp, (Enemy/Single Target/Antiair/DEX) Target attack power -10%.,  UI,  0
+ARTS_001_UN_OverAttackFirst, Impeccable,  UI,  0
+ARTS_001_UN_OverAttackLast, Slowness,  UI,  0
+EN_ARTS_001_ArtsName, Shockwave,  UI,  0
+EN_ARTS_001_OverAttackFirst, Shock,  UI,  0
+EN_ARTS_001_OverAttackLast, Wave,  UI,  0
+EN_ARTS_002_ArtsName, Tackle,  UI,  0
+EN_ARTS_002_OverAttackFirst, Tac,  UI,  0
+EN_ARTS_002_OverAttackLast, Kle,  UI,  0
+EN_M300_B21a_ArtsName, Wood's Awakening,  UI,  0
+EN_M300_B22a_ArtsName, Fire's Awakening,  UI,  0
+EN_M300_B23a_ArtsName, Earth's Awakening,  UI,  0
+EN_M300_B24a_ArtsName, Metal's Awakening,  UI,  0
+EN_M300_B25a_ArtsName, Water's Awakening,  UI,  0
+EN_M300_B21a_R_ArtsName, Wood's Awakening,  UI,  0
+EN_M300_B22a_R_ArtsName, Fire's Awakening,  UI,  0
+EN_M300_B23a_R_ArtsName, Earth's Awakening,  UI,  0
+EN_M300_B24a_R_ArtsName, Metal's Awakening,  UI,  0
+EN_M300_B25a_R_ArtsName, Water's Awakening,  UI,  0

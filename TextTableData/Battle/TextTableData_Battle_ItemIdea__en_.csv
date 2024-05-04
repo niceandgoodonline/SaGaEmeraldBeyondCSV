@@ -1,0 +1,77 @@
+label, text, speaker, autoLineBreak
+IDEA_FIGHT_ItemName, Concealed Will,  UI,  0
+IDEA_FIGHT_ItemExp, The concept of drawing out hidden capabilities.,  UI,  0
+IDEA_WILD_ItemName, Feral Ambush,  UI,  0
+IDEA_WILD_ItemExp, The concept of striking when the time is right.,  UI,  0
+IDEA_FANTASY_ItemName, Truth In Fantasy,  UI,  0
+IDEA_FANTASY_ItemExp, The concept of discerning weaknesses.,  UI,  0
+IDEA_CHAOS_ItemName, Chaotic Animosity,  UI,  0
+IDEA_CHAOS_ItemExp, The concept of inspiring hatred.,  UI,  0
+IDEA_MODAN_ItemName, Clockwork Society,  UI,  0
+IDEA_MODAN_ItemExp, The concept of seeking ever-greater precision.,  UI,  0
+IDEA_NOSTALGY_ItemName, Interpersonal Relationships,  UI,  0
+IDEA_NOSTALGY_ItemExp, The concept of understanding others.,  UI,  0
+IDEA_SCIENCE_ItemName, Scientific Analysis,  UI,  0
+IDEA_SCIENCE_ItemExp, The concept of comprehending advanced mechanisms.,  UI,  0
+IDEA_MAGIC_ItemName, Magical Esoterica,  UI,  0
+IDEA_MAGIC_ItemExp, The concept of being acquainted with the more profound aspects of spells.,  UI,  0
+IDEA_GALE_ItemName, Gale's Quickening,  UI,  0
+IDEA_GALE_ItemExp, The concept of moving swift as a raging wind.,  UI,  0
+IDEA_FIRE_ItemName, Fireweaving,  UI,  0
+IDEA_FIRE_ItemExp, The concept of familiarity with natural laws related to the genesis of fire.,  UI,  0
+IDEA_ICE_ItemName, Frost's Omen,  UI,  0
+IDEA_ICE_ItemExp, The concept of being able to perceive advance signs of a cold front.,  UI,  0
+IDEA_LIGHTNING_ItemName, Crackling Brilliance,  UI,  0
+IDEA_LIGHTNING_ItemExp, The concept that underlies the embodiment of lightning.,  UI,  0
+IDEA_BOMB_ItemName, Dynamite Intuition,  UI,  0
+IDEA_BOMB_ItemExp, The concept of ascertaining the most vital aspects of explosives.,  UI,  0
+IDEA_DEDICATION_ItemName, Crisis Management,  UI,  0
+IDEA_DEDICATION_ItemExp, The concept of putting oneself in danger to aid others in combat.,  UI,  0
+IDEA_IDEAL_ItemName, Visual Learning,  UI,  0
+IDEA_IDEAL_ItemExp, The concept of envisioning the ideal way for a battle to unfold.,  UI,  0
+IDEA_GENIUS_ItemName, Creative Genius,  UI,  0
+IDEA_GENIUS_ItemExp, The concept of leveraging prodigious ideas to act more efficiently.,  UI,  0
+IDEA_HONOR_ItemName, Virtuous Honor,  UI,  0
+IDEA_HONOR_ItemExp, The concept of possessing a righteous will.,  UI,  0
+IDEA_GUARD_ItemName, Protective Shield,  UI,  0
+IDEA_GUARD_ItemExp, The concept of guarding oneself to increase the chances of survival.,  UI,  0
+IDEA_TRADITION_ItemName, Unwritten Traditions,  UI,  0
+IDEA_TRADITION_ItemExp, The concept of unraveling knowledge and guiding with a steadfast hand.,  UI,  0
+IDEA_FREE_ItemName, Free Spirit,  UI,  0
+IDEA_FREE_ItemExp, The concept of discarding shackles and living as one pleases.,  UI,  0
+IDEA_DICIPLINE_ItemName, Discipline's Covenant,  UI,  0
+IDEA_DICIPLINE_ItemExp, The concept of resisting temptation in the pursuit of challenging limits.,  UI,  0
+IDEA_GLITTER_ItemName, Piercing Glow,  UI,  0
+IDEA_GLITTER_ItemExp, The concept of purging evil by bringing light to the dark.,  UI,  0
+IDEA_OBEDIENCE_ItemName, Obedient Wisdom,  UI,  0
+IDEA_OBEDIENCE_ItemExp, The concept of avoiding danger and overcoming hardship.,  UI,  0
+IDEA_VITALITY_ItemName, Existential Vitality,  UI,  0
+IDEA_VITALITY_ItemExp, The concept of toughening one's body through frequent action.,  UI,  0
+IDEA_HARMONY_ItemName, Regulated Accord,  UI,  0
+IDEA_HARMONY_ItemExp, The concept of being conciliatory with others and valuing harmony.,  UI,  0
+IDEA_ORDER_ItemName, Unquestionable Order,  UI,  0
+IDEA_ORDER_ItemExp, The concept of dedicating one's whole being to destiny and doing what must be done.,  UI,  0
+IDEA_AMBITION_ItemName, Lofty Desire,  UI,  0
+IDEA_AMBITION_ItemExp, The concept of possessing ambition great enough to turn any tide.,  UI,  0
+IDEA_SILENCE_ItemName, Silent Isolation,  UI,  0
+IDEA_SILENCE_ItemExp, The concept of embracing solitude and silence.,  UI,  0
+IDEA_UPHEABAL_ItemName, Tumult's End,  UI,  0
+IDEA_UPHEABAL_ItemExp, The concept of utilizing a time of upheaval to break a deadlock.,  UI,  0
+IDEA_AUTHORITY_ItemName, Ostentatious Authority,  UI,  0
+IDEA_AUTHORITY_ItemExp, The concept of demonstrating one's dignity by overcoming a disadvantageous situation.,  UI,  0
+IDEA_REINCARNATION_ItemName, Transcendent Transmigration,  UI,  0
+IDEA_REINCARNATION_ItemExp, The concept of overcoming death through reincarnation.,  UI,  0
+IDEA_PRIDE_ItemName, Sinful Pride,  UI,  0
+IDEA_PRIDE_ItemExp, The concept of the sin that is pride.,  UI,  0
+IDEA_GREED_ItemName, Sinful Greed,  UI,  0
+IDEA_GREED_ItemExp, The concept of the sin that is greed.,  UI,  0
+IDEA_LUST_ItemName, Sinful Lust,  UI,  0
+IDEA_LUST_ItemExp, The concept of the sin that is lust.,  UI,  0
+IDEA_SLOTH_ItemName, Sinful Sloth,  UI,  0
+IDEA_SLOTH_ItemExp, The concept of the sin that is sloth.,  UI,  0
+IDEA_WRATH_ItemName, Sinful Wrath,  UI,  0
+IDEA_WRATH_ItemExp, The concept of the sin that is wrath.,  UI,  0
+IDEA_GLUTTONY_ItemName, Sinful Gluttony,  UI,  0
+IDEA_GLUTTONY_ItemExp, The concept of the sin that is gluttony.,  UI,  0
+IDEA_ENVY_ItemName, Sinful Envy,  UI,  0
+IDEA_ENVY_ItemExp, The concept of the sin that is envy.,  UI,  0

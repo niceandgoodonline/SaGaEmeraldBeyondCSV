@@ -1,0 +1,1453 @@
+label, text, speaker, autoLineBreak
+WLLSW01_A_ItemName, Broadsword,  UI,  0
+WLLSW02_A_ItemName, Town Sword,  UI,  0
+WLLSW03_A_ItemName, Splasher,  UI,  0
+WLLSW04_A_ItemName, Schiavona,  UI,  0
+WLLSW05_A_ItemName, Worm Slayer,  UI,  0
+WLLSW06_A_ItemName, Valeria Heart,  UI,  0
+WLLSW07_A_ItemName, Rune Sword,  UI,  0
+WLLSW08_A_ItemName, Triones Blade,  UI,  0
+WLLSW09_A_ItemName, Dragonscale Blade,  UI,  0
+WLLSW10_A_ItemName, Levateinn,  UI,  0
+WLLSW11_A_ItemName, Victor's Blade,  UI,  0
+WLRAP01_A_ItemName, Fleuret,  UI,  0
+WLRAP02_A_ItemName, Rapier,  UI,  0
+WLRAP03_A_ItemName, Estoc,  UI,  0
+WLRAP04_A_ItemName, Dress Sword,  UI,  0
+WLRAP05_A_ItemName, Lob Omen,  UI,  0
+WLRAP06_A_ItemName, Blazing Sword,  UI,  0
+WLRAP07_A_ItemName, Star of the Down,  UI,  0
+WLRAP08_A_ItemName, Espada Ropera,  UI,  0
+WLRAP09_A_ItemName, Joyeuse,  UI,  0
+WLRAP10_A_ItemName, Sword of Earth,  UI,  0
+WLRAP11_A_ItemName, Masquerade,  UI,  0
+WLDAG01_A_ItemName, Khukuri,  UI,  0
+WLDAG02_A_ItemName, Bladebreaker,  UI,  0
+WLDAG03_A_ItemName, Steel Dagger,  UI,  0
+WLDAG04_A_ItemName, Shadow Dagger,  UI,  0
+WLDAG05_A_ItemName, Queen of Swords,  UI,  0
+WLDAG06_A_ItemName, Gladius,  UI,  0
+WLDAG07_A_ItemName, Devil's Dagger,  UI,  0
+WLDAG08_A_ItemName, Hanger,  UI,  0
+WLDAG09_A_ItemName, Wyrmbrand,  UI,  0
+WLDAG10_A_ItemName, Beowulf,  UI,  0
+WLDAG11_A_ItemName, Lordstar,  UI,  0
+WLAXE01_A_ItemName, Hand Axe,  UI,  0
+WLAXE02_A_ItemName, Stone Axe,  UI,  0
+WLAXE03_A_ItemName, Francisca,  UI,  0
+WLAXE04_A_ItemName, Berserker Axe,  UI,  0
+WLAXE05_A_ItemName, Falconwind,  UI,  0
+WLAXE06_A_ItemName, Bullova,  UI,  0
+WLAXE07_A_ItemName, Bilqis,  UI,  0
+WLAXE08_A_ItemName, Earth's Creation,  UI,  0
+WLAXE09_A_ItemName, Archfiend's Axe,  UI,  0
+WLAXE10_A_ItemName, Chainsaw,  UI,  0
+WLAXE11_A_ItemName, Fractionary Shine,  UI,  0
+WHGSW01_A_ItemName, Zweihander,  UI,  0
+WHGSW02_A_ItemName, Claymore,  UI,  0
+WHGSW03_A_ItemName, Faussar,  UI,  0
+WHGSW04_A_ItemName, Flamberge,  UI,  0
+WHGSW05_A_ItemName, Galatyn,  UI,  0
+WHGSW06_A_ItemName, Ice Sword,  UI,  0
+WHGSW07_A_ItemName, Blue Saber,  UI,  0
+WHGSW08_A_ItemName, Obsidian Sword,  UI,  0
+WHGSW09_A_ItemName, Dragonscale Greatsword,  UI,  0
+WHGSW10_A_ItemName, Dayblade,  UI,  0
+WHGSW11_A_ItemName, Moonlite,  UI,  0
+WHSSW01_A_ItemName, Samurai Sword,  UI,  0
+WHSSW02_A_ItemName, Exorciser,  UI,  0
+WHSSW03_A_ItemName, Twin Dragon,  UI,  0
+WHSSW04_A_ItemName, Invincible East,  UI,  0
+WHSSW05_A_ItemName, Ame-no-Habakiri,  UI,  0
+WHSSW06_A_ItemName, Gekkabijin,  UI,  0
+WHSSW07_A_ItemName, Comet Blade,  UI,  0
+WHSSW08_A_ItemName, Crane Princess,  UI,  0
+WHSSW09_A_ItemName, Seven-Branched Sword,  UI,  0
+WHSSW10_A_ItemName, Demonbrand,  UI,  0
+WHSSW11_A_ItemName, Cinderforge Sword,  UI,  0
+WHPSW01_A_ItemName, Halberd,  UI,  0
+WHPSW02_A_ItemName, Naginata,  UI,  0
+WHPSW03_A_ItemName, Glaive,  UI,  0
+WHPSW04_A_ItemName, Guisarme,  UI,  0
+WHPSW05_A_ItemName, Zhanmadao,  UI,  0
+WHPSW06_A_ItemName, War God's Pike,  UI,  0
+WHPSW07_A_ItemName, Qinglong Yanyuedao,  UI,  0
+WHPSW08_A_ItemName, Feather Spear,  UI,  0
+WHPSW09_A_ItemName, Gae Bolg,  UI,  0
+WHPSW10_A_ItemName, Nether Malystrix,  UI,  0
+WHPSW11_A_ItemName, Lohengrin,  UI,  0
+GLONE01_A_ItemName, Eagle Gun,  UI,  0
+GLONE02_A_ItemName, Princess Guard,  UI,  0
+GLONE03_A_ItemName, Duelist's Pistol,  UI,  0
+GLONE04_A_ItemName, Living Revolver,  UI,  0
+GLONE05_A_ItemName, Zen Gun,  UI,  0
+GLONE06_A_ItemName, Behemoth Rifle,  UI,  0
+GLONE07_A_ItemName, Blundergun,  UI,  0
+GLONE08_A_ItemName, Queen's Address,  UI,  0
+GLONE09_A_ItemName, Grimhorn,  UI,  0
+GLONE10_A_ItemName, Pendragon,  UI,  0
+GLONE11_A_ItemName, Silver Lily,  UI,  0
+GLONE12_A_ItemName, Light Rifle,  UI,  0
+GLONE13_A_ItemName, Blaster Gun,  UI,  0
+GLONE14_A_ItemName, Vector Ray,  UI,  0
+GLONE15_A_ItemName, Executor,  UI,  0
+GLONE16_A_ItemName, Lemuria,  UI,  0
+GLONE17_A_ItemName, Peach Blossom Spring,  UI,  0
+GLONE18_A_ItemName, Magellanica,  UI,  0
+GHMAC01_A_ItemName, Saber Machine Gun,  UI,  0
+GHMAC02_A_ItemName, Hecaton Heavy Machine Gun,  UI,  0
+GHFLA01_A_ItemName, Agni Heart,  UI,  0
+GHFLA02_A_ItemName, Firetrapper,  UI,  0
+GHELE01_A_ItemName, Lightning Cannon,  UI,  0
+GHELE02_A_ItemName, Photon Shooter,  UI,  0
+GHBOM01_A_ItemName, Super Missile,  UI,  0
+GHBOM02_A_ItemName, Hyperion Bazooka,  UI,  0
+GHCHE01_A_ItemName, Serpent,  UI,  0
+GHCHE02_A_ItemName, Hydra,  UI,  0
+WLLSW01_A_ItemExp, None,  UI,  0
+WLLSW01_B_ItemExp, None,  UI,  0
+WLLSW01_C_ItemExp, Antiair,  UI,  0
+WLLSW01_D_ItemExp, Antiair,  UI,  0
+WLLSW01_PURSUIT_C_ItemName, Pursuant Blade +2,  UI,  0
+WLLSW03_A_ItemExp, Raises Enmity,  UI,  0
+WLLSW03_B_ItemExp, Raises Enmity,  UI,  0
+WLLSW03_C_ItemExp, Raises Enmity,  UI,  0
+WLLSW03_D_ItemExp, Raises Enmity,  UI,  0
+WLLSW04_A_ItemExp, None,  UI,  0
+WLLSW04_B_ItemExp, None,  UI,  0
+WLLSW04_C_ItemExp, None,  UI,  0
+WLLSW04_D_ItemExp, None,  UI,  0
+WLLSW05_A_ItemExp, Tech Order -1,  UI,  0
+WLLSW05_B_ItemExp, Tech Order -1,  UI,  0
+WLLSW07_C_ItemName, Rune Sword +2,  UI,  0
+WLRAP01_A_ItemExp, None,  UI,  0
+WLRAP01_B_ItemExp, None,  UI,  0
+WLRAP01_GUARD_A_ItemExp, None,  UI,  0
+WLRAP01_GUARD_B_ItemExp, None,  UI,  0
+WLRAP02_A_ItemExp, None,  UI,  0
+WLRAP02_B_ItemExp, None,  UI,  0
+WLRAP02_C_ItemExp, None,  UI,  0
+WLRAP02_D_ItemExp, None,  UI,  0
+WLRAP04_A_ItemExp, Combo Rate +2%,  UI,  0
+WLRAP04_B_ItemExp, Combo Rate +2%,  UI,  0
+WLRAP04_C_ItemExp, Combo Rate +2%,  UI,  0
+WLRAP04_D_ItemExp, Combo Rate +2%,  UI,  0
+WLRAP05_A_ItemExp, Tech Order -1,  UI,  0
+WLRAP05_B_ItemExp, Tech Order -1,  UI,  0
+WLRAP06_C_ItemName, Blazing Sword +2,  UI,  0
+WLRAP08_A_ItemExp, Initial Combo Rate +5%,  UI,  0
+WLRAP08_C_ItemName, Espada Ropera +2,  UI,  0
+WLRAP11_C_ItemName, Masquerade +2,  UI,  0
+WLDAG01_A_ItemExp, None,  UI,  0
+WLDAG01_B_ItemExp, None,  UI,  0
+WLDAG03_A_ItemExp, None,  UI,  0
+WLDAG03_B_ItemExp, None,  UI,  0
+WLDAG03_C_ItemExp, None,  UI,  0
+WLDAG03_D_ItemExp, None,  UI,  0
+WLDAG06_A_ItemExp, Combo Rate +2%,  UI,  0
+WLDAG06_B_ItemExp, Combo Rate +2%,  UI,  0
+WLDAG06_C_ItemExp, Combo Rate +2%,  UI,  0
+WLDAG06_D_ItemExp, Combo Rate +2%,  UI,  0
+WLDAG07_C_ItemName, Devil's Dagger +2,  UI,  0
+WLDAG11_B_ItemName, Jetstream,  UI,  0
+WLDAG11_C_ItemName, Speedstar,  UI,  0
+WLDAG11_D_ItemName, Speedstar +1,  UI,  0
+WLAXE_OLD_01_ItemExp, None,  UI,  0
+WLAXE01_A_ItemExp, None,  UI,  0
+WLAXE01_B_ItemExp, None,  UI,  0
+WLAXE02_A_ItemExp, Tech Order -1,  UI,  0
+WLAXE02_B_ItemExp, Tech Order -1,  UI,  0
+WLAXE04_C_ItemName, Berserker Axe +2,  UI,  0
+WLAXE05_A_ItemExp, Initial Combo Rate +5%,  UI,  0
+WLAXE05_C_ItemName, Falconwind +2,  UI,  0
+WLAXE06_A_ItemExp, None,  UI,  0
+WLAXE06_B_ItemExp, None,  UI,  0
+WLAXE06_C_ItemExp, None,  UI,  0
+WLAXE06_D_ItemExp, None,  UI,  0
+WLAXE07_A_ItemExp, Raises Enmity,  UI,  0
+WLAXE07_B_ItemExp, Raises Enmity,  UI,  0
+WLAXE07_C_ItemExp, Raises Enmity,  UI,  0
+WLAXE07_D_ItemExp, Raises Enmity,  UI,  0
+WLAXE11_C_ItemName, Fractionary Shine +2,  UI,  0
+WHGSW_OLD_01_ItemExp, None,  UI,  0
+WHGSW01_A_ItemExp, None,  UI,  0
+WHGSW01_B_ItemExp, None,  UI,  0
+WHGSW02_A_ItemExp, Combo Rate +2%,  UI,  0
+WHGSW02_B_ItemExp, Combo Rate +2%,  UI,  0
+WHGSW02_C_ItemExp, Combo Rate +2%,  UI,  0
+WHGSW02_D_ItemExp, Combo Rate +2%,  UI,  0
+WHGSW03_A_ItemExp, Tech Order -1,  UI,  0
+WHGSW03_B_ItemExp, Tech Order -1,  UI,  0
+WHGSW04_A_ItemExp, None,  UI,  0
+WHGSW04_B_ItemExp, None,  UI,  0
+WHGSW04_C_ItemExp, None,  UI,  0
+WHGSW04_D_ItemExp, None,  UI,  0
+WHGSW06_B_ItemName, Ice Sword +1,  UI,  0
+WHSSW01_A_ItemExp, None,  UI,  0
+WHSSW01_B_ItemExp, None,  UI,  0
+WHSSW02_A_ItemExp, Raises Enmity,  UI,  0
+WHSSW02_B_ItemExp, Raises Enmity,  UI,  0
+WHSSW02_C_ItemExp, Raises Enmity,  UI,  0
+WHSSW02_D_ItemExp, Raises Enmity,  UI,  0
+WHSSW03_A_ItemExp, None,  UI,  0
+WHSSW03_B_ItemExp, None,  UI,  0
+WHSSW03_C_ItemExp, None,  UI,  0
+WHSSW03_D_ItemExp, None,  UI,  0
+WHSSW04_C_ItemName, Invincible East +2,  UI,  0
+WHSSW07_A_ItemExp, Tech Order +1,  UI,  0
+WHSSW08_A_ItemExp, Tech Order -1,  UI,  0
+WHSSW08_B_ItemExp, Tech Order -1,  UI,  0
+WHSSW09_B_ItemName, Seven-Branched Sword +1,  UI,  0
+WHSSW11_B_ItemName, Cinderforge Sword +1,  UI,  0
+WHPSW01_A_ItemExp, None,  UI,  0
+WHPSW01_B_ItemExp, None,  UI,  0
+WHPSW02_A_ItemExp, None,  UI,  0
+WHPSW02_B_ItemExp, None,  UI,  0
+WHPSW02_C_ItemExp, None,  UI,  0
+WHPSW02_D_ItemExp, None,  UI,  0
+WHPSW04_A_ItemExp, Combo Rate +2%,  UI,  0
+WHPSW04_B_ItemExp, Combo Rate +2%,  UI,  0
+WHPSW04_C_ItemExp, Combo Rate +2%,  UI,  0
+WHPSW04_D_ItemExp, Combo Rate +2%,  UI,  0
+WHPSW05_A_ItemExp, Tech Order -1,  UI,  0
+WHPSW05_B_ItemExp, Tech Order -1,  UI,  0
+WHPSW07_B_ItemName, Qinglong Yanyuedao +1,  UI,  0
+WHPSW08_A_ItemExp, Tech Order +1,  UI,  0
+GLONE01_A_ItemExp, None,  UI,  0
+GLONE01_B_ItemExp, None,  UI,  0
+GLONE03_B_ItemName, Duelist's Pistol +1,  UI,  0
+GLONE04_A_ItemExp, None,  UI,  0
+GLONE04_B_ItemExp, None,  UI,  0
+GLONE05_A_ItemExp, None,  UI,  0
+GLONE05_B_ItemExp, None,  UI,  0
+GLONE05_C_ItemExp, None,  UI,  0
+GLONE05_D_ItemExp, None,  UI,  0
+GLONE09_C_ItemName, Grimhorn +2,  UI,  0
+GLONE10_A_ItemExp, Combo Rate +2%,  UI,  0
+GLONE10_B_ItemExp, Combo Rate +2%,  UI,  0
+GLONE10_C_ItemExp, Combo Rate +2%,  UI,  0
+GLONE10_D_ItemExp, Combo Rate +2%,  UI,  0
+GHMAC01_A_ItemExp, None,  UI,  0
+GHMAC01_B_ItemExp, None,  UI,  0
+GHMAC02_A_ItemExp, None,  UI,  0
+GHMAC02_B_ItemExp, None,  UI,  0
+GHMAC02_C_ItemExp, None,  UI,  0
+GHMAC02_D_ItemExp, None,  UI,  0
+GHFLA02_D_ItemName, Firetrapper +3,  UI,  0
+GHELE02_A_ItemExp, Initial Combo Rate +5%,  UI,  0
+GHELE02_B_ItemExp, Initial Combo Rate +5%,  UI,  0
+GHELE02_D_ItemName, Photon Shooter +3,  UI,  0
+GHBOM02_D_ItemName, Hyperion Bazooka +3,  UI,  0
+GHCHE02_D_ItemName, Hydra +3,  UI,  0
+MAMCR01_DW_ItemExp, None,  UI,  0
+MAMCR02_DW_ItemExp, None,  UI,  0
+MAMCR03_DW_ItemExp, None,  UI,  0
+MAMCR04_DW_ItemExp, None,  UI,  0
+MAMCR05_DW_ItemExp, None,  UI,  0
+MAMCR06_DW_ItemExp, None,  UI,  0
+MAMCR07_DW_ItemExp, None,  UI,  0
+MAMCR08_DW_ItemExp, None,  UI,  0
+MAMCR09_DW_ItemExp, None,  UI,  0
+MAMCR10_DW_ItemExp, None,  UI,  0
+MAMCR11_DW_ItemExp, None,  UI,  0
+MAMCR12_DW_ItemExp, None,  UI,  0
+MAMCR13_DW_ItemExp, None,  UI,  0
+MAMCR14_DW_ItemExp, None,  UI,  0
+MAMCR15_DW_ItemExp, None,  UI,  0
+MAMCR16_DW_ItemExp, None,  UI,  0
+MAMCR17_DW_ItemExp, None,  UI,  0
+MAMCR18_DW_ItemExp, None,  UI,  0
+MACL01_A_ItemExp, None,  UI,  0
+MACL02_A_ItemExp, None,  UI,  0
+MACL03_A_ItemExp, None,  UI,  0
+MANA02_A_ItemExp, None,  UI,  0
+MANA05_A_ItemExp, None,  UI,  0
+MANA05_C_ItemName, Astral Armor +1,  UI,  0
+MANA06_A_ItemExp, None,  UI,  0
+MANA07_A_ItemExp, None,  UI,  0
+MANA08_A_ItemExp, None,  UI,  0
+MANA_BONE04_ItemName, Marrow Breastplate +2,  UI,  0
+MANA_BEAST04_ItemName, Beast's Leather Armor +1,  UI,  0
+MANA11_A_ItemExp, None,  UI,  0
+MANA12_A_ItemExp, None,  UI,  0
+MANA13_A_ItemExp, None,  UI,  0
+MANA14_A_ItemExp, None,  UI,  0
+MANA15_A_ItemExp, None,  UI,  0
+MANA15_B_ItemExp, None,  UI,  0
+MARO11_C_ItemName, Magnificent Candis +2,  UI,  0
+MACW01_DM_ItemExp, None,  UI,  0
+MACW02_DM_ItemExp, None,  UI,  0
+MACW03_DM_ItemExp, None,  UI,  0
+MACW04_DM_ItemExp, None,  UI,  0
+MACW05_DM_ItemExp, None,  UI,  0
+MACW06_DM_ItemExp, None,  UI,  0
+MACW07_DM_ItemExp, None,  UI,  0
+MACW08_DM_ItemExp, None,  UI,  0
+MACW09_DM_ItemExp, None,  UI,  0
+SAIN01_A_ItemExp, None,  UI,  0
+SAIN01_B_ItemExp, None,  UI,  0
+SAIN02_A_ItemExp, None,  UI,  0
+SAIN03_A_ItemExp, None,  UI,  0
+SAIN04_A_ItemExp, None,  UI,  0
+SAIN05_A_ItemExp, None,  UI,  0
+SAIN06_A_ItemExp, None,  UI,  0
+SAIN06_B_ItemName, Padded Gi,  UI,  0
+SAIN06_B_ItemExp, None,  UI,  0
+SAIN07_A_ItemExp, None,  UI,  0
+SAIN09_B_ItemName, Emperor's Cape +1,  UI,  0
+SAIN10_A_ItemExp, Evade Chance +2%,  UI,  0
+SAIN11_A_ItemExp, Evade Chance +2%,  UI,  0
+SAIN12_A_ItemExp, Evade Chance +2%,  UI,  0
+SAIN13_A_ItemName, Cloak of the North Wind,  UI,  0
+SAIN13_B_ItemName, Cloak of the North Wind +1,  UI,  0
+SAIN14_A_ItemName, Cloak of the Sun,  UI,  0
+SAIN14_B_ItemName, Cloak of the Sun +1,  UI,  0
+SAHE05_B_ItemName, Beast's Hood,  UI,  0
+SAHE07_B_ItemName, Cockscomb +1,  UI,  0
+SAHE10_B_ItemName, Corolla of the Great Tree +1,  UI,  0
+SAGL01_A_ItemExp, None,  UI,  0
+SAGL02_A_ItemExp, None,  UI,  0
+SAGL13_B_ItemName, Insulators +1,  UI,  0
+SAGL20_B_ItemName, Lace Gloves +1,  UI,  0
+SAGL21_B_ItemName, Hexed Gloves +1,  UI,  0
+SASH00_A_ItemExp, None,  UI,  0
+SASH00_B_ItemExp, None,  UI,  0
+SASH00_C_ItemExp, None,  UI,  0
+SASH00_D_ItemExp, None,  UI,  0
+SASH01_A_ItemExp, None,  UI,  0
+SASH02_A_ItemExp, None,  UI,  0
+SASH04_B_ItemName, Sabatons +1,  UI,  0
+SASH05_B_ItemName, Silver Boots +1,  UI,  0
+SASH09_C_ItemName, Astral Boots +1,  UI,  0
+SASH10_B_ItemName, Obsidian Boots +1,  UI,  0
+SASH12_B_ItemName, Galoshes +1,  UI,  0
+SASH16_A_ItemExp, Action Order Up (S),  UI,  0
+SASH16_B_ItemExp, Action Order Up (M),  UI,  0
+SASH16_C_ItemExp, Action Order Up (L),  UI,  0
+SASH17_A2_ItemName, Jungle Boots +1,  UI,  0
+SASH17_B2_ItemName, Combat Boots +1,  UI,  0
+SAAC14_B_ItemName, Harmonium Earring +1,  UI,  0
+SAAC15_B_ItemName, Sanguine Star +1,  UI,  0
+SAAC16_B_ItemName, Genjo +1,  UI,  0
+SAAC17_B_ItemName, Shiny Sunglasses +1,  UI,  0
+SAAC18_B_ItemName, Emeth Tag +1,  UI,  0
+SAAC19_B_ItemName, Angel Brooch +1,  UI,  0
+SAAC20_B_ItemName, Flower Rosette +1,  UI,  0
+SAAC21_B_ItemName, Blood Chalice +1,  UI,  0
+SAAC22_B_ItemName, Closed-Back Headphones +1,  UI,  0
+SAAC35_B_ItemName, Cerberus's Ring +1,  UI,  0
+SAAC_RING_ATK_ItemName, Warrior's Ring,  UI,  0
+SAAC_RING_DEF_ItemName, Guardian's Ring,  UI,  0
+SAAC_RING_AGL_ItemName, Thief's Ring,  UI,  0
+SAAC_RING_MAG_ItemName, Sage's Ring,  UI,  0
+SAAC_DUMBBELL_1_ItemExp, Action order down (S),  UI,  0
+SAAC_DUMBBELL_2_ItemExp, Action order down (M),  UI,  0
+SAAC_DUMBBELL_3_ItemExp, Action order down (L),  UI,  0
+SAAC_DUMBBELL_4_ItemExp, Action order down (XL),  UI,  0
+SAAC07_MS_ItemExp, Evade Chance +3%,  UI,  0
+DIVA_SLOT01_RES_ItemExp, You can't use this yet,  UI,  0
+DIVA_SLOT02_RES_ItemExp, You can't use this yet,  UI,  0
+DIVA_SLOT03_RES_ItemExp, You can't use this yet,  UI,  0
+DIVA_SLOT04_RES_ItemExp, You can't use this yet,  UI,  0
+MAMCR01_DW_TEST_ItemName, Left Claw,  UI,  0
+MAMCR02_DW_TEST_ItemName, Right Claw,  UI,  0
+MAMCR03_DW_TEST_ItemName, Left Claw,  UI,  0
+MAMCR04_DW_TEST_ItemName, Right Claw,  UI,  0
+MAMCR05_DW_TEST_ItemName, Left Claw,  UI,  0
+MAMCR06_DW_TEST_ItemName, Right Claw,  UI,  0
+MACW01_DM_TEST_ItemName, Fur Pelt,  UI,  0
+MACW02_DM_TEST_ItemName, Fur Pelt,  UI,  0
+MACW03_DM_TEST_ItemName, Fur Pelt,  UI,  0
+WLLSW_OLD_01_ItemName, Aged Longsword,  UI,  0
+WLLSW_OLD_02_ItemName, Dull Longsword,  UI,  0
+WLLSW01_B_ItemName, Broadsword +1,  UI,  0
+WLLSW01_C_ItemName, Driftwhale Blade,  UI,  0
+WLLSW01_D_ItemName, Driftwhale Blade +1,  UI,  0
+WLLSW01_PURSUIT_A_ItemName, Pursuant Blade,  UI,  0
+WLLSW01_PURSUIT_B_ItemName, Pursuant Blade +1,  UI,  0
+WLLSW02_B_ItemName, Town Sword +1,  UI,  0
+WLLSW02_C_ItemName, Town Sword +2,  UI,  0
+WLLSW02_D_ItemName, Town Sword +3,  UI,  0
+WLLSW03_B_ItemName, Splasher +1,  UI,  0
+WLLSW03_C_ItemName, Splasher +2,  UI,  0
+WLLSW03_D_ItemName, Splasher +3,  UI,  0
+WLLSW04_B_ItemName, Schiavona +1,  UI,  0
+WLLSW04_C_ItemName, Schiavona +2,  UI,  0
+WLLSW04_D_ItemName, Schiavona +3,  UI,  0
+WLLSW05_B_ItemName, Worm Slayer +1,  UI,  0
+WLLSW05_C_ItemName, Worm Slayer +2,  UI,  0
+WLLSW05_D_ItemName, Worm Slayer +3,  UI,  0
+WLLSW07_B_ItemName, Rune Sword +1,  UI,  0
+WLLSW09_B_ItemName, Dragonscale Blade +1,  UI,  0
+WLLSW09_C_ItemName, Dragonscale Blade +2,  UI,  0
+WLLSW09_D_ItemName, Dragonscale Blade +3,  UI,  0
+WLRAP01_B_ItemName, Fleuret +1,  UI,  0
+WLRAP01_GUARD_A_ItemName, Fleuret Guard,  UI,  0
+WLRAP01_GUARD_B_ItemName, Fleuret Guard +1,  UI,  0
+WLRAP02_B_ItemName, Rapier +1,  UI,  0
+WLRAP02_C_ItemName, Rapier +2,  UI,  0
+WLRAP02_D_ItemName, Rapier +3,  UI,  0
+WLRAP03_B_ItemName, Estoc +1,  UI,  0
+WLRAP03_C_ItemName, Estoc +2,  UI,  0
+WLRAP03_D_ItemName, Estoc +3,  UI,  0
+WLRAP04_B_ItemName, Dress Sword +1,  UI,  0
+WLRAP04_C_ItemName, Dress Sword +2,  UI,  0
+WLRAP04_D_ItemName, Dress Sword +3,  UI,  0
+WLRAP05_B_ItemName, Lob Omen +1,  UI,  0
+WLRAP05_C_ItemName, Lob Omen +2,  UI,  0
+WLRAP05_D_ItemName, Lob Omen +3,  UI,  0
+WLRAP06_B_ItemName, Blazing Sword +1,  UI,  0
+WLRAP07_B_ItemName, Star of the Down +1,  UI,  0
+WLRAP08_B_ItemName, Espada Ropera +1,  UI,  0
+WLRAP10_B_ItemName, Sword of Earth +1,  UI,  0
+WLRAP11_B_ItemName, Masquerade +1,  UI,  0
+WLDAG01_B_ItemName, Khukuri +1,  UI,  0
+WLDAG01_C_ItemName, Lightweight Khukuri,  UI,  0
+WLDAG02_B_ItemName, Bladebreaker +1,  UI,  0
+WLDAG02_C_ItemName, Bladebreaker +2,  UI,  0
+WLDAG03_B_ItemName, Steel Dagger +1,  UI,  0
+WLDAG03_C_ItemName, Steel Dagger +2,  UI,  0
+WLDAG03_D_ItemName, Steel Dagger +3,  UI,  0
+WLDAG04_B_ItemName, Shadow Dagger +1,  UI,  0
+WLDAG04_C_ItemName, Shadow Dagger +2,  UI,  0
+WLDAG04_D_ItemName, Shadow Dagger +3,  UI,  0
+WLDAG05_B_ItemName, Queen of Swords +1,  UI,  0
+WLDAG05_C_ItemName, Queen of Swords +2,  UI,  0
+WLDAG06_B_ItemName, Gladius +1,  UI,  0
+WLDAG06_C_ItemName, Gladius +2,  UI,  0
+WLDAG06_D_ItemName, Gladius +3,  UI,  0
+WLDAG07_B_ItemName, Devil's Dagger +1,  UI,  0
+WLDAG08_B_ItemName, Hanger +1,  UI,  0
+WLDAG08_C_ItemName, Hanger +2,  UI,  0
+WLDAG08_D_ItemName, Hanger +3,  UI,  0
+WLDAG09_B_ItemName, Wyrmbrand +1,  UI,  0
+WLDAG09_C_ItemName, Wyrmbrand +2,  UI,  0
+WLDAG09_D_ItemName, Wyrmbrand +3,  UI,  0
+WLDAG10_B_ItemName, Beowulf +1,  UI,  0
+WLDAG10_C_ItemName, Beowulf +2,  UI,  0
+WLAXE_OLD_01_ItemName, Beast's Axe,  UI,  0
+WLAXE01_B_ItemName, Hand Axe +1,  UI,  0
+WLAXE01_C_ItemName, Lightweight Hand Axe,  UI,  0
+WLAXE02_B_ItemName, Stone Axe +1,  UI,  0
+WLAXE02_C_ItemName, Stone Axe +2,  UI,  0
+WLAXE02_D_ItemName, Stone Axe +3,  UI,  0
+WLAXE03_B_ItemName, Francisca +1,  UI,  0
+WLAXE03_C_ItemName, Francisca +2,  UI,  0
+WLAXE03_D_ItemName, Francisca +3,  UI,  0
+WLAXE04_B_ItemName, Berserker Axe +1,  UI,  0
+WLAXE05_B_ItemName, Falconwind +1,  UI,  0
+WLAXE06_B_ItemName, Bullova +1,  UI,  0
+WLAXE06_C_ItemName, Bullova +2,  UI,  0
+WLAXE06_D_ItemName, Bullova +3,  UI,  0
+WLAXE07_B_ItemName, Bilqis +1,  UI,  0
+WLAXE07_C_ItemName, Bilqis +2,  UI,  0
+WLAXE07_D_ItemName, Bilqis +3,  UI,  0
+WLAXE08_B_ItemName, Earth's Creation Prime,  UI,  0
+WLAXE09_B_ItemName, Archfiend's Axe +1,  UI,  0
+WLAXE10_B_ItemName, Chainsaw +1,  UI,  0
+WLAXE11_B_ItemName, Fractionary Shine +1,  UI,  0
+WHGSW_OLD_01_ItemName, Spirit Greatsword,  UI,  0
+WHGSW01_B_ItemName, Zweihander +1,  UI,  0
+WHGSW01_GUARD_A_ItemName, Guardian Sword,  UI,  0
+WHGSW01_GUARD_B_ItemName, Guardian Sword +1,  UI,  0
+WHGSW01_GUARD_C_ItemName, Guardian Sword +2,  UI,  0
+WHGSW02_B_ItemName, Claymore +1,  UI,  0
+WHGSW02_C_ItemName, Claymore +2,  UI,  0
+WHGSW02_D_ItemName, Claymore +3,  UI,  0
+WHGSW03_B_ItemName, Faussar +1,  UI,  0
+WHGSW03_C_ItemName, Faussar +2,  UI,  0
+WHGSW03_D_ItemName, Faussar +3,  UI,  0
+WHGSW04_B_ItemName, Flamberge +1,  UI,  0
+WHGSW04_C_ItemName, Flamberge +2,  UI,  0
+WHGSW04_D_ItemName, Flamberge +3,  UI,  0
+WHGSW05_B_ItemName, Galatyn +1,  UI,  0
+WHGSW05_C_ItemName, Galatyn +2,  UI,  0
+WHGSW05_D_ItemName, Galatyn +3,  UI,  0
+WHGSW08_B_ItemName, Obsidian Sword +1,  UI,  0
+WHGSW09_B_ItemName, Dragonscale Greatsword +1,  UI,  0
+WHGSW09_C_ItemName, Dragonscale Greatsword +2,  UI,  0
+WHGSW09_D_ItemName, Dragonscale Greatsword +3,  UI,  0
+WHGSW10_B_ItemName, Dayblade +1,  UI,  0
+WHGSW11_B_ItemName, Moonlite +1,  UI,  0
+WHGSW_EXCALIBUR_01_ItemName, Cemetery Greatsword,  UI,  0
+WHGSW_EXCALIBUR_02_ItemName, Polished Greatsword,  UI,  0
+WHGSW_EXCALIBUR_03_ItemName, Sword of Albion,  UI,  0
+WHGSW_EXCALIBUR_04_ItemName, Excalibur,  UI,  0
+WHSSW_OLD_01_ItemName, Old Sword,  UI,  0
+WHSSW01_B_ItemName, Samurai Sword +1,  UI,  0
+WHSSW01_C_ItemName, Lightweight Samurai Sword,  UI,  0
+WHSSW02_B_ItemName, Exorciser +1,  UI,  0
+WHSSW02_C_ItemName, Exorciser +2,  UI,  0
+WHSSW02_D_ItemName, Exorciser +3,  UI,  0
+WHSSW03_B_ItemName, Twin Dragon +1,  UI,  0
+WHSSW03_C_ItemName, Twin Dragon +2,  UI,  0
+WHSSW03_D_ItemName, Twin Dragon +3,  UI,  0
+WHSSW04_B_ItemName, Invincible East +1,  UI,  0
+WHSSW05_B_ItemName, Ame-no-Habakiri +1,  UI,  0
+WHSSW05_C_ItemName, Ame-no-Habakiri +2,  UI,  0
+WHSSW05_D_ItemName, Ame-no-Habakiri +3,  UI,  0
+WHSSW06_B_ItemName, Gekkabijin +1,  UI,  0
+WHSSW07_B_ItemName, Comet Blade +1,  UI,  0
+WHSSW07_C_ItemName, Comet Blade +2,  UI,  0
+WHSSW08_B_ItemName, Crane Princess +1,  UI,  0
+WHSSW08_C_ItemName, Crane Princess +2,  UI,  0
+WHSSW08_D_ItemName, Crane Princess +3,  UI,  0
+WHSSW10_B_ItemName, Demonbrand +1,  UI,  0
+WHSSW10_C_ItemName, Demonbrand +2,  UI,  0
+WHSSW_HIDEYOSHI_ItemName, Darkblayde Hideyoshi,  UI,  0
+WHSSW_IEYASU_ItemName, Deathblayde Ieyasu,  UI,  0
+WHSSW_NOBUNAGA_ItemName, Dreadblayde Nobunaga,  UI,  0
+WHPSW01_B_ItemName, Halberd +1,  UI,  0
+WHPSW01_C_ItemName, Porter's Pike,  UI,  0
+WHPSW02_B_ItemName, Naginata +1,  UI,  0
+WHPSW02_C_ItemName, Naginata +2,  UI,  0
+WHPSW02_D_ItemName, Naginata +3,  UI,  0
+WHPSW03_B_ItemName, Glaive +1,  UI,  0
+WHPSW03_C_ItemName, Glaive +2,  UI,  0
+WHPSW03_D_ItemName, Glaive +3,  UI,  0
+WHPSW04_B_ItemName, Guisarme +1,  UI,  0
+WHPSW04_C_ItemName, Guisarme +2,  UI,  0
+WHPSW04_D_ItemName, Guisarme +3,  UI,  0
+WHPSW05_B_ItemName, Zhanmadao +1,  UI,  0
+WHPSW05_C_ItemName, Zhanmadao +2,  UI,  0
+WHPSW05_D_ItemName, Zhanmadao +3,  UI,  0
+WHPSW06_B_ItemName, War God's Pike +1,  UI,  0
+WHPSW08_B_ItemName, Feather Spear +1,  UI,  0
+WHPSW08_C_ItemName, Feather Spear +2,  UI,  0
+WHPSW09_B_ItemName, Gae Bolg +1,  UI,  0
+WHPSW09_C_ItemName, Gae Bolg +2,  UI,  0
+WHPSW09_D_ItemName, Gae Bolg +3,  UI,  0
+WHPSW10_B_ItemName, Nether Malystrix +1,  UI,  0
+WHPSW11_B_ItemName, Lohengrin +1,  UI,  0
+WHPSW11_C_ItemName, Lohengrin +2,  UI,  0
+GLONE_OLD_01_ItemName, Old Blunderbuss,  UI,  0
+GLONE_OLD_02_ItemName, Antique Gun,  UI,  0
+GLONE01_B_ItemName, Eagle Gun +1,  UI,  0
+GLONE01_C_ItemName, Eagle Gun SP,  UI,  0
+GLONE01_D_ItemName, Eagle Gun SP2,  UI,  0
+GLONE01_E_ItemName, Eagle Gun SP3,  UI,  0
+GLONE01_F_ItemName, Eagle Gun SP4,  UI,  0
+GLONE02_B_ItemName, Princess Guard +1,  UI,  0
+GLONE02_C_ItemName, Princess Guard +2,  UI,  0
+GLONE02_D_ItemName, Princess Guard +3,  UI,  0
+GLONE04_B_ItemName, Living Revolver +1,  UI,  0
+GLONE05_B_ItemName, Zen Gun +1,  UI,  0
+GLONE05_C_ItemName, Zen Gun +2,  UI,  0
+GLONE05_D_ItemName, Zen Gun +3,  UI,  0
+GLONE06_B_ItemName, Behemoth Rifle +1,  UI,  0
+GLONE07_B_ItemName, Blundergun +1,  UI,  0
+GLONE07_C_ItemName, Blundergun +2,  UI,  0
+GLONE07_D_ItemName, Blundergun +3,  UI,  0
+GLONE08_B_ItemName, Queen's Address +1,  UI,  0
+GLONE08_C_ItemName, Queen's Address +2,  UI,  0
+GLONE09_B_ItemName, Grimhorn +1,  UI,  0
+GLONE10_B_ItemName, Pendragon +1,  UI,  0
+GLONE10_C_ItemName, Pendragon +2,  UI,  0
+GLONE10_D_ItemName, Pendragon +3,  UI,  0
+GLONE11_B_ItemName, Silver Lily +1,  UI,  0
+GLONE11_C_ItemName, Silver Lily +2,  UI,  0
+GLONE13_B_ItemName, Blaster Gun +1,  UI,  0
+GLONE13_C_ItemName, Blaster Gun +2,  UI,  0
+GLONE13_D_ItemName, Blaster Gun +3,  UI,  0
+GLONE14_B_ItemName, Vector Ray +1,  UI,  0
+GHMAC_OLD_01_ItemName, Rusted Machine Gun,  UI,  0
+GHMAC_OLD_02_ItemName, Crumbling Machine Gun,  UI,  0
+GHMAC_OLD_03_ItemName, Broken Machine Gun,  UI,  0
+GHMAC_OLD_04_ItemName, Busted Machine Gun,  UI,  0
+GHMAC01_B_ItemName, Saber Machine Gun +1,  UI,  0
+GHMAC01_C_ItemName, Divergence,  UI,  0
+GHMAC01_D_ItemName, Divergence +1,  UI,  0
+GHMAC01_E_ItemName, Divergence +2,  UI,  0
+GHMAC02_B_ItemName, Hecaton Heavy Machine Gun +1,  UI,  0
+GHMAC02_C_ItemName, Hecaton Heavy Machine Gun +2,  UI,  0
+GHMAC02_D_ItemName, Hecaton Heavy Machine Gun +3,  UI,  0
+GHMAC02_2_A_ItemName, Atlas,  UI,  0
+GHFLA01_ZERO_ItemName, Agni Zero,  UI,  0
+GHFLA01_B_ItemName, Agni Heart +1,  UI,  0
+GHFLA01_C_ItemName, Agni Heart +2,  UI,  0
+GHFLA01_D_ItemName, Agni Heart +3,  UI,  0
+GHFLA01_2_A_ItemName, Flametip Lance,  UI,  0
+GHFLA02_B_ItemName, Firetrapper +1,  UI,  0
+GHFLA02_C_ItemName, Firetrapper +2,  UI,  0
+GHELE01_B_ItemName, Lightning Cannon +1,  UI,  0
+GHELE01_C_ItemName, Lightning Cannon +2,  UI,  0
+GHELE01_D_ItemName, Lightning Cannon +3,  UI,  0
+GHELE01_2_A_ItemName, Star King,  UI,  0
+GHELE02_B_ItemName, Photon Shooter +1,  UI,  0
+GHELE02_C_ItemName, Photon Shooter +2,  UI,  0
+GHBOM01_B_ItemName, Super Missile +1,  UI,  0
+GHBOM01_C_ItemName, Super Missile +2,  UI,  0
+GHBOM01_D_ItemName, Super Missile +3,  UI,  0
+GHBOM01_2_A_ItemName, Foundation,  UI,  0
+GHBOM02_B_ItemName, Hyperion Bazooka +1,  UI,  0
+GHBOM02_C_ItemName, Hyperion Bazooka +2,  UI,  0
+GHCHE01_B_ItemName, Serpent +1,  UI,  0
+GHCHE01_C_ItemName, Serpent +2,  UI,  0
+GHCHE01_D_ItemName, Serpent +3,  UI,  0
+GHCHE01_2_A_ItemName, Glaukos,  UI,  0
+GHCHE02_B_ItemName, Hydra +1,  UI,  0
+GHCHE02_C_ItemName, Hydra +2,  UI,  0
+BLADGEAR_SWORD00_ItemName, Sarubobo,  UI,  0
+BLADGEAR_SWORD01_ItemName, Lefikar,  UI,  0
+BLADGEAR_GUN00_ItemName, Bittersweet Sand,  UI,  0
+BLADGEAR_GUN01_ItemName, Normam,  UI,  0
+WLLSW_DW_ItemName, Fragarach,  UI,  0
+GLONE_DW_ItemName, Tathlum,  UI,  0
+MAMCR01_DW_ItemName, Left Cat Claw,  UI,  0
+MAMCR02_DW_ItemName, Right Cat Claw,  UI,  0
+MAMCR03_DW_ItemName, Left Cat Claw,  UI,  0
+MAMCR04_DW_ItemName, Right Cat Claw,  UI,  0
+MAMCR05_DW_ItemName, Left Cat Claw,  UI,  0
+MAMCR06_DW_ItemName, Right Cat Claw,  UI,  0
+MAMCR07_DW_ItemName, Left Cat Claw,  UI,  0
+MAMCR08_DW_ItemName, Right Cat Claw,  UI,  0
+MAMCR09_DW_ItemName, Left Wolf Claw,  UI,  0
+MAMCR10_DW_ItemName, Right Wolf Claw,  UI,  0
+MAMCR11_DW_ItemName, Lysosome,  UI,  0
+MAMCR12_DW_ItemName, Lysosome 2,  UI,  0
+MAMCR13_DW_ItemName, Hemoglobin,  UI,  0
+MAMCR14_DW_ItemName, Hemoglobin 2,  UI,  0
+MAMCR15_DW_ItemName, Left Moleband,  UI,  0
+MAMCR16_DW_ItemName, Right Moleband,  UI,  0
+MAMCR17_DW_ItemName, Left Mantis Sickle,  UI,  0
+MAMCR18_DW_ItemName, Right Mantis Sickle,  UI,  0
+WLLSW01_MW_ItemName, Magical Pawpole,  UI,  0
+WHGSW01_MW_ItemName, Brilliant Blossom,  UI,  0
+GLONE01_MW_ItemName, Twinkling Star,  UI,  0
+GHMAC01_MW_ItemName, Catling Gun,  UI,  0
+MACL01_A_ItemName, Combat Coat,  UI,  0
+MACL02_A_ItemName, Leather Jacket,  UI,  0
+MACL03_A_ItemName, Suit,  UI,  0
+MACL04_A_ItemName, Deus Maris's Harness,  UI,  0
+MANA01_A_ItemName, Leather Armor,  UI,  0
+MANA02_A_ItemName, Rigid Leather,  UI,  0
+MANA03_A_ItemName, Demon's Leather,  UI,  0
+MANA04_A_ItemName, Demon's Leather +1,  UI,  0
+MANA05_A_ItemName, Filthy Armor,  UI,  0
+MANA05_B_ItemName, Astral Armor,  UI,  0
+MANA06_A_ItemName, Battle Jacket,  UI,  0
+MANA07_A_ItemName, Justaucorps,  UI,  0
+MANA08_A_ItemName, Carmagnole,  UI,  0
+MANA09_A_ItemName, Emperor's Jacket,  UI,  0
+MANA09_B_ItemName, Emperor's Jacket +1,  UI,  0
+MANA10_A_ItemName, Grimleather,  UI,  0
+MANA10_B_ItemName, Grimleather +1,  UI,  0
+MANA_BONE01_ItemName, Bone Breastplate,  UI,  0
+MANA_BONE02_ItemName, Marrow Breastplate,  UI,  0
+MANA_BONE03_ItemName, Marrow Breastplate +1,  UI,  0
+MANA_BEAST01_ItemName, Bestial Leather,  UI,  0
+MANA_BEAST02_ItemName, Celestial Leather Armor,  UI,  0
+MANA_BEAST03_ItemName, Beast's Leather Armor,  UI,  0
+MANA_SNAKE01_ItemName, Serpent Leather,  UI,  0
+MANA_SNAKE02_ItemName, Serpent Leather +1,  UI,  0
+MANA_SNAKE03_ItemName, Hazmat Suit,  UI,  0
+MANA_SNAKE04_ItemName, Hazmat Suit +1,  UI,  0
+MANA11_A_ItemName, Squire's Armor,  UI,  0
+MANA12_A_ItemName, Knight's Armor,  UI,  0
+MANA13_A_ItemName, Brigandi,  UI,  0
+MANA14_A_ItemName, Platinum Armor,  UI,  0
+MANA15_A_ItemName, Lordly Mail,  UI,  0
+MANA15_B_ItemName, Lordly Mail +1,  UI,  0
+MANA16_A_ItemName, Dragonscale Armor,  UI,  0
+MAFA01_A_ItemName, Protective Suit,  UI,  0
+MAFA02_A_ItemName, Soldier Suit,  UI,  0
+MAFA03_A_ItemName, Combat Armor,  UI,  0
+MAFA04_A_ItemName, Reinforced Armor,  UI,  0
+MAFA05_A_ItemName, Power Suit,  UI,  0
+MAFA06_A_ItemName, Spriggan Suit,  UI,  0
+MAFA07_A_ItemName, Wyrm Mail,  UI,  0
+MAFA08_A_ItemName, Mobile Armor,  UI,  0
+MAFA09_A_ItemName, Mobile Armor +1,  UI,  0
+MARO00_A_ItemName, Robe,  UI,  0
+MARO00_B_ItemName, Coat,  UI,  0
+MARO01_A_ItemName, Caster's Robe,  UI,  0
+MARO02_A_ItemName, Sage's Robe,  UI,  0
+MARO03_A_ItemName, Shade Robe,  UI,  0
+MARO04_A_ItemName, Moonbeam Robe,  UI,  0
+MARO05_A_ItemName, Twilight Robe,  UI,  0
+MARO05_B_ItemName, Twilight Robe +1,  UI,  0
+MARO06_A_ItemName, Stardust Robe,  UI,  0
+MARO06_B_ItemName, Stardust Robe +1,  UI,  0
+MARO07_A_ItemName, Sunflare Robe,  UI,  0
+MARO07_B_ItemName, Sunflare Robe +1,  UI,  0
+MARO08_A_ItemName, Lagoon Robe,  UI,  0
+MARO08_B_ItemName, Lagoon Robe +1,  UI,  0
+MARO09_A_ItemName, Chromatic Robe,  UI,  0
+MARO10_A_ItemName, Floral Robe,  UI,  0
+MARO11_A_ItemName, Magnificent Candis,  UI,  0
+MARO11_B_ItemName, Magnificent Candis +1,  UI,  0
+MARO_ALL01_ItemName, Trench Coat,  UI,  0
+MARO_ALL02_ItemName, Chesterfield Coat,  UI,  0
+MARO_ALL03_ItemName, Gown Coat,  UI,  0
+MARO12_A_ItemName, Duffle Coat,  UI,  0
+MARO12_B_ItemName, Down Coat,  UI,  0
+MARO12_C_ItemName, Fancy Coat,  UI,  0
+MARO12_D_ItemName, Pulchran Robe,  UI,  0
+MARO13_A_ItemName, Camouflage Garb,  UI,  0
+MARO14_A_ItemName, Shinobi Garb,  UI,  0
+MARO15_A_ItemName, Tengu Cloak,  UI,  0
+MACW01_DM_ItemName, Cat Fur,  UI,  0
+MACW02_DM_ItemName, Cat Fur,  UI,  0
+MACW03_DM_ItemName, Cat Fur,  UI,  0
+MACW04_DM_ItemName, Cat Fur,  UI,  0
+MACW05_DM_ItemName, Wolf Coat,  UI,  0
+MACW06_DM_ItemName, Demonic Membrane,  UI,  0
+MACW07_DM_ItemName, Demonic Membrane,  UI,  0
+MACW08_DM_ItemName, Mole Fur,  UI,  0
+MACW09_DM_ItemName, Mantis Husk,  UI,  0
+SAIN01_A_ItemName, Doublet,  UI,  0
+SAIN01_B_ItemName, Dress Shirt,  UI,  0
+SAIN02_A_ItemName, Reinforced Clothes,  UI,  0
+SAIN03_A_ItemName, Enchanter's Tunic,  UI,  0
+SAIN04_A_ItemName, Budo Gi,  UI,  0
+SAIN05_A_ItemName, Magicked Shawl,  UI,  0
+SAIN06_A_ItemName, Padded Clothes,  UI,  0
+SAIN07_A_ItemName, Beetle Shawl,  UI,  0
+SAIN08_A_ItemName, Bat Cape,  UI,  0
+SAIN09_A_ItemName, Emperor's Cape,  UI,  0
+SAIN10_A_ItemName, Bolero,  UI,  0
+SAIN11_A_ItemName, Feathered Bolero,  UI,  0
+SAIN12_A_ItemName, Tropical Bolero,  UI,  0
+SAHE01_A_ItemName, Hood,  UI,  0
+SAHE02_A_ItemName, Feathered Hat,  UI,  0
+SAHE03_A_ItemName, Fur Hood,  UI,  0
+SAHE04_A_ItemName, Pirate Bandana,  UI,  0
+SAHE05_A_ItemName, Celestial Hood,  UI,  0
+SAHE06_A_ItemName, Insulated Hood,  UI,  0
+SAHE07_A_ItemName, Cockscomb,  UI,  0
+SAHE08_A_ItemName, Beastbone Helmet,  UI,  0
+SAHE09_A_ItemName, Flower Crown,  UI,  0
+SAHE10_A_ItemName, Topiary Crown,  UI,  0
+SAHE11_A_ItemName, Bone Helmet,  UI,  0
+SAHE12_A_ItemName, Battle Cap,  UI,  0
+SAHE13_A_ItemName, Sallet,  UI,  0
+SAHE14_A_ItemName, Metal Helm,  UI,  0
+SAHE15_A_ItemName, Bird Helm,  UI,  0
+SAHE15_B_ItemName, Bird Helm +1,  UI,  0
+SAHE16_A_ItemName, Lordly Helm,  UI,  0
+SAHE17_A_ItemName, Plumed Hairpin,  UI,  0
+SAHE18_A_ItemName, Red Hairclip,  UI,  0
+SAHE18_B_ItemName, Blue Hairclip,  UI,  0
+SAHE18_C_ItemName, Yellow Hairclip,  UI,  0
+SAHE18_D_ItemName, Black Hairclip,  UI,  0
+SAHE18_E_ItemName, Soleil Hairclip,  UI,  0
+SAHE18_F_ItemName, Twilight Hairclip,  UI,  0
+SAHE18_G_ItemName, Verdant Hairclip,  UI,  0
+SAHE18_H_ItemName, Abyssal Hairclip,  UI,  0
+SAHE19_A_ItemName, Silver Majeste,  UI,  0
+SAHE20_A_ItemName, Obsidian Frontlet,  UI,  0
+SAHE21_A_ItemName, Mask,  UI,  0
+SAHE22_A_ItemName, Feather Mask,  UI,  0
+SAHE23_A_ItemName, Beast Mask,  UI,  0
+SAHE24_A_ItemName, Screaming Devil,  UI,  0
+SAHE25_A_ItemName, Masked Emperor,  UI,  0
+SAHE26_A_ItemName, Silk Hat,  UI,  0
+SAGL01_A_ItemName, Knuckle Covers,  UI,  0
+SAGL02_A_ItemName, Shell Bracers,  UI,  0
+SAGL03_A_ItemName, Aged Gloves,  UI,  0
+SAGL04_A_ItemName, Steel Gauntlets,  UI,  0
+SAGL05_A_ItemName, Vambraces,  UI,  0
+SAGL06_A_ItemName, Cyber Glove,  UI,  0
+SAGL06_B_ItemName, Cyber Glove +1,  UI,  0
+SAGL07_A_ItemName, Uncanny Gloves,  UI,  0
+SAGL07_B_ItemName, Uncanny Gloves +1,  UI,  0
+SAGL08_A_ItemName, Pot Holders,  UI,  0
+SAGL09_A_ItemName, Silver Snake,  UI,  0
+SAGL10_A_ItemName, Lordly Gauntlets,  UI,  0
+SAGL11_A_ItemName, Posh Mitaines,  UI,  0
+SAGL12_A_ItemName, Mitaines,  UI,  0
+SAGL13_A_ItemName, Insulators,  UI,  0
+SAGL14_A_ItemName, Sharpshooter Gloves,  UI,  0
+SAGL15_A_ItemName, Musketeers,  UI,  0
+SAGL16_A_ItemName, Tactical Gloves,  UI,  0
+SAGL17_A_ItemName, Arm Warmers,  UI,  0
+SAGL18_A_ItemName, Trompe l'oeil,  UI,  0
+SAGL18_B_ItemName, Trompe l'oeil +1,  UI,  0
+SAGL19_A_ItemName, Evil Gloves,  UI,  0
+SAGL20_A_ItemName, Lace Gloves,  UI,  0
+SAGL21_A_ItemName, Hexed Gloves,  UI,  0
+SASH00_A_ItemName, Clogs,  UI,  0
+SASH00_B_ItemName, Gaiters,  UI,  0
+SASH00_C_ItemName, Breeches,  UI,  0
+SASH00_D_ItemName, Pumps,  UI,  0
+SASH01_A_ItemName, Leather Boots,  UI,  0
+SASH02_A_ItemName, Long Boots,  UI,  0
+SASH03_A_ItemName, Metal Greaves,  UI,  0
+SASH04_A_ItemName, Sabatons,  UI,  0
+SASH05_A_ItemName, Silver Boots,  UI,  0
+SASH06_A_ItemName, Lordly Sabatons,  UI,  0
+SASH07_A_ItemName, Rubber Soles,  UI,  0
+SASH08_A_ItemName, Stone Leggings,  UI,  0
+SASH09_A_ItemName, Filthy Boots,  UI,  0
+SASH09_B_ItemName, Astral Boots,  UI,  0
+SASH10_A_ItemName, Obsidian Boots,  UI,  0
+SASH11_A_ItemName, Rubber Soles +1,  UI,  0
+SASH12_A_ItemName, Galoshes,  UI,  0
+SASH13_A_ItemName, Snake-Print Sandals,  UI,  0
+SASH14_A_ItemName, Python-Print Shoes,  UI,  0
+SASH15_A_ItemName, Scorpion Smashers,  UI,  0
+SASH16_A_ItemName, Cyclone Shoes,  UI,  0
+SASH16_B_ItemName, Cyclone Shoes +1,  UI,  0
+SASH16_C_ItemName, Skanda Shoes,  UI,  0
+SASH17_A_ItemName, Jungle Boots,  UI,  0
+SASH17_B_ItemName, Combat Boots,  UI,  0
+SAAC00_A_ItemName, Bone Amulet,  UI,  0
+SAAC01_A_ItemName, Fang Amulet,  UI,  0
+SAAC02_A_ItemName, Nail Amulet,  UI,  0
+SAAC03_A_ItemName, Wing Amulet,  UI,  0
+SAAC04_A_ItemName, Steel Amulet,  UI,  0
+SAAC05_A_ItemName, Pearl Amulet,  UI,  0
+SAAC06_A_ItemName, Flower Amulet,  UI,  0
+SAAC07_A_ItemName, Fang Amulet +1,  UI,  0
+SAAC08_A_ItemName, Nail Amulet +1,  UI,  0
+SAAC09_A_ItemName, Wing Amulet +1,  UI,  0
+SAAC10_A_ItemName, Steel Amulet +1,  UI,  0
+SAAC11_A_ItemName, Pearl Amulet +1,  UI,  0
+SAAC12_A_ItemName, Flower Amulet +1,  UI,  0
+SAAC13_A_ItemName, Protective Bead,  UI,  0
+SAAC14_A_ItemName, Harmonium Earring,  UI,  0
+SAAC15_A_ItemName, Sanguine Star,  UI,  0
+SAAC16_A_ItemName, Genjo,  UI,  0
+SAAC17_A_ItemName, Shiny Sunglasses,  UI,  0
+SAAC18_A_ItemName, Emeth Tag,  UI,  0
+SAAC19_A_ItemName, Angel Brooch,  UI,  0
+SAAC20_A_ItemName, Flower Rosette,  UI,  0
+SAAC21_A_ItemName, Blood Chalice,  UI,  0
+SAAC22_A_ItemName, Closed-Back Headphones,  UI,  0
+SAAC23_A_ItemName, Magatama,  UI,  0
+SAAC23_B_ItemName, Large Magatama,  UI,  0
+SAAC24_A_ItemName, Blade Attractor,  UI,  0
+SAAC25_A_ItemName, Hammer Attractor,  UI,  0
+SAAC26_A_ItemName, Spear Attractor,  UI,  0
+SAAC27_A_ItemName, Fire Crystal,  UI,  0
+SAAC28_A_ItemName, Ice Crystal,  UI,  0
+SAAC29_A_ItemName, Lightning Rod,  UI,  0
+SAAC30_A_ItemName, Golden Band of Gale,  UI,  0
+SAAC31_A_ItemName, Ring of Flame,  UI,  0
+SAAC32_A_ItemName, Band of Forest,  UI,  0
+SAAC33_A_ItemName, Earring of Wave,  UI,  0
+SAAC34_A_ItemName, Sunglasses,  UI,  0
+SAAC35_A_ItemName, Cerberus's Ring,  UI,  0
+SAAC36_A_ItemName, Monocle,  UI,  0
+SAAC37_A_ItemName, Eyepatch,  UI,  0
+SAAC37_B_ItemName, Blindfold,  UI,  0
+SAAC_DUMBBELL_1_ItemName, 10kg Dumbbell,  UI,  0
+SAAC_DUMBBELL_2_ItemName, 20kg Dumbbell,  UI,  0
+SAAC_DUMBBELL_3_ItemName, 30kg Dumbbell,  UI,  0
+SAAC_DUMBBELL_4_ItemName, 40kg Dumbbell,  UI,  0
+SAAC_WATCH_1_ItemName, Cheap Watch,  UI,  0
+SAAC_WATCH_2_ItemName, Wristwatch,  UI,  0
+SAAC_WATCH_3_ItemName, Silver Watch,  UI,  0
+SAAC_WATCH_4_ItemName, Chain Horologe,  UI,  0
+SAAC_TICKET_0_ItemName, Cleaning Ticket,  UI,  0
+SAAC_TICKET_1_ItemName, Street Stall Ticket,  UI,  0
+SAAC_TICKET_2_ItemName, Art Gallery Ticket,  UI,  0
+SAAC_TICKET_3_ItemName, Museum Ticket,  UI,  0
+SAAC_TICKET_4_ItemName, Black Market Ticket,  UI,  0
+SAAC_TICKET_5_ItemName, Concert Ticket,  UI,  0
+SAAC_GIVEAWAY_1_ItemName, Tissues,  UI,  0
+SAAC_GIVEAWAY_2_ItemName, Glow Stick,  UI,  0
+SAAC_GIVEAWAY_3_ItemName, Acrylic Charm,  UI,  0
+SAAC_GIVEAWAY_4_ItemName, Tumbler,  UI,  0
+SAAC_GIVEAWAY_5_ItemName, Hand Fan,  UI,  0
+SAAC_GIVEAWAY_6_ItemName, Sports Towel,  UI,  0
+SAAC_GIVEAWAY_7_ItemName, UV-Proof Stole,  UI,  0
+SAAC_GIVEAWAY_8_ItemName, Pocket Mirror,  UI,  0
+BLADGEAR_MANA00_ItemName, Eggshell,  UI,  0
+BLADGEAR_MANA01_ItemName, Shed Musua,  UI,  0
+BLADGEAR_SAGL00_ItemName, Diadema Imperatoris,  UI,  0
+BLADGEAR_SAGL01_ItemName, Logferv,  UI,  0
+BLADGEAR_SAHE00_ItemName, Alley Boots,  UI,  0
+BLADGEAR_SAHE01_ItemName, Natas,  UI,  0
+BLADGEAR_SASH00_ItemName, Identification Tag,  UI,  0
+BLADGEAR_SASH01_ItemName, Balzerive,  UI,  0
+SAAC_ABILITY_UP_1_ItemName, Sportswear,  UI,  0
+SAAC_ABILITY_UP_2_ItemName, Pressurized Base Layer,  UI,  0
+SAAC_ABILITY_UP_3_ItemName, Compression Gear,  UI,  0
+SAAC_MASTR_CROWN_1_ItemName, Master's Crown,  UI,  0
+SAAC01_DS_ItemName, Djinn's Choker,  UI,  0
+SAAC02_DS_ItemName, Djinn's Pendant,  UI,  0
+SAAC03_DS_ItemName, Djinn's Bell,  UI,  0
+SAAC04_DS_ItemName, Djinn's Charm,  UI,  0
+SAAC05_DS_ItemName, Djinn's Talisman,  UI,  0
+SAAC06_DS_ItemName, Djinn's Amulet,  UI,  0
+SAAC07_DS_ItemName, Djinn's Cursed Bone,  UI,  0
+SAAC08_DS_ItemName, Djinn's Apophyllite,  UI,  0
+SAAC09_DS_ItemName, Djinn's Horn,  UI,  0
+SAAC10_DS_ItemName, Djinn's Knot Stone,  UI,  0
+SAAC11_DS_ItemName, Djinn's Ptyalolith,  UI,  0
+SAAC12_DS_ItemName, Djinn's Trinket,  UI,  0
+SAAC13_DS_ItemName, Djinn's Vial,  UI,  0
+SAAC14_DS_ItemName, Anuran's Ring,  UI,  0
+SAAC15_DS_ItemName, Djinn's Bangle,  UI,  0
+SAAC01_MS_ItemName, Cat's Bell of Warding,  UI,  0
+SAAC02_MS_ItemName, Cat Socks,  UI,  0
+SAAC03_MS_ItemName, Cat Scrunchie,  UI,  0
+SAAC04_MS_ItemName, Catnip Charm,  UI,  0
+SAAC05_MS_ItemName, Cat Hat,  UI,  0
+SAAC06_MS_ItemName, Paw Shoes,  UI,  0
+SAAC07_MS_ItemName, Cat Gloves,  UI,  0
+SAAC08_MS_ItemName, Catear Muffler,  UI,  0
+DIVA_SLOT01_RES_ItemName, Function Limiter,  UI,  0
+DIVA_SLOT02_RES_ItemName, Function Limiter,  UI,  0
+DIVA_SLOT03_RES_ItemName, Function Limiter,  UI,  0
+DIVA_SLOT04_RES_ItemName, Function Limiter,  UI,  0
+WLLSW_OLD_01_ItemExp, None,  UI,  0
+WLLSW_OLD_02_ItemExp, None,  UI,  0
+WLLSW01_L_ItemName, Lightweight Broadsword,  UI,  0
+WLLSW01_L_ItemExp, BP Cost -1,  UI,  0
+WLLSW01_PURSUIT_A_ItemExp, BP Cost -1 When Near Death,  UI,  0
+WLLSW01_PURSUIT_B_ItemExp, BP Cost -1 When at Half Health,  UI,  0
+WLLSW01_PURSUIT_C_ItemExp, BP Cost -1 When at Half Health,  UI,  0
+WLLSW02_A_ItemExp, Accuracy +20%,  UI,  0
+WLLSW02_B_ItemExp, Accuracy +20%,  UI,  0
+WLLSW02_C_ItemExp, Accuracy +20%,  UI,  0
+WLLSW02_D_ItemExp, Accuracy +20%,  UI,  0
+WLLSW05_C_ItemExp, Tech Order -1,  UI,  0
+WLLSW05_D_ItemExp, Tech Order -1,  UI,  0
+WLLSW06_A_ItemExp, None,  UI,  0
+WLLSW07_A_ItemExp, None,  UI,  0
+WLLSW07_B_ItemExp, None,  UI,  0
+WLLSW07_C_ItemExp, None,  UI,  0
+WLLSW08_A_ItemExp, Guaranteed Hit,  UI,  0
+WLLSW09_A_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WLLSW09_B_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WLLSW09_C_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WLLSW09_D_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WLLSW10_A_ItemExp, <emoji Fire>Heat Resistance +30%,  UI,  0
+WLLSW11_A_ItemExp, Raises Overdrive Activation Rate,  UI,  0
+WLRAP01_C_ItemName, Lightweight Fleuret,  UI,  0
+WLRAP01_C_ItemExp, BP Cost -1,  UI,  0
+WLRAP03_A_ItemExp, Critical Attack Power +15%,  UI,  0
+WLRAP03_B_ItemExp, Critical Attack Power +15%,  UI,  0
+WLRAP03_C_ItemExp, Critical Attack Power +15%,  UI,  0
+WLRAP03_D_ItemExp, Critical Attack Power +15%,  UI,  0
+WLRAP05_C_ItemExp, Tech Order -1,  UI,  0
+WLRAP05_D_ItemExp, Tech Order -1,  UI,  0
+WLRAP06_A_ItemExp, <emoji Fire>Heat Resistance +15%,  UI,  0
+WLRAP06_B_ItemExp, <emoji Fire>Heat Resistance +15%,  UI,  0
+WLRAP06_C_ItemExp, <emoji Fire>Heat Resistance +15%,  UI,  0
+WLRAP07_A_ItemExp, BP Cost -1 When Near Death,  UI,  0
+WLRAP07_B_ItemExp, BP Cost -1 When at Half Health,  UI,  0
+WLRAP08_B_ItemExp, Initial Combo Rate +5%,  UI,  0
+WLRAP08_C_ItemExp, Initial Combo Rate +5%,  UI,  0
+WLRAP09_A_ItemExp, Guaranteed Hit,  UI,  0
+WLRAP10_A_ItemExp, Combo Range 1,  UI,  0
+WLRAP10_B_ItemExp, Combo Range 1,  UI,  0
+WLRAP11_A_ItemExp, Power +20% When Quelling Conditionals,  UI,  0
+WLRAP11_B_ItemExp, Power +20% When Quelling Conditionals,  UI,  0
+WLRAP11_C_ItemExp, Power +20% When Quelling Conditionals,  UI,  0
+WLDAG01_C_ItemExp, BP Cost -1,  UI,  0
+WLDAG02_A_ItemExp, Target's Block Chance -30%,  UI,  0
+WLDAG02_B_ItemExp, Target's Block Chance -40%,  UI,  0
+WLDAG02_C_ItemExp, Target's Block Chance -50%,  UI,  0
+WLDAG04_A_ItemExp, Critical Attack Power +15%,  UI,  0
+WLDAG04_B_ItemExp, Critical Attack Power +15%,  UI,  0
+WLDAG04_C_ItemExp, Critical Attack Power +15%,  UI,  0
+WLDAG04_D_ItemExp, Critical Attack Power +15%,  UI,  0
+WLDAG05_A_ItemExp, <emoji Ice>Cold Resistance +15%,  UI,  0
+WLDAG05_B_ItemExp, <emoji Ice>Cold Resistance +15%,  UI,  0
+WLDAG05_C_ItemExp, <emoji Ice>Cold Resistance +30%,  UI,  0
+WLDAG07_A_ItemExp, None,  UI,  0
+WLDAG07_B_ItemExp, None,  UI,  0
+WLDAG07_C_ItemExp, None,  UI,  0
+WLDAG08_A_ItemExp, Accuracy +20%,  UI,  0
+WLDAG08_B_ItemExp, Accuracy +20%,  UI,  0
+WLDAG08_C_ItemExp, Accuracy +20%,  UI,  0
+WLDAG08_D_ItemExp, Accuracy +20%,  UI,  0
+WLDAG09_A_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WLDAG09_B_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WLDAG09_C_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WLDAG09_D_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WLDAG10_A_ItemExp, Power +20% When Frenzied,  UI,  0
+WLDAG10_B_ItemExp, Power +20% When Frenzied,  UI,  0
+WLDAG10_C_ItemExp, Power +20% When Frenzied,  UI,  0
+WLDAG11_A_ItemExp, Tech Order +1,  UI,  0
+WLDAG11_B_ItemExp, None,  UI,  0
+WLDAG11_C_ItemExp, Tech Order +1,  UI,  0
+WLDAG11_D_ItemExp, Tech Order +1,  UI,  0
+WLAXE01_C_ItemExp, BP Cost -1,  UI,  0
+WLAXE02_C_ItemExp, Tech Order -1,  UI,  0
+WLAXE02_D_ItemExp, Tech Order -1,  UI,  0
+WLAXE03_A_ItemExp, Critical Attack Power +15%,  UI,  0
+WLAXE03_B_ItemExp, Critical Attack Power +15%,  UI,  0
+WLAXE03_C_ItemExp, Critical Attack Power +15%,  UI,  0
+WLAXE03_D_ItemExp, Critical Attack Power +15%,  UI,  0
+WLAXE04_A_ItemExp, Power +20% When Frenzied,  UI,  0
+WLAXE04_B_ItemExp, Power +20% When Frenzied,  UI,  0
+WLAXE04_C_ItemExp, Power +20% When Frenzied,  UI,  0
+WLAXE05_B_ItemExp, Initial Combo Rate +5%,  UI,  0
+WLAXE05_C_ItemExp, Initial Combo Rate +5%,  UI,  0
+WLAXE08_A_ItemExp, Critical Attack Combo Rate +5%,  UI,  0
+WLAXE08_B_ItemExp, Critical Attack Combo Rate +5%,  UI,  0
+WLAXE09_A_ItemExp, Finisher Combo Rate +10%,  UI,  0
+WLAXE09_B_ItemExp, Finisher Combo Rate +10%,  UI,  0
+WLAXE10_A_ItemExp, Deals Massive Damage on Very Rare Occasions,  UI,  0
+WLAXE10_B_ItemExp, Deals Massive Damage on Very Rare Occasions,  UI,  0
+WLAXE11_A_ItemExp, None,  UI,  0
+WLAXE11_B_ItemExp, None,  UI,  0
+WLAXE11_C_ItemExp, None,  UI,  0
+WHGSW01_C_ItemName, Lightweight Zweihander,  UI,  0
+WHGSW01_C_ItemExp, BP Cost -1,  UI,  0
+WHGSW01_D_ItemName, Fine Zweihander,  UI,  0
+WHGSW01_D_ItemExp, Finisher Combo Rate +10%,  UI,  0
+WHGSW01_GUARD_A_ItemExp, None,  UI,  0
+WHGSW01_GUARD_B_ItemExp, None,  UI,  0
+WHGSW01_GUARD_C_ItemExp, None,  UI,  0
+WHGSW03_C_ItemExp, Tech Order -1,  UI,  0
+WHGSW03_D_ItemExp, Tech Order -1,  UI,  0
+WHGSW05_A_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+WHGSW05_B_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+WHGSW05_C_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+WHGSW05_D_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+WHGSW06_A_ItemExp, <emoji Ice>Cold Resistance +15%,  UI,  0
+WHGSW06_B_ItemExp, <emoji Ice>Cold Resistance +30%,  UI,  0
+WHGSW07_A_ItemExp, BP Cost -1,  UI,  0
+WHGSW08_A_ItemExp, Combo Range 0,  UI,  0
+WHGSW08_B_ItemExp, Combo Range 1,  UI,  0
+WHGSW09_A_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WHGSW09_B_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WHGSW09_C_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WHGSW09_D_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WHGSW10_A_ItemExp, Guaranteed Hit,  UI,  0
+WHGSW10_B_ItemExp, Guaranteed Hit,  UI,  0
+WHGSW11_A_ItemExp, Target's Block Chance -30%,  UI,  0
+WHGSW11_B_ItemExp, Target's Block Chance -40%,  UI,  0
+WHGSW_EXCALIBUR_01_ItemExp, Raises Overdrive Activation Rate,  UI,  0
+WHGSW_EXCALIBUR_02_ItemExp, Raises Overdrive Activation Rate,  UI,  0
+WHGSW_EXCALIBUR_03_ItemExp, Raises Overdrive Activation Rate,  UI,  0
+WHGSW_EXCALIBUR_04_ItemExp, Raises Overdrive Activation Rate,  UI,  0
+WHSSW_OLD_01_ItemExp, None,  UI,  0
+WHSSW01_C_ItemExp, BP Cost -1,  UI,  0
+WHSSW04_A_ItemExp, None,  UI,  0
+WHSSW04_B_ItemExp, None,  UI,  0
+WHSSW04_C_ItemExp, None,  UI,  0
+WHSSW05_A_ItemExp, Critical Attack Power +15%,  UI,  0
+WHSSW05_B_ItemExp, Critical Attack Power +15%,  UI,  0
+WHSSW05_C_ItemExp, Critical Attack Power +15%,  UI,  0
+WHSSW05_D_ItemExp, Critical Attack Power +15%,  UI,  0
+WHSSW06_A_ItemExp, BP Cost -1,  UI,  0
+WHSSW06_B_ItemExp, BP Cost -1,  UI,  0
+WHSSW07_B_ItemExp, Tech Order +1,  UI,  0
+WHSSW07_C_ItemExp, Tech Order +1,  UI,  0
+WHSSW08_C_ItemExp, Tech Order -1,  UI,  0
+WHSSW08_D_ItemExp, Tech Order -1,  UI,  0
+WHSSW09_A_ItemExp, Critical Attack Combo Rate +7%,  UI,  0
+WHSSW09_B_ItemExp, Critical Attack Combo Rate +7%,  UI,  0
+WHSSW10_A_ItemExp, Target's Block Chance -30%,  UI,  0
+WHSSW10_B_ItemExp, Target's Block Chance -40%,  UI,  0
+WHSSW10_C_ItemExp, Target's Block Chance -50%,  UI,  0
+WHSSW11_A_ItemExp, Finisher Combo Rate +10%,  UI,  0
+WHSSW11_B_ItemExp, Finisher Combo Rate +10%,  UI,  0
+WHSSW_HIDEYOSHI_ItemExp, Deals Massive Damage on Very Rare Occasions,  UI,  0
+WHSSW_IEYASU_ItemExp, Deals Massive Damage on Rare Occasions,  UI,  0
+WHSSW_NOBUNAGA_ItemExp, Deals Massive Damage on Occasion,  UI,  0
+WHPSW01_C_ItemExp, BP Cost -1,  UI,  0
+WHPSW03_A_ItemExp, Critical Attack Power +15%,  UI,  0
+WHPSW03_B_ItemExp, Critical Attack Power +15%,  UI,  0
+WHPSW03_C_ItemExp, Critical Attack Power +15%,  UI,  0
+WHPSW03_D_ItemExp, Critical Attack Power +15%,  UI,  0
+WHPSW05_C_ItemExp, Tech Order -1,  UI,  0
+WHPSW05_D_ItemExp, Tech Order -1,  UI,  0
+WHPSW06_A_ItemExp, Raises Overdrive Activation Rate,  UI,  0
+WHPSW06_B_ItemExp, Raises Overdrive Activation Rate,  UI,  0
+WHPSW07_A_ItemExp, None,  UI,  0
+WHPSW07_B_ItemExp, None,  UI,  0
+WHPSW08_B_ItemExp, Tech Order +1,  UI,  0
+WHPSW08_C_ItemExp, Tech Order +1,  UI,  0
+WHPSW09_A_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WHPSW09_B_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WHPSW09_C_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WHPSW09_D_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+WHPSW10_A_ItemExp, None,  UI,  0
+WHPSW10_B_ItemExp, None,  UI,  0
+WHPSW11_A_ItemExp, Power +20% Against Chanting Enemies,  UI,  0
+WHPSW11_B_ItemExp, Power +20% Against Chanting Enemies,  UI,  0
+WHPSW11_C_ItemExp, Power +20% Against Chanting Enemies,  UI,  0
+GLONE_OLD_01_ItemExp, None,  UI,  0
+GLONE_OLD_02_ItemExp, None,  UI,  0
+GLONE01_C_ItemExp, Accuracy +20%,  UI,  0
+GLONE01_D_ItemExp, Accuracy +20%,  UI,  0
+GLONE01_E_ItemExp, Accuracy +20%,  UI,  0
+GLONE01_F_ItemExp, Accuracy +20%,  UI,  0
+GLONE02_A_ItemExp, None,  UI,  0
+GLONE02_B_ItemExp, None,  UI,  0
+GLONE02_C_ItemExp, None,  UI,  0
+GLONE02_D_ItemExp, None,  UI,  0
+GLONE03_A_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+GLONE03_B_ItemExp, Initial Combo Rate per missing retinue member +10%,  UI,  0
+GLONE04_C_ItemName, Living Revolver Mk. II,  UI,  0
+GLONE04_C_ItemExp, BP Cost -1,  UI,  0
+GLONE04_D_ItemName, Living Revolver Mk. III,  UI,  0
+GLONE04_D_ItemExp, Finisher Combo Rate +10%,  UI,  0
+GLONE06_A_ItemExp, Power +20% When Quelling Conditionals,  UI,  0
+GLONE06_B_ItemExp, Power +20% When Quelling Conditionals,  UI,  0
+GLONE07_A_ItemExp, Critical Attack Power +15%,  UI,  0
+GLONE07_B_ItemExp, Critical Attack Power +15%,  UI,  0
+GLONE07_C_ItemExp, Critical Attack Power +15%,  UI,  0
+GLONE07_D_ItemExp, Critical Attack Power +15%,  UI,  0
+GLONE08_A_ItemExp, None,  UI,  0
+GLONE08_B_ItemExp, None,  UI,  0
+GLONE08_C_ItemExp, None,  UI,  0
+GLONE09_A_ItemExp, Target's Block Chance -30%,  UI,  0
+GLONE09_B_ItemExp, Target's Block Chance -40%,  UI,  0
+GLONE09_C_ItemExp, Target's Block Chance -40%,  UI,  0
+GLONE11_A_ItemExp, None,  UI,  0
+GLONE11_B_ItemExp, None,  UI,  0
+GLONE11_C_ItemExp, None,  UI,  0
+GLONE12_A_ItemExp, None,  UI,  0
+GLONE13_A_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+GLONE13_B_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+GLONE13_C_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+GLONE13_D_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+GLONE14_A_ItemExp, Tech Order +1,  UI,  0
+GLONE14_B_ItemExp, Tech Order +1,  UI,  0
+GLONE15_A_ItemExp, Tech Order +1,  UI,  0
+GLONE16_A_ItemExp, Raises Overdrive Activation Rate,  UI,  0
+GLONE17_A_ItemExp, None,  UI,  0
+GLONE18_A_ItemExp, BP Cost -1,  UI,  0
+GHMAC_OLD_01_ItemExp, None,  UI,  0
+GHMAC_OLD_02_ItemExp, Tech Order -2,  UI,  0
+GHMAC_OLD_03_ItemExp, Raises Enmity (L),  UI,  0
+GHMAC_OLD_04_ItemExp, Combo Range 0,  UI,  0
+GHMAC01_C_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+GHMAC01_D_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+GHMAC01_E_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+GHMAC02_E_ItemExp, None,  UI,  0
+GHMAC02_2_A_ItemExp, None,  UI,  0
+GHFLA01_ZERO_ItemExp, <emoji Fire>Heat Resistance +15%,  UI,  0
+GHFLA01_A_ItemExp, <emoji Fire>Heat Resistance +15%,  UI,  0
+GHFLA01_B_ItemExp, <emoji Fire>Heat Resistance +15%,  UI,  0
+GHFLA01_C_ItemExp, <emoji Fire>Heat Resistance +15%,  UI,  0
+GHFLA01_D_ItemExp, <emoji Fire>Heat Resistance +15%,  UI,  0
+GHFLA01_2_A_ItemExp, <emoji Fire>Heat Resistance +30%,  UI,  0
+GHFLA02_A_ItemExp, Power +20% When Frenzied,  UI,  0
+GHFLA02_B_ItemExp, Power +20% When Frenzied,  UI,  0
+GHFLA02_C_ItemExp, Power +20% When Frenzied,  UI,  0
+GHFLA02_D_ItemExp, Power +20% When Frenzied,  UI,  0
+GHELE01_A_ItemExp, <emoji Lightning>Shock Resistance +15%,  UI,  0
+GHELE01_B_ItemExp, <emoji Lightning>Shock Resistance +15%,  UI,  0
+GHELE01_C_ItemExp, <emoji Lightning>Shock Resistance +15%,  UI,  0
+GHELE01_D_ItemExp, <emoji Lightning>Shock Resistance +15%,  UI,  0
+GHELE01_2_A_ItemExp, <emoji Lightning>Shock Resistance +30%,  UI,  0
+GHELE02_C_ItemExp, Initial Combo Rate +5%,  UI,  0
+GHELE02_D_ItemExp, Initial Combo Rate +5%,  UI,  0
+GHBOM01_A_ItemExp, Attack-All Resistance +10%,  UI,  0
+GHBOM01_B_ItemExp, Attack-All Resistance +10%,  UI,  0
+GHBOM01_C_ItemExp, Attack-All Resistance +10%,  UI,  0
+GHBOM01_D_ItemExp, Attack-All Resistance +10%,  UI,  0
+GHBOM01_2_A_ItemExp, Attack-All Resistance +20%,  UI,  0
+GHBOM02_A_ItemExp, Guaranteed Hit,  UI,  0
+GHBOM02_B_ItemExp, Guaranteed Hit,  UI,  0
+GHBOM02_C_ItemExp, Guaranteed Hit,  UI,  0
+GHBOM02_D_ItemExp, Guaranteed Hit,  UI,  0
+GHCHE01_A_ItemExp, <emoji Ice>Cold Resistance +15%,  UI,  0
+GHCHE01_B_ItemExp, <emoji Ice>Cold Resistance +15%,  UI,  0
+GHCHE01_C_ItemExp, <emoji Ice>Cold Resistance +15%,  UI,  0
+GHCHE01_D_ItemExp, <emoji Ice>Cold Resistance +15%,  UI,  0
+GHCHE01_2_A_ItemExp, <emoji Ice>Cold Resistance +30%,  UI,  0
+GHCHE02_A_ItemExp, Finisher Combo Rate +10%,  UI,  0
+GHCHE02_B_ItemExp, Finisher Combo Rate +10%,  UI,  0
+GHCHE02_C_ItemExp, Finisher Combo Rate +10%,  UI,  0
+GHCHE02_D_ItemExp, Finisher Combo Rate +10%,  UI,  0
+BLADGEAR_SWORD00_ItemExp, Can be made into sanguine gear via enhancement,  UI,  0
+BLADGEAR_SWORD01_ItemExp, None,  UI,  0
+BLADGEAR_GUN00_ItemExp, Can be made into sanguine gear via enhancement,  UI,  0
+BLADGEAR_GUN01_ItemExp, None,  UI,  0
+WLLSW_DW_ItemExp, Guaranteed Hit,  UI,  0
+GLONE_DW_ItemExp, Guaranteed Hit,  UI,  0
+WLLSW01_MW_ItemExp, None,  UI,  0
+WHGSW01_MW_ItemExp, Spell BP Cost -1,  UI,  0
+GLONE01_MW_ItemExp, None,  UI,  0
+GHMAC01_MW_ItemExp, Spell BP Cost -1,  UI,  0
+MACL04_A_ItemExp, None,  UI,  0
+MANA01_A_ItemExp, None,  UI,  0
+MANA03_A_ItemExp, None,  UI,  0
+MANA04_A_ItemExp, None,  UI,  0
+MANA05_B_ItemExp, None,  UI,  0
+MANA05_C_ItemExp, None,  UI,  0
+MANA09_A_ItemExp, None,  UI,  0
+MANA09_B_ItemExp, None,  UI,  0
+MANA10_A_ItemExp, None,  UI,  0
+MANA10_B_ItemExp, None,  UI,  0
+MANA_BONE01_ItemExp, None,  UI,  0
+MANA_BONE02_ItemExp, None,  UI,  0
+MANA_BONE03_ItemExp, None,  UI,  0
+MANA_BONE04_ItemExp, None,  UI,  0
+MANA_BEAST01_ItemExp, None,  UI,  0
+MANA_BEAST02_ItemExp, None,  UI,  0
+MANA_BEAST03_ItemExp, None,  UI,  0
+MANA_BEAST04_ItemExp, None,  UI,  0
+MANA_SNAKE01_ItemExp, None,  UI,  0
+MANA_SNAKE02_ItemExp, None,  UI,  0
+MANA_SNAKE03_ItemExp, None,  UI,  0
+MANA_SNAKE04_ItemExp, None,  UI,  0
+MANA16_A_ItemExp, None,  UI,  0
+MAFA01_A_ItemExp, None,  UI,  0
+MAFA02_A_ItemExp, None,  UI,  0
+MAFA03_A_ItemExp, None,  UI,  0
+MAFA04_A_ItemExp, None,  UI,  0
+MAFA05_A_ItemExp, None,  UI,  0
+MAFA06_A_ItemExp, None,  UI,  0
+MAFA07_A_ItemExp, Action Order Up (S),  UI,  0
+MAFA08_A_ItemExp, Action Order Up (S),  UI,  0
+MAFA09_A_ItemExp, Action Order Up (S),  UI,  0
+MARO00_A_ItemExp, None,  UI,  0
+MARO00_B_ItemExp, None,  UI,  0
+MARO01_A_ItemExp, None,  UI,  0
+MARO02_A_ItemExp, None,  UI,  0
+MARO03_A_ItemExp, None,  UI,  0
+MARO04_A_ItemExp, None,  UI,  0
+MARO05_A_ItemExp, None,  UI,  0
+MARO05_B_ItemExp, None,  UI,  0
+MARO06_A_ItemExp, None,  UI,  0
+MARO06_B_ItemExp, None,  UI,  0
+MARO07_A_ItemExp, None,  UI,  0
+MARO07_B_ItemExp, None,  UI,  0
+MARO08_A_ItemExp, None,  UI,  0
+MARO08_B_ItemExp, None,  UI,  0
+MARO09_A_ItemExp, None,  UI,  0
+MARO10_A_ItemExp, None,  UI,  0
+MARO11_A_ItemExp, None,  UI,  0
+MARO11_B_ItemExp, None,  UI,  0
+MARO11_C_ItemExp, None,  UI,  0
+MARO_ALL01_ItemExp, Attack-All Resistance +10%,  UI,  0
+MARO_ALL02_ItemExp, Attack-All Resistance +15%,  UI,  0
+MARO_ALL03_ItemExp, Attack-All Resistance +20%,  UI,  0
+MARO12_A_ItemExp, Spell Resistance +10%,  UI,  0
+MARO12_B_ItemExp, Spell Resistance +10%,  UI,  0
+MARO12_C_ItemExp, Spell Resistance +15%,  UI,  0
+MARO12_D_ItemExp, Spell Resistance +20%,  UI,  0
+MARO13_A_ItemExp, Less Likely to Be Targeted (M),  UI,  0
+MARO14_A_ItemExp, Less Likely to Be Targeted (L),  UI,  0
+MARO15_A_ItemExp, Less Likely to Be Targeted (XL),  UI,  0
+SAIN08_A_ItemExp, None,  UI,  0
+SAIN09_A_ItemExp, None,  UI,  0
+SAIN09_B_ItemExp, None,  UI,  0
+SAIN13_A_ItemExp, Attack-All Resistance +10%,  UI,  0
+SAIN13_B_ItemExp, Attack-All Resistance +10%,  UI,  0
+SAIN14_A_ItemExp, Spell Resistance +10%,  UI,  0
+SAIN14_B_ItemExp, Spell Resistance +10%,  UI,  0
+SAHE01_A_ItemExp, None,  UI,  0
+SAHE02_A_ItemExp, None,  UI,  0
+SAHE03_A_ItemExp, None,  UI,  0
+SAHE04_A_ItemExp, None,  UI,  0
+SAHE05_A_ItemExp, None,  UI,  0
+SAHE05_B_ItemExp, None,  UI,  0
+SAHE06_A_ItemExp, None,  UI,  0
+SAHE07_A_ItemExp, None,  UI,  0
+SAHE07_B_ItemExp, None,  UI,  0
+SAHE08_A_ItemExp, None,  UI,  0
+SAHE09_A_ItemExp, None,  UI,  0
+SAHE10_A_ItemExp, None,  UI,  0
+SAHE10_B_ItemExp, None,  UI,  0
+SAHE11_A_ItemExp, None,  UI,  0
+SAHE12_A_ItemExp, More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S),  UI,  0
+SAHE13_A_ItemExp, More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S),  UI,  0
+SAHE14_A_ItemExp, More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S),  UI,  0
+SAHE15_A_ItemExp, More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S),  UI,  0
+SAHE15_B_ItemExp, More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S),  UI,  0
+SAHE16_A_ItemExp, More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S),  UI,  0
+SAHE17_A_ItemExp, None,  UI,  0
+SAHE18_A_ItemExp, None,  UI,  0
+SAHE18_B_ItemExp, None,  UI,  0
+SAHE18_C_ItemExp, None,  UI,  0
+SAHE18_D_ItemExp, None,  UI,  0
+SAHE18_E_ItemExp, None,  UI,  0
+SAHE18_F_ItemExp, None,  UI,  0
+SAHE18_G_ItemExp, None,  UI,  0
+SAHE18_H_ItemExp, None,  UI,  0
+SAHE19_A_ItemExp, None,  UI,  0
+SAHE20_A_ItemExp, None,  UI,  0
+SAHE21_A_ItemExp, None,  UI,  0
+SAHE22_A_ItemExp, None,  UI,  0
+SAHE23_A_ItemExp, None,  UI,  0
+SAHE24_A_ItemExp, None,  UI,  0
+SAHE25_A_ItemExp, None,  UI,  0
+SAHE26_A_ItemExp, None,  UI,  0
+SAGL03_A_ItemExp, None,  UI,  0
+SAGL04_A_ItemExp, More Likely to Be Targeted by <emoji Slash>Slash Attacks (S),  UI,  0
+SAGL05_A_ItemExp, More Likely to Be Targeted by <emoji Slash>Slash Attacks (S),  UI,  0
+SAGL06_A_ItemExp, More Likely to Be Targeted by <emoji Slash>Slash Attacks (S),  UI,  0
+SAGL06_B_ItemExp, More Likely to Be Targeted by <emoji Slash>Slash Attacks (S),  UI,  0
+SAGL07_A_ItemExp, None,  UI,  0
+SAGL07_B_ItemExp, None,  UI,  0
+SAGL08_A_ItemExp, None,  UI,  0
+SAGL09_A_ItemExp, More Likely to Be Targeted by <emoji Slash>Slash Attacks (S),  UI,  0
+SAGL10_A_ItemExp, More Likely to Be Targeted by <emoji Slash>Slash Attacks (S),  UI,  0
+SAGL11_A_ItemExp, None,  UI,  0
+SAGL12_A_ItemExp, None,  UI,  0
+SAGL13_A_ItemExp, None,  UI,  0
+SAGL13_B_ItemExp, None,  UI,  0
+SAGL14_A_ItemExp, Accuracy +20%,  UI,  0
+SAGL15_A_ItemExp, Accuracy +30%,  UI,  0
+SAGL16_A_ItemExp, Accuracy +50%,  UI,  0
+SAGL17_A_ItemExp, None,  UI,  0
+SAGL18_A_ItemExp, Inverts Combo Range,  UI,  0
+SAGL18_B_ItemExp, Inverts Combo Range,  UI,  0
+SAGL19_A_ItemExp, None,  UI,  0
+SAGL20_A_ItemExp, None,  UI,  0
+SAGL20_B_ItemExp, None,  UI,  0
+SAGL21_A_ItemExp, More Likely to Be Targeted While Chanting,  UI,  0
+SAGL21_B_ItemExp, More Likely to Be Targeted While Chanting,  UI,  0
+SASH03_A_ItemExp, More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S),  UI,  0
+SASH04_A_ItemExp, More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S),  UI,  0
+SASH04_B_ItemExp, More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S),  UI,  0
+SASH05_A_ItemExp, More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S),  UI,  0
+SASH05_B_ItemExp, More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S),  UI,  0
+SASH06_A_ItemExp, More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S),  UI,  0
+SASH07_A_ItemExp, None,  UI,  0
+SASH08_A_ItemExp, None,  UI,  0
+SASH09_A_ItemExp, None,  UI,  0
+SASH09_B_ItemExp, None,  UI,  0
+SASH09_C_ItemExp, None,  UI,  0
+SASH10_A_ItemExp, None,  UI,  0
+SASH10_B_ItemExp, None,  UI,  0
+SASH11_A_ItemExp, None,  UI,  0
+SASH12_A_ItemExp, None,  UI,  0
+SASH12_B_ItemExp, None,  UI,  0
+SASH13_A_ItemExp, None,  UI,  0
+SASH14_A_ItemExp, None,  UI,  0
+SASH15_A_ItemExp, None,  UI,  0
+SASH17_A_ItemExp, Interrupt Evade Chance +50%,  UI,  0
+SASH17_A2_ItemExp, Interrupt Evade Chance +50%,  UI,  0
+SASH17_B_ItemExp, Counterattack Damage Resistance +50%,  UI,  0
+SASH17_B2_ItemExp, Counterattack Damage Resistance +50%,  UI,  0
+SAAC00_A_ItemExp, None,  UI,  0
+SAAC01_A_ItemExp, None,  UI,  0
+SAAC02_A_ItemExp, None,  UI,  0
+SAAC03_A_ItemExp, None,  UI,  0
+SAAC04_A_ItemExp, None,  UI,  0
+SAAC05_A_ItemExp, None,  UI,  0
+SAAC06_A_ItemExp, None,  UI,  0
+SAAC07_A_ItemExp, None,  UI,  0
+SAAC08_A_ItemExp, None,  UI,  0
+SAAC09_A_ItemExp, None,  UI,  0
+SAAC10_A_ItemExp, None,  UI,  0
+SAAC11_A_ItemExp, None,  UI,  0
+SAAC12_A_ItemExp, None,  UI,  0
+SAAC13_A_ItemExp, None,  UI,  0
+SAAC14_A_ItemExp, None,  UI,  0
+SAAC14_B_ItemExp, None,  UI,  0
+SAAC15_A_ItemExp, None,  UI,  0
+SAAC15_B_ItemExp, None,  UI,  0
+SAAC16_A_ItemExp, None,  UI,  0
+SAAC16_B_ItemExp, None,  UI,  0
+SAAC17_A_ItemExp, None,  UI,  0
+SAAC17_B_ItemExp, None,  UI,  0
+SAAC18_A_ItemExp, None,  UI,  0
+SAAC18_B_ItemExp, None,  UI,  0
+SAAC19_A_ItemExp, None,  UI,  0
+SAAC19_B_ItemExp, None,  UI,  0
+SAAC20_A_ItemExp, None,  UI,  0
+SAAC20_B_ItemExp, None,  UI,  0
+SAAC21_A_ItemExp, None,  UI,  0
+SAAC21_B_ItemExp, None,  UI,  0
+SAAC22_A_ItemExp, None,  UI,  0
+SAAC22_B_ItemExp, None,  UI,  0
+SAAC23_A_ItemExp, None,  UI,  0
+SAAC23_B_ItemExp, None,  UI,  0
+SAAC24_A_ItemExp, More Likely to Be Targeted by <emoji Slash>Slash Attacks (L),  UI,  0
+SAAC25_A_ItemExp, More Likely to Be Targeted by <emoji Strike>Blunt Attacks (L),  UI,  0
+SAAC26_A_ItemExp, More Likely to Be Targeted by <emoji Stab>Pierce Attacks (L),  UI,  0
+SAAC27_A_ItemExp, More Likely to Be Targeted by <emoji Fire>Heat Attacks (L),  UI,  0
+SAAC28_A_ItemExp, More Likely to Be Targeted by <emoji Ice>Cold Attacks (L),  UI,  0
+SAAC29_A_ItemExp, More Likely to Be Targeted by <emoji Lightning>Shock Attacks (L),  UI,  0
+SAAC30_A_ItemExp, None,  UI,  0
+SAAC31_A_ItemExp, None,  UI,  0
+SAAC32_A_ItemExp, None,  UI,  0
+SAAC33_A_ItemExp, None,  UI,  0
+SAAC34_A_ItemExp, None,  UI,  0
+SAAC35_A_ItemExp, None,  UI,  0
+SAAC35_B_ItemExp, None,  UI,  0
+SAAC36_A_ItemExp, None,  UI,  0
+SAAC37_A_ItemExp, None,  UI,  0
+SAAC37_B_ItemExp, None,  UI,  0
+SAAC_RING_FOOL_ItemName, Fool's Ring,  UI,  0
+SAAC_RING_FOOL_ItemExp, Combo Range 0,  UI,  0
+SAAC_RING_ATK_ItemExp, Attack Power +10%,  UI,  0
+SAAC_RING_DEF_ItemExp, Defense +10%,  UI,  0
+SAAC_RING_AGL_ItemExp, Speed +10%,  UI,  0
+SAAC_RING_MAG_ItemExp, Spell Power +10%,  UI,  0
+SAAC_WATCH_1_ItemExp, BP Cost -1 From Turn 6 Onward,  UI,  0
+SAAC_WATCH_2_ItemExp, BP Cost -1 From Turn 5 Onward,  UI,  0
+SAAC_WATCH_3_ItemExp, BP Cost -1 From Turn 4 Onward,  UI,  0
+SAAC_WATCH_4_ItemExp, Combo Rate +4%,  UI,  0
+SAAC_TICKET_0_ItemExp, None,  UI,  0
+SAAC_TICKET_1_ItemExp, Spell & Chanting Action Order +3,  UI,  0
+SAAC_TICKET_2_ItemExp, Spell & Chanting Action Order -3,  UI,  0
+SAAC_TICKET_3_ItemExp, Spell & Chanting Action Order -6,  UI,  0
+SAAC_TICKET_4_ItemExp, Spell & Chanting Action Order +6,  UI,  0
+SAAC_TICKET_5_ItemExp, Raises Overdrive Activation Rate,  UI,  0
+SAAC_GIVEAWAY_1_ItemExp, None,  UI,  0
+SAAC_GIVEAWAY_2_ItemExp, None,  UI,  0
+SAAC_GIVEAWAY_3_ItemExp, Spell Resistance +3%,  UI,  0
+SAAC_GIVEAWAY_4_ItemExp, None,  UI,  0
+SAAC_GIVEAWAY_5_ItemExp, None,  UI,  0
+SAAC_GIVEAWAY_6_ItemExp, None,  UI,  0
+SAAC_GIVEAWAY_7_ItemExp, None,  UI,  0
+SAAC_GIVEAWAY_8_ItemExp, None,  UI,  0
+SAAC_ABILITY_UP_1_ItemExp, Raises Attribute Growth Rate (S),  UI,  0
+SAAC_ABILITY_UP_2_ItemExp, Raises Attribute Growth Rate (M),  UI,  0
+SAAC_ABILITY_UP_3_ItemExp, Raises Attribute Growth Rate (L),  UI,  0
+SAAC_MASTR_CROWN_1_ItemExp, Raises Tech Rank Growth Rate,  UI,  0
+BLADGEAR_MANA00_ItemExp, Can be made into sanguine gear via enhancement,  UI,  0
+BLADGEAR_MANA01_ItemExp, None,  UI,  0
+BLADGEAR_SAGL00_ItemExp, Can be made into sanguine gear via enhancement,  UI,  0
+BLADGEAR_SAGL01_ItemExp, None,  UI,  0
+BLADGEAR_SAHE00_ItemExp, Can be made into sanguine gear via enhancement,  UI,  0
+BLADGEAR_SAHE01_ItemExp, None,  UI,  0
+BLADGEAR_SASH00_ItemExp, Can be made into sanguine gear via enhancement,  UI,  0
+BLADGEAR_SASH01_ItemExp, None,  UI,  0
+SAAC01_DS_ItemExp, None,  UI,  0
+SAAC02_DS_ItemExp, None,  UI,  0
+SAAC03_DS_ItemExp, None,  UI,  0
+SAAC04_DS_ItemExp, None,  UI,  0
+SAAC05_DS_ItemExp, None,  UI,  0
+SAAC06_DS_ItemExp, None,  UI,  0
+SAAC07_DS_ItemExp, None,  UI,  0
+SAAC08_DS_ItemExp, None,  UI,  0
+SAAC09_DS_ItemExp, None,  UI,  0
+SAAC10_DS_ItemExp, None,  UI,  0
+SAAC11_DS_ItemExp, None,  UI,  0
+SAAC12_DS_ItemExp, None,  UI,  0
+SAAC13_DS_ItemExp, None,  UI,  0
+SAAC14_DS_ItemExp, None,  UI,  0
+SAAC15_DS_ItemExp, None,  UI,  0
+SAAC01_MS_ItemExp, Spell Resistance +3%,  UI,  0
+SAAC02_MS_ItemExp, Spell & Chanting Action Order -9,  UI,  0
+SAAC03_MS_ItemExp, None,  UI,  0
+SAAC04_MS_ItemExp, None,  UI,  0
+SAAC05_MS_ItemExp, Less Likely to Be Targeted While Chanting,  UI,  0
+SAAC06_MS_ItemExp, Spell & Chanting Action Order +9,  UI,  0
+SAAC08_MS_ItemExp, None,  UI,  0
+ITEM_001_ItemName, Dayblade +2,  UI,  0
+ITEM_001_ItemExp, Guaranteed Hit,  UI,  0
+ITEM_002_ItemName, Moonlite +2,  UI,  0
+ITEM_002_ItemExp, Target's Block Chance -40%,  UI,  0
+ITEM_003_ItemName, True Lefikar,  UI,  0
+ITEM_003_ItemExp, None,  UI,  0
+ITEM_004_ItemName, True Normam,  UI,  0
+ITEM_004_ItemExp, None,  UI,  0
+ITEM_005_ItemName, True Shed Musua,  UI,  0
+ITEM_005_ItemExp, None,  UI,  0
+ITEM_006_ItemName, True Logferv,  UI,  0
+ITEM_006_ItemExp, None,  UI,  0
+ITEM_007_ItemName, True Natas,  UI,  0
+ITEM_007_ItemExp, None,  UI,  0
+ITEM_008_ItemName, True Balzerive,  UI,  0
+ITEM_008_ItemExp, None,  UI,  0
+ITEM_009_ItemName, Bronze Mirror,  UI,  0
+ITEM_009_ItemExp, Expand Combo Range,  UI,  0
+ITEM_010_ItemName, Djinn's Wing,  UI,  0
+ITEM_010_ItemExp, None,  UI,  0
+ITEM_011_ItemName, Djinn's Red Urn,  UI,  0
+ITEM_011_ItemExp, None,  UI,  0
+ITEM_012_ItemName, Djinn's Blue Urn,  UI,  0
+ITEM_012_ItemExp, None,  UI,  0
+ITEM_013_ItemName, Djinn's Yellow Urn,  UI,  0
+ITEM_013_ItemExp, None,  UI,  0
+ITEM_014_ItemName, Djinn's Belt,  UI,  0
+ITEM_014_ItemExp, Raises Attribute Growth Rate (M),  UI,  0
+ITEM_015_ItemName, Sealed Deity's Insignia,  UI,  0
+ITEM_015_ItemExp, None,  UI,  0
