@@ -1,8 +1,16 @@
 # SaGaEmeraldBeyondCSV
 CSV data from the game SaGa Emerald Beyond
 
-# WIP
+# What is it?
+The data is split into 2 major categories: PlanDataTable and TextTableData.
 
-This data dump is an ongoing work in progress. There are 94 Data Tables which inherit from the Base Class of `Il2CppSQEX.Catherdral.GameSystem.PlanDataManager.PlanDataTableBase`. About 1/3rd to 1/4th of those are just Asset maps (e.g. point to scriptable objects which contain art/audio assets).
+PlanDataTables are the raw information the game uses on the back end. Each DataTable has its own data structure.
 
-Current Progress: 11/94
+TextTableData are a uniform data structure and is used to populate the UI text fields.
+
+Many of the PlanDataTables are not human readable -- they contain only numerical data and keys to match with TextTableData. 
+
+# Recommended Use
+To transform this raw data into useful information you will need to merge multiple PlanDataTables together, cull many default/null values, and replace maybe keys with their human readable TextTableData. 
+
+Use Python + numpy + pandas or your favourite tool chain.
