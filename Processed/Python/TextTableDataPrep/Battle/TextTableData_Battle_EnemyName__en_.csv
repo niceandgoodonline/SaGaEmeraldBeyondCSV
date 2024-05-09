@@ -1,0 +1,473 @@
+label,text,speaker
+Btl_E_M0000_A_EnemyName,Rockeater,UI
+Btl_E_M0001_A_EnemyName,Mad Phage,UI
+Btl_E_M0002_A_EnemyName,Forest Hermit,UI
+Btl_E_M0003_A_EnemyName,Lightning Glutton,UI
+Btl_E_M0010_A_EnemyName,Werewolf,UI
+Btl_E_M0011_A_EnemyName,Hati,UI
+Btl_E_M0012_A_EnemyName,Skoll,UI
+Btl_E_M0020_A_EnemyName,War Hog,UI
+Btl_E_M0021_A_EnemyName,Boar Infantry,UI
+Btl_E_M0022_A_EnemyName,Porcine Charger,UI
+Btl_E_M0100_A_EnemyName,Sephira,UI
+Btl_E_M0101_A_EnemyName,Ishtar,UI
+Btl_E_M0102_A_EnemyName,Valkyrie,UI
+Btl_E_M0110_A_EnemyName,Earth Dragon,UI
+Btl_E_M0111_A_EnemyName,Red Dragon,UI
+Btl_E_M0112_A_EnemyName,Blue Dragon,UI
+Btl_E_M0113_A_EnemyName,Dark Forest,UI
+Btl_E_M0114_A_EnemyName,Gold Dragon,UI
+Btl_E_M0120_A_EnemyName,Puca,UI
+Btl_E_M0121_A_EnemyName,Rascal,UI
+Btl_E_M0123_A_EnemyName,Prankster,UI
+Btl_E_M0210_A_EnemyName,Jumbo Moch,UI
+Btl_E_M0211_A_EnemyName,Young Moch,UI
+Btl_E_M0212_A_EnemyName,Elder Moch,UI
+Btl_E_M0220_A_EnemyName,Sunflower,UI
+Btl_E_M0221_A_EnemyName,Amaranth,UI
+Btl_E_M0222_A_EnemyName,Asphodelus,UI
+Btl_E_M0230_A_EnemyName,Alraune,UI
+Btl_E_M0231_A_EnemyName,Galgenmannlein,UI
+Btl_E_M0232_A_EnemyName,Passionroot,UI
+Btl_E_M0300_A_EnemyName,Viper,UI
+Btl_E_M0301_A_EnemyName,Basilisk,UI
+Btl_E_M0302_A_EnemyName,Rattler,UI
+Btl_E_M0310_A_EnemyName,Barghest,UI
+Btl_E_M0311_A_EnemyName,Padfoot,UI
+Btl_E_M0312_A_EnemyName,Failinis,UI
+Btl_E_M0320_A_EnemyName,Lizard Fortress,UI
+Btl_E_M0321_A_EnemyName,Lizard Tyrant,UI
+Btl_E_M0400_A_EnemyName,Rana Warrior,UI
+Btl_E_M0401_A_EnemyName,Rana Combatant,UI
+Btl_E_M0402_A_EnemyName,Red Rana,UI
+Btl_E_M0403_A_EnemyName,Yedoma,UI
+Btl_E_M0404_A_EnemyName,Rana Conjurer,UI
+Btl_E_M0420_A_EnemyName,Blue Drake,UI
+Btl_E_M0421_A_EnemyName,Petros Drake,UI
+Btl_E_M0422_A_EnemyName,Kelpie,UI
+Btl_E_M0500_A_EnemyName,Golden Baum,UI
+Btl_E_M0501_A_EnemyName,Gelatinous Matter,UI
+Btl_E_M0510_A_EnemyName,Psychic Ogre,UI
+Btl_E_M0511_A_EnemyName,Disintegrator,UI
+Btl_E_M0512_A_EnemyName,Toxin Master,UI
+Btl_E_M0700_A_EnemyName,Rumblebug,UI
+Btl_E_M0701_A_EnemyName,Grass Masher,UI
+Btl_E_M0702_A_EnemyName,Wild Ebony,UI
+Btl_E_M0703_A_EnemyName,Beast Eater,UI
+Btl_E_M0720_A_EnemyName,Lesser Ant,UI
+Btl_E_M0721_A_EnemyName,Greater Ant,UI
+Btl_E_M0800_A_EnemyName,Vulture,UI
+Btl_E_M0801_A_EnemyName,Songbird,UI
+Btl_E_M0802_A_EnemyName,Skydiver,UI
+Btl_E_M0803_A_EnemyName,Skytanker,UI
+Btl_E_M0810_A_EnemyName,Maggot Ball,UI
+Btl_E_M0811_A_EnemyName,Dwarf Star,UI
+Btl_E_M0812_A_EnemyName,Sundancer,UI
+Btl_E_M0820_A_EnemyName,Decobat,UI
+Btl_E_M0821_A_EnemyName,Ashbeak,UI
+Btl_E_M0822_A_EnemyName,Melodic Bat,UI
+Btl_E_M0900_A_EnemyName,Metal Elemental,UI
+Btl_E_M0900_B_EnemyName,Faerie Stone,UI
+Btl_E_M0901_A_EnemyName,Water Elemental,UI
+Btl_E_M0902_A_EnemyName,Fire Elemental,UI
+Btl_E_M0903_A_EnemyName,Nature Elemental,UI
+Btl_E_M0904_A_EnemyName,Earth Elemental,UI
+Btl_E_M1010_A_EnemyName,Lilith,UI
+Btl_E_M1011_A_EnemyName,Succubus,UI
+Btl_E_M1012_A_EnemyName,Harpyia,UI
+Btl_E_M1020_A_EnemyName,Skeleton,UI
+Btl_E_M1021_A_EnemyName,Skeleton Dancer,UI
+Btl_E_M1022_A_EnemyName,Vanitas,UI
+Btl_E_M1500_A_EnemyName,Stone,UI
+Btl_E_M1500_V01_A_EnemyName,Ore,UI
+Btl_E_M1500_V01_B_EnemyName,Ore,UI
+Btl_E_M1500_V01_C_EnemyName,Ore,UI
+Btl_E_M1510_A_EnemyName,Wooden Box,UI
+Btl_E_M1520_A_EnemyName,Container,UI
+Btl_E_C01_TUTORIAL_MONSTER_EnemyName,Wandering Moch,UI
+Btl_E_BOSS_ELEMENT_MOKU_E_EnemyName,Lesser Wood Spirit,UI
+Btl_E_BOSS_ELEMENT_MOKU_N_EnemyName,Wood Spirit,UI
+Btl_E_BOSS_ELEMENT_MOKU_H_EnemyName,Greater Wood Spirit,UI
+Btl_E_BOSS_ELEMENT_MOKU_EnemyName,Divine Wood Spirit,UI
+Btl_E_BOSS_ELEMENT_KA_E_EnemyName,Lesser Fire Spirit,UI
+Btl_E_BOSS_ELEMENT_KA_N_EnemyName,Fire Spirit,UI
+Btl_E_BOSS_ELEMENT_KA_H_EnemyName,Greater Fire Spirit,UI
+Btl_E_BOSS_ELEMENT_KA_EnemyName,Divine Fire Spirit,UI
+Btl_E_BOSS_ELEMENT_DO_E_EnemyName,Lesser Earth Spirit,UI
+Btl_E_BOSS_ELEMENT_DO_N_EnemyName,Earth Spirit,UI
+Btl_E_BOSS_ELEMENT_DO_H_EnemyName,Greater Earth Spirit,UI
+Btl_E_BOSS_ELEMENT_DO_EnemyName,Divine Earth Spirit,UI
+Btl_E_BOSS_ELEMENT_KIN_E_EnemyName,Lesser Metal Spirit,UI
+Btl_E_BOSS_ELEMENT_KIN_N_EnemyName,Metal Spirit,UI
+Btl_E_BOSS_ELEMENT_KIN_H_EnemyName,Greater Metal Spirit,UI
+Btl_E_BOSS_ELEMENT_KIN_EnemyName,Divine Metal Spirit,UI
+Btl_E_BOSS_ELEMENT_SUI_E_EnemyName,Lesser Water Spirit,UI
+Btl_E_BOSS_ELEMENT_SUI_N_EnemyName,Water Spirit,UI
+Btl_E_BOSS_ELEMENT_SUI_H_EnemyName,Greater Water Spirit,UI
+Btl_E_BOSS_ELEMENT_SUI_EnemyName,Divine Water Spirit,UI
+Btl_E_W12_M0120_A_EnemyName,Buffoon,UI
+Btl_E_W15_M0002_A_EnemyName,Anti-Rockeater,UI
+Btl_E_W15_M0011_A_EnemyName,Anti-Wolf,UI
+Btl_E_W15_M0021_A_EnemyName,Anti-Boa,UI
+Btl_E_W15_M0221_A_EnemyName,Anti-Flower,UI
+Btl_E_W15_M0303_A_EnemyName,Anti-Viper,UI
+Btl_E_W15_M0421_A_EnemyName,Anti-Drake,UI
+Btl_E_W15_M0811_A_EnemyName,Anti-Ball,UI
+Btl_E_W15_M0720_A_EnemyName,Anti-Ant,UI
+Btl_E_W15_M1020_A_EnemyName,Anti-Skeleton,UI
+Btl_E_W15_EVAR_ALESSAAGHOST_02_A_EnemyName,Anti-Moch,UI
+Btl_E_W15_EVAR_ALESSAAGHOST_03_A_EnemyName,Anti-Whale,UI
+Btl_E_W18_M0312_A_EnemyName,Space Barghest,UI
+Btl_E_W18_M0403_A_EnemyName,Extraterrestrial Rana,UI
+Btl_E_W18_M0511_A_EnemyName,Space Researcher,UI
+Btl_E_W18_M0231_A_EnemyName,Space Screamer,UI
+Btl_E_W18_M0721_A_EnemyName,Space Ant,UI
+Btl_E_W18_M0302_A_EnemyName,Space Slug,UI
+Btl_E_W18_M0010_A_EnemyName,Space Wolf,UI
+Btl_E_W18_M0420_A_EnemyName,Space Drake,UI
+Btl_E_W18_M0900_A_EnemyName,Space Elemental,UI
+Btl_E_W18_M9011_A_EnemyName,Space Guard,UI
+Btl_E_W18_M9021_A_EnemyName,Space Insector,UI
+Btl_E_W18_M9031_A_EnemyName,Space Drone,UI
+Btl_E_W18_M9041_A_EnemyName,Space Tank,UI
+Btl_E_W18_BOSS_PRESIDENTMECHA_A_EnemyName,Space Jaeger,UI
+Btl_E_W18_BOSS_PRESIDENTMON_A_EnemyName,Cosmic Devil,UI
+Btl_E_M0403_B_EnemyName,Rana Conjurer,UI
+Btl_E_M0410_A_EnemyName,Kraken,UI
+Btl_E_M0411_A_EnemyName,Verdigris,UI
+Btl_E_M0412_A_EnemyName,Scowl Squid,UI
+Btl_E_M0413_A_EnemyName,Gargantua,UI
+Btl_E_M0520_A_EnemyName,Haniwa,UI
+Btl_E_M0522_A_EnemyName,Hani Stone,UI
+Btl_E_M0710_A_EnemyName,Atlach-Nacha,UI
+Btl_E_M0711_A_EnemyName,Sanguine Arachnida,UI
+Btl_E_M0712_A_EnemyName,Lord Arachnida,UI
+Btl_E_M0722_A_EnemyName,Kaiser Ant,UI
+Btl_E_M1000_A_EnemyName,Greater Devil,UI
+Btl_E_M1001_A_EnemyName,Ifrit,UI
+Btl_E_M1002_A_EnemyName,Calcabrina,UI
+Btl_E_M1003_A_EnemyName,Malacoda,UI
+Btl_E_M2000_A_EnemyName,Kaffaljidhma,UI
+Btl_E_M2001_A_EnemyName,Mira,UI
+Btl_E_M2002_A_EnemyName,Menkar,UI
+Btl_E_M2003_A_EnemyName,Cetus,UI
+Btl_E_M2004_A_EnemyName,Diphda,UI
+Btl_E_M2100_A_EnemyName,Boreas,UI
+Btl_E_M2101_A_EnemyName,Notus,UI
+Btl_E_M2102_A_EnemyName,Eurus,UI
+Btl_E_M2103_A_EnemyName,Zephyrus,UI
+Btl_E_M2200_A_EnemyName,Vair,UI
+Btl_E_M2201_A_EnemyName,Vairy,UI
+Btl_E_M2202_A_EnemyName,Effarouche,UI
+Btl_E_M2203_A_EnemyName,Orgules,UI
+Btl_E_M2204_A_EnemyName,Gyronny,UI
+Btl_E_M2300_A_EnemyName,Specter of Iwanaga-hime,UI
+Btl_E_M2300_B_EnemyName,Specter of Konohanasakuya,UI
+Btl_E_M2301_A_EnemyName,Specter of Kagutsuchi,UI
+Btl_E_M2301_B_EnemyName,Specter of Ame-no-Uzume,UI
+Btl_E_M2302_A_EnemyName,Specter of Susanoo,UI
+Btl_E_M2302_B_EnemyName,Specter of Yamata no Orochi,UI
+Btl_E_M2303_A_EnemyName,Specter of the Lion Spirit,UI
+Btl_E_M2303_B_EnemyName,Specter of the Butterfly Spirit,UI
+Btl_E_M2304_A_EnemyName,Specter of Benkei,UI
+Btl_E_M2304_B_EnemyName,Specter of Ushiwakamaru,UI
+Btl_E_M9011_A_EnemyName,War Pod,UI
+Btl_E_M9011_B_EnemyName,Assassin Pod,UI
+Btl_E_M9011_V01_A_EnemyName,Blockard,UI
+Btl_E_M9011_V02_A_EnemyName,Drunkard,UI
+Btl_E_M9021_A_EnemyName,Blue Shanks,UI
+Btl_E_M9021_V01_A_EnemyName,Rose Shanks,UI
+Btl_E_M9021_V02_A_EnemyName,Kleeblatt,UI
+Btl_E_M9021_V02_B_EnemyName,Jammer Shanks,UI
+Btl_E_M9031_A_EnemyName,Scamper,UI
+Btl_E_M9031_V01_A_EnemyName,Sleeper Mech,UI
+Btl_E_M9031_V01_B_EnemyName,Support Mover,UI
+Btl_E_M9031_V02_A_EnemyName,Air Bomber,UI
+Btl_E_M9031_V02_B_EnemyName,Pouting Mech,UI
+Btl_E_M9041_A_EnemyName,Battle Tank,UI
+Btl_E_M9041_V01_A_EnemyName,Gunpanzer,UI
+Btl_E_M9041_V02_A_EnemyName,Boondock,UI
+Btl_E_M9041_V02_B_EnemyName,Heavy Tank,UI
+Btl_E_W01_AMYA_KUGUTU_00_A_EnemyName,Boh,UI
+Btl_E_W02_BLACKSWAN_00_A_EnemyName,Grey Staff,UI
+Btl_E_W02_SQUIREASSASIN_00_A_EnemyName,Red Thane,UI
+Btl_E_W02_SALAMANDER_00_A_EnemyName,Salamander,UI
+Btl_E_W02_BOSS_GREY_A_EnemyName,Grey Witch,UI
+Btl_E_W03_INITIAL_WELL_00_A_EnemyName,Treasure-Obsessed Man,UI
+Btl_E_W03_INITIAL_WELL_00_B_EnemyName,Bloodthirsty Woman,UI
+Btl_E_W03_GLUTTONYBOSS_00_A_EnemyName,Warden of Gluttony,UI
+Btl_E_W03_GLUTTONYBOSS_01_A_EnemyName,Warden of Gluttony,UI
+Btl_E_W03_GLUTTONYBOSS_10_A_EnemyName,Warden of Gluttony,UI
+Btl_E_W03_LUSTBOSS_00_A_EnemyName,Warden of Lust,UI
+Btl_E_W03_LUSTBOSS_01_A_EnemyName,Warden of Lust,UI
+Btl_E_W03_LUSTBOSS_10_A_EnemyName,Warden of Lust,UI
+Btl_E_W03_LUSTGUARD_00_A_EnemyName,Servant of Lust,UI
+Btl_E_W03_SLOTHBOSS_00_A_EnemyName,Warden of Sloth,UI
+Btl_E_W03_SLOTHBOSS_01_A_EnemyName,Warden of Sloth,UI
+Btl_E_W03_SLOTHBOSS_10_A_EnemyName,Warden of Sloth,UI
+Btl_E_W03_SLOTHGUARD_00_A_EnemyName,Servant of Sloth,UI
+Btl_E_W03_SLOTHGUARD_01_A_EnemyName,Sorcerer of Sloth,UI
+Btl_E_W03_RAGEBOSS_00_A_EnemyName,Warden of Wrath,UI
+Btl_E_W03_RAGEBOSS_01_A_EnemyName,Warden of Wrath,UI
+Btl_E_W03_RAGEBOSS_02_A_EnemyName,Warden of Wrath,UI
+Btl_E_W03_RAGEBOSS_03_A_EnemyName,Warden of Wrath,UI
+Btl_E_W03_RAGEBOSS_10_A_EnemyName,Warden of Wrath,UI
+Btl_E_W03_BOSS_DOLORES_A_EnemyName,Dolores,UI
+Btl_E_W03_BOSS_SIUGNAS_A_EnemyName,Dismal King,UI
+Btl_E_W04_PEDRO_00_A_EnemyName,Pedro,UI
+Btl_E_W04_PEDRO_01_A_EnemyName,Pedro,UI
+Btl_E_W04_AZURE_00_A_EnemyName,Azure,UI
+Btl_E_W04_AZURE_00_B_EnemyName,Guardian's Soul,UI
+Btl_E_W04_BOSS_AZURE_A_EnemyName,Azure,UI
+Btl_E_W04_BOSS_AZURE_B_EnemyName,Azure,UI
+Btl_E_W04_BOSS_BALTASAR_A_EnemyName,Baltasar,UI
+Btl_E_W04_BOSS_BALTASAR_B_EnemyName,Baltasar,UI
+Btl_E_W04_BOSS_BALTASAR_C_EnemyName,Baltasar,UI
+Btl_E_W04_BOSS_BALTASAR_D_EnemyName,Baltasar,UI
+Btl_E_W04_BOSS_BALTASAR_E_EnemyName,Baltasar,UI
+Btl_E_W04_SIGULD_00_A_EnemyName,Sigurd,UI
+Btl_E_W04_BOSS_SIGULD_A_EnemyName,Sigurd,UI
+Btl_E_W04_BOSS_SIGULD_B_EnemyName,Sigurd,UI
+Btl_E_W04_BOSS_SIGULD_C_EnemyName,Sigurd,UI
+Btl_E_W04_PIRATEGERD_00_A_EnemyName,Gerd,UI
+Btl_E_W04_PIRATEJORGEN_00_A_EnemyName,Jorgen,UI
+Btl_E_W04_PIRATELEIF_00_A_EnemyName,Leif,UI
+Btl_E_W04_PIRATEDAN_00_A_EnemyName,Dan,UI
+Btl_E_W04_PIRATEVIVI_00_A_EnemyName,Vivi,UI
+Btl_E_W04_PIRATEVIVI_10_A_EnemyName,Vivi,UI
+Btl_E_W04_MASTER_00_A_EnemyName,Mr. S,UI
+Btl_E_W04_SEAGOD_A_EnemyName,Deus Maris,UI
+Btl_E_W04_LIBERATOR_A_EnemyName,Emancipator,UI
+Btl_E_W04_WRLD_INITIAL_00_A_EnemyName,Pirate,UI
+Btl_E_W04_WRLD_INITIAL_00_B_EnemyName,Pirate,UI
+Btl_E_W06_SAFED_A_EnemyName,Safed,UI
+Btl_E_W06_VALKOINEN_A_EnemyName,Valkoinen,UI
+Btl_E_W06_CANCER_A_EnemyName,Canker,UI
+Btl_E_W06_CANCER_B_EnemyName,Canker,UI
+Btl_E_W10_TSUCHINOKO_00_A_EnemyName,Tsuchinoko,UI
+Btl_E_W10_MONOFFID_00_A_EnemyName,Monophid,UI
+Btl_E_W10_SAMPLE56_00_A_EnemyName,Relic Specimen 56,UI
+Btl_E_W10_SAMPLE98_00_A_EnemyName,Relic Specimen 98,UI
+Btl_E_W10_SAMPLE507_00_A_EnemyName,Relic Specimen 507,UI
+Btl_E_W10_SHISHIOH_00_A_EnemyName,Beast King,UI
+Btl_E_W10_SHISHIOH_01_A_EnemyName,Beast King,UI
+Btl_E_W10_SHISHIOH_02_A_EnemyName,Beast King,UI
+Btl_E_W10_NENKIN_00_A_EnemyName,Myxomycete,UI
+Btl_E_W10_NENKIN_00_B_EnemyName,Starving Myxomycete,UI
+Btl_E_W10_NENKIN_01_A_EnemyName,Myxomycete,UI
+Btl_E_W10_NENKIN_01_B_EnemyName,Starving Myxomycete,UI
+Btl_E_W10_MUTANT303_00_A_EnemyName,Mutant #303,UI
+Btl_E_W11_M0302_A_EnemyName,Karimpa,UI
+Btl_E_W11_M0402_A_EnemyName,Terke-Ipe,UI
+Btl_E_W11_M0412_A_EnemyName,Epetpetke,UI
+Btl_E_W11_M0420_A_EnemyName,Umma,UI
+Btl_E_W11_M0700_A_EnemyName,Wenhuraha,UI
+Btl_E_W11_M0711_A_EnemyName,Ipetam,UI
+Btl_E_W12_BOOK_KEEPER_00_A_EnemyName,Guardian of the Tome,UI
+Btl_E_W12_LEMPERORS_00_A_EnemyName,Final Emperor,UI
+Btl_E_W12_LEMPERORS_00_B_EnemyName,Final Emperor,UI
+Btl_E_W12_LEMPERORD_00_A_EnemyName,Final Emperor,UI
+Btl_E_W12_LEMPERORD_00_B_EnemyName,Final Emperor,UI
+Btl_E_W12_LEMPERORD_00_C_EnemyName,Final Emperor,UI
+Btl_E_W12_LEMPERORD_01_A_EnemyName,Final Emperor,UI
+Btl_E_W12_LEMPEROR_00_A_EnemyName,Final Emperor,UI
+Btl_E_W12_LEMPEROR_00_B_EnemyName,Final Emperor,UI
+Btl_E_W12_LEMPEROR_00_C_EnemyName,Final Emperor,UI
+Btl_E_W12_LEMPEROR_00_D_EnemyName,Final Emperor,UI
+Btl_E_W12_BOSS_GOD_00_A_EnemyName,Iron Maiden,UI
+Btl_E_W13_BOSS_FERRY_A_EnemyName,Titanic,UI
+Btl_E_W13_BOSS_WARSHIP_A_EnemyName,Vanguard,UI
+Btl_E_W13_BOSS_AIRSHIP_A_EnemyName,Hindenburg,UI
+Btl_E_W13_BOSS_DIVING_A_EnemyName,Nautilus,UI
+Btl_E_W13_M0003_A_EnemyName,Sand Eater,UI
+Btl_E_W13_M0232_A_EnemyName,Sand Plant,UI
+Btl_E_W13_M0300_A_EnemyName,Sand Snake,UI
+Btl_E_W13_M0312_A_EnemyName,Sand Barghest,UI
+Btl_E_W13_M0401_A_EnemyName,Sand Frog,UI
+Btl_E_W13_M0422_A_EnemyName,Sand Horse,UI
+Btl_E_W13_M0500_A_EnemyName,Sand Slime,UI
+Btl_E_W13_M0520_A_EnemyName,Desert Haniwa,UI
+Btl_E_W13_M0702_A_EnemyName,Sand Bug,UI
+Btl_E_W13_M0801_A_EnemyName,Sand Vulture,UI
+Btl_E_W13_M0810_A_EnemyName,Sand Noggin,UI
+Btl_E_W13_M0822_A_EnemyName,Sand Bat,UI
+Btl_E_W13_M1003_A_EnemyName,Sand Demon,UI
+Btl_E_M0401_B_EnemyName,Megawhale Servant,UI
+Btl_E_M0900_L_EnemyName,Channeler of Metal,UI
+Btl_E_M0900_R_EnemyName,Immortal Metal Stone,UI
+Btl_E_M0900_KOUCHU_EnemyName,Undying Beetle,UI
+Btl_E_M0901_L_EnemyName,Water Channeler,UI
+Btl_E_M0901_R_EnemyName,Immortal Water Stone,UI
+Btl_E_M0901_RINCHU_EnemyName,Undying Aphrodita,UI
+Btl_E_M0902_L_EnemyName,Fire Channeler,UI
+Btl_E_M0902_R_EnemyName,Immortal Fire Stone,UI
+Btl_E_M0902_KEMUSHI_EnemyName,Undying Caterpillar,UI
+Btl_E_M0903_L_EnemyName,Wood Channeler,UI
+Btl_E_M0903_R_EnemyName,Immortal Wood Stone,UI
+Btl_E_M0903_HAMUSHI_EnemyName,Undying Louse,UI
+Btl_E_M0904_L_EnemyName,Earth Channeler,UI
+Btl_E_M0904_R_EnemyName,Immortal Earth Spirit,UI
+Btl_E_M1500_B_EnemyName,Sturdy Ore,UI
+Btl_E_M1520_B_EnemyName,Sturdy Container,UI
+Btl_E_C01_BOSS_TENKAI_A_EnemyName,Man of the Heavens,UI
+Btl_E_C01_BOSS_TENKAI_B_EnemyName,Man of the Heavens,UI
+Btl_E_C01_BOSS_TENKAI_C_EnemyName,Man of the Heavens,UI
+Btl_E_C01_BOSS_TENKAI_D_EnemyName,Man of the Heavens,UI
+Btl_E_C01_BOSS_TENKAI_E_EnemyName,Constantine,UI
+Btl_E_SUM_LBOSS_M070X_A_EnemyName,Revolving Insect,UI
+Btl_E_W01_AMYA_INITIAL_00_A_EnemyName,Man of the Heavens,UI
+Btl_E_W01_AMYA_MYSTERY_00_A_EnemyName,Seahorse,UI
+Btl_E_W01_GHOSTTOWN_00_A_EnemyName,Torrent,UI
+Btl_E_W01_KOMAINU_00_A_EnemyName,Komainu,UI
+Btl_E_W01_YAMAGUMO_00_A_EnemyName,Mountain Spider,UI
+Btl_E_W01_LAKE_00_A_EnemyName,Giant Rana,UI
+Btl_E_W01_MIDO_GOKAKUDO_10_A_EnemyName,Huanglong,UI
+Btl_E_W01_BOSS_KORYU_A_EnemyName,Huanglong,UI
+Btl_E_W01_BOSS_KORYU_B_EnemyName,Huanglong,UI
+Btl_E_W01_SANGENIN_01_A_EnemyName,Man of the Heavens,UI
+Btl_E_W01_SEQUOIA_00_A_EnemyName,Man of the Heavens,UI
+Btl_E_W01_SEQUOIA_10_A_EnemyName,Spendy McBigbucks,UI
+Btl_E_W02_BOSS_GREY_B_EnemyName,Grey Witch,UI
+Btl_E_W02_BOSS_GREY_C_EnemyName,Grey Witch,UI
+Btl_E_W02_BOSS_GREY_D_EnemyName,Grey Witch,UI
+Btl_E_W02_BOSS_MACHA_A_EnemyName,Macha,UI
+Btl_E_W02_BOSS_MACHA_B_EnemyName,Macha,UI
+Btl_E_W02_CELESTIAL_WING_GUARDIAN_EnemyName,Witch's Guardian,UI
+Btl_E_W02_CRYSTAL_MONSTER_EnemyName,Crystal Fiend,UI
+Btl_E_W03_HUNTER_00_A_EnemyName,Hunter,UI
+Btl_E_W03_HUNTER_01_A_EnemyName,Hunter,UI
+Btl_E_W03_HUNTER_02_A_EnemyName,Hunter,UI
+Btl_E_W03_RAGEBOSS_10_B_EnemyName,Warden of Wrath,UI
+Btl_E_W03_RAGEBOSS_10_C_EnemyName,Warden of Wrath,UI
+Btl_E_W03_BOSS_KING_A_EnemyName,Dismal King,UI
+Btl_E_W03_BOSS_TENKAI_A_EnemyName,Man of the Heavens,UI
+Btl_E_W04_BATTLESHIP_CAPTAIN_EnemyName,Captain,UI
+Btl_E_W06_EVILCELL_A_EnemyName,Malignancy,UI
+Btl_E_W06_EVILCELL_B_EnemyName,Extreme Malignancy,UI
+Btl_E_W06_PARASITE_A_EnemyName,Parasite,UI
+Btl_E_W06_SUPERPARASITE_A_EnemyName,Extreme Parasite,UI
+Btl_E_W06_SUPERPARASITE_B_EnemyName,Extreme Parasite,UI
+Btl_E_W07_EVAR_MISSION232_00_A_EnemyName,Violet Beast,UI
+Btl_E_W07_EVAR_MISSION401_00_A_EnemyName,Red Giant,UI
+Btl_E_W07_EVAR_MISSION142_00_A_EnemyName,Nahoj of the Gale,UI
+Btl_E_W08_M0722_A_EnemyName,Naml,UI
+Btl_E_W08_M0403_A_EnemyName,Dufda,UI
+Btl_E_W08_HOLEHUMAN_A_EnemyName,Bashar,UI
+Btl_E_W08_FOSSIL_A_EnemyName,Yang Guardian,UI
+Btl_E_W08_FOSSIL_B_EnemyName,Yin Guardian,UI
+Btl_E_W08_SOILMASTER_M0220_A_EnemyName,Lord of the Earth,UI
+Btl_E_W08_SOILMASTER_M0220_B_EnemyName,Lord of the Earth,UI
+Btl_E_W08_SOILMASTER_M0220_C_EnemyName,Lord of the Earth,UI
+Btl_E_W08_SOILMASTER_M9051_A_EnemyName,Lord of the Earth,UI
+Btl_E_W08_SOILMASTER_M9051_B_EnemyName,Lord of the Earth,UI
+Btl_E_W08_SOILMASTER_M9051_C_EnemyName,Lord of the Earth,UI
+Btl_E_W08_SOILMASTER_M2004_A_EnemyName,Lord of the Earth,UI
+Btl_E_W08_SOILMASTER_M2004_B_EnemyName,Lord of the Earth,UI
+Btl_E_W08_SOILMASTER_M2004_C_EnemyName,Lord of the Earth,UI
+Btl_E_W09_PICK_POCKET_00_A_EnemyName,Sylvester,UI
+Btl_E_W09_SQUARE02_00_A_EnemyName,Silver,UI
+Btl_E_W09_SQUARE02_01_A_EnemyName,Boudica,UI
+Btl_E_W09_SQUARE02_02_A_EnemyName,Market Man,UI
+Btl_E_W09_SQUARE02_03_A_EnemyName,Yob,UI
+Btl_E_W09_SQUARE02_03_B_EnemyName,Stooge,UI
+Btl_E_W09_SQUARE02_04_A_EnemyName,Rodrigo,UI
+Btl_E_W09_SQUARE02_WARRIOR_A_EnemyName,Hero,UI
+Btl_E_W10_MANUSCRIPT_MONSTER_00_A_EnemyName,Archive Fiend,UI
+Btl_E_W10_CURSE_KING_00_A_EnemyName,Cursed Monarch,UI
+Btl_E_W10_DRIFTING_LIZARD_00_A_EnemyName,Drifting Lizard,UI
+Btl_E_W10_QWEEN_00_A_EnemyName,Rogue Species 303: Green Queen,UI
+Btl_E_W10_QWEEN_00_B_EnemyName,Rogue Species 303: Yellow Queen,UI
+Btl_E_W10_QWEEN_00_C_EnemyName,Rogue Species 303: Red Queen,UI
+Btl_E_W10_YEMECHA_00_A_EnemyName,Dutiful Robot,UI
+Btl_E_W10_ORICHALCUM_00_A_EnemyName,Orichalcum Skeletal Specimen,UI
+Btl_E_W10_ORICHALCUM_01_A_EnemyName,Orichalcum Skeletal Specimen,UI
+Btl_E_W10_ORICHALCUM_02_A_EnemyName,Orichalcum Skeletal Specimen,UI
+Btl_E_BS_W11_EPUIKE_A_EnemyName,Maiden Nana,UI
+Btl_E_BS_W11_EPUIKE_B_EnemyName,Maiden Nana,UI
+Btl_E_BS_W11_EPUIKE_B2_EnemyName,Maiden Nana,UI
+Btl_E_W14_BOSS_WATCHER_A_EnemyName,Observer,UI
+Btl_E_W14_BOSS_WATCHER_B_EnemyName,Observer,UI
+Btl_E_W14_BLACKSMITH_00_A_EnemyName,Swordsmith,UI
+Btl_E_W14_BLACKSMITH_01_A_EnemyName,Swordsmith,UI
+Btl_E_W14_BLACKSMITH_02_A_EnemyName,Swordsmith,UI
+Btl_E_W14_ASSASSIN_00_A_EnemyName,Assassin,UI
+Btl_E_W15_BOSS_ALESSA_A_EnemyName,Anti-Alessa,UI
+Btl_E_W15_BOSS_FRED_A_EnemyName,Anti-Fred,UI
+Btl_E_W15_BOSS_MECHAFRED_A_EnemyName,Mecha Infatuated Fred,UI
+Btl_E_W15_BOSS_MECHAFRED_B_EnemyName,Mecha Obsessed Fred,UI
+Btl_E_W15_BOSS_CEO_A_EnemyName,Director,UI
+Btl_E_W15_BOSS_CEO_B_EnemyName,Director,UI
+Btl_E_W15_BOSS_CEO_C_EnemyName,Director,UI
+Btl_E_W17_BADGUY_A_EnemyName,Hoodlum,UI
+Btl_E_W17_HENCHMAN_A_EnemyName,Goon,UI
+Btl_E_W17_HENCHMAN_B_EnemyName,Goon,UI
+Btl_E_W17_RABELLEADER_A_EnemyName,Rebel Gordo,UI
+Btl_E_W17_RABELARMY_A_EnemyName,Rebel Soldier,UI
+Btl_E_W17_RABELARMY_B_EnemyName,Rebel Soldier,UI
+Btl_E_W17_LAKERABELER_A_EnemyName,Rebel Shino,UI
+Btl_E_W17_LAKERABELER_B_EnemyName,Rebel Pirate,UI
+Btl_E_W17_LAKERABELER_C_EnemyName,Rebel Birdman,UI
+Btl_E_W18_BOSS_MYSTERY_A_EnemyName,Quisstatium,UI
+Btl_E_W19_M1011_A_EnemyName,Queen Bee,UI
+Btl_E_LASTBOSS_MIDO_A_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_MIDO_B_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_MIDO_C_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_MIDO_D_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_MIDO_E_EnemyName,Diverse Heaven,UI
+Btl_E_LASTBOSS_MIDO_F_EnemyName,One World,UI
+Btl_E_LASTBOSS_AMYA_A_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_AMYA_B_EnemyName,Diverse Heaven,UI
+Btl_E_LASTBOSS_AMYA_C_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_AMYA_D_EnemyName,One World,UI
+Btl_E_LASTBOSS_SIUG_A_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_SIUG_B_EnemyName,Diverse Heaven,UI
+Btl_E_LASTBOSS_SIUG_C_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_SIUG_D_EnemyName,One World,UI
+Btl_E_LASTBOSS_DIVA_A_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_DIVA_B_EnemyName,Diverse Heaven,UI
+Btl_E_LASTBOSS_DIVA_C_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_DIVA_D_EnemyName,One World,UI
+Btl_E_LASTBOSS_BAF_A_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_BAF_B_EnemyName,One World,UI
+Btl_E_LASTBOSS_BAF_C_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_BAF_D_EnemyName,One World,UI
+Btl_E_LASTBOSS_BAF_E_EnemyName,Living Anguish,UI
+Btl_E_LASTBOSS_BAF_F_EnemyName,Diverse Heaven,UI
+Btl_E_M0001_B_EnemyName,Land Hermit,UI
+Btl_E_M0115_A_EnemyName,White Dragon,UI
+Btl_E_M0322_A_EnemyName,Carbonia,UI
+Btl_E_M0423_A_EnemyName,Cockatrice,UI
+Btl_E_M0502_A_EnemyName,Mycotic Predator,UI
+Btl_E_M0521_A_EnemyName,Hill Haniwa,UI
+Btl_E_M0820_B_EnemyName,Soaring Rat,UI
+Btl_E_M0904_B_EnemyName,Float,UI
+Btl_E_M1500_V02_A_EnemyName,Knot Stone,UI
+Btl_E_M1500_V02_B_EnemyName,Knot Stone,UI
+Btl_E_M1510_B_EnemyName,Sturdy Wooden Box,UI
+Btl_E_M1510_EMPTY_EnemyName,Wooden Box,UI
+Btl_E_M9051_A_EnemyName,Paradox,UI
+Btl_E_M9051_V01_A_EnemyName,Antinomy,UI
+Btl_E_M9051_V02_A_EnemyName,Aporia,UI
+Btl_E_W00_SENSEI_00_A_EnemyName,Mr. S,UI
+Btl_E_C01_DOOREVIL_A_EnemyName,Malevolent Door Spirit,UI
+Btl_E_W01_MIDO_KEKKAI_00_A_EnemyName,Malevolent Barrier Spirit,UI
+Btl_E_W01_MIDO_KEKKAI_01_A_EnemyName,Malevolent Barrier Spirit,UI
+Btl_E_W01_MIDO_KEKKAI_02_A_EnemyName,Malevolent Barrier Spirit,UI
+Btl_E_W01_MIDO_KEKKAI_03_A_EnemyName,Malevolent Barrier Spirit,UI
+Btl_E_W02_WHITE_CALAMITY_EnemyName,White Calamity,UI
+Btl_E_W02_BLACK_CALAMITY_EnemyName,Black Calamity,UI
+Btl_E_W02_RED_CALAMITY_EnemyName,Red Calamity,UI
+Btl_E_W02_BLUE_CALAMITY_EnemyName,Blue Calamity,UI
+Btl_E_W02_YELLOW_CALAMITY_EnemyName,Yellow Calamity,UI
+Btl_E_W10_SPRIGGAN_00_A_EnemyName,Spriggan,UI
+Btl_E_M1520_C_EnemyName,Container,UI
+Btl_E_M3000_MKDGS_EnemyName,Beyond One World,UI
+Btl_E_M3000_V01_MKDGS_EnemyName,Beyond Diverse Heaven,UI
+Btl_E_M3000_V01_MKDGS_SGN_EnemyName,Beyond Diverse Heaven,UI
+Btl_E_C01_BOSS_TENKAI_F_EnemyName,Constantine,UI
+Btl_E_SUM_LBOSS_M0420_A_EnemyName,Blue Drake Sorcerer,UI
+Btl_E_SUM_LBOSS_M0512_A_EnemyName,Toxin Master Sorcerer,UI
+Btl_E_SUM_LBOSS_M0812_A_EnemyName,Sundancer Sorcerer,UI
+Btl_E_SUM_LBOSS_M0521_A_EnemyName,Terracotta Warrior,UI
+Btl_E_M1500_C_EnemyName,Extremely Sturdy Ore,UI
+Btl_E_W02_BOSS_GREY_E_EnemyName,Grey Witch,UI

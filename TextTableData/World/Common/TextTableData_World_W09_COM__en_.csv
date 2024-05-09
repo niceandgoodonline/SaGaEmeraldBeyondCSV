@@ -1,0 +1,168 @@
+label, speaker, text
+W09_WRLD_COMM_000_TITLE, UI, Avalon
+W09_WRLD_COMM_000_DETAIL, UI, A large, old-fashioned town shrouded in mist. What could await you here?
+W09_WRLD_COMM_000_BUTTON, UI, Enter Avalon Station
+W09_WRLD_COMM_010_TITLE, UI, A Fateful Meeting
+W09_WRLD_COMM_010_DETAIL, UI, The first Avalon locale you've been led to is this station. Who will you meet here, and what must you do in this world?
+W09_WRLD_COMM_010_BUTTON, UI, Enter Avalon Station
+W09_WRLD_COMM_SCAN_000_TITLE, UI, Premonition
+W09_WRLD_COMM_SCAN_000_DETAIL, UI, You feel destiny's guidance leading you to a place nearby.
+W09_EVAR_COMM_OPENING_110_TITLE, UI, A New Meeting
+W09_EVAR_COMM_OPENING_110_DETAIL, UI, This station is the first Avalon locale you've been led to.
+W09_EVAR_COMM_OPENING_110_BUTTON, UI, Enter Avalon Station
+W09_EVAR_COMM_BASE_MOVE_000_TITLE, UI, Select Destination: Broadening Knowledge
+W09_EVAR_COMM_BASE_MOVE_000_DETAIL, UI, You should make for Avalon Station, gathering valuable items and broadening your horizons along the way. Recommended Location: Canuds Department Store
+W09_EVAR_COMM_BASE_MOVE_000_BUTTON, UI, Select a Destination
+W09_EVAR_COMM_BASE_MOVE_010_TITLE, UI, Select Destination: A New Path
+W09_EVAR_COMM_BASE_MOVE_010_DETAIL, UI, You should travel the city collecting valuable items as you make for Avalon Station. Recommended Location: Nobles' Plaza
+W09_EVAR_COMM_BASE_MOVE_010_BUTTON, UI, Select a Destination
+W09_EVAR_COMM_BASE_MOVE_020_TITLE, UI, Select Destination: Make For the Palace
+W09_EVAR_COMM_BASE_MOVE_020_DETAIL, UI, You should travel the city collecting valuable items as you make for the palace, where you will receive your final evaluation. Recommended Location: The Royal Museum of Albion
+W09_EVAR_COMM_BASE_MOVE_020_BUTTON, UI, Select a Destination
+W09_EVAR_COMM_BASE_MOVE_ROUTE_B_000_TITLE, UI, Select Destination: Your First Tour
+W09_EVAR_COMM_BASE_MOVE_ROUTE_B_000_DETAIL, UI, Your journey around Avalon has begun. You need to make for the police station while gathering valuable items along the way. Recommended Locations: Jack Street/Royal Palace
+W09_EVAR_COMM_BASE_MOVE_ROUTE_B_000_BUTTON, UI, Select a Destination
+W09_EVAR_COMM_BASE_MOVE_ROUTE_B_010_TITLE, UI, Select Destination: A Challenging Tour
+W09_EVAR_COMM_BASE_MOVE_ROUTE_B_010_DETAIL, UI, You can't let this chance pass you by! You should make for Avalon Station. Recommended Locations: Market/Broadcast Tower
+W09_EVAR_COMM_BASE_MOVE_ROUTE_B_010_BUTTON, UI, Select a Destination
+W09_EVAR_COMM_BASE_MOVE_ROUTE_B_020_TITLE, UI, Select Destination: Making for the Palace
+W09_EVAR_COMM_BASE_MOVE_ROUTE_B_020_DETAIL, UI, Collect items of value as you make your way to the palace. Recommended Location: Once you have four triangles, you should go to the hospital.
+W09_EVAR_COMM_BASE_MOVE_ROUTE_B_020_BUTTON, UI, Select a Destination
+W09_EVAR_COMM_BASE_STATION_COURSE_END_000_TITLE, UI, Your First Appraisal
+W09_EVAR_COMM_BASE_STATION_COURSE_END_000_DETAIL, UI, You don't know what will happen once you complete your tour of the area and return to the station. All you can do is have the items you've gathered appraised.
+W09_EVAR_COMM_BASE_STATION_COURSE_END_000_BUTTON, UI, Receive Appraisal
+W09_EVAR_COMM_BASE_STATION_COURSE_END_010_TITLE, UI, New Course's Appraisal
+W09_EVAR_COMM_BASE_STATION_COURSE_END_010_DETAIL, UI, You returned to Avalon Station after following the new course around the city. You wonder how your next appraisal will go.
+W09_EVAR_COMM_BASE_STATION_COURSE_END_010_BUTTON, UI, Receive Appraisal
+W09_EVAR_COMM_ROUTEB_COURSE_END_000_TITLE, UI, Your First Appraisal
+W09_EVAR_COMM_ROUTEB_COURSE_END_000_DETAIL, UI, You don't know what is going to happen once you arrive at the police station. All you can do is have the items you've gathered appraised.
+W09_EVAR_COMM_ROUTEB_COURSE_END_000_BUTTON, UI, Receive Appraisal
+W09_EVAR_COMM_BASE_ROYAL_PALACE_LASTBATTLE_000_TITLE, UI, Final Judgment in the Palace 
+W09_EVAR_COMM_BASE_ROYAL_PALACE_LASTBATTLE_000_DETAIL, UI, The time has come to receive your final evaluation. Will you be allowed to leave this world in one piece?
+W09_EVAR_COMM_BASE_ROYAL_PALACE_LASTBATTLE_000_BUTTON, UI, Receive Appraisal
+W09_EVAR_COMM_ROUTE_B_WORLDQUEST_LASTBATTLE_000_TITLE, UI, Final Evaluation and Who Awaits
+W09_EVAR_COMM_ROUTE_B_WORLDQUEST_LASTBATTLE_000_DETAIL, UI, The time has come to receive your final evaluation. Will you be allowed to leave this world in one piece?
+W09_EVAR_COMM_ROUTE_B_WORLDQUEST_LASTBATTLE_000_BUTTON, UI, Receive Appraisal
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_000_TITLE, UI, Broadcast Tower: Where to Find the Diva
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_000_DETAIL, UI, (Cheap Item) Diva serves as a source of comfort and admiration to the people of Avalon. You can meet her here and obtain a signed photograph. 
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_000_BUTTON, UI, Go to the Broadcast Tower
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_010_TITLE, UI, Broadcast Tower: Love for the Diva
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_010_DETAIL, UI, (Lose Item) Diva is currently signing autographs here. It's your duty as a fan to make her even more famous.
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_010_BUTTON, UI, Support the Diva
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_020_TITLE, UI, Broadcast Tower: Diva's Rising Popularity
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_020_DETAIL, UI, (Valuable Item) Diva has become very popular. This is your chance to obtain a valuable signed photograph.
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_020_BUTTON, UI, Go to the Broadcast Tower
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_030_TITLE, UI, Broadcast Tower: Meeting Diva
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_030_DETAIL, UI, (Special Item) This is your chance to obtain a signed photograph of Diva from her directly. That said, you sense something strange afoot.
+W09_EVAR_COMM_DUMMY_RADIO_TOWER_030_BUTTON, UI, Go to the Broadcast Tower
+W09_EVAR_COMM_DUMMY_MUSEUM_000_TITLE, UI, Royal Museum of Albion: Something Special
+W09_EVAR_COMM_DUMMY_MUSEUM_000_DETAIL, UI, (Special Item/Valuable Item) It's the 200th anniversary of this museum's establishment. You sense something special here.
+W09_EVAR_COMM_DUMMY_MUSEUM_000_BUTTON, UI, Enter the Museum
+W09_EVAR_COMM_DUMMY_MUSEUM_ITEMGET_AFTER_000_TITLE, UI, Royal Museum of Albion: A Commemorative Gift
+W09_EVAR_COMM_DUMMY_MUSEUM_ITEMGET_AFTER_000_DETAIL, UI, (Cheap Item) It's the 200th anniversary of this museum's establishment. You can receive a commemorative gift for visiting.
+W09_EVAR_COMM_DUMMY_MUSEUM_ITEMGET_AFTER_000_BUTTON, UI, Enter the Museum
+W09_EVAR_COMM_DUMMY_POLICE_OFFICE_000_TITLE, UI, Avalon Yard: Interrogation
+W09_EVAR_COMM_DUMMY_POLICE_OFFICE_000_DETAIL, UI, (Lose Item) You're sure to be thoroughly interrogated if you set foot in here—and you'll probably lose something as well.
+W09_EVAR_COMM_DUMMY_POLICE_OFFICE_000_BUTTON, UI, Visit Avalon Yard
+W09_EVAR_COMM_DUMMY_CLOCK_TOWER_000_TITLE, UI, Clock Tower: An Important Transaction
+W09_EVAR_COMM_DUMMY_CLOCK_TOWER_000_DETAIL, UI, (Valuable Item) You can exchange coach and tram tickets here. You may also be able to exchange your life for something valuable.
+W09_EVAR_COMM_DUMMY_CLOCK_TOWER_000_BUTTON, UI, Enter the Clock Tower
+W09_EVAR_COMM_DUMMY_CLOCK_TOWER_010_TITLE, UI, Clock Tower: A Precious Transaction
+W09_EVAR_COMM_DUMMY_CLOCK_TOWER_010_DETAIL, UI, (Valuable Item) You can exchange coach and tram tickets here. You may also be able to exchange your life for something valuable.
+W09_EVAR_COMM_DUMMY_CLOCK_TOWER_010_BUTTON, UI, Enter the Clock Tower
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_000_TITLE, UI, Royal Palace: The Resounding Poetry of Albion
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_000_DETAIL, UI, (Lose Item) Here, you can listen to Albion poetry of events that take place elsewhere in time and space.
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_000_BUTTON, UI, Enter the Palace
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_010_TITLE, UI, Royal Palace: The Resounding Poetry of Albion
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_010_DETAIL, UI, (Valuable Item) If you hear a poem so wonderful it makes you feel like you saw its events in person, something will surely happen.
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_010_BUTTON, UI, Enter the Palace
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_020_TITLE, UI, Royal Palace: Poetry Fills the Palace
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_020_DETAIL, UI, (Special Item) If you hear a poem about Albion, you will likely obtain something strange afterwards.
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_020_BUTTON, UI, Enter the Palace
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_030_TITLE, UI, Royal Palace: Poetry Reading
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_030_DETAIL, UI, (Lose Item) You can hear a poem so wonderful it makes you feel like you saw its events in person—but what will happen afterward?
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_030_BUTTON, UI, Enter the Palace
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_040_TITLE, UI, Royal Palace: The Resounding Poetry of Albion
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_040_DETAIL, UI, Something will surely happen if you hear wonderful poetry.
+W09_EVAR_COMM_DUMMY_ROYAL_PALACE_040_BUTTON, UI, Enter the Palace
+W09_EVAR_COMM_DUMMY_HOSPITAL_000_TITLE, UI, Hospital: A Shady Consultation 
+W09_EVAR_COMM_DUMMY_HOSPITAL_000_DETAIL, UI, (Lose Item) You will lose one item you have obtained so far, but suspect something good will happen in return.
+W09_EVAR_COMM_DUMMY_HOSPITAL_000_BUTTON, UI, Go to the Hospital
+W09_EVAR_COMM_DUMMY_HOSPITAL_010_TITLE, UI, Hospital: Give Blood Generously
+W09_EVAR_COMM_DUMMY_HOSPITAL_010_DETAIL, UI, (Valuable Item) To obtain something valuable, you must give up something you hold dear.
+W09_EVAR_COMM_DUMMY_HOSPITAL_010_BUTTON, UI, Go to the Hospital
+W09_EVAR_COMM_DUMMY_HOSPITAL_020_TITLE, UI, Hospital: A Path for the Dead
+W09_EVAR_COMM_DUMMY_HOSPITAL_020_DETAIL, UI, (Special Item) If you wish to face the truth, you must gather four triangular objects and satiate the life of all your allies.
+W09_EVAR_COMM_DUMMY_HOSPITAL_020_BUTTON, UI, Go to the Hospital
+W09_EVAR_COMM_CEMETERY_010_TITLE, UI, Graveyard: What's Sealed Inside
+W09_EVAR_COMM_CEMETERY_010_DETAIL, UI, (Special Item) You've been strongly drawn here by some strange power. What could be waiting for you?
+W09_EVAR_COMM_CEMETERY_010_BUTTON, UI, Enter the Graveyard
+W09_EVAR_COMM_DUMMY_OPERA_HOUSE_000_TITLE, UI, Theatre: A Song of Beauty Descends
+W09_EVAR_COMM_DUMMY_OPERA_HOUSE_000_DETAIL, UI, (Cheap Item) You can obtain a bronze medal here. If you help the capricious playwright, you might receive a reward.
+W09_EVAR_COMM_DUMMY_OPERA_HOUSE_000_BUTTON, UI, Enter the Theatre
+W09_EVAR_COMM_DUMMY_OPERA_HOUSE_010_TITLE, UI, Theatre: A Moving Poem
+W09_EVAR_COMM_DUMMY_OPERA_HOUSE_010_DETAIL, UI, (Valuable Item/Cheap Item) If you help the playwright, you're likely to receive a reward. That said, an ominous shadow is currently descending on the theatre...
+W09_EVAR_COMM_DUMMY_OPERA_HOUSE_010_BUTTON, UI, Enter the Theatre
+W09_EVAR_COMM_DUMMY_DEPARTMENT_000_TITLE, UI, Canuds Department Store: Special Shopping
+W09_EVAR_COMM_DUMMY_DEPARTMENT_000_DETAIL, UI, (Valuable Item/Cheap Item/Special Item) Those with an eye for beauty are sure to find valuable items here. That said, you also sense special power from a small object.
+W09_EVAR_COMM_DUMMY_DEPARTMENT_000_BUTTON, UI, Enter the Department Store
+W09_EVAR_COMM_DUMMY_DEPARTMENT_ITEMGET_AFTER_000_TITLE, UI, Canuds Department Store: Valuable & Cheap Goods
+W09_EVAR_COMM_DUMMY_DEPARTMENT_ITEMGET_AFTER_000_DETAIL, UI, (Valuable Item/Cheap Item) Those with an eye for beauty are sure to find valuable items here.
+W09_EVAR_COMM_DUMMY_DEPARTMENT_ITEMGET_AFTER_000_BUTTON, UI, Enter the Department Store
+W09_EVAR_COMM_DUMMY_SQUARE_ONE_000_TITLE, UI, Ruined City: The Underground
+W09_EVAR_COMM_DUMMY_SQUARE_ONE_000_DETAIL, UI, (Valuable Item/Cheap Item) The deeper you go here, the more dangerous the foes—and the better the rewards. If you give up before the end, however, you'll end up with very little.
+W09_EVAR_COMM_DUMMY_SQUARE_ONE_000_BUTTON, UI, Go to the Ruined City
+W09_EVAR_COMM_DUMMY_SQUARE_ONE_010_TITLE, UI, Ruined City: Investing in Excavation
+W09_EVAR_COMM_DUMMY_SQUARE_ONE_010_DETAIL, UI, (Valuable Item/Cheap Item) If you play your cards right, you might be able to earn an old crown here. But there's also the possibility your attempts will end in failure.
+W09_EVAR_COMM_DUMMY_SQUARE_ONE_010_BUTTON, UI, Go to the Ruined City
+W09_EVAR_COMM_DUMMY_SQUARE_MARKET_000_TITLE, UI, Market: Punch-Up Club
+W09_EVAR_COMM_DUMMY_SQUARE_MARKET_000_DETAIL, UI, (Valuable Item/Cheap Item) If you win multiple consecutive fights here, you can earn a valuable reward.
+W09_EVAR_COMM_DUMMY_SQUARE_MARKET_000_BUTTON, UI, Battle in Punch-Up Club
+W09_EVAR_COMM_DUMMY_SQUARE_MARKET_010_TITLE, UI, Market: The Pickpocket's Treasure
+W09_EVAR_COMM_DUMMY_SQUARE_MARKET_010_DETAIL, UI, (Special Item) You hear a pickpocket has gotten her hands on something special. If you can catch her, you'll find out for sure.
+W09_EVAR_COMM_DUMMY_SQUARE_MARKET_010_BUTTON, UI, Catch the Pickpocket
+W09_EVAR_COMM_DUMMY_SQUARE_THREE_000_TITLE, UI, Nobles' Plaza: Voices Seeking Help
+W09_EVAR_COMM_DUMMY_SQUARE_THREE_000_DETAIL, UI, (Cheap Item) You can obtain a bronze medal here. A nobleman is being attacked—and if you save him, you're sure to be rewarded.
+W09_EVAR_COMM_DUMMY_SQUARE_THREE_000_BUTTON, UI, Save the Nobleman
+W09_EVAR_COMM_DUMMY_SQUARE_THREE_010_TITLE, UI, Nobles' Plaza: A Noble's Special Item
+W09_EVAR_COMM_DUMMY_SQUARE_THREE_010_DETAIL, UI, (Special Item) A nobleman is being attacked by fiends. You sense something unusual in his possession.
+W09_EVAR_COMM_DUMMY_SQUARE_THREE_010_BUTTON, UI, Speak to the Nobleman
+W09_EVAR_COMM_DUMMY_SQUARE_THREE_020_TITLE, UI, Nobles' Plaza: A Dangerous Bet
+W09_EVAR_COMM_DUMMY_SQUARE_THREE_020_DETAIL, UI, (Lose Items/Double Items) If you save the noble, you'll double the number of items you have—but if you fail, you may lose everything.
+W09_EVAR_COMM_DUMMY_SQUARE_THREE_020_BUTTON, UI, Speak to the Nobleman
+W09_EVAR_COMM_DUMMY_SQUARE_FOUR_000_TITLE, UI, Jack Street: A Loving Donation
+W09_EVAR_COMM_DUMMY_SQUARE_FOUR_000_DETAIL, UI, (Cheap Item) You can obtain a bronze medal here. Whether you choose to donate to this yob or not may determine your fate.
+W09_EVAR_COMM_DUMMY_SQUARE_FOUR_000_BUTTON, UI, Go to Jack Street
+W09_EVAR_COMM_DUMMY_SQUARE_FOUR_010_TITLE, UI, Jack Street: Suspicious Solicitation
+W09_EVAR_COMM_DUMMY_SQUARE_FOUR_010_DETAIL, UI, (Special Item) You feel something might happen if you give a donation to this yob. That said, you also sense something suspicious...
+W09_EVAR_COMM_DUMMY_SQUARE_FOUR_010_BUTTON, UI, Go to Jack Street
+W09_EVAR_COMM_DUMMY_SQUARE_FIVE_000_TITLE, UI, Sorries: A Tasty Treat
+W09_EVAR_COMM_DUMMY_SQUARE_FIVE_000_DETAIL, UI, (Cheap Item) You could potentially obtain one of Sorries' famous eel pies here—but will you?
+W09_EVAR_COMM_DUMMY_SQUARE_FIVE_000_BUTTON, UI, Enter the Shop
+W09_EVAR_COMM_DUMMY_SQUARE_FIVE_010_TITLE, UI, Sorries: Surprise-ade
+W09_EVAR_COMM_DUMMY_SQUARE_FIVE_010_DETAIL, UI, (Cheap Item) You can obtain Surprise-ade here. It's a popular new addition to this outrageous store's menu.
+W09_EVAR_COMM_DUMMY_SQUARE_FIVE_010_BUTTON, UI, Enter the Shop
+W09_EVAR_COMM_DUMMY_SQUARE_SIX_000_TITLE, UI, Deeps the Luxury Store: Your Heart's Desire
+W09_EVAR_COMM_DUMMY_SQUARE_SIX_000_DETAIL, UI, (Cheap Item) Supposedly this store can sell you anything you could possibly want. Are they sure about that?
+W09_EVAR_COMM_DUMMY_SQUARE_SIX_000_BUTTON, UI, Enter the Shop
+W09_EVAR_COMM_DUMMY_SQUARE_SIX_010_TITLE, UI, Deeps the Luxury Store: Your Heart's Other Desire
+W09_EVAR_COMM_DUMMY_SQUARE_SIX_010_DETAIL, UI, (Valuable Item) You have returned in search of something you want. Will you obtain it this time?
+W09_EVAR_COMM_DUMMY_SQUARE_SIX_010_BUTTON, UI, Enter the Shop
+W09_EVAR_COMM_DUMMY_SQUARE_SEVEN_000_TITLE, UI, Plaza With a Pub: Trouble Afoot
+W09_EVAR_COMM_DUMMY_SQUARE_SEVEN_000_DETAIL, UI, (Valuable Item) You can obtain a gold medal here. There also seems to be a scuffle unfolding at the pub. Perhaps you can earn a reward if you help?
+W09_EVAR_COMM_DUMMY_SQUARE_SEVEN_000_BUTTON, UI, Enter the Pub
+W09_EVAR_COMM_DUMMY_SQUARE_SEVEN_010_TITLE, UI, Plaza With a Pub: Gambling Fever
+W09_EVAR_COMM_DUMMY_SQUARE_SEVEN_010_DETAIL, UI, (Lose Items/Double Items) If you win, you can double the number of items you have—but if you lose, you'll forfeit everything.
+W09_EVAR_COMM_DUMMY_SQUARE_SEVEN_010_BUTTON, UI, Enter the Pub
+W09_EVAR_COMM_DUMMY_SQUARE_MARKET_PICK_POCKET_000_TITLE, UI, Market: Sylvester the Pickpocket
+W09_EVAR_COMM_DUMMY_SQUARE_MARKET_PICK_POCKET_000_DETAIL, UI, (Lose Items) A professional pickpocket named Sylvester is out and about. If you run into her, she's sure to steal everything you've gathered.
+W09_EVAR_COMM_DUMMY_SQUARE_MARKET_PICK_POCKET_000_BUTTON, UI, Meet the Pickpocket
+W09_EVAR_COMM_DUMMY_SQUARE_FOUR_PICK_POCKET_000_TITLE, UI, Jack Street: Where the Pickpocket Ran
+W09_EVAR_COMM_DUMMY_SQUARE_FOUR_PICK_POCKET_000_DETAIL, UI, (Recover Items) Sylvester the pickpocket looks to be here. If you defeat her, you might be able to recover your stolen items.
+W09_EVAR_COMM_DUMMY_SQUARE_FOUR_PICK_POCKET_000_BUTTON, UI, Defeat the Pickpocket
+W09_EVAR_COMM_DUMMY_SQUARE_ONE_PICK_POCKET_000_TITLE, UI, Ruined City: Where the Pickpocket Ran
+W09_EVAR_COMM_DUMMY_SQUARE_ONE_PICK_POCKET_000_DETAIL, UI, (Recover Items) Sylvester the pickpocket looks to be here. If you defeat her, you might be able to recover your stolen items.
+W09_EVAR_COMM_DUMMY_SQUARE_ONE_PICK_POCKET_000_BUTTON, UI, Defeat the Pickpocket
+W09_EVAR_COMM_DUMMY_STATION_PICK_POCKET_000_TITLE, UI, Avalon Station: Sylvester the Pickpocket
+W09_EVAR_COMM_DUMMY_STATION_PICK_POCKET_000_DETAIL, UI, (Lose Items) A professional pickpocket named Sylvester is out and about. If you run into her, she's sure to steal everything you've gathered.
+W09_EVAR_COMM_DUMMY_STATION_PICK_POCKET_000_BUTTON, UI, Meet the Pickpocket

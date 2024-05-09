@@ -1,0 +1,15 @@
+label,Arts,BaseRoleMax,BloodRoleNum,equiptype,ExRoleMax,Inspiration,Magic,MagicCatRole,MechaBody,Rankup,ShortLivedRole,SoulRole,StatusCalcType,texts,Trace,UseBloodArts,UseMechaArts,UseMonsterarts,UsePCMonsterarts,UseSelfArts,UseSpecialArts
+Human,['OHS_WL000_A01','THS_WH000_A01','OHG_GL000_A01','THG_GH000_A01','MAR_MA000_A01'],4,0,Human,0,True,True,False,False,True,False,False,TypeA,人間,False,False,False,False,False,True,True
+Vampire,['OHS_WL000_A01','THS_WH000_A01','OHG_GL000_A01','THG_GH000_A01','MAR_MA000_A01'],2,6,Vampire,6,True,True,False,False,True,False,False,TypeA,バンパイア,False,True,False,False,False,False,True
+Short_lived,['OHS_WL000_A01','THS_WH000_A01','OHG_GL000_A01','THG_GH000_A01','MAR_MA000_A01'],3,0,Short_lived,1,False,True,False,False,True,False,False,TypeA,短命種,False,False,False,False,False,False,True
+Mag_user,['OHS_WL000_A01','THS_WH000_A01','OHG_GL000_A01','THG_GH000_A01','MAR_MA000_A01'],4,0,Mag_user,0,True,True,False,False,True,False,False,TypeA,魔具使い,False,False,False,True,False,True,True
+Mecha,['None','None','None','None','None'],4,0,Mecha,0,False,True,False,True,True,False,False,TypeB,メカ,False,False,True,False,False,False,False
+Maki,['None','None','None','None','None'],4,0,Maki,0,False,True,False,True,True,False,False,TypeB,魔機,False,False,True,True,False,False,False
+Puppet,['OHS_WL000_A01','THS_WH000_A01','OHG_GL000_A01','THG_GH000_A01','MAR_MA000_A01'],1,0,Puppet,4,False,True,False,False,True,False,True,TypeA,傀儡,True,False,False,False,False,False,True
+Witch_girl,['OHS_WL000_A01','THS_WH000_A01','OHG_GL000_A01','THG_GH000_A01','MAR_MA000_A01'],4,0,Witch_girl,0,True,True,True,False,True,False,False,TypeA,魔女っ子,False,False,False,False,False,True,True
+Monster,['None','None','None','None','None'],4,0,Monster,0,False,True,False,False,True,False,False,TypeA,モンスター,False,False,False,True,True,False,True
+Knight,['OHS_WL000_A01','THS_WH000_A01','OHG_GL000_A01','THG_GH000_A01','MAR_MA000_A01'],4,1,Vampire,1,True,True,False,False,True,False,False,TypeA,騎士,False,True,False,False,False,False,True
+Crock,['OHS_WL000_A01','THS_WH000_A01','OHG_GL000_A01','THG_GH000_A01','MAR_MA000_A01'],2,0,Human,0,False,True,False,False,True,False,False,TypeA,廃人,False,False,False,False,False,False,True
+Enemy,['None','None','None','None','None'],4,0,Enemy,0,False,True,False,False,False,False,False,TypeA,敵専用,False,False,False,False,False,False,False
+Short_lived_human,['OHS_WL000_A01','THS_WH000_A01','OHG_GL000_A01','THG_GH000_A01','MAR_MA000_A01'],3,0,Human,1,True,True,False,False,True,True,False,TypeA,ヒト型短命種,False,False,False,False,False,True,True
+Short_lived_monster,['None','None','None','None','None'],3,0,Monster,1,False,True,False,False,True,True,False,TypeA,モンスター型短命種,False,False,False,True,True,False,True

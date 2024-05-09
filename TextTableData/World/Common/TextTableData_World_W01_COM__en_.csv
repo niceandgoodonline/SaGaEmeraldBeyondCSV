@@ -1,0 +1,246 @@
+label, speaker, text
+W01_LTXT_COMM_CATHEDRAL_000_TITLE, UI, Shrine
+W01_LTXT_COMM_CATHEDRAL_000_DETAIL, UI, This building, erected by Imperial decree, contains a rock called Ama-no-Iwato that was once exposed to the elements. The building eventually came to be known by some by another name: the Cathedral.
+W01_LTXT_COMM_GOKAKUDO_000_TITLE, UI, Gokakudo Temple
+W01_LTXT_COMM_GOKAKUDO_000_DETAIL, UI, A historic building that has stood since the city's founding. The temple is at the center of the city's protections in accordance with the theory of the five elements. Due to its age, it's now a restricted area.
+W01_LTXT_COMM_SEQUOIAMALL_000_TITLE, UI, Sequoia Mall
+W01_LTXT_COMM_SEQUOIAMALL_000_DETAIL, UI, A large and popular shopping mall. Its name was considered a bit silly when the mall was first established, but people came to accept it after time.
+W01_LTXT_COMM_MIYAKOTHEATRE_000_TITLE, UI, Miyako Theater
+W01_LTXT_COMM_MIYAKOTHEATRE_000_DETAIL, UI, Though this building is officially known as the Miyako Civic Theater, people just call it the Miyako Theater regardless. Visitors enjoy various forms of art here, from concerts to plays.
+W01_LTXT_COMM_NORTHTEMPLE_000_TITLE, UI, Sangen-in Temple
+W01_LTXT_COMM_NORTHTEMPLE_000_DETAIL, UI, A historic building famous for its mountain location. The spring in its grounds is said to be a source of great natural energy.
+W01_LTXT_COMM_SOUTHTEMPLE_000_TITLE, UI, Rakusuiro Tower
+W01_LTXT_COMM_SOUTHTEMPLE_000_DETAIL, UI, This tower is a major landmark in Miyako City. Despite looking like it has five stories from the outside, it actually contains only four.
+W01_LTXT_COMM_JIZOPARK_000_TITLE, UI, Komainu Jizo Children's Park
+W01_LTXT_COMM_JIZOPARK_000_DETAIL, UI, A park popular with local elementary school children. A Jizo statue stands watch in one corner.
+W01_LTXT_COMM_GHOSTTOWN_000_TITLE, UI, Ruined Village
+W01_LTXT_COMM_GHOSTTOWN_000_DETAIL, UI, This ancient village is now surrounded by woodlands. The idea of using it as a draw for tourists is currently under consideration, but for now, the city has forbidden anyone to go inside.
+W01_LTXT_COMM_LIMESTONECAVE_000_TITLE, UI, Limestone Cave
+W01_LTXT_COMM_LIMESTONECAVE_000_DETAIL, UI, The city restricted access to this cave after someone went missing in its depths.
+W01_LTXT_COMM_HOTEL_000_TITLE, UI, Hotel
+W01_LTXT_COMM_HOTEL_000_DETAIL, UI, A luxury hotel built on sought-after land away from the bustle and noise of Miyako City.
+W01_LTXT_COMM_RAKUHOKUSTA_010_TITLE, UI, Rakuhoku Station
+W01_LTXT_COMM_RAKUHOKUSTA_010_DETAIL, UI, A train station in Miyako. The trains aren't running right now.
+W01_LTXT_COMM_RAKUTOSTA_010_TITLE, UI, Rakuto Station
+W01_LTXT_COMM_RAKUTOSTA_010_DETAIL, UI, A train station in Miyako. The trains aren't running right now.
+W01_LTXT_COMM_RAKUNANSTA_010_TITLE, UI, Rakunan Station
+W01_LTXT_COMM_RAKUNANSTA_010_DETAIL, UI, A Miyako Rail station. The trains aren't running right now.
+W01_LTXT_COMM_MIYAKOUNIV_000_TITLE, UI, Miyako Imperial University
+W01_LTXT_COMM_MIYAKOUNIV_000_DETAIL, UI, One of the two most famous universities in the entire country. Many of its students go on to receive international recognition.
+W01_LTXT_COMM_RAKUGAKU_000_TITLE, UI, Rakugaku Academy
+W01_LTXT_COMM_RAKUGAKU_000_DETAIL, UI, A combined middle and high school for young women. There are no rumors about it becoming a mixed school to combat declining birth rates.
+W01_LTXT_COMM_HOUSEOFMIDO_000_TITLE, UI, Mido Residence
+W01_LTXT_COMM_HOUSEOFMIDO_000_DETAIL, UI, The main building with its elegant exterior, built before the war, is quite famous. Sadly, since the house is still used as a residence, it's not possible to tour it. Rumors claim a large dog also lives here.
+W01_LTXT_COMM_HOUSEOFIZUMI_000_TITLE, UI, Izumi's House
+W01_LTXT_COMM_HOUSEOFIZUMI_000_DETAIL, UI, Your home while living as Yumeha Izumi. Though not as luxurious as Leone Bianco Palazzo in Pulchra, it's still quite comfortable.
+W01_LTXT_COMM_KATSURAKITAES_000_TITLE, UI, Keihoku Elementary School
+W01_LTXT_COMM_KATSURAKITAES_000_DETAIL, UI, A municipal elementary school in Miyako City. You hear the cheerful sound of children's voices inside.
+W01_LTXT_COMM_RAKUHOKUSTA_000_TITLE, UI, Take the Train from Rakuhoku Station
+W01_LTXT_COMM_RAKUHOKUSTA_000_DETAIL, UI, This is the closest station to Miyako Imperial University. You can travel to Rakuto Station and Rakunan Station from here.
+W01_LTXT_COMM_RAKUHOKUSTA_000_BUTTON, UI, Choose a Destination
+W01_LTXT_COMM_RAKUTOSTA_000_TITLE, UI, Take the Train from Rakuto Station
+W01_LTXT_COMM_RAKUTOSTA_000_DETAIL, UI, This is the closest station to Sequoia Mall. You can travel to Rakuhoku Station and Rakunan Station from here.
+W01_LTXT_COMM_RAKUTOSTA_000_BUTTON, UI, Choose a Destination
+W01_LTXT_COMM_RAKUNANSTA_000_TITLE, UI, Take the Train from Rakunan Station
+W01_LTXT_COMM_RAKUNANSTA_000_DETAIL, UI, This is the closest station to Keihoku Elementary School. You can travel to Rakuhoku Station and Rakuto Station from here.
+W01_LTXT_COMM_RAKUNANSTA_000_BUTTON, UI, Choose a Destination
+W01_WRLD_COMM_000_TITLE, UI, Through the Stone Gate
+W01_WRLD_COMM_000_DETAIL, UI, After passing through the stone gate, you find yourself in a strange urban environment made from a mix of old and new.
+W01_EVAR_COMM_CATHEDRAL_DOOR_000_TITLE, UI, The Shrine's Stone Gate
+W01_EVAR_COMM_CATHEDRAL_DOOR_000_DETAIL, UI, The strange stone gate you used to enter this world. You can likely leave it in the same way.
+W01_EVAR_COMM_CATHEDRAL_DOOR_000_BUTTON, UI, Go to the Stone Gate
+W01_EVAR_COMM_MEETING_TSUNA_000_TITLE, UI, Meeting in Front of the Station
+W01_EVAR_COMM_MEETING_TSUNA_000_DETAIL, UI, You haven't a clue where you are. Perhaps gathering information in a place with lots of people would be a good start.
+W01_EVAR_COMM_MEETING_TSUNA_000_BUTTON, UI, Go to the Area in Front of the Station
+W01_EVAR_COMM_SANGENIN_SPRING_000_TITLE, UI, Sangen-in Temple Spring
+W01_EVAR_COMM_SANGENIN_SPRING_000_DETAIL, UI, This temple was built on a slope in the mountains. The flow of water in the nearby falls appears to have stopped. What could have happened here?
+W01_EVAR_COMM_SANGENIN_SPRING_000_BUTTON, UI, View the Waterfalls
+W01_EVAR_COMM_SANGENIN_SPRING_010_TITLE, UI, Sangen-in Temple Spring
+W01_EVAR_COMM_SANGENIN_SPRING_010_DETAIL, UI, This temple was built on a slope in the mountains. The flow of water in the nearby falls appears to have stopped. What could have happened here?
+W01_EVAR_COMM_SANGENIN_SPRING_010_BUTTON, UI, View the Waterfalls
+W01_EVAR_COMM_SANGENIN_SPRING_020_TITLE, UI, Sangen-in Temple Spring
+W01_EVAR_COMM_SANGENIN_SPRING_020_DETAIL, UI, This temple was built on a slope in the mountains. You saw the man you're after enter the cave where the waterfalls begin. You should go after him.
+W01_EVAR_COMM_SANGENIN_SPRING_020_BUTTON, UI, Follow the Man
+W01_EVAR_COMM_SANGENIN_FALL_000_TITLE, UI, Waterfall of Blessings
+W01_EVAR_COMM_SANGENIN_FALL_000_DETAIL, UI, This waterfall flows from a spring deep in the grounds of Sangen-in Temple, and is said to bring great blessings.
+W01_EVAR_COMM_SANGENIN_FALL_000_BUTTON, UI, Visit the Waterfall
+W01_EVAR_COMM_SANGENIN_FALL_010_TITLE, UI, Waterfall of Longevity
+W01_EVAR_COMM_SANGENIN_FALL_010_DETAIL, UI, This waterfall flows from a spring deep in the grounds of Sangen-in Temple, and is said to grant long life.
+W01_EVAR_COMM_SANGENIN_FALL_010_BUTTON, UI, Visit the Waterfall
+W01_EVAR_COMM_SANGENIN_FALL_020_TITLE, UI, Waterfall of Blessings
+W01_EVAR_COMM_SANGENIN_FALL_020_DETAIL, UI, This waterfall flows from a spring deep in the grounds of Sangen-in Temple, and is said to bring great blessings.
+W01_EVAR_COMM_SANGENIN_FALL_020_BUTTON, UI, Visit the Waterfall
+W01_EVAR_COMM_CURSED_MIRROR_000_TITLE, UI, Mysteries of Sequoia Mall
+W01_EVAR_COMM_CURSED_MIRROR_000_DETAIL, UI, You arrived at Sequoia Mall in your pursuit of the mysterious man. Will anyone here have information that can help you?
+W01_EVAR_COMM_CURSED_MIRROR_000_BUTTON, UI, Speak to an Employee
+W01_EVAR_COMM_CURSED_MIRROR_010_TITLE, UI, Repairing the Mirror
+W01_EVAR_COMM_CURSED_MIRROR_010_DETAIL, UI, This is a broken mirror you found in Sequoia Mall. Will you be able to repair it this time?
+W01_EVAR_COMM_CURSED_MIRROR_010_BUTTON, UI, Try Repairing the Mirror Again
+W01_EVAR_COMM_CURSED_MIRROR_020_TITLE, UI, Mysteries of Sequoia Mall
+W01_EVAR_COMM_CURSED_MIRROR_020_DETAIL, UI, You arrived at Sequoia Mall in your pursuit of the mysterious man. Will anyone inside have information that can help you?
+W01_EVAR_COMM_CURSED_MIRROR_020_BUTTON, UI, Ask Around
+W01_EVAR_COMM_CURSED_MIRROR_030_TITLE, UI, Repairing the Mirror
+W01_EVAR_COMM_CURSED_MIRROR_030_DETAIL, UI, This is a broken mirror you found in Sequoia Mall. Will you be able to repair it this time?
+W01_EVAR_COMM_CURSED_MIRROR_030_BUTTON, UI, Try Repairing the Mirror Again
+W01_EVAR_COMM_SEQUOIA_HOKORA_000_TITLE, UI, Forgotten Shrine
+W01_EVAR_COMM_SEQUOIA_HOKORA_000_DETAIL, UI, You arrived on the roof of Sequoia Mall in your pursuit of the mysterious man. It's time to search for him and the small shrine.
+W01_EVAR_COMM_SEQUOIA_HOKORA_000_BUTTON, UI, Look Around the Rooftop
+W01_EVAR_COMM_SEQUOIA_HOKORA_010_TITLE, UI, Forgotten Shrine
+W01_EVAR_COMM_SEQUOIA_HOKORA_010_DETAIL, UI, You arrived on the roof of Sequoia Mall in your pursuit of the mysterious man. It's time to search for him and the small shrine.
+W01_EVAR_COMM_SEQUOIA_HOKORA_010_BUTTON, UI, Look Around the Rooftop
+W01_EVAR_COMM_SEQUOIA_HOKORA_020_TITLE, UI, Forgotten Shrine
+W01_EVAR_COMM_SEQUOIA_HOKORA_020_DETAIL, UI, You found the mysterious man on the roof of Sequoia Mall.
+W01_EVAR_COMM_SEQUOIA_HOKORA_020_BUTTON, UI, Call to the Mystery Man
+W01_EVAR_COMM_SEQUOIA_HOKORA_FAILED_000_TITLE, UI, Repairing the Talisman
+W01_EVAR_COMM_SEQUOIA_HOKORA_FAILED_000_DETAIL, UI, You found a talisman in the shrine on the roof of Sequoia Mall. Hopefully you'll be able to repair it this time.
+W01_EVAR_COMM_SEQUOIA_HOKORA_FAILED_000_BUTTON, UI, Try Repairing the Talisman Again
+W01_EVAR_COMM_SEQUOIA_HOKORA_FAILED_010_TITLE, UI, Repairing the Talisman
+W01_EVAR_COMM_SEQUOIA_HOKORA_FAILED_010_DETAIL, UI, You found a talisman in the shrine on the roof of Sequoia Mall. Hopefully you'll be able to repair it this time.
+W01_EVAR_COMM_SEQUOIA_HOKORA_FAILED_010_BUTTON, UI, Try Repairing the Talisman Again
+W01_EVAR_COMM_DANGEROUS_CAVE_000_TITLE, UI, Restricted Limestone Cave
+W01_EVAR_COMM_DANGEROUS_CAVE_000_DETAIL, UI, You hear the sound of dripping water within this cave.
+W01_EVAR_COMM_DANGEROUS_CAVE_000_BUTTON, UI, Approach the Limestone Cave
+W01_EVAR_COMM_PRIMA_DONNA_000_TITLE, UI, Prima Donna from the Nether
+W01_EVAR_COMM_PRIMA_DONNA_000_DETAIL, UI, The receptionist in the theater seems to have something on her mind.
+W01_EVAR_COMM_PRIMA_DONNA_000_BUTTON, UI, Talk to the Receptionist
+W01_EVAR_COMM_DANGEROUS_FLOG_000_TITLE, UI, The Violent Frogs
+W01_EVAR_COMM_DANGEROUS_FLOG_000_DETAIL, UI, An oddly dressed man is standing by the lake. There seems to be a problem here.
+W01_EVAR_COMM_DANGEROUS_FLOG_000_BUTTON, UI, Observe the Man
+W01_EVAR_COMM_DANGEROUS_FLOG_010_TITLE, UI, The Violent Frogs
+W01_EVAR_COMM_DANGEROUS_FLOG_010_DETAIL, UI, An oddly dressed man is standing by the lake. There seems to be a problem here.
+W01_EVAR_COMM_DANGEROUS_FLOG_010_BUTTON, UI, Observe the Man
+W01_EVAR_COMM_DANGEROUS_FLOG_020_TITLE, UI, The Violent Frogs
+W01_EVAR_COMM_DANGEROUS_FLOG_020_DETAIL, UI, An oddly dressed man is standing by the lake. There seems to be a problem here.
+W01_EVAR_COMM_DANGEROUS_FLOG_020_BUTTON, UI, Observe the Man
+W01_EVAR_COMM_GOTO_SOUTH_000_TITLE, UI, To Miyako City's South
+W01_EVAR_COMM_GOTO_SOUTH_000_DETAIL, UI, Rakuto Station, the place where you first met Tsunanori, is apparently a place where one can find vehicles called "trains."
+W01_EVAR_COMM_GOTO_SOUTH_000_BUTTON, UI, Enter Rakuto Station
+W01_EVAR_COMM_PAGODA_000_TITLE, UI, Rakusuiro Tower
+W01_EVAR_COMM_PAGODA_000_DETAIL, UI, A four-floored, five-story tower. You should investigate the strange sounds you heard coming from the top floor.
+W01_EVAR_COMM_PAGODA_000_BUTTON, UI, Go to Rakusuiro Tower
+W01_EVAR_COMM_PAGODA_010_TITLE, UI, Rakusuiro Tower
+W01_EVAR_COMM_PAGODA_010_DETAIL, UI, A four-floored, five-story tower. You should investigate the strange sounds you heard coming from the top floor.
+W01_EVAR_COMM_PAGODA_010_BUTTON, UI, Go to the Tower's Fifth Floor
+W01_EVAR_COMM_PAGODA_020_TITLE, UI, Rakusuiro Tower
+W01_EVAR_COMM_PAGODA_020_DETAIL, UI, A four-floored, five-story tower. You sense that man here.
+W01_EVAR_COMM_PAGODA_020_BUTTON, UI, Go to Rakusuiro Tower
+W01_EVAR_COMM_PAGODA_FAILED_000_TITLE, UI, Repairing the Magatama
+W01_EVAR_COMM_PAGODA_FAILED_000_DETAIL, UI, The magatama in Rakusuiro—the four-floored, five-story tower—has broken. You should repair it to restore power to the barrier.
+W01_EVAR_COMM_PAGODA_FAILED_000_BUTTON, UI, Try Repairing the Magatama Again
+W01_EVAR_COMM_PAGODA_FAILED_010_TITLE, UI, Repairing the Magatama
+W01_EVAR_COMM_PAGODA_FAILED_010_DETAIL, UI, The magatama in Rakusuiro—the four-floored, five-story tower—has broken. You should repair it to restore power to the barrier.
+W01_EVAR_COMM_PAGODA_FAILED_010_BUTTON, UI, Try Repairing the Magatama Again
+W01_EVAR_COMM_JIZO_000_TITLE, UI, The Strange Jizo Statue
+W01_EVAR_COMM_JIZO_000_DETAIL, UI, Apparently one of the barrier's knots is in Komainu Jizo Children's Park. You should try to find it.
+W01_EVAR_COMM_JIZO_000_BUTTON, UI, Ask the Children
+W01_EVAR_COMM_JIZO_010_TITLE, UI, The Strange Jizo Statue
+W01_EVAR_COMM_JIZO_010_DETAIL, UI, You see the mysterious man in Komainu Jizo Children's Park. What is he doing here?
+W01_EVAR_COMM_JIZO_010_BUTTON, UI, Approach the Mysterious Man
+W01_EVAR_COMM_MIYAKOUNIV_INFO_000_TITLE, UI, Sightings at the University
+W01_EVAR_COMM_MIYAKOUNIV_INFO_000_DETAIL, UI, This is the university that Tsunanori attends. Did anyone here see a shining object fly by?
+W01_EVAR_COMM_MIYAKOUNIV_INFO_000_BUTTON, UI, Talk to a Woman
+W01_EVAR_COMM_MIYAKOUNIV_INFO_010_TITLE, UI, Sightings at the University
+W01_EVAR_COMM_MIYAKOUNIV_INFO_010_DETAIL, UI, This is the university that Tsunanori attends. Did anyone here see a shining object fly by?
+W01_EVAR_COMM_MIYAKOUNIV_INFO_010_BUTTON, UI, Call to the Woman
+W01_EVAR_COMM_MOVINGTREE_000_TITLE, UI, The Moving Tree's Identity
+W01_EVAR_COMM_MOVINGTREE_000_DETAIL, UI, The abandoned village where the moving tree was supposedly seen. You should go inside and ensure the safety of the student who came here to investigate it.
+W01_EVAR_COMM_MOVINGTREE_000_BUTTON, UI, Enter the Ruined Village
+W01_EVAR_COMM_SCHOOL_GHOST_000_TITLE, UI, Ghost Stories at the School
+W01_EVAR_COMM_SCHOOL_GHOST_000_DETAIL, UI, Did anyone at Keihoku Elementary School see a shining object fly by?
+W01_EVAR_COMM_SCHOOL_GHOST_000_BUTTON, UI, Look Around Inside
+W01_EVAR_COMM_HANIWA_000_TITLE, UI, Schoolgirl Rumors
+W01_EVAR_COMM_HANIWA_000_DETAIL, UI, Did anyone in Rakugaku—the school Tsunanori's younger sister attends—see a shining object fly by?
+W01_EVAR_COMM_HANIWA_000_BUTTON, UI, Look Around Inside
+W01_EVAR_COMM_HOTEL_INFO_000_TITLE, UI, Possible Sightings at the Hotel
+W01_EVAR_COMM_HOTEL_INFO_000_DETAIL, UI, Tourists frequent this hotel. You think someone here might have seen a shining object fly by.
+W01_EVAR_COMM_HOTEL_INFO_000_BUTTON, UI, Speak to the Tourists
+W01_EVAR_COMM_HOTEL_INFO_010_TITLE, UI, Possible Sightings at the Hotel
+W01_EVAR_COMM_HOTEL_INFO_010_DETAIL, UI, Tourists frequent this hotel. You think someone here might have seen a shining object fly by.
+W01_EVAR_COMM_HOTEL_INFO_010_BUTTON, UI, Speak to the Tourists
+W01_EVAR_COMM_GHOST_BIKE_000_TITLE, UI, Female Vendor
+W01_EVAR_COMM_GHOST_BIKE_000_DETAIL, UI, You should ask the vendor if she saw the shining object that supposedly flew off toward Rakuhoku Station.
+W01_EVAR_COMM_GHOST_BIKE_000_BUTTON, UI, Visit the Shop
+W01_EVAR_COMM_GHOST_BIKE_010_TITLE, UI, Ume's Older Sister
+W01_EVAR_COMM_GHOST_BIKE_010_DETAIL, UI, Supposedly Ume's sister ran off in pursuit of the shining object. Where could she be now?
+W01_EVAR_COMM_GHOST_BIKE_010_BUTTON, UI, Visit the Shop
+W01_EVAR_COMM_GHOST_BIKE_020_TITLE, UI, Take's Older Sister
+W01_EVAR_COMM_GHOST_BIKE_020_DETAIL, UI, Supposedly the eldest of the three sisters ran off in pursuit of the shining object. Could this be her?
+W01_EVAR_COMM_GHOST_BIKE_020_BUTTON, UI, Call to the Woman
+W01_EVAR_COMM_GHOST_BIKE_030_TITLE, UI, Abandoned Motorcycle
+W01_EVAR_COMM_GHOST_BIKE_030_DETAIL, UI, A motorcycle has been abandoned at the side of the road. Could this be the one you heard about?
+W01_EVAR_COMM_GHOST_BIKE_030_BUTTON, UI, Investigate the Motorcycle
+W01_EVAR_COMM_KOMAINU_JIZO_000_TITLE, UI, Komainu Jizo
+W01_EVAR_COMM_KOMAINU_JIZO_000_DETAIL, UI, You now have all five colored tiles. You should use them to restore the barrier's power.
+W01_EVAR_COMM_KOMAINU_JIZO_000_BUTTON, UI, Investigate Komainu Jizo
+W01_EVAR_COMM_KOMAINU_JIZO_010_TITLE, UI, Komainu Jizo's Design
+W01_EVAR_COMM_KOMAINU_JIZO_010_DETAIL, UI, You made a mistake while putting the jizo's design back together. Try again.
+W01_EVAR_COMM_KOMAINU_JIZO_010_BUTTON, UI, Try Again
+W01_EVAR_COMM_CONSPIRACY_000_TITLE, UI, Conspiracy
+W01_EVAR_COMM_CONSPIRACY_000_DETAIL, UI, That man is apparently on his way to Gokakudo Temple, the center of Miyako City's barrier. What is he planning?
+W01_EVAR_COMM_CONSPIRACY_000_BUTTON, UI, Enter Gokakudo Temple
+W01_EVAR_COMM_CONSPIRACY_010_TITLE, UI, Conspiracy
+W01_EVAR_COMM_CONSPIRACY_010_DETAIL, UI, That man is apparently on his way to Gokakudo Temple, the center of Miyako City's barrier. What is he planning?
+W01_EVAR_COMM_CONSPIRACY_010_BUTTON, UI, Enter Gokakudo Temple
+W01_EVAR_COMM_CONSPIRACY_020_TITLE, UI, Conspiracy
+W01_EVAR_COMM_CONSPIRACY_020_DETAIL, UI, That man is apparently on his way to Gokakudo Temple, the center of Miyako City's barrier. What is he planning?
+W01_EVAR_COMM_CONSPIRACY_020_BUTTON, UI, Enter Gokakudo Temple
+W01_EVAR_COMM_AMANO_IWATO_000_TITLE, UI, Ama-no-Iwato
+W01_EVAR_COMM_AMANO_IWATO_000_DETAIL, UI, You foiled that man's schemes. Perhaps it's now time to leave this world.
+W01_EVAR_COMM_AMANO_IWATO_000_BUTTON, UI, Go to Ama-no-Iwato
+W01_EVAR_COMM_AMANO_IWATO_010_TITLE, UI, Ama-no-Iwato
+W01_EVAR_COMM_AMANO_IWATO_010_DETAIL, UI, That man might be attempting to leave this world via Ama-no-Iwato. You should investigate.
+W01_EVAR_COMM_AMANO_IWATO_010_BUTTON, UI, Go to Ama-no-Iwato
+W01_EVAR_COMM_AMANO_IWATO_020_TITLE, UI, Ama-no-Iwato
+W01_EVAR_COMM_AMANO_IWATO_020_DETAIL, UI, You have done what you set out to do in this world. The time has come to leave.
+W01_EVAR_COMM_AMANO_IWATO_020_BUTTON, UI, Go to Ama-no-Iwato
+W01_EVAR_COMM_AMANO_IWATO_030_TITLE, UI, Ama-no-Iwato
+W01_EVAR_COMM_AMANO_IWATO_030_DETAIL, UI, There is nothing else you need to do in this world right now. If you pass through Ama-no-Iwato in the shrine, you can leave.
+W01_EVAR_COMM_AMANO_IWATO_030_BUTTON, UI, Go to Ama-no-Iwato
+W01_EVAR_COMM_POWER_SPOT_000_TITLE, UI, Tour of Spiritual Locations
+W01_EVAR_COMM_POWER_SPOT_000_DETAIL, UI, You wonder what happened to the five-story tower. You should go take a look.
+W01_EVAR_COMM_POWER_SPOT_000_BUTTON, UI, Enter the Grounds of Rakusuiro Tower
+W01_EVAR_COMM_MIYAKO_REPORT_000_TITLE, UI, Miyako City Investigative Report
+W01_EVAR_COMM_MIYAKO_REPORT_000_DETAIL, UI, You witnessed the otherworldly man making for the hotel. You can only hope he's not going to cause more trouble there...
+W01_EVAR_COMM_MIYAKO_REPORT_000_BUTTON, UI, Call to the Otherworldly Man
+W01_EVAR_COMM_MIYAKO_REPORT_010_TITLE, UI, Miyako City Investigative Report
+W01_EVAR_COMM_MIYAKO_REPORT_010_DETAIL, UI, You witnessed the otherworldly man making for the hotel. You can only hope he's not going to cause more trouble there...
+W01_EVAR_COMM_MIYAKO_REPORT_010_BUTTON, UI, Call to the Otherworldly Man
+W01_EVAR_COMM_DISTURBING_CAVE_000_TITLE, UI, Unsettling Cave
+W01_EVAR_COMM_DISTURBING_CAVE_000_DETAIL, UI, You hear the sound of dripping water within this limestone cave.
+W01_EVAR_COMM_DISTURBING_CAVE_000_BUTTON, UI, Approach the Limestone Cave Entrance
+W01_EVAR_COMM_MIYAKOTHEATRE_000_TITLE, UI, Art's Origin
+W01_EVAR_COMM_MIYAKOTHEATRE_000_DETAIL, UI, Every so often, you hear music coming from this large building. What could it be?
+W01_EVAR_COMM_MIYAKOTHEATRE_000_BUTTON, UI, Call to a Staff Member
+W01_EVAR_COMM_MIYAKO_TRAIN_000_TITLE, UI, A Miyako City Vehicle
+W01_EVAR_COMM_MIYAKO_TRAIN_000_DETAIL, UI, This vehicle travels on tracks. Perhaps you should try riding it since you're here?
+W01_EVAR_COMM_MIYAKO_TRAIN_000_BUTTON, UI, Enter Rakuhoku Station
+W01_EVAR_COMM_TURINST_HOTEL_000_TITLE, UI, A Base For Travelers
+W01_EVAR_COMM_TURINST_HOTEL_000_DETAIL, UI, People are going in and out of this location carrying large bags—there even seems to be families traveling together. Perhaps it's some form of lodging?
+W01_EVAR_COMM_TURINST_HOTEL_000_BUTTON, UI, Observe the Building
+W01_EVAR_COMM_EREMENTARY_SCHOOL_000_TITLE, UI, A School for Children
+W01_EVAR_COMM_EREMENTARY_SCHOOL_000_DETAIL, UI, Children are cavorting in this vast facility, but it seems like more than a simple playground. What else could it be used for?
+W01_EVAR_COMM_EREMENTARY_SCHOOL_000_BUTTON, UI, Look Around Inside
+W01_EVAR_COMM_GIRLS_SCHOOLLIFE_000_TITLE, UI, The Young Girls
+W01_EVAR_COMM_GIRLS_SCHOOLLIFE_000_DETAIL, UI, There don't seem to be any men in this place, and everyone is wearing the same clothes. What is this?
+W01_EVAR_COMM_GIRLS_SCHOOLLIFE_000_BUTTON, UI, Look Around Inside
+W01_EVAR_COMM_STAFF_AND_CAT_000_TITLE, UI, The Female Receptionist and the Cat
+W01_EVAR_COMM_STAFF_AND_CAT_000_DETAIL, UI, The receptionist at the front of the Miyako theater is having a heartwarming battle with her cat.
+W01_EVAR_COMM_STAFF_AND_CAT_000_BUTTON, UI, Call to the Woman at Reception
+W01_EVAR_COMM_HARD_TO_DECIDING_000_TITLE, UI, The Employee and the Motorcycle
+W01_EVAR_COMM_HARD_TO_DECIDING_000_DETAIL, UI, You should inform the employee who told you about the motorcycle that you found it on the highway.
+W01_EVAR_COMM_HARD_TO_DECIDING_000_BUTTON, UI, Call to the Employee
+W01_EVAR_COMM_FATHER_THOUGHT_000_TITLE, UI, A Father's Feelings
+W01_EVAR_COMM_FATHER_THOUGHT_000_DETAIL, UI, You picked something up in Sangen-in Temple. Apparently the man in front of you dropped it.
+W01_EVAR_COMM_FATHER_THOUGHT_000_BUTTON, UI, Call to the Man
+W01_EVAR_COMM_GHOSTTOWN_BATTLE_000_TITLE, UI, Lingering Grudge
+W01_EVAR_COMM_GHOSTTOWN_BATTLE_000_DETAIL, UI, A village that was destroyed in a disaster long ago. The sadness, fear, and other negative emotions created at that time still linger in this place.
+W01_EVAR_COMM_GHOSTTOWN_BATTLE_000_BUTTON, UI, Fight It Out
+W01_EVAR_COMM_CAVE_BATTLE_000_TITLE, UI, Phantom Extermination in the Limestone Cave
+W01_EVAR_COMM_CAVE_BATTLE_000_DETAIL, UI, Fiends have taken up residence in this limestone cave. If you go inside, you should be ready to face great danger.
+W01_EVAR_COMM_CAVE_BATTLE_000_BUTTON, UI, Fight It Out
+W01_EVAR_COMM_OOIKE_BATTLE_000_TITLE, UI, Monster in the Pond
+W01_EVAR_COMM_OOIKE_BATTLE_000_DETAIL, UI, A strange creature has been sighted at the great lake in the southern part of Miyako City.
+W01_EVAR_COMM_OOIKE_BATTLE_000_BUTTON, UI, Fight It Out
+W01_EVAR_COMM_BRIDGE_BATTLE_000_TITLE, UI, Spirit In the Bridge
+W01_EVAR_COMM_BRIDGE_BATTLE_000_DETAIL, UI, There are rumors of a terrifying shadow being sighted. What could it be?
+W01_EVAR_COMM_BRIDGE_BATTLE_000_BUTTON, UI, Fight It Out

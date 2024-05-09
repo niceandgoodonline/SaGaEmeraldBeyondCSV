@@ -1,0 +1,7 @@
+label,chara
+PTC_ALL,"['None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']"
+PTC_KUGUTSU,"['PC_Musashi_Kugutu', 'PC_Sukune_Kugutu', 'PC_Komachi_Kugutu', 'PC_Bou_Kugutu', 'PC_Bou_Kugutu', 'None', 'None', 'None', 'None', 'None', 'None', 'None']"
+PTC_MAJO,"['PC_Lita_Caryx', 'PC_Ameya_Aisling', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']"
+PTC_VAMPIRE,"['PC_General', 'PC_Brave', 'PC_Philosopher', 'PC_Killer', 'PC_Ilmurran', 'PC_Champion', 'None', 'None', 'None', 'None', 'None', 'None']"
+PTC_AMEYA,"['PC_Ameya_Aisling', 'PC_Bou_Kugutu', 'PC_LoLo', 'PC_Shinobu_Kato', 'PC_Macha_Copy', 'None', 'None', 'None', 'None', 'None', 'None', 'None']"
+PTC_SIUGNAS,"['PC_Siugnas_Darkking', 'PC_General', 'PC_Brave', 'PC_Philosopher', 'PC_Killer', 'PC_Ilmurran', 'PC_Champion', 'None', 'None', 'None', 'None', 'None']"

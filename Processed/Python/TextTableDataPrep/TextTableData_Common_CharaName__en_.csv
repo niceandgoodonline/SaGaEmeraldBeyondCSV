@@ -1,0 +1,1552 @@
+label, text, speaker, autoLineBreak
+CharaName_Tsunanori_Mido, Tsunanori Mido,  UI,  0
+Hypocoristic_Tsunanori_Mido, Tsunanori,  UI,  0
+Caption_Tsunanori_Mido, Miyako Imperial University Student,  UI,  0
+Discription_Tsunanori_Mido, Member of a branch family of the famous Mido family and <i>kugutsu</i> puppetmaster.,  UI,  0
+CharaSelect_Tsunanori_Mido, Member of a branch family of the famous
+Mido family of <i>kugutsu</i> puppetmasters.,  UI,  0
+CharaName_Lita_Caryx, Lita Caryx,  UI,  0
+Hypocoristic_Lita_Caryx, Lita,  UI,  0
+Caption_Lita_Caryx, Blue Witch,  UI,  0
+Discription_Lita_Caryx, Daughter of the Blue Sage.,  UI,  0
+CharaName_Musashi_Kugutu, Musashi,  UI,  0
+Hypocoristic_Musashi_Kugutu, Musashi,  UI,  0
+Caption_Musashi_Kugutu, Sword <i>Kugutsu</i>,  UI,  0
+Discription_Musashi_Kugutu, A <i>kugutsu</i> imbued with the soul of a swordmaster named Musashi.,  UI,  0
+CharaName_Komachi_Kugutu, Komachi,  UI,  0
+Hypocoristic_Komachi_Kugutu, Komachi,  UI,  0
+Caption_Komachi_Kugutu, Spell <i>Kugutsu</i>,  UI,  0
+Discription_Komachi_Kugutu, A <i>kugutsu</i> imbued with the soul of a poet named Komachi.,  UI,  0
+CharaName_Bou_Kugutu, Boh,  UI,  0
+Hypocoristic_Bou_Kugutu, Boh,  UI,  0
+Caption_Bou_Kugutu, Gun <i>Kugutsu</i>,  UI,  0
+Discription_Bou_Kugutu, A <i>kugutsu</i> imbued with the soul of a gunslinger named Boh.,  UI,  0
+CharaName_Sukune_Kugutu, Sukune,  UI,  0
+Hypocoristic_Sukune_Kugutu, Sukune,  UI,  0
+Caption_Sukune_Kugutu, Martial Arts <i>Kugutsu</i>,  UI,  0
+Discription_Sukune_Kugutu, A <i>kugutsu</i> imbued with the soul of a martial artist named Sukune.,  UI,  0
+CharaName_Ameya_Aisling, Ameya Aisling,  UI,  0
+Hypocoristic_Ameya_Aisling, Ameya,  UI,  0
+Caption_Ameya_Aisling, White Witch,  UI,  0
+Discription_Ameya_Aisling, Daughter of the White Sage.,  UI,  0
+CharaSelect_Ameya_Aisling, Daughter of the White Sage.
+Currently undertaking her Witchterms.,  UI,  0
+CharaName_Siugnas_Darkking, Siugnas,  UI,  0
+Hypocoristic_Siugnas_Darkking, Siugnas,  UI,  0
+Caption_Siugnas_Darkking, Dismal King,  UI,  0
+Discription_Siugnas_Darkking, A man who was once the Dismal King. Or perhaps he still is?,  UI,  0
+CharaSelect_Siugnas_Darkking, An undying vampire lord.
+Has many thralls under his command.,  UI,  0
+CharaName_Formina_Franklyn, Formina Franklyn,  UI,  0
+Hypocoristic_Formina_Franklyn, Formina,  UI,  0
+Caption_Formina_Franklyn, CCPD Officer,  UI,  0
+Discription_Formina_Franklyn, Officer with the Capitol City Police Department.,  UI,  0
+CharaName_Bonnie_Blair, Bonnie Blair,  UI,  0
+Hypocoristic_Bonnie_Blair, Bonnie,  UI,  0
+Caption_Bonnie_Blair, CCPD Officer,  UI,  0
+Discription_Bonnie_Blair, Officer with the Capitol City Police Department.,  UI,  0
+CharaName_John_Angevin, John Angevin,  UI,  0
+Hypocoristic_John_Angevin, John,  UI,  0
+Caption_John_Angevin, 　,  UI,  0
+Discription_John_Angevin, MAG agent.,  UI,  0
+CharaName_Diva_No5, Diva No. 5,  UI,  0
+Hypocoristic_Diva_No5, D5,  UI,  0
+Caption_Diva_No5, Songstress,  UI,  0
+Discription_Diva_No5, The latest model in the singing and dancing Diva series of mechs. Serial number D0503.,  UI,  0
+CharaSelect_Diva_No5, The latest model in the Diva series
+of entertainment mechs.,  UI,  0
+CharaName_Dolores, Dolores,  UI,  0
+Hypocoristic_Dolores, Dolores,  UI,  0
+Caption_Dolores, Maid,  UI,  0
+Discription_Dolores, A maid who is intensely loyal to her master, although it is unclear who that might be.,  UI,  0
+CharaName_Boudica, Boudica,  UI,  0
+Hypocoristic_Boudica, Boudica,  UI,  0
+Caption_Boudica, Chief of a Fallen Tribe,  UI,  0
+Discription_Boudica, Displayed for Boudica.,  UI,  0
+CharaName_Constantine, Constantine,  UI,  0
+Hypocoristic_Constantine, Constantine,  UI,  0
+Caption_Constantine, National Extradimensional Exploratory Task Force Commander,  UI,  0
+Discription_Constantine, Displayed for Constantine.,  UI,  0
+CharaName_General_Einherjar, General,  UI,  0
+Hypocoristic_General_Einherjar, General,  UI,  0
+Caption_General_Einherjar, Unconquerable,  UI,  0
+Discription_General_Einherjar, Commander of a warrior band called the Generals.,  UI,  0
+CharaName_Brave_Einherjar, Hero,  UI,  0
+Hypocoristic_Brave_Einherjar, Hero,  UI,  0
+Caption_Brave_Einherjar, Peach Garden Oathsworn,  UI,  0
+Discription_Brave_Einherjar, De facto leader of a warrior band called the Generals.,  UI,  0
+CharaName_Philosopher_Einherjar, Philosopher,  UI,  0
+Hypocoristic_Philosopher_Einherjar, Philosopher,  UI,  0
+Caption_Philosopher_Einherjar, And Yet, What Exactly <i>Is</i> a Philosopher?,  UI,  0
+Discription_Philosopher_Einherjar, Member of the warrior band called the Generals.,  UI,  0
+CharaName_Killer_Einherjar, Lifetaker,  UI,  0
+Hypocoristic_Killer_Einherjar, Lifetaker,  UI,  0
+Caption_Killer_Einherjar, Your Life Will Be Mine,  UI,  0
+Discription_Killer_Einherjar, Member of the warrior band called the Generals.,  UI,  0
+CharaName_Ilmurran_Einherjar, Warrior,  UI,  0
+Hypocoristic_Ilmurran_Einherjar, Warrior,  UI,  0
+Caption_Ilmurran_Einherjar, Am I a Warrior? Well...Yeah?,  UI,  0
+Discription_Ilmurran_Einherjar, Member of the warrior band called the Generals.,  UI,  0
+CharaName_Champion_Einherjar, Champion,  UI,  0
+Hypocoristic_Champion_Einherjar, Champion,  UI,  0
+Caption_Champion_Einherjar, Train Yourself for Greater Glory,  UI,  0
+Discription_Champion_Einherjar, Member of the warrior band called the Generals.,  UI,  0
+CharaName_Meow_Cat, Meow,  UI,  0
+Hypocoristic_Meow_Cat, Meow,  UI,  0
+Caption_Meow_Cat, Feline Great Beast,  UI,  0
+Discription_Meow_Cat, A wild beast that resembles a cat.,  UI,  0
+CharaName_Purr_Cat, Purr,  UI,  0
+Hypocoristic_Purr_Cat, Purr,  UI,  0
+Caption_Purr_Cat, Feline Great Beast,  UI,  0
+Discription_Purr_Cat, A wild beast that resembles a cat.,  UI,  0
+CharaName_Hiss_Cat, Hiss,  UI,  0
+Hypocoristic_Hiss_Cat, Hiss,  UI,  0
+Caption_Hiss_Cat, Feline Great Beast,  UI,  0
+Discription_Hiss_Cat, A wild beast that resembles a cat.,  UI,  0
+CharaName_Blath, Bláth,  UI,  0
+Hypocoristic_Blath, Bláth,  UI,  0
+Caption_Blath, Plant-Type Ephemeral,  UI,  0
+Discription_Blath, A plant-type ephemeral of unknown origin.,  UI,  0
+CharaName_Wednesday, Wednesday,  UI,  0
+Hypocoristic_Wednesday, Wednesday,  UI,  0
+Caption_Wednesday, Armored Warrior,  UI,  0
+Discription_Wednesday, A warrior covered from head to toe in battle armor.,  UI,  0
+CharaName_BLANK_NAME,  ,  UI,  0
+Hypocoristic_BLANK_NAME,  ,  UI,  0
+Caption_BLANK_NAME, 　,  UI,  0
+Discription_BLANK_NAME, For blank displays.,  UI,  0
+CharaName_Unknown_Person, Mysterious Person,  UI,  0
+Hypocoristic_Unknown_Person, Mysterious Person,  UI,  0
+Caption_Unknown_Person, 　,  UI,  0
+Discription_Unknown_Person, Displayed for Mysterious Person.,  UI,  0
+CharaName_Strange_Person, Suspicious Person,  UI,  0
+Hypocoristic_Strange_Person, Suspicious Person,  UI,  0
+Caption_Strange_Person, 　,  UI,  0
+Discription_Strange_Person, Displayed for Suspicious Person.,  UI,  0
+CharaName_Familiar_Voice, Familiar Voice,  UI,  0
+Hypocoristic_Familiar_Voice, Familiar Voice,  UI,  0
+Caption_Familiar_Voice, 　,  UI,  0
+Discription_Familiar_Voice, Displayed for Familiar Voice.,  UI,  0
+CharaName_Memorable_Voice, Memorable Voice,  UI,  0
+Hypocoristic_Memorable_Voice, Memorable Voice,  UI,  0
+Caption_Memorable_Voice, 　,  UI,  0
+Discription_Memorable_Voice, Displayed for Memorable Voice.,  UI,  0
+CharaName_Enemy_Figure, Suspicious Figure,  UI,  0
+Hypocoristic_Enemy_Figure, Suspicious Figure,  UI,  0
+Caption_Enemy_Figure, 　,  UI,  0
+Discription_Enemy_Figure, Displayed for enemies such as monsters. Please use it as a general name.,  UI,  0
+CharaName_Enemy_Figure2, Watchful Fiend,  UI,  0
+Hypocoristic_Enemy_Figure2, Watchful Fiend,  UI,  0
+Caption_Enemy_Figure2, 　,  UI,  0
+Discription_Enemy_Figure2, Displayed for enemies such as monsters when they're lying in wait.,  UI,  0
+CharaName_Information_Staff, Receptionist,  UI,  0
+Hypocoristic_Information_Staff, Receptionist,  UI,  0
+Caption_Information_Staff, 　,  UI,  0
+Discription_Information_Staff, Receptionist.,  UI,  0
+CharaName_Man_Overworld, Man from the Heavens,  UI,  0
+Hypocoristic_Man_Overworld, Man from the Heavens,  UI,  0
+Caption_Man_Overworld, 　,  UI,  0
+Discription_Man_Overworld, A man met in the Heavens. Clearly a boss character.,  UI,  0
+CharaName_Man_Overworld_Cyber, Quisstatium,  UI,  0
+Hypocoristic_Man_Overworld_Cyber, Man from the Heavens,  UI,  0
+Caption_Man_Overworld_Cyber, 　,  UI,  0
+Discription_Man_Overworld_Cyber, A man met in the Heavens. Clearly a boss character.,  UI,  0
+CharaName_CR_Slime, Mysterious Creature,  UI,  0
+Hypocoristic_CR_Slime, Mysterious Creature,  UI,  0
+Caption_CR_Slime, 　,  UI,  0
+Discription_CR_Slime, A mysterious being that inhabits a mysterious space.,  UI,  0
+CharaName_Cathedral_Officer, Administrator,  UI,  0
+Hypocoristic_Cathedral_Officer, Administrator,  UI,  0
+Caption_Cathedral_Officer, 　,  UI,  0
+CharaName_Tadamichi_Mido, Tadamichi Mido,  UI,  0
+Hypocoristic_Tadamichi_Mido, Tadamichi Mido,  UI,  0
+Caption_Tadamichi_Mido, 　,  UI,  0
+Discription_Tadamichi_Mido, Tsunanori's uncle.,  UI,  0
+CharaName_Masatsuna_Mido, Masatsuna Mido,  UI,  0
+Hypocoristic_Masatsuna_Mido, Masatsuna Mido,  UI,  0
+Caption_Masatsuna_Mido, 　,  UI,  0
+Discription_Masatsuna_Mido, Tsunanori's father.,  UI,  0
+CharaName_Tadako_Mido, Tadako Mido,  UI,  0
+Hypocoristic_Tadako_Mido, Tadako Mido,  UI,  0
+Caption_Tadako_Mido, 　,  UI,  0
+Discription_Tadako_Mido, Tsunanori's mother.,  UI,  0
+CharaName_Tomoko_Mido, Tomoko Mido,  UI,  0
+Hypocoristic_Tomoko_Mido, Tomoko Mido,  UI,  0
+Caption_Tomoko_Mido, 　,  UI,  0
+Discription_Tomoko_Mido, Tsunanori's little sister. Currently attending high school.,  UI,  0
+CharaName_Friend_Tomoko, Tomoko's Friends,  UI,  0
+Hypocoristic_Friend_Tomoko, Tomoko's Friends,  UI,  0
+Caption_Friend_Tomoko, 　,  UI,  0
+Discription_Friend_Tomoko, Tomoko Mido's friends.,  UI,  0
+CharaName_Child_Neighbor, Local Child,  UI,  0
+Hypocoristic_Child_Neighbor, Local Child,  UI,  0
+Caption_Child_Neighbor, 　,  UI,  0
+Discription_Child_Neighbor, Displayed for non-specific children.,  UI,  0
+CharaName_Yumeha_Izumi, Yumeha Izumi,  UI,  0
+Hypocoristic_Yumeha_Izumi, Yumeha,  UI,  0
+Caption_Yumeha_Izumi, 　,  UI,  0
+Discription_Yumeha_Izumi, Keihoku Elementary School student.,  UI,  0
+CharaName_LoLo, LoLo,  UI,  0
+Hypocoristic_LoLo, LoLo,  UI,  0
+Caption_LoLo, Familiar,  UI,  0
+Discription_LoLo, Ameya's cat familiar.,  UI,  0
+CharaName_LoLo_Battle, LoLo,  UI,  0
+Hypocoristic_LoLo_Battle, LoLo,  UI,  0
+Caption_LoLo_Battle, Familiar,  UI,  0
+Discription_LoLo_Battle, Ameya's cat familiar.,  UI,  0
+CharaName_Akane_Erisawa, Akane Erisawa,  UI,  0
+Hypocoristic_Akane_Erisawa, Ms. Erisawa,  UI,  0
+Caption_Akane_Erisawa, 　,  UI,  0
+Discription_Akane_Erisawa, Teacher at Keihoku Elementary School.,  UI,  0
+CharaName_Ren_Tutuki, Ren Tsutsuki,  UI,  0
+Hypocoristic_Ren_Tutuki, Ren,  UI,  0
+Caption_Ren_Tutuki, 　,  UI,  0
+Discription_Ren_Tutuki, Student at Keihoku Elementary School.,  UI,  0
+CharaName_Kentarou_Yanagibi, Kentaro Yanagibi,  UI,  0
+Hypocoristic_Kentarou_Yanagibi, Kentaro,  UI,  0
+Caption_Kentarou_Yanagibi, 　,  UI,  0
+Discription_Kentarou_Yanagibi, Student at Keihoku Elementary School.,  UI,  0
+CharaName_Haruna_Kaneto, Haruna Kaneto,  UI,  0
+Hypocoristic_Haruna_Kaneto, Haruna,  UI,  0
+Caption_Haruna_Kaneto, 　,  UI,  0
+Discription_Haruna_Kaneto, Student at Keihoku Elementary School. Leader of the girls in her class.,  UI,  0
+CharaName_Kotoha_Shimoya, Kotoha Shimoya,  UI,  0
+Hypocoristic_Kotoha_Shimoya, Kotoha,  UI,  0
+Caption_Kotoha_Shimoya, 　,  UI,  0
+Discription_Kotoha_Shimoya, Student at Keihoku Elementary School.,  UI,  0
+CharaName_Yuzuki_Nakatu, Yuzuki Nakatsu,  UI,  0
+Hypocoristic_Yuzuki_Nakatu, Yuzuki,  UI,  0
+Caption_Yuzuki_Nakatu, 　,  UI,  0
+Discription_Yuzuki_Nakatu, Student at Keihoku Elementary School.,  UI,  0
+CharaName_Macha, Macha,  UI,  0
+Hypocoristic_Macha, Macha,  UI,  0
+Caption_Macha, 　,  UI,  0
+Discription_Macha, A mysterious being who claims to be the Goddess of Sorcery.,  UI,  0
+CharaName_Macha_Copy, Macha (Copy),  UI,  0
+Hypocoristic_Macha_Copy, Macha (Copy),  UI,  0
+Caption_Macha_Copy, Goddess of Sorcery,  UI,  0
+Discription_Macha_Copy, A mysterious being who claims to be a copy of the Goddess of Sorcery.,  UI,  0
+CharaName_Shinobu_Kato, Shinobu Kato,  UI,  0
+Hypocoristic_Shinobu_Kato, Shinobu Kato,  UI,  0
+Caption_Shinobu_Kato, Squire of Pulchra,  UI,  0
+Discription_Shinobu_Kato, Squire number 15413837. Goes by Shinobu Kato in Miyako City.,  UI,  0
+CharaName_Squire15413837, Squire 15413837,  UI,  0
+Hypocoristic_Squire15413837, Squire 15413837,  UI,  0
+Caption_Squire15413837, Squire of Pulchra,  UI,  0
+Discription_Squire15413837, Squire number 15413837. Goes by Shinobu Kato in Miyako City.,  UI,  0
+CharaName_Kaoruko_Hachijo, Kaoruko Hachijo,  UI,  0
+Hypocoristic_Kaoruko_Hachijo, Kaoruko Hachijo,  UI,  0
+Caption_Kaoruko_Hachijo, 　,  UI,  0
+Discription_Kaoruko_Hachijo, Student at Rakugaku Academy.,  UI,  0
+CharaName_Naomi_Waka, Naomi Waka,  UI,  0
+Hypocoristic_Naomi_Waka, Naomi,  UI,  0
+Caption_Naomi_Waka, Young Lady of Konan,  UI,  0
+Discription_Naomi_Waka, Student at Miyako Imperial University. She is one grade beneath Tsunanori.,  UI,  0
+CharaName_Asahi_Sayota, Asahi Sayota,  UI,  0
+Hypocoristic_Asahi_Sayota, Asahi,  UI,  0
+Caption_Asahi_Sayota, 　,  UI,  0
+Discription_Asahi_Sayota, Tsunanori's childhood friend. He is one grade beneath Tsunanori due to failing his entrance exams the first time.,  UI,  0
+CharaName_Tourist_Woman, Tourist,  UI,  0
+Hypocoristic_Tourist_Woman, Tourist,  UI,  0
+Caption_Tourist_Woman, 　,  UI,  0
+Discription_Tourist_Woman, Tourist.,  UI,  0
+CharaName_Nigel_Patriot, Suspicious Person,  UI,  0
+Hypocoristic_Nigel_Patriot, Suspicious Person,  UI,  0
+Caption_Nigel_Patriot, 　,  UI,  0
+Discription_Nigel_Patriot, Nigel Patriot,  UI,  0
+CharaName_Ume_YoungerSister, Ume,  UI,  0
+Hypocoristic_Ume_YoungerSister, Ume,  UI,  0
+Caption_Ume_YoungerSister, 　,  UI,  0
+Discription_Ume_YoungerSister, One of the Miyako Rail sisters.,  UI,  0
+CharaName_Matsu_OlderSister, Matsu,  UI,  0
+Hypocoristic_Matsu_OlderSister, Matsu,  UI,  0
+Caption_Matsu_OlderSister, 　,  UI,  0
+Discription_Matsu_OlderSister, One of the Miyako Rail sisters.,  UI,  0
+CharaName_Take_MiddleSister, Take,  UI,  0
+Hypocoristic_Take_MiddleSister, Take,  UI,  0
+Caption_Take_MiddleSister, 　,  UI,  0
+Discription_Take_MiddleSister, One of the Miyako Rail sisters.,  UI,  0
+CharaName_Ranko_Nitomura, Ranko Nitomura,  UI,  0
+Hypocoristic_Ranko_Nitomura, Ms. Nitomura,  UI,  0
+Caption_Ranko_Nitomura, 　,  UI,  0
+Discription_Ranko_Nitomura, Receptionist at the Miyako Theater. Was classmates with Akane Erisawa at the Miyako University of Music.,  UI,  0
+CharaName_Koutarou_Yanagibi, Kind Older Man,  UI,  0
+Hypocoristic_Koutarou_Yanagibi, Kotaro Yanagibi,  UI,  0
+Caption_Koutarou_Yanagibi, 　,  UI,  0
+Discription_Koutarou_Yanagibi, The person inside the costume. Kentaro's father.,  UI,  0
+CharaName_Mascot_Mall, Spendy McBigbucks,  UI,  0
+Hypocoristic_Mascot_Mall, Spendy McBigbucks,  UI,  0
+Caption_Mascot_Mall, 　,  UI,  0
+Discription_Mascot_Mall, Sequoia Mall's mascot.,  UI,  0
+CharaName_Sophia_Beniike, Sophia Beniike,  UI,  0
+Hypocoristic_Sophia_Beniike, Sophia,  UI,  0
+Caption_Sophia_Beniike, 　,  UI,  0
+Discription_Sophia_Beniike, Student at Rakugaku Academy.,  UI,  0
+CharaName_Friend_Tsunanori, Pal,  UI,  0
+Hypocoristic_Friend_Tsunanori, Pal,  UI,  0
+Caption_Friend_Tsunanori, 　,  UI,  0
+Discription_Friend_Tsunanori, Character names for friends used a bit in cutscenes.,  UI,  0
+CharaName_Interior_Officer, Domestic Affairs Officer,  UI,  0
+Hypocoristic_Interior_Officer, Officer,  UI,  0
+Caption_Interior_Officer, 　,  UI,  0
+Discription_Interior_Officer, Domestic Affairs Officer.,  UI,  0
+CharaName_Mother_Izumi, Yumeha's Mother,  UI,  0
+Hypocoristic_Mother_Izumi, Yumeha's Mother,  UI,  0
+Caption_Mother_Izumi, 　,  UI,  0
+Discription_Mother_Izumi, Yumeha's mother and former apprentice witch.,  UI,  0
+CharaName_Stuffed_Bird, Taxidermy Bird,  UI,  0
+Hypocoristic_Stuffed_Bird, Taxidermy,  UI,  0
+Caption_Stuffed_Bird, 　,  UI,  0
+Discription_Stuffed_Bird, Taxidermy.,  UI,  0
+CharaName_Guard_Dog, Komainu,  UI,  0
+Hypocoristic_Guard_Dog, Komainu,  UI,  0
+Caption_Guard_Dog, 　,  UI,  0
+Discription_Guard_Dog, Komainu.,  UI,  0
+CharaName_Ooike_Frog, Giant Frog,  UI,  0
+Hypocoristic_Ooike_Frog, Giant Frog,  UI,  0
+Caption_Ooike_Frog, 　,  UI,  0
+Discription_Ooike_Frog, Giant Frog.,  UI,  0
+CharaName_PetOfRen, Ren's Pet,  UI,  0
+Hypocoristic_PetOfRen, Ren's Pet,  UI,  0
+Caption_PetOfRen, 　,  UI,  0
+Discription_PetOfRen, Ren's pet.,  UI,  0
+CharaName_MaterOfPollen, Pollen Prince,  UI,  0
+Hypocoristic_MaterOfPollen, Pollen Prince,  UI,  0
+Caption_MaterOfPollen, 　,  UI,  0
+Discription_MaterOfPollen, Pollen Prince.,  UI,  0
+CharaName_GameOfCat, Cat's Prey,  UI,  0
+Hypocoristic_GameOfCat, Cat's Prey,  UI,  0
+Caption_GameOfCat, 　,  UI,  0
+Discription_GameOfCat, Cat's prey.,  UI,  0
+CharaName_Ameya_Cat, Cat,  UI,  0
+Hypocoristic_Ameya_Cat, Cat,  UI,  0
+Caption_Ameya_Cat, 　,  UI,  0
+Discription_Ameya_Cat, Cat.,  UI,  0
+CharaName_ArchWitch, Arch Witch,  UI,  0
+Hypocoristic_ArchWitch, Arch Witch,  UI,  0
+Caption_ArchWitch, 　,  UI,  0
+Discription_ArchWitch, She who stands at the apex of the witching world of Pulchra.,  UI,  0
+CharaName_RedWiseWitch, Red Sage,  UI,  0
+Hypocoristic_RedWiseWitch, Red Sage,  UI,  0
+Caption_RedWiseWitch, 　,  UI,  0
+Discription_RedWiseWitch, One of the Five Sages.,  UI,  0
+CharaName_BlueWiseWitch, Blue Sage,  UI,  0
+Hypocoristic_BlueWiseWitch, Blue Sage,  UI,  0
+Caption_BlueWiseWitch, 　,  UI,  0
+Discription_BlueWiseWitch, One of the Five Sages.,  UI,  0
+CharaName_YellowWiseWitch, Yellow Sage,  UI,  0
+Hypocoristic_YellowWiseWitch, Yellow Sage,  UI,  0
+Caption_YellowWiseWitch, 　,  UI,  0
+Discription_YellowWiseWitch, One of the Five Sages.,  UI,  0
+CharaName_WhiteWiseWitch, White Sage,  UI,  0
+Hypocoristic_WhiteWiseWitch, White Sage,  UI,  0
+Caption_WhiteWiseWitch, 　,  UI,  0
+Discription_WhiteWiseWitch, One of the Five Sages.,  UI,  0
+CharaName_BlackWiseWitch, Black Sage,  UI,  0
+Hypocoristic_BlackWiseWitch, Black Sage,  UI,  0
+Caption_BlackWiseWitch, 　,  UI,  0
+Discription_BlackWiseWitch, One of the Five Sages.,  UI,  0
+CharaName_RedWitchNormal, Resolute Red Witch,  UI,  0
+Hypocoristic_RedWitchNormal, Red Witch,  UI,  0
+Caption_RedWitchNormal, 　,  UI,  0
+Discription_RedWitchNormal, A regular red witch.,  UI,  0
+CharaName_BlueWitchNormal, Resolute Blue Witch,  UI,  0
+Hypocoristic_BlueWitchNormal, Blue Witch,  UI,  0
+Caption_BlueWitchNormal, 　,  UI,  0
+Discription_BlueWitchNormal, A regular blue witch.,  UI,  0
+CharaName_YellowWitchNormal, Resolute Yellow Witch,  UI,  0
+Hypocoristic_YellowWitchNormal, Yellow Witch,  UI,  0
+Caption_YellowWitchNormal, 　,  UI,  0
+Discription_YellowWitchNormal, A regular yellow witch.,  UI,  0
+CharaName_WhiteWitchNormal, Resolute White Witch,  UI,  0
+Hypocoristic_WhiteWitchNormal, White Witch,  UI,  0
+Caption_WhiteWitchNormal, 　,  UI,  0
+Discription_WhiteWitchNormal, A regular white witch.,  UI,  0
+CharaName_BlackWitchNormal, Resolute Black Witch,  UI,  0
+Hypocoristic_BlackWitchNormal, Black Witch,  UI,  0
+Caption_BlackWitchNormal, 　,  UI,  0
+Discription_BlackWitchNormal, A regular black witch.,  UI,  0
+CharaName_RedWitchOrchid, Red Orchid the Witch,  UI,  0
+Hypocoristic_RedWitchOrchid, Red Orchid,  UI,  0
+Caption_RedWitchOrchid, 　,  UI,  0
+Discription_RedWitchOrchid, Red Orchid.,  UI,  0
+CharaName_YellowWitchWillma, Willma the Yellow Witch,  UI,  0
+Hypocoristic_YellowWitchWillma, Willma,  UI,  0
+Caption_YellowWitchWillma, Yellow Witch,  UI,  0
+Discription_YellowWitchWillma, Willma.,  UI,  0
+CharaName_BlackWitchGrete, Grete the Black Witch,  UI,  0
+Hypocoristic_BlackWitchGrete, Grete,  UI,  0
+Caption_BlackWitchGrete, 　,  UI,  0
+Discription_BlackWitchGrete, Grete.,  UI,  0
+CharaName_Familiar_Pierre, Pierre the Familiar,  UI,  0
+Hypocoristic_Familiar_Pierre, Pierre,  UI,  0
+Caption_Familiar_Pierre, 　,  UI,  0
+Discription_Familiar_Pierre, Lita's familiar.,  UI,  0
+CharaName_SquireAssasin, Red Squire,  UI,  0
+Hypocoristic_SquireAssasin, Red Squire,  UI,  0
+Caption_SquireAssasin, Assassin,  UI,  0
+Discription_SquireAssasin, Assassin and squire of the red.,  UI,  0
+CharaName_SquireFake1, Trustworthy Squire,  UI,  0
+Hypocoristic_SquireFake1, Trustworthy Squire,  UI,  0
+Caption_SquireFake1, 　,  UI,  0
+Discription_SquireFake1, A fake squire.,  UI,  0
+CharaName_SquireFake2, Arrogant Squire,  UI,  0
+Hypocoristic_SquireFake2, Arrogant Squire,  UI,  0
+Caption_SquireFake2, 　,  UI,  0
+Discription_SquireFake2, A fake squire.,  UI,  0
+CharaName_SquireFake3, Resurrected Squire,  UI,  0
+Hypocoristic_SquireFake3, Resurrected Squire,  UI,  0
+Caption_SquireFake3, 　,  UI,  0
+Discription_SquireFake3, The fake ghost of a fake squire.,  UI,  0
+CharaName_WhiteWitch1, Bullish White Witch,  UI,  0
+Hypocoristic_WhiteWitch1, Bullish White Witch,  UI,  0
+Caption_WhiteWitch1, 　,  UI,  0
+Discription_WhiteWitch1, A regular white witch.,  UI,  0
+CharaName_WhiteWitch2, Cheerful White Witch,  UI,  0
+Hypocoristic_WhiteWitch2, Cheerful White Witch,  UI,  0
+Caption_WhiteWitch2, 　,  UI,  0
+Discription_WhiteWitch2, A regular white witch.,  UI,  0
+CharaName_RedWitch, Red Witch,  UI,  0
+Hypocoristic_RedWitch, Red Witch,  UI,  0
+Caption_RedWitch, 　,  UI,  0
+Discription_RedWitch, A red witch.,  UI,  0
+CharaName_BlueWitch, Blue Witch,  UI,  0
+Hypocoristic_BlueWitch, Blue Witch,  UI,  0
+Caption_BlueWitch, 　,  UI,  0
+Discription_BlueWitch, A blue witch.,  UI,  0
+CharaName_YellowWitch, Yellow Witch,  UI,  0
+Hypocoristic_YellowWitch, Yellow Witch,  UI,  0
+Caption_YellowWitch, 　,  UI,  0
+Discription_YellowWitch, A yellow witch.,  UI,  0
+CharaName_WhiteWitch, White Witch,  UI,  0
+Hypocoristic_WhiteWitch, White Witch,  UI,  0
+Caption_WhiteWitch, 　,  UI,  0
+Discription_WhiteWitch, A white witch.,  UI,  0
+CharaName_BlackWitch, Black Witch,  UI,  0
+Hypocoristic_BlackWitch, Black Witch,  UI,  0
+Caption_BlackWitch, 　,  UI,  0
+Discription_BlackWitch, A black witch.,  UI,  0
+CharaName_OldMirror, Old Mirror,  UI,  0
+Hypocoristic_OldMirror, Old Mirror,  UI,  0
+Caption_OldMirror, 　,  UI,  0
+Discription_OldMirror, An old mirror.,  UI,  0
+CharaName_Lita_Pierre, Pierre-Turned-Lita,  UI,  0
+Hypocoristic_Lita_Pierre, Pierre-Turned-Lita,  UI,  0
+Caption_Lita_Pierre, 　,  UI,  0
+Discription_Lita_Pierre, Lita's familiar.,  UI,  0
+CharaName_Pierre_Lita, Lita-Turned-Pierre,  UI,  0
+Hypocoristic_Pierre_Lita, Lita-Turned-Pierre,  UI,  0
+Caption_Pierre_Lita, 　,  UI,  0
+Discription_Pierre_Lita, Lita's familiar.,  UI,  0
+CharaName_Lady_Pride, Warden of Pride,  UI,  0
+Hypocoristic_Lady_Pride, Warden of Pride,  UI,  0
+Caption_Lady_Pride, 　,  UI,  0
+Discription_Lady_Pride, Lord of the lost Watchtower of Pride.,  UI,  0
+CharaName_Lord_Gluttony, Warden of Gluttony,  UI,  0
+Hypocoristic_Lord_Gluttony, Warden of Gluttony,  UI,  0
+Caption_Lord_Gluttony, 　,  UI,  0
+Discription_Lord_Gluttony, Lord of the Watchtower of Gluttony.,  UI,  0
+CharaName_Lord_Lust, Warden of Lust,  UI,  0
+Hypocoristic_Lord_Lust, Warden of Lust,  UI,  0
+Caption_Lord_Lust, 　,  UI,  0
+Discription_Lord_Lust, Lord of the Watchtower of Lust.,  UI,  0
+CharaName_Lord_Sloth, Warden of Sloth,  UI,  0
+Hypocoristic_Lord_Sloth, Warden of Sloth,  UI,  0
+Caption_Lord_Sloth, 　,  UI,  0
+Discription_Lord_Sloth, Lord of the Watchtower of Sloth.,  UI,  0
+CharaName_Lord_Rage, Warden of Wrath,  UI,  0
+Hypocoristic_Lord_Rage, Warden of Wrath,  UI,  0
+Caption_Lord_Rage, 　,  UI,  0
+Discription_Lord_Rage, Lord of the Watchtower of Wrath.,  UI,  0
+CharaName_Henchman_Gluttony, Servant of Gluttony,  UI,  0
+Hypocoristic_Henchman_Gluttony, Servant of Gluttony,  UI,  0
+Caption_Henchman_Gluttony, 　,  UI,  0
+Discription_Henchman_Gluttony, Servant of Gluttony.,  UI,  0
+CharaName_Henchman_Lust, Servant of Lust,  UI,  0
+Hypocoristic_Henchman_Lust, Servant of Lust,  UI,  0
+Caption_Henchman_Lust, 　,  UI,  0
+Discription_Henchman_Lust, Servant of Lust.,  UI,  0
+CharaName_Henchman_Sloth, Servant of Sloth,  UI,  0
+Hypocoristic_Henchman_Sloth, Servant of Sloth,  UI,  0
+Caption_Henchman_Sloth, 　,  UI,  0
+Discription_Henchman_Sloth, Servant of Sloth.,  UI,  0
+CharaName_Henchman_Rage, Servant of Wrath,  UI,  0
+Hypocoristic_Henchman_Rage, Servant of Wrath,  UI,  0
+Caption_Henchman_Rage, 　,  UI,  0
+Discription_Henchman_Rage, Servant of Wrath.,  UI,  0
+CharaName_Apathetic_Sling, Spiritless Sling,  UI,  0
+Hypocoristic_Apathetic_Sling, Sling,  UI,  0
+Caption_Apathetic_Sling, 　,  UI,  0
+Discription_Apathetic_Sling, Resident of the city of the dead.,  UI,  0
+CharaName_Lazy_Crutch, Idle Crutch,  UI,  0
+Hypocoristic_Lazy_Crutch, Crutch,  UI,  0
+Caption_Lazy_Crutch, 　,  UI,  0
+Discription_Lazy_Crutch, Resident of the city of the dead.,  UI,  0
+CharaName_Reproach_Aconitu, Discontent Aconita,  UI,  0
+Hypocoristic_Reproach_Aconitu, Aconita,  UI,  0
+Caption_Reproach_Aconitu, 　,  UI,  0
+Discription_Reproach_Aconitu, Resident of the city of the dead.,  UI,  0
+CharaName_Imakoo_Werewolf, Imakoo,  UI,  0
+Hypocoristic_Imakoo_Werewolf, Imakoo,  UI,  0
+Caption_Imakoo_Werewolf, Dark Werewolf,  UI,  0
+Discription_Imakoo_Werewolf, A werewolf form Yomi who wishes he could stop being a werewolf.,  UI,  0
+CharaName_Hunter, Hunter,  UI,  0
+Hypocoristic_Hunter, Hunter,  UI,  0
+Caption_Hunter, 　,  UI,  0
+Discription_Hunter, A fiend hunter. There's always someone who has him out on a job hunting fiends.,  UI,  0
+CharaName_Baby_King, Baby,  UI,  0
+Hypocoristic_Baby_King, Baby,  UI,  0
+Caption_Baby_King, 　,  UI,  0
+Discription_Baby_King, The Dismal King's infant form.,  UI,  0
+CharaName_Young_King, Dismal King,  UI,  0
+Hypocoristic_Young_King, Dismal King,  UI,  0
+Caption_Young_King, 　,  UI,  0
+Discription_Young_King, The Dismal King's child form.,  UI,  0
+CharaName_Greedy_Man, Avaricious Man,  UI,  0
+Hypocoristic_Greedy_Man, Avaricious Man,  UI,  0
+Caption_Greedy_Man, 　,  UI,  0
+Discription_Greedy_Man, A thug in Yomi.,  UI,  0
+CharaName_Bloodthirsty_Woman, Bloodthirsty Woman,  UI,  0
+Hypocoristic_Bloodthirsty_Woman, Bloodthirsty Woman,  UI,  0
+Caption_Bloodthirsty_Woman, 　,  UI,  0
+Discription_Bloodthirsty_Woman, A thug in Yomi.,  UI,  0
+CharaName_Ivar, Ivar,  UI,  0
+Hypocoristic_Ivar, Ivar,  UI,  0
+Caption_Ivar, A sailor on the Mare Nostrum.,  UI,  0
+Discription_Ivar, Ivar.,  UI,  0
+CharaName_Azure, Azure,  UI,  0
+Hypocoristic_Azure, Azure,  UI,  0
+Caption_Azure, Guardian of Deus Maris,  UI,  0
+Discription_Azure, Azure.,  UI,  0
+CharaName_Baltasar, Baltasar,  UI,  0
+Hypocoristic_Baltasar, Baltasar,  UI,  0
+Caption_Baltasar, 　,  UI,  0
+Discription_Baltasar, Baltasar.,  UI,  0
+CharaName_Siguld, Sigurd,  UI,  0
+Hypocoristic_Siguld, Sigurd,  UI,  0
+Caption_Siguld, 　,  UI,  0
+Discription_Siguld, Sigurd.,  UI,  0
+CharaName_Carolina, Carolina,  UI,  0
+Hypocoristic_Carolina, Carolina,  UI,  0
+Caption_Carolina, 　,  UI,  0
+Discription_Carolina, Carolina.,  UI,  0
+CharaName_Marine_researcher, Marine Researcher,  UI,  0
+Hypocoristic_Marine_researcher, Marine Researcher,  UI,  0
+Caption_Marine_researcher, 　,  UI,  0
+Discription_Marine_researcher, A marine researcher.,  UI,  0
+CharaName_Architect, Architect,  UI,  0
+Hypocoristic_Architect, Architect,  UI,  0
+Caption_Architect, 　,  UI,  0
+Discription_Architect, Architect.,  UI,  0
+CharaName_Hunny_Architect, Babygirl,  UI,  0
+Hypocoristic_Hunny_Architect, Babygirl,  UI,  0
+Caption_Hunny_Architect, _NOT_SPECIFIED_,  UI,  0
+Discription_Hunny_Architect, Babygirl.,  UI,  0
+CharaName_Shipyardmaster, Shipyard Boss,  UI,  0
+Hypocoristic_Shipyardmaster, Shipyard Boss,  UI,  0
+Caption_Shipyardmaster, 　,  UI,  0
+Discription_Shipyardmaster, Shipyard Boss.,  UI,  0
+CharaName_SouthHarbourmaster, Marena the Southern Harbormaster,  UI,  0
+Hypocoristic_SouthHarbourmaster, Marena the Southern Harbormaster,  UI,  0
+Caption_SouthHarbourmaster, 　,  UI,  0
+Discription_SouthHarbourmaster, Marena the southern harbormaster.,  UI,  0
+CharaName_NorthHarbourmaster, Northern Harbormaster,  UI,  0
+Hypocoristic_NorthHarbourmaster, Northern Harbormaster,  UI,  0
+Caption_NorthHarbourmaster, 　,  UI,  0
+Discription_NorthHarbourmaster, The northern harbormaster.,  UI,  0
+CharaName_Pirate_Acke, Acke the Pirate,  UI,  0
+Hypocoristic_Pirate_Acke, Acke the Pirate,  UI,  0
+Caption_Pirate_Acke, 　,  UI,  0
+Discription_Pirate_Acke, A pirate named Acke.,  UI,  0
+CharaName_Pirate_Britta, Britta the Pirate,  UI,  0
+Hypocoristic_Pirate_Britta, Britta the Pirate,  UI,  0
+Caption_Pirate_Britta, 　,  UI,  0
+Discription_Pirate_Britta, A pirate named Britta.,  UI,  0
+CharaName_Pirate_Dan, Dan the Pirate,  UI,  0
+Hypocoristic_Pirate_Dan, Dan the Pirate,  UI,  0
+Caption_Pirate_Dan, 　,  UI,  0
+Discription_Pirate_Dan, A pirate named Dan.,  UI,  0
+CharaName_Pirate_Gerd, Gerd the Pirate,  UI,  0
+Hypocoristic_Pirate_Gerd, Gerd the Pirate,  UI,  0
+Caption_Pirate_Gerd, 　,  UI,  0
+Discription_Pirate_Gerd, A pirate named Gerd.,  UI,  0
+CharaName_Pirate_Jorgen, Jorgen the Pirate,  UI,  0
+Hypocoristic_Pirate_Jorgen, Jorgen the Pirate,  UI,  0
+Caption_Pirate_Jorgen, 　,  UI,  0
+Discription_Pirate_Jorgen, A pirate named Jorgen.,  UI,  0
+CharaName_Pirate_Leif, Leif the Pirate,  UI,  0
+Hypocoristic_Pirate_Leif, Leif the Pirate,  UI,  0
+Caption_Pirate_Leif, 　,  UI,  0
+Discription_Pirate_Leif, A pirate named Leif.,  UI,  0
+CharaName_Pirate_Nanna, Nanna the Pirate,  UI,  0
+Hypocoristic_Pirate_Nanna, Nanna the Pirate,  UI,  0
+Caption_Pirate_Nanna, 　,  UI,  0
+Discription_Pirate_Nanna, A pirate named Nanna.,  UI,  0
+CharaName_Pirate_Vivi, Vivi the Pirate,  UI,  0
+Hypocoristic_Pirate_Vivi, Vivi the Pirate,  UI,  0
+Caption_Pirate_Vivi, 　,  UI,  0
+Discription_Pirate_Vivi, A pirate named Vivi.,  UI,  0
+CharaName_Scientist, Scientist,  UI,  0
+Hypocoristic_Scientist, Scientist,  UI,  0
+Caption_Scientist, 　,  UI,  0
+Discription_Scientist, Scientist.,  UI,  0
+CharaName_BattleshipCaptain, Captain,  UI,  0
+Hypocoristic_BattleshipCaptain, Captain,  UI,  0
+Caption_BattleshipCaptain, 　,  UI,  0
+Discription_BattleshipCaptain, Captain.,  UI,  0
+CharaName_BattleshipLieutenant, Executive Officer,  UI,  0
+Hypocoristic_BattleshipLieutenant, Executive Officer,  UI,  0
+Caption_BattleshipLieutenant, 　,  UI,  0
+Discription_BattleshipLieutenant, Executive Officer.,  UI,  0
+CharaName_Dark_Merchant, Black Marketeer,  UI,  0
+Hypocoristic_Dark_Merchant, Black Marketeer,  UI,  0
+Caption_Dark_Merchant, 　,  UI,  0
+Discription_Dark_Merchant, Black Marketeer.,  UI,  0
+CharaName_MerchantShipSailor, Crew Member,  UI,  0
+Hypocoristic_MerchantShipSailor, Crew Member,  UI,  0
+Caption_MerchantShipSailor, 　,  UI,  0
+Discription_MerchantShipSailor, Crew Member.,  UI,  0
+CharaName_Parrot, Parrot,  UI,  0
+Hypocoristic_Parrot, Parrot,  UI,  0
+Caption_Parrot, 　,  UI,  0
+Discription_Parrot, Parrot,  UI,  0
+CharaName_Pedro, Pedro,  UI,  0
+Hypocoristic_Pedro, Pedro,  UI,  0
+Caption_Pedro, 　,  UI,  0
+Discription_Pedro, Pedro,  UI,  0
+CharaName_Pirate_Ghost, Ghost Pirate,  UI,  0
+Hypocoristic_Pirate_Ghost, Ghost Pirate,  UI,  0
+Caption_Pirate_Ghost, 　,  UI,  0
+Discription_Pirate_Ghost, Ghost Pirate.,  UI,  0
+CharaName_Shipyardghost, Shipyard Ghost,  UI,  0
+Hypocoristic_Shipyardghost, Shipyard Ghost,  UI,  0
+Caption_Shipyardghost, 　,  UI,  0
+Discription_Shipyardghost, Shipyard Ghost.,  UI,  0
+CharaName_NorthHarbourghost, Northern Harbor Ghost,  UI,  0
+Hypocoristic_NorthHarbourghost, Northern Harbor Ghost,  UI,  0
+Caption_NorthHarbourghost, 　,  UI,  0
+Discription_NorthHarbourghost, Northern Harbor Ghost.,  UI,  0
+CharaName_Protector, Guardian Spirit,  UI,  0
+Hypocoristic_Protector, Guardian Spirit,  UI,  0
+Caption_Protector, 　,  UI,  0
+Discription_Protector, Guardian Spirit.,  UI,  0
+CharaName_Byaku, Byaku,  UI,  0
+Hypocoristic_Byaku, Byaku,  UI,  0
+Caption_Byaku, Priest of the Kosmos,  UI,  0
+Discription_Byaku, Leukocyte.,  UI,  0
+CharaName_Bran, Blan,  UI,  0
+Hypocoristic_Bran, Blan,  UI,  0
+Caption_Bran, 　,  UI,  0
+Discription_Bran, Leukocyte.,  UI,  0
+CharaName_Safed, Safed,  UI,  0
+Hypocoristic_Safed, Safed,  UI,  0
+Caption_Safed, 　,  UI,  0
+Discription_Safed, Leukocyte.,  UI,  0
+CharaName_Valkoinen, Valkoinen,  UI,  0
+Hypocoristic_Valkoinen, Valkoinen,  UI,  0
+Caption_Valkoinen, 　,  UI,  0
+Discription_Valkoinen, Leukocyte.,  UI,  0
+CharaName_Erytheia, Erytheia,  UI,  0
+Hypocoristic_Erytheia, Erytheia,  UI,  0
+Caption_Erytheia, Carrier in the Kosmos,  UI,  0
+Discription_Erytheia, Erythrocyte.,  UI,  0
+CharaName_Evil_Cell, Malignancy,  UI,  0
+Hypocoristic_Evil_Cell, Malignancy,  UI,  0
+Caption_Evil_Cell, 　,  UI,  0
+Discription_Evil_Cell, A malignancy.,  UI,  0
+CharaName_Good_Cell, Benignancy,  UI,  0
+Hypocoristic_Good_Cell, Benignancy,  UI,  0
+Caption_Good_Cell, 　,  UI,  0
+Discription_Good_Cell, A benignancy.,  UI,  0
+CharaName_FirePriest, Priest of Flame,  UI,  0
+Hypocoristic_FirePriest, Priest of Flame,  UI,  0
+Caption_FirePriest, 　,  UI,  0
+Discription_FirePriest, Priest of the Flame Temple.,  UI,  0
+CharaName_WaterPriest, Priest of Wave,  UI,  0
+Hypocoristic_WaterPriest, Priest of Wave,  UI,  0
+Caption_WaterPriest, 　,  UI,  0
+Discription_WaterPriest, Priest of the Wave Temple.,  UI,  0
+CharaName_WindPriest, Priest of Gale,  UI,  0
+Hypocoristic_WindPriest, Priest of Gale,  UI,  0
+Caption_WindPriest, 　,  UI,  0
+Discription_WindPriest, Priest of the Gale Temple.,  UI,  0
+CharaName_WoodsPriest, Priest of Forest,  UI,  0
+Hypocoristic_WoodsPriest, Priest of Forest,  UI,  0
+Caption_WoodsPriest, 　,  UI,  0
+Discription_WoodsPriest, Priest of the Forest Temple.,  UI,  0
+CharaName_Nitram, Nitram,  UI,  0
+Hypocoristic_Nitram, Nitram of the Flame,  UI,  0
+Caption_Nitram, Cinq's Four Tribes,  UI,  0
+Discription_Nitram, Nitram of the Flame Tribe.,  UI,  0
+CharaName_Atihana, Atihana,  UI,  0
+Hypocoristic_Atihana, Atihana of the Wave,  UI,  0
+Caption_Atihana, Cinq's Four Tribes,  UI,  0
+Discription_Atihana, Atihana of the Wave Tribe.,  UI,  0
+CharaName_Nahoj, Nahoj,  UI,  0
+Hypocoristic_Nahoj, Nahoj of the Gale,  UI,  0
+Caption_Nahoj, Cinq's Four Tribes,  UI,  0
+Discription_Nahoj, Nahoj of the Gale Tribe.,  UI,  0
+CharaName_Irbas, Irbas,  UI,  0
+Hypocoristic_Irbas, Irbas of the Forest,  UI,  0
+Caption_Irbas, Cinq's Four Tribes,  UI,  0
+Discription_Irbas, Irbas of the Forest Tribe.,  UI,  0
+CharaName_SoulSprite, Soul Sprite,  UI,  0
+Hypocoristic_SoulSprite, Soul Sprite,  UI,  0
+Caption_SoulSprite, 　,  UI,  0
+Discription_SoulSprite, A soul sprite.,  UI,  0
+CharaName_SoulSprite_Mido, Bag-Like Thing,  UI,  0
+Hypocoristic_SoulSprite_Mido, Paper Bag,  UI,  0
+Caption_SoulSprite_Mido, 　,  UI,  0
+Discription_SoulSprite_Mido, A soul sprite.,  UI,  0
+CharaName_SoulSprite_Ameya, Faerie Friend,  UI,  0
+Hypocoristic_SoulSprite_Ameya, Faerie Friend,  UI,  0
+Caption_SoulSprite_Ameya, 　,  UI,  0
+Discription_SoulSprite_Ameya, A soul sprite.,  UI,  0
+CharaName_SoulSprite_Siugnas, Lesser Spirit,  UI,  0
+Hypocoristic_SoulSprite_Siugnas, Lesser Spirit,  UI,  0
+Caption_SoulSprite_Siugnas, 　,  UI,  0
+Discription_SoulSprite_Siugnas, A soul sprite.,  UI,  0
+CharaName_SoulSprite_Diva, Incalculable Being,  UI,  0
+Hypocoristic_SoulSprite_Diva, Incalculable Being,  UI,  0
+Caption_SoulSprite_Diva, 　,  UI,  0
+Discription_SoulSprite_Diva, A soul sprite.,  UI,  0
+CharaName_SoulSprite_BF, Little Ghost,  UI,  0
+Hypocoristic_SoulSprite_BF, Little Ghost,  UI,  0
+Caption_SoulSprite_BF, 　,  UI,  0
+Discription_SoulSprite_BF, A soul sprite.,  UI,  0
+CharaName_Taupe_Mole, Tope,  UI,  0
+Hypocoristic_Taupe_Mole, Tope,  UI,  0
+Caption_Taupe_Mole, 　,  UI,  0
+Discription_Taupe_Mole, Mr. Mole.,  UI,  0
+CharaName_Koste_Mole, Coste,  UI,  0
+Hypocoristic_Koste_Mole, Coste,  UI,  0
+Caption_Koste_Mole, 　,  UI,  0
+Discription_Koste_Mole, Mrs. Mole.,  UI,  0
+CharaName_Gruman_Mole, Gourmand,  UI,  0
+Hypocoristic_Gruman_Mole, Gourmand,  UI,  0
+Caption_Gruman_Mole, Kuld,  UI,  0
+Discription_Gruman_Mole, Mole Jr.,  UI,  0
+CharaName_Moguo_Mole, Molebert,  UI,  0
+Hypocoristic_Moguo_Mole, Molebert,  UI,  0
+Caption_Moguo_Mole, 　,  UI,  0
+Discription_Moguo_Mole, Older mole.,  UI,  0
+CharaName_Tikus_Mole, Tikus,  UI,  0
+Hypocoristic_Tikus_Mole, Tikus,  UI,  0
+Caption_Tikus_Mole, 　,  UI,  0
+Discription_Tikus_Mole, Elder mole.,  UI,  0
+CharaName_Cordycep_Frog, Dufda,  UI,  0
+Hypocoristic_Cordycep_Frog, Dufda,  UI,  0
+Caption_Cordycep_Frog, 　,  UI,  0
+Discription_Cordycep_Frog, Dufda.,  UI,  0
+CharaName_Cordycep_Ant, Naml,  UI,  0
+Hypocoristic_Cordycep_Ant, Naml,  UI,  0
+Caption_Cordycep_Ant, 　,  UI,  0
+Discription_Cordycep_Ant, Naml.,  UI,  0
+CharaName_Cordycep_Man, Bashar,  UI,  0
+Hypocoristic_Cordycep_Man, Bashar,  UI,  0
+Caption_Cordycep_Man, 　,  UI,  0
+Discription_Cordycep_Man, Bashar.,  UI,  0
+CharaName_EarthMaster, Lord of the Earth,  UI,  0
+Hypocoristic_EarthMaster, Lord of the Earth,  UI,  0
+Caption_EarthMaster, 　,  UI,  0
+Discription_EarthMaster, Lord of the Earth.,  UI,  0
+CharaName_King_Albion, King of Albion,  UI,  0
+Hypocoristic_King_Albion, King of Albion,  UI,  0
+Caption_King_Albion, 　,  UI,  0
+Discription_King_Albion, The king of Albion.,  UI,  0
+CharaName_Queen_Albion, Queen of Albion,  UI,  0
+Hypocoristic_Queen_Albion, Queen of Albion,  UI,  0
+Caption_Queen_Albion, 　,  UI,  0
+Discription_Queen_Albion, The queen of Albion.,  UI,  0
+CharaName_Palace_Guard, Royal Guard,  UI,  0
+Hypocoristic_Palace_Guard, Royal Guard,  UI,  0
+Caption_Palace_Guard, 　,  UI,  0
+Discription_Palace_Guard, A mech minstrel from Avalon.,  UI,  0
+CharaName_Mech_Bard, Minstrel,  UI,  0
+Hypocoristic_Mech_Bard, Minstrel,  UI,  0
+Caption_Mech_Bard, Cylindrical Mech,  UI,  0
+Discription_Mech_Bard, A mech minstrel from Avalon.,  UI,  0
+CharaName_Train_Conductor, Station Staff,  UI,  0
+Hypocoristic_Train_Conductor, Station Staff,  UI,  0
+Caption_Train_Conductor, 　,  UI,  0
+Discription_Train_Conductor, Staff at Avalon Station.,  UI,  0
+CharaName_Grave_Digger, Gravekeeper,  UI,  0
+Hypocoristic_Grave_Digger, Gravekeeper,  UI,  0
+Caption_Grave_Digger, 　,  UI,  0
+Discription_Grave_Digger, Gravekeeper in Avalon.,  UI,  0
+CharaName_Museum_Director, Museum Director,  UI,  0
+Hypocoristic_Museum_Director, Museum Director,  UI,  0
+Caption_Museum_Director, 　,  UI,  0
+Discription_Museum_Director, Director of the Royal Museum in Avalon.,  UI,  0
+CharaName_Police_Inspector, Chief Inspector,  UI,  0
+Hypocoristic_Police_Inspector, Chief Inspector,  UI,  0
+Caption_Police_Inspector, 　,  UI,  0
+Discription_Police_Inspector, Chief inspector with Avalon Yard.,  UI,  0
+CharaName_Store_Customer, Sophisticated Customer,  UI,  0
+Hypocoristic_Store_Customer, Sophisticated Customer,  UI,  0
+Caption_Store_Customer, 　,  UI,  0
+Discription_Store_Customer, Department store customer.,  UI,  0
+CharaName_Avalon_Nurse, Nurse,  UI,  0
+Hypocoristic_Avalon_Nurse, Nurse,  UI,  0
+Caption_Avalon_Nurse, 　,  UI,  0
+Discription_Avalon_Nurse, Nurse.,  UI,  0
+CharaName_Avalon_Gang, Yob,  UI,  0
+Hypocoristic_Avalon_Gang, Yob,  UI,  0
+Caption_Avalon_Gang, 　,  UI,  0
+Discription_Avalon_Gang, Yob.,  UI,  0
+CharaName_Avalon_Shopassistant, Deeps Clerk,  UI,  0
+Hypocoristic_Avalon_Shopassistant, Deeps Clerk,  UI,  0
+Caption_Avalon_Shopassistant, 　,  UI,  0
+Discription_Avalon_Shopassistant, Clerk at Deeps.,  UI,  0
+CharaName_Avalon_Archaeologist, Archaeologist,  UI,  0
+Hypocoristic_Avalon_Archaeologist, Archaeologist,  UI,  0
+Caption_Avalon_Archaeologist, 　,  UI,  0
+Discription_Avalon_Archaeologist, Archaeologist.,  UI,  0
+CharaName_Market_Master, Market Man,  UI,  0
+Hypocoristic_Market_Master, Market Man,  UI,  0
+Caption_Market_Master, 　,  UI,  0
+Discription_Market_Master, Market Man.,  UI,  0
+CharaName_Rich_Noble, Wealthy Noble,  UI,  0
+Hypocoristic_Rich_Noble, Wealthy Noble,  UI,  0
+Caption_Rich_Noble, 　,  UI,  0
+Discription_Rich_Noble, Wealthy Noble.,  UI,  0
+CharaName_Avalon_Doorman, Sorries Clerk,  UI,  0
+Hypocoristic_Avalon_Doorman, Sorries Clerk,  UI,  0
+Caption_Avalon_Doorman, 　,  UI,  0
+Discription_Avalon_Doorman, Clerk at Sorries.,  UI,  0
+CharaName_Clocktowerman, Clock Tower Caretaker,  UI,  0
+Hypocoristic_Clocktowerman, Clock Tower Caretaker,  UI,  0
+Caption_Clocktowerman, 　,  UI,  0
+Discription_Clocktowerman, Clock Tower Caretaker.,  UI,  0
+CharaName_Avalon_Writer, Playwright,  UI,  0
+Hypocoristic_Avalon_Writer, Playwright,  UI,  0
+Caption_Avalon_Writer, 　,  UI,  0
+Discription_Avalon_Writer, Playwright.,  UI,  0
+CharaName_Bartender, Bartender,  UI,  0
+Hypocoristic_Bartender, Bartender,  UI,  0
+Caption_Bartender, 　,  UI,  0
+Discription_Bartender, Bartender.,  UI,  0
+CharaName_Sylvester, Sylvester,  UI,  0
+Hypocoristic_Sylvester, Sylvester,  UI,  0
+Caption_Sylvester, 　,  UI,  0
+Discription_Sylvester, Avalon pickpocket.,  UI,  0
+CharaName_Spear, Inspector Spear,  UI,  0
+Hypocoristic_Spear, Inspector Spear,  UI,  0
+Caption_Spear, Avalon Yard,  UI,  0
+Discription_Spear, Detective inspector with Avalon Yard.,  UI,  0
+CharaName_Lancelot, Lancelot,  UI,  0
+Hypocoristic_Lancelot, Lancelot,  UI,  0
+Caption_Lancelot, Knight of the Round Table,  UI,  0
+Discription_Lancelot, Albion royalty.,  UI,  0
+CharaName_Guinevere, Guinevere,  UI,  0
+Hypocoristic_Guinevere, Guinevere,  UI,  0
+Caption_Guinevere, Queen,  UI,  0
+Discription_Guinevere, Former queen of Albion.,  UI,  0
+CharaName_Utahime, Songstress,  UI,  0
+Hypocoristic_Utahime, Songstress,  UI,  0
+Caption_Utahime, 　,  UI,  0
+Discription_Utahime, Songstress.,  UI,  0
+CharaName_Fan_Utahime, Songstress's Fan,  UI,  0
+Hypocoristic_Fan_Utahime, Songstress's Fan,  UI,  0
+Caption_Fan_Utahime, 　,  UI,  0
+Discription_Fan_Utahime, Fan of the songstress.,  UI,  0
+CharaName_Fan_Mother, Boy's Mother,  UI,  0
+Hypocoristic_Fan_Mother, Boy's Mother,  UI,  0
+Caption_Fan_Mother, 　,  UI,  0
+Discription_Fan_Mother, Fan of the songstress.,  UI,  0
+CharaName_Producer, Producer,  UI,  0
+Hypocoristic_Producer, Producer,  UI,  0
+Caption_Producer, 　,  UI,  0
+Discription_Producer, Producer with the Royal Broadcasting Station.,  UI,  0
+CharaName_Mech_Junk, Broken Mech,  UI,  0
+Hypocoristic_Mech_Junk, Broken Mech,  UI,  0
+Caption_Mech_Junk, 　,  UI,  0
+Discription_Mech_Junk, A broken mech.,  UI,  0
+CharaName_Chief_Manager, Administrative Division Overseer,  UI,  0
+Hypocoristic_Chief_Manager, Administrative Division Overseer,  UI,  0
+Caption_Chief_Manager, 　,  UI,  0
+Discription_Chief_Manager, Overseer of the Administrative Division in Delta Base.,  UI,  0
+CharaName_Connection_Boss, Connectivity Director,  UI,  0
+Hypocoristic_Connection_Boss, Connectivity Director,  UI,  0
+Caption_Connection_Boss, 　,  UI,  0
+Discription_Connection_Boss, Director of the team in charge of connectivity hardware in Delta Base.,  UI,  0
+CharaName_Connection_Operator, Connectivity Technician,  UI,  0
+Hypocoristic_Connection_Operator, Connectivity Technician,  UI,  0
+Caption_Connection_Operator, 　,  UI,  0
+Discription_Connection_Operator, Technician in charge of connectivity hardware in Delta Base.,  UI,  0
+CharaName_Base_Sheriff, Base Security Chief,  UI,  0
+Hypocoristic_Base_Sheriff, Base Security Chief,  UI,  0
+Caption_Base_Sheriff, 　,  UI,  0
+Discription_Base_Sheriff, Chief of security in Delta Base.,  UI,  0
+CharaName_RedTribe_Chief, Red Division Overseer,  UI,  0
+Hypocoristic_RedTribe_Chief, Red Division Overseer,  UI,  0
+Caption_RedTribe_Chief, 　,  UI,  0
+Discription_RedTribe_Chief, Overseer of Red Division, which researches MAGs in Delta Base.,  UI,  0
+CharaName_YellowTribe_Chief, Yellow Division Overseer,  UI,  0
+Hypocoristic_YellowTribe_Chief, Yellow Division Overseer,  UI,  0
+Caption_YellowTribe_Chief, 　,  UI,  0
+Discription_YellowTribe_Chief, Overseer of Yellow Division, which researches culture in Delta Base.,  UI,  0
+CharaName_GreenTribe_Chief, Green Division Overseer,  UI,  0
+Hypocoristic_GreenTribe_Chief, Green Division Overseer,  UI,  0
+Caption_GreenTribe_Chief, 　,  UI,  0
+Discription_GreenTribe_Chief, Overseer of Green Division, which researches life in Delta Base.,  UI,  0
+CharaName_GreenTribe_KuMags, Qu Magis,  UI,  0
+Hypocoristic_GreenTribe_KuMags, Mags,  UI,  0
+Caption_GreenTribe_KuMags, 　,  UI,  0
+Discription_GreenTribe_KuMags, Green Division member. Quite scatterbrained and a bit of a chatterbox.,  UI,  0
+CharaName_GreenTribe_ScholarI, I Ne the Green Division Researcher,  UI,  0
+Hypocoristic_GreenTribe_ScholarI, Ne,  UI,  0
+Caption_GreenTribe_ScholarI, 　,  UI,  0
+Discription_GreenTribe_ScholarI, Green Division researcher.,  UI,  0
+CharaName_Creature_303, Rogue Species 303,  UI,  0
+Hypocoristic_Creature_303, Rogue Species 303,  UI,  0
+Caption_Creature_303, 　,  UI,  0
+Discription_Creature_303, An amalgamated life-form created in a Green Division experiment.,  UI,  0
+CharaName_RedTribe_ShiKat, Shi Kat,  UI,  0
+Hypocoristic_RedTribe_ShiKat, Shi Kat,  UI,  0
+Caption_RedTribe_ShiKat, 　,  UI,  0
+Discription_RedTribe_ShiKat, Red Division member. It is unclear why an insectoid like him is in Delta Base.,  UI,  0
+CharaName_RedTribe_SoldierZ, Zoff the Red Division Combatant,  UI,  0
+Hypocoristic_RedTribe_SoldierZ, Zoff,  UI,  0
+Caption_RedTribe_SoldierZ, 　,  UI,  0
+Discription_RedTribe_SoldierZ, Red Division combatant.,  UI,  0
+CharaName_RedTribe_SoldierY, Yami the Red Division Combatant,  UI,  0
+Hypocoristic_RedTribe_SoldierY, Yami,  UI,  0
+Caption_RedTribe_SoldierY, 　,  UI,  0
+Discription_RedTribe_SoldierY, Red Division combatant.,  UI,  0
+CharaName_RedTribe_SoldierX, Javier the Red Division Combatant,  UI,  0
+Hypocoristic_RedTribe_SoldierX, Javier,  UI,  0
+Caption_RedTribe_SoldierX, 　,  UI,  0
+Discription_RedTribe_SoldierX, Red Division combatant.,  UI,  0
+CharaName_RedTribe_440, Beast King,  UI,  0
+Hypocoristic_RedTribe_440, Beast King,  UI,  0
+Caption_RedTribe_440, 　,  UI,  0
+Discription_RedTribe_440, A Red Division combatant known as the Beast King.,  UI,  0
+CharaName_YellowTribe_Bean, Bean Model-8,  UI,  0
+Hypocoristic_YellowTribe_Bean, Bean,  UI,  0
+Caption_YellowTribe_Bean, 　,  UI,  0
+Discription_YellowTribe_Bean, Yellow Division member on assignment from the Administrative Division.,  UI,  0
+CharaName_YellowTribe_FellowC, Cooke the Yellow Division Researcher,  UI,  0
+Hypocoristic_YellowTribe_FellowC, Cooke,  UI,  0
+Caption_YellowTribe_FellowC, 　,  UI,  0
+Discription_YellowTribe_FellowC, Yellow Division researcher.,  UI,  0
+CharaName_YellowTribe_FellowD, Deborah the Yellow Division Researcher,  UI,  0
+Hypocoristic_YellowTribe_FellowD, Deborah,  UI,  0
+Caption_YellowTribe_FellowD, 　,  UI,  0
+Discription_YellowTribe_FellowD, Yellow Division researcher.,  UI,  0
+CharaName_YellowTribe_FellowE, Edgar the Yellow Division Researcher,  UI,  0
+Hypocoristic_YellowTribe_FellowE, Edgar,  UI,  0
+Caption_YellowTribe_FellowE, 　,  UI,  0
+Discription_YellowTribe_FellowE, Yellow Division researcher.,  UI,  0
+CharaName_Orichalcum_Body, Orichalcum Skeletal Specimen,  UI,  0
+Hypocoristic_Orichalcum_Body, Skeletal Specimen,  UI,  0
+Caption_Orichalcum_Body, 　,  UI,  0
+Discription_Orichalcum_Body, Orichalcum Skeletal Specimen.,  UI,  0
+CharaName_Gold_SubManager, Administrator Gold,  UI,  0
+Hypocoristic_Gold_SubManager, Administrator Gold,  UI,  0
+Caption_Gold_SubManager, Vehicular Mech,  UI,  0
+Discription_Gold_SubManager, Senior staff in Delta Base's Administrative Division.,  UI,  0
+CharaName_Dictyostelium, Slime Mold,  UI,  0
+Hypocoristic_Dictyostelium, Slime Mold,  UI,  0
+Caption_Dictyostelium, 　,  UI,  0
+Discription_Dictyostelium, Proliferating cells discovered in Delta Base.,  UI,  0
+CharaName_Tsuchinoko, Tsuchinoko,  UI,  0
+Hypocoristic_Tsuchinoko, Tsuchinoko,  UI,  0
+Caption_Tsuchinoko, 　,  UI,  0
+Discription_Tsuchinoko, Au unknown lifeform discovered in Delta Base.,  UI,  0
+CharaName_Spriggan, Spriggan,  UI,  0
+Hypocoristic_Spriggan, Spriggan,  UI,  0
+Caption_Spriggan, 　,  UI,  0
+Discription_Spriggan, A ravenous plant discovered in Delta Base.,  UI,  0
+CharaName_Monofido, Monophid,  UI,  0
+Hypocoristic_Monofido, Monophid,  UI,  0
+Caption_Monofido, 　,  UI,  0
+Discription_Monofido, A screaming plant discovered in Delta Base.,  UI,  0
+CharaName_Vagrant, Mysterious Person,  UI,  0
+Hypocoristic_Vagrant, Mysterious Person,  UI,  0
+Caption_Vagrant, 　,  UI,  0
+Discription_Vagrant, An alien discovered in Delta Base.,  UI,  0
+CharaName_Lela, Lela,  UI,  0
+Hypocoristic_Lela, Lela,  UI,  0
+Caption_Lela, 　,  UI,  0
+Discription_Lela, An Imeru girl chosen to become the Maiden of the Epuyke.,  UI,  0
+CharaName_Mother_Lela, Lela's Mother,  UI,  0
+Hypocoristic_Mother_Lela, Lela's Mother,  UI,  0
+Caption_Mother_Lela, 　,  UI,  0
+Discription_Mother_Lela, Lela's mother.,  UI,  0
+CharaName_Tyupu, Chup,  UI,  0
+Hypocoristic_Tyupu, Chup,  UI,  0
+Caption_Tyupu, 　,  UI,  0
+Discription_Tyupu, An Imeru girl chosen to become the Maiden of the Epuyke.,  UI,  0
+CharaName_Kupu, Kup,  UI,  0
+Hypocoristic_Kupu, Kup,  UI,  0
+Caption_Kupu, 　,  UI,  0
+Discription_Kupu, Chup's younger sister.,  UI,  0
+CharaName_Nana, Nana,  UI,  0
+Hypocoristic_Nana, Nana,  UI,  0
+Caption_Nana, Imeru,  UI,  0
+Discription_Nana, A not-quite-but-still-Imeru girl chosen to become the Maiden of the Epuyke.,  UI,  0
+CharaName_Yuku, Yuk,  UI,  0
+Hypocoristic_Yuku, Yuk,  UI,  0
+Caption_Yuku, 　,  UI,  0
+Discription_Yuku, Nana's mother.,  UI,  0
+CharaName_Hasumi, Hasumi,  UI,  0
+Hypocoristic_Hasumi, Hasumi,  UI,  0
+Caption_Hasumi, 　,  UI,  0
+Discription_Hasumi, Nana's real mother. Was Nui's Soyay.,  UI,  0
+CharaName_Nui, Nui,  UI,  0
+Hypocoristic_Nui, Nui,  UI,  0
+Caption_Nui, 　,  UI,  0
+Discription_Nui, Yuk's real daughter. Was a previous Maiden of the Epuyke.,  UI,  0
+CharaName_YellowTribe_FellowF, Feynman the Researcher,  UI,  0
+Hypocoristic_YellowTribe_FellowF, Feynman,  UI,  0
+Caption_YellowTribe_FellowF, 　,  UI,  0
+Discription_YellowTribe_FellowF, Yellow Division researcher.,  UI,  0
+CharaName_Priestess_of_Imeru, Cleric of the Imeru,  UI,  0
+Hypocoristic_Priestess_of_Imeru, Cleric of the Imeru,  UI,  0
+Caption_Priestess_of_Imeru, 　,  UI,  0
+Discription_Priestess_of_Imeru, Cleric of the Imeru.,  UI,  0
+CharaName_Ape, Ahpe,  UI,  0
+Hypocoristic_Ape, Ahpe,  UI,  0
+Caption_Ape, 　,  UI,  0
+Discription_Ape, A girl who was once chosen to become the Maiden of the Epuyke. Lela's friend.,  UI,  0
+CharaName_Witness_of_Wisdom, Witness to Wisdom,  UI,  0
+Hypocoristic_Witness_of_Wisdom, Witness to Wisdom,  UI,  0
+Caption_Witness_of_Wisdom, 　,  UI,  0
+Discription_Witness_of_Wisdom, Witness to Wisdom.,  UI,  0
+CharaName_Witness_of_Strength, Witness to Strength,  UI,  0
+Hypocoristic_Witness_of_Strength, Witness to Strength,  UI,  0
+Caption_Witness_of_Strength, 　,  UI,  0
+Discription_Witness_of_Strength, Witness to Strength.,  UI,  0
+CharaName_Witness_of_Love, Witness to Love,  UI,  0
+Hypocoristic_Witness_of_Love, Witness to Love,  UI,  0
+Caption_Witness_of_Love, 　,  UI,  0
+Discription_Witness_of_Love, Witness to Love.,  UI,  0
+CharaName_Summoner_of_Strength, Summoner of Strength,  UI,  0
+Hypocoristic_Summoner_of_Strength, Summoner of Strength,  UI,  0
+Caption_Summoner_of_Strength, 　,  UI,  0
+Discription_Summoner_of_Strength, Summoner of Strength.,  UI,  0
+CharaName_Kikiris, Kikir,  UI,  0
+Hypocoristic_Kikiris, Kikir,  UI,  0
+Caption_Kikiris, 　,  UI,  0
+Discription_Kikiris, Kikir.,  UI,  0
+CharaName_Kina_Kikiri, Kina,  UI,  0
+Hypocoristic_Kina_Kikiri, Kina,  UI,  0
+Caption_Kina_Kikiri, Kikir,  UI,  0
+Discription_Kina_Kikiri, Kikir.,  UI,  0
+CharaName_Alexandre, Alexandre,  UI,  0
+Hypocoristic_Alexandre, Alexandre,  UI,  0
+Caption_Alexandre, 　,  UI,  0
+Discription_Alexandre, The only unfrozen person in an otherwise completely frozen world.,  UI,  0
+CharaName_Marion, Marion,  UI,  0
+Hypocoristic_Marion, Marion,  UI,  0
+Caption_Marion, 　,  UI,  0
+Discription_Marion, Thawed Person,  UI,  0
+CharaName_Morgane, Morgane,  UI,  0
+Hypocoristic_Morgane, Morgane,  UI,  0
+Caption_Morgane, 　,  UI,  0
+Discription_Morgane, Thawed Person,  UI,  0
+CharaName_Eric, Eric,  UI,  0
+Hypocoristic_Eric, Eric,  UI,  0
+Caption_Eric, 　,  UI,  0
+Discription_Eric, Thawed Person,  UI,  0
+CharaName_Guillaume, Guillaume,  UI,  0
+Hypocoristic_Guillaume, Guillaume,  UI,  0
+Caption_Guillaume, 　,  UI,  0
+Discription_Guillaume, Thawed Person,  UI,  0
+CharaName_Leia, Leia,  UI,  0
+Hypocoristic_Leia, Leia,  UI,  0
+Caption_Leia, 　,  UI,  0
+Discription_Leia, Thawed Person,  UI,  0
+CharaName_Virgile, Virgile,  UI,  0
+Hypocoristic_Virgile, Virgile,  UI,  0
+Caption_Virgile, 　,  UI,  0
+Discription_Virgile, Thawed Person,  UI,  0
+CharaName_Romain, Romain,  UI,  0
+Hypocoristic_Romain, Romain,  UI,  0
+Caption_Romain, 　,  UI,  0
+Discription_Romain, Thawed Person,  UI,  0
+CharaName_Gabriel, Gabriel,  UI,  0
+Hypocoristic_Gabriel, Gabriel,  UI,  0
+Caption_Gabriel, 　,  UI,  0
+Discription_Gabriel, Thawed Person,  UI,  0
+CharaName_Remi, Remi,  UI,  0
+Hypocoristic_Remi, Remi,  UI,  0
+Caption_Remi, 　,  UI,  0
+Discription_Remi, Thawed Person,  UI,  0
+CharaName_Esperance, Esperance,  UI,  0
+Hypocoristic_Esperance, Esperance,  UI,  0
+Caption_Esperance, 　,  UI,  0
+Discription_Esperance, Thawed Person,  UI,  0
+CharaName_Sandrine, Sandrine,  UI,  0
+Hypocoristic_Sandrine, Sandrine,  UI,  0
+Caption_Sandrine, 　,  UI,  0
+Discription_Sandrine, Thawed Person,  UI,  0
+CharaName_LastEmperor, Final Emperor,  UI,  0
+Hypocoristic_LastEmperor, Final Emperor,  UI,  0
+Caption_LastEmperor, Grelon Royalty,  UI,  0
+Discription_LastEmperor, Final ruler of the empire.,  UI,  0
+CharaName_Junkman, Junkman,  UI,  0
+Hypocoristic_Junkman, Junkman,  UI,  0
+Caption_Junkman, 　,  UI,  0
+Discription_Junkman, Junk dealer in the submarine.,  UI,  0
+CharaName_Professor, Professor,  UI,  0
+Hypocoristic_Professor, Professor,  UI,  0
+Caption_Professor, Historian,  UI,  0
+Discription_Professor, Historian in the airship.,  UI,  0
+CharaName_Engineer, Engineer,  UI,  0
+Hypocoristic_Engineer, Engineer,  UI,  0
+Caption_Engineer, 　,  UI,  0
+Discription_Engineer, Engineer in the cruise ship.,  UI,  0
+CharaName_Wiseman, Wiseman,  UI,  0
+Hypocoristic_Wiseman, Wiseman,  UI,  0
+Caption_Wiseman, 　,  UI,  0
+Discription_Wiseman, Mysterious man in the battleship.,  UI,  0
+CharaName_Scarecrow, Scarecrow,  UI,  0
+Hypocoristic_Scarecrow, Scarecrow,  UI,  0
+Caption_Scarecrow, Scarecrow,  UI,  0
+Discription_Scarecrow, Scarecrow.,  UI,  0
+CharaName_Smilecrow, Smilecrow,  UI,  0
+Hypocoristic_Smilecrow, Smilecrow,  UI,  0
+Caption_Smilecrow, 　,  UI,  0
+Discription_Smilecrow, Smilecrow.,  UI,  0
+CharaName_Spookcrow, Spookcrow,  UI,  0
+Hypocoristic_Spookcrow, Spookcrow,  UI,  0
+Caption_Spookcrow, 　,  UI,  0
+Discription_Spookcrow, Spookcrow.,  UI,  0
+CharaName_Sorrowcrow, Sorrowcrow,  UI,  0
+Hypocoristic_Sorrowcrow, Sorrowcrow,  UI,  0
+Caption_Sorrowcrow, 　,  UI,  0
+Discription_Sorrowcrow, Sorrowcrow.,  UI,  0
+CharaName_Sweetcrow, Sweetcrow,  UI,  0
+Hypocoristic_Sweetcrow, Sweetcrow,  UI,  0
+Caption_Sweetcrow, 　,  UI,  0
+Discription_Sweetcrow, Sweetcrow.,  UI,  0
+CharaName_Strangecrow, Strangecrow,  UI,  0
+Hypocoristic_Strangecrow, Strangecrow,  UI,  0
+Caption_Strangecrow, 　,  UI,  0
+Discription_Strangecrow, Strangecrow.,  UI,  0
+CharaName_Sarab, Sarab,  UI,  0
+Hypocoristic_Sarab, Sarab,  UI,  0
+Caption_Sarab, Floating Mech,  UI,  0
+Discription_Sarab, A mech that wanders the desert.,  UI,  0
+CharaName_ProvidenceWatcher, Observer,  UI,  0
+Hypocoristic_ProvidenceWatcher, Observer,  UI,  0
+Caption_ProvidenceWatcher, 　,  UI,  0
+Discription_ProvidenceWatcher, She who keeps watch over Providence.,  UI,  0
+CharaName_Detective, Detective,  UI,  0
+Hypocoristic_Detective, Detective,  UI,  0
+Caption_Detective, 　,  UI,  0
+Discription_Detective, Person within a vision in Providence.,  UI,  0
+CharaName_Citizen_A, Citizen A,  UI,  0
+Hypocoristic_Citizen_A, Citizen A,  UI,  0
+Caption_Citizen_A, 　,  UI,  0
+Discription_Citizen_A, Person within a vision in Providence.,  UI,  0
+CharaName_Citizen_B, Citizen B,  UI,  0
+Hypocoristic_Citizen_B, Citizen B,  UI,  0
+Caption_Citizen_B, 　,  UI,  0
+Discription_Citizen_B, Person within a vision in Providence.,  UI,  0
+CharaName_Assassin, Assassin,  UI,  0
+Hypocoristic_Assassin, Assassin,  UI,  0
+Caption_Assassin, 　,  UI,  0
+Discription_Assassin, Person within a vision in Providence.,  UI,  0
+CharaName_Explorer, Explorer,  UI,  0
+Hypocoristic_Explorer, Explorer,  UI,  0
+Caption_Explorer, 　,  UI,  0
+Discription_Explorer, Person within a vision in Providence.,  UI,  0
+CharaName_Swordsmith, Swordsmith,  UI,  0
+Hypocoristic_Swordsmith, Swordsmith,  UI,  0
+Caption_Swordsmith, 　,  UI,  0
+Discription_Swordsmith, Person within a vision in Providence.,  UI,  0
+CharaName_Birdwatcher, Wild Bird Conservationist,  UI,  0
+Hypocoristic_Birdwatcher, Wild Bird Conservationist,  UI,  0
+Caption_Birdwatcher, 　,  UI,  0
+Discription_Birdwatcher, Person within a vision in Providence.,  UI,  0
+CharaName_Policeman, Policeman,  UI,  0
+Hypocoristic_Policeman, Policeman,  UI,  0
+Caption_Policeman, 　,  UI,  0
+Discription_Policeman, Person within a vision in Providence.,  UI,  0
+CharaName_Woman, Older Woman,  UI,  0
+Hypocoristic_Woman, Older Woman,  UI,  0
+Caption_Woman, 　,  UI,  0
+Discription_Woman, Person within a vision in Providence.,  UI,  0
+CharaName_Soldier, Soldier,  UI,  0
+Hypocoristic_Soldier, Soldier,  UI,  0
+Caption_Soldier, 　,  UI,  0
+Discription_Soldier, Person within a vision in Providence.,  UI,  0
+CharaName_Cat, Cat,  UI,  0
+Hypocoristic_Cat, Cat,  UI,  0
+Caption_Cat, 　,  UI,  0
+Discription_Cat, Person within a vision in Providence.,  UI,  0
+CharaName_Girl, Girl,  UI,  0
+Hypocoristic_Girl, Girl,  UI,  0
+Caption_Girl, 　,  UI,  0
+Discription_Girl, Person within a vision in Providence.,  UI,  0
+CharaName_Boy, Boy,  UI,  0
+Hypocoristic_Boy, Boy,  UI,  0
+Caption_Boy, 　,  UI,  0
+Discription_Boy, Person within a vision in Providence.,  UI,  0
+CharaName_Assistant, Program Assistant,  UI,  0
+Hypocoristic_Assistant, Program Assistant,  UI,  0
+Caption_Assistant, 　,  UI,  0
+Discription_Assistant, Person within a vision in Providence.,  UI,  0
+CharaName_Doctor, Doctor,  UI,  0
+Hypocoristic_Doctor, Doctor,  UI,  0
+Caption_Doctor, 　,  UI,  0
+Discription_Doctor, Person within a vision in Providence.,  UI,  0
+CharaName_GirdMech, Mech Guard,  UI,  0
+Hypocoristic_GirdMech, Mech Guard,  UI,  0
+Caption_GirdMech, 　,  UI,  0
+Discription_GirdMech, Person within a vision in Providence.,  UI,  0
+CharaName_Daughter, Young Lady,  UI,  0
+Hypocoristic_Daughter, Young Lady,  UI,  0
+Caption_Daughter, 　,  UI,  0
+Discription_Daughter, Person within a vision in Providence.,  UI,  0
+CharaName_Witch, Witch,  UI,  0
+Hypocoristic_Witch, Witch,  UI,  0
+Caption_Witch, 　,  UI,  0
+Discription_Witch, Person within a vision in Providence.,  UI,  0
+CharaName_MechBoy, Child Mech,  UI,  0
+Hypocoristic_MechBoy, Child Mech,  UI,  0
+Caption_MechBoy, 　,  UI,  0
+Discription_MechBoy, Person within a vision in Providence.,  UI,  0
+CharaName_Showgirl, Woman,  UI,  0
+Hypocoristic_Showgirl, Woman,  UI,  0
+Caption_Showgirl, 　,  UI,  0
+Discription_Showgirl, Person within a vision in Providence.,  UI,  0
+CharaName_Trader, Peddler,  UI,  0
+Hypocoristic_Trader, Peddler,  UI,  0
+Caption_Trader, 　,  UI,  0
+Discription_Trader, Person within a vision in Providence.,  UI,  0
+CharaName_Sailor_A, Sailor A,  UI,  0
+Hypocoristic_Sailor_A, Sailor A,  UI,  0
+Caption_Sailor_A, 　,  UI,  0
+Discription_Sailor_A, Person within a vision in Providence.,  UI,  0
+CharaName_Sailor_B, Sailor B,  UI,  0
+Hypocoristic_Sailor_B, Sailor B,  UI,  0
+Caption_Sailor_B, 　,  UI,  0
+Discription_Sailor_B, Person within a vision in Providence.,  UI,  0
+CharaName_Archaeologist, Archaeologist,  UI,  0
+Hypocoristic_Archaeologist, Archaeologist,  UI,  0
+Caption_Archaeologist, 　,  UI,  0
+Discription_Archaeologist, Person within a vision in Providence.,  UI,  0
+CharaName_Villager, Villager,  UI,  0
+Hypocoristic_Villager, Villager,  UI,  0
+Caption_Villager, 　,  UI,  0
+Discription_Villager, Person within a vision in Providence.,  UI,  0
+CharaName_Nomad, Wanderer,  UI,  0
+Hypocoristic_Nomad, Wanderer,  UI,  0
+Caption_Nomad, 　,  UI,  0
+Discription_Nomad, Person within a vision in Providence.,  UI,  0
+CharaName_Shinko_People, Shinko Citizens,  UI,  0
+Hypocoristic_Shinko_People, Shinko Citizens,  UI,  0
+Caption_Shinko_People, 　,  UI,  0
+Discription_Shinko_People, Person within a vision in Providence.,  UI,  0
+CharaName_Alessa_Sitrix, Dr. Alessa Sitrix,  UI,  0
+Hypocoristic_Alessa_Sitrix, Alessa,  UI,  0
+Caption_Alessa_Sitrix, 　,  UI,  0
+Discription_Alessa_Sitrix, Specialist in triangle theory. Corana's older sister.,  UI,  0
+CharaName_Corana_Sitrix, Dr. Corana Sitrix,  UI,  0
+Hypocoristic_Corana_Sitrix, Corana,  UI,  0
+Caption_Corana_Sitrix, 　,  UI,  0
+Discription_Corana_Sitrix, Specialist in triangle theory. Alessa's younger sister.,  UI,  0
+CharaName_Fred_Kinlei, Fred,  UI,  0
+Hypocoristic_Fred_Kinlei, Fred,  UI,  0
+Caption_Fred_Kinlei, 　,  UI,  0
+Discription_Fred_Kinlei, Alessa's former assistant and Corana's ex-husband.,  UI,  0
+CharaName_BX10_EX, BX10-EX,  UI,  0
+Hypocoristic_BX10_EX, BX10,  UI,  0
+Caption_BX10_EX, Quadrupedal Mech,  UI,  0
+Discription_BX10_EX, Corana's mech assistant.,  UI,  0
+CharaName_CEO_TRIGON, Director,  UI,  0
+Hypocoristic_CEO_TRIGON, Director,  UI,  0
+Caption_CEO_TRIGON, 　,  UI,  0
+Discription_CEO_TRIGON, Director of the Trigon Corporation.,  UI,  0
+CharaName_TRIGON_Stella, Stella of Trigon,  UI,  0
+Hypocoristic_TRIGON_Stella, Stella,  UI,  0
+Caption_TRIGON_Stella, 　,  UI,  0
+Discription_TRIGON_Stella, Trigon Employee,  UI,  0
+CharaName_TRIGON_Beppe, Beppe of Trigon,  UI,  0
+Hypocoristic_TRIGON_Beppe, Beppe,  UI,  0
+Caption_TRIGON_Beppe, 　,  UI,  0
+Discription_TRIGON_Beppe, Trigon Employee,  UI,  0
+CharaName_TRIGON_Nello, Nero of Trigon,  UI,  0
+Hypocoristic_TRIGON_Nello, Nero,  UI,  0
+Caption_TRIGON_Nello, 　,  UI,  0
+Discription_TRIGON_Nello, Trigon Employee,  UI,  0
+CharaName_DamMaster_Teo, Dam Manager Teo,  UI,  0
+Hypocoristic_DamMaster_Teo, Teo,  UI,  0
+Caption_DamMaster_Teo, 　,  UI,  0
+CharaName_Michele, Michele,  UI,  0
+Hypocoristic_Michele, Michele,  UI,  0
+Caption_Michele, 　,  UI,  0
+CharaName_Teo_Senior, Teo Senior,  UI,  0
+Hypocoristic_Teo_Senior, Teo Senior,  UI,  0
+Caption_Teo_Senior, 　,  UI,  0
+CharaName_Lara, Lara,  UI,  0
+Hypocoristic_Lara, Lara,  UI,  0
+Caption_Lara, 　,  UI,  0
+CharaName_Silvano, Sylvano,  UI,  0
+Hypocoristic_Silvano, Sylvano,  UI,  0
+Caption_Silvano, 　,  UI,  0
+CharaName_Melania, Melania,  UI,  0
+Hypocoristic_Melania, Melania,  UI,  0
+Caption_Melania, 　,  UI,  0
+CharaName_Barbara, Barbara,  UI,  0
+Hypocoristic_Barbara, Barbara,  UI,  0
+Caption_Barbara, 　,  UI,  0
+CharaName_King_Din, King Din,  UI,  0
+Hypocoristic_King_Din, King Din,  UI,  0
+Caption_King_Din, 　,  UI,  0
+Discription_King_Din, King of Brighthome.,  UI,  0
+CharaName_Rodrigo, Rodrigo,  UI,  0
+Hypocoristic_Rodrigo, Rodrigo,  UI,  0
+Caption_Rodrigo, 　,  UI,  0
+Discription_Rodrigo, Guv's real name.,  UI,  0
+CharaName_Simon, Simon,  UI,  0
+Hypocoristic_Simon, Simon,  UI,  0
+Caption_Simon, Autonomous Mech,  UI,  0
+Discription_Simon, A mech that awoke in Brighthome after his death.,  UI,  0
+CharaName_Arsenal, Gunner,  UI,  0
+Hypocoristic_Arsenal, Gunner,  UI,  0
+Caption_Arsenal, 　,  UI,  0
+Discription_Arsenal, Simon's other name.,  UI,  0
+CharaName_Sorceress, Sorceress,  UI,  0
+Hypocoristic_Sorceress, Sorceress,  UI,  0
+Caption_Sorceress, 　,  UI,  0
+Discription_Sorceress, Another name for a witch.,  UI,  0
+CharaName_Vacuum, Vacuum,  UI,  0
+Hypocoristic_Vacuum, Vacuum,  UI,  0
+Caption_Vacuum, 　,  UI,  0
+Discription_Vacuum, Real name is Victoria.,  UI,  0
+CharaName_Gadget, Gadget,  UI,  0
+Hypocoristic_Gadget, Gadget,  UI,  0
+Caption_Gadget, 　,  UI,  0
+Discription_Gadget, Real name is Masakado.,  UI,  0
+CharaName_Doll, Manikin,  UI,  0
+Hypocoristic_Doll, Manikin,  UI,  0
+Caption_Doll, 　,  UI,  0
+Discription_Doll, Real name is Scarecrow.,  UI,  0
+CharaName_Immunity, Immunity,  UI,  0
+Hypocoristic_Immunity, Immunity,  UI,  0
+Caption_Immunity, 　,  UI,  0
+Discription_Immunity, Real name is Erythrocyte.,  UI,  0
+CharaName_Fiore, Floral,  UI,  0
+Hypocoristic_Fiore, Floral,  UI,  0
+Caption_Fiore, 　,  UI,  0
+Discription_Fiore, Real name is Ahpe.,  UI,  0
+CharaName_Buccaneer, Pirate,  UI,  0
+Hypocoristic_Buccaneer, Pirate,  UI,  0
+Caption_Buccaneer, 　,  UI,  0
+Discription_Buccaneer, Real name is Silver.,  UI,  0
+CharaName_Lord, Warden,  UI,  0
+Hypocoristic_Lord, Warden,  UI,  0
+Caption_Lord, 　,  UI,  0
+Discription_Lord, True identity is the Warden of Envy.,  UI,  0
+CharaName_Chief, President,  UI,  0
+Hypocoristic_Chief, President,  UI,  0
+Caption_Chief, 　,  UI,  0
+Discription_Chief, Real name is Abraham.,  UI,  0
+CharaName_Bully, Bully,  UI,  0
+Hypocoristic_Bully, Bully,  UI,  0
+Caption_Bully, 　,  UI,  0
+Discription_Bully, Real name is Leonardo.,  UI,  0
+CharaName_Guv, Guv,  UI,  0
+Hypocoristic_Guv, Guv,  UI,  0
+Caption_Guv, 　,  UI,  0
+Discription_Guv, Real name is Rodrigo.,  UI,  0
+CharaName_Village_Girl, Village Girl,  UI,  0
+Hypocoristic_Village_Girl, Village Girl,  UI,  0
+Caption_Village_Girl, 　,  UI,  0
+Discription_Village_Girl, Rodrigo's partner.,  UI,  0
+CharaName_Field_Girl, Field Girl,  UI,  0
+Hypocoristic_Field_Girl, Field Girl,  UI,  0
+Caption_Field_Girl, 　,  UI,  0
+Discription_Field_Girl, Rodrigo's partner.,  UI,  0
+CharaName_Mine_Girl, Mine Girl,  UI,  0
+Hypocoristic_Mine_Girl, Mine Girl,  UI,  0
+Caption_Mine_Girl, 　,  UI,  0
+Discription_Mine_Girl, Rodrigo's partner.,  UI,  0
+CharaName_Graveyard_Girl, Cemetery Girl,  UI,  0
+Hypocoristic_Graveyard_Girl, Cemetery Girl,  UI,  0
+Caption_Graveyard_Girl, 　,  UI,  0
+Discription_Graveyard_Girl, Rodrigo's partner.,  UI,  0
+CharaName_Church_Girl, Church Girl,  UI,  0
+Hypocoristic_Church_Girl, Church Girl,  UI,  0
+Caption_Church_Girl, 　,  UI,  0
+Discription_Church_Girl, Rodrigo's partner.,  UI,  0
+CharaName_City_Girl, City Girl,  UI,  0
+Hypocoristic_City_Girl, City Girl,  UI,  0
+Caption_City_Girl, 　,  UI,  0
+Discription_City_Girl, Rodrigo's partner.,  UI,  0
+CharaName_Fort_Girl, Stronghold Girl,  UI,  0
+Hypocoristic_Fort_Girl, Stronghold Girl,  UI,  0
+Caption_Fort_Girl, 　,  UI,  0
+Discription_Fort_Girl, Rodrigo's partner.,  UI,  0
+CharaName_Temple_Girl, Temple Girl,  UI,  0
+Hypocoristic_Temple_Girl, Temple Girl,  UI,  0
+Caption_Temple_Girl, 　,  UI,  0
+Discription_Temple_Girl, Rodrigo's partner.,  UI,  0
+CharaName_Ruin_Girl, Ruins Girl,  UI,  0
+Hypocoristic_Ruin_Girl, Ruins Girl,  UI,  0
+Caption_Ruin_Girl, 　,  UI,  0
+Discription_Ruin_Girl, Rodrigo's partner.,  UI,  0
+CharaName_Mr_President, Mr. President,  UI,  0
+Hypocoristic_Mr_President, Mr. President,  UI,  0
+Caption_Mr_President, 　,  UI,  0
+Discription_Mr_President, President.,  UI,  0
+CharaName_Tristan_Hernandes, Tristan Hernandez,  UI,  0
+Hypocoristic_Tristan_Hernandes, Tristan,  UI,  0
+Caption_Tristan_Hernandes, 　,  UI,  0
+Discription_Tristan_Hernandes, Head of the Presidential Security Office.,  UI,  0
+CharaName_James_Allen, James Allen,  UI,  0
+Hypocoristic_James_Allen, Allen,  UI,  0
+Caption_James_Allen, 　,  UI,  0
+Discription_James_Allen, Presidential candidate.,  UI,  0
+CharaName_Noah_Bailey, Noah Bailey,  UI,  0
+Hypocoristic_Noah_Bailey, Bailey,  UI,  0
+Caption_Noah_Bailey, 　,  UI,  0
+Discription_Noah_Bailey, Presidential candidate.,  UI,  0
+CharaName_Kate_Wang, Kate the Reporter,  UI,  0
+Hypocoristic_Kate_Wang, Kate,  UI,  0
+Caption_Kate_Wang, 　,  UI,  0
+CharaName_Researcher_Nishant, Nishant the Researcher,  UI,  0
+Hypocoristic_Researcher_Nishant, Nishant,  UI,  0
+Caption_Researcher_Nishant, 　,  UI,  0
+Discription_Researcher_Nishant, GOG researcher.,  UI,  0
+CharaName_Jessica, Jessica,  UI,  0
+Hypocoristic_Jessica, Jessica,  UI,  0
+Caption_Jessica, 　,  UI,  0
+CharaName_Detective_John, Detective John,  UI,  0
+Hypocoristic_Detective_John, John,  UI,  0
+Caption_Detective_John, 　,  UI,  0
+Discription_Detective_John, Criminal investigator with the CCPD.,  UI,  0
+CharaName_Violetta_Kim, Violetta the Passionate Youth,  UI,  0
+Hypocoristic_Violetta_Kim, Violetta,  UI,  0
+Caption_Violetta_Kim, 　,  UI,  0
+Discription_Violetta_Kim, Passionate youngster.,  UI,  0
+CharaName_Stephan_Eliasson, Steve the Peaceful Youth,  UI,  0
+Hypocoristic_Stephan_Eliasson, Steve,  UI,  0
+Caption_Stephan_Eliasson, 　,  UI,  0
+Discription_Stephan_Eliasson, Peaceful youngster.,  UI,  0
+CharaName_President_Bodyguard, President's Bodyguard,  UI,  0
+Hypocoristic_President_Bodyguard, President's Bodyguard,  UI,  0
+Caption_President_Bodyguard, 　,  UI,  0
+Discription_President_Bodyguard, President's Bodyguard.,  UI,  0
+CharaName_Rally_Officer, Rally Manager,  UI,  0
+Hypocoristic_Rally_Officer, Rally Manager,  UI,  0
+Caption_Rally_Officer, 　,  UI,  0
+Discription_Rally_Officer, Rally Manager.,  UI,  0
+CharaName_Rally_Interferer, Rowdy Person,  UI,  0
+Hypocoristic_Rally_Interferer, Rowdy Person,  UI,  0
+Caption_Rally_Interferer, 　,  UI,  0
+Discription_Rally_Interferer, Rowdy Person.,  UI,  0
+CharaName_Crystal_Person, Crystal Thief,  UI,  0
+Hypocoristic_Crystal_Person, Crystal Thief,  UI,  0
+Caption_Crystal_Person, 　,  UI,  0
+Discription_Crystal_Person, Crystal Thief.,  UI,  0
+CharaName_Laboratory_Person, Institute Dubious Person,  UI,  0
+Hypocoristic_Laboratory_Person, Institute Dubious Person,  UI,  0
+Caption_Laboratory_Person, 　,  UI,  0
+Discription_Laboratory_Person, Institute Dubious Person.,  UI,  0
+CharaName_PollingStation_Person, Polling Place Dubious Person,  UI,  0
+Hypocoristic_PollingStation_Person, Polling Place Dubious Person,  UI,  0
+Caption_PollingStation_Person, 　,  UI,  0
+Discription_PollingStation_Person, Polling Place Dubious Person.,  UI,  0
+CharaName_Bodyguard_Mech, Security Mech,  UI,  0
+Hypocoristic_Bodyguard_Mech, Security Mech,  UI,  0
+Caption_Bodyguard_Mech, 　,  UI,  0
+Discription_Bodyguard_Mech, Security Mech.,  UI,  0
+CharaName_Newscaster, Stacy Bench,  UI,  0
+Hypocoristic_Newscaster, Stacy,  UI,  0
+Caption_Newscaster, 　,  UI,  0
+Discription_Newscaster, Newscaster.,  UI,  0
+CharaName_News_Comentator, Flip Brickley,  UI,  0
+Hypocoristic_News_Comentator, Flip,  UI,  0
+Caption_News_Comentator, 　,  UI,  0
+Discription_News_Comentator, News commentator.,  UI,  0
+CharaName_Emily_Bryant, Emily Bryant,  UI,  0
+Hypocoristic_Emily_Bryant, Emily,  UI,  0
+Caption_Emily_Bryant, Singer on the Rise,  UI,  0
+Discription_Emily_Bryant, Singer.,  UI,  0
+CharaName_Guardian_Eagle, Eagle,  UI,  0
+Hypocoristic_Guardian_Eagle, Eagle,  UI,  0
+Caption_Guardian_Eagle, 　,  UI,  0
+Discription_Guardian_Eagle, Eagle.,  UI,  0
+CharaName_Guardian_Bear, Bear,  UI,  0
+Hypocoristic_Guardian_Bear, Bear,  UI,  0
+Caption_Guardian_Bear, 　,  UI,  0
+Discription_Guardian_Bear, Bear.,  UI,  0
+CharaName_Guardian_Tortoise, Turtle,  UI,  0
+Hypocoristic_Guardian_Tortoise, Turtle,  UI,  0
+Caption_Guardian_Tortoise, 　,  UI,  0
+Discription_Guardian_Tortoise, Turtle.,  UI,  0
+CharaName_Guardian_Bat, Bat,  UI,  0
+Hypocoristic_Guardian_Bat, Bat,  UI,  0
+Caption_Guardian_Bat, 　,  UI,  0
+Discription_Guardian_Bat, Bat.,  UI,  0
+CharaName_Guardian_Squirrel, Squirrel,  UI,  0
+Hypocoristic_Guardian_Squirrel, Squirrel,  UI,  0
+Caption_Guardian_Squirrel, 　,  UI,  0
+Discription_Guardian_Squirrel, Squirrel.,  UI,  0
+CharaName_GreatTree_Wolves, Wolves,  UI,  0
+Hypocoristic_GreatTree_Wolves, Wolves,  UI,  0
+Caption_GreatTree_Wolves, 　,  UI,  0
+Discription_GreatTree_Wolves, Wolves.,  UI,  0
+CharaName_GreatTree_Plant, Insectivorous Plant,  UI,  0
+Hypocoristic_GreatTree_Plant, Insectivorous Plant,  UI,  0
+Caption_GreatTree_Plant, 　,  UI,  0
+Discription_GreatTree_Plant, Insectivorous Plant.,  UI,  0
+CharaName_GreatTree_Owl, Owl,  UI,  0
+Hypocoristic_GreatTree_Owl, Owl,  UI,  0
+Caption_GreatTree_Owl, 　,  UI,  0
+Discription_GreatTree_Owl, Owl.,  UI,  0
+CharaName_GreatTree_Cockoo, Cuckoo,  UI,  0
+Hypocoristic_GreatTree_Cockoo, Cuckoo,  UI,  0
+Caption_GreatTree_Cockoo, 　,  UI,  0
+Discription_GreatTree_Cockoo, Cuckoo.,  UI,  0
+CharaName_GreatTree_Crocodile, Crocodile,  UI,  0
+Hypocoristic_GreatTree_Crocodile, Crocodile,  UI,  0
+Caption_GreatTree_Crocodile, 　,  UI,  0
+Discription_GreatTree_Crocodile, Crocodile.,  UI,  0
+CharaName_GreatTree_Tarantula, Tarantula,  UI,  0
+Hypocoristic_GreatTree_Tarantula, Tarantula,  UI,  0
+Caption_GreatTree_Tarantula, 　,  UI,  0
+Discription_GreatTree_Tarantula, Tarantula.,  UI,  0
+CharaName_GreatTree_Toad, Frog,  UI,  0
+Hypocoristic_GreatTree_Toad, Frog,  UI,  0
+Caption_GreatTree_Toad, 　,  UI,  0
+Discription_GreatTree_Toad, Frog.,  UI,  0
+CharaName_GreatTree_Dragofly, Dragonfly,  UI,  0
+Hypocoristic_GreatTree_Dragofly, Dragonfly,  UI,  0
+Caption_GreatTree_Dragofly, 　,  UI,  0
+Discription_GreatTree_Dragofly, Dragonfly.,  UI,  0
+CharaName_GreatTree_Ant, Ant,  UI,  0
+Hypocoristic_GreatTree_Ant, Ant,  UI,  0
+Caption_GreatTree_Ant, 　,  UI,  0
+Discription_GreatTree_Ant, Ant.,  UI,  0
+CharaName_GreatTree_Deer, Deer,  UI,  0
+Hypocoristic_GreatTree_Deer, Deer,  UI,  0
+Caption_GreatTree_Deer, 　,  UI,  0
+Discription_GreatTree_Deer, Deer.,  UI,  0
+CharaName_GreatTree_Beaver, Beaver,  UI,  0
+Hypocoristic_GreatTree_Beaver, Beaver,  UI,  0
+Caption_GreatTree_Beaver, 　,  UI,  0
+Discription_GreatTree_Beaver, Beaver.,  UI,  0
+CharaName_GreatTree_Snake, Snake,  UI,  0
+Hypocoristic_GreatTree_Snake, Snake,  UI,  0
+Caption_GreatTree_Snake, 　,  UI,  0
+Discription_GreatTree_Snake, Snake.,  UI,  0
+CharaName_Silver, Silver,  UI,  0
+Hypocoristic_Silver, Silver,  UI,  0
+Caption_Silver, 　,  UI,  0
+Discription_Silver, The pirate's real name.,  UI,  0
+CharaName_Bonnie_and_Formina, Bonnie and Formina,  UI,  0
+Hypocoristic_Bonnie_and_Formina, Bonnie and Formina,  UI,  0
+Caption_Bonnie_and_Formina, CCPD Officers,  UI,  0
+Discription_Bonnie_and_Formina, Officers with the Capitol City Police Department.,  UI,  0
+CharaSelect_Bonnie_and_Formina, A levelheaded sharpshooter and fiery pugilist who serve as officers with the Capitol City Police Department.,  UI,  0
+CharaName_GreyWitch, Grey Witch,  UI,  0
+Hypocoristic_GreyWitch, Grey Witch,  UI,  0
+Caption_GreyWitch, Grey Witch,  UI,  0
+Discription_GreyWitch, Grey Witch,  UI,  0

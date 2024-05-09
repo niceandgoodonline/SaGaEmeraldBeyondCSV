@@ -1,0 +1,207 @@
+label, speaker, text
+KEY_ITEM_W02_POWER_KEY_BLA_NAME, UI, Grete's Black Staff
+KEY_ITEM_W02_POWER_KEY_BLA_DESCRIPTION, UI, An ebony staff with a carving of a black swan. It's enchanted with water magic.
+KEY_ITEM_W02_POWER_KEY_BLA_02_NAME, UI, Grey Staff
+KEY_ITEM_W02_POWER_KEY_BLA_02_DESCRIPTION, UI, A magical staff with an eerie aura.
+KEY_ITEM_W02_POWER_KEY_RED_01_NAME, UI, Salamander Scale
+KEY_ITEM_W02_POWER_KEY_RED_01_DESCRIPTION, UI, A flaming scale of the Salamander. It greatly amplifies the red witches' magical power.
+KEY_ITEM_W02_POWER_KEY_RED_02_NAME, UI, Detoxicant
+KEY_ITEM_W02_POWER_KEY_RED_02_DESCRIPTION, UI, A detoxifying agent that works well against water-based poisons—the sorts that extinguish flames.
+KEY_ITEM_W02_POWER_KEY_RED_03_NAME, UI, Mismatched Fireproof Gloves
+KEY_ITEM_W02_POWER_KEY_RED_03_DESCRIPTION, UI, Two fireproof gloves, one from each sister. A different name is embroidered on each.
+KEY_ITEM_W02_DISASTER_PIECE_NAME, UI, Calamity Shard
+KEY_ITEM_W02_DISASTER_PIECE_DESCRIPTION, UI, A sinister fragment that brings evil to the witches' world.
+KEY_ITEM_W03_POISON_BOTTLE_NAME, UI, Bottle of Deadly Poison
+KEY_ITEM_W03_POISON_BOTTLE_DESCRIPTION, UI, A bottle of poison obtained from a freed witch.
+KEY_ITEM_W12_WOODPILE_NAME, UI, Firewood
+KEY_ITEM_W12_WOODPILE_DESCRIPTION, UI, Wood cut into small pieces and bundled.
+KEY_ITEM_W12_MATCH_NAME, UI, Matches
+KEY_ITEM_W12_MATCH_DESCRIPTION, UI, Strange matches that can thaw ice.
+KEY_ITEM_W12_ARTEFACT_NAME, UI, Artifact Piece
+KEY_ITEM_W12_ARTEFACT_DESCRIPTION, UI, A piece of an artifact that dates back to the Imperial era.
+KEY_ITEM_W10_DISK_NAME, UI, Biochip
+KEY_ITEM_W10_DISK_DESCRIPTION, UI, A storage chip to help restore the relic database.
+KEY_ITEM_W10_CODE_NAME, UI, Passcode
+KEY_ITEM_W10_CODE_DESCRIPTION, UI, A code used to open something...somewhere.
+KEY_ITEM_W10_TRIANGLE_NAME, UI, Triangular Scrap
+KEY_ITEM_W10_TRIANGLE_DESCRIPTION, UI, A page torn from a book.
+KEY_ITEM_W10_KATANA_NAME, UI, Mysterious Sword Fragment (?)
+KEY_ITEM_W10_KATANA_DESCRIPTION, UI, This sword seems to have a story behind it.
+KEY_ITEM_W10_JEWEL_NAME, UI, Philosopher's Stone Fragment?
+KEY_ITEM_W10_JEWEL_DESCRIPTION, UI, Might be a nice accessory, actually.
+KEY_ITEM_W10_GIZUMO_NAME, UI, Gizmo Part
+KEY_ITEM_W10_GIZUMO_DESCRIPTION, UI, Someone is collecting these.
+KEY_ITEM_W10_MAG_DATA_NAME, UI, Label for Relic Specimen 440
+KEY_ITEM_W10_MAG_DATA_DESCRIPTION, UI, A label applied to the case for a specimen known as the Beast King.
+KEY_ITEM_W10_BOOK_NAME, UI, Page of a Cursed Tome
+KEY_ITEM_W10_BOOK_DESCRIPTION, UI, You received this page as a little souvenir.
+KEY_ITEM_W10_TAILE_NAME, UI, Tail of the Undying Dragon
+KEY_ITEM_W10_TAILE_DESCRIPTION, UI, You received this in place of a reward.
+KEY_ITEM_W10_KEY_RY_NAME, UI, Red/Yellow Lift Key
+KEY_ITEM_W10_KEY_RY_DESCRIPTION, UI, The key to the lift that allows connection between the Red and Yellow Divisions on the lower levels.
+KEY_ITEM_W10_KEY_RB_NAME, UI, Green/Red Lift Key
+KEY_ITEM_W10_KEY_RB_DESCRIPTION, UI, The key to the lift that allows connection between the Green and Red Divisions on the lower levels.
+KEY_ITEM_W10_KEY_BY_NAME, UI, Yellow/Green Lift Key
+KEY_ITEM_W10_KEY_BY_DESCRIPTION, UI, The key to the lift that allows connection between the Yellow and Green Divisions on the lower levels.
+KEY_ITEM_W10_SEED_NAME, UI, Improved Monophid Seed
+KEY_ITEM_W10_SEED_DESCRIPTION, UI, The seed of a selectively bred monophid, one harmless to humans and animals. Where could you even grow this?
+KEY_ITEM_W10_EGG_NAME, UI, Tsuchinoko Egg
+KEY_ITEM_W10_EGG_DESCRIPTION, UI, The egg of the tsuchinoko. Will it hatch?
+KEY_ITEM_W10_CLYSTAL_NAME, UI, Crystal
+KEY_ITEM_W10_CLYSTAL_DESCRIPTION, UI, It looks like this can be processed further.
+KEY_ITEM_W10_KEY_6_NAME, UI, Abandoned Zone Key
+KEY_ITEM_W10_KEY_6_DESCRIPTION, UI, A key that lets you access the abandoned zone.
+KEY_ITEM_W04_JADE_JAR_NAME, UI, Jade Urn
+KEY_ITEM_W04_JADE_JAR_DESCRIPTION, UI, A precious decoration stolen by pirates.
+KEY_ITEM_W04_CONTRACT_NAME, UI, Lighthouse Lease
+KEY_ITEM_W04_CONTRACT_DESCRIPTION, UI, The lease for the lighthouse. The scientist has signed it.
+KEY_ITEM_W04_SUGAR_NAME, UI, Sugar
+KEY_ITEM_W04_SUGAR_DESCRIPTION, UI, Sugar is a specialty of the south. You should take it to the Northern Trade Port.
+KEY_ITEM_W04_GHOST_AXE_NAME, UI, Ghost's Axe
+KEY_ITEM_W04_GHOST_AXE_DESCRIPTION, UI, A precious axe given to you by a wandering ghost. You should return it to its rightful owner.
+KEY_ITEM_W04_MONSTER_SURVEY_01_NAME, UI, Fiend Research Logbook 1
+KEY_ITEM_W04_MONSTER_SURVEY_01_DESCRIPTION, UI, A memory board with detailed data on the smaller fiends of the sea.
+KEY_ITEM_W04_MONSTER_SURVEY_02_NAME, UI, Fiend Research Logbook 2
+KEY_ITEM_W04_MONSTER_SURVEY_02_DESCRIPTION, UI, A memory board with a survey on the biggest fiends of the sea.
+KEY_ITEM_W04_TIME_CONTROLLER_NAME, UI, Waterlogged Device
+KEY_ITEM_W04_TIME_CONTROLLER_DESCRIPTION, UI, A mysterious device covered in barnacles after years of sitting at the bottom of the sea.
+KEY_ITEM_W04_RUBY_NAME, UI, Jewel of the Sea: Ruby
+KEY_ITEM_W04_RUBY_DESCRIPTION, UI, A treasure of the Mare Nostrum. This mysterious red jewel boasts revitalizing properties.
+KEY_ITEM_W04_SAPPHIRE_NAME, UI, Jewel of the Sea: Sapphire
+KEY_ITEM_W04_SAPPHIRE_DESCRIPTION, UI, A treasure of the Mare Nostrum. This mysterious blue jewel boasts revitalizing properties.
+KEY_ITEM_W04_BALTASAR_HEART_NAME, UI, Baltasar's Heart
+KEY_ITEM_W04_BALTASAR_HEART_DESCRIPTION, UI, The heart of Baltasar the pirate—and the key to his immortality.
+KEY_ITEM_W04_BLUE_DRAGONS_EGG_NAME, UI, Deus Maris's Egg
+KEY_ITEM_W04_BLUE_DRAGONS_EGG_DESCRIPTION, UI, The egg that will one day hatch into the god of the Mare Nostrum.
+KEY_ITEM_W04_PIRATES_FLAG_NAME, UI, Pirate Flag
+KEY_ITEM_W04_PIRATES_FLAG_DESCRIPTION, UI, A flag that serves as proof of a pirate's defeat. Take it to the Southern Trade Port for a reward.
+KEY_ITEM_W09_HORSE_TICKET_NAME, UI, Coach Ticket
+KEY_ITEM_W09_HORSE_TICKET_DESCRIPTION, UI, A ticket for the coach. It lets you move two blocks.
+KEY_ITEM_W09_VEHICLE_TICKET_NAME, UI, Motorcar Ticket
+KEY_ITEM_W09_VEHICLE_TICKET_DESCRIPTION, UI, A ticket for the motorcar. It lets you move three blocks.
+KEY_ITEM_W09_TRAM_TICKET_NAME, UI, Tram Ticket
+KEY_ITEM_W09_TRAM_TICKET_DESCRIPTION, UI, A ticket for the tram. It lets you move one block.
+KEY_ITEM_W09_IDOL_SIGNATURE_NAME, UI, Autographed Singer Photo
+KEY_ITEM_W09_IDOL_SIGNATURE_DESCRIPTION, UI, A signed photo of an up-and-coming singer in Avalon. This is a cheap item.
+KEY_ITEM_W09_IDOL_SIGNATURE_02_NAME, UI, Autographed Hit-Singer Photo
+KEY_ITEM_W09_IDOL_SIGNATURE_02_DESCRIPTION, UI, A photo signed with love by a hugely popular singer. This is a valuable item.
+KEY_ITEM_W09_GOLD_MEDAL_NAME, UI, Gold Medal
+KEY_ITEM_W09_GOLD_MEDAL_DESCRIPTION, UI, A beautiful medal made in Avalon and earned as a reward. This is a valuable item.
+KEY_ITEM_W09_ANNIVERSARY_GIFT_NAME, UI, Museum Gift
+KEY_ITEM_W09_ANNIVERSARY_GIFT_DESCRIPTION, UI, A special trinket celebrating the museum's bicentennial anniversary. This is a cheap item.
+KEY_ITEM_W09_MEMORIAL_PLATE_NAME, UI, Billionth-Visitor Shield
+KEY_ITEM_W09_MEMORIAL_PLATE_DESCRIPTION, UI, A golden shield to commemorate your being the billionth visitor to the museum. This is a valuable item.
+KEY_ITEM_W09_CERTIFICATE_NAME, UI, Commendation
+KEY_ITEM_W09_CERTIFICATE_DESCRIPTION, UI, A certificate of praise for those who have cooperated with and contributed to a police investigation. This is a valuable item.
+KEY_ITEM_W09_OLD_CROWN_NAME, UI, Old Crown
+KEY_ITEM_W09_OLD_CROWN_DESCRIPTION, UI, A mysterious accessory rich in history. This is a valuable item.
+KEY_ITEM_W09_MEDAL_NAME, UI, Bronze Medal
+KEY_ITEM_W09_MEDAL_DESCRIPTION, UI, A medal made in Avalon that is often earned as a reward. This is a cheap item.
+KEY_ITEM_W09_VINTAGE_WINE_NAME, UI, Vintage Wine
+KEY_ITEM_W09_VINTAGE_WINE_DESCRIPTION, UI, A fine wine obtained from a pub in Avalon. This is a valuable item.
+KEY_ITEM_W09_BISCUIT_NAME, UI, Biscuits
+KEY_ITEM_W09_BISCUIT_DESCRIPTION, UI, Despite their price, these nicely browned biscuits are a tasty treat. This is a cheap item.
+KEY_ITEM_W09_OLD_TIARA_NAME, UI, Old Tiara
+KEY_ITEM_W09_OLD_TIARA_DESCRIPTION, UI, An eerie, but luxurious tiara. This is a valuable item.
+KEY_ITEM_W09_RUSTY_SWORD_NAME, UI, Rusty Sword
+KEY_ITEM_W09_RUSTY_SWORD_DESCRIPTION, UI, This storied curio once belonged to a knight of yore, but has since rusted. This is a valuable item.
+KEY_ITEM_W09_LEATHER_HANDBAG_NAME, UI, Leather Handbag
+KEY_ITEM_W09_LEATHER_HANDBAG_DESCRIPTION, UI, A leather bag common to Avalon. This is a cheap item.
+KEY_ITEM_W09_ANIMAL_PERFUME_NAME, UI, Musky Cologne
+KEY_ITEM_W09_ANIMAL_PERFUME_DESCRIPTION, UI, A rare cologne whose sweet scent envelops the body. This is a valuable item.
+KEY_ITEM_W09_CAVIAR_NAME, UI, Stinky Fish Eggs
+KEY_ITEM_W09_CAVIAR_DESCRIPTION, UI, Rare sturgeon eggs that make for high-quality caviar. This is a valuable item.
+KEY_ITEM_W09_TRUFFLE_NAME, UI, Muddy Mushrooms
+KEY_ITEM_W09_TRUFFLE_DESCRIPTION, UI, Rare truffles that smell delectable. This is a valuable item.
+KEY_ITEM_W09_BAKED_BREAD_NAME, UI, Fresh-Baked Bread
+KEY_ITEM_W09_BAKED_BREAD_DESCRIPTION, UI, Bread from the finest bakery in all of Avalon. This is a cheap item.
+KEY_ITEM_W09_STUFFED_BIRD_NAME, UI, Taxidermy Bird
+KEY_ITEM_W09_STUFFED_BIRD_DESCRIPTION, UI, A taxidermied peacock that some fancy noble might like. This is a valuable item.
+KEY_ITEM_W09_UNAGIPIE_PASTRY_NAME, UI, Eel Pie
+KEY_ITEM_W09_UNAGIPIE_PASTRY_DESCRIPTION, UI, It's delicious and tastes like happiness, but the ingredients are questionable. This is a cheap item.
+KEY_ITEM_W09_SURPRISED_JUICE_NAME, UI, Surprise-ade
+KEY_ITEM_W09_SURPRISED_JUICE_DESCRIPTION, UI, A strange libation of unknown origins. Drink it for a little surprise! This is a cheap item.
+KEY_ITEM_W09_DIAMOND_NAME, UI, Diamond
+KEY_ITEM_W09_DIAMOND_DESCRIPTION, UI, Gems produced by lostlings. The more offered to the Crown, the better your reward.
+KEY_ITEM_W09_GOLD_WAND_NAME, UI, Old Gold Wand
+KEY_ITEM_W09_GOLD_WAND_DESCRIPTION, UI, It's impossible to determine the worth of this wand. Some sort of power emanates from it.
+KEY_ITEM_W09_GOLD_RING_NAME, UI, Old Gold Ring
+KEY_ITEM_W09_GOLD_RING_DESCRIPTION, UI, It's impossible to determine the worth of this ring. Some sort of power emanates from it.
+KEY_ITEM_W09_GOLD_NECKLACE_NAME, UI, Old Gold Necklace
+KEY_ITEM_W09_GOLD_NECKLACE_DESCRIPTION, UI, It's impossible to determine the worth of this necklace. Some sort of power emanates from it.
+KEY_ITEM_W06_ANTIBODY_STOMACH_NAME, UI, Digestica Antibody
+KEY_ITEM_W06_ANTIBODY_STOMACH_DESCRIPTION, UI, An ultimate power sealed within the Digestica.
+KEY_ITEM_W06_ANTIBODY_LUNGS_NAME, UI, Respiquary Antibody
+KEY_ITEM_W06_ANTIBODY_LUNGS_DESCRIPTION, UI, An ultimate power sealed within the Respiquary.
+KEY_ITEM_W06_ANTIBODY_BRAIN_NAME, UI, Cognitheon Antibody
+KEY_ITEM_W06_ANTIBODY_BRAIN_DESCRIPTION, UI, An ultimate power sealed within the Cognitheon.
+KEY_ITEM_W06_ANTIBODY_HEART_NAME, UI, Circuleum Antibody
+KEY_ITEM_W06_ANTIBODY_HEART_DESCRIPTION, UI, An ultimate power sealed within the Circuleum.
+KEY_ITEM_W06_MUCUS_NAME, UI, Mucus
+KEY_ITEM_W06_MUCUS_DESCRIPTION, UI, A sticky liquid harvested from mucolisks.
+KEY_ITEM_W06_MITOCHONDRIA_NAME, UI, Mitochondria 
+KEY_ITEM_W06_MITOCHONDRIA_DESCRIPTION, UI, A squishy object received from High Priest Valkoinen.
+KEY_ITEM_W19_SEEDS_NAME, UI, Seed
+KEY_ITEM_W19_SEEDS_DESCRIPTION, UI, A strange seed that will sprout into vines when planted in a waterfall basin. Climb the vine to move to a higher area.
+KEY_ITEM_W19_INSECTS_NAME, UI, Bug
+KEY_ITEM_W19_INSECTS_DESCRIPTION, UI, When released, this bug will eat vines, causing a waterfall to appear in their place. Use the waterfall to move to a lower area.
+KEY_ITEM_W19_WHISTLE_NAME, UI, Eagle Flute
+KEY_ITEM_W19_WHISTLE_DESCRIPTION, UI, Play the flute to have the eagle help you.
+KEY_ITEM_W19_SCALE_NAME, UI, Shell Piece
+KEY_ITEM_W19_SCALE_DESCRIPTION, UI, A shell piece that seems to fit on the petrified turtle.
+KEY_ITEM_W19_TOOTH_NAME, UI, Bear Tooth
+KEY_ITEM_W19_TOOTH_DESCRIPTION, UI, A sharp tooth that seems to fit in the mouth of the petrified bear.
+KEY_ITEM_W19_NUT_NAME, UI, Walnut
+KEY_ITEM_W19_NUT_DESCRIPTION, UI, A large walnut that will make the petrified squirrel's day.
+KEY_ITEM_W19_WINGS_NAME, UI, Bat Wing
+KEY_ITEM_W19_WINGS_DESCRIPTION, UI, A large wing that seems to match the petrified bat.
+KEY_ITEM_W19_EGGS_NAME, UI, Bird Egg
+KEY_ITEM_W19_EGGS_DESCRIPTION, UI, A snake stole this egg and was looking to eat it. It clearly belongs elsewhere.
+KEY_ITEM_W19_BRANCH_NAME, UI, Stick
+KEY_ITEM_W19_BRANCH_DESCRIPTION, UI, A stick from the beaver's dam.
+KEY_ITEM_W14_WATER_NAME, UI, Bottle of Water
+KEY_ITEM_W14_WATER_DESCRIPTION, UI, A bottle of fresh water.
+KEY_ITEM_W14_ANTIDOTE_NAME, UI, Antidote
+KEY_ITEM_W14_ANTIDOTE_DESCRIPTION, UI, A witchy potion that can neutralize all manner of poisons.
+KEY_ITEM_W19_ANT_NAME, UI, Lost Ant
+KEY_ITEM_W19_ANT_DESCRIPTION, UI, This ant is lost. Take it back to its colony.
+KEY_ITEM_W19_CUCKOO_NAME, UI, Cuckoo
+KEY_ITEM_W19_CUCKOO_DESCRIPTION, UI, A cuckoo that wants to go back to its nest.
+KEY_ITEM_W19_OWL_NAME, UI, Owl
+KEY_ITEM_W19_OWL_DESCRIPTION, UI, An owl that wants to go back to its nest.
+KEY_ITEM_W19_DRAGONFLY_NAME, UI, Dragonfly
+KEY_ITEM_W19_DRAGONFLY_DESCRIPTION, UI, This dragonfly is lost. Take it back to its friend.
+KEY_ITEM_W08_EARTHWORM_NORMAL_NAME, UI, Worm
+KEY_ITEM_W08_EARTHWORM_NORMAL_DESCRIPTION, UI, Food for the residents of Cordycep. Acceptably nutritious at the end of the day.
+KEY_ITEM_W08_EARTHWORM_RARE_NAME, UI, Healthy Worm
+KEY_ITEM_W08_EARTHWORM_RARE_DESCRIPTION, UI, Food for the residents of Cordycep. A lively specimen chock-full of nutrients.
+KEY_ITEM_W08_STONE_NORMAL_NAME, UI, Regular Stone
+KEY_ITEM_W08_STONE_NORMAL_DESCRIPTION, UI, A stone that looks and feels normal. Someone is collecting such things.
+KEY_ITEM_W08_STONE_RARE_NAME, UI, High-Quality Stone
+KEY_ITEM_W08_STONE_RARE_DESCRIPTION, UI, A beautiful stone with a smooth texture. Someone is collecting such things.
+KEY_ITEM_W13_ENERGY_NAME, UI, Energy Inhibitor
+KEY_ITEM_W13_ENERGY_DESCRIPTION, UI, A device that controls the sand's energy functions, making it difficult for it to undergo complicated movements.
+KEY_ITEM_W13_BREAK_NAME, UI, Dispersal Inhibitor
+KEY_ITEM_W13_BREAK_DESCRIPTION, UI, A device that prevents the sand from falling apart, making it difficult for it to take defensive actions.
+KEY_ITEM_W13_FOCUS_NAME, UI, Clustering Inhibitor
+KEY_ITEM_W13_FOCUS_DESCRIPTION, UI, A device that prevents the sand from clumping, making it difficult for it to take offensive actions.
+KEY_ITEM_W13_MOVE_NAME, UI, Shifting Inhibitor
+KEY_ITEM_W13_MOVE_DESCRIPTION, UI, A device that prevents the sand from shifting, making it difficult for it to take quick movements.
+KEY_ITEM_C01_LAST_TICKET_NAME, UI, Ticket for the Beyond
+KEY_ITEM_C01_LAST_TICKET_DESCRIPTION, UI, What horrifically challenging visions await you in the Beyond?
+KEY_ITEM_C01_YARIKOMI_TICKET_1_NAME, UI, Mr. S's Challenge 1
+KEY_ITEM_C01_YARIKOMI_TICKET_1_DESCRIPTION, UI, Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before.
+KEY_ITEM_C01_YARIKOMI_TICKET_2_NAME, UI, Mr. S's Challenge 2
+KEY_ITEM_C01_YARIKOMI_TICKET_2_DESCRIPTION, UI, Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before.
+KEY_ITEM_C01_YARIKOMI_TICKET_3_NAME, UI, Mr. S's Challenge 3
+KEY_ITEM_C01_YARIKOMI_TICKET_3_DESCRIPTION, UI, Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before.
+KEY_ITEM_C01_YARIKOMI_TICKET_4_NAME, UI, Mr. S's Challenge 4
+KEY_ITEM_C01_YARIKOMI_TICKET_4_DESCRIPTION, UI, Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before.
+KEY_ITEM_C01_YARIKOMI_TICKET_5_NAME, UI, Mr. S's Challenge 5
+KEY_ITEM_C01_YARIKOMI_TICKET_5_DESCRIPTION, UI, Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before.
+KEY_ITEM_C01_YARIKOMI_TICKET_6_NAME, UI, Mr. S's Challenge 6
+KEY_ITEM_C01_YARIKOMI_TICKET_6_DESCRIPTION, UI, Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before.
+KEY_ITEM_C01_YARIKOMI_TICKET_7_NAME, UI, Mr. S's Challenge 7
+KEY_ITEM_C01_YARIKOMI_TICKET_7_DESCRIPTION, UI, Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before.
+KEY_ITEM_C01_YARIKOMI_TICKET_8_NAME, UI, Mr. S's Challenge 8
+KEY_ITEM_C01_YARIKOMI_TICKET_8_DESCRIPTION, UI, Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before.

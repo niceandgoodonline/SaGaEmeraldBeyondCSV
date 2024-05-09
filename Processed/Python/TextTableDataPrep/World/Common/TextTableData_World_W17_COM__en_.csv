@@ -1,0 +1,268 @@
+label, speaker, text
+W17_LTXT_COMM_CASTLE_000_TITLE, UI, Castle
+W17_LTXT_COMM_CASTLE_000_DETAIL, UI, The beautiful, sturdy castle of King Din. If it falls to the forces of Chaos, this world is doomed.
+W17_LTXT_COMM_HOLE_000_TITLE, UI, Cleft of Chaos
+W17_LTXT_COMM_HOLE_000_DETAIL, UI, New additions to the forces of Chaos emerge endlessly from this great chasm. Just being near it makes your blood run cold. Where could it possibly lead?
+W17_LTXT_COMM_FOREST_000_TITLE, UI, Forest
+W17_LTXT_COMM_FOREST_000_DETAIL, UI, People tend to give this eerie forest a wide berth. Perhaps that makes it an ideal place for the forces of Chaos.
+W17_LTXT_COMM_LAKE_000_TITLE, UI, Watchtower
+W17_LTXT_COMM_LAKE_000_DETAIL, UI, The forces of Chaos launch their offensives on the castle from the lake. You should keep observing them vigilantly.
+W17_LTXT_COMM_TEMPLE_000_TITLE, UI, Temple
+W17_LTXT_COMM_TEMPLE_000_DETAIL, UI, This location may have been defiled by the forces of Chaos; it doesn't seem prayers from this spot will ever reach their destination.
+W17_LTXT_COMM_RUIN_000_TITLE, UI, Ruins
+W17_LTXT_COMM_RUIN_000_DETAIL, UI, The forces of Chaos descend endlessly on these ruins. What could be causing this?
+W17_LTXT_COMM_GRAVEYARD_000_TITLE, UI, Graveyard
+W17_LTXT_COMM_GRAVEYARD_000_DETAIL, UI, Those who perished in battle are typically laid to rest here, but the current situation is too dire for proper burials.
+W17_LTXT_COMM_FORT_000_TITLE, UI, Fortress
+W17_LTXT_COMM_FORT_000_DETAIL, UI, A fortress that was occupied by the forces of Chaos for a very long time. Though countless warriors now gather here, the enemy still seeks to reclaim it.
+W17_LTXT_COMM_CITY_000_TITLE, UI, Town
+W17_LTXT_COMM_CITY_000_DETAIL, UI, A few brave townsfolk refused to evacuate this place so they might continue fighting the forces of Chaos.
+W17_LTXT_COMM_MINE_000_TITLE, UI, Mine
+W17_LTXT_COMM_MINE_000_DETAIL, UI, This place has been dug up without pause; you now have an equal chance of finding both ore and the forces of Chaos inside.
+W17_LTXT_COMM_FIELD_000_TITLE, UI, Fields
+W17_LTXT_COMM_FIELD_000_DETAIL, UI, These fields provide the food humanity needs to survive.
+W17_LTXT_COMM_VILLAGE_000_TITLE, UI, Village
+W17_LTXT_COMM_VILLAGE_000_DETAIL, UI, As this village is close to the castle, it continues to repel the forces of Chaos.
+W17_LTXT_COMM_CHURCH_000_TITLE, UI, Church
+W17_LTXT_COMM_CHURCH_000_DETAIL, UI, A place that provides emotional support to the people of the land. Alas, the forces of Chaos show no respect for holy ground.
+W17_LTXT_COMM_TEMPLE_010_TITLE, UI, Secure Temple
+W17_LTXT_COMM_TEMPLE_010_DETAIL, UI, Your forces are currently securing this temple, a place where people pray to the divinity of this land.
+W17_LTXT_COMM_RUIN_010_TITLE, UI, Secure Ruins
+W17_LTXT_COMM_RUIN_010_DETAIL, UI, Your forces are currently securing these ruins, a place that speaks to the history of this land.
+W17_LTXT_COMM_GRAVEYARD_010_TITLE, UI, Secure Graveyard
+W17_LTXT_COMM_GRAVEYARD_010_DETAIL, UI, Your forces are currently securing this graveyard, a place where those who died in battle are laid to rest.
+W17_LTXT_COMM_FORT_010_TITLE, UI, Secure Fortress
+W17_LTXT_COMM_FORT_010_DETAIL, UI, Your forces are currently securing this fortress, which is sure to be a key strategic point going forward.
+W17_LTXT_COMM_CITY_010_TITLE, UI, Secure Town
+W17_LTXT_COMM_CITY_010_DETAIL, UI, Your forces are currently securing this town, in which countless people live.
+W17_LTXT_COMM_MINE_010_TITLE, UI, Secure Mine
+W17_LTXT_COMM_MINE_010_DETAIL, UI, Your forces are currently securing this mine, which is filled with natural resources.
+W17_LTXT_COMM_FIELD_010_TITLE, UI, Secure Fields
+W17_LTXT_COMM_FIELD_010_DETAIL, UI, Your forces are currently securing these fields, which provide the food humanity needs to survive.
+W17_LTXT_COMM_VILLAGE_010_TITLE, UI, Secure Village
+W17_LTXT_COMM_VILLAGE_010_DETAIL, UI, Your forces are currently securing this village, in which countless people live.
+W17_LTXT_COMM_CHURCH_010_TITLE, UI, Secure Church
+W17_LTXT_COMM_CHURCH_010_DETAIL, UI, Your forces are currently securing this church, which provides emotional support for the people of this land.
+W17_LTXT_COMM_TEMPLE_020_TITLE, UI, Neutral Temple
+W17_LTXT_COMM_TEMPLE_020_DETAIL, UI, This temple is currently neutral. You should focus the war effort elsewhere.
+W17_LTXT_COMM_RUIN_020_TITLE, UI, Neutral Ruins
+W17_LTXT_COMM_RUIN_020_DETAIL, UI, These ruins are currently neutral. You should focus the war effort elsewhere.
+W17_LTXT_COMM_GRAVEYARD_020_TITLE, UI, Neutral Graveyard
+W17_LTXT_COMM_GRAVEYARD_020_DETAIL, UI, This graveyard is currently neutral. You should focus the war effort elsewhere.
+W17_LTXT_COMM_FORT_020_TITLE, UI, Neutral Fortress
+W17_LTXT_COMM_FORT_020_DETAIL, UI, This fortress is currently neutral. You should focus the war effort elsewhere.
+W17_LTXT_COMM_CITY_020_TITLE, UI, Neutral Town
+W17_LTXT_COMM_CITY_020_DETAIL, UI, This town is currently neutral. You should focus the war effort elsewhere.
+W17_LTXT_COMM_MINE_020_TITLE, UI, Neutral Mine
+W17_LTXT_COMM_MINE_020_DETAIL, UI, This mine is currently neutral. You should focus the war effort elsewhere.
+W17_LTXT_COMM_FIELD_020_TITLE, UI, Neutral Fields
+W17_LTXT_COMM_FIELD_020_DETAIL, UI, These fields are currently neutral. You should focus the war effort elsewhere.
+W17_LTXT_COMM_VILLAGE_020_TITLE, UI, Neutral Village
+W17_LTXT_COMM_VILLAGE_020_DETAIL, UI, This village is currently neutral. You should focus the war effort elsewhere.
+W17_LTXT_COMM_CHURCH_020_TITLE, UI, Neutral Church
+W17_LTXT_COMM_CHURCH_020_DETAIL, UI, This church is currently neutral. You should focus the war effort elsewhere.
+W17_LTXT_COMM_TEMPLE_030_TITLE, UI, Occupied Temple
+W17_LTXT_COMM_TEMPLE_030_DETAIL, UI, This temple has fallen to the enemy. However, you must focus the war effort elsewhere.
+W17_LTXT_COMM_RUIN_030_TITLE, UI, Occupied Ruins
+W17_LTXT_COMM_RUIN_030_DETAIL, UI, These ruins have fallen to the enemy. However, you must focus the war effort elsewhere.
+W17_LTXT_COMM_GRAVEYARD_030_TITLE, UI, Occupied Graveyard
+W17_LTXT_COMM_GRAVEYARD_030_DETAIL, UI, This graveyard has fallen to the enemy. However, you must focus the war effort elsewhere.
+W17_LTXT_COMM_FORT_030_TITLE, UI, Occupied Fortress
+W17_LTXT_COMM_FORT_030_DETAIL, UI, This fortress has fallen to the enemy. However, you must focus the war effort elsewhere.
+W17_LTXT_COMM_CITY_030_TITLE, UI, Occupied Town
+W17_LTXT_COMM_CITY_030_DETAIL, UI, This town has fallen to the enemy. However, you must focus the war effort elsewhere.
+W17_LTXT_COMM_MINE_030_TITLE, UI, Occupied Mine
+W17_LTXT_COMM_MINE_030_DETAIL, UI, This mine has fallen to the enemy. However, you must focus the war effort elsewhere.
+W17_LTXT_COMM_FIELD_030_TITLE, UI, Occupied Fields
+W17_LTXT_COMM_FIELD_030_DETAIL, UI, These fields have fallen to the enemy. However, you must focus the war effort elsewhere.
+W17_LTXT_COMM_VILLAGE_030_TITLE, UI, Occupied Village
+W17_LTXT_COMM_VILLAGE_030_DETAIL, UI, This village has fallen to the enemy. However, you must focus the war effort elsewhere.
+W17_LTXT_COMM_CHURCH_030_TITLE, UI, Occupied Church
+W17_LTXT_COMM_CHURCH_030_DETAIL, UI, This church has fallen to the enemy. However, you must focus the war effort elsewhere.
+W17_WRLD_COMM_INITIAL_000_TITLE, UI, Brighthome, World of Warriors
+W17_WRLD_COMM_INITIAL_000_DETAIL, UI, You have arrived in Brighthome, a world where warriors gather.
+W17_SCAN_COMM_INITIAL_WAVE_000_TITLE, UI, Fate's Guidance
+W17_SCAN_COMM_INITIAL_WAVE_000_DETAIL, UI, War is being waged across this land. For what purpose have you been summoned here?
+W17_EVAR_COMM_CASTLE_000_TITLE, UI, The Castle That Protects This Land
+W17_EVAR_COMM_CASTLE_000_DETAIL, UI, You feel as if you're being guided to this beautiful, sturdy castle, and hear someone calling out to you.
+W17_EVAR_COMM_CASTLE_000_BUTTON, UI, Visit the Castle
+W17_EVAR_COMM_CASTLE_TUT_000_TITLE, UI, The Castle That Protects This Land
+W17_EVAR_COMM_CASTLE_TUT_000_DETAIL, UI, You feel as if you're being guided to this beautiful, sturdy castle, and hear someone calling out to you.
+W17_EVAR_COMM_CASTLE_TUT_000_BUTTON, UI, Visit the Castle
+W17_EVAR_COMM_TEMPLE_000_TITLE, UI, Chaos Approaches the Temple
+W17_EVAR_COMM_TEMPLE_000_DETAIL, UI, The forces of Chaos are approaching the temple. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_TEMPLE_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_TEMPLE_010_TITLE, UI, Battle at the Temple
+W17_EVAR_COMM_TEMPLE_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_TEMPLE_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_TEMPLE_TUT_000_TITLE, UI, Chaos Approaches the Temple
+W17_EVAR_COMM_TEMPLE_TUT_000_DETAIL, UI, The forces of Chaos are approaching the temple. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_TEMPLE_TUT_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_TEMPLE_TUT_010_TITLE, UI, Battle at the Temple
+W17_EVAR_COMM_TEMPLE_TUT_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_TEMPLE_TUT_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_TEMPLE_ITEM_000_TITLE, UI, Chaos Approaches the Temple/Legendary Treasure
+W17_EVAR_COMM_TEMPLE_ITEM_000_DETAIL, UI, You must repel the approaching forces of Chaos from this area. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_TEMPLE_ITEM_000_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_TEMPLE_ITEM_010_TITLE, UI, Battle at the Temple/Legendary Treasure
+W17_EVAR_COMM_TEMPLE_ITEM_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_TEMPLE_ITEM_010_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_RUIN_000_TITLE, UI, Chaos Approaches the Ruins
+W17_EVAR_COMM_RUIN_000_DETAIL, UI, The forces of Chaos are approaching the ruins. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_RUIN_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_RUIN_010_TITLE, UI, Battle at the Ruins
+W17_EVAR_COMM_RUIN_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_RUIN_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_RUIN_TUT_000_TITLE, UI, Chaos Approaches the Ruins
+W17_EVAR_COMM_RUIN_TUT_000_DETAIL, UI, The forces of Chaos are approaching the ruins. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_RUIN_TUT_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_RUIN_ITEM_000_TITLE, UI, Chaos Approaches the Ruins/Legendary Treasure
+W17_EVAR_COMM_RUIN_ITEM_000_DETAIL, UI, You must repel the approaching forces of chaos from this area. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_RUIN_ITEM_000_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_RUIN_ITEM_010_TITLE, UI, Battle at the Ruins/Legendary Treasure
+W17_EVAR_COMM_RUIN_ITEM_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_RUIN_ITEM_010_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_FORT_000_TITLE, UI, Reclaiming the Fortress
+W17_EVAR_COMM_FORT_000_DETAIL, UI, Defeat the forces of Chaos and reclaim the fortress.
+W17_EVAR_COMM_FORT_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_FORT_010_TITLE, UI, Battle at the Fortress
+W17_EVAR_COMM_FORT_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_FORT_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_FORT_TUT_000_TITLE, UI, Reclaiming the Fortress
+W17_EVAR_COMM_FORT_TUT_000_DETAIL, UI, Defeat the forces of Chaos and reclaim the fortress.
+W17_EVAR_COMM_FORT_TUT_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_FORT_TUT_010_TITLE, UI, Battle at the Fortress
+W17_EVAR_COMM_FORT_TUT_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_FORT_TUT_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_FORT_ITEM_000_TITLE, UI, Reclaiming the Fortress/Legendary Treasure
+W17_EVAR_COMM_FORT_ITEM_000_DETAIL, UI, Defeat the forces of Chaos and reclaim the fortress. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_FORT_ITEM_000_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_FORT_ITEM_010_TITLE, UI, Battle at the Fortress/Legendary Treasure
+W17_EVAR_COMM_FORT_ITEM_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_FORT_ITEM_010_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_CITY_000_TITLE, UI, Chaos Approaches the Town
+W17_EVAR_COMM_CITY_000_DETAIL, UI, The forces of Chaos are approaching the town. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_CITY_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_CITY_010_TITLE, UI, Battle at the Town
+W17_EVAR_COMM_CITY_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_CITY_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_CITY_TUT_000_TITLE, UI, Chaos Approaches the Town
+W17_EVAR_COMM_CITY_TUT_000_DETAIL, UI, The forces of Chaos are approaching the town. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_CITY_TUT_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_CITY_ITEM_000_TITLE, UI, Chaos Approaches the Town/Legendary Treasure
+W17_EVAR_COMM_CITY_ITEM_000_DETAIL, UI, You must repel the approaching forces of Chaos from this area. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_CITY_ITEM_000_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_CITY_ITEM_010_TITLE, UI, Battle at the Town/Legendary Treasure
+W17_EVAR_COMM_CITY_ITEM_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_CITY_ITEM_010_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_CHURCH_000_TITLE, UI, Protector of the Church
+W17_EVAR_COMM_CHURCH_000_DETAIL, UI, The warrior guarding the church wants to speak to newly summoned warriors.
+W17_EVAR_COMM_CHURCH_000_BUTTON, UI, Speak to the Warrior at the Church
+W17_EVAR_COMM_CHURCH_010_TITLE, UI, The State of the Church
+W17_EVAR_COMM_CHURCH_010_DETAIL, UI, You should check on the warrior guarding the church from time to time to ensure all is well.
+W17_EVAR_COMM_CHURCH_010_BUTTON, UI, Walk Around the Church
+W17_EVAR_COMM_CHURCH_TUT_000_TITLE, UI, Protector of the Church
+W17_EVAR_COMM_CHURCH_TUT_000_DETAIL, UI, The warrior guarding the church wants to speak to newly summoned warriors.
+W17_EVAR_COMM_CHURCH_TUT_000_BUTTON, UI, Speak to the Warrior at the Church
+W17_EVAR_COMM_CHURCH_ITEM_000_TITLE, UI, Protector of the Church/Legendary Treasure
+W17_EVAR_COMM_CHURCH_ITEM_000_DETAIL, UI, The warrior guarding the church wants to speak to newly summoned warriors. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_CHURCH_ITEM_000_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_CHURCH_ITEM_010_TITLE, UI, The State of the Church/Legendary Treasure
+W17_EVAR_COMM_CHURCH_ITEM_010_DETAIL, UI, You should visit the church to ensure all is well. A pirate seeking legendary treasure has also been sighted there.
+W17_EVAR_COMM_CHURCH_ITEM_010_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_GRAVEYARD_000_TITLE, UI, Chaos Approaches the Graveyard
+W17_EVAR_COMM_GRAVEYARD_000_DETAIL, UI, The forces of Chaos are approaching the graveyard. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_GRAVEYARD_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_GRAVEYARD_010_TITLE, UI, Battle at the Graveyard
+W17_EVAR_COMM_GRAVEYARD_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_GRAVEYARD_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_GRAVEYARD_TUT_000_TITLE, UI, Chaos Approaches the Graveyard
+W17_EVAR_COMM_GRAVEYARD_TUT_000_DETAIL, UI, The forces of Chaos are approaching the graveyard. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_GRAVEYARD_TUT_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_GRAVEYARD_ITEM_000_TITLE, UI, Chaos Approaches the Graveyard/Legendary Treasure
+W17_EVAR_COMM_GRAVEYARD_ITEM_000_DETAIL, UI, You must repel the approaching forces of Chaos from this area. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_GRAVEYARD_ITEM_000_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_GRAVEYARD_ITEM_010_TITLE, UI, Battle at the Graveyard/Legendary Treasure
+W17_EVAR_COMM_GRAVEYARD_ITEM_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_GRAVEYARD_ITEM_010_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_MINE_000_TITLE, UI, The Miners
+W17_EVAR_COMM_MINE_000_DETAIL, UI, The miners seem to have a lot on their minds. Perhaps you can help them in some way?
+W17_EVAR_COMM_MINE_000_BUTTON, UI, Go to the Mine
+W17_EVAR_COMM_MINE_010_TITLE, UI, The State of the Mine
+W17_EVAR_COMM_MINE_010_DETAIL, UI, The miners have to keep working even while defending the mine. You should check in on them from time to time.
+W17_EVAR_COMM_MINE_010_BUTTON, UI, Walk Around the Mine
+W17_EVAR_COMM_MINE_TUT_000_TITLE, UI, The Miners
+W17_EVAR_COMM_MINE_TUT_000_DETAIL, UI, The miners seem to have a lot on their minds. Perhaps you can help them in some way?
+W17_EVAR_COMM_MINE_TUT_000_BUTTON, UI, Go to the Mine
+W17_EVAR_COMM_MINE_ITEM_000_TITLE, UI, The Miners/Legendary Treasure
+W17_EVAR_COMM_MINE_ITEM_000_DETAIL, UI, The miners seem to have a lot on their minds. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_MINE_ITEM_000_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_MINE_ITEM_010_TITLE, UI, State of the Mine/Legendary Treasure
+W17_EVAR_COMM_MINE_ITEM_010_DETAIL, UI, You should see if the mine is still unharmed. A pirate seeking legendary treasure has also been sighted there.
+W17_EVAR_COMM_MINE_ITEM_010_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_FIELD_000_TITLE, UI, Chaos Approaches the Fields
+W17_EVAR_COMM_FIELD_000_DETAIL, UI, The forces of Chaos are approaching the fields. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_FIELD_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_FIELD_010_TITLE, UI, Battle in the Fields
+W17_EVAR_COMM_FIELD_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_FIELD_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_FIELD_TUT_000_TITLE, UI, Chaos Approaches the Fields
+W17_EVAR_COMM_FIELD_TUT_000_DETAIL, UI, The forces of Chaos are approaching the fields. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_FIELD_TUT_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_FIELD_TUT_010_TITLE, UI, Battle in the Fields
+W17_EVAR_COMM_FIELD_TUT_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_FIELD_TUT_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_FIELD_ITEM_000_TITLE, UI, Chaos Approaches the Fields/Legendary Treasure
+W17_EVAR_COMM_FIELD_ITEM_000_DETAIL, UI, You must repel the approaching forces of Chaos from this area. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_FIELD_ITEM_000_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_FIELD_ITEM_010_TITLE, UI, Battle in the Fields/Legendary Treasure
+W17_EVAR_COMM_FIELD_ITEM_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_FIELD_ITEM_010_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_VILLAGE_000_TITLE, UI, Chaos Approaches the Village
+W17_EVAR_COMM_VILLAGE_000_DETAIL, UI, The forces of Chaos are approaching the village. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_VILLAGE_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_VILLAGE_010_TITLE, UI, Battle in the Village
+W17_EVAR_COMM_VILLAGE_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_VILLAGE_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_VILLAGE_TUT_000_TITLE, UI, Chaos Approaches the Village
+W17_EVAR_COMM_VILLAGE_TUT_000_DETAIL, UI, The forces of Chaos are approaching the village. Repel them with the other warriors at your side and prevent them from expanding their hold over the land.
+W17_EVAR_COMM_VILLAGE_TUT_000_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_VILLAGE_TUT_010_TITLE, UI, Battle in the Village
+W17_EVAR_COMM_VILLAGE_TUT_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. You must ensure it's always either occupied by your forces or neutral.
+W17_EVAR_COMM_VILLAGE_TUT_010_BUTTON, UI, Repel the Forces of Chaos
+W17_EVAR_COMM_VILLAGE_ITEM_000_TITLE, UI, Chaos Approaches the Village/Legendary Treasure
+W17_EVAR_COMM_VILLAGE_ITEM_000_DETAIL, UI, You must repel the approaching forces of Chaos from this area. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_VILLAGE_ITEM_000_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_VILLAGE_ITEM_010_TITLE, UI, Battle in the Village/Legendary Treasure
+W17_EVAR_COMM_VILLAGE_ITEM_010_DETAIL, UI, If this area is left unprotected for too long, the forces of Chaos will claim it as their own. A pirate seeking legendary treasure has also been sighted here.
+W17_EVAR_COMM_VILLAGE_ITEM_010_BUTTON, UI, Pursue the Pirate
+W17_EVAR_COMM_HOLE_000_TITLE, UI, Cleft of Chaos
+W17_EVAR_COMM_HOLE_000_DETAIL, UI, The time has come to seal the Cleft of Chaos. You and the warriors must set off for the final battle.
+W17_EVAR_COMM_HOLE_000_BUTTON, UI, Seal the Cleft of Chaos
+W17_EVAR_COMM_HOLE_010_TITLE, UI, Cleft of Chaos
+W17_EVAR_COMM_HOLE_010_DETAIL, UI, The time has come to seal the Cleft of Chaos. You and the warriors must set off for the final battle.
+W17_EVAR_COMM_HOLE_010_BUTTON, UI, Seal the Cleft of Chaos
+W17_EVAR_COMM_HOLE_020_TITLE, UI, Cleft of Chaos
+W17_EVAR_COMM_HOLE_020_DETAIL, UI, The time has come to seal the Cleft of Chaos. You and the warriors must set off for the final battle.
+W17_EVAR_COMM_HOLE_020_BUTTON, UI, Seal the Cleft of Chaos
+W17_EVAR_COMM_HOLE_030_TITLE, UI, Cleft of Chaos
+W17_EVAR_COMM_HOLE_030_DETAIL, UI, The time has come to seal the Cleft of Chaos. You and the warriors must set off for the final battle.
+W17_EVAR_COMM_HOLE_030_BUTTON, UI, Seal the Cleft of Chaos
+W17_EVAR_COMM_HOLE_040_TITLE, UI, Cleft of Chaos
+W17_EVAR_COMM_HOLE_040_DETAIL, UI, Obtaining the legendary treasure has turned the tide of battle in your favor. The time has finally come to seal the Cleft of Chaos.
+W17_EVAR_COMM_HOLE_040_BUTTON, UI, Seal the Cleft of Chaos
+W17_EVAR_COMM_WORLDEXIT_000_TITLE, UI, Time to Leave
+W17_EVAR_COMM_WORLDEXIT_000_DETAIL, UI, The time has come to depart this world. You can leave as soon as you are ready.
+W17_EVAR_COMM_WORLDEXIT_000_BUTTON, UI, Leave This World
+W17_EVAR_COMM_REBEL_000_TITLE, UI, Stop the Rebels!
+W17_EVAR_COMM_REBEL_000_DETAIL, UI, The warriors summoned by King Din have formed a rebel army. Stop them from reaching the castle.
+W17_EVAR_COMM_REBEL_000_BUTTON, UI, Stop the Rebels
+W17_EVAR_COMM_REBEL_010_TITLE, UI, Defeat the Rebels!
+W17_EVAR_COMM_REBEL_010_DETAIL, UI, The rebels are drawing dangerously close to King Din's castle. If they were to occupy it, it would spell the end of this world.
+W17_EVAR_COMM_REBEL_010_BUTTON, UI, Fight the Rebels
+W17_EVAR_COMM_ITEM_000_TITLE, UI, Legendary Weapon
+W17_EVAR_COMM_ITEM_000_DETAIL, UI, A strange person is searching for something in the castle. Perhaps you should try to help?
+W17_EVAR_COMM_ITEM_000_BUTTON, UI, Speak to Them
+W17_EVAR_COMM_SIMON_000_TITLE, UI, Gunner's Thoughts
+W17_EVAR_COMM_SIMON_000_DETAIL, UI, Gunner is in the fortress, and seems preoccupied by something. What could be wrong? 
+W17_EVAR_COMM_SIMON_000_BUTTON, UI, Speak to Gunner

@@ -1,0 +1,259 @@
+label, speaker, text
+W12_EVAR_COMM_EXIT01_000_TITLE, UI, The World's Exit
+W12_EVAR_COMM_EXIT01_000_DETAIL, UI, You should be able to leave this world from here.
+W12_EVAR_COMM_EXIT01_000_BUTTON, UI, Leave This World
+W12_EVAR_COMM_EXIT02_000_TITLE, UI, The World's Exit
+W12_EVAR_COMM_EXIT02_000_DETAIL, UI, You should be able to leave this world from here.
+W12_EVAR_COMM_EXIT02_000_BUTTON, UI, Leave This World
+W12_LTXT_COMM_TOWN01_000_TITLE, UI, Duvall
+W12_LTXT_COMM_TOWN01_000_DETAIL, UI, A frozen, mostly silent town. All you hear is the sound of wind and a faint noise resembling the cries of townsfolk.
+W12_LTXT_COMM_TOWN01_010_TITLE, UI, Duvall
+W12_LTXT_COMM_TOWN01_010_DETAIL, UI, A newly thawed town in the mountains. You hear cheerful voices coming from within.
+W12_LTXT_COMM_TOWN02_000_TITLE, UI, Varsailles
+W12_LTXT_COMM_TOWN02_000_DETAIL, UI, A large frozen city. Its buildings and people have all been turned to ice, making it impossible to enter.
+W12_LTXT_COMM_TOWN02_010_TITLE, UI, Varsailles
+W12_LTXT_COMM_TOWN02_010_DETAIL, UI, A large, newly thawed city built in the architectural style of the old empire. It's once again as lively as ever.
+W12_LTXT_COMM_ARCHEOCAMP01_000_TITLE, UI, Frozen Bathhouse Ruins Camp
+W12_LTXT_COMM_ARCHEOCAMP01_000_DETAIL, UI, The survey team's camp at the bathhouse ruins has been frozen. Will you find frozen team members here?
+W12_LTXT_COMM_ARCHEOCAMP01_010_TITLE, UI, Bathhouse Ruins Camp
+W12_LTXT_COMM_ARCHEOCAMP01_010_DETAIL, UI, The survey team researching the bathhouse ruins lives in this camp—hence the comfortable tents.
+W12_LTXT_COMM_ARCHEOCAMP02_000_TITLE, UI, Frozen Watchtower Ruins Camp
+W12_LTXT_COMM_ARCHEOCAMP02_000_DETAIL, UI, The survey team's camp at the watchtower ruins has been frozen. Will you find frozen team members here?
+W12_LTXT_COMM_ARCHEOCAMP02_010_TITLE, UI, Watchtower Ruins Camp
+W12_LTXT_COMM_ARCHEOCAMP02_010_DETAIL, UI, The survey team researching the watchtower ruins lives in this camp—hence the comfortable tents.
+W12_LTXT_COMM_ARCHEOCAMP03_000_TITLE, UI, Frozen Church Ruins Camp
+W12_LTXT_COMM_ARCHEOCAMP03_000_DETAIL, UI, The survey team's camp at the church ruins has been frozen. Will you find frozen team members here?
+W12_LTXT_COMM_ARCHEOCAMP03_010_TITLE, UI, Church Ruins Camp
+W12_LTXT_COMM_ARCHEOCAMP03_010_DETAIL, UI, The survey team researching the church ruins lives in this camp—hence the comfortable tents.
+W12_LTXT_COMM_LADDERFOLDED_000_TITLE, UI, Ladder
+W12_LTXT_COMM_LADDERFOLDED_000_DETAIL, UI, A ladder that has been stowed.
+W12_LTXT_COMM_LADDER_000_TITLE, UI, Ladder
+W12_LTXT_COMM_LADDER_000_DETAIL, UI, A sturdy ladder you can use to conquer cliffs.
+W12_LTXT_COMM_RUINS01_000_TITLE, UI, Bathhouse Ruins
+W12_LTXT_COMM_RUINS01_000_DETAIL, UI, The ruins of an Imperial-era bathhouse. Researchers are currently attempting to unravel its history.
+W12_LTXT_COMM_RUINS02_000_TITLE, UI, Church Ruins
+W12_LTXT_COMM_RUINS02_000_DETAIL, UI, The ruins of an Imperial-era church. Researchers are currently attempting to unravel its history.
+W12_LTXT_COMM_RUINS03_000_TITLE, UI, Watchtower Ruins
+W12_LTXT_COMM_RUINS03_000_DETAIL, UI, The ruins of an Imperial-era watchtower. Researchers are currently attempting to unravel its history.
+W12_LTXT_COMM_WINDMILL_000_TITLE, UI, Frozen Windmill
+W12_LTXT_COMM_WINDMILL_000_DETAIL, UI, This windmill was built to mill flour. Now that it's frozen, however, it can no longer do so.
+W12_LTXT_COMM_WINDMILL_010_TITLE, UI, Windmill
+W12_LTXT_COMM_WINDMILL_010_DETAIL, UI, This windmill is now free of ice. Its fine blades catch the wind and spin as it mills grain.
+W12_LTXT_COMM_MINE01_000_TITLE, UI, Coal Mine
+W12_LTXT_COMM_MINE01_000_DETAIL, UI, A place where brawny miners dig for coal. There is a danger that fiends will emerge from tunnels that have been mined too heavily.
+W12_LTXT_COMM_MINE02_000_TITLE, UI, Copper Mine
+W12_LTXT_COMM_MINE02_000_DETAIL, UI, A place where brawny miners dig for copper. You sense something unpleasant lurking deep within its tunnels.
+W12_LTXT_COMM_MINE03_000_TITLE, UI, Closed Great Mine
+W12_LTXT_COMM_MINE03_000_DETAIL, UI, The entrance to this mine was seemingly sealed long ago. You find yourself curious as to why.
+W12_LTXT_COMM_CABIN_000_TITLE, UI, Mountain Hut
+W12_LTXT_COMM_CABIN_000_DETAIL, UI, A hut containing tools needed to live the mountain life. Carefully chosen by a lumberjack, they are all in pristine condition.
+W12_LTXT_COMM_FUNICULARBATTLE_000_TITLE, UI, Mountaintop Cable Car Hut
+W12_LTXT_COMM_FUNICULARBATTLE_000_DETAIL, UI, This cable car would ordinarily take you to the church at the ravine entrance—as well as the ski slope—but it's currently not in operation.
+W12_LTXT_COMM_FENCEGATE_000_TITLE, UI, Ice Palace's Gates
+W12_LTXT_COMM_FENCEGATE_000_DETAIL, UI, The giant gates leading to the Ice Palace. They won't budge, perhaps due to being frozen.
+W12_LTXT_COMM_FENCEGATE_010_TITLE, UI, Opening the Ice Palace's Gates
+W12_LTXT_COMM_FENCEGATE_010_DETAIL, UI, You'll need to break the seal on the gates in order to go inside. Doing so will require specific artifacts.
+W12_LTXT_COMM_FENCEGATE_OPENED_000_TITLE, UI, Opened Palace Gates
+W12_LTXT_COMM_FENCEGATE_OPENED_000_DETAIL, UI, The Ice Palace's gates are no longer sealed.
+W12_LTXT_COMM_ICECASTLE_100_TITLE, UI, Ice Palace
+W12_LTXT_COMM_ICECASTLE_100_DETAIL, UI, The palace where the final emperor was sealed away.
+W12_LTXT_COMM_ICECASTLE_200_TITLE, UI, Ice Palace
+W12_LTXT_COMM_ICECASTLE_200_DETAIL, UI, The palace where the final emperor was sealed away.
+W12_LTXT_COMM_ICECASTLE_300_TITLE, UI, Ice Palace
+W12_LTXT_COMM_ICECASTLE_300_DETAIL, UI, The palace where the final emperor was sealed away.
+W12_LTXT_COMM_VILLAGER01_000_TITLE, UI, Frozen Villager
+W12_LTXT_COMM_VILLAGER01_000_DETAIL, UI, This villager looks to have been frozen while taking a walk. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER02_000_TITLE, UI, Frozen Skier
+W12_LTXT_COMM_VILLAGER02_000_DETAIL, UI, This skier looks to have been frozen while out on the slopes. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER03_000_TITLE, UI, Frozen Miner
+W12_LTXT_COMM_VILLAGER03_000_DETAIL, UI, This miner looks to have been frozen while carrying coal. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER04_000_TITLE, UI, Frozen Farmer
+W12_LTXT_COMM_VILLAGER04_000_DETAIL, UI, This farmer looks to have been frozen while hard at work. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER05_000_TITLE, UI, Frozen Miner
+W12_LTXT_COMM_VILLAGER05_000_DETAIL, UI, This miner looks to have been frozen while standing watch at the mine's entrance. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER06_000_TITLE, UI, Frozen Lumberjack
+W12_LTXT_COMM_VILLAGER06_000_DETAIL, UI, This lumberjack looks to have been frozen while splitting wood. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER07_000_TITLE, UI, Frozen Researcher
+W12_LTXT_COMM_VILLAGER07_000_DETAIL, UI, This researcher looks to have been frozen while on a survey mission. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER08_000_TITLE, UI, Frozen Researcher
+W12_LTXT_COMM_VILLAGER08_000_DETAIL, UI, This researcher looks to have been frozen while on a survey mission. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER09_000_TITLE, UI, Frozen Miner
+W12_LTXT_COMM_VILLAGER09_000_DETAIL, UI, This miner looks to have been frozen on their way into the copper mine. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER10_000_TITLE, UI, Frozen Researcher
+W12_LTXT_COMM_VILLAGER10_000_DETAIL, UI, This researcher looks to have been frozen while on a survey mission. You wonder if there's a way to free them.
+W12_LTXT_COMM_VILLAGER11_000_TITLE, UI, Frozen Villager
+W12_LTXT_COMM_VILLAGER11_000_DETAIL, UI, This villager looks to have been frozen while taking photographs. You wonder if there's a way to free them.
+W12_GIMK_COMM_FUNICULARTOP_000_TITLE, UI, Mountaintop Cable Car Hut
+W12_GIMK_COMM_FUNICULARTOP_000_DETAIL, UI, You can use the cable car to reach the ski slope and church ruins at the ravine's entrance.
+W12_GIMK_COMM_FUNICULARTOP_000_BUTTON, UI, Ride the Cable Car
+W12_GIMK_COMM_FUNICULARMIDDLE_000_TITLE, UI, Cable Car Station: Ski Slope Entrance
+W12_GIMK_COMM_FUNICULARMIDDLE_000_DETAIL, UI, You can use the cable car to access the mountaintop hut or the church ruins.
+W12_GIMK_COMM_FUNICULARMIDDLE_000_BUTTON, UI, Ride the Cable Car
+W12_GIMK_COMM_FUNICULARDOWN_000_TITLE, UI, Cable Car Station: Ravine Entrance
+W12_GIMK_COMM_FUNICULARDOWN_000_DETAIL, UI, You can use the cable car to access the mountaintop hut or the ski slope.
+W12_GIMK_COMM_FUNICULARDOWN_000_BUTTON, UI, Ride the Cable Car
+W12_LTXT_COMM_FUNICULARMIDDLE_000_TITLE, UI, Cable Car Station: Ski Slope Entrance
+W12_LTXT_COMM_FUNICULARMIDDLE_000_DETAIL, UI, You can use the cable car to access the mountaintop hut or the church ruins.
+W12_LTXT_COMM_FUNICULARDOWN_000_TITLE, UI, Cable Car Station: Ravine Entrance
+W12_LTXT_COMM_FUNICULARDOWN_000_DETAIL, UI, You can use the cable car to access the mountaintop hut or the ski slope.
+W12_GIMK_COMM_LADDERTOP_000_TITLE, UI, Ladder
+W12_GIMK_COMM_LADDERTOP_000_DETAIL, UI, This will let you reach the bottom of the cliff.
+W12_GIMK_COMM_LADDERTOP_000_BUTTON, UI, Descend the Ladder
+W12_GIMK_COMM_LADDERDOWN_000_TITLE, UI, Ladder
+W12_GIMK_COMM_LADDERDOWN_000_DETAIL, UI, This will let you reach the top of the cliff.
+W12_GIMK_COMM_LADDERDOWN_000_BUTTON, UI, Ascend the Ladder
+W12_GIMK_COMM_SKIPOLE_DOWN_TITLE, UI, Fallen Flags
+W12_GIMK_COMM_SKIPOLE_DOWN_DETAIL, UI, Flags used in the skiing challenge. You'll need to use them well to succeed.
+W12_GIMK_COMM_SKIPOLE_DOWN_BUTTON, UI, Stand the Flags Up
+W12_LTXT_COMM_SKIPOLE_UP_TITLE, UI, Ski Flags
+W12_LTXT_COMM_SKIPOLE_UP_DETAIL, UI, These flags are used in a skiing challenge.
+W12_EVAR_COMM_LADDERTOP_000_TITLE, UI, Lower the Ladder
+W12_EVAR_COMM_LADDERTOP_000_DETAIL, UI, You can create a shortcut to the bottom of the cliff by lowering this ladder.
+W12_EVAR_COMM_LADDERTOP_000_BUTTON, UI, Lower the Ladder
+W12_EVAR_COMM_MARION_DIALOG_000_TITLE, UI, Marion Wants to Talk
+W12_EVAR_COMM_MARION_DIALOG_000_DETAIL, UI, Marion, the mayor of Duvall, wants to talk to you.
+W12_EVAR_COMM_MARION_DIALOG_000_BUTTON, UI, Talk to Marion
+W12_EVAR_COMM_MORGANE_DIALOG_000_TITLE, UI, Morgane Wants to Talk
+W12_EVAR_COMM_MORGANE_DIALOG_000_DETAIL, UI, Morgane the skier wants to talk to you.
+W12_EVAR_COMM_MORGANE_DIALOG_000_BUTTON, UI, Talk to Morgane
+W12_EVAR_COMM_MORGANE_DIALOG_010_TITLE, UI, Challenge Successful!
+W12_EVAR_COMM_MORGANE_DIALOG_010_DETAIL, UI, You successfully completed the skiing challenge! Go claim your reward from Morgane.
+W12_EVAR_COMM_MORGANE_DIALOG_010_BUTTON, UI, Talk to Morgane
+W12_EVAR_COMM_MORGANE_DIALOG_020_TITLE, UI, Pro-Level Challenge Successful!
+W12_EVAR_COMM_MORGANE_DIALOG_020_DETAIL, UI, You successfully completed the pro-level skiing challenge! Go claim your reward from Morgane.
+W12_EVAR_COMM_MORGANE_DIALOG_020_BUTTON, UI, Talk to Morgane
+W12_EVAR_COMM_ERIC_DIALOG_000_TITLE, UI, Exploring the Coal Mine
+W12_EVAR_COMM_ERIC_DIALOG_000_DETAIL, UI, This mine seems to have quite a history, so perhaps you will find artifacts here. The deeper inside you go, however, the more dangers you will face.
+W12_EVAR_COMM_ERIC_DIALOG_000_BUTTON, UI, Talk to Eric
+W12_EVAR_COMM_GUILLAUME_QUEST_000_TITLE, UI, Guillaume's Fields
+W12_EVAR_COMM_GUILLAUME_QUEST_000_DETAIL, UI, Fiends have been messing up Guillaume's fields. If someone doesn't stop them, this season's crop will be lost.
+W12_EVAR_COMM_GUILLAUME_QUEST_000_BUTTON, UI, Fight the Fiends
+W12_EVAR_COMM_ESPERANCE_DIALOG_000_TITLE, UI, Exploring the Great Mine
+W12_EVAR_COMM_ESPERANCE_DIALOG_000_DETAIL, UI, Perhaps you will find artifacts here. You should speak with Esperance, who's in charge of the mine.
+W12_EVAR_COMM_ESPERANCE_DIALOG_000_BUTTON, UI, Talk to Esperance
+W12_EVAR_COMM_REMI_DIALOG_000_TITLE, UI, Exploring the Copper Mine
+W12_EVAR_COMM_REMI_DIALOG_000_DETAIL, UI, This mine has been around for quite some time, so you may find artifacts here. However, there may be more dangerous things sleeping here as well.
+W12_EVAR_COMM_REMI_DIALOG_000_BUTTON, UI, Talk to Remi
+W12_EVAR_COMM_SANDRINE_DIALOG_000_TITLE, UI, Sandrine's Invitation
+W12_EVAR_COMM_SANDRINE_DIALOG_000_DETAIL, UI, Sandrine, the mayor of Varsailles, wants to talk to you.
+W12_EVAR_COMM_SANDRINE_DIALOG_000_BUTTON, UI, Talk to Sandrine
+W12_EVAR_COMM_ESPERANCE_KEYQUEST_110_TITLE, UI, Exploring the Coal Mine
+W12_EVAR_COMM_ESPERANCE_KEYQUEST_110_DETAIL, UI, Will you find the artifacts you require to open the Ice Palace's gates in the coal mine?
+W12_EVAR_COMM_ESPERANCE_KEYQUEST_110_BUTTON, UI, Enter the Coal Mine
+W12_EVAR_COMM_ESPERANCE_KEYQUEST_111_TITLE, UI, Exploring the Copper Mine
+W12_EVAR_COMM_ESPERANCE_KEYQUEST_111_DETAIL, UI, Will you find the artifacts you require to open the Ice Palace's gates in the copper mine?
+W12_EVAR_COMM_ESPERANCE_KEYQUEST_111_BUTTON, UI, Enter the Copper Mine
+W12_EVAR_COMM_VIRGILE_QUEST_000_TITLE, UI, Virgile's Favor
+W12_EVAR_COMM_VIRGILE_QUEST_000_DETAIL, UI, Virgile has only recently woken up, and is still a bit groggy. He also seems to need help. Perhaps you should speak to him?
+W12_EVAR_COMM_VIRGILE_QUEST_000_BUTTON, UI, Talk to Virgile
+W12_EVAR_COMM_VIRGILE_QUEST_010_TITLE, UI, Virgile's Favor
+W12_EVAR_COMM_VIRGILE_QUEST_010_DETAIL, UI, You should give Virgile the firewood he requested.
+W12_EVAR_COMM_VIRGILE_QUEST_010_BUTTON, UI, Talk to Virgile
+W12_EVAR_COMM_RUINS01_000_TITLE, UI, Investigating the Bathhouse Ruins
+W12_EVAR_COMM_RUINS01_000_DETAIL, UI, The ruins of an Imperial-era bathhouse. You can search for artifact fragments here.
+W12_EVAR_COMM_RUINS01_000_BUTTON, UI, Investigate the Ruins
+W12_EVAR_COMM_RUINS02_000_TITLE, UI, Investigating the Church Ruins
+W12_EVAR_COMM_RUINS02_000_DETAIL, UI, The ruins of an Imperial-era church. You can search for artifact fragments here.
+W12_EVAR_COMM_RUINS02_000_BUTTON, UI, Investigate the Ruins
+W12_EVAR_COMM_RUINS03_000_TITLE, UI, Investigating the Watchtower Ruins
+W12_EVAR_COMM_RUINS03_000_DETAIL, UI, The ruins of an Imperial-era watchtower. You can search for artifact fragments here.
+W12_EVAR_COMM_RUINS03_000_BUTTON, UI, Investigate the Ruins
+W12_EVAR_COMM_MINE01_000_TITLE, UI, Investigating the Coal Mine
+W12_EVAR_COMM_MINE01_000_DETAIL, UI, You sense fiends in this coal mine, but they should be easy enough to handle.
+W12_EVAR_COMM_MINE01_000_BUTTON, UI, Enter the Coal Mine
+W12_EVAR_COMM_MINE02_000_TITLE, UI, Investigating the Copper Mine
+W12_EVAR_COMM_MINE02_000_DETAIL, UI, You sense fiends in this copper mine, but they should be easy enough to handle.
+W12_EVAR_COMM_MINE02_000_BUTTON, UI, Enter the Copper Mine
+W12_EVAR_COMM_MINE03_010_TITLE, UI, Investigating the Great Mine
+W12_EVAR_COMM_MINE03_010_DETAIL, UI, You should be able to force the entrance to this mine open. You sense powerful fiends within, so make sure you're prepared before entering.
+W12_EVAR_COMM_MINE03_010_BUTTON, UI, Enter the Great Mine
+W12_EVAR_COMM_ALEXANDRE_000_TITLE, UI, The Wandering Youth
+W12_EVAR_COMM_ALEXANDRE_000_DETAIL, UI, You found a boy who isn't frozen. He seems like he's in a bit of a daze, but maybe you can get him to talk.
+W12_EVAR_COMM_ALEXANDRE_000_BUTTON, UI, Talk to the Boy
+W12_EVAR_COMM_MARION_000_TITLE, UI, Thawing Marion
+W12_EVAR_COMM_MARION_000_DETAIL, UI, Marion, the mayor of Duvall, was frozen while out on a stroll. Perhaps you can use one of the matches to thaw her?
+W12_EVAR_COMM_MARION_000_BUTTON, UI, Rescue Marion
+W12_EVAR_COMM_MORGANE_000_TITLE, UI, Thawing Morgane
+W12_EVAR_COMM_MORGANE_000_DETAIL, UI, Morgane is a skier who was frozen while skiing. Perhaps you can use one of the matches to thaw her?
+W12_EVAR_COMM_MORGANE_000_BUTTON, UI, Rescue Morgane
+W12_EVAR_COMM_ERIC_000_TITLE, UI, Thawing Eric
+W12_EVAR_COMM_ERIC_000_DETAIL, UI, Eric is a miner who was frozen while transporting coal. Perhaps you can use one of the matches to thaw him?
+W12_EVAR_COMM_ERIC_000_BUTTON, UI, Rescue Eric
+W12_EVAR_COMM_GUILLAUME_000_TITLE, UI, Thawing Guillaume
+W12_EVAR_COMM_GUILLAUME_000_DETAIL, UI, Guillaume is a farmer who was frozen while working on his farm. Perhaps you can use one of the matches to thaw him?
+W12_EVAR_COMM_GUILLAUME_000_BUTTON, UI, Rescue Guillaume
+W12_EVAR_COMM_ESPERANCE_000_TITLE, UI, Thawing Esperance
+W12_EVAR_COMM_ESPERANCE_000_DETAIL, UI, Esperance is a miner who was frozen while standing watch at the mine's entrance. Perhaps you can use one of the matches to thaw her?
+W12_EVAR_COMM_ESPERANCE_000_BUTTON, UI, Rescue Esperance
+W12_EVAR_COMM_VIRGILE_000_TITLE, UI, Thawing Virgile
+W12_EVAR_COMM_VIRGILE_000_DETAIL, UI, Virgile is a lumberjack who was frozen while splitting wood. Perhaps you can use one of the matches to thaw him?
+W12_EVAR_COMM_VIRGILE_000_BUTTON, UI, Rescue Virgile
+W12_EVAR_COMM_GABRIEL_000_TITLE, UI, Thawing Gabriel
+W12_EVAR_COMM_GABRIEL_000_DETAIL, UI, Gabriel is a researcher who was frozen while on a survey mission. Perhaps you can use one of the matches to thaw him?
+W12_EVAR_COMM_GABRIEL_000_BUTTON, UI, Rescue Gabriel
+W12_EVAR_COMM_ROMAIN_000_TITLE, UI, Thawing Romain
+W12_EVAR_COMM_ROMAIN_000_DETAIL, UI, Romain is a researcher who was frozen while on a survey mission. Perhaps you can use one of the matches to thaw him?
+W12_EVAR_COMM_ROMAIN_000_BUTTON, UI, Rescue Romain
+W12_EVAR_COMM_REMI_000_TITLE, UI, Thawing Remi
+W12_EVAR_COMM_REMI_000_DETAIL, UI, Remi is a miner who was frozen while heading to the copper mine. Perhaps you can use one of the matches to thaw him?
+W12_EVAR_COMM_REMI_000_BUTTON, UI, Rescue Remi
+W12_EVAR_COMM_LEIA_000_TITLE, UI, Thawing Leia
+W12_EVAR_COMM_LEIA_000_DETAIL, UI, Leia is a researcher who was frozen while on a survey mission. Perhaps you can use one of the matches to thaw her?
+W12_EVAR_COMM_LEIA_000_BUTTON, UI, Rescue Leia
+W12_EVAR_COMM_SANDRINE_000_TITLE, UI, Thawing Sandrine
+W12_EVAR_COMM_SANDRINE_000_DETAIL, UI, Sandrine, the mayor of Varsailles, was frozen while taking photographs. Perhaps you can use one of the matches to thaw her?
+W12_EVAR_COMM_SANDRINE_000_BUTTON, UI, Rescue Sandrine
+W12_EVAR_COMM_LEIA_100_TITLE, UI, Leia's Knowledge
+W12_EVAR_COMM_LEIA_100_DETAIL, UI, Leia is a researcher. Perhaps she knows something about the final emperor and the seal.
+W12_EVAR_COMM_LEIA_100_BUTTON, UI, Speak with Leia
+W12_EVAR_COMM_GABRIEL_100_TITLE, UI, Gabriel's Concern
+W12_EVAR_COMM_GABRIEL_100_DETAIL, UI, Gabriel is a researcher. Perhaps he knows something about the final emperor and the seal.
+W12_EVAR_COMM_GABRIEL_100_BUTTON, UI, Speak with Gabriel
+W12_EVAR_COMM_ROMAIN_100_TITLE, UI, Romain's Truth
+W12_EVAR_COMM_ROMAIN_100_DETAIL, UI, Romain is a researcher. Perhaps he knows something about the final emperor and the seal.
+W12_EVAR_COMM_ROMAIN_100_BUTTON, UI, Speak with Romain
+W12_EVAR_COMM_MARION_KEYQUEST_000_TITLE, UI, Investigating the Library
+W12_EVAR_COMM_MARION_KEYQUEST_000_DETAIL, UI, Does Duvall's library hold anything that will lead you to a symbol of melting?
+W12_EVAR_COMM_MARION_KEYQUEST_000_BUTTON, UI, Talk to Marion
+W12_EVAR_COMM_SANDRINE_KEYQUEST_000_TITLE, UI, Investigating the Museum
+W12_EVAR_COMM_SANDRINE_KEYQUEST_000_DETAIL, UI, Does Varsailles's museum hold anything that will lead you to a symbol of melting?
+W12_EVAR_COMM_SANDRINE_KEYQUEST_000_BUTTON, UI, Talk to Sandrine
+W12_EVAR_COMM_RUIN_THERMAE_000_TITLE, UI, Investigating the Bathhouse Ruins
+W12_EVAR_COMM_RUIN_THERMAE_000_DETAIL, UI, The ruins of an Imperial-era bathhouse. Will you find artifact fragments here?
+W12_EVAR_COMM_RUIN_THERMAE_000_BUTTON, UI, Investigate the Ruins
+W12_EVAR_COMM_RUIN_CHAPEL_000_TITLE, UI, Investigating the Church Ruins
+W12_EVAR_COMM_RUIN_CHAPEL_000_DETAIL, UI, The ruins of an Imperial-era church. Will you find artifact fragments here?
+W12_EVAR_COMM_RUIN_CHAPEL_000_BUTTON, UI, Investigate the Ruins
+W12_EVAR_COMM_RUIN_TOWER_000_TITLE, UI, Investigating the Watchtower Ruins
+W12_EVAR_COMM_RUIN_TOWER_000_DETAIL, UI, The ruins of an Imperial-era watchtower. Will you find artifact fragments here?
+W12_EVAR_COMM_RUIN_TOWER_000_BUTTON, UI, Investigate the Ruins
+W12_EVAR_COMM_CABIN_000_TITLE, UI, Reward for Carrying Firewood
+W12_EVAR_COMM_CABIN_000_DETAIL, UI, As a reward for helping Virgile, you can take possession of whatever is in the hut. See if you can find anything useful.
+W12_EVAR_COMM_CABIN_000_BUTTON, UI, Enter the Mountain Hut
+W12_GIMK_COMM_WOODPILE_010_TITLE, UI, Firewood
+W12_GIMK_COMM_WOODPILE_010_DETAIL, UI, Bundles of firewood are lying here. You should gather them up and take them to Virgile.
+W12_GIMK_COMM_WOODPILE_010_BUTTON, UI, Pick Up the Firewood
+W12_EVAR_COMM_FUNICULARBATTLE_000_TITLE, UI, Mountaintop Cable Car Hut
+W12_EVAR_COMM_FUNICULARBATTLE_000_DETAIL, UI, This cable car would ordinarily take you to the church at the ravine entrance—as well as the ski slope—but it's currently not in operation. You sense something dangerous within.
+W12_EVAR_COMM_FUNICULARBATTLE_000_BUTTON, UI, Enter the Cable Car Hut
+W12_EVAR_COMM_FENCEGATE_000_TITLE, UI, The Mystery of the Ice Palace's Gates
+W12_EVAR_COMM_FENCEGATE_000_DETAIL, UI, The giant gates leading to the Ice Palace. Perhaps there's a specific way they need to be opened?
+W12_EVAR_COMM_FENCEGATE_000_BUTTON, UI, Inspect the Gates
+W12_EVAR_COMM_FENCEGATE_005_TITLE, UI, Break the Gates' Seal
+W12_EVAR_COMM_FENCEGATE_005_DETAIL, UI, You believe you've gathered all the artifacts you need to break the seal. The time has come to try!
+W12_EVAR_COMM_FENCEGATE_005_BUTTON, UI, Break the Seal
+W12_EVAR_COMM_FENCEGATE_010_TITLE, UI, Break the Gates' Seal
+W12_EVAR_COMM_FENCEGATE_010_DETAIL, UI, You've gathered all the artifacts you need to break the seal. The time has come to try!
+W12_EVAR_COMM_FENCEGATE_010_BUTTON, UI, Break the Seal
+W12_EVAR_COMM_ICECASTLE_100_TITLE, UI, The Final Emperor's Truth
+W12_EVAR_COMM_ICECASTLE_100_DETAIL, UI, This is the palace where the final emperor was sealed. Something good is apparently waiting for you here.
+W12_EVAR_COMM_ICECASTLE_100_BUTTON, UI, Enter the Palace
+W12_EVAR_COMM_ICECASTLE_200_TITLE, UI, The Final Emperor's Truth
+W12_EVAR_COMM_ICECASTLE_200_DETAIL, UI, This is the palace where the final emperor was sealed. Something bad is apparently waiting for you here.
+W12_EVAR_COMM_ICECASTLE_200_BUTTON, UI, Enter the Palace
+W12_EVAR_COMM_ICECASTLE_300_TITLE, UI, The Final Emperor's Truth
+W12_EVAR_COMM_ICECASTLE_300_DETAIL, UI, This is the palace where the final emperor was sealed. You have no idea what could be waiting for you here.
+W12_EVAR_COMM_ICECASTLE_300_BUTTON, UI, Enter the Palace
+W12_EVAR_COMM_FREE_BATTLE_000_TITLE, UI, Fiends from the Mine
+W12_EVAR_COMM_FREE_BATTLE_000_DETAIL, UI, Fiends have emerged from the mine and are making their way to nearby homes.
+W12_EVAR_COMM_FREE_BATTLE_000_BUTTON, UI, Fight It Out

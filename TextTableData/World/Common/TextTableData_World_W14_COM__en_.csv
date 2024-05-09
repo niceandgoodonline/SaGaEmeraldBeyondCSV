@@ -1,0 +1,92 @@
+label, speaker, text
+W14_LTXT_COMM_CHAIR_000_TITLE, UI, Mysterious Chair
+W14_LTXT_COMM_CHAIR_000_DETAIL, UI, This chair looks out of place.
+W14_EVAR_COMM_CHAIR_000_TITLE, UI, The Chair of Beginnings
+W14_EVAR_COMM_CHAIR_000_DETAIL, UI, This chair is clearly out of place, but perhaps you should try sitting on it regardless.
+W14_EVAR_COMM_CHAIR_000_BUTTON, UI, Sit on the Chair
+W14_SCAN_COMM_SCAN_000_TITLE, UI, Guided to the Chair
+W14_SCAN_COMM_SCAN_000_DETAIL, UI, The wave is guiding you to a chair.
+W14_EVAR_COMM_VISION_VILLAGER_000_TITLE, UI, Hurrying to a Village
+W14_EVAR_COMM_VISION_VILLAGER_000_DETAIL, UI, You see a man hurrying to a village.
+W14_EVAR_COMM_VISION_VILLAGER_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_VILLAGER2_000_TITLE, UI, Hurrying Back to the Village
+W14_EVAR_COMM_VISION_VILLAGER2_000_DETAIL, UI, You see a man hurrying to a village a second time.
+W14_EVAR_COMM_VISION_VILLAGER2_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_BOMB_000_TITLE, UI, Finder of the Bomb
+W14_EVAR_COMM_VISION_BOMB_000_DETAIL, UI, You see a man who found a bomb.
+W14_EVAR_COMM_VISION_BOMB_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_CAT_000_TITLE, UI, Cat Seeker
+W14_EVAR_COMM_VISION_CAT_000_DETAIL, UI, You see a woman looking for a cat.
+W14_EVAR_COMM_VISION_CAT_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_BEAST_000_TITLE, UI, The Wanderer
+W14_EVAR_COMM_VISION_BEAST_000_DETAIL, UI, You see a man looking for a large animal.
+W14_EVAR_COMM_VISION_BEAST_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_TREASURE_000_TITLE, UI, Entering a Cave
+W14_EVAR_COMM_VISION_TREASURE_000_DETAIL, UI, You see a man walking through a cave.
+W14_EVAR_COMM_VISION_TREASURE_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_BIRD_000_TITLE, UI, Bird Counter
+W14_EVAR_COMM_VISION_BIRD_000_DETAIL, UI, You see a man counting birds.
+W14_EVAR_COMM_VISION_BIRD_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_INTERVAL1ST_000_TITLE, UI, The Observer
+W14_EVAR_COMM_VISION_INTERVAL1ST_000_DETAIL, UI, You see someone keeping an eye on you.
+W14_EVAR_COMM_VISION_INTERVAL1ST_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_INTERVAL2ND_000_TITLE, UI, The Observer Returns
+W14_EVAR_COMM_VISION_INTERVAL2ND_000_DETAIL, UI, You see someone keeping an eye on you.
+W14_EVAR_COMM_VISION_INTERVAL2ND_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_HERO_000_TITLE, UI, The Defeated
+W14_EVAR_COMM_VISION_HERO_000_DETAIL, UI, You see someone whose face you remember lying defeated on the ground.
+W14_EVAR_COMM_VISION_HERO_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_EXIT_000_TITLE, UI, Exit to the Heavens
+W14_EVAR_COMM_VISION_EXIT_000_DETAIL, UI, You see the scenery of the Heavens.
+W14_EVAR_COMM_VISION_EXIT_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_BIRD2_000_TITLE, UI, Counting More Birds
+W14_EVAR_COMM_VISION_BIRD2_000_DETAIL, UI, You see a man continuing to count birds.
+W14_EVAR_COMM_VISION_BIRD2_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_DOCTOR_000_TITLE, UI, Activation
+W14_EVAR_COMM_VISION_DOCTOR_000_DETAIL, UI, You see a woman trying to activate a robot.
+W14_EVAR_COMM_VISION_DOCTOR_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_BLACKSMITH_000_TITLE, UI, Forging a Blade
+W14_EVAR_COMM_VISION_BLACKSMITH_000_DETAIL, UI, You see a blacksmith forging a blade.
+W14_EVAR_COMM_VISION_BLACKSMITH_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_FISH_000_TITLE, UI, Devoured
+W14_EVAR_COMM_VISION_FISH_000_DETAIL, UI, You see a robot that has been swallowed by a fish.
+W14_EVAR_COMM_VISION_FISH_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_KIGURUMI_000_TITLE, UI, The Host
+W14_EVAR_COMM_VISION_KIGURUMI_000_DETAIL, UI, You see a woman hosting a show.
+W14_EVAR_COMM_VISION_KIGURUMI_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_COOK_000_TITLE, UI, Helping with Cooking
+W14_EVAR_COMM_VISION_COOK_000_DETAIL, UI, You see a woman helping out on a cooking program.
+W14_EVAR_COMM_VISION_COOK_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_KIMODAMESHI_000_TITLE, UI, A Test of Courage
+W14_EVAR_COMM_VISION_KIMODAMESHI_000_DETAIL, UI, You see a group of children putting their courage to the test.
+W14_EVAR_COMM_VISION_KIMODAMESHI_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_ALIEN_000_TITLE, UI, Being Tested
+W14_EVAR_COMM_VISION_ALIEN_000_DETAIL, UI, You see a man pointing his gun at a civilian.
+W14_EVAR_COMM_VISION_ALIEN_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_CAT_CAPT_000_TITLE, UI, The Cat Catcher
+W14_EVAR_COMM_VISION_CAT_CAPT_000_DETAIL, UI, You see a child trying to catch a cat.
+W14_EVAR_COMM_VISION_CAT_CAPT_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_ASSASSIN_000_TITLE, UI, The Assassin
+W14_EVAR_COMM_VISION_ASSASSIN_000_DETAIL, UI, You see a man attempting to assassinate someone.
+W14_EVAR_COMM_VISION_ASSASSIN_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_MERCHANT_000_TITLE, UI, The Trader
+W14_EVAR_COMM_VISION_MERCHANT_000_DETAIL, UI, You see a peddler carrying bottles of water.
+W14_EVAR_COMM_VISION_MERCHANT_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_WATER_000_TITLE, UI, Seeker of Water
+W14_EVAR_COMM_VISION_WATER_000_DETAIL, UI, You see a man pleading for something to drink.
+W14_EVAR_COMM_VISION_WATER_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_MESSENGER_000_TITLE, UI, The Messenger
+W14_EVAR_COMM_VISION_MESSENGER_000_DETAIL, UI, You see a man heading to the front lines.
+W14_EVAR_COMM_VISION_MESSENGER_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_MESSENGER2_000_TITLE, UI, The Messenger Returns
+W14_EVAR_COMM_VISION_MESSENGER2_000_DETAIL, UI, You see a man on the way to a castle.
+W14_EVAR_COMM_VISION_MESSENGER2_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_DROWN_000_TITLE, UI, A Sinking Man
+W14_EVAR_COMM_VISION_DROWN_000_DETAIL, UI, You see a man who was flung into the ocean.
+W14_EVAR_COMM_VISION_DROWN_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_WITCH_000_TITLE, UI, Preparing Medicine
+W14_EVAR_COMM_VISION_WITCH_000_DETAIL, UI, You see a woman preparing medicine.
+W14_EVAR_COMM_VISION_WITCH_000_BUTTON, UI, Inspect the Vision
+W14_EVAR_COMM_VISION_VIPER_000_TITLE, UI, Poisoned
+W14_EVAR_COMM_VISION_VIPER_000_DETAIL, UI, You see a woman who was poisoned by a snake.
+W14_EVAR_COMM_VISION_VIPER_000_BUTTON, UI, Inspect the Vision

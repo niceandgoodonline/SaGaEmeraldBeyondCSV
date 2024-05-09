@@ -1,0 +1,221 @@
+label, speaker, text
+W11_SCAN_COMM_AREAIN_110_TITLE, UI, Guided to the Maiden
+W11_SCAN_COMM_AREAIN_110_DETAIL, UI, Fate's guidance is leading you to the maiden.
+W11_LDMK_COMM_MAJIN_1_000_TITLE, UI, Kutsuwa Village
+W11_LDMK_COMM_MAJIN_1_000_DETAIL, UI, A race called the Kikir live here.
+W11_LDMK_COMM_MAJIN_2_000_TITLE, UI, Kirigi Village
+W11_LDMK_COMM_MAJIN_2_000_DETAIL, UI, A race called the Kikir live here.
+W11_LDMK_COMM_MAJIN_3_000_TITLE, UI, Suzumu Village
+W11_LDMK_COMM_MAJIN_3_000_DETAIL, UI, A race called the Kikir live here.
+W11_LDMK_COMM_SATO_1_000_TITLE, UI, Dura Village
+W11_LDMK_COMM_SATO_1_000_DETAIL, UI, A race called the Imeru live here.
+W11_LDMK_COMM_SATO_2_000_TITLE, UI, Doroso Village
+W11_LDMK_COMM_SATO_2_000_DETAIL, UI, A race called the Imeru live here.
+W11_LDMK_COMM_SATO_3_000_TITLE, UI, Berta Village
+W11_LDMK_COMM_SATO_3_000_DETAIL, UI, A race called the Imeru live here.
+W11_LDMK_COMM_MIYAKO_1_000_TITLE, UI, Senia City
+W11_LDMK_COMM_MIYAKO_1_000_DETAIL, UI, The capital city of the Imeru. It sometimes connects to other worlds.
+W11_LDMK_COMM_ISEKI_1_000_TITLE, UI, Saru Ruins
+W11_LDMK_COMM_ISEKI_1_000_DETAIL, UI, Someone lived here once, but now all that remains is the sound of the wind.
+W11_LDMK_COMM_ISEKI_2_000_TITLE, UI, Gorn Ruins
+W11_LDMK_COMM_ISEKI_2_000_DETAIL, UI, Someone lived here once, but now all that remains is the sound of the wind.
+W11_LDMK_COMM_ISEKI_3_000_TITLE, UI, Kieru Ruins
+W11_LDMK_COMM_ISEKI_3_000_DETAIL, UI, Someone lived here once, but now all that remains is the sound of the wind.
+W11_LDMK_COMM_HANA_A_TITLE, UI, Budding Epuyke
+W11_LDMK_COMM_HANA_A_DETAIL, UI, The Epuyke has begun to bud. You can make it grow further by defeating Ancikar's fiends.
+W11_LDMK_COMM_HANA_B_TITLE, UI, Seedling Epuyke
+W11_LDMK_COMM_HANA_B_DETAIL, UI, The Epuyke has become a seedling. You'll need to defeat more of Ancikar's fiends if you want it to bloom.
+W11_LDMK_COMM_HANA_C_TITLE, UI, Blooming Epuyke
+W11_LDMK_COMM_HANA_C_DETAIL, UI, The Epuyke is blooming with beautiful flowers.
+W11_LDMK_COMM_HANA_D_TITLE, UI, Wilted Epuyke
+W11_LDMK_COMM_HANA_D_DETAIL, UI, The Epuyke has wilted. It's almost time for the next maiden to take up the mantle.
+W11_LDMK_COMM_HANA_E_TITLE, UI, Blooming Epuyke
+W11_LDMK_COMM_HANA_E_DETAIL, UI, The Epuyke has become a wicked blossom tainted with evil.
+W11_LDMK_COMM_HANA_END_TITLE, UI, Where The Epuyke Once Stood
+W11_LDMK_COMM_HANA_END_DETAIL, UI, The Epuyke once stood here, but now it has wilted and vanished. Only a hole remains.
+W11_LDMK_COMM_KOUDOU_100_000_TITLE, UI, Cave to Dura Village
+W11_LDMK_COMM_KOUDOU_100_000_DETAIL, UI, This cave will take you to the land above. A small amount of time will pass as you go through.
+W11_LDMK_COMM_KOUDOU_100_000_BUTTON, UI, Enter the Cave
+W11_LDMK_COMM_KOUDOU_110_000_TITLE, UI, Cave to the Land Below
+W11_LDMK_COMM_KOUDOU_110_000_DETAIL, UI, This cave will take you to the land below. A small amount of time will pass as you go through.
+W11_LDMK_COMM_KOUDOU_110_000_BUTTON, UI, Enter the Cave
+W11_LDMK_COMM_KOUDOU_102_000_TITLE, UI, Dead-End Cave
+W11_LDMK_COMM_KOUDOU_102_000_DETAIL, UI, This cave leads to nothing.
+W11_LDMK_COMM_KOUDOU_102_000_BUTTON, UI, Enter the Cave
+W11_LDMK_COMM_KOUDOU_200_000_TITLE, UI, Cave to the Plateau Above
+W11_LDMK_COMM_KOUDOU_200_000_DETAIL, UI, This cave will take you to the land above. A small amount of time will pass as you go through.
+W11_LDMK_COMM_KOUDOU_200_000_BUTTON, UI, Enter the Cave
+W11_LDMK_COMM_KOUDOU_210_000_TITLE, UI, Cave to the Land Below
+W11_LDMK_COMM_KOUDOU_210_000_DETAIL, UI, This cave will take you to the land below. A small amount of time will pass as you go through.
+W11_LDMK_COMM_KOUDOU_210_000_BUTTON, UI, Enter the Cave
+W11_LDMK_COMM_KOUDOU_300_000_TITLE, UI, Cave to Doroso Village
+W11_LDMK_COMM_KOUDOU_300_000_DETAIL, UI, This cave will take you to the land above. A small amount of time will pass as you go through.
+W11_LDMK_COMM_KOUDOU_300_000_BUTTON, UI, Enter the Cave
+W11_LDMK_COMM_KOUDOU_310_000_TITLE, UI, Cave to the Land Below
+W11_LDMK_COMM_KOUDOU_310_000_DETAIL, UI, This cave will take you to the land below. A small amount of time will pass as you go through.
+W11_LDMK_COMM_KOUDOU_310_000_BUTTON, UI, Enter the Cave
+W11_LDMK_COMM_KOUDOU_400_000_TITLE, UI, Distant Cave
+W11_LDMK_COMM_KOUDOU_400_000_DETAIL, UI, This cave will take you back to the other side. A small amount of time will pass as you go through.
+W11_LDMK_COMM_KOUDOU_400_000_BUTTON, UI, Enter the Cave
+W11_GIMK_COMM_TSUTA_00A_1_000_TITLE, UI, Transport Nepenthes
+W11_GIMK_COMM_TSUTA_00A_1_000_DETAIL, UI, This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it.
+W11_GIMK_COMM_TSUTA_00A_1_000_BUTTON, UI, Ride the Nepenthes
+W11_GIMK_COMM_TSUTA_00B_1_000_TITLE, UI, Transport Nepenthes
+W11_GIMK_COMM_TSUTA_00B_1_000_DETAIL, UI, This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it.
+W11_GIMK_COMM_TSUTA_00B_1_000_BUTTON, UI, Ride the Nepenthes
+W11_GIMK_COMM_TSUTA_02A_1_000_TITLE, UI, Transport Nepenthes
+W11_GIMK_COMM_TSUTA_02A_1_000_DETAIL, UI, This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it.
+W11_GIMK_COMM_TSUTA_02A_1_000_BUTTON, UI, Ride the Nepenthes
+W11_GIMK_COMM_TSUTA_02B_1_000_TITLE, UI, Transport Nepenthes
+W11_GIMK_COMM_TSUTA_02B_1_000_DETAIL, UI, This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it.
+W11_GIMK_COMM_TSUTA_02B_1_000_BUTTON, UI, Ride the Nepenthes
+W11_GIMK_COMM_TSUTA_04A_1_000_TITLE, UI, Transport Nepenthes
+W11_GIMK_COMM_TSUTA_04A_1_000_DETAIL, UI, This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it.
+W11_GIMK_COMM_TSUTA_04A_1_000_BUTTON, UI, Ride the Nepenthes
+W11_GIMK_COMM_TSUTA_04B_1_000_TITLE, UI, Transport Nepenthes
+W11_GIMK_COMM_TSUTA_04B_1_000_DETAIL, UI, This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it.
+W11_GIMK_COMM_TSUTA_04B_1_000_BUTTON, UI, Ride the Nepenthes
+W11_GIMK_COMM_TSUTA_05A_1_000_TITLE, UI, Transport Nepenthes
+W11_GIMK_COMM_TSUTA_05A_1_000_DETAIL, UI, This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it.
+W11_GIMK_COMM_TSUTA_05A_1_000_BUTTON, UI, Ride the Nepenthes
+W11_GIMK_COMM_TSUTA_05B_1_000_TITLE, UI, Transport Nepenthes
+W11_GIMK_COMM_TSUTA_05B_1_000_DETAIL, UI, This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it.
+W11_GIMK_COMM_TSUTA_05B_1_000_BUTTON, UI, Ride the Nepenthes
+W11_LDMK_COMM_ANA_00A_000_TITLE, UI, Trial of Love: Seed Planting Point
+W11_LDMK_COMM_ANA_00A_000_DETAIL, UI, This hole is ideal for planting a nepenthes. Will doing so allow you to overcome the Trial of Love?
+W11_LDMK_COMM_ANA_00A_000_BUTTON, UI, Investigate the Hole
+W11_LDMK_COMM_ANA_02A_000_TITLE, UI, Trial of Love: Seed Planting Point
+W11_LDMK_COMM_ANA_02A_000_DETAIL, UI, This hole is ideal for planting a nepenthes. Will doing so allow you to overcome the Trial of Love?
+W11_LDMK_COMM_ANA_02A_000_BUTTON, UI, Investigate the Hole
+W11_LDMK_COMM_ANA_04A_000_TITLE, UI, Trial of Love: Seed Planting Point
+W11_LDMK_COMM_ANA_04A_000_DETAIL, UI, This hole is ideal for planting a nepenthes. Will doing so allow you to overcome the Trial of Love?
+W11_LDMK_COMM_ANA_04A_000_BUTTON, UI, Investigate the Hole
+W11_LDMK_COMM_ANA_05A_000_TITLE, UI, Trial of Love: Seed Planting Point
+W11_LDMK_COMM_ANA_05A_000_DETAIL, UI, This hole is ideal for planting a nepenthes. Will doing so allow you to overcome the Trial of Love?
+W11_LDMK_COMM_ANA_05A_000_BUTTON, UI, Investigate the Hole
+W11_POP_COMM_EGG_00_TITLE, UI, Fiend Egg
+W11_POP_COMM_EGG_00_DETAIL, UI, You sense a fiend inside this egg. It should be easy to smash.
+W11_POP_COMM_EGG_00_BUTTON, UI, Destroy the Egg
+W11_POP_COMM_MON_A00_TITLE, UI, Aquatic Fiend
+W11_POP_COMM_MON_A00_DETAIL, UI, A fiend oozing with Ancikar's power.
+W11_POP_COMM_MON_A00_BUTTON, UI, Fight
+W11_COMM_EV_DORA_01_001_TITLE, UI, Future Epuyke in Dura Village
+W11_COMM_EV_DORA_01_001_DETAIL, UI, Will you meet a maiden and potential future Epuyke here?
+W11_COMM_EV_DORA_01_001_BUTTON, UI, Enter Dura Village
+W11_COMM_EV_DORA_01_002_TITLE, UI, Potential Epuyke and a Journey's Beginning
+W11_COMM_EV_DORA_01_002_DETAIL, UI, Your journey with the maiden has begun. You should talk to her before setting out.
+W11_COMM_EV_DORA_01_002_BUTTON, UI, Talk to the Maiden
+W11_COMM_EV_DOROSO_01_001_TITLE, UI, Future Epuyke in Doroso Village
+W11_COMM_EV_DOROSO_01_001_DETAIL, UI, Will you meet a maiden and potential future Epuyke here?
+W11_COMM_EV_DOROSO_01_001_BUTTON, UI, Enter Doroso Village
+W11_COMM_EV_BERUTA_01_001_TITLE, UI, Future Epuyke in Berta Village
+W11_COMM_EV_BERUTA_01_001_DETAIL, UI, Will you meet a maiden and potential future Epuyke here?
+W11_COMM_EV_BERUTA_01_001_BUTTON, UI, Enter Berta Village
+W11_LDMK_COMM_EPUIKE_1_001_TITLE, UI, The Epuyke's Trials: Wisdom
+W11_LDMK_COMM_EPUIKE_1_001_DETAIL, UI, Accept the Trial of Wisdom from the witness in the dead-end cave.
+W11_LDMK_COMM_EPUIKE_1_001_BUTTON, UI, Talk to the Witness
+W11_LDMK_COMM_EPUIKE_1_002_TITLE, UI, The Epuyke's Trials: Strength
+W11_LDMK_COMM_EPUIKE_1_002_DETAIL, UI, Accept the Trial of Strength from the witness in Kutsuwa Village.
+W11_LDMK_COMM_EPUIKE_1_002_BUTTON, UI, Talk to the Witness
+W11_LDMK_COMM_EPUIKE_1_003_TITLE, UI, The Epuyke's Trials: Love
+W11_LDMK_COMM_EPUIKE_1_003_DETAIL, UI, Accept the Trial of Love from the witness in Suzumu Village.
+W11_LDMK_COMM_EPUIKE_1_003_BUTTON, UI, Talk to the Witness
+W11_LDMK_COMM_EPUIKE_1_004_TITLE, UI, Epuyke Festival
+W11_LDMK_COMM_EPUIKE_1_004_DETAIL, UI, The previous maiden has bloomed, and the Epuyke Festival has begun. You should go take it in.
+W11_LDMK_COMM_EPUIKE_1_004_BUTTON, UI, Attend the Festival
+W11_LDMK_COMM_EPUIKE_1_005_TITLE, UI, The Epuyke Festival's End
+W11_LDMK_COMM_EPUIKE_1_005_DETAIL, UI, Once all the pollen has been collected, the festival will come to an end.
+W11_LDMK_COMM_EPUIKE_1_005_BUTTON, UI, End the Festival
+W11_LDMK_COMM_EPUIKE_1_006_TITLE, UI, Epuyke Ritual
+W11_LDMK_COMM_EPUIKE_1_006_DETAIL, UI, The time has come for the next maiden to become the Epuyke.
+W11_LDMK_COMM_EPUIKE_1_006_BUTTON, UI, Begin the Ritual
+W11_LDMK_COMM_EPUIKE_1_007_TITLE, UI, Epuyke Hole
+W11_LDMK_COMM_EPUIKE_1_007_DETAIL, UI, The previous maiden's Epuyke has wilted and vanished, leaving only a hole behind. You should plant the seed here.
+W11_LDMK_COMM_EPUIKE_1_007_BUTTON, UI, Plant the Seed
+W11_LDMK_COMM_EPUIKE_1_0065_TITLE, UI, Ritual to Become the Epuyke
+W11_LDMK_COMM_EPUIKE_1_0065_DETAIL, UI, The time has come for the next maiden to become the Epuyke. Are you sure you're ready to begin the ritual?
+W11_LDMK_COMM_EPUIKE_1_0065_BUTTON, UI, Begin the Ritual
+W11_LDMK_COMM_EPUIKE_2_001_TITLE, UI, The Epuyke's Trials: Wisdom
+W11_LDMK_COMM_EPUIKE_2_001_DETAIL, UI, Accept the Trial of Wisdom from the witness.
+W11_LDMK_COMM_EPUIKE_2_001_BUTTON, UI, Talk to the Witness
+W11_LDMK_COMM_EPUIKE_2_002_TITLE, UI, The Epuyke's Trials: Strength
+W11_LDMK_COMM_EPUIKE_2_002_DETAIL, UI, Accept the Trial of Strength from the witness.
+W11_LDMK_COMM_EPUIKE_2_002_BUTTON, UI, Talk to the Witness
+W11_LDMK_COMM_EPUIKE_2_100_TITLE, UI, Epuyke Festival
+W11_LDMK_COMM_EPUIKE_2_100_DETAIL, UI, A festival is ongoing.
+W11_LDMK_COMM_EPUIKE_2_100_BUTTON, UI, Join In
+W11_LDMK_COMM_EPUIKE_2_200_TITLE, UI, Epuyke Festival
+W11_LDMK_COMM_EPUIKE_2_200_DETAIL, UI, A festival is ongoing.
+W11_LDMK_COMM_EPUIKE_2_200_BUTTON, UI, Join In
+W11_LDMK_COMM_EPUIKE_3_001_TITLE, UI, The Epuyke's Trials: Wisdom
+W11_LDMK_COMM_EPUIKE_3_001_DETAIL, UI, Accept the Trial of Wisdom from the witness.
+W11_LDMK_COMM_EPUIKE_3_001_BUTTON, UI, Talk to the Witness
+W11_LDMK_COMM_EPUIKE_3_002_TITLE, UI, The Epuyke's Trials: Power
+W11_LDMK_COMM_EPUIKE_3_002_DETAIL, UI, Accept the Trial of Power from the witness.
+W11_LDMK_COMM_EPUIKE_3_002_BUTTON, UI, Talk to the Witness
+W11_LDMK_COMM_EPUIKE_3_003_TITLE, UI, The Epuyke's Trials: Love
+W11_LDMK_COMM_EPUIKE_3_003_DETAIL, UI, Accept the Trial of Love from the witness.
+W11_LDMK_COMM_EPUIKE_3_003_BUTTON, UI, Talk to the Witness
+W11_LDMK_COMM_EPUIKE_3_100_TITLE, UI, Epuyke Festival
+W11_LDMK_COMM_EPUIKE_3_100_DETAIL, UI, A festival is ongoing.
+W11_LDMK_COMM_EPUIKE_3_100_BUTTON, UI, Join In
+W11_LDMK_COMM_EPUIKE_3_200_TITLE, UI, Epuyke Festival
+W11_LDMK_COMM_EPUIKE_3_200_DETAIL, UI, A festival is ongoing.
+W11_LDMK_COMM_EPUIKE_3_200_BUTTON, UI, Join In
+W11_GIMK_COMM_KIRARI_01_TITLE, UI, The Epuyke's Pollen
+W11_GIMK_COMM_KIRARI_01_DETAIL, UI, Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears.
+W11_GIMK_COMM_KIRARI_01_BUTTON, UI, Collect Some Pollen
+W11_GIMK_COMM_KIRARI_02_TITLE, UI, The Epuyke's Pollen
+W11_GIMK_COMM_KIRARI_02_DETAIL, UI, Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears.
+W11_GIMK_COMM_KIRARI_02_BUTTON, UI, Collect Some Pollen
+W11_GIMK_COMM_KIRARI_03_TITLE, UI, The Epuyke's Pollen
+W11_GIMK_COMM_KIRARI_03_DETAIL, UI, Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears.
+W11_GIMK_COMM_KIRARI_03_BUTTON, UI, Collect Some Pollen
+W11_GIMK_COMM_KIRARI_04_TITLE, UI, The Epuyke's Pollen
+W11_GIMK_COMM_KIRARI_04_DETAIL, UI, Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears.
+W11_GIMK_COMM_KIRARI_04_BUTTON, UI, Collect Some Pollen
+W11_GIMK_COMM_KIRARI_05_TITLE, UI, The Epuyke's Pollen
+W11_GIMK_COMM_KIRARI_05_DETAIL, UI, Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears.
+W11_GIMK_COMM_KIRARI_05_BUTTON, UI, Collect Some Pollen
+W11_GIMK_COMM_KIRARI_06_TITLE, UI, The Epuyke's Pollen
+W11_GIMK_COMM_KIRARI_06_DETAIL, UI, Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears.
+W11_GIMK_COMM_KIRARI_06_BUTTON, UI, Collect Some Pollen
+W11_COMM_EV_DOROSO_01_002_TITLE, UI, Search for the Maiden
+W11_COMM_EV_DOROSO_01_002_DETAIL, UI, Could Chup have returned to the village?
+W11_COMM_EV_DOROSO_01_002_BUTTON, UI, Enter the Village
+W11_COMM_EV_DOROSO_01_003_TITLE, UI, Report the Maiden's Safety
+W11_COMM_EV_DOROSO_01_003_DETAIL, UI, You should let the clerics and the worried Kup know that Chup is back.
+W11_COMM_EV_DOROSO_01_003_BUTTON, UI, Talk to the Clerics
+W11_COMM_EV_EPUIKE_02_920_TITLE, UI, Search for the Maiden
+W11_COMM_EV_EPUIKE_02_920_DETAIL, UI, You can see the Epuyke from this place. Perhaps you can find the maiden here.
+W11_COMM_EV_EPUIKE_02_920_BUTTON, UI, Search for the Maiden
+W11_COMM_EV_EPUIKE_02_930_TITLE, UI, Search for the Maiden
+W11_COMM_EV_EPUIKE_02_930_DETAIL, UI, Pretty stones litter the ground in this place. Perhaps you can find the maiden here.
+W11_COMM_EV_EPUIKE_02_930_BUTTON, UI, Search for the Maiden
+W11_EVAR_COMM_RUN_231_TITLE, UI, Finding a Stone for Kup
+W11_EVAR_COMM_RUN_231_DETAIL, UI, Chup wants to find a pretty stone for her little sister.
+W11_EVAR_COMM_RUN_231_BUTTON, UI, Help Her Search
+W11_COMM_EV_BERUTA_01_002_TITLE, UI, A Mother's Feelings
+W11_COMM_EV_BERUTA_01_002_DETAIL, UI, Nana should ask her mother about the contents of the diary you found in the ruins. But will Yuk be willing to talk?
+W11_COMM_EV_BERUTA_01_002_BUTTON, UI, Talk to Yuk
+W11_COMM_EV_BATLLE_TITLE, UI, Grassland of Trials
+W11_COMM_EV_BATLLE_DETAIL, UI, The Kikir are beckoning to you. You can test your strength here.
+W11_COMM_EV_BATLLE_BUTTON, UI, Enter the Grassland
+W11_EVAR_COMM_TABLET_000_TITLE, UI, Trial of Wisdom: Tablet Fragment
+W11_EVAR_COMM_TABLET_000_DETAIL, UI, This is one of several fragments of a tablet prepared for the Trial of Wisdom. You wonder what will happen when you collect them all.
+W11_EVAR_COMM_TABLET_000_BUTTON, UI, Pick Up the Fragment
+W11_EVAR_COMM_WISDOM_110_TITLE, UI, Trial of Wisdom: Deciphering the Tablet
+W11_EVAR_COMM_WISDOM_110_DETAIL, UI, You've collected all of the tablet fragments. Now you're ready to take on the final part of the Trial of Wisdom.
+W11_EVAR_COMM_WISDOM_110_BUTTON, UI, Talk to the Witness
+W11_EVAR_COMM_TIPS_000_TITLE, UI, Clerics of Time
+W11_EVAR_COMM_TIPS_000_DETAIL, UI, The clerics are beckoning to you. They appear to have advice for Soyay the Pollinator.
+W11_EVAR_COMM_TIPS_000_BUTTON, UI, Listen
+W11_EVAR_COMM_STRENGTH_110_TITLE, UI, Finding the Fiend
+W11_EVAR_COMM_STRENGTH_110_DETAIL, UI, The fiend you need to defeat for the Trial of Strength should be somewhere in this area.
+W11_EVAR_COMM_STRENGTH_110_BUTTON, UI, Search for the Fiend
+W11_EVAR_COMM_KIERU_300_TITLE, UI, Reaching the Kieru Ruins
+W11_EVAR_COMM_KIERU_300_DETAIL, UI, You must pass through this cave in order to advance, but does it even connect to the other side?
+W11_EVAR_COMM_KIERU_300_BUTTON, UI, Enter the Cave
+W11_EVAR_COMM_KIERU_310_TITLE, UI, What's Within the Kieru Ruins
+W11_EVAR_COMM_KIERU_310_DETAIL, UI, You have arrived at the ruins in accordance with Nana's destiny. What will you find here?
+W11_EVAR_COMM_KIERU_310_BUTTON, UI, Enter the Ruins

@@ -1,0 +1,206 @@
+label, speaker, text
+W07_LTXT_COMM_TEMPLEFIRE_TITLE, UI, Flame Temple
+W07_LTXT_COMM_TEMPLEFIRE_DETAIL, UI, This is the headquarters of those who lead the Flame Tribe both spiritually and politically.
+W07_LTXT_COMM_TEMPLEFIRE_RUINS_TITLE, UI, Flame Temple Ruins
+W07_LTXT_COMM_TEMPLEFIRE_RUINS_DETAIL, UI, The Flame Temple has been destroyed.
+W07_LTXT_COMM_TEMPLEWOOD_TITLE, UI, Forest Temple
+W07_LTXT_COMM_TEMPLEWOOD_DETAIL, UI, This is the headquarters of those who lead the Forest Tribe both spiritually and politically.
+W07_LTXT_COMM_TEMPLEWOOD_RUINS_TITLE, UI, Forest Temple Ruins
+W07_LTXT_COMM_TEMPLEWOOD_RUINS_DETAIL, UI, The Forest Temple has been destroyed.
+W07_LTXT_COMM_TEMPLEWIND_TITLE, UI, Gale Temple
+W07_LTXT_COMM_TEMPLEWIND_DETAIL, UI, This is the headquarters of those who lead the Gale Tribe both spiritually and politically.
+W07_LTXT_COMM_TEMPLEWIND_RUINS_TITLE, UI, Gale Temple Ruins
+W07_LTXT_COMM_TEMPLEWIND_RUINS_DETAIL, UI, The Gale Temple has been destroyed.
+W07_LTXT_COMM_TEMPLEWATER_TITLE, UI, Wave Temple
+W07_LTXT_COMM_TEMPLEWATER_DETAIL, UI, This is the headquarters of those who lead the Wave Tribe both spiritually and politically.
+W07_LTXT_COMM_TEMPLEWATER_RUINS_TITLE, UI, Wave Temple Ruins
+W07_LTXT_COMM_TEMPLEWATER_RUINS_DETAIL, UI, The Wave Temple has been destroyed.
+W07_LTXT_COMM_TEMPLESOUL_TITLE, UI, Soul Temple Ruins
+W07_LTXT_COMM_TEMPLESOUL_DETAIL, UI, Long ago, the four tribes joined forces to destroy the Soul Temple. 
+W07_LTXT_COMM_MISSION141_STEAM_CONS_TITLE, UI, Steam Plant
+W07_LTXT_COMM_MISSION141_STEAM_CONS_DETAIL, UI, There seems to be a problem at the steam plant.
+W07_LTXT_COMM_MISSION141_STEAM_TITLE, UI, Steam Plant
+W07_LTXT_COMM_MISSION141_STEAM_DETAIL, UI, This steam plant is a symbol of the alliance between the Flame and Wave Tribes. It combines the heat of a volcano with plentiful water to create energy.
+W07_LTXT_COMM_MISSION141_STEAM_DESTR_TITLE, UI, Rubble
+W07_LTXT_COMM_MISSION141_STEAM_DESTR_DETAIL, UI, A steam plant once stood here.
+W07_LTXT_COMM_MISSION142_SHIPYARD_CONS_TITLE, UI, Shipyard in Progress
+W07_LTXT_COMM_MISSION142_SHIPYARD_CONS_DETAIL, UI, You'll need more ships to develop the economy and improve marine transport.
+W07_LTXT_COMM_MISSION142_SHIPYARD_TITLE, UI, Shipyard
+W07_LTXT_COMM_MISSION142_SHIPYARD_DETAIL, UI, The shipyard was completed despite many attempts to stop its construction.
+W07_LTXT_COMM_MISSION142_SHIPYARD_DESTR_TITLE, UI, Rubble
+W07_LTXT_COMM_MISSION142_SHIPYARD_DESTR_DETAIL, UI, A shipyard once stood here.
+W07_LTXT_COMM_MISSION143_STATION_TITLE, UI, Station
+W07_LTXT_COMM_MISSION143_STATION_DETAIL, UI, A station used by the Forestgale Alliance for trade.
+W07_LTXT_COMM_MISSION143_STATION_DESTR_TITLE, UI, Rubble
+W07_LTXT_COMM_MISSION143_STATION_DESTR_DETAIL, UI, A station once stood here.
+W07_LTXT_COMM_MISSION231_SAWMILL_CONS_TITLE, UI, Lumber Mill in Progress
+W07_LTXT_COMM_MISSION231_SAWMILL_CONS_DETAIL, UI, There seems to be a problem at the lumber mill construction site.
+W07_LTXT_COMM_MISSION231_SAWMILL_TITLE, UI, Lumber Mill
+W07_LTXT_COMM_MISSION231_SAWMILL_DETAIL, UI, This mill turns the resources of the vast forest into lumber of various sizes.
+W07_LTXT_COMM_MISSION231_SAWMILL_DESTR_TITLE, UI, Rubble
+W07_LTXT_COMM_MISSION231_SAWMILL_DESTR_DETAIL, UI, No one would ever guess this used to be a lumber mill.
+W07_LTXT_COMM_MISSION232_WINDTUR_CONS_TITLE, UI, Wind Farm in Progress.
+W07_LTXT_COMM_MISSION232_WINDTUR_CONS_DETAIL, UI, The wind farm's construction is experiencing some problems.
+W07_LTXT_COMM_MISSION232_WINDTUR_TITLE, UI, Wind Farm
+W07_LTXT_COMM_MISSION232_WINDTUR_DETAIL, UI, This wind farm was completed through the combined efforts of the Gale and Forest Tribes, and stands as a symbol of their cooperation.
+W07_LTXT_COMM_MISSION232_WINDTUR_DESTR_TITLE, UI, Rubble
+W07_LTXT_COMM_MISSION232_WINDTUR_DESTR_DETAIL, UI, The only thing here now is the lonely sound of the wind rushing over a pile of rubble.
+W07_LTXT_COMM_MISSION233_HARBOR_TITLE, UI, Port
+W07_LTXT_COMM_MISSION233_HARBOR_DETAIL, UI, A port used by the Flamewave League for trade.
+W07_LTXT_COMM_MISSION233_HARBOR_DESTR_TITLE, UI, Rubble
+W07_LTXT_COMM_MISSION233_HARBOR_DESTR_DETAIL, UI, Only sunken vessels remain here now.
+W07_LTXT_COMM_MISSION101_STEAM_TITLE, UI, Steam Plant
+W07_LTXT_COMM_MISSION101_STEAM_DETAIL, UI, This steam plant is a symbol of the alliance between the Flame and Wave Tribes. It combines the heat of a volcano with plentiful water to create energy.
+W07_LTXT_COMM_MISSION101_STEAM_IMPROVED_TITLE, UI, Steam Plant
+W07_LTXT_COMM_MISSION101_STEAM_IMPROVED_DETAIL, UI, The steam plant now produces more energy than ever before.
+W07_LTXT_COMM_MISSION102_FORGE_CONS_TITLE, UI, Ironworks in Progress
+W07_LTXT_COMM_MISSION102_FORGE_CONS_DETAIL, UI, It won't be easy to construct an ironworks in this scorching region.
+W07_LTXT_COMM_MISSION102_FORGE_TITLE, UI, Ironworks
+W07_LTXT_COMM_MISSION102_FORGE_DETAIL, UI, These ironworks are capable of producing various metal goods—including weapons.
+W07_LTXT_COMM_MISSION201_SAWMILL_TITLE, UI, Lumber Mill
+W07_LTXT_COMM_MISSION201_SAWMILL_DETAIL, UI, This mill turns the resources of the vast forest into lumber of various sizes.
+W07_LTXT_COMM_MISSION201_SAWMILL_IMPROVED_TITLE, UI, Lumber Mill
+W07_LTXT_COMM_MISSION201_SAWMILL_IMPROVED_DETAIL, UI, The work here is increasingly automated, allowing lumber to be manufactured more efficiently with fewer people.
+W07_LTXT_COMM_MISSION202_STABBLE_CONS_TITLE, UI, Stables in Progress
+W07_LTXT_COMM_MISSION202_STABBLE_CONS_DETAIL, UI, Work is ongoing on stables used for the raising and training of military horses.
+W07_LTXT_COMM_MISSION202_STABBLE_TITLE, UI, Military Stables
+W07_LTXT_COMM_MISSION202_STABBLE_DETAIL, UI, The ability to fight on horseback will be a valuable asset to the Forest Tribe.
+W07_LTXT_COMM_MISSION301_WINDTUR_TITLE, UI, Wind Farm
+W07_LTXT_COMM_MISSION301_WINDTUR_DETAIL, UI, This wind farm was completed through the combined efforts of the Wave and Forest Tribes, and stands as a symbol of their cooperation.
+W07_LTXT_COMM_MISSION301_WINDTUR_IMPROVED_TITLE, UI, Wind Farm
+W07_LTXT_COMM_MISSION301_WINDTUR_IMPROVED_DETAIL, UI, The wind farm can now produce more energy than ever before.
+W07_LTXT_COMM_MISSION302_FARM_CONS_TITLE, UI, Barns in Progress
+W07_LTXT_COMM_MISSION302_FARM_CONS_DETAIL, UI, Work is ongoing to construct barns that will improve people's food-related self-sufficiency.
+W07_LTXT_COMM_MISSION302_FARM_TITLE, UI, Farm
+W07_LTXT_COMM_MISSION302_FARM_DETAIL, UI, This is a lively location where various animals are raised.
+W07_LTXT_COMM_MISSION401_SHIPYARD_TITLE, UI, Shipyard
+W07_LTXT_COMM_MISSION401_SHIPYARD_DETAIL, UI, Laborers are hard at work here, but they still aren't able to fully utilize some facilities.
+W07_LTXT_COMM_MISSION401_SHIPYARD_IMPROVED_TITLE, UI, Shipyard
+W07_LTXT_COMM_MISSION401_SHIPYARD_IMPROVED_DETAIL, UI, The newly upgraded shipyard can manufacture new and larger ships more efficiently.
+W07_LTXT_COMM_MISSION402_LIHOUSE_CONS_TITLE, UI, Lighthouse in Progress
+W07_LTXT_COMM_MISSION402_LIHOUSE_CONS_DETAIL, UI, Work is ongoing to construct a lighthouse that will improve the safety of sea voyages.
+W07_LTXT_COMM_MISSION402_LIHOUSE_TITLE, UI, Lighthouse
+W07_LTXT_COMM_MISSION402_LIHOUSE_DETAIL, UI, The lighthouse's guiding beacon makes for smoother sea traffic in this area.
+W07_EVAR_COMM_SOULCULTIST_000_TITLE, UI, Soul Temple Ruins
+W07_EVAR_COMM_SOULCULTIST_000_DETAIL, UI, Old stone ruins stand here.
+W07_EVAR_COMM_SOULCULTIST_000_BUTTON, UI, Enter the Ruins
+W07_EVAR_COMM_TEMPLEFIRE_PHASE1_INTRO_000_TITLE, UI, Flame Temple
+W07_EVAR_COMM_TEMPLEFIRE_PHASE1_INTRO_000_DETAIL, UI, You thought the people of the Flame Temple had no interest in you, yet you're being pointed towards them nonetheless.
+W07_EVAR_COMM_TEMPLEFIRE_PHASE1_INTRO_000_BUTTON, UI, Enter the Flame Temple
+W07_EVAR_COMM_TEMPLEWOOD_PHASE1_INTRO_000_TITLE, UI, Forest Temple
+W07_EVAR_COMM_TEMPLEWOOD_PHASE1_INTRO_000_DETAIL, UI, You thought the people of the Forest Temple had no interest in you, yet you're being pointed towards them nonetheless.
+W07_EVAR_COMM_TEMPLEWOOD_PHASE1_INTRO_000_BUTTON, UI, Enter the Forest Temple
+W07_EVAR_COMM_TEMPLEWIND_PHASE1_INTRO_000_TITLE, UI, Gale Temple
+W07_EVAR_COMM_TEMPLEWIND_PHASE1_INTRO_000_DETAIL, UI, You thought the people of the Gale Temple had no interest in you, yet you're being pointed towards them nonetheless.
+W07_EVAR_COMM_TEMPLEWIND_PHASE1_INTRO_000_BUTTON, UI, Enter the Gale Temple
+W07_EVAR_COMM_TEMPLEWATER_PHASE1_INTRO_000_TITLE, UI, Wave Temple
+W07_EVAR_COMM_TEMPLEWATER_PHASE1_INTRO_000_DETAIL, UI, You thought the people of the Wave Temple had no interest in you, yet you're being pointed towards them nonetheless.
+W07_EVAR_COMM_TEMPLEWATER_PHASE1_INTRO_000_BUTTON, UI, Enter the Wave Temple
+W07_EVAR_COMM_TEMPLEFIRE_PHASE1_INTRO_001_TITLE, UI, About the Flame Temple
+W07_EVAR_COMM_TEMPLEFIRE_PHASE1_INTRO_001_DETAIL, UI, Perhaps you should hear what the people of the Flame Temple have to say.
+W07_EVAR_COMM_TEMPLEFIRE_PHASE1_INTRO_001_BUTTON, UI, Listen
+W07_EVAR_COMM_TEMPLEWOOD_PHASE1_INTRO_001_TITLE, UI, About the Forest Temple
+W07_EVAR_COMM_TEMPLEWOOD_PHASE1_INTRO_001_DETAIL, UI, Perhaps you should hear what the people of the Forest Temple have to say.
+W07_EVAR_COMM_TEMPLEWOOD_PHASE1_INTRO_001_BUTTON, UI, Listen
+W07_EVAR_COMM_TEMPLEWIND_PHASE1_INTRO_001_TITLE, UI, About the Gale Temple
+W07_EVAR_COMM_TEMPLEWIND_PHASE1_INTRO_001_DETAIL, UI, Perhaps you should hear what the people of the Gale Temple have to say.
+W07_EVAR_COMM_TEMPLEWIND_PHASE1_INTRO_001_BUTTON, UI, Listen
+W07_EVAR_COMM_TEMPLEWATER_PHASE1_INTRO_001_TITLE, UI, About the Wave Temple
+W07_EVAR_COMM_TEMPLEWATER_PHASE1_INTRO_001_DETAIL, UI, Perhaps you should hear what the people of the Wave Temple have to say.
+W07_EVAR_COMM_TEMPLEWATER_PHASE1_INTRO_001_BUTTON, UI, Listen
+W07_EVAR_COMM_TEMPLEFIRE_PHASE2_BETRAYAL_000_TITLE, UI, Guided to the Flame Temple
+W07_EVAR_COMM_TEMPLEFIRE_PHASE2_BETRAYAL_000_DETAIL, UI, The conflict is over, yet you find yourself being led to the Flame Temple once more.
+W07_EVAR_COMM_TEMPLEFIRE_PHASE2_BETRAYAL_000_BUTTON, UI, Enter the Flame Temple
+W07_EVAR_COMM_TEMPLEWOOD_PHASE2_BETRAYAL_000_TITLE, UI, Guided to the Forest Temple
+W07_EVAR_COMM_TEMPLEWOOD_PHASE2_BETRAYAL_000_DETAIL, UI, The conflict is over, yet you find yourself being led to the Forest Temple once more.
+W07_EVAR_COMM_TEMPLEWOOD_PHASE2_BETRAYAL_000_BUTTON, UI, Enter the Forest Temple
+W07_EVAR_COMM_TEMPLEWIND_PHASE2_BETRAYAL_000_TITLE, UI, Guided to the Gale Temple
+W07_EVAR_COMM_TEMPLEWIND_PHASE2_BETRAYAL_000_DETAIL, UI, The conflict is over, yet you find yourself being led to the Gale Temple once more.
+W07_EVAR_COMM_TEMPLEWIND_PHASE2_BETRAYAL_000_BUTTON, UI, Enter the Gale Temple
+W07_EVAR_COMM_TEMPLEWATER_PHASE2_BETRAYAL_000_TITLE, UI, Guided to the Wave Temple
+W07_EVAR_COMM_TEMPLEWATER_PHASE2_BETRAYAL_000_DETAIL, UI, The conflict is over, yet you find yourself being led to the Wave Temple once more.
+W07_EVAR_COMM_TEMPLEWATER_PHASE2_BETRAYAL_000_BUTTON, UI, Enter the Wave Temple
+W07_EVAR_COMM_TEMPLEFIRE_TITLE, UI, Request from the Flame Temple
+W07_EVAR_COMM_TEMPLEFIRE_DETAIL, UI, The Flame Temple seeks your aid.
+W07_EVAR_COMM_TEMPLEFIRE_BUTTON, UI, Help the Flame Temple
+W07_EVAR_COMM_TEMPLEWOOD_TITLE, UI, Request from the Forest Temple
+W07_EVAR_COMM_TEMPLEWOOD_DETAIL, UI, The Forest Temple seeks your aid.
+W07_EVAR_COMM_TEMPLEWOOD_BUTTON, UI, Help the Forest Temple
+W07_EVAR_COMM_TEMPLEWIND_TITLE, UI, Request from the Gale Temple
+W07_EVAR_COMM_TEMPLEWIND_DETAIL, UI, The Gale Temple seeks your aid.
+W07_EVAR_COMM_TEMPLEWIND_BUTTON, UI, Help the Gale Temple
+W07_EVAR_COMM_TEMPLEWATER_TITLE, UI, Request from the Wave Temple
+W07_EVAR_COMM_TEMPLEWATER_DETAIL, UI, The Wave Temple seeks your aid.
+W07_EVAR_COMM_TEMPLEWATER_BUTTON, UI, Help the Wave Temple
+W07_EVAR_COMM_TEMPLEFIRE_GAMEOVER_TITLE, UI, The Flame Temple's Victory
+W07_EVAR_COMM_TEMPLEFIRE_GAMEOVER_DETAIL, UI, The fighting is finally over, and the Flame Temple emerged victorious.
+W07_EVAR_COMM_TEMPLEFIRE_GAMEOVER_BUTTON, UI, Talk One Last Time
+W07_EVAR_COMM_TEMPLEWOOD_GAMEOVER_TITLE, UI, The Forest Temple's Victory
+W07_EVAR_COMM_TEMPLEWOOD_GAMEOVER_DETAIL, UI, The fighting is finally over, and the Forest Temple emerged victorious.
+W07_EVAR_COMM_TEMPLEWOOD_GAMEOVER_BUTTON, UI, Talk One Last Time
+W07_EVAR_COMM_TEMPLEWIND_GAMEOVER_TITLE, UI, The Gale Temple's Victory
+W07_EVAR_COMM_TEMPLEWIND_GAMEOVER_DETAIL, UI, The fighting is finally over, and the Gale Temple emerged victorious.
+W07_EVAR_COMM_TEMPLEWIND_GAMEOVER_BUTTON, UI, Talk One Last Time
+W07_EVAR_COMM_TEMPLEWATER_GAMEOVER_TITLE, UI, The Wave Temple's Victory
+W07_EVAR_COMM_TEMPLEWATER_GAMEOVER_DETAIL, UI, The fighting is finally over, and the Wave Temple emerged victorious.
+W07_EVAR_COMM_TEMPLEWATER_GAMEOVER_BUTTON, UI, Talk One Last Time
+W07_EVAR_COMM_TEMPLESOUL_TITLE, UI, An Exit Portal
+W07_EVAR_COMM_TEMPLESOUL_DETAIL, UI, These ruins contain a portal that leads out of this world.
+W07_EVAR_COMM_TEMPLESOUL_BUTTON, UI, Enter the Ruins
+W07_EVAR_COMM_MISSION141_STEAM_TITLE, UI, Constructing a Steam Plant
+W07_EVAR_COMM_MISSION141_STEAM_DETAIL, UI, The construction of the steam plant is running into problems.
+W07_EVAR_COMM_MISSION141_STEAM_BUTTON, UI, Aid the Construction
+W07_EVAR_COMM_MISSION142_SHIPYARD_TITLE, UI, Constructing a Shipyard
+W07_EVAR_COMM_MISSION142_SHIPYARD_DETAIL, UI, You'll need more ships to develop the economy and improve marine transport.
+W07_EVAR_COMM_MISSION142_SHIPYARD_BUTTON, UI, Aid the Construction
+W07_EVAR_COMM_MISSION143_STATION_TITLE, UI, Viewing the Station
+W07_EVAR_COMM_MISSION143_STATION_DETAIL, UI, This train station is key to the economy of the Forestgale Alliance.
+W07_EVAR_COMM_MISSION143_STATION_BUTTON, UI, Go See the Station
+W07_EVAR_COMM_MISSION231_SAWMILL_TITLE, UI, Constructing a Lumber Mill
+W07_EVAR_COMM_MISSION231_SAWMILL_DETAIL, UI, There is a pressing need to construct a lumber mill that makes use of the forest's plentiful resources.
+W07_EVAR_COMM_MISSION231_SAWMILL_BUTTON, UI, Aid the Construction
+W07_EVAR_COMM_MISSION232_WINDTUR_TITLE, UI, Constructing a Wind Farm
+W07_EVAR_COMM_MISSION232_WINDTUR_DETAIL, UI, If you can harvest energy from the wind, it will solve the Forestgale Alliance's energy problems.
+W07_EVAR_COMM_MISSION232_WINDTUR_BUTTON, UI, Aid the Construction
+W07_EVAR_COMM_MISSION233_HARBOR_TITLE, UI, Will the Port Be Destroyed?
+W07_EVAR_COMM_MISSION233_HARBOR_DETAIL, UI, Will the plan to destroy the port go ahead?
+W07_EVAR_COMM_MISSION233_HARBOR_BUTTON, UI, Go See the Port
+W07_EVAR_COMM_MISSION101_STEAM_TITLE, UI, Upgrading the Steam Plant
+W07_EVAR_COMM_MISSION101_STEAM_DETAIL, UI, The process of upgrading the steam plant isn't proceeding according to schedule.
+W07_EVAR_COMM_MISSION101_STEAM_BUTTON, UI, Aid in the Upgrades
+W07_EVAR_COMM_MISSION102_FORGE_TITLE, UI, Constructing an Ironworks
+W07_EVAR_COMM_MISSION102_FORGE_DETAIL, UI, Building an ironworks in a volcanic area won't be without its challenges.
+W07_EVAR_COMM_MISSION102_FORGE_BUTTON, UI, Aid the Construction
+W07_EVAR_COMM_MISSION103_SHIPYARD_TITLE, UI, Destroying the Shipyard
+W07_EVAR_COMM_MISSION103_SHIPYARD_DETAIL, UI, The construction of the shipyard required so much hard work. Are you really going to destroy it?
+W07_EVAR_COMM_MISSION103_SHIPYARD_BUTTON, UI, Go See the Shipyard
+W07_EVAR_COMM_MISSION201_SAWMILL_TITLE, UI, Upgrading the Lumber Mill
+W07_EVAR_COMM_MISSION201_SAWMILL_DETAIL, UI, The process of upgrading the lumber mill isn't proceeding according to schedule.
+W07_EVAR_COMM_MISSION201_SAWMILL_BUTTON, UI, Aid in the Upgrades
+W07_EVAR_COMM_MISSION202_STABBLE_TITLE, UI, Constructing Stables
+W07_EVAR_COMM_MISSION202_STABBLE_DETAIL, UI, You expect the Gale Tribe to interfere with the stables' construction.
+W07_EVAR_COMM_MISSION202_STABBLE_BUTTON, UI, Aid the Construction
+W07_EVAR_COMM_MISSION203_WINDTUR_TITLE, UI, Destroying the Wind Farm
+W07_EVAR_COMM_MISSION203_WINDTUR_DETAIL, UI, You worked so hard to defend the wind farm. Are you really going to destroy it?
+W07_EVAR_COMM_MISSION203_WINDTUR_BUTTON, UI, Go See the Wind Farm
+W07_EVAR_COMM_MISSION301_WINDTUR_TITLE, UI, Upgrading the Wind Farm
+W07_EVAR_COMM_MISSION301_WINDTUR_DETAIL, UI, You expect to face obstacles while upgrading the wind farm.
+W07_EVAR_COMM_MISSION301_WINDTUR_BUTTON, UI, Aid in the Upgrades
+W07_EVAR_COMM_MISSION302_FARM_TITLE, UI, Constructing Barns
+W07_EVAR_COMM_MISSION302_FARM_DETAIL, UI, The construction of the barns is going well...so far.
+W07_EVAR_COMM_MISSION302_FARM_BUTTON, UI, Aid the Construction
+W07_EVAR_COMM_MISSION303_SAWMILL_TITLE, UI, Destroying the Lumber Mill
+W07_EVAR_COMM_MISSION303_SAWMILL_DETAIL, UI, The Forest and Gale Tribes worked together to construct this lumber mill. Are you really going to destroy it?
+W07_EVAR_COMM_MISSION303_SAWMILL_BUTTON, UI, Go See the Lumber Mill
+W07_EVAR_COMM_MISSION401_SHIPYARD_TITLE, UI, Upgrading the Shipyard
+W07_EVAR_COMM_MISSION401_SHIPYARD_DETAIL, UI, The process of upgrading the shipyard is ready to begin.
+W07_EVAR_COMM_MISSION401_SHIPYARD_BUTTON, UI, Aid in the Upgrades
+W07_EVAR_COMM_MISSION402_LIHOUSE_TITLE, UI, Constructing a Lighthouse
+W07_EVAR_COMM_MISSION402_LIHOUSE_DETAIL, UI, Work is ongoing to construct a lighthouse here.
+W07_EVAR_COMM_MISSION402_LIHOUSE_BUTTON, UI, Aid the Construction
+W07_EVAR_COMM_MISSION403_STEAM_TITLE, UI, Destroying the Steam Plant
+W07_EVAR_COMM_MISSION403_STEAM_DETAIL, UI, This steam plant is a source of energy for the Flame and Wave Tribes. Are you really going to destroy it?
+W07_EVAR_COMM_MISSION403_STEAM_BUTTON, UI, Go See the Steam Plant
+W07_EVAR_COMM_FREEBATTLE_TITLE, UI, The Forest of Fiends
+W07_EVAR_COMM_FREEBATTLE_DETAIL, UI, If you enter this forest, you'll tangle with the ferocious fiends that call it home. It's a good place to refine your combat skills.
+W07_EVAR_COMM_FREEBATTLE_BUTTON, UI, Enter the Forest

@@ -1,0 +1,330 @@
+label, speaker, text
+W04_WRLD_COMM_000_TITLE, UI, The Mare Nostrum
+W04_WRLD_COMM_000_DETAIL, UI, A large ocean on the other side of the storm. You're seemingly being guided somewhere within it.
+W04_EVAR_COMM_BASE_CATHEDRAL_STORM_000_TITLE, UI, Abnormal Weather
+W04_EVAR_COMM_BASE_CATHEDRAL_STORM_000_DETAIL, UI, If you enter this storm, you maybe be able to leave for another world.
+W04_EVAR_COMM_BASE_CATHEDRAL_STORM_000_BUTTON, UI, Enter the Storm
+W04_LTXT_COMM_NORTH_HARBOR_TITLE, UI, Northern Trade Port
+W04_LTXT_COMM_NORTH_HARBOR_DETAIL, UI, The people of this port choose their business partners carefully. If you don't have a sailboat, they won't even give you the time of day.
+W04_LTXT_COMM_NORTH_HARBOR_AFTER_TITLE, UI, Northern Trade Port
+W04_LTXT_COMM_NORTH_HARBOR_AFTER_DETAIL, UI, On the surface, this is an ordinary port that deals in lumber and smoked fish—but there are rumors of other, shadier transactions taking place here.
+W04_LTXT_COMM_SOUTH_HARBOR_TITLE, UI, Southern Trade Port
+W04_LTXT_COMM_SOUTH_HARBOR_DETAIL, UI, A bustling port that deals in sugar and textiles. Administered by a dependable, honest harbormaster, it is a source of great support for merchants.
+W04_LTXT_COMM_SOUTH_HARBOR_QUEST_TITLE, UI, The Southern Trade Port Awaits News
+W04_LTXT_COMM_SOUTH_HARBOR_QUEST_DETAIL, UI, The southern harbormaster is eagerly awaiting your report on the pirate hunt.
+W04_LTXT_COMM_SHIP_YARD_TITLE, UI, Shipyard
+W04_LTXT_COMM_SHIP_YARD_DETAIL, UI, Pirates and merchants gather in this shipyard, as the craftsmanship of those who work here is valued by fishermen and traders alike.
+W04_LTXT_COMM_START_ISLAND_TITLE, UI, Uninhabited Island
+W04_LTXT_COMM_START_ISLAND_DETAIL, UI, Objects caught in large storms often end up here, including the wreckage of multiple ships.
+W04_LTXT_COMM_PIRATES_ISLAND_TITLE, UI, The Pirates' Base
+W04_LTXT_COMM_PIRATES_ISLAND_DETAIL, UI, This is the headquarters of the White Whales, a pirate band led by Baltasar. They consider all the waves of the Mare Nostrum to be their own private property.
+W04_LTXT_COMM_PIRATES_ISLAND_010_TITLE, UI, Base on Alert
+W04_LTXT_COMM_PIRATES_ISLAND_010_DETAIL, UI, The pirates are on high alert because of Azure's ship. If only it would just disappear...
+W04_LTXT_COMM_UZU_DUNGEON01_TITLE, UI, Fiends From the Whirlpool
+W04_LTXT_COMM_UZU_DUNGEON01_DETAIL, UI, This is a terrifying whirlpool from which fiends emerge in large numbers. Anyone without the courage to face them should stay well away.
+W04_LTXT_COMM_BLUE_HOLE_TITLE, UI, The Blue Hole
+W04_LTXT_COMM_BLUE_HOLE_DETAIL, UI, You sense something with incredible power deep in the sea.
+W04_LTXT_COMM_LIGHT_HOUSE_TITLE, UI, The Mysterious Lighthouse
+W04_LTXT_COMM_LIGHT_HOUSE_DETAIL, UI, A strange lighthouse on an island that smells of machine oil. You hear mechanical sounds between the crashes of the waves.
+W04_LTXT_COMM_CAVE_TITLE, UI, A Small Sea Cave
+W04_LTXT_COMM_CAVE_DETAIL, UI, Strong winds are blowing from inside this cave, making you wonder if it's connected to something. That said, you probably shouldn't go in right now.
+W04_LTXT_COMM_CAVE02_TITLE, UI, Unpassable Sea Cave
+W04_LTXT_COMM_CAVE02_DETAIL, UI, The pirates have filled the passage leading through the cave. You'll have to sail a raft through the reef in order to reach their base.
+W04_LTXT_COMM_CATHEDRAL_TITLE, UI, The Triangle of Mystery
+W04_LTXT_COMM_CATHEDRAL_DETAIL, UI, A dangerous region of the sea surrounded by three rocks. Abnormal weather events are known to happen here, as well as the disappearance of sailors.
+W04_LTXT_COMM_STORM_01_TITLE, UI, The Giant Cyclone on the Sea
+W04_LTXT_COMM_STORM_01_DETAIL, UI, It's said Deus Maris created this giant cyclone by accident when he proved unable to control his own power. Trying to go inside would be folly.
+W04_LTXT_COMM_STORM_02_TITLE, UI, The Giant Cyclone Returns
+W04_LTXT_COMM_STORM_02_DETAIL, UI, The giant cyclone has returned. Its winds continue to blow fiercely; venturing inside remains a fool's errand.
+W04_LTXT_COMM_STORM_03_TITLE, UI, Deus Maris's Ascent
+W04_LTXT_COMM_STORM_03_DETAIL, UI, The chosen location where Deus Maris will ascend to heaven. You will need a large sailboat or upgraded ship to continue here.
+W04_LTXT_COMM_MERCHANT_SHIP_TITLE, UI, The Sailing Merchant Ship
+W04_LTXT_COMM_MERCHANT_SHIP_DETAIL, UI, This merchant ship does business in this area. It doesn't look ready to battle fiends, which makes you worry for the crew's safety.
+W04_LTXT_COMM_BIG_WAVE_TITLE, UI, Strange Large Wave
+W04_LTXT_COMM_BIG_WAVE_DETAIL, UI, An odd wave that specifically targets sloops. You'll need a sloop if you want to make contact with it.
+W04_LTXT_COMM_GIMK_PIRATE_SHIP_TITLE, UI, Vigilant Pirate Ship
+W04_LTXT_COMM_GIMK_PIRATE_SHIP_DETAIL, UI, This pirate ship is manned by Baltasar's minions, and keeps an endless watch. You can't attack them unless they strike first.
+W04_LTXT_COMM_GIMK_OCEAN_CURRENT_TITLE, UI, Sea Currents
+W04_LTXT_COMM_GIMK_OCEAN_CURRENT_DETAIL, UI, These currents are blocking the path of your raft. You'll need a larger ship if you want to pass through them.
+W04_LTXT_COMM_GIMK_OCEAN_REEF_TITLE, UI, Reef Region
+W04_LTXT_COMM_GIMK_OCEAN_REEF_DETAIL, UI, These narrow waters are challenging to sail, and best avoided by all but small ships, skilled navigators, and pirates.
+W04_LTXT_COMM_GIMK_BLUE_SHIP_TITLE, UI, Blue Sailboat
+W04_LTXT_COMM_GIMK_BLUE_SHIP_DETAIL, UI, This ship belongs to Azure, guardian of Deus Maris. You should stay away for now.
+W04_LTXT_COMM_GIMK_BALTASAR_SHIP_TITLE, UI, Baltasar's Ship
+W04_LTXT_COMM_GIMK_BALTASAR_SHIP_DETAIL, UI, Baltasar's pirate ship is loitering around the blue hole. What is he scheming?
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_BATTLE_000_TITLE, UI, Elegant Pirates
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_BATTLE_000_DETAIL, UI, These elegant pirates managed to steal Deus Maris's egg. If you want to recover it, you'll need to defeat them in battle.
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_BATTLE_000_BUTTON, UI, Battle the Pirates
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_BATTLE_010_TITLE, UI, Gruff Pirates
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_BATTLE_010_DETAIL, UI, These pirates are seeking to claim Deus Maris's egg for their own. If you attempt to interfere, it's sure to end in blood.
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_BATTLE_010_BUTTON, UI, Battle the Pirates
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_BATTLE_020_TITLE, UI, Spirited Pirates
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_BATTLE_020_DETAIL, UI, These pirates are seeking to claim Deus Maris's egg for their own. If you attempt to interfere, it's sure to end in blood.
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_BATTLE_020_BUTTON, UI, Battle the Pirates
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_EGG_HUNT_010_TITLE, UI, Recover the Stolen Egg
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_EGG_HUNT_010_DETAIL, UI, These gruff pirates managed to steal Deus Maris's egg. If you want to recover it, you'll need to defeat them in battle.
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_EGG_HUNT_010_BUTTON, UI, Battle the Pirates
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_EGG_HUNT_020_TITLE, UI, Recover the Stolen Egg
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_EGG_HUNT_020_DETAIL, UI, These spirited pirates managed to steal Deus Maris's egg. If you want to recover it, you'll need to defeat them in battle.
+W04_EVAR_COMM_BASE_PIRATE_HUNT_SHIP_EGG_HUNT_020_BUTTON, UI, Battle the Pirates
+W04_EVAR_COMM_BASE_START_ISLAND_000_TITLE, UI, Desert Island
+W04_EVAR_COMM_BASE_START_ISLAND_000_DETAIL, UI, If you want to craft a sloop, you'll need the help of a naval architect. Can you find one on this island?
+W04_EVAR_COMM_BASE_START_ISLAND_000_BUTTON, UI, Investigate
+W04_EVAR_COMM_BASE_AIR_MONSTER_000_TITLE, UI, The Fiend High Above
+W04_EVAR_COMM_BASE_AIR_MONSTER_000_DETAIL, UI, A wild fiend is soaring through the sky. What could it be targeting?
+W04_EVAR_COMM_BASE_AIR_MONSTER_000_BUTTON, UI, Approach the Fiend
+W04_GIMK_COMM_BASE_MERCHANT_SHIP_EVENT_000_TITLE, UI, Fiends Attacking a Passenger Ship
+W04_GIMK_COMM_BASE_MERCHANT_SHIP_EVENT_000_DETAIL, UI, The naval architect's ship is under attack by sea fiends. If you don't stop them, its voyage will end at the bottom of the waves.
+W04_GIMK_COMM_BASE_MERCHANT_SHIP_EVENT_000_BUTTON, UI, Save the Ship
+W04_EVAR_COMM_BASE_EVENT_UZU_DUNGEON_000_TITLE, UI, A Dangerous Whirlpool
+W04_EVAR_COMM_BASE_EVENT_UZU_DUNGEON_000_DETAIL, UI, Many a fiend is emerging from this whirlpool. Can you really find a naval architect in so dangerous a place?
+W04_EVAR_COMM_BASE_EVENT_UZU_DUNGEON_000_BUTTON, UI, Approach the Whirlpool
+W04_EVAR_COMM_BASE_SHIPYARD_000_TITLE, UI, A Port with a Shipyard
+W04_EVAR_COMM_BASE_SHIPYARD_000_DETAIL, UI, You want to switch from your raft to a ship, but can you really obtain one at the shipyard?
+W04_EVAR_COMM_BASE_SHIPYARD_000_BUTTON, UI, Go to the Shipyard
+W04_EVAR_COMM_BASE_SHIPYARD_010_TITLE, UI, Reporting to the Shipyard
+W04_EVAR_COMM_BASE_SHIPYARD_010_DETAIL, UI, Having found the naval architect, you can now switch to a sloop.
+W04_EVAR_COMM_BASE_SHIPYARD_010_BUTTON, UI, Switch to the Sloop
+W04_EVAR_COMM_BASE_SHIPYARD_020_TITLE, UI, A Sailboat at Last
+W04_EVAR_COMM_BASE_SHIPYARD_020_DETAIL, UI, You finally secured the funds for a sailboat.
+W04_EVAR_COMM_BASE_SHIPYARD_020_BUTTON, UI, Switch to a Sailboat
+W04_EVAR_COMM_BASE_SOUTHHARBOR_000_TITLE, UI, Reporting to the Southern Trade Port
+W04_EVAR_COMM_BASE_SOUTHHARBOR_000_DETAIL, UI, You managed to make it back to the Southern Trade Port. Now you must report what happened to the goods.
+W04_EVAR_COMM_BASE_SOUTHHARBOR_000_BUTTON, UI, Report to the Southern Trade Port
+W04_EVAR_COMM_BASE_SOUTHHARBOR_010_TITLE, UI, Reporting Failure
+W04_EVAR_COMM_BASE_SOUTHHARBOR_010_DETAIL, UI, Deus Maris's egg disappeared along with the cyclone. You must report this to the Southern Trade Port.
+W04_EVAR_COMM_BASE_SOUTHHARBOR_010_BUTTON, UI, Report about the Goods
+W04_EVAR_COMM_BASE_SOUTH_TRADE_PORT_000_TITLE, UI, Report from the Lighthouse
+W04_EVAR_COMM_BASE_SOUTH_TRADE_PORT_000_DETAIL, UI, You were able to recover the contract from the scientist who lives in the lighthouse. The harbormaster will be happy to hear it.
+W04_EVAR_COMM_BASE_SOUTH_TRADE_PORT_000_BUTTON, UI, Report to the Southern Trade Port
+W04_EVAR_COMM_BASE_SOUTH_TRADE_PORT_010_TITLE, UI, Return from the Pirate Base
+W04_EVAR_COMM_BASE_SOUTH_TRADE_PORT_010_DETAIL, UI, You were able to recover the stolen goods from the pirates' base. Will this earn you enough money for a sailboat?
+W04_EVAR_COMM_BASE_SOUTH_TRADE_PORT_010_BUTTON, UI, Report to the Southern Trade Port
+W04_EVAR_COMM_BASE_BLUEHOLE_000_TITLE, UI, The Blue Hole
+W04_EVAR_COMM_BASE_BLUEHOLE_000_DETAIL, UI, What could the contents of the lost goods be? You don't know, but you see something shining ominously from the bottom of the sea.
+W04_EVAR_COMM_BASE_BLUEHOLE_000_BUTTON, UI, Approach the Light
+W04_EVAR_COMM_BASE_WQT_STORM_SOUTH_000_TITLE, UI, Cyclone on the Sea
+W04_EVAR_COMM_BASE_WQT_STORM_SOUTH_000_DETAIL, UI, A giant cyclone that suddenly appeared on the sea's surface. It's said Deus Maris will return to heaven via a cyclone, but can you get close to it on your small vessel?
+W04_EVAR_COMM_BASE_WQT_STORM_SOUTH_000_BUTTON, UI, Approach the Cyclone
+W04_EVAR_COMM_BASE_WQT_STORM_CENTER_000_TITLE, UI, A New Cyclone
+W04_EVAR_COMM_BASE_WQT_STORM_CENTER_000_DETAIL, UI, The cyclone has appeared once more, and is now swirling furiously. Something within is calling to Ivar.
+W04_EVAR_COMM_BASE_WQT_STORM_CENTER_000_BUTTON, UI, Approach the Cyclone
+W04_EVAR_COMM_BASE_NORTHHARBOR_WORLDQUEST_000_TITLE, UI, An Ominous Summons
+W04_EVAR_COMM_BASE_NORTHHARBOR_WORLDQUEST_000_DETAIL, UI, The northern harbormaster is furious about the missing goods. You'll need to report everything that happened.
+W04_EVAR_COMM_BASE_NORTHHARBOR_WORLDQUEST_000_BUTTON, UI, Listen to the Harbormaster
+W04_EVAR_COMM_BASE_CAVE_000_TITLE, UI, The Sea Cave
+W04_EVAR_COMM_BASE_CAVE_000_DETAIL, UI, You must pass through this cave to reach the pirates' base, but the fiends within seem fearsome indeed.
+W04_EVAR_COMM_BASE_CAVE_000_BUTTON, UI, Enter the Sea Cave
+Ｗ04_EVAR_COMM_BASE_PIRATE_ISLAND_000_TITLE, UI, The Pirates' Base
+Ｗ04_EVAR_COMM_BASE_PIRATE_ISLAND_000_DETAIL, UI, The base of the White Whales. If you can infiltrate it without being discovered, you can recover the goods without a fight.
+Ｗ04_EVAR_COMM_BASE_PIRATE_ISLAND_000_BUTTON, UI, Infiltrate the Pirates' Base
+W04_EVAR_COMM_BASE_WQT_MYSTERIOUS_LIGHTHOUSE_000_TITLE, UI, The Mysterious Lighthouse
+W04_EVAR_COMM_BASE_WQT_MYSTERIOUS_LIGHTHOUSE_000_DETAIL, UI, You came here on orders from the southern harbormaster, but will the scientist sign the contract in the end?
+W04_EVAR_COMM_BASE_WQT_MYSTERIOUS_LIGHTHOUSE_000_BUTTON, UI, Enter the Lighthouse
+Ｗ04_EVAR_COMM_BASE_BLUE_DRAGON_SHIP_000_TITLE, UI, The Blue Ship
+Ｗ04_EVAR_COMM_BASE_BLUE_DRAGON_SHIP_000_DETAIL, UI, You found this suspicious ship near the blue hole. Will you be able to talk to its captain? If you want to get closer, you'll need to use a raft.
+Ｗ04_EVAR_COMM_BASE_BLUE_DRAGON_SHIP_000_BUTTON, UI, Investigate the Blue Ship
+W04_EVAR_COMM_BASE_WORLDQUEST_LASTBATTLE_000_TITLE, UI, Battle to Protect the Egg
+W04_EVAR_COMM_BASE_WORLDQUEST_LASTBATTLE_000_DETAIL, UI, An intense battle over Deus Maris's egg is about to begin. Ivar must protect it, no matter what!
+W04_EVAR_COMM_BASE_WORLDQUEST_LASTBATTLE_000_BUTTON, UI, Begin the Battle for the Egg
+W04_EVAR_COMM_BASE_WORLDQUEST_LASTBATTLE_010_TITLE, UI, Battle for the Egg
+W04_EVAR_COMM_BASE_WORLDQUEST_LASTBATTLE_010_DETAIL, UI, Various pirate gangs are about to battle for Deus Maris's wish-granting egg.
+W04_EVAR_COMM_BASE_WORLDQUEST_LASTBATTLE_010_BUTTON, UI, Begin the Battle for the Egg
+W04_EVAR_COMM_BASE_WORLDQUEST_LASTBATTLE_RAFT_000_TITLE, UI, Challengers of the Raft
+W04_EVAR_COMM_BASE_WORLDQUEST_LASTBATTLE_RAFT_000_DETAIL, UI, You've finally obtained the ultimate raft, but is it truly strong enough to withstand the cyclone?
+W04_EVAR_COMM_BASE_WORLDQUEST_LASTBATTLE_RAFT_000_BUTTON, UI, Approach the Cyclone
+W04_GIMK_COMM_BASE_MOVE_IRONSHIP_000_TITLE, UI, The Wandering Iron Island
+W04_GIMK_COMM_BASE_MOVE_IRONSHIP_000_DETAIL, UI, A suspicious mass that came out of nowhere. Despite the name, it doesn't look like an island. What could be lurking inside?
+W04_GIMK_COMM_BASE_MOVE_IRONSHIP_000_BUTTON, UI, Disembark at the Iron Island
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_TWO_TYPE_000_TITLE, UI, Getting to the Pirates' Base
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_TWO_TYPE_000_DETAIL, UI, You must switch to a raft to reach the pirates' base.
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_TWO_TYPE_000_BUTTON, UI, Change Your Vessel
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_TWO_TYPE_010_TITLE, UI, Switching Vessels
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_TWO_TYPE_010_DETAIL, UI, You can now switch between your raft and sloop at will.
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_TWO_TYPE_010_BUTTON, UI, Change Your Vessel
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_000_TITLE, UI, Switching Vessels
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_000_DETAIL, UI, You can now switch between your raft, sloop, and sailboat at will.
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_000_BUTTON, UI, Change Your Vessel
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_010_TITLE, UI, Getting to the Southern Trade Port
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_010_DETAIL, UI, You must switch to your sloop to reach the Southern Trade Port.
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_010_BUTTON, UI, Change Your Vessel
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_SLOOP_000_TITLE, UI, An Adventure in Another Vessel
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_SLOOP_000_DETAIL, UI, You can now switch vessels—and you sense that doing so will open the door to new adventures.
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_SLOOP_000_BUTTON, UI, Change Your Vessel
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_RAFT_000_TITLE, UI, The Naval Architect's Destination
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_RAFT_000_DETAIL, UI, The naval architect seems unsettled by the wait. What could be bothering him?
+W04_EVAR_COMM_BASE_SHIPYARD_CHANGE_SHIP_RAFT_000_BUTTON, UI, Enter the Shipyard
+W04_EVAR_COMM_BASE_SOUTHHARBOR_PIRATE_HUNT_CLEAR_000_TITLE, UI, A Successful Pirate Extermination
+W04_EVAR_COMM_BASE_SOUTHHARBOR_PIRATE_HUNT_CLEAR_000_DETAIL, UI, You defeated the pirates. You should report to the southern harbormaster and hand over the flag you claimed.
+W04_EVAR_COMM_BASE_SOUTHHARBOR_PIRATE_HUNT_CLEAR_000_BUTTON, UI, Report to the Southern Trade Port
+W04_EVAR_COMM_BASE_NORTHHARBOR_PARROT_000_TITLE, UI, Curios at the Northern Trade Port
+W04_EVAR_COMM_BASE_NORTHHARBOR_PARROT_000_DETAIL, UI, Rare goods are now in stock at the Northern Trade Port. What could be on offer?
+W04_EVAR_COMM_BASE_NORTHHARBOR_PARROT_000_BUTTON, UI, Trade
+W04_EVAR_COMM_BASE_NORTHHARBOR_PARROT_CLEAR_000_TITLE, UI, Northern Trade Port Parrot
+W04_EVAR_COMM_BASE_NORTHHARBOR_PARROT_CLEAR_000_DETAIL, UI, You obtained the items you need to trade for that strange parrot. Is this really a good idea?
+W04_EVAR_COMM_BASE_NORTHHARBOR_PARROT_CLEAR_000_BUTTON, UI, Trade
+W04_EVAR_COMM_BASE_BIRD_QUEST_000_TITLE, UI, The Sea's Navel
+W04_EVAR_COMM_BASE_BIRD_QUEST_000_DETAIL, UI, Rumors claim the treasure Sigurd left behind is here, but is that really true?
+W04_EVAR_COMM_BASE_BIRD_QUEST_000_BUTTON, UI, Investigate the Sea's Navel
+W04_EVAR_COMM_BASE_BIRD_QUEST_010_TITLE, UI, Pedro on the Lam
+W04_EVAR_COMM_BASE_BIRD_QUEST_010_DETAIL, UI, Pedro has stolen Sigurd's treasure and is making a break for it. Will you be able to recover it?
+W04_EVAR_COMM_BASE_BIRD_QUEST_010_BUTTON, UI, Capture Pedro
+W04_EVAR_COMM_BASE_VICTIM_SHIPWREACK_000_TITLE, UI, Shipwrecked
+W04_EVAR_COMM_BASE_VICTIM_SHIPWREACK_000_DETAIL, UI, You found someone adrift at sea. If you don't save them quickly, it could spell their end.
+W04_EVAR_COMM_BASE_VICTIM_SHIPWREACK_000_BUTTON, UI, Save Them
+W04_EVAR_COMM_BASE_VICTIM_SHIPWREACK_REPORT_000_TITLE, UI, The Floating Notebook
+W04_EVAR_COMM_BASE_VICTIM_SHIPWREACK_REPORT_000_DETAIL, UI, This notebook traveled quite a distance on the waves.
+W04_EVAR_COMM_BASE_VICTIM_SHIPWREACK_REPORT_000_BUTTON, UI, Recover the Notebook
+W04_EVAR_COMM_BASE_VICTIM_SHIPWREACK_REPORT_010_TITLE, UI, The Floating Notebook
+W04_EVAR_COMM_BASE_VICTIM_SHIPWREACK_REPORT_010_DETAIL, UI, The notebook you are looking for is here.
+W04_EVAR_COMM_BASE_VICTIM_SHIPWREACK_REPORT_010_BUTTON, UI, Recover the Notebook
+W04_EVAR_COMM_BASE_GHOST_SHIP_LIGHTHOUSE_000_TITLE, UI, Scientist in the Lighthouse
+W04_EVAR_COMM_BASE_GHOST_SHIP_LIGHTHOUSE_000_DETAIL, UI, You came here on a sloop. Will the scientist be interested in your vessel?
+W04_EVAR_COMM_BASE_GHOST_SHIP_LIGHTHOUSE_000_BUTTON, UI, Speak to the Scientist
+W04_GIMK_COMM_BASE_GHOST_SHIP_000_TITLE, UI, Discovering a Ghost Ship
+W04_GIMK_COMM_BASE_GHOST_SHIP_000_DETAIL, UI, The scientist's device allowed you to discover the ghost ship. Will you be able to talk to the ghosts inside?
+W04_GIMK_COMM_BASE_GHOST_SHIP_000_BUTTON, UI, Investigate the Ghost Ship
+W04_EVAR_COMM_BASE_GHOST_SHIP_ANSHOU_000_TITLE, UI, Dead Man's Bay
+W04_EVAR_COMM_BASE_GHOST_SHIP_ANSHOU_000_DETAIL, UI, You'll need a small ship to pass through the reef and reach Dead Man's Bay.
+W04_EVAR_COMM_BASE_GHOST_SHIP_ANSHOU_000_BUTTON, UI, Investigate the Reef
+W04_EVAR_COMM_BASE_GHOST_SHIP_SUNKEN_POINT_000_TITLE, UI, Where the Ghost Ship Sank
+W04_EVAR_COMM_BASE_GHOST_SHIP_SUNKEN_POINT_000_DETAIL, UI, This is apparently where the ghost ship sank. Will you find what you're looking for here?
+W04_EVAR_COMM_BASE_GHOST_SHIP_SUNKEN_POINT_000_BUTTON, UI, Investigate the Area
+W04_EVAR_COMM_BASE_GHOST_SHIP_LIGHTHOUSE_CLEAR_000_TITLE, UI, Returning the Device
+W04_EVAR_COMM_BASE_GHOST_SHIP_LIGHTHOUSE_CLEAR_000_DETAIL, UI, You managed to recover the scientist's device from the bottom of the sea. You hope this will make him happy.
+W04_EVAR_COMM_BASE_GHOST_SHIP_LIGHTHOUSE_CLEAR_000_BUTTON, UI, Return the Device
+W04_EVAR_COMM_PIRATESHIP_VICTIM_SHIPWREACK_000_TITLE, UI, Stranded on the Island
+W04_EVAR_COMM_PIRATESHIP_VICTIM_SHIPWREACK_000_DETAIL, UI, You can hear the voice of someone crying for help. If you choose to ignore it, they will eventually sink into the sea.
+W04_EVAR_COMM_PIRATESHIP_VICTIM_SHIPWREACK_000_BUTTON, UI, Rescue The Stranger
+W04_EVAR_COMM_PIRATESHIP_UZUDUNGEON_000_TITLE, UI, Hatching the Egg
+W04_EVAR_COMM_PIRATESHIP_UZUDUNGEON_000_DETAIL, UI, How should you go about hatching the egg? Baltasar seems to have something in mind.
+W04_EVAR_COMM_PIRATESHIP_UZUDUNGEON_000_BUTTON, UI, Enter the Whirlpool
+W04_EVAR_COMM_PIRATESHIP_UZUDUNGEON_010_TITLE, UI, Bait to Hatch the Egg
+W04_EVAR_COMM_PIRATESHIP_UZUDUNGEON_010_DETAIL, UI, According to Baltasar, combat is the key to hatching the egg.
+W04_EVAR_COMM_PIRATESHIP_UZUDUNGEON_010_BUTTON, UI, Enter the Whirlpool
+W04_GIMK_COMM_PIRATESHIP_GHOST_SHIP_000_TITLE, UI, The Wandering Ship
+W04_GIMK_COMM_PIRATESHIP_GHOST_SHIP_000_DETAIL, UI, An eerie ship that rarely appears in the Sea of the Living. You don't know what's on board, but you sense a powerful grudge from within.
+W04_GIMK_COMM_PIRATESHIP_GHOST_SHIP_000_BUTTON, UI, Investigate the Ship
+W04_EVAR_COMM_PIRATESHIP_NORTHHARBOR_PARROT_000_TITLE, UI, Curios at the Northern Trade Port
+W04_EVAR_COMM_PIRATESHIP_NORTHHARBOR_PARROT_000_DETAIL, UI, Rare goods are now in stock at the Northern Trade Port. Perhaps you should take a look?
+W04_EVAR_COMM_PIRATESHIP_NORTHHARBOR_PARROT_000_BUTTON, UI, Talk to the Northern Harbormaster
+W04_EVAR_COMM_PIRATESHIP_BIRD_QUEST_000_TITLE, UI, The Ocean's Navel
+W04_EVAR_COMM_PIRATESHIP_BIRD_QUEST_000_DETAIL, UI, Though you don't see anything, Pedro told you Sigurd's treasure is in the center of this sea. Can his words be trusted?
+W04_EVAR_COMM_PIRATESHIP_BIRD_QUEST_000_BUTTON, UI, Investigate the Ocean's Navel
+W04_EVAR_COMM_PIRATESHIP_BIRD_QUEST_010_TITLE, UI, Pedro on the Lam
+W04_EVAR_COMM_PIRATESHIP_BIRD_QUEST_010_DETAIL, UI, Pedro has stolen Sigurd's treasure and is making a break for it. Will you be able to recover it?
+W04_EVAR_COMM_PIRATESHIP_BIRD_QUEST_010_BUTTON, UI, Capture Pedro
+W04_EVAR_COMM_PIRATESHIP_BANNED_GOODS_QUEST_000_TITLE, UI, A Special Transaction
+W04_EVAR_COMM_PIRATESHIP_BANNED_GOODS_QUEST_000_DETAIL, UI, Something is causing the southern harbormaster no end of worry.
+W04_EVAR_COMM_PIRATESHIP_BANNED_GOODS_QUEST_000_BUTTON, UI, Talk to the Southern Harbormaster
+W04_EVAR_COMM_PIRATESHIP_BANNED_GOODS_QUEST_010_TITLE, UI, Black Market Ship
+W04_EVAR_COMM_PIRATESHIP_BANNED_GOODS_QUEST_010_DETAIL, UI, Contraband is being sold on this ship. You should climb aboard and stop it.
+W04_EVAR_COMM_PIRATESHIP_BANNED_GOODS_QUEST_010_BUTTON, UI, Board the Ship
+W04_EVAR_COMM_PIRATESHIP_BIRD_000_TITLE, UI, The Fiend High Above
+W04_EVAR_COMM_PIRATESHIP_BIRD_000_DETAIL, UI, A wild fiend is soaring through the sky. What could it be after?
+W04_EVAR_COMM_PIRATESHIP_BIRD_000_BUTTON, UI, Approach the Fiend
+W04_EVAR_COMM_PIRATESHIP_LIGHTHOUSE_000_TITLE, UI, Scientist in the Lighthouse
+W04_EVAR_COMM_PIRATESHIP_LIGHTHOUSE_000_DETAIL, UI, The lighthouse's scientist master is apparently working on an amazing invention.
+W04_EVAR_COMM_PIRATESHIP_LIGHTHOUSE_000_BUTTON, UI, Meet the Scientist
+W04_GIMK_COMM_PIRATESHIP_MOVE_IRONSHIP_000_TITLE, UI, Iron Island
+W04_GIMK_COMM_PIRATESHIP_MOVE_IRONSHIP_000_DETAIL, UI, An object invented by the scientist. Residents of the Mare Nostrum fear it, and call it "that moving island." What lurks inside?
+W04_GIMK_COMM_PIRATESHIP_MOVE_IRONSHIP_000_BUTTON, UI, Disembark at the Iron Island
+W04_EVAR_COMM_PIRATESHIP_STORM_010_TITLE, UI, Abnormality on the Sea
+W04_EVAR_COMM_PIRATESHIP_STORM_010_DETAIL, UI, Baltasar has sensed something abnormal on the Mare Nostrum.
+W04_EVAR_COMM_PIRATESHIP_STORM_010_BUTTON, UI, Investigate the Abnormality
+W04_EVAR_COMM_PIRATESHIP_DEATH_COVE_000_TITLE, UI, The Storm at Dead Man's Bay
+W04_EVAR_COMM_PIRATESHIP_DEATH_COVE_000_DETAIL, UI, A giant cyclone has appeared out of nowhere. Will Deus Maris's egg hatch if you take it inside?
+W04_EVAR_COMM_PIRATESHIP_DEATH_COVE_000_BUTTON, UI, Approach the Cyclone
+W04_GIMK_COMM_PIRATESHIP_BIGWAVE_BEFORE_000_TITLE, UI, The Large Waves
+W04_GIMK_COMM_PIRATESHIP_BIGWAVE_BEFORE_000_DETAIL, UI, Two waves have appeared before you, and Baltasar claims one is from a killer whale. Perhaps defeating it will help the egg grow?
+W04_GIMK_COMM_PIRATESHIP_BIGWAVE_BEFORE_000_BUTTON, UI, Investigate the Large Wave
+W04_EVAR_COMM_PIRATESHIP_LASTBATTLE_010_TITLE, UI, The Threat of Baltasar
+W04_EVAR_COMM_PIRATESHIP_LASTBATTLE_010_DETAIL, UI, Baltasar has Deus Maris's egg. Will you be able to stop him?
+W04_EVAR_COMM_PIRATESHIP_LASTBATTLE_010_BUTTON, UI, Talk to Baltasar
+W04_EVAR_COMM_GHOSTSHIP_SHIPYARD_000_TITLE, UI, The Path Back
+W04_EVAR_COMM_GHOSTSHIP_SHIPYARD_000_DETAIL, UI, To get home alive, you must go to the shipyard. But what will you do once you arrive?
+W04_EVAR_COMM_GHOSTSHIP_SHIPYARD_000_BUTTON, UI, Enter the Shipyard
+W04_EVAR_COMM_GHOSTSHIP_BLUE_HOLE_000_TITLE, UI, The Blue Hole
+W04_EVAR_COMM_GHOSTSHIP_BLUE_HOLE_000_DETAIL, UI, This shining area is the Mare Nostrum's deepest point. A blue sapphire is also said to sleep here.
+W04_EVAR_COMM_GHOSTSHIP_BLUE_HOLE_000_BUTTON, UI, Approach the Shining Sea
+W04_EVAR_COMM_GHOSTSHIP_NORTH_TRADE_PORT_000_TITLE, UI, Northern Trade Port
+W04_EVAR_COMM_GHOSTSHIP_NORTH_TRADE_PORT_000_DETAIL, UI, There are no ships in port; the whole area has a desolate feel. Will you really find the ruby here?
+W04_EVAR_COMM_GHOSTSHIP_NORTH_TRADE_PORT_000_BUTTON, UI, Enter the Northern Trade Port
+W04_EVAR_COMM_GHOSTSHIP_BIGWAVE_EQUIPMENT_000_TITLE, UI, The Advancing Large Wave
+W04_EVAR_COMM_GHOSTSHIP_BIGWAVE_EQUIPMENT_000_DETAIL, UI, You sense something menacing within this wave. What could it be?
+W04_EVAR_COMM_GHOSTSHIP_BIGWAVE_EQUIPMENT_000_BUTTON, UI, Approach the Large Wave
+W04_EVAR_COMM_GHOSTSHIP_PIRATES_HIDEOUT_000_TITLE, UI, Base in the Sea Betwixt
+W04_EVAR_COMM_GHOSTSHIP_PIRATES_HIDEOUT_000_DETAIL, UI, Pirates between life and death exist in the Sea Betwixt. Could the ruby also be here?
+W04_EVAR_COMM_GHOSTSHIP_PIRATES_HIDEOUT_000_BUTTON, UI, Enter the Base
+W04_EVAR_COMM_GHOSTSHIP_BLUE_DRAGON_SHIP_010_TITLE, UI, The Blue Ship
+W04_EVAR_COMM_GHOSTSHIP_BLUE_DRAGON_SHIP_010_DETAIL, UI, The ship of Azure the pirate lies between life and death on the Sea Betwixt. What does her presence here mean?
+W04_EVAR_COMM_GHOSTSHIP_BLUE_DRAGON_SHIP_010_BUTTON, UI, Investigate the Blue Ship
+W04_EVAR_COMM_GHOSTSHIP_DEATH_COVE_010_TITLE, UI, Baltasar's Heart
+W04_EVAR_COMM_GHOSTSHIP_DEATH_COVE_010_DETAIL, UI, The pirate with Baltasar's heart is on this ship. Will you be able to recover it?
+W04_EVAR_COMM_GHOSTSHIP_DEATH_COVE_010_BUTTON, UI, Investigate the Ghost Ship
+W04_EVAR_COMM_GHOSTSHIP_SHIPYARD_010_TITLE, UI, Time to Go Back
+W04_EVAR_COMM_GHOSTSHIP_SHIPYARD_010_DETAIL, UI, You have all the gems you need, which means the time has come to leave the Sea Betwixt. Will you be able to escape in one piece?
+W04_EVAR_COMM_GHOSTSHIP_SHIPYARD_010_BUTTON, UI, Enter the Shipyard
+W04_EVAR_COMM_GHOSTSHIP_BLUE_HOLE_100_TITLE, UI, Blue Sapphire of the Deep
+W04_EVAR_COMM_GHOSTSHIP_BLUE_HOLE_100_DETAIL, UI, The blue sapphire you're seeking is apparently here—but before you approach it, you must rescue Azure's blue ship.
+W04_EVAR_COMM_GHOSTSHIP_BLUE_HOLE_100_BUTTON, UI, Rescue the Blue Ship
+W04_EVAR_COMM_GHOSTSHIP_DEATH_COVE_110_TITLE, UI, Azure Entrapped
+W04_EVAR_COMM_GHOSTSHIP_DEATH_COVE_110_DETAIL, UI, Azure has been captured by Baltasar, and you must save her. Thankfully, Ivar knows a secret passage through the reef that can take you to her.
+W04_EVAR_COMM_GHOSTSHIP_DEATH_COVE_110_BUTTON, UI, Rescue Azure
+W04_EVAR_COMM_GHOSTSHIP_DEATH_COVE_120_TITLE, UI, Waiting at Dead Man's Bay
+W04_EVAR_COMM_GHOSTSHIP_DEATH_COVE_120_DETAIL, UI, A mysterious and powerful ghost ship is floating in the bay. Who is waiting inside?
+W04_EVAR_COMM_GHOSTSHIP_DEATH_COVE_120_BUTTON, UI, Investigate the Ghost Ship
+W04_EVAR_COMM_GHOSTSHIP_LAST_BATTLE_000_TITLE, UI, The Real Battle
+W04_EVAR_COMM_GHOSTSHIP_LAST_BATTLE_000_DETAIL, UI, The final battle with Baltasar is upon you. You must defeat him and save Deus Maris.
+W04_EVAR_COMM_GHOSTSHIP_LAST_BATTLE_000_BUTTON, UI, Begin the Final Battle
+W04_EVAR_COMM_GHOSTSHIP_LAST_BATTLE_011_TITLE, UI, Returning to Heaven
+W04_EVAR_COMM_GHOSTSHIP_LAST_BATTLE_011_DETAIL, UI, The time has finally come. Make your way to the giant cyclone where Baltasar awaits.
+W04_EVAR_COMM_GHOSTSHIP_LAST_BATTLE_011_BUTTON, UI, Talk to Baltasar
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_000_TITLE, UI, The Female Pirate's Grudge
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_000_DETAIL, UI, This ghost ship was apparently created as a result of a strong grudge.
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_000_BUTTON, UI, Investigate the Ghost Ship
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_010_TITLE, UI, Promise
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_010_DETAIL, UI, You hear a plaintive voice calling from inside the ghost ship. Who is crying out, and who are they searching for?
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_010_BUTTON, UI, Investigate the Ghost Ship
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_020_TITLE, UI, The Uninhabited Ghost Ship
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_020_DETAIL, UI, This abandoned ghost ship sails the Sea Betwixt. You wonder what its story could be.
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_020_BUTTON, UI, Investigate the Ghost Ship
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_030_TITLE, UI, Song of the Dead
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_030_DETAIL, UI, A melancholy, yet captivating song rings out here. Who could be singing it?
+W04_GIMK_COMM_GHOSTSHIP_SUBQUEST_030_BUTTON, UI, Investigate the Ghost Ship
+W04_GIMK_COMM_GHOSTSHIP_MERCHANT_SHIP_000_TITLE, UI, Merchant Vessel Under Attack
+W04_GIMK_COMM_GHOSTSHIP_MERCHANT_SHIP_000_DETAIL, UI, This merchant ship is being attacked by fiends. If you don't help, it won't last much longer.
+W04_GIMK_COMM_GHOSTSHIP_MERCHANT_SHIP_000_BUTTON, UI, Defend the Merchant Vessel
+W04_EVAR_COMM_BASE_UZU_DUNGEON_NORMAL_000_TITLE, UI, Vortex of Trials
+W04_EVAR_COMM_BASE_UZU_DUNGEON_NORMAL_000_DETAIL, UI, This giant vortex keeps spitting out fiends.
+W04_EVAR_COMM_BASE_UZU_DUNGEON_NORMAL_000_BUTTON, UI, Fight It Out
+W04_EVAR_COMM_BASE_UZU_DUNGEON_HARD_000_TITLE, UI, Dangerous Vortex of Trials
+W04_EVAR_COMM_BASE_UZU_DUNGEON_HARD_000_DETAIL, UI, This large whirlpool spits out dangerous fiends. It's said the person who defeats them on the smallest ship will be famous across the Mare Nostrum.
+W04_EVAR_COMM_BASE_UZU_DUNGEON_HARD_000_BUTTON, UI, Fight It Out
+W04_EVAR_COMM_PIRATESHIP_UZU_DUNGEON_NORMAL_000_TITLE, UI, Where Fiends Dwell
+W04_EVAR_COMM_PIRATESHIP_UZU_DUNGEON_NORMAL_000_DETAIL, UI, You sense fiends in this large vortex.
+W04_EVAR_COMM_PIRATESHIP_UZU_DUNGEON_NORMAL_000_BUTTON, UI, Fight It Out
+W04_EVAR_COMM_PIRATESHIP_UZU_DUNGEON_HARD_000_TITLE, UI, Where Dangerous Fiends Dwell
+W04_EVAR_COMM_PIRATESHIP_UZU_DUNGEON_HARD_000_DETAIL, UI, You sense dangerous fiends in this large vortex.
+W04_EVAR_COMM_PIRATESHIP_UZU_DUNGEON_HARD_000_BUTTON, UI, Fight It Out
+W04_EVAR_COMM_GHOSTSHIP_SOUTHHARBOR_000_TITLE, UI, Deliver the Axe
+W04_EVAR_COMM_GHOSTSHIP_SOUTHHARBOR_000_DETAIL, UI, The ghost in the Sea Betwixt gave you an axe and bade you deliver it to someone here.
+W04_EVAR_COMM_GHOSTSHIP_SOUTHHARBOR_000_BUTTON, UI, Deliver the Axe
+W04_EVAR_COMM_GHOSTSHIP_ISLAND_000_TITLE, UI, The Ghost Ship
+W04_EVAR_COMM_GHOSTSHIP_ISLAND_000_DETAIL, UI, You sense the ghost ship you encountered in the Sea Betwixt. Could it be here now?
+W04_EVAR_COMM_GHOSTSHIP_ISLAND_000_BUTTON, UI, Go to the Uninhabited Island
+W04_EVAR_COMM_GHOSTSHIP_LIGHTHOUSE_000_TITLE, UI, Teaching in the Lighthouse
+W04_EVAR_COMM_GHOSTSHIP_LIGHTHOUSE_000_DETAIL, UI, You must teach the ghost's song to a person in this lighthouse. Hopefully you can relay it correctly.
+W04_EVAR_COMM_GHOSTSHIP_LIGHTHOUSE_000_BUTTON, UI, Enter the Lighthouse
+W04_GIMK_COMM_GHOSTSHIP_MOVE_IRONSHIP_000_TITLE, UI, The Moving Iron Island
+W04_GIMK_COMM_GHOSTSHIP_MOVE_IRONSHIP_000_DETAIL, UI, This is a masterwork crafted by the scientist in the Sea Betwixt. You sense someone's fighting spirit inside.
+W04_GIMK_COMM_GHOSTSHIP_MOVE_IRONSHIP_000_BUTTON, UI, Fight on the Iron Island
+W04_EVAR_COMM_GHOSTSHIP_UZU_DUNGEON_000_TITLE, UI, Wandering Vortex of Evil Spirits
+W04_EVAR_COMM_GHOSTSHIP_UZU_DUNGEON_000_DETAIL, UI, The souls of the ghosts who wander the Sea Betwixt attack any drawn in by the whirlpool.
+W04_EVAR_COMM_GHOSTSHIP_UZU_DUNGEON_000_BUTTON, UI, Fight It Out
+W04_EVAR_COMM_GHOSTSHIP_UZU_DUNGEON_010_TITLE, UI, Terrifying Vortex of Evil Spirits
+W04_EVAR_COMM_GHOSTSHIP_UZU_DUNGEON_010_DETAIL, UI, This vortex of evil spirits chose to remain in the Sea Betwixt and prey on the living.
+W04_EVAR_COMM_GHOSTSHIP_UZU_DUNGEON_010_BUTTON, UI, Fight It Out
+W04_EVAR_COMM_GHOSTSHIP_UZU_DUNGEON_020_TITLE, UI, Dangerous Vortex of Evil Spirits
+W04_EVAR_COMM_GHOSTSHIP_UZU_DUNGEON_020_DETAIL, UI, Dangerous evil spirits who enjoy the Sea Betwixt gather in this whirlpool, capturing the living and refusing to let them go.
+W04_EVAR_COMM_GHOSTSHIP_UZU_DUNGEON_020_BUTTON, UI, Fight It Out
