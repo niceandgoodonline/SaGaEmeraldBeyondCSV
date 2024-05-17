@@ -1,0 +1,82 @@
+{
+  "W10_EVAR_AMYA_CENTERLIFT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_EVAR_AMYA_CENTERLIFT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can use this lift to get down to the lower level where your cat is."
+  },
+  "W10_EVAR_AMYA_CENTERLIFT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Board the Lift"
+  },
+  "W10_EVAR_AMYA_RETURN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Connectivity Room Door"
+  },
+  "W10_EVAR_AMYA_RETURN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W10_EVAR_AMYA_RETURN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "To Miyako City"
+  },
+  "W10_EVAR_AMYA_CLT_06_120_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division, the Cultural Research Group"
+  },
+  "W10_EVAR_AMYA_CLT_06_120_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to get some help finding your cat."
+  },
+  "W10_EVAR_AMYA_CLT_06_120_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Check It Out"
+  },
+  "W10_GIMK_AMYA_CLT_06_MON_01_TITLE": {
+    "speaker": "UI",
+    "text": "A Strange Life-Form"
+  },
+  "W10_GIMK_AMYA_CLT_06_MON_01_DETAIL": {
+    "speaker": "UI",
+    "text": "What is up with the strange life-forms in the lower level?"
+  },
+  "W10_GIMK_AMYA_CLT_06_MON_01_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W10_GIMK_AMYA_CLT_06_MON_04_TITLE": {
+    "speaker": "UI",
+    "text": "A Strange Life-Form"
+  },
+  "W10_GIMK_AMYA_CLT_06_MON_04_DETAIL": {
+    "speaker": "UI",
+    "text": "What is up with the strange life-forms in the lower level?"
+  },
+  "W10_GIMK_AMYA_CLT_06_MON_04_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W10_EVAR_AMYA_NEKO_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat"
+  },
+  "W10_EVAR_AMYA_NEKO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There should be a cat around here."
+  },
+  "W10_EVAR_AMYA_NEKO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Cat"
+  },
+  "W10_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Delta Base"
+  },
+  "W10_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A world straight out of a sci-fi tale awaited you on the other side of the door. Could there really be a cat here?"
+  }
+}

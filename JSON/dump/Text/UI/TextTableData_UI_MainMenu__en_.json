@@ -1,0 +1,1230 @@
+{
+  "UI_MainMenu_Title": {
+    "speaker": "UI",
+    "text": "Main Menu"
+  },
+  "UI_MainMenu_Title_Battle": {
+    "speaker": "UI",
+    "text": "Combat Preparations"
+  },
+  "UI_MainMenu_Btn01": {
+    "speaker": "UI",
+    "text": "Retinue / Formation"
+  },
+  "UI_MainMenu_Btn02": {
+    "speaker": "UI",
+    "text": "Armaments / Techs & Spells / Roles"
+  },
+  "UI_MainMenu_Btn03": {
+    "speaker": "UI",
+    "text": "Inventory"
+  },
+  "UI_MainMenu_Btn04": {
+    "speaker": "UI",
+    "text": "Ritgrams / Notes"
+  },
+  "UI_MainMenu_Btn05": {
+    "speaker": "UI",
+    "text": "Enhance Armaments"
+  },
+  "UI_MainMenu_Btn06": {
+    "speaker": "UI",
+    "text": "Mr. S's Trials"
+  },
+  "UI_MainMenu_Btn07": {
+    "speaker": "UI",
+    "text": "Places Visited"
+  },
+  "UI_MainMenu_Btn08": {
+    "speaker": "UI",
+    "text": "Assorted Records"
+  },
+  "UI_MainMenu_Btn09": {
+    "speaker": "UI",
+    "text": "Tips"
+  },
+  "UI_MainMenu_Btn10": {
+    "speaker": "UI",
+    "text": "Settings"
+  },
+  "UI_MainMenu_Btn11": {
+    "speaker": "UI",
+    "text": "Companions"
+  },
+  "UI_MainMenu_Btn12": {
+    "speaker": "UI",
+    "text": "Soul Guide"
+  },
+  "UI_MainMenu_Btn13": {
+    "speaker": "UI",
+    "text": "Cat<emoji Weapon_Cat> Album "
+  },
+  "UI_MainMenu_Btn14": {
+    "speaker": "UI",
+    "text": "Monster Techs List"
+  },
+  "UI_MainMenu_Btn15": {
+    "speaker": "UI",
+    "text": "Exchange Mech Frame"
+  },
+  "UI_MainMenu_Btn16": {
+    "speaker": "UI",
+    "text": "Thrall Management"
+  },
+  "UI_MainMenu_Btn17": {
+    "speaker": "UI",
+    "text": "Item Trading"
+  },
+  "UI_MainMenu_Btn18": {
+    "speaker": "UI",
+    "text": "Mr. S's Tutelage"
+  },
+  "UI_MainMenu_Btn19": {
+    "speaker": "UI",
+    "text": "Items"
+  },
+  "UI_MainMenu_Btn20": {
+    "speaker": "UI",
+    "text": "Mr. S"
+  },
+  "UI_MainMenu_Btn21": {
+    "speaker": "UI",
+    "text": "Glossary"
+  },
+  "UI_MainMenu_Btn_Disable": {
+    "speaker": "UI",
+    "text": "??????"
+  },
+  "UI_MainMenu_EmptyName": {
+    "speaker": "UI",
+    "text": "--------"
+  },
+  "UI_Ptm_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Ptm_Cancel_Battle": {
+    "speaker": "UI",
+    "text": "Ready!"
+  },
+  "UI_Ptm_Remove": {
+    "speaker": "UI",
+    "text": "Remove"
+  },
+  "UI_Ptm_Formation": {
+    "speaker": "UI",
+    "text": "Select Formation"
+  },
+  "UI_MainMenu_ToggleBtnText01": {
+    "speaker": "UI",
+    "text": "Status"
+  },
+  "UI_MainMenu_ToggleBtnText02": {
+    "speaker": "UI",
+    "text": "Formations"
+  },
+  "UI_Ptm_MainParty": {
+    "speaker": "UI",
+    "text": "Combat Retinue"
+  },
+  "UI_Ptm_HelpMember": {
+    "speaker": "UI",
+    "text": "Support Retinue"
+  },
+  "UI_Ptm_SubMember": {
+    "speaker": "UI",
+    "text": "Retinue"
+  },
+  "UI_ChangeMember": {
+    "speaker": "UI",
+    "text": "Ally to Swap Out"
+  },
+  "UI_Ptm_Hp": {
+    "speaker": "UI",
+    "text": "HP"
+  },
+  "UI_Ptm_Lp": {
+    "speaker": "UI",
+    "text": "LP"
+  },
+  "UI_Ptm_ReturnBattle": {
+    "speaker": "UI",
+    "text": "On Standby"
+  },
+  "UI_Ptm_WaitInheritance": {
+    "speaker": "UI",
+    "text": "Awaiting Inheritance"
+  },
+  "UI_Ptm_CharaEmpty": {
+    "speaker": "UI",
+    "text": "No ally selected."
+  },
+  "UI_Ptm_FormationTab": {
+    "speaker": "UI",
+    "text": "Formations"
+  },
+  "UI_Party_Dialog_Battle_Caption": {
+    "speaker": "UI",
+    "text": "Combat Details"
+  },
+  "UI_Party_Dialog_Battle_Button1": {
+    "speaker": "UI",
+    "text": "Combat Preparations"
+  },
+  "UI_Party_Dialog_Battle_Button2": {
+    "speaker": "UI",
+    "text": "Engage!"
+  },
+  "UI_Party_Dialog_Battle_Body_LP0": {
+    "speaker": "UI",
+    "text": "Retinue members with 0 LP cannot engage in combat."
+  },
+  "UI_Party_Dialog_Battle_Body_LP0_ALL": {
+    "speaker": "UI",
+    "text": "There are no retinue members capable of engaging in combat."
+  },
+  "UI_MissionNow": {
+    "speaker": "UI",
+    "text": "Mr. S's Active Trials"
+  },
+  "UI_Armament_Decide": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Armament_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Armament_Chara_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Armament_Recommended": {
+    "speaker": "UI",
+    "text": "Optimize Armaments"
+  },
+  "UI_Armament_Remove": {
+    "speaker": "UI",
+    "text": "Remove"
+  },
+  "UI_Amm_AmmFlow01Tab01": {
+    "speaker": "UI",
+    "text": "Armaments"
+  },
+  "UI_Amm_AmmFlow01Tab02": {
+    "speaker": "UI",
+    "text": "Techs & Spells"
+  },
+  "UI_Amm_AmmFlow01Tab03": {
+    "speaker": "UI",
+    "text": "Roles"
+  },
+  "UI_MainMenu_ListTab01": {
+    "speaker": "UI",
+    "text": "One-Handed Swords"
+  },
+  "UI_MainMenu_ListTab02": {
+    "speaker": "UI",
+    "text": "Two-Handed Swords"
+  },
+  "UI_MainMenu_ListTab03": {
+    "speaker": "UI",
+    "text": "One-Handed Guns"
+  },
+  "UI_MainMenu_ListTab04": {
+    "speaker": "UI",
+    "text": "Two-Handed Guns"
+  },
+  "UI_MainMenu_ListTab05": {
+    "speaker": "UI",
+    "text": "Main Armor"
+  },
+  "UI_MainMenu_ListTab06": {
+    "speaker": "UI",
+    "text": "Auxiliary Armor"
+  },
+  "UI_MainMenu_ListTab07": {
+    "speaker": "UI",
+    "text": "Relics"
+  },
+  "UI_MainMenu_ListTab08": {
+    "speaker": "UI",
+    "text": "Main Armor Relics"
+  },
+  "UI_MainMenu_ListTab09": {
+    "speaker": "UI",
+    "text": "Auxiliary Armor Relics"
+  },
+  "UI_MainMenu_ListTab11": {
+    "speaker": "UI",
+    "text": "Cat Weapons"
+  },
+  "UI_MainMenu_ListTab12": {
+    "speaker": "UI",
+    "text": "Martial Arts Techs"
+  },
+  "UI_MainMenu_ListTab13": {
+    "speaker": "UI",
+    "text": "Spells"
+  },
+  "UI_MainMenu_ListTab14": {
+    "speaker": "UI",
+    "text": "Blood Techs"
+  },
+  "UI_MainMenu_ListTab15": {
+    "speaker": "UI",
+    "text": "Monster Techs"
+  },
+  "UI_MainMenu_ListTab19": {
+    "speaker": "UI",
+    "text": "Souls"
+  },
+  "UI_MainMenu_ListTab20": {
+    "speaker": "UI",
+    "text": "Roles"
+  },
+  "UI_MainMenu_ListTab21": {
+    "speaker": "UI",
+    "text": "Soul Techs"
+  },
+  "UI_MainMenu_ListTab22": {
+    "speaker": "UI",
+    "text": "Accessories"
+  },
+  "UI_MainMenu_ListTab23": {
+    "speaker": "UI",
+    "text": "Accessory Relics"
+  },
+  "UI_MainMenu_ListTab25": {
+    "speaker": "UI",
+    "text": "One-Handed Sword Techs"
+  },
+  "UI_MainMenu_ListTab26": {
+    "speaker": "UI",
+    "text": "Two-Handed Sword Techs"
+  },
+  "UI_MainMenu_ListTab27": {
+    "speaker": "UI",
+    "text": "One-Handed Gun Techs"
+  },
+  "UI_MainMenu_ListTab28": {
+    "speaker": "UI",
+    "text": "Two-Handed Gun Techs"
+  },
+  "UI_Armament_Dialog_None_UseArts_Caption": {
+    "speaker": "UI",
+    "text": "Confirm Armaments"
+  },
+  "UI_Armament_Dialog_None_UseArts_Body": {
+    "speaker": "UI",
+    "text": "This ally has not been given any techs\nor spells that can be used in combat.\nDo you still want to keep this loadout?"
+  },
+  "UI_Armament_Dialog_None_UseArts_Button1": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Armament_Dialog_None_UseArts_Button2": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Armament_Dialog_None_SetArts_Caption": {
+    "speaker": "UI",
+    "text": "Confirm Armaments"
+  },
+  "UI_Armament_Dialog_None_SetArts_Body": {
+    "speaker": "UI",
+    "text": "This ally has not been given any techs or spells.\nDo you still want to keep this loadout?"
+  },
+  "UI_Armament_Dialog_None_SetArts_Button1": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Armament_Dialog_None_SetArts_Button2": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Armament_Dialog_None_SetArts_Member_Body": {
+    "speaker": "UI",
+    "text": "Nobody in your combat retinue has\nbeen given any techs or spells.\nDo you still want to keep this loadout?"
+  },
+  "UI_Armament_Dialog_None_SetArts_Member_Button1": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Armament_Dialog_None_SetArts_Member_Button2": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Armament_Empty_Spell": {
+    "speaker": "UI",
+    "text": "You have not learned any spells."
+  },
+  "UI_Armament_Empty_CommonRole": {
+    "speaker": "UI",
+    "text": "You have not learned any roles."
+  },
+  "UI_Armament_Dialog_Exchange_Caption": {
+    "speaker": "UI",
+    "text": "Confirm Armaments"
+  },
+  "UI_Armament_Dialog_Exchange_Body": {
+    "speaker": "UI",
+    "text": "<arg 0> has this equipped.\nSwap with them?"
+  },
+  "UI_Armament_Dialog_Exchange_Remove_Caption": {
+    "speaker": "UI",
+    "text": "Confirm Armaments"
+  },
+  "UI_Armament_Dialog_Exchange_Remove_Body": {
+    "speaker": "UI",
+    "text": "<arg 0> has this equipped.\nRemove it and give it to <arg 1>?"
+  },
+  "UI_Armament_Dialog_Exchange_Member_Caption": {
+    "speaker": "UI",
+    "text": "Confirm Armaments"
+  },
+  "UI_Armament_Dialog_Exchange_Member_Body": {
+    "speaker": "UI",
+    "text": "Other allies have these equipped.\nWho will you swap with?"
+  },
+  "UI_Armament_Dialog_Exchange_Remove_Member_Caption": {
+    "speaker": "UI",
+    "text": "Confirm Armaments"
+  },
+  "UI_Armament_Dialog_Exchange_Remove_Member_Body": {
+    "speaker": "UI",
+    "text": "Other allies have these equipped.\nWho will you remove it from?"
+  },
+  "UI_Armament_Dialog_Exchange_Button1": {
+    "speaker": "UI",
+    "text": "Swap"
+  },
+  "UI_Armament_Dialog_Exchange_Button2": {
+    "speaker": "UI",
+    "text": "Equip"
+  },
+  "UI_Armament_Dialog_Exchange_Button3": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Armament_Martial_Name": {
+    "speaker": "UI",
+    "text": "Martial Arts"
+  },
+  "UI_Armament_Slot_Name01": {
+    "speaker": "UI",
+    "text": "Weapon A"
+  },
+  "UI_Armament_Slot_Name02": {
+    "speaker": "UI",
+    "text": "Weapon B"
+  },
+  "UI_Armament_Slot_Name03": {
+    "speaker": "UI",
+    "text": "Main Armor"
+  },
+  "UI_Armament_Slot_Name04": {
+    "speaker": "UI",
+    "text": "Auxiliary Armor A"
+  },
+  "UI_Armament_Slot_Name05": {
+    "speaker": "UI",
+    "text": "Auxiliary Armor B"
+  },
+  "UI_Armament_Slot_Name06": {
+    "speaker": "UI",
+    "text": "Auxiliary Armor C"
+  },
+  "UI_Armament_Slot_Name07": {
+    "speaker": "UI",
+    "text": "Techs & Spells"
+  },
+  "UI_Armament_Slot_Name08": {
+    "speaker": "UI",
+    "text": "Roles"
+  },
+  "UI_Armament_Slot_Name09": {
+    "speaker": "UI",
+    "text": "Souls"
+  },
+  "UI_Armament_Slot_Name_Mecha01": {
+    "speaker": "UI",
+    "text": "Slot A"
+  },
+  "UI_Armament_Slot_Name_Mecha02": {
+    "speaker": "UI",
+    "text": "Slot B"
+  },
+  "UI_Armament_Slot_Name_Mecha03": {
+    "speaker": "UI",
+    "text": "Slot C"
+  },
+  "UI_Armament_Slot_Name_Mecha04": {
+    "speaker": "UI",
+    "text": "Slot D"
+  },
+  "UI_Armament_Slot_Name_Mecha05": {
+    "speaker": "UI",
+    "text": "Slot E"
+  },
+  "UI_Armament_Slot_Name_Mecha06": {
+    "speaker": "UI",
+    "text": "Slot F"
+  },
+  "UI_Armament_Sub_Menu_Caption": {
+    "speaker": "UI",
+    "text": "Optimize Armaments"
+  },
+  "UI_Armament_Sub_Menu_Body": {
+    "speaker": "UI",
+    "text": "This will change your armaments, techs, and spells.\nSelect the category you want prioritized."
+  },
+  "UI_Armament_Sub_Menu_Body_Party": {
+    "speaker": "UI",
+    "text": "This will change your retinue's armaments, techs, and spells.\nSelect the category you want prioritized, and to whom it should apply."
+  },
+  "UI_Armament_BPDialogCaption": {
+    "speaker": "UI",
+    "text": "BP Alteration"
+  },
+  "UI_Armament_BPDialogValue01": {
+    "speaker": "UI",
+    "text": "Due to a change in roles,\nyour maximum BP is now <arg 0>!"
+  },
+  "UI_Armament_BPDialogValue02": {
+    "speaker": "UI",
+    "text": "Due to a change in roles,\nyour starting BP is now <arg 0>!"
+  },
+  "UI_Armament_BPDialogBtn": {
+    "speaker": "UI",
+    "text": "OK"
+  },
+  "UI_Armament_Sub_Menu_AutoEquipType01": {
+    "speaker": "UI",
+    "text": "Techs"
+  },
+  "UI_Armament_Sub_Menu_AutoEquipType02": {
+    "speaker": "UI",
+    "text": "Armaments"
+  },
+  "UI_Armament_Sub_Menu_AutoEquipType03": {
+    "speaker": "UI",
+    "text": "BP"
+  },
+  "UI_Armament_Sub_Menu_AutoEquipType04": {
+    "speaker": "UI",
+    "text": "Spells"
+  },
+  "UI_Armament_Sub_Menu_AutoEquipType05": {
+    "speaker": "UI",
+    "text": "Remove All"
+  },
+  "UI_Armament_Sub_Menu_AutoEquipTarget01": {
+    "speaker": "UI",
+    "text": "Combat Retinue"
+  },
+  "UI_Armament_Sub_Menu_AutoEquipTarget02": {
+    "speaker": "UI",
+    "text": "Non-Combat Retinue"
+  },
+  "UI_Armament_Sub_Menu_AutoEquipTarget03": {
+    "speaker": "UI",
+    "text": "Entire Retinue"
+  },
+  "UI_ItemMenu_Button_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_ItemMenu_Button_Filter": {
+    "speaker": "UI",
+    "text": "Possessions Only"
+  },
+  "UI_ItemMenu_Button_Filter2": {
+    "speaker": "UI",
+    "text": "All"
+  },
+  "UI_ItemMenu_ListTab01": {
+    "speaker": "UI",
+    "text": "Key Items"
+  },
+  "UI_ItemMenu_ListTab02": {
+    "speaker": "UI",
+    "text": "Materials"
+  },
+  "UI_ItemMenu_ListTab03": {
+    "speaker": "UI",
+    "text": "Concepts"
+  },
+  "UI_ItemMenu_ListTab04": {
+    "speaker": "UI",
+    "text": "Ritgram Shards"
+  },
+  "UI_ItemMenu_ListTab05": {
+    "speaker": "UI",
+    "text": "Weapons"
+  },
+  "UI_ItemMenu_ListTab06": {
+    "speaker": "UI",
+    "text": "Main Armor"
+  },
+  "UI_ItemMenu_ListTab07": {
+    "speaker": "UI",
+    "text": "Auxiliary Armor"
+  },
+  "UI_ItemMenu_ListNone": {
+    "speaker": "UI",
+    "text": "You have no items of this type."
+  },
+  "UI_EnhancemetMaterial": {
+    "speaker": "UI",
+    "text": "Required Materials"
+  },
+  "UI_EnhancemetBackyard": {
+    "speaker": "UI",
+    "text": "Unequipped"
+  },
+  "UI_Enhancemet_ListTab01": {
+    "speaker": "UI",
+    "text": "Weapons"
+  },
+  "UI_Enhancemet_ListTab02": {
+    "speaker": "UI",
+    "text": "Main Armor"
+  },
+  "UI_Enhancemet_ListTab03": {
+    "speaker": "UI",
+    "text": "Auxiliary Armor"
+  },
+  "UI_Enhancemet_Button_Decide": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Enhancemet_Button_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Enhancemet_Button_Filter": {
+    "speaker": "UI",
+    "text": "Equipped Only"
+  },
+  "UI_Enhancemet_Button_Filter2": {
+    "speaker": "UI",
+    "text": "All"
+  },
+  "UI_Enhancemet_Unavailable01": {
+    "speaker": "UI",
+    "text": "You do not have any armaments equipped."
+  },
+  "UI_Enhancemet_Dialog01": {
+    "speaker": "UI",
+    "text": "Consume the required materials to create a new armament?"
+  },
+  "UI_Enhancemet_Dialog02": {
+    "speaker": "UI",
+    "text": "Consume the required materials to create a new armament?"
+  },
+  "UI_Enhancemet_Dialog_Button01": {
+    "speaker": "UI",
+    "text": "Create"
+  },
+  "UI_Enhancemet_Dialog_Button02": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Enhancemet_Unavailable02": {
+    "speaker": "UI",
+    "text": "You have nothing in your inventory."
+  },
+  "UI_Enhancemet_DialogCap_01": {
+    "speaker": "UI",
+    "text": "Confirm Armament Enhancement"
+  },
+  "UI_Enhancemet_DialogCap_02": {
+    "speaker": "UI",
+    "text": "Armament Complete"
+  },
+  "UI_Enhancemet_Dialog_03": {
+    "speaker": "UI",
+    "text": "You created a new armament!"
+  },
+  "UI_Enhancemet_Dialog_Button03": {
+    "speaker": "UI",
+    "text": "OK"
+  },
+  "UI_Enhancemet_Line01": {
+    "speaker": "UI",
+    "text": "Armament to Enhance"
+  },
+  "UI_Enhancemet_ListTitle01": {
+    "speaker": "UI",
+    "text": "Armament to Create"
+  },
+  "UI_Enhancemet_Line02": {
+    "speaker": "UI",
+    "text": "Held"
+  },
+  "UI_Enhancemet_Line03": {
+    "speaker": "UI",
+    "text": "Needed"
+  },
+  "UI_Enhancemet_Line04": {
+    "speaker": "UI",
+    "text": "Armament to Create"
+  },
+  "UI_Enhancemet_ListTitle02": {
+    "speaker": "UI",
+    "text": "Equipped"
+  },
+  "UI_Mission_Footer01": {
+    "speaker": "UI",
+    "text": "Accept Trial"
+  },
+  "UI_Mission_Footer02": {
+    "speaker": "UI",
+    "text": "Change"
+  },
+  "UI_Mission_Footer03": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Mission_Footer04": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Mission_Footer05": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Mission_Footer06": {
+    "speaker": "UI",
+    "text": "Auto-Order: On"
+  },
+  "UI_Mission_Footer07": {
+    "speaker": "UI",
+    "text": "Auto-Order: Off"
+  },
+  "UI_Mission_ProgressLine": {
+    "speaker": "UI",
+    "text": "Current Trials"
+  },
+  "UI_Mission_Line02": {
+    "speaker": "UI",
+    "text": "Auto-Order"
+  },
+  "UI_Mission_On": {
+    "speaker": "UI",
+    "text": "On"
+  },
+  "UI_Mission_Off": {
+    "speaker": "UI",
+    "text": "Off"
+  },
+  "UI_Mission_MissionRank": {
+    "speaker": "UI",
+    "text": "Trial Rank"
+  },
+  "UI_Mission_UnableText01": {
+    "speaker": "UI",
+    "text": "Accept Trial"
+  },
+  "UI_Mission_UnableText02": {
+    "speaker": "UI",
+    "text": "There are no trials available at this time."
+  },
+  "UI_Mission_Comp": {
+    "speaker": "UI",
+    "text": "Complete"
+  },
+  "UI_Mission_NextMission": {
+    "speaker": "UI",
+    "text": "This trial will become available\nafter fighting <arg 0> more battle(s)."
+  },
+  "UI_Mission_Progress": {
+    "speaker": "UI",
+    "text": "Ongoing Trials"
+  },
+  "UI_Mission_RewardPoint": {
+    "speaker": "UI",
+    "text": "Trial Point Rewards"
+  },
+  "UI_Mission_RewardItem": {
+    "speaker": "UI",
+    "text": "Item Rewards"
+  },
+  "UI_Mission_Record": {
+    "speaker": "UI",
+    "text": "Times Completed"
+  },
+  "UI_Mission_Dialog_ChangeCap": {
+    "speaker": "UI",
+    "text": "Change Trial"
+  },
+  "UI_Mission_Dialog_Change": {
+    "speaker": "UI",
+    "text": "Changing an active trial will reset its progress.\nChange it anyway?"
+  },
+  "UI_Mission_Dialog_Change_Button1": {
+    "speaker": "UI",
+    "text": "Change"
+  },
+  "UI_Mission_Dialog_Change_Button2": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Mission_Dialog_CancelCap": {
+    "speaker": "UI",
+    "text": "Abort Trial"
+  },
+  "UI_Mission_Dialog_Cancel": {
+    "speaker": "UI",
+    "text": "Aborting an active trial will reset its progress.\nAbort it anyway?"
+  },
+  "UI_Mission_Dialog_Cancel_Button1": {
+    "speaker": "UI",
+    "text": "Abort"
+  },
+  "UI_Mission_Dialog_Cancel_Button2": {
+    "speaker": "UI",
+    "text": "Do Not Abort"
+  },
+  "UI_Mission_RewardNone": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "UI_Mission_MissionRank_MAX": {
+    "speaker": "UI",
+    "text": "Max"
+  },
+  "UI_Mission_MissionList": {
+    "speaker": "UI",
+    "text": "Trials"
+  },
+  "UI_Dictionary_CatDex_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Dictionary_CatTotal": {
+    "speaker": "UI",
+    "text": "Total"
+  },
+  "UI_Dictionary_TabNameMagicCat": {
+    "speaker": "UI",
+    "text": "Cats Secured"
+  },
+  "UI_Dictionary_PlaceObtain": {
+    "speaker": "UI",
+    "text": "Place Found"
+  },
+  "UI_Dictionary_CharaDex_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_CharaDex_Tab01": {
+    "speaker": "UI",
+    "text": "Techs & Spells Learned"
+  },
+  "UI_CharaDex_Tab02": {
+    "speaker": "UI",
+    "text": "Other"
+  },
+  "UI_CharaDex_GetFormation": {
+    "speaker": "UI",
+    "text": "Formations Acquired"
+  },
+  "UI_CharaDex_GetWaza": {
+    "speaker": "UI",
+    "text": "Blood Techs Acquired"
+  },
+  "UI_CharaDexVoicePlay01": {
+    "speaker": "UI",
+    "text": "Voice 01"
+  },
+  "UI_CharaDexVoicePlay02": {
+    "speaker": "UI",
+    "text": "Voice 02"
+  },
+  "UI_CharaDexVoicePlay03": {
+    "speaker": "UI",
+    "text": "Voice 03"
+  },
+  "UI_CharaDex_VoiceBtn": {
+    "speaker": "UI",
+    "text": "<button ACTION>"
+  },
+  "UI_Dictionary_MechaDex_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Dictionary_MechaDex_Dialog_Caption": {
+    "speaker": "UI",
+    "text": "Exchange Mech Frame"
+  },
+  "UI_Dictionary_MechaDex_Dialog": {
+    "speaker": "UI",
+    "text": "Exchanging mech frame..."
+  },
+  "UI_Dictionary_MechaDex_Decide": {
+    "speaker": "UI",
+    "text": "Exchange"
+  },
+  "UI_Dictionary_MechaDex_TabNameMecha": {
+    "speaker": "UI",
+    "text": "Mech Frame"
+  },
+  "UI_Dictionary_MonsterDex_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Dictionary_GetMonster": {
+    "speaker": "UI",
+    "text": "Monsters Absorbed"
+  },
+  "UI_Dictionary_TabNameMonsterSkill": {
+    "speaker": "UI",
+    "text": "Monster Techs"
+  },
+  "UI_DictionarySoulDex_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Dictionary_SoulDex_TabNameSoul": {
+    "speaker": "UI",
+    "text": "Souls"
+  },
+  "UI_Dictionary_BloodDex_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Dictionary_BloodDex_Nonmember01": {
+    "speaker": "UI",
+    "text": "There are no retinue members who can be made into thralls."
+  },
+  "UI_Dictionary_BloodDex_Dialog01_Caption": {
+    "speaker": "UI",
+    "text": "Suck Blood"
+  },
+  "UI_Dictionary_BloodDex_Dialog01_1": {
+    "speaker": "UI",
+    "text": "Make <arg 0> into a thrall?\n<color=#FF8686>Their maximum LP will be reduced by 1.</color>"
+  },
+  "UI_Dictionary_BloodDex_Dialog01_Btn": {
+    "speaker": "UI",
+    "text": "Enthrall"
+  },
+  "UI_Dictionary_BloodDex_Dialog02_Caption": {
+    "speaker": "UI",
+    "text": "Enthralled"
+  },
+  "UI_Dictionary_BloodDex_Dialog02_1": {
+    "speaker": "UI",
+    "text": "<arg 0> became a thrall!\nThey acquired blood techs."
+  },
+  "UI_Dictionary_BloodDex_Dialog02_2": {
+    "speaker": "UI",
+    "text": "<arg 0>'s maximum LP increased by 1!"
+  },
+  "UI_Dictionary_BloodDex_Dialog03_Caption": {
+    "speaker": "UI",
+    "text": "Confer Sanguine Gear"
+  },
+  "UI_Dictionary_BloodDex_Dialog03_1": {
+    "speaker": "UI",
+    "text": "Make <arg 0> a knight?\n<color=#FF8686>You must have sanguine gear to confer.</color>"
+  },
+  "UI_Dictionary_BloodDex_Dialog03_Btn": {
+    "speaker": "UI",
+    "text": "Make Knight"
+  },
+  "UI_Dictionary_BloodDex_Dialog04_Caption": {
+    "speaker": "UI",
+    "text": "Knighted"
+  },
+  "UI_Dictionary_BloodDex_Dialog04_1": {
+    "speaker": "UI",
+    "text": "<arg 0> became a knight!\n<color=#FF8686>Their maximum LP increased by <arg 1>!</color>"
+  },
+  "UI_Dictionary_BloodDex_Dialog04_2": {
+    "speaker": "UI",
+    "text": "If divested of sanguine gear, a knight will\nbecome a wastrel. Knight them anyway?\nIt will not be possible to knight them again.\n<#FF8686>Their maximum LP will be set to 1.</color>"
+  },
+  "UI_Dictionary_BloodDex_Dialog04_Btn": {
+    "speaker": "UI",
+    "text": "Make Wastrel"
+  },
+  "UI_Dictionary_BloodDex_Dialog05_Caption": {
+    "speaker": "UI",
+    "text": "Maimed"
+  },
+  "UI_Dictionary_BloodDex_Dialog05_1": {
+    "speaker": "UI",
+    "text": "<arg 0> became a wastrel!"
+  },
+  "UI_Dictionary_BloodDex_Dialog06_Caption": {
+    "speaker": "UI",
+    "text": "Knight Management"
+  },
+  "UI_Dictionary_BloodDex_Dialog06_1": {
+    "speaker": "UI",
+    "text": "Will you swap out their sanguine gear,\nor divest them of it entirely?"
+  },
+  "UI_Dictionary_BloodDex_Dialog06_Btn_1": {
+    "speaker": "UI",
+    "text": "Swap Sanguine Gear"
+  },
+  "UI_Dictionary_BloodDex_Dialog06_Btn_2": {
+    "speaker": "UI",
+    "text": "Divest Sanguine Gear"
+  },
+  "UI_Dictionary_BloodDex_Dialog07_Caption": {
+    "speaker": "UI",
+    "text": "Divest Sanguine Gear"
+  },
+  "UI_Dictionary_BloodDex_Dialog07_1": {
+    "speaker": "UI",
+    "text": "Divest <arg 0> of their sanguine gear\nand turn them into a wastrel?\nIt will not be possible to knight them again.\n<#FF8686>Their maximum LP will be set to 1.</color>"
+  },
+  "UI_Dictionary_BloodDex_Dialog08_Caption": {
+    "speaker": "UI",
+    "text": "Swap Sanguine Gear"
+  },
+  "UI_Dictionary_BloodDex_Dialog08_1": {
+    "speaker": "UI",
+    "text": "Swapped out sanguine gear!"
+  },
+  "UI_Dictionary_BloodDex_Dialog08_2": {
+    "speaker": "UI",
+    "text": "Removed sanguine gear from\n<arg 0> and equipped\n<arg 1> with <arg 2>."
+  },
+  "UI_Dictionary_BloodDex_Dialog_Btn_OK": {
+    "speaker": "UI",
+    "text": "OK"
+  },
+  "UI_Dictionary_BloodDex_Dialog_Btn_Cancel": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Dictionary_BloodDex_TabName01": {
+    "speaker": "UI",
+    "text": "Humanoids"
+  },
+  "UI_Dictionary_BloodDex_TabName02": {
+    "speaker": "UI",
+    "text": "Thralls"
+  },
+  "UI_Dictionary_BloodDex_TabName03": {
+    "speaker": "UI",
+    "text": "Knights"
+  },
+  "UI_Dictionary_BloodDex_TabName04": {
+    "speaker": "UI",
+    "text": "Wastrels"
+  },
+  "UI_Dictionary_BloodDex_TabNameTreasure": {
+    "speaker": "UI",
+    "text": "Sanguine Gear"
+  },
+  "UI_Dictionary_BloodDex_Decide01": {
+    "speaker": "UI",
+    "text": "Make Knight"
+  },
+  "UI_Dictionary_BloodDex_Decide02": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Dictionary_BloodDex_Decide03": {
+    "speaker": "UI",
+    "text": "Enthrall"
+  },
+  "UI_Dictionary_BloodDex_EquippedPerson": {
+    "speaker": "UI",
+    "text": "(Holder) <arg 0>"
+  },
+  "UI_MainMenuPageFeedBtn": {
+    "speaker": "UI",
+    "text": "<button PageNext>"
+  },
+  "UI_Dictionary_BloodDex_Dialog03_2": {
+    "speaker": "UI",
+    "text": "You have no sanguine gear to confer."
+  },
+  "UI_Dictionary_BloodDex_Nonmember02": {
+    "speaker": "UI",
+    "text": "You have no thralls in your retinue."
+  },
+  "UI_Dictionary_BloodDex_Nonmember03": {
+    "speaker": "UI",
+    "text": "You have no knights in your retinue."
+  },
+  "UI_Dictionary_BloodDex_Nonmember04": {
+    "speaker": "UI",
+    "text": "You have no wastrels in your retinue."
+  },
+  "UI_PlayHistoryList_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_PlayHistoryList_TabName": {
+    "speaker": "UI",
+    "text": "Emerald Vision"
+  },
+  "UI_TgmBook_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_TangramBook_Line01": {
+    "speaker": "UI",
+    "text": "Shards Required"
+  },
+  "UI_TangramBook_Line02": {
+    "speaker": "UI",
+    "text": "Shards Used"
+  },
+  "UI_TangramBook_Vision": {
+    "speaker": "UI",
+    "text": "Vision"
+  },
+  "UI_Tips_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_MainMenu_CharaInfoSkill": {
+    "speaker": "UI",
+    "text": "Skills"
+  },
+  "UI_MainMenu_FiveElements": {
+    "speaker": "UI",
+    "text": "Five Elements"
+  },
+  "UI_MainMenu_CharaInfoResistance": {
+    "speaker": "UI",
+    "text": "Resistances"
+  },
+  "UI_MainMenu_CharaInfoAbility": {
+    "speaker": "UI",
+    "text": "Attributes"
+  },
+  "UI_Amm_ArmamentsSlotPower": {
+    "speaker": "UI",
+    "text": "Weapon Power"
+  },
+  "UI_MainMenu_AbilityItem01": {
+    "speaker": "UI",
+    "text": "Strength"
+  },
+  "UI_MainMenu_AbilityItem02": {
+    "speaker": "UI",
+    "text": "Dexterity"
+  },
+  "UI_MainMenu_AbilityItem03": {
+    "speaker": "UI",
+    "text": "Mobility"
+  },
+  "UI_MainMenu_AbilityItem04": {
+    "speaker": "UI",
+    "text": "Endurance"
+  },
+  "UI_MainMenu_AbilityItem05": {
+    "speaker": "UI",
+    "text": "Intelligence"
+  },
+  "UI_MainMenu_AbilityItem06": {
+    "speaker": "UI",
+    "text": "Acuity"
+  },
+  "UI_ItemMenu_ResistanceLabel": {
+    "speaker": "UI",
+    "text": "(Resistances)"
+  },
+  "UI_ItemMenu_ResistanceNone": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "UI_ItemMenu_ResistanceAll": {
+    "speaker": "UI",
+    "text": "All"
+  },
+  "UI_ItemMenu_EvadeRate": {
+    "speaker": "UI",
+    "text": "(Evade Chance)"
+  },
+  "UI_Armament_Dialog_Warning_Night_Caption": {
+    "speaker": "UI",
+    "text": "Equipment Confirmation"
+  },
+  "UI_Armament_Dialog_Warning_Night_Body": {
+    "speaker": "UI",
+    "text": "Sanguine gear equipped by knights\ncannot be removed."
+  },
+  "UI_MainMenu_ToggleBtn": {
+    "speaker": "UI",
+    "text": "<button SwitchInfo>"
+  },
+  "UI_Party_SupportRole": {
+    "speaker": "UI",
+    "text": "<arg 0>"
+  },
+  "UI_MainMenu_TubSwitch01": {
+    "speaker": "UI",
+    "text": "<button TabPrev>"
+  },
+  "UI_MainMenu_TubSwitch02": {
+    "speaker": "UI",
+    "text": "<button TabNext>"
+  },
+  "UI_MainMenu_ListTab24": {
+    "speaker": "UI",
+    "text": "Inherited Techs"
+  },
+  "UI_Armament_Empty_Slot": {
+    "speaker": "UI",
+    "text": "-------"
+  },
+  "UI_ItemMenu_GuardRate": {
+    "speaker": "UI",
+    "text": "(Block Chance)"
+  },
+  "UI_RoleTask": {
+    "speaker": "UI",
+    "text": "(Techs & Spells Required to Acquire Role)"
+  },
+  "UI_Enhancemet_SecretMark": {
+    "speaker": "UI",
+    "text": "????"
+  },
+  "UI_MainMenu_Decide": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_MainMenu_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Armament_Dialog_Warning_Button2": {
+    "speaker": "UI",
+    "text": "Close"
+  },
+  "UI_Armament_Dialog_Warning_Night_Hero_Caption": {
+    "speaker": "UI",
+    "text": "Equipment Confirmation"
+  },
+  "UI_Armament_Dialog_Warning_Night_Hero_Body": {
+    "speaker": "UI",
+    "text": "Sanguine gear equipped by knights\ncannot be removed in this way.\n\nKnights can only divested of sanguine gear\nin the 'Thrall Management' menu."
+  },
+  "UI_MainMenu_ExitGame": {
+    "speaker": "UI",
+    "text": "Quit Game"
+  },
+  "UI_Armament_Sub_Menu_Btn01": {
+    "speaker": "UI",
+    "text": "Change"
+  },
+  "UI_Armament_Sub_Menu_Btn02": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_CharaDexVoicePlay": {
+    "speaker": "UI",
+    "text": "Voice"
+  }
+}

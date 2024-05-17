@@ -1,0 +1,862 @@
+{
+  "SUB_W09_EVAR_COMM_WORLDCAMERA_TICKET_INFOMATION_010_CUT_000": {
+    "speaker": "UI",
+    "text": "Tickets in Possession"
+  },
+  "SUB_W09_EVAR_COMM_WORLDCAMERA_TICKET_INFOMATION_020_CUT_000": {
+    "speaker": "UI",
+    "text": "Tram Tickets (1 Block): <decimal 0 0>\nCoach Tickets (2 Blocks): <decimal 1 0>\nMotorcar Tickets (3 Blocks): <decimal 2 0>"
+  },
+  "SUB_W09_EVAR_COMM_WORLDCAMERA_TICKET_INFOMATION_030_CUT_000": {
+    "speaker": "UI",
+    "text": "Route Goal: <decimal 0 0> Diamond(s)"
+  },
+  "SUB_W09_EVAR_COMM_WORLDCAMERA_TICKET_INFOMATION_030_CUT_010": {
+    "speaker": "UI",
+    "text": "Value of Current Items:\n<decimal 0 0> Diamond(s)"
+  },
+  "SUB_W09_EVAR_COMM_CANCEL_000_CUT_000": {
+    "speaker": "HERO",
+    "text": "Hold on a minute."
+  },
+  "SUB_W09_EVAR_COMM_STATION_MOVE_000_CUT_000_000": {
+    "speaker": "NAVI",
+    "text": "To which destination will you go first?\nTram Tickets: <decimal 0 0> \nCoach Tickets: <decimal 1 0> \nMotorcar Tickets: <decimal 2 0> "
+  },
+  "SUB_W09_EVAR_COMM_MOVE_QUESTION_000_CUT_000_000": {
+    "speaker": "NAVI",
+    "text": "How will you proceed?\nTram Tickets: <decimal 0 0> \nCoach Tickets: <decimal 1 0> \nMotorcar Tickets: <decimal 2 0> "
+  },
+  "SUB_W09_EVAR_COMM_MOVETALK_SHORT_TICKET_010_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lack the necessary ticket(s)."
+  },
+  "SUB_W09_EVAR_COMM_ITEMRESULT_MANAGER_000_CUT_000_010": {
+    "speaker": "NAVI",
+    "text": "Diamonds acquired this time: <decimal 0 0>."
+  },
+  "SUB_W09_EVAR_COMM_BASE_TICKET_EXCHANGE_000_CUT_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "These are the current exchanges available:\n2 tram tickets for 1 coach ticket.\n1 coach ticket for 2 tram tickets.\nA bit of your life for a valuable item."
+  },
+  "SUB_W09_EVAR_COMM_BASE_TICKET_EXCHANGE_010_CUT_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "These are the current exchanges available:\n3 tram tickets for 1 motorcar ticket.\n1 motorcar ticket for 3 tram tickets.\nA bit of your life for a valuable item."
+  },
+  "SUB_W09_EVAR_COMM_BASE_TICKET_EXCHANGE_Q1_000_CUT_000_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Which will you exchange?\nTram Tickets: <decimal 0 0>\nCoach Tickets: <decimal 1 0>\nMotorcar Tickets: <decimal 2 0>"
+  },
+  "SUB_W09_EVAR_COMM_BASE_TICKET_EXCHANGE_Q1_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Exchange 2 tram tickets for 1 coach ticket."
+  },
+  "SUB_W09_EVAR_COMM_BASE_TICKET_EXCHANGE_Q1_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Exchange 1 coach ticket for 2 tram tickets."
+  },
+  "SUB_W09_EVAR_COMM_BASE_TICKET_EXCHANGE_Q1_000_CUT_000_030": {
+    "speaker": "HERO",
+    "text": "Exchange 3 tram tickets for 1 motorcar ticket."
+  },
+  "SUB_W09_EVAR_COMM_BASE_TICKET_EXCHANGE_Q1_000_CUT_000_040": {
+    "speaker": "HERO",
+    "text": "Exchange 1 motorcar ticket for 3 tram tickets."
+  },
+  "SUB_W09_EVAR_COMM_BASE_TICKET_EXCHANGE_Q1_000_CUT_000_050": {
+    "speaker": "HERO",
+    "text": "Exchange life for an item."
+  },
+  "SUB_W09_EVAR_COMM_BASE_TICKET_EXCHANGE_Q1_000_CUT_000_060": {
+    "speaker": "UI",
+    "text": "You lost 1 LP in exchange for an item."
+  },
+  "SUB_W09_WRLD_COMM_LPRECOVERY_020_CUT_000_000": {
+    "speaker": "UI",
+    "text": "The diva's joyous song gave you 1 LP."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Choose the rusty sword."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Choose the leather handbag."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_000_CUT_000_030": {
+    "speaker": "HERO",
+    "text": "Choose the old gold ring."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Choose the musky cologne."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Choose the fresh-baked bread."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_010_CUT_000_030": {
+    "speaker": "HERO",
+    "text": "Choose the taxidermy bird."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_020_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Choose the stinky fish eggs."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_020_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Choose the old gold ring."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_020_CUT_000_030": {
+    "speaker": "HERO",
+    "text": "Choose the cookies."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_030_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Choose the leather handbag."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_030_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Choose the muddy mushrooms."
+  },
+  "SUB_W09_EVAR_COMM_BASE_DEPARTMENT_030_CUT_000_030": {
+    "speaker": "HERO",
+    "text": "Choose the taxidermy bird."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_010_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a diva's signed photo."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_020_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a gold medal."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_030_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a commemorative item."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_040_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a thank-you letter."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_050_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost an old crown."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_060_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_070_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost some vintage wine."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_080_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost some cookies."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_090_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost an old tiara."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_100_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a rusty sword."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_110_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a leather handbag."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_120_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost some musky cologne."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_130_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost some stinky fish eggs."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_140_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost some muddy mushrooms."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_150_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost some fresh-baked bread."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_180_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a taxidermy bird."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_190_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost an eel pie."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_200_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a Surprise-ade."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_210_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a billionth-visitor souvenir."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_220_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost a popular diva's signed photo."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_TRAM_TICKET_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost 2 tram tickets."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_TRAM_TICKET_010_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost 3 tram tickets."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_HORSE_TICKET_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost 1 coach ticket."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_VEHICLE_TICKET_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost 1 motorcar ticket."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_ALL_LOST_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost all your gathered items!"
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_PICK_POCKET_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "All of your gathered items were stolen!"
+  },
+  "SUB_W09_EVAR_COMM_ITEM_LOST_PICK_POCKET_000_CUT_010_000": {
+    "speaker": "UI",
+    "text": "You got items equivalent to your stolen items."
+  },
+  "SUB_W09_EVAR_COMM_ITEM_TWICE_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You doubled your gathered items!"
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "Results"
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_000_CUT_000_010": {
+    "speaker": "UI",
+    "text": "You completed a course!\nLet's review what you've gathered."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_000": {
+    "speaker": "UI",
+    "text": "[Low Value] You got <decimal 0 0> diva's signed photo(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_010": {
+    "speaker": "UI",
+    "text": "[Low Value] You got <decimal 0 0> commemorative item(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_020": {
+    "speaker": "UI",
+    "text": "[Low Value] You got <decimal 0 0> bronze medal(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_030": {
+    "speaker": "UI",
+    "text": "[Low Value] You got <decimal 0 0> cookie(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_040": {
+    "speaker": "UI",
+    "text": "[Low Value] You got <decimal 0 0> leather handbag(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_050": {
+    "speaker": "UI",
+    "text": "[Low Value] You got <decimal 0 0> unit(s) of fresh-baked bread."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_070": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> gold medal(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_080": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> thank-you letter(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_090": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> old crown(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_100": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> vintage wine(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_110": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> old tiara(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_120": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> rusty sword(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_130": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> musky cologne(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_140": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> stinky fish eggs."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_150": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> muddy mushrooms."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_180": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> taxidermy bird(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_190": {
+    "speaker": "UI",
+    "text": "[Low Value] You got <decimal 0 0> eel pie(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_200": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> billionth visitor souvenir(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_210": {
+    "speaker": "UI",
+    "text": "[High Value] You got <decimal 0 0> popular diva's signed photo(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_010_CUT_000_220": {
+    "speaker": "UI",
+    "text": "[Low Value] You got <decimal 0 0> Surprise-ade(s)."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_NO_ITEM_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "Sadly, you haven't gathered anything."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_020_CUT_000_000": {
+    "speaker": "UI",
+    "text": "[BAD]\nThat ended rather poorly."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_020_CUT_000_010": {
+    "speaker": "UI",
+    "text": "[GOOD]\nThat ended well enough."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_020_CUT_000_020": {
+    "speaker": "UI",
+    "text": "[EXCELLENT]\nThat was an exceptional outcome."
+  },
+  "SUB_W09_EVAR_COMM_COURSE_END_RESULT_020_CUT_000_030": {
+    "speaker": "UI",
+    "text": "[PERFECT]\nThat was a flawless turn of events!"
+  },
+  "SUB_W09_EVAR_COMM_ROUTE_END_RESULT_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "Diamond Tally"
+  },
+  "SUB_W09_EVAR_COMM_ROUTE_END_RESULT_000_CUT_000_010": {
+    "speaker": "UI",
+    "text": "You earned a total of <decimal 0 0> diamond(s)."
+  },
+  "SUB_W09_EVAR_COMM_PARTY_LEAVE_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "NOTICE"
+  },
+  "SUB_W09_EVAR_COMM_PARTY_LEAVE_000_CUT_000_010": {
+    "speaker": "UI",
+    "text": "A member of your group has left.\nCheck your retinue and formation."
+  },
+  "SUB_W09_EVAR_COMM_STATION_MOVE_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Avalon Station\nFinish up and review your results."
+  },
+  "SUB_W09_EVAR_COMM_STATION_MOVE_000_CUT_010_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Avalon Station\nFinish up and review your results."
+  },
+  "SUB_W09_EVAR_COMM_STATION_MOVE_000_CUT_0１0_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Avalon Station\nFinish up and review your results."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_STATION_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Avalon Station Pickpocket\nGet robbed at the station. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_STATION_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Avalon Station Pickpocket\nGet robbed at the station. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_STATION_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Avalon Station Pickpocket\nGet robbed at the station. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Diva at the Tower\nGet a low-value signed photo."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Diva at the Tower\nGet a low-value signed photo."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Diva at the Tower\nGet a low-value signed photo."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Show Her Your Love\nGive a present to the diva. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Show Her Your Love\nGive a present to the diva. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Show Her Your Love\nGive a present to the diva. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_020_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Diva on the Rise\nGet a high-value signed photo."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_020_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Diva on the Rise\nGet a high-value signed photo."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_020_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Diva on the Rise\nGet a high-value signed photo."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_030_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Diva Meet-and-Greet\nGet a special item at the broadcast tower."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_030_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Diva Meet-and-Greet\nGet a special item at the broadcast tower."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_RADIO_TOWER_030_CUT_000_030": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Diva Meet-and-Greet\nGet a special item at the broadcast tower."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_MUSEUM_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Museum's Anniversary\nGet a low-value commemorative item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_MUSEUM_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Museum's Anniversary\nGet a low-value commemorative item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_MUSEUM_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Museum's Anniversary\nGet a low-value commemorative item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_MUSEUM_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: A Special Museum Item\nFind something special or high-value."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_MUSEUM_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: A Special Museum Item\nFind something special or high-value."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_MUSEUM_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: A Special Museum Item\nFind something special or high-value."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_POLICE_OFFICE_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: A Thorough Investigation\nHelp the investigator. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_POLICE_OFFICE_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: A Thorough Investigation\nHelp the investigator. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_POLICE_OFFICE_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: A Thorough Investigation\nHelp the investigator. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_POLICE_OFFICE_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Report to Avalon Yard\nReview your results."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_POLICE_OFFICE_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Report to Avalon Yard\nReview your results."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_POLICE_OFFICE_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Report to Avalon Yard\nReview your results."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_CLOCK_TOWER_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Clock Tower Dealings\nTrade tickets or get a valuable item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_CLOCK_TOWER_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Clock Tower Dealings\nTrade tickets or get a valuable item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_CLOCK_TOWER_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Clock Tower Dealings\nTrade tickets or get a valuable item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Palace Bard Performs\nHear a poem about Albion. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Palace Bard Performs\nHear a poem about Albion. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Palace Bard Performs\nHear a poem about Albion. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Palace Bard Regales\nHear a poem about Albion."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Palace Bard Regales\nHear a poem about Albion."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Palace Bard Regales\nHear a poem about Albion."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_020_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Palace Bard Recites\nAcquire a special item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_020_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Palace Bard Recites\nAcquire a special item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_020_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Palace Bard Recites\nAcquire a special item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_END_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Final Judgment at the Palace\nLearn how you fared at the Royal Palace."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_END_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Final Judgment at the Palace\nLearn how you fared at the Royal Palace."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_END_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Final Judgment at the Palace\nLearn how you fared at the Royal Palace."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_HOSPITAL_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: A Dodgy Examination\nGet examined at the hospital. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_HOSPITAL_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: A Dodgy Examination\nGet examined at the hospital. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_HOSPITAL_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: A Dodgy Examination\nGet examined at the hospital. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_HOSPITAL_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Join the Blood Drive\nOffer a bit of life for a valuable item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_HOSPITAL_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Join the Blood Drive\nOffer a bit of life for a valuable item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_HOSPITAL_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Join the Blood Drive\nOffer a bit of life for a valuable item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_HOSPITAL_020_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: A Path for the Dead\nFollow the clues you've gathered."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_HOSPITAL_020_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: A Path for the Dead\nFollow the clues you've gathered."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_HOSPITAL_020_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: A Path for the Dead\nFollow the clues you've gathered."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_DEPARTMENT_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Rare Finds at Canuds\nTest your eye for value and get a special item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_DEPARTMENT_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Rare Finds at Canuds\nTest your eye for value and get a special item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_DEPARTMENT_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Rare Finds at Canuds\nTest your eye for value and get a special item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_DEPARTMENT_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Refined Shopping at Canuds\nPick out a high- or low-value item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_DEPARTMENT_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Refined Shopping at Canuds\nPick out a high- or low-value item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_DEPARTMENT_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Refined Shopping at Canuds\nPick out a high- or low-value item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_OPERA_HOUSE_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Inspiration at the Theatre\nGet a low-value bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_OPERA_HOUSE_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Inspiration at the Theatre\nGet a low-value bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_OPERA_HOUSE_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Inspiration at the Theatre\nGet a low-value bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_OPERA_HOUSE_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Bold Verses at the Theatre\nGet a high- or low-value item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_OPERA_HOUSE_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Bold Verses at the Theatre\nGet a high- or low-value item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_OPERA_HOUSE_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Bold Verses at the Theatre\nGet a high- or low-value item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_ONE_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Ruins Below\nGet a high-value gold medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_ONE_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Ruins Below\nGet a high-value gold medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_ONE_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Ruins Below\nGet a high-value gold medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_ONE_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Investing in Excavation.\nPossibly excavate a high-value item?"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_ONE_PICK_POCKET_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Pickpocket on the Lam\nTake down Sylvester."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_ONE_PICK_POCKET_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Pickpocket on the Lam\nPossibly excavate a high-value item?"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_ONE_PICK_POCKET_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Pickpocket on the Lam\nTake down Sylvester."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_MARKET_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Market Punch-Up Club\nEarn a high- or low-value prize."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_MARKET_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Market Punch-Up Club\nEarn a high- or low-value prize."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_MARKET_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Market Punch-Up Club\nEarn a high- or low-value prize."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_MARKET_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Market Thief\nEncounter a pickpocket. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_MARKET_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Market Thief\nEncounter a pickpocket. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_MARKET_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Market Thief\nEncounter a pickpocket. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_MARKET_PICK_POCKET_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Pickpocket's Treasure\nGet a special item from a pickpocket."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_THREE_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Nobility in Crisis\nGet a low-value bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_THREE_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Nobility in Crisis\nGet a low-value bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_THREE_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Nobility in Crisis\nGet a low-value bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_THREE_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: A Noble's Risky Wager\nDouble your items or lose them all."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_THREE_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: A Noble's Risky Wager\nDouble your items or lose them all."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_THREE_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: A Noble's Risky Wager\nDouble your items or lose them all."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_THREE_020_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: A Noble's Special Item\nGet an item held by a nobleman."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_THREE_020_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: A Noble's Special Item\nGet an item held by a nobleman."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_THREE_020_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: A Noble's Special Item\nGet an item held by a nobleman."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FOUR_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Backstreet Philanthropy\nGet a low-value bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FOUR_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Backstreet Philanthropy\nGet a low-value bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FOUR_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Backstreet Philanthropy\nGet a low-value bronze medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FOUR_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Jack Street\nGet a special item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FOUR_020_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Pickpocket on the Lam\nTake down Sylvester."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FOUR_020_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Pickpocket on the Lam\nTake down Sylvester."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FOUR_020_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Pickpocket on the Lam\nTake down Sylvester."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FIVE_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Outrageous Cuisine\nGet a low-value eel pie."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FIVE_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Outrageous Cuisine\nGet a low-value eel pie."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FIVE_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Outrageous Cuisine\nGet a low-value eel pie."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FIVE_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Outrageous Surprise\nGet a low-value Surprise-ade."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FIVE_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Outrageous Surprise\nGet a low-value Surprise-ade."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_FIVE_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Outrageous Surprise\nGet a low-value Surprise-ade."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SIX_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Elite Boutique\nGet the low-value item you desire."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SIX_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Elite Boutique\nGet the low-value item you desire."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SIX_000_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Elite Boutique\nGet the low-value item you desire."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SIX_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Desirous Once More\nGet the high-value item you desire."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SIX_010_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Desirous Once More\nGet the high-value item you desire."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SIX_010_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Desirous Once More\nGet the high-value item you desire."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SEVEN_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Big Trouble at a Little Bar\nGet a high-value gold medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SEVEN_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Big Trouble at a Little Bar\nGet a high-value gold medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SEVEN_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Big Trouble at a Little Bar\nGet a high-value gold medal."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SEVEN_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Pub Gamble\nDouble your items or lose them all."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SEVEN_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Pub Gamble\nDouble your items or lose them all."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_SEVEN_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Pub Gamble\nDouble your items or lose them all."
+  },
+  "SUB_W09_EVAR_COMM_WORLD_QUEST_COURSE_END_QUESTION_010_CUT_010_000": {
+    "speaker": "Navi",
+    "text": "Then I shall collect the items you've retrieved.\nYour goal is <decimal 0 0> diamond(s).\nDon't let me down, lostling.\n"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_030_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Palace Bard Resounds\nHear a poem about Albion. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_030_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Palace Bard Resounds\nHear a poem about Albion. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_030_CUT_020_000": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: The Palace Bard Resounds\nHear a poem about Albion. (Item loss)"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_040_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: The Palace Bard Regales\nHear a poem and acquire a high-value item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_040_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: The Palace Bard Regales\nHear a poem and acquire a high-value item."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_END_010_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Tram Ticket: Awaiting Final Judgment\nLearn how you fared at the Royal Palace."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_END_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Awaiting Final Judgment\nLearn how you fared at the Royal Palace."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_ROYAL_PALACE_END_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Awaiting Final Judgment\nLearn how you fared at the Royal Palace."
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_ONE_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Coach Ticket: Investing in Excavation\nPossibly excavate a high-value item?"
+  },
+  "SUB_W09_EVAR_COMM_MOVE_SQUARE_ONE_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Motorcar Ticket: Investing in Excavation\nPossibly excavate a high-value item?"
+  }
+}

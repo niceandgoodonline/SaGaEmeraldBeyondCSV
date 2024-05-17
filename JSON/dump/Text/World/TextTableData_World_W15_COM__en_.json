@@ -1,0 +1,1474 @@
+{
+  "W15_LTXT_COMM_TERMINAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Terminal"
+  },
+  "W15_LTXT_COMM_TERMINAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The core triangle engine supporting this world is located in this very important place."
+  },
+  "W15_LTXT_COMM_INDUSTRIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Industrial Ward"
+  },
+  "W15_LTXT_COMM_INDUSTRIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The factories in this area manufacture various types of equipment that rely on triangle engines."
+  },
+  "W15_LTXT_COMM_TRADE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Commercial Ward"
+  },
+  "W15_LTXT_COMM_TRADE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Trigon Corporation's sales department is located here. The employees are constantly pitching their expertise to anyone who will listen."
+  },
+  "W15_LTXT_COMM_MINE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Mine"
+  },
+  "W15_LTXT_COMM_MINE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A mine with a large—but old and deteriorating—triangle engine."
+  },
+  "W15_LTXT_COMM_RANCH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Ranch"
+  },
+  "W15_LTXT_COMM_RANCH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A Trigon Corporation facility that is the perfect living environment for animals."
+  },
+  "W15_LTXT_COMM_TOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Tower"
+  },
+  "W15_LTXT_COMM_TOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A tall building that houses the Trigon Corporation's director."
+  },
+  "W15_LTXT_COMM_SETTLEMENT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Residential Ward"
+  },
+  "W15_LTXT_COMM_SETTLEMENT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "In addition to being the home of countless people, the Trigon Corporation's infrastructure department is also located here."
+  },
+  "W15_LTXT_COMM_DAM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dam"
+  },
+  "W15_LTXT_COMM_DAM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A facility containing a large, old triangle engine that relies on hydraulic power."
+  },
+  "W15_LTXT_COMM_CAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cave"
+  },
+  "W15_LTXT_COMM_CAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've heard tales of a ruin with ancient murals deep within this cave."
+  },
+  "W15_LTXT_COMM_PARK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Amusement Park"
+  },
+  "W15_LTXT_COMM_PARK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A paradise of rides and attractions for children, all powered by triangle engines."
+  },
+  "W15_LTXT_COMM_FOREST_000_TITLE": {
+    "speaker": "UI",
+    "text": "Forest"
+  },
+  "W15_LTXT_COMM_FOREST_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though this place was once deforested thanks to the triangle engine, trees are now attempting to reclaim their former home."
+  },
+  "W15_LTXT_COMM_LAB_000_TITLE": {
+    "speaker": "UI",
+    "text": "Laboratory"
+  },
+  "W15_LTXT_COMM_LAB_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A laboratory full of cutting-edge equipment the Trigon Corporation uses to research triangle theory."
+  },
+  "W15_LTXT_COMM_PORT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Port"
+  },
+  "W15_LTXT_COMM_PORT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A port in the sky that was once filled with life. It has since fallen into disrepair, and airships no longer visit it."
+  },
+  "W15_EVAR_COMM_TERMINAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Disaster at the Central Terminal"
+  },
+  "W15_EVAR_COMM_TERMINAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Are the people in the tower safe after that explosion?"
+  },
+  "W15_EVAR_COMM_TERMINAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Central Terminal"
+  },
+  "W15_EVAR_COMM_TOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restoring the Tower"
+  },
+  "W15_EVAR_COMM_TOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The tower's triangle engine has stopped. Something sinister seems to be at work."
+  },
+  "W15_EVAR_COMM_TOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Tower"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Industrial Ward Engine"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine in the Industrial Ward as soon as possible."
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Industrial Ward"
+  },
+  "W15_EVAR_COMM_SETTLEMENT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Residential Ward Engine"
+  },
+  "W15_EVAR_COMM_SETTLEMENT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine in the Residential Ward as soon as possible."
+  },
+  "W15_EVAR_COMM_SETTLEMENT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Residential Ward"
+  },
+  "W15_EVAR_COMM_TRADE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Commercial Ward Engine"
+  },
+  "W15_EVAR_COMM_TRADE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine in the Commercial Ward as soon as possible."
+  },
+  "W15_EVAR_COMM_TRADE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Commercial Ward"
+  },
+  "W15_EVAR_COMM_LAB_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Laboratory Engine"
+  },
+  "W15_EVAR_COMM_LAB_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine in the laboratory as soon as possible."
+  },
+  "W15_EVAR_COMM_LAB_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Laboratory"
+  },
+  "W15_EVAR_COMM_MINE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Mine Engine"
+  },
+  "W15_EVAR_COMM_MINE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine in the mine as soon as possible."
+  },
+  "W15_EVAR_COMM_MINE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Mine"
+  },
+  "W15_EVAR_COMM_PORT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Port Engine"
+  },
+  "W15_EVAR_COMM_PORT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine at the port as soon as possible."
+  },
+  "W15_EVAR_COMM_PORT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Port"
+  },
+  "W15_EVAR_COMM_RANCH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Ranch Engine"
+  },
+  "W15_EVAR_COMM_RANCH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine at the ranch as soon as possible."
+  },
+  "W15_EVAR_COMM_RANCH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Ranch"
+  },
+  "W15_EVAR_COMM_DAM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Dam Engine"
+  },
+  "W15_EVAR_COMM_DAM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine at the dam as soon as possible."
+  },
+  "W15_EVAR_COMM_DAM_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dam"
+  },
+  "W15_EVAR_COMM_PARK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Amusement Park Engine"
+  },
+  "W15_EVAR_COMM_PARK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine in the amusement park as soon as possible."
+  },
+  "W15_EVAR_COMM_PARK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Amusement Park"
+  },
+  "W15_EVAR_COMM_FOREST_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Forest Engine"
+  },
+  "W15_EVAR_COMM_FOREST_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair and reboot the triangle engine in the forest as soon as possible."
+  },
+  "W15_EVAR_COMM_FOREST_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Forest"
+  },
+  "W15_EVAR_COMM_CAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Cave"
+  },
+  "W15_EVAR_COMM_CAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It seems even this cave is part of the triangle network. Could there be a triangle engine here as well?"
+  },
+  "W15_EVAR_COMM_CAVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W15_EVAR_COMM_BOSS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Ceremony in the Central Terminal"
+  },
+  "W15_EVAR_COMM_BOSS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A ceremony will soon be held at the central terminal. What could be causing the anomaly that Master detected?"
+  },
+  "W15_EVAR_COMM_BOSS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Ceremony"
+  },
+  "W15_EVAR_COMM_BOSS_010_TITLE": {
+    "speaker": "UI",
+    "text": "Ceremony in the Central Terminal"
+  },
+  "W15_EVAR_COMM_BOSS_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A ceremony will soon be held at the central terminal. What could be causing the anomaly that Master detected?"
+  },
+  "W15_EVAR_COMM_BOSS_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Central Terminal"
+  },
+  "W15_EVAR_COMM_BOSS_020_TITLE": {
+    "speaker": "UI",
+    "text": "Ceremony in the Central Terminal"
+  },
+  "W15_EVAR_COMM_BOSS_020_DETAIL": {
+    "speaker": "UI",
+    "text": "A ceremony will soon be held at the central terminal. What could be causing the anomaly that Master detected?"
+  },
+  "W15_EVAR_COMM_BOSS_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Central Terminal"
+  },
+  "W15_EVAR_COMM_BOSS_030_TITLE": {
+    "speaker": "UI",
+    "text": "Ceremony in the Central Terminal"
+  },
+  "W15_EVAR_COMM_BOSS_030_DETAIL": {
+    "speaker": "UI",
+    "text": "A ceremony will soon be held at the central terminal. What could be causing the anomaly that Master detected?"
+  },
+  "W15_EVAR_COMM_BOSS_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Central Terminal"
+  },
+  "W15_EVAR_COMM_BOSS_040_TITLE": {
+    "speaker": "UI",
+    "text": "Ceremony in the Central Terminal"
+  },
+  "W15_EVAR_COMM_BOSS_040_DETAIL": {
+    "speaker": "UI",
+    "text": "A ceremony will soon be held at the central terminal. What could be causing the anomaly that Master detected?"
+  },
+  "W15_EVAR_COMM_BOSS_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Central Terminal"
+  },
+  "W15_EVAR_COMM_TERMINAL_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Central Terminal"
+  },
+  "W15_EVAR_COMM_TERMINAL_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the central terminal as soon as possible."
+  },
+  "W15_EVAR_COMM_TERMINAL_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Central Terminal"
+  },
+  "W15_EVAR_COMM_TOWER_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Tower"
+  },
+  "W15_EVAR_COMM_TOWER_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the tower as soon as possible."
+  },
+  "W15_EVAR_COMM_TOWER_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Tower"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Industrial Ward"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the Industrial Ward as soon as possible."
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Industrial Ward"
+  },
+  "W15_EVAR_COMM_SETTLEMENT_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Residential Ward"
+  },
+  "W15_EVAR_COMM_SETTLEMENT_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the Residential Ward as soon as possible."
+  },
+  "W15_EVAR_COMM_SETTLEMENT_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Residential Ward"
+  },
+  "W15_EVAR_COMM_TRADE_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Commercial Ward"
+  },
+  "W15_EVAR_COMM_TRADE_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the Commercial Ward as soon as possible."
+  },
+  "W15_EVAR_COMM_TRADE_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Commercial Ward"
+  },
+  "W15_EVAR_COMM_LAB_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Laboratory"
+  },
+  "W15_EVAR_COMM_LAB_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the laboratory as soon as possible."
+  },
+  "W15_EVAR_COMM_LAB_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Laboratory"
+  },
+  "W15_EVAR_COMM_MINE_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Mine"
+  },
+  "W15_EVAR_COMM_MINE_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the mine as soon as possible."
+  },
+  "W15_EVAR_COMM_MINE_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Mine"
+  },
+  "W15_EVAR_COMM_PORT_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Port"
+  },
+  "W15_EVAR_COMM_PORT_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine at the port as soon as possible."
+  },
+  "W15_EVAR_COMM_PORT_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Port"
+  },
+  "W15_EVAR_COMM_RANCH_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Ranch"
+  },
+  "W15_EVAR_COMM_RANCH_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine at the ranch as soon as possible."
+  },
+  "W15_EVAR_COMM_RANCH_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Ranch"
+  },
+  "W15_EVAR_COMM_DAM_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Dam"
+  },
+  "W15_EVAR_COMM_DAM_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine at the dam as soon as possible."
+  },
+  "W15_EVAR_COMM_DAM_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dam"
+  },
+  "W15_EVAR_COMM_PARK_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Amusement Park"
+  },
+  "W15_EVAR_COMM_PARK_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the amusement park as soon as possible."
+  },
+  "W15_EVAR_COMM_PARK_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Amusement Park"
+  },
+  "W15_EVAR_COMM_FOREST_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Forest"
+  },
+  "W15_EVAR_COMM_FOREST_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the forest as soon as possible."
+  },
+  "W15_EVAR_COMM_FOREST_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Forest"
+  },
+  "W15_EVAR_COMM_CAVE_RECLEAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Cave"
+  },
+  "W15_EVAR_COMM_CAVE_RECLEAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle has destroyed the triangle network. Restore the engine in the cave as soon as possible."
+  },
+  "W15_EVAR_COMM_CAVE_RECLEAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W15_EVAR_COMM_LAB_020_TITLE": {
+    "speaker": "UI",
+    "text": "Corana's Call"
+  },
+  "W15_EVAR_COMM_LAB_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Corana has asked you to return. This is a good opportunity to share all that you've learned with her."
+  },
+  "W15_EVAR_COMM_LAB_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Corana"
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_000_TITLE": {
+    "speaker": "UI",
+    "text": "Trigon Employee Fred"
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Fred seems concerned about whether anyone is watching him. What is he planning?"
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach Fred"
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_010_TITLE": {
+    "speaker": "UI",
+    "text": "Corana in the Central Terminal"
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You thought Corana was in the laboratory, but apparently she's in the central terminal. Perhaps something unexpected is about to happen."
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Central Terminal"
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_020_TITLE": {
+    "speaker": "UI",
+    "text": "A Sensor's Shadow"
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_020_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense someone unfamiliar near the central terminal. You should investigate this unexpected event."
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_030_TITLE": {
+    "speaker": "UI",
+    "text": "The Doctor's Projection"
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_030_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense something very dangerous near the central terminal. You should investigate this at once."
+  },
+  "W15_EVAR_COMM_ALESSAAGHOST_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_010_TITLE": {
+    "speaker": "UI",
+    "text": "Purify the Industrial Ward"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You must reboot the triangle engine in the Industrial Ward and purify this area."
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Industrial Ward"
+  },
+  "W15_EVAR_COMM_SETTLEMENT_010_TITLE": {
+    "speaker": "UI",
+    "text": "Purify the Residential Ward"
+  },
+  "W15_EVAR_COMM_SETTLEMENT_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You must reboot the triangle engine in the Residential Ward and purify this area."
+  },
+  "W15_EVAR_COMM_SETTLEMENT_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Residential Ward"
+  },
+  "W15_EVAR_COMM_SETTLEMENT_020_TITLE": {
+    "speaker": "UI",
+    "text": "Complaints in the Residential Ward"
+  },
+  "W15_EVAR_COMM_SETTLEMENT_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Complaints are flooding in about the Residential Ward, and they won't stop until you get the triangle engine there online."
+  },
+  "W15_EVAR_COMM_SETTLEMENT_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Residential Ward"
+  },
+  "W15_EVAR_COMM_TRADE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Purify the Commercial Ward"
+  },
+  "W15_EVAR_COMM_TRADE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You must reboot the triangle engine in the Commercial Ward and purify this area."
+  },
+  "W15_EVAR_COMM_TRADE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Commercial Ward"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_GOTOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Development of a New Product"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_GOTOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Trigon Corporation is working on developing a miniature triangle engine. Will they be able to see it to completion?"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_GOTOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Tower"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_GOTERMINAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Speak to Fred"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_GOTERMINAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The developers of the new product still need a spark of inspiration. Perhaps Fred can give you some advice?"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_GOTERMINAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Fred"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Industrial Ward's New Product"
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You wonder if the air purifier was successfully completed. You should go ask the Trigon Corporation employee."
+  },
+  "W15_EVAR_COMM_INDUSTRIAL_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Industrial Ward"
+  },
+  "W15_EVAR_COMM_TRADE_BATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "New Product Testing"
+  },
+  "W15_EVAR_COMM_TRADE_BATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This new product will direct you to places that boost your spirit. In other words..."
+  },
+  "W15_EVAR_COMM_TRADE_BATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Test the New Product"
+  },
+  "W15_EVAR_COMM_TRADE_BATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "New Product Testing"
+  },
+  "W15_EVAR_COMM_TRADE_BATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This new product will direct you to places that boost your spirit. In other words..."
+  },
+  "W15_EVAR_COMM_TRADE_BATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Test the New Product"
+  },
+  "W15_EVAR_COMM_TRADE_BATTLE_020_TITLE": {
+    "speaker": "UI",
+    "text": "New Product Testing"
+  },
+  "W15_EVAR_COMM_TRADE_BATTLE_020_DETAIL": {
+    "speaker": "UI",
+    "text": "This new product will direct you to places that boost your spirit. In other words..."
+  },
+  "W15_EVAR_COMM_TRADE_BATTLE_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Test the New Product"
+  },
+  "W15_EVAR_COMM_TRADE_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "New Product Testing Complete"
+  },
+  "W15_EVAR_COMM_TRADE_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to return the sensor and deliver your impressions. You can only hope this will help you repair and reboot the triangle engines."
+  },
+  "W15_EVAR_COMM_TRADE_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return the New Product"
+  },
+  "W15_EVAR_COMM_TRADE_END_010_TITLE": {
+    "speaker": "UI",
+    "text": "New Product Testing Complete"
+  },
+  "W15_EVAR_COMM_TRADE_END_010_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to return the sensor and deliver your impressions. You can only hope this will help you repair and reboot the triangle engines."
+  },
+  "W15_EVAR_COMM_TRADE_END_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Return the New Product"
+  },
+  "W15_EVAR_COMM_TRADE_END_020_TITLE": {
+    "speaker": "UI",
+    "text": "New Product Testing Complete"
+  },
+  "W15_EVAR_COMM_TRADE_END_020_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to return the sensor and deliver your impressions. You can only hope this will help you repair and reboot the triangle engines."
+  },
+  "W15_EVAR_COMM_TRADE_END_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Return the New Product"
+  },
+  "W15_EVAR_COMM_LAB_GOTERMINAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Doctor and Fred"
+  },
+  "W15_EVAR_COMM_LAB_GOTERMINAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Can you get Fred to talk about the death of Dr. Corana Sitrix's sister?"
+  },
+  "W15_EVAR_COMM_LAB_GOTERMINAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Fred"
+  },
+  "W15_EVAR_COMM_LAB_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Laboratory Engine Reboot Complete"
+  },
+  "W15_EVAR_COMM_LAB_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Corana managed to reboot the triangle engine. Should you tell her about Fred?"
+  },
+  "W15_EVAR_COMM_LAB_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Corana"
+  },
+  "W15_EVAR_COMM_MINE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Mine"
+  },
+  "W15_EVAR_COMM_MINE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Restore the triangle engine in the mine."
+  },
+  "W15_EVAR_COMM_MINE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Restore the Triangle Engine"
+  },
+  "W15_EVAR_COMM_MINE_GODAM_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Dam Supervisor's Assistance"
+  },
+  "W15_EVAR_COMM_MINE_GODAM_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The mine's supervisor is unwilling to help you, but perhaps his son, the dam's supervisor, will be able to assist."
+  },
+  "W15_EVAR_COMM_MINE_GODAM_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Supervisor"
+  },
+  "W15_EVAR_COMM_MINE_END_010_TITLE": {
+    "speaker": "UI",
+    "text": "Persuading the Father"
+  },
+  "W15_EVAR_COMM_MINE_END_010_DETAIL": {
+    "speaker": "UI",
+    "text": "With the dam supervisor's help, perhaps you can finally talk some sense into the mine supervisor."
+  },
+  "W15_EVAR_COMM_MINE_END_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Mine"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could the animals that escaped the ranch be here?"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCH_010_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCH_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Could the animals that escaped the ranch be here?"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCH_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCH_020_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCH_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Could the animals that escaped the ranch be here?"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCH_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCHFALSE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCHFALSE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could the animals that escaped the ranch be here?"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCHFALSE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCHFALSE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCHFALSE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Could the animals that escaped the ranch be here?"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCHFALSE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCHFALSE_020_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCHFALSE_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Could the animals that escaped the ranch be here?"
+  },
+  "W15_EVAR_COMM_RANCH_SEARCHFALSE_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Animals"
+  },
+  "W15_EVAR_COMM_RANCH_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Completing the Ranch's Restoration"
+  },
+  "W15_EVAR_COMM_RANCH_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You managed to round up all the wayward animals. It's time to head back and repair the triangle engine."
+  },
+  "W15_EVAR_COMM_RANCH_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Ranch"
+  },
+  "W15_EVAR_COMM_DAM_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Completing the Dam's Restoration"
+  },
+  "W15_EVAR_COMM_DAM_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The restoration of the dam's triangle engine is apparently complete. You should check it out."
+  },
+  "W15_EVAR_COMM_DAM_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Dam"
+  },
+  "W15_EVAR_COMM_FOREST_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Real Purification"
+  },
+  "W15_EVAR_COMM_FOREST_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Should you return to the forest and help with the real purification process?"
+  },
+  "W15_EVAR_COMM_FOREST_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Forest"
+  },
+  "W15_EVAR_COMM_PARK_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Luring the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_PARK_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You successfully made the Anti-Triangle absorb the uncontrollable energy. You should return and assess the current situation."
+  },
+  "W15_EVAR_COMM_PARK_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Amusement Park"
+  },
+  "W15_EVAR_COMM_CAVE_GOLAB_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dr. Corana Sitrix"
+  },
+  "W15_EVAR_COMM_CAVE_GOLAB_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You still don't know where in the cave the murals are located, but perhaps Dr. Sitrix in the laboratory can tell you."
+  },
+  "W15_EVAR_COMM_CAVE_GOLAB_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Laboratory"
+  },
+  "W15_EVAR_COMM_CAVE_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Murals in the Cave"
+  },
+  "W15_EVAR_COMM_CAVE_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Dr. Sitrix told you where the murals can be found, but will you be able to reach them safely?"
+  },
+  "W15_EVAR_COMM_CAVE_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W15_EVAR_COMM_ANTI00_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI00_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI00_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI01_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI02_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI02_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI03_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI03_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI04_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI05_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI05_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI05_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI06_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI07_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI08_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI08_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI08_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI09_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI09_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI09_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI10_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI10_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI10_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI11_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI11_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI11_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI12_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI12_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI12_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI13_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI13_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI13_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI14_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI14_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI14_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI15_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI15_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI15_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI16_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI16_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI16_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI17_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI17_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI17_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI18_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI18_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI18_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI19_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI19_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI19_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI20_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI20_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI20_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI21_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI21_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI21_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI22_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI22_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI22_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI23_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI23_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI23_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI00_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI00_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI00_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI01_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI01_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI01_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI02_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI02_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI02_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI03_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI03_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI03_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI04_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI04_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI04_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI05_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI05_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI05_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI06_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI06_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI06_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI07_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI07_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI07_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI08_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI08_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI08_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI09_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI09_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI09_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI10_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI10_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI10_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI11_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI11_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI11_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI12_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI12_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI12_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI13_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI13_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI13_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI14_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI14_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI14_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI15_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI15_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI15_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI16_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI16_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI16_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI17_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI17_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI17_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI18_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI18_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI18_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI19_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI19_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI19_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI20_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI20_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI20_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI21_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI21_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI21_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI22_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI22_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI22_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  },
+  "W15_EVAR_COMM_ANTI23_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle Appears"
+  },
+  "W15_EVAR_COMM_ANTI23_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If left unchecked, the Anti-Triangle will keep stealing triangle energy until it destroys the triangle network."
+  },
+  "W15_EVAR_COMM_ANTI23_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Defeat the Anti-Triangle"
+  }
+}

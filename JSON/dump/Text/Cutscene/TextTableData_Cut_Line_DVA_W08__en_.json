@@ -1,0 +1,2390 @@
+{
+  "SUB_W08_WRLD_DIVA_START_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Judging by my analysis, I appear to be\nunderground—and there also seems\nto be loads of life in this area."
+  },
+  "SUB_W08_WRLD_DIVA_START_000_CUT_000_010": {
+    "speaker": "Constantine",
+    "text": "How nice to hear; you'll never be able to\nrecover your heart if you can't interact\nwith other living beings, after all!\fBut that said, I haven't the faintest idea\nhow we're going to get around this place;\nI'd rather not scrabble about in the dirt\nunless I have literally no other option."
+  },
+  "SUB_W08_WRLD_DIVA_START_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Then I suppose I'll have to do a wee\nspot of digging instead, for no price\nis too large to get my heart back!"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I'm detecting something at my feet."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It's a worm—though much bigger\nthan any I've ever seen."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Stay away from that worm, you!\nIt's mine!"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Good day to ye, love."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "Don't recognize you, stranger.\nWhere are you from?"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Ye came from further underground.\nAre ye a mole, perhaps?"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_060": {
+    "speaker": "Mole",
+    "text": "What does it matter what I am?\nJust gimme the worm."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Moles eat worms, as I recall,\nso ye can go ahead and take it."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "You sure? I mean, <i>really</i> sure?\nWorm this big is a pretty rare find."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Aye, it means nothing to me."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_100": {
+    "speaker": "Mole",
+    "text": "Yesss! Now I can finally go home!\nYou're good people, stranger. Take care."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "Wait! I'm searching for my heart.\nDo ye know where I might find it?"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_120": {
+    "speaker": "Mole",
+    "text": "Nope—but good luck all the same.\nBye now!"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Wait!"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_140": {
+    "speaker": "Mole",
+    "text": "What is it this time?"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_150": {
+    "speaker": "Diva_No5",
+    "text": "Might ye take me to wherever ye are\nheaded? I cannae dig so well, ye see."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_160": {
+    "speaker": "Mole",
+    "text": "Wait. You can't dig holes?\nHow have you LIVED, man!?"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_170": {
+    "speaker": "Diva_No5",
+    "text": "Poorly, it seems."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_180": {
+    "speaker": "Mole",
+    "text": "Fine, whatever. I'll take you to my home.\nYou're on your own from there, though!"
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_190": {
+    "speaker": "Diva_No5",
+    "text": "Thank ye! Oh, and my name's Diva."
+  },
+  "SUB_W08_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_200": {
+    "speaker": "Mole",
+    "text": "I'm Tope, of the Kuld."
+  },
+  "SUB_W08_GIMK_DIVA_DIGWALL11_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I cannae believe how fast ye dug\nthat hole, love! It's brilliant!"
+  },
+  "SUB_W08_GIMK_DIVA_DIGWALL11_010_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "The trick is to look for spots\nwhere the earth is soft."
+  },
+  "SUB_W08_GIMK_DIVA_DIGWALL11_010_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "But if ye and your people get around\nby digging, don't ye already have a\nwhole network of tunnels?"
+  },
+  "SUB_W08_GIMK_DIVA_DIGWALL11_010_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Nope. Our tunnels eventually cave in\nand fill up all on their own."
+  },
+  "SUB_W08_GIMK_DIVA_DIGWALL11_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "That's mad."
+  },
+  "SUB_W08_GIMK_DIVA_DIGWALL11_010_CUT_000_050": {
+    "speaker": "Mole",
+    "text": "When the earth gets dug up and filled in,\nit makes the soil more fertile. That fertile\nsoil goes on to nurture nutrient-rich worms,\nwhich all of us then chow down on."
+  },
+  "SUB_W08_GIMK_DIVA_DIGWALL11_010_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "That's how the circle of life goes\nin this world, then? Fascinating."
+  },
+  "SUB_W08_GIMK_DIVA_DIGWALL11_010_CUT_000_070": {
+    "speaker": "Mole",
+    "text": "Yeah, I dunno about that.\nAll I know is that we couldn't get\nby if we didn't do it this way."
+  },
+  "SUB_W08_GIMK_DIVA_DIGWALL11_010_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "Crummy thing is that worms have been real\nhard to come by lately—but that's a tale\nfor another time. Now let's go home."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "Here's the colony where\nwe Kuld live."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "How many of your friends\nlive here with ye, then?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Friends? Haven't got any. The Kuld believe in\nacting alone—only live with others because it\nmakes it easier for us to stay safe. I don't\neven know how many of us live here."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "C'mon, let's go to my house.\nIt's over there."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "Coste! I'm home!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_050": {
+    "speaker": "Mole_Wife",
+    "text": "Late again, Tope! Ground below, how long\ndoes it take to catch one measly worm!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_060": {
+    "speaker": "Mole_Son",
+    "text": "Mommy! I'm hungry!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_070": {
+    "speaker": "Mole_Wife",
+    "text": "I know, honey. I know."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_080": {
+    "speaker": "Mole_Wife",
+    "text": "See that? Your poor son is starving!\nNow hand over the worms already."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_090": {
+    "speaker": "Mole",
+    "text": "Here you go, honeybunch."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_100": {
+    "speaker": "Mole_Wife",
+    "text": "Are you KIDDING me!? This is it?\nWell, that's just pathetic."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Sorry, sweetie, but you know how poor\nthe hunting's been lately, and—"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_120": {
+    "speaker": "Mole_Wife",
+    "text": "I don't want to hear your excuses!\nHow pathetic."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "I thought ye said ye didn't\nhave any friends?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_140": {
+    "speaker": "Mole",
+    "text": "I don't. This is family.\nFamily's different."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_150": {
+    "speaker": "Mole_Wife",
+    "text": "Oh, a guest! Well, this is unusual.\nWhy didn't you tell me you were bringing\nsomeone home, you grubhead!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_160": {
+    "speaker": "Mole",
+    "text": "This is Diva, honeyclaws.\nShe gave me the worm."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_170": {
+    "speaker": "Mole",
+    "text": "This is my wife, Coste,\nand my son, Gourmand."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_180": {
+    "speaker": "Diva_No5",
+    "text": "Chuffed to meet ye both!\nHope I'm not intruding."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_190": {
+    "speaker": "Mole_Wife",
+    "text": "I'm sorry you had to see such a disgraceful\ndisplay, stranger. We don't have much,\nbut please make yourself at home."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_200": {
+    "speaker": "Mole_Wife",
+    "text": "And as for you, Tope..."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_210": {
+    "speaker": "Mole",
+    "text": "Yes, sweetlips?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_220": {
+    "speaker": "Mole_Wife",
+    "text": "You're an idiot if you think this single\nworm is enough for us! Little Gourmand\nhere is a growing pup, you know!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_230": {
+    "speaker": "Mole_Son",
+    "text": "Mommy! When's fooooood!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_240": {
+    "speaker": "Mole",
+    "text": "Of course, honey. I'll be right back.\nJust hold on, all right, Son?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_250": {
+    "speaker": "Diva_No5",
+    "text": "Ye said it's been hard to\ncatch worms lately, aye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_260": {
+    "speaker": "Mole",
+    "text": "Yeah, it's like their population dried\nup all of a sudden. And it's not just\nworms—other creatures too."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_270": {
+    "speaker": "Diva_No5",
+    "text": "Do ye know why?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_280": {
+    "speaker": "Mole",
+    "text": "Nope, but I'm looking into it—because if\nthis continues, we're all gonna starve."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_290": {
+    "speaker": "Diva_No5",
+    "text": "Have ye not told Coste of this?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_300": {
+    "speaker": "Mole",
+    "text": "The last thing I want to do is cause\nCoste any unnecessary worry.\nNope, this is something where I just\nhave to carry my own water."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_310": {
+    "speaker": "Mole",
+    "text": "Well, I'm gonna get back to looking \ninto what's going on, like I said.\nWhat are you gonna do?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_320": {
+    "speaker": "Diva_No5",
+    "text": "I want to go with ye; whatever's causing\nthe worms to vanish might have something\nto do with my lost heart."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_330": {
+    "speaker": "Mole",
+    "text": "Well, today I'm goin' farther than usual,\nso we might end up runnin' into other species.\nSure you're ready for that?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_340": {
+    "speaker": "Diva_No5",
+    "text": "There are other species here?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_000_CUT_000_350": {
+    "speaker": "Mole",
+    "text": "A few, yeah—though we don't usually\ninteract, so I can't tell you much more.\fThis world's got a kind of code, see:\nstick to your own, avoid unnecessary spats,\nand you'll generally be golden."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "One of the Bashar might be\nat our colony."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh, there's one."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_020": {
+    "speaker": "Mole_Npc",
+    "text": "Hey! Get outta here, you!\nThis is Kuld territory!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_030": {
+    "speaker": "Human",
+    "text": "An offering! An offering!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_040": {
+    "speaker": "Mole_Npc",
+    "text": "Gya! Get off me!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "They're being attacked!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Best to wait and watch."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "I'll save ye!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "They've been taken away."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_090": {
+    "speaker": "Mole",
+    "text": "Coste! Gourmand!\nWhere are you!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_100": {
+    "speaker": "Mole_Wife",
+    "text": "Stop yelling, you silly mole!\nWhat do you want?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Oh, Coste! What a relief!\nWhere were you?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_120": {
+    "speaker": "Mole_Wife",
+    "text": "We both got bored waiting for you\nto come home, so we took a little\nwalk to kill some time."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_130": {
+    "speaker": "Mole_Son",
+    "text": "Welcome back, Daddy!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_140": {
+    "speaker": "Mole",
+    "text": "I'm sorry, honeypants, but it's not safe out\nhere right now. In fact, you should just stay\naway from the colony altogether for a bit."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_150": {
+    "speaker": "Mole_Wife",
+    "text": "Don't need to tell me twice—just make\nsure you come home with some good\nworms this time. You hear me?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_160": {
+    "speaker": "Mole_Son",
+    "text": "Bye, Daddy!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_000_170": {
+    "speaker": "Mole",
+    "text": "We're going after them, Diva!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_010_000": {
+    "speaker": "Human",
+    "text": "Foiled again. They are strong!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Are ye all right there?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_010_020": {
+    "speaker": "Mole_Npc",
+    "text": "Yes, thanks to you. Also, you're one\nof the Kuld that live here, right?\nTope, I think?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_010_030": {
+    "speaker": "Mole",
+    "text": "That's me, all right. But tell me,\nhave you seen a mole named Coste?\nShe's my wife."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_010_040": {
+    "speaker": "Mole_Npc",
+    "text": "Coste? Sure did! Said she was worried\nand headed out to try and find you.\nA real firecracker, that one!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Well, at least she's not here.\nThat's a relief."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Do ye know anything about the\nBashar who attacked ye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_010_070": {
+    "speaker": "Mole_Npc",
+    "text": "Nope. All I know is they came\nafter me outta nowhere."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_010_CUT_010_080": {
+    "speaker": "Mole",
+    "text": "We're going after that Bashar!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_110_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "One of the Naml might be at our colony."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_110_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh, there's one."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_110_CUT_000_030": {
+    "speaker": "Insect",
+    "text": "Seedbed discovered. Securing."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_110_CUT_010_000": {
+    "speaker": "Insect",
+    "text": "Securing of seedbed failed.\nRetreating."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_110_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Do ye know anything about the\nNaml who attacked ye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_110_CUT_010_080": {
+    "speaker": "Mole",
+    "text": "We're going after that Naml!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_210_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "One of the Dufda might be\nat our colony."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_210_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh, there's one."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_210_CUT_000_030": {
+    "speaker": "Frog",
+    "text": "Hey. You. Be my food."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_210_CUT_010_000": {
+    "speaker": "Frog",
+    "text": "You're not making this easy!\nWhatever. Forget this."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_210_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Do ye know anything about the\nDufda who attacked ye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_210_CUT_010_080": {
+    "speaker": "Mole",
+    "text": "We're going after that Dufda!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is the only colony we've yet to visit.\nSurely the Lord of the Earth will be here."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "This is my house, and I will protect it!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "The ground is shaking...\nIt's coming!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Here it comes!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "It's not moving... Is it over?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "It's completely destroyed. I'm so sorry.\nShame I lack the ability to repair robots,\nbecause it cannae purify the earth now."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "No, it's better this way; I actually hate the\nthought of relying on something called\nthe 'Lord of the Earth' to survive."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_030": {
+    "speaker": "Mole",
+    "text": "Are you any further along in finding\nthat missing heart, by the way?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I still haven't a clue\nwhere to even look for it."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Eh, try not to let it get you down too much.\nAs for us, we'll do all we can to fill our world\nwith juicy worms again without relying on\nany 'Lord of the Earth.'"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "I wish ye success, love."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_070": {
+    "speaker": "Mole_Wife",
+    "text": "Tope! Where in the WORLD\nhave you been!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_080": {
+    "speaker": "Mole_Son",
+    "text": "Daddy! Yaaay!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_090": {
+    "speaker": "Mole",
+    "text": "Coste? Gourmand? I'm gonna do it.\nI'M GONNA DOOOOO IT!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_100": {
+    "speaker": "Mole_Wife",
+    "text": "Oh for the love of dirt... Maybe stop all\nthis fool yelling and go get us some worms,\nyou good-for-nothing mole!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_010_110": {
+    "speaker": "Mole",
+    "text": "Right away, sugarclaws!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_010": {
+    "speaker": "Cultivator",
+    "text": "<b>ERRORS REPAIRED. RESTARTING.</b>"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_020": {
+    "speaker": "Diva_No5",
+    "text": "System abnormality repaired!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_030": {
+    "speaker": "Cultivator",
+    "text": "<b>ALL SYSTEMS GREEN.\nSOIL CONTAMINATION DETECTED.\nINITIATING CLEANUP PROCESS.</b>"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_040": {
+    "speaker": "Mole",
+    "text": "Huh? It left."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but we did it, love!\nIt's going to purify the earth!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "Then we did it?\nWe saved the world?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_080": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I'm afraid not. I still haven't\na clue where to even look for it."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_090": {
+    "speaker": "Mole",
+    "text": "That's a shame, but try not to let it\nget you down, hey? I'm sure everything\nwill work out in the end."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_100": {
+    "speaker": "Diva_No5",
+    "text": "Thanks for the support, love."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_110": {
+    "speaker": "Mole",
+    "text": "And thanks to you for everything!\nBe safe out there, Diva."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_140": {
+    "speaker": "Mole",
+    "text": "Coste! Gourmand! I did it!\nI saved the world!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_160": {
+    "speaker": "Mole_Son",
+    "text": "I'm bored of worms, Mommy!\nI wanna eat something TASTY!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_170": {
+    "speaker": "Mole",
+    "text": "WHAAAAAAT!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_180": {
+    "speaker": "Mole",
+    "text": "...And that's why I need you to\ntake my son with you."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_190": {
+    "speaker": "Diva_No5",
+    "text": "Are ye sure that's wise, love?\nI'm on a most perilous journey. "
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_200": {
+    "speaker": "Mole_Wife",
+    "text": "All children need to leave the burrow\nsometime, and I know you'll take very\ngood care of our little Gourmand."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_210": {
+    "speaker": "Mole_Son",
+    "text": "Yaaay! I can't wait to eat\nall of the tasties!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_220": {
+    "speaker": "Diva_No5",
+    "text": "Well, if ye feel sure about this..."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_230": {
+    "speaker": "Mole",
+    "text": "We'll rest easy knowing our son\nis with you, Diva.\fNow don't make any trouble, Son.\nYou do everything she says, all right?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_240": {
+    "speaker": "Mole_Wife",
+    "text": "Have fun, Gourmand."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_070_CUT_020_250": {
+    "speaker": "Mole_Son",
+    "text": "Yaaaaaay!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_080_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "So was that really the Lord of the Earth?\nI mean, it could have just been one of the\ncarnivorous mushrooms the Naml use, right?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_080_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "I don't know. Maybe the tales of it\npurifying the earth were all lies?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_080_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "Well, even if it <i>was</i> cleaning it up,\nI don't want to live in a world where I'm\nworried about being eaten alive by some\ngigantic mushroom."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_080_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "Perhaps the Naml always knew of this.\nThat would explain why they were so\nopposed to releasing it."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_080_CUT_020_040": {
+    "speaker": "Mole",
+    "text": "I see. Either way, try not to let it get you\ndown. Heck, you solved the Naml's problem\nAND got to go on a tour of this world!\nSeems like a pretty good journey, all in all. "
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_080_CUT_020_050": {
+    "speaker": "Diva_No5",
+    "text": "Aye, you're right. And if not for\nyour help, I wouldn't have been\nable to search for my heart."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_080_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "Ha ha ha! I did it!\nI saved the world!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_080_CUT_020_070": {
+    "speaker": "Diva_No5",
+    "text": "Thank ye, Tope. Stay safe."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_090_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "This has to be some bad Dufda\njoke that went a little too far."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_090_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Was that really the Lord of the Earth?\nI cannae be sure..."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_090_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "Well, even if it <i>was</i> cleaning up the earth,\nI don't want to live in a world where I'm worried\nabout that thing swallowing me whole."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_090_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "It purified the earth for us.\nI'm chuffed I could help after all."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_MOLE_090_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "Yeah, I suppose it might've actually\nbeen the Lord of the Earth...\fYou know what? I'm gonna say it was.\nHeck, it renewed our soil, after all!"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the origin of that\nbig quake earlier."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Be careful, love. I'm receiving\na rather high energy reading."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "So the Lord of the Earth is actually\na machine that improves the soil."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_010_010": {
+    "speaker": "Cultivator",
+    "text": "<b>ERROR IN BOOT PROCESS 7402.</b>"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_010_020": {
+    "speaker": "Cultivator",
+    "text": "<b>ERROR IN BOOT PROCESS 8496.</b>"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_010_030": {
+    "speaker": "Cultivator",
+    "text": "<b>ERROR IN BOOT PROCESS 9582.</b>"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_010_040": {
+    "speaker": "Cultivator",
+    "text": "<b>UNABLE TO BOOT NORMALLY.\nSWITCHING TO START/STOP PROCESS.</b>"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "What's it saying?"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Poor thing is malfunctioning and\nunable to start up properly."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_010_070": {
+    "speaker": "Cultivator",
+    "text": "<b>ERROR. ERROR. ERROR.\nUNABLE TO EXECUTE START/STOP PROCESS.\nNORMAL OPERATIONS NOT GUARANTEED.</b>"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_010_080": {
+    "speaker": "Cultivator",
+    "text": "<b>TERRAFORMING PROCESS DEEMED A FAILURE.\nBEGINNING RESET OF WORLD ENVIRONMENT.\nALERT. ALERT. THIS PROCESS IS DANGEROUS.\nOPERATORS MUST TAKE SHELTER IMMEDIATELY.</b>"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "Wait! Where are you going!?"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but this is a proper mess!"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "What's going on?"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "It's gone mad! If we don't stop it,\nit will destroy the world—and us!"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_020_040": {
+    "speaker": "Mole",
+    "text": "Where's it going!?"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_020_050": {
+    "speaker": "Diva_No5",
+    "text": "Well, as living creatures have more effect\non the environment than anything else,\nit's likely making for one of the colonies."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_000_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "WHAT!?"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_100_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Is this really the Lord of the Earth?\nI expected it to be larger."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_100_CUT_010_010": {
+    "speaker": "Mole",
+    "text": "There's something off about these bugs.\nTheir eyes are...dull."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_100_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but nothing else about them seems amiss.\nSo please start the purification process if ye would,\nLord of the Earth. "
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_100_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "I've got an awful feeling about this.\nWe should look around the colony."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_100_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "I don't have senses like yours, but I cannae\nsee anything out of the ordinary in the area.\nI think we will be fine, which means it's\ntime to go search for my heart."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_100_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "Oh, right. I forgot that's the\nwhole reason you came here."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "Is this really the Lord of the Earth?"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Will it listen to us, then?"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "I don't think it's happy\nabout being woken up."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "The Dufda were right. It's useless."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_010_040": {
+    "speaker": "EarthMaster",
+    "text": "GRAAAAAAGH!"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "Wait! Where are you going!?"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "It looks less enraged and\nmore just upset as anything."
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "Maybe it's hungry because\nit's been hibernating? "
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "What does the Lord of the Earth\neven eat, though?"
+  },
+  "SUB_W08_EVAR_DIVA_FUNGUS_200_CUT_020_040": {
+    "speaker": "Mole",
+    "text": "I was hoping the answer wasn't us,\nbut I think it's about to chow down\non everything in the colonies!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "Is the Lord of the Earth going\nto attack this place!?"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I calculate a 95% probability\nof that happening, aye."
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "The ground's shaking! It's moving!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Here it comes!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Fight it off!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Stay out of its way!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "It's running away!?"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Since it can't take control of this colony,\nI imagine it's on its way to another."
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "Well, at least we kept\nthis one safe for now."
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "We'd best get after it."
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "No! The colony!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "It's been destroyed!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "Now it's heading somewhere else!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "It's probably going to attack one of the\nother colonies. We need to get after it!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_030_000": {
+    "speaker": "Mole",
+    "text": "Is the Lord of the Earth going\nto attack this place!?"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "I calculate a 30% probability\nof that happening, aye."
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_030_020": {
+    "speaker": "Mole",
+    "text": "The ground's shaking! It's moving!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_040_000": {
+    "speaker": "Diva_No5",
+    "text": "Seems this wasn't its target\nafter all, then."
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_040_010": {
+    "speaker": "Mole",
+    "text": "Did it get another colony!?"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_000_CUT_040_020": {
+    "speaker": "Diva_No5",
+    "text": "We'd best get after it."
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_100_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "Do you think you'll find that\nmissing heart of yours here?"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_100_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I certainly hope so."
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_100_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "The ground's shaking! Er, is that\nsomething your heart can do?"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_100_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I don't know; I'm not even\nentirely sure what one is."
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_100_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "It's a Bashar!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_100_CUT_000_050": {
+    "speaker": "Mole",
+    "text": "It's a Naml!"
+  },
+  "SUB_W08_EVAR_DIVA_BOSS_MOVE_100_CUT_000_060": {
+    "speaker": "Mole",
+    "text": "It's a Dufda!"
+  },
+  "SUB_W08_GIMK_DIVA_DIRT13_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "There was a worm in that\nmountain of earth."
+  },
+  "SUB_W08_GIMK_DIVA_DIRT13_010_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "Yeah, sometimes you find goodies when you dig\nholes. At first you might think that something's\ngotten in your way, but worms often hide out\nin places like that, so I personally welcome it."
+  },
+  "SUB_W08_GIMK_DIVA_DIRT13_010_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm glad ye seem pleased."
+  },
+  "SUB_W08_GIMK_DIVA_DIRT13_010_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Considering we found one already,\nI'm guessing you may just be my\nlucky charm, Diva!"
+  },
+  "SUB_W08_GIMK_DIVA_DIRT13_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I have no such power."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Bashar colony."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "What are the Bashar like, then?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Primitive and violent to the very last.\nNothing good ever comes of dealing with\nthem, but let's hope this ends up being\nthe exception that proves the rule.\fAnyway, there's gotta be a clue here,\nso let's get to looking."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, we'll sneak inside."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_040": {
+    "speaker": "Human_A",
+    "text": "The worms are gone.\nThe Creator is angry."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_050": {
+    "speaker": "Human_B",
+    "text": "We need offerings. More offerings."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_060": {
+    "speaker": "Human_A",
+    "text": "We do not have enough offerings.\nI will find an offering for the Creator."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "I'm afraid I cannae detect the\npresence of any such higher being."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "Likely because they made it up."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_090": {
+    "speaker": "Human_A",
+    "text": "I found an offering!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_000_100": {
+    "speaker": "Human_B",
+    "text": "I found an offering!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "They came at us outta nowhere!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "What are ye doing!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_010_020": {
+    "speaker": "Human_A",
+    "text": "They are strong. So strong.\nWe cannot give them as offerings."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_010_030": {
+    "speaker": "Human_B",
+    "text": "I will search for an offering.\nI will search elsewhere."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "Where are they going!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "They mentioned searching for\nan offering elsewhere."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_000_CUT_010_060": {
+    "speaker": "Mole",
+    "text": "Offerings... Oh no! They're gonna\nattack the other colonies!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_000": {
+    "speaker": "Human",
+    "text": "You return. What do you want?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "We can't find any more worms, and we're\ngetting desperate. So if you know anything\nabout this, please tell us!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_020": {
+    "speaker": "Human",
+    "text": "The earth is dirty now.\nThe earth is bad."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_030": {
+    "speaker": "Human",
+    "text": "The earth's life is the world's life.\nIt is hopeless."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "So there's <i>nothing</i> we can do!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Aye, is there no way to rid the\nsoil of impurities, then?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_060": {
+    "speaker": "Human",
+    "text": "We pray to the Creator.\nWe pray every day."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Prayer changes nothing, love."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_080": {
+    "speaker": "Human",
+    "text": "There is one way.\nBut it will anger the Creator."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Then tell me; I'll do anything\nin my power to help, I will."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_000_100": {
+    "speaker": "Human",
+    "text": "No. The Creator hates the weak.\nWe must test your strength. "
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Do we meet your standards, then?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_010": {
+    "speaker": "Human",
+    "text": "You are strong. The Creator likes you.\nWe can tell you now."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Then please get to it."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_030": {
+    "speaker": "Human",
+    "text": "Wake up the Lord of the Earth."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "The Lord of the Earth?\nWho's that?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_050": {
+    "speaker": "Human",
+    "text": "The Lord of the Earth eats foul dirt.\nThe Lord of the Earth makes clean dirt.\nThe Lord of the Earth serves the Creator.\nThe Lord of the Earth made the world with the Creator."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_060": {
+    "speaker": "Human",
+    "text": "The Lord of the Earth is asleep.\nIt has been sleeping long and long."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "So if we wake the Lord of the Earth,\nit will purify the soil for us?\nAye, we can do that."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_080": {
+    "speaker": "Human",
+    "text": "Yes. But it is dangerous.\nThe Lord of the Earth is violent.\nThe Lord of the Earth listens only to the Creator."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_090": {
+    "speaker": "Human",
+    "text": "It is bad to wake it up\nof your own will."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "I'm not sure what to do here."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_110": {
+    "speaker": "Mole",
+    "text": "What happened to all that confidence\nfrom earlier, huh!? We gonna be fine\nso long as we stick together!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "But where will we find this Lord of the Earth,\nthough? It seems to be somewhere my sensors\naren't able to penetrate."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_130": {
+    "speaker": "Human",
+    "text": "Remove the keystones. There are two.\nThis will wake the Lord of the Earth."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_140": {
+    "speaker": "Mole",
+    "text": "And where are they?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_150": {
+    "speaker": "Human",
+    "text": "There and there. One in each place.\nThey are big stones. With pictures."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_020_CUT_010_160": {
+    "speaker": "Diva_No5",
+    "text": "Aye, we'll have a look about."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Naml colony."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "What are the Naml like?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "They are extremely prolific—by which\nI mean there's a heck of a lot of 'em.\fThey're not hostile, exactly, but they sure\nain't friendly either. I wouldn't be here if\nI didn't have to be, so let's start looking\nfor clues."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, let's sneak inside."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_040": {
+    "speaker": "Insect_A",
+    "text": "The colony's food reserves are low.\nWe must go harvesting."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_050": {
+    "speaker": "Insect_B",
+    "text": "Are the seedbeds ready?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_060": {
+    "speaker": "Insect_A",
+    "text": "We are going to procure\nsome of them right now."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Why are we discussing farming\nall of a sudden?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "Oh, who even knows."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_090": {
+    "speaker": "Insect_A",
+    "text": "I found the perfect seedbeds\nright here."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_000_100": {
+    "speaker": "Insect_B",
+    "text": "Come. Come this way."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "They came at us outta nowhere!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Ach! We aren't seedbeds!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_010_020": {
+    "speaker": "Insect_A",
+    "text": "We cannot use them as seedbeds."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_010_030": {
+    "speaker": "Insect_B",
+    "text": "Let us search elsewhere."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "Where are they going!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "It sounded like they're off to\nsearch for seedbeds elsewhere."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_000_CUT_010_060": {
+    "speaker": "Mole",
+    "text": "Seedbeds... Oh no! They're gonna\nattack the other colonies!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Dufda colony."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "What are the Dufda like?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Honestly, I don't know 'em very well—\nrarely even seen 'em, in fact. All I\nknow is I wanna find a clue and get\nout of here as quick as we can."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, let's sneak inside."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_040": {
+    "speaker": "Frog_A",
+    "text": "So bored! Nothing to do!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_050": {
+    "speaker": "Frog_B",
+    "text": "Why don't we go to the toys?\nWe could play with them."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_060": {
+    "speaker": "Frog_A",
+    "text": "Oooh, that could be fun.\nBut we need feed for the toys.\nLet's go find some."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "What are these toys they're\ntalking about, then?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "Oh, who even knows."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_090": {
+    "speaker": "Frog_A",
+    "text": "Found some feed!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_000_100": {
+    "speaker": "Frog_B",
+    "text": "Don't take this personally!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "They came at us outta nowhere!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "You cannae eat us, loves!\nWe lack nutritional value!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_010_020": {
+    "speaker": "Frog_A",
+    "text": "They are not good for feed."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_010_030": {
+    "speaker": "Frog_B",
+    "text": "Boo! Killjoys! Boo!\nLet's look somewhere else."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "Where are they going!?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "It sounded like they're off to\nsearch for feed elsewhere."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_000_CUT_010_060": {
+    "speaker": "Mole",
+    "text": "Feed... Oh no! They're gonna\nattack the other colonies!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "The Bashar are gathering their victims.\nWhat are they planning here, then?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_000_010": {
+    "speaker": "Human_A",
+    "text": "We've brought our offerings, O Creator!\nFeast well! Feast well!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_005_000": {
+    "speaker": "Diva_No5",
+    "text": "What are the Bashar doing?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_005_010": {
+    "speaker": "Human_A",
+    "text": "We were unable to gather offerings."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_005_020": {
+    "speaker": "Human_B",
+    "text": "Then you will be our offering."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_005_030": {
+    "speaker": "Human_A",
+    "text": "What? Don't touch me!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach! The people they gathered\nturned into mushrooms!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_010_010": {
+    "speaker": "Mole",
+    "text": "Actually, those are carnivorous mushrooms.\nLooks like the mushrooms got them all.\nThere's no saving them now."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_010_020": {
+    "speaker": "Human_B",
+    "text": "You saw our ceremony. This is bad.\nWe must kill everyone who saw."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_015_000": {
+    "speaker": "Diva_No5",
+    "text": "That Bashar turned into a mushroom!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "What are you people doing!?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_020_010": {
+    "speaker": "Human_A",
+    "text": "The Creator created this world.\nThe Creator gives us worms."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_020_020": {
+    "speaker": "Human_B",
+    "text": "But the Creator has been angry lately.\nSo we must give offerings."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_020_030": {
+    "speaker": "Mole",
+    "text": "Offerings? Those are just a bunch of\ncarnivorous mushrooms, you dirtbags! "
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_020_040": {
+    "speaker": "Human_A",
+    "text": "Do not go against the Creator."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_020_050": {
+    "speaker": "Mole",
+    "text": "Ugh! Shut up and get the heck\noutta here already!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "We still don't know why the\nworms are disappearing."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_020_070": {
+    "speaker": "Diva_No5",
+    "text": "And we've not even enough information to\nmake an educated guess. What should we do?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_000_CUT_020_080": {
+    "speaker": "Mole",
+    "text": "Much as I hate to say it, we won't find the\nanswers we need among the Kuld; we have\nto venture out and talk to other species."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "The Naml are gathering their victims.\nWhat are they planning here, then?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_000_010": {
+    "speaker": "Insect_A",
+    "text": "You will become seedbeds.\nSeedbeds for our food."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_005_000": {
+    "speaker": "Diva_No5",
+    "text": "What are the Naml doing?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_005_010": {
+    "speaker": "Insect_A",
+    "text": "Sadly, we met with an obstacle and\nwere unable to secure our seedbeds. "
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_005_020": {
+    "speaker": "Insect_B",
+    "text": "This responsibility lies with you.\nYou will be our seedbed."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_005_030": {
+    "speaker": "Insect_A",
+    "text": "What? No! Stop!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach! The people they gathered\nturned into mushrooms!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_010_010": {
+    "speaker": "Mole",
+    "text": "Actually, those are carnivorous mushrooms.\nLooks like the mushrooms got them all.\nThere's no saving them now."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_010_020": {
+    "speaker": "Insect_B",
+    "text": "You have learned the secret to our\nfood supply. This cannot stand."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_015_000": {
+    "speaker": "Diva_No5",
+    "text": "That Naml turned into a mushroom!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "What are you people doing!?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_020_010": {
+    "speaker": "Insect_A",
+    "text": "Securing our food. These mushrooms\ncreate an infinite supply of seedbeds\nfrom other species."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_020_020": {
+    "speaker": "Insect_B",
+    "text": "These mushrooms will allow us\nto live forever."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_020_030": {
+    "speaker": "Mole",
+    "text": "You're <i>sacrificing</i> people!?\nWhat a sick joke!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_020_040": {
+    "speaker": "Insect_A",
+    "text": "That is all life is."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_020_050": {
+    "speaker": "Mole",
+    "text": "Ugh! Shut up and get the heck\noutta here already!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "We still don't know why the\nworms are disappearing."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_020_070": {
+    "speaker": "Diva_No5",
+    "text": "And we've not even enough information to\nmake an educated guess. What should we do?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_100_CUT_020_080": {
+    "speaker": "Mole",
+    "text": "Much as I hate to say it, we won't find the\nanswers we need among the Kuld; we have\nto venture out and talk to other species."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "The Dufda are gathering their victims.\nWhat are they planning here, then?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_000_010": {
+    "speaker": "Frog_A",
+    "text": "Hooray for all of you!\nYou get to be feed for our toys!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_005_000": {
+    "speaker": "Diva_No5",
+    "text": "What are the Dufda doing?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_005_010": {
+    "speaker": "Frog_A",
+    "text": "Sorryyy! Stuff came up and\nI couldn't bring anyone."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_005_020": {
+    "speaker": "Frog_B",
+    "text": "Then YOU'LL be the feed!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_005_030": {
+    "speaker": "Frog_A",
+    "text": "What!? Nooo!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach! The people they gathered\nturned into mushrooms!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_010_010": {
+    "speaker": "Mole",
+    "text": "Actually, those are carnivorous mushrooms.\nLooks like the mushrooms got them all.\nThere's no saving them now."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_010_020": {
+    "speaker": "Frog_B",
+    "text": "You saw our toys, didn't you?\nWe cannot allow this!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_015_000": {
+    "speaker": "Diva_No5",
+    "text": "That Dufda turned into a mushroom!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "What are you people doing!?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_020_010": {
+    "speaker": "Frog_A",
+    "text": "These mushrooms are our toys.\nAren't they cool?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_020_020": {
+    "speaker": "Frog_B",
+    "text": "They turn regular people into mushroom\npeople. Isn't that awesome?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_020_030": {
+    "speaker": "Mole",
+    "text": "Stop playing with lives,\nyou pimply tadpoles!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_020_040": {
+    "speaker": "Frog_A",
+    "text": "That's manure and you know it!\nThis world is eat or be eaten!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_020_050": {
+    "speaker": "Mole",
+    "text": "Ugh! Shut up and get the heck\noutta here already!"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "We still don't know why the\nworms are disappearing."
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_020_070": {
+    "speaker": "Diva_No5",
+    "text": "And we've not even enough information to\nmake an educated guess. What should we do?"
+  },
+  "SUB_W08_EVAR_DIVA_CORDYCEPS01_200_CUT_020_080": {
+    "speaker": "Mole",
+    "text": "Much as I hate to say it, we won't find the\nanswers we need among the Kuld; we have\nto venture out and talk to other species."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Naml colony. They're extremely\nprolific—by which I mean there's a heck\nof a lot of 'em. Not hostile, exactly,\nbut they sure ain't friendly either."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I hope we can glean some information.\nDo ye think we'll find the Bashar here?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Don't know—and don't really care what\nhappens to the Naml, if I'm honest.\nBut we need leads, so let's get in there."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_030": {
+    "speaker": "Insect",
+    "text": "Bashar! What do you want, you scoundrel?\nStep any closer and you will pay!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_040": {
+    "speaker": "Human",
+    "text": "An offering! An offering!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_050": {
+    "speaker": "Insect",
+    "text": "What are you doing!? Stop this!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "They're being attacked!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Best to wait and watch."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I'll save ye!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "They've been taken away."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_100": {
+    "speaker": "Insect",
+    "text": "Are you here to attack us?\nI will not hold back if you are."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Nope. We just have a question."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_120": {
+    "speaker": "Insect",
+    "text": "I have nothing to say to you.\nLeave now."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Wait. Ye wouldn't happen to know anything\nabout my heart, would... Nae, I suppose not.\nApologies for the trouble."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_010_000": {
+    "speaker": "Human",
+    "text": "Foiled again. They are strong."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Are ye all right there?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_010_020": {
+    "speaker": "Insect",
+    "text": "How pitiful to be saved by a Kuld."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_010_030": {
+    "speaker": "Mole",
+    "text": "That's how you act when someone saves\nyour hide? See if I help you again!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_010_040": {
+    "speaker": "Insect",
+    "text": "I did not ask for your help.\nYou did this without permission."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "I apologize for meddling in your affairs.\nYe wouldn't happen to know why people\ncannae catch worms anymore, would ye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_010_060": {
+    "speaker": "Insect",
+    "text": "I have nothing to say to you.\nGo away."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_010_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "We won't be getting anything out of\nthis guy. Let's go somewhere else."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Naml colony. They're extremely\nprolific—by which I mean there's a heck\nof a lot of 'em. Not hostile, exactly,\nbut they sure ain't friendly either."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I hope we can glean some information.\nDo ye think we'll find the Dufda here?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Don't know—and don't really care what\nhappens to the Naml, if I'm honest.\nBut we need leads, so let's get in there."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_030": {
+    "speaker": "Insect",
+    "text": "What does a Dufda want from this place?\nStep any closer and you will pay!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_040": {
+    "speaker": "Frog",
+    "text": "Found feed! Found feed!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_050": {
+    "speaker": "Insect",
+    "text": "What are you doing!? Stop!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "They're being attacked!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Best to wait and watch."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I'll save ye!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "They've been taken away."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_100": {
+    "speaker": "Insect",
+    "text": "Are you here to attack us?\nI will not hold back if you are."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Nope. We just have a question."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_120": {
+    "speaker": "Insect",
+    "text": "I have nothing to say to you.\nLeave now."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Wait. Ye wouldn't happen to know anything\nabout my heart, would... Nae, I suppose not.\nApologies for the trouble."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_010_000": {
+    "speaker": "Frog",
+    "text": "Uuugh. Fiiine.\nForget this."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Are ye all right there?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_010_020": {
+    "speaker": "Insect",
+    "text": "How pitiful to be saved by a Kuld."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_010_030": {
+    "speaker": "Mole",
+    "text": "That's how you act when someone saves\nyour hide? See if I help you again!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_010_040": {
+    "speaker": "Insect",
+    "text": "I didn't ask for your help!\nYou just went ahead and gave it!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "I apologize for meddling in your affairs.\nYe wouldn't happen to know why people\ncannae catch worms anymore, would ye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_010_060": {
+    "speaker": "Insect",
+    "text": "I have nothing to say to you.\nGo away!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_210_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "We won't be getting anything out of\nthis guy. Let's go somewhere else."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_000": {
+    "speaker": "Insect",
+    "text": "I told you, I have nothing to say.\nNow begone from this place."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "We can't find any more worms, and we're\ngetting desperate. So if you know anything\nabout the cause, please tell us!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_020": {
+    "speaker": "Insect",
+    "text": "There is no cause. The clean earth has\nmerely become sullied over the passing\nof many, many years."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_030": {
+    "speaker": "Insect",
+    "text": "That is what earth is. The coming end\nof the earth's life span means the world's\nend is upon us as well. This is our fate."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "So we can't do <i>anything</i>\nto fix it?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Aye, is there no way to rid the\nsoil of impurities, then?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_060": {
+    "speaker": "Insect",
+    "text": "We Naml have prepared for this situation by\nbuilding up our food stores for a long time.\nEven if there are no more worms to capture,\nwe will endure."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Well, it's definitely important to be\nready for anything, but is there really\nno other way to deal with this?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_080": {
+    "speaker": "Insect",
+    "text": "You are sharp. You are clever.\fYes, there is a way—but it comes with\ngreat risk. So instead of engaging with\nthat risk, we chose a more definitive way\nof extending our life span."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_090": {
+    "speaker": "Mole",
+    "text": "So you don't care if everyone else dies\nas long as the Naml are all right?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_100": {
+    "speaker": "Insect",
+    "text": "Yet we are not the only ones doing so.\nNo, your words are not something\nI care to hear from a selfish Kuld."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "Please tell us what ye know;\nI want to help however I can."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_120": {
+    "speaker": "Mole",
+    "text": "Hold on! I never agreed to this!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "But I must do it—even on my own if\nneeds be—for it may lead to my heart."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_140": {
+    "speaker": "Mole",
+    "text": "Oh, fine. I'll help."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_000_150": {
+    "speaker": "Insect",
+    "text": "This is not something we can leave\nto the weak. So before I tell you,\nI must test your strength."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Did we pass your test, then?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_010": {
+    "speaker": "Insect",
+    "text": "Well done. I suppose it is safe\nto leave this in your hands."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "So what do we do?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_030": {
+    "speaker": "Insect",
+    "text": "You must wake the\nLord of the Earth."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "The Lord of the Earth? Who's that?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_050": {
+    "speaker": "Insect",
+    "text": "In the beginning, this world was naught but\nsullied soil. But the Lord of the Earth\npurified the land, creating the chance for\nlife to blossom."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_060": {
+    "speaker": "Insect",
+    "text": "Once it was finished, it is said the\nLord of the Earth slipped into a\nlong slumber in a place unknown."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "So if we wake the Lord of the Earth,\nit will purify the soil for us?\nAye, we can do that."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_080": {
+    "speaker": "Insect",
+    "text": "Even if you manage to rouse the Lord of the Earth,\nit does not mean it will purify the earth as we\nhope. Indeed, it may go beyond purification and\nend up destroying the entire world."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_090": {
+    "speaker": "Insect",
+    "text": "Do you understand the risk that comes with\nwaking a being that has the power to remake\nthe world completely?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "I don't know what to do, love."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_110": {
+    "speaker": "Mole",
+    "text": "What happened to all that confidence\nfrom earlier, huh!? We gonna be fine\nso long as we stick together!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "But where will we find this Lord of the Earth,\nthough? It seems to be somewhere my sensors\naren't able to penetrate."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_130": {
+    "speaker": "Insect",
+    "text": "I know not where it is, but legends claim the\nLord of the Earth is held in slumber by two\nkeystones of opposing powers. If you move\nthem, it might cause the Lord to awaken."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_140": {
+    "speaker": "Mole",
+    "text": "So where are they?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_150": {
+    "speaker": "Insect",
+    "text": "Each stone rests not far from this colony.\nLook for enormous rocks carved with reliefs\nof creatures unknown."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_INSECT_020_CUT_010_160": {
+    "speaker": "Diva_No5",
+    "text": "Aye, we'll see what we can find."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Dufda colony. Honestly,\nI don't know 'em very well—rarely\never seen 'em, in fact."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Will we find the Bashar here?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "No idea. But we need leads,\nso let's sneak on in."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_030": {
+    "speaker": "Frog",
+    "text": "Ew! Get out of here, Bashar!\nYou're gross!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_040": {
+    "speaker": "Human",
+    "text": "An offering! An offering!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_050": {
+    "speaker": "Frog",
+    "text": "What are you doing!? Stop!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "They're being attacked!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Best to wait and watch."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I'll save ye!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "They've been taken away."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_100": {
+    "speaker": "Frog",
+    "text": "You're one of the Bashar's friends,\naren't you!? Go away! Go away!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Nope. We just have a question."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_120": {
+    "speaker": "Frog",
+    "text": "GO AWAAAAAAY!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Wait. Ye wouldn't happen to know anything\nabout my heart, would... Nae, I suppose not.\nApologies for the trouble."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_010_000": {
+    "speaker": "Human",
+    "text": "Foiled again. They are strong."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Are ye all right there?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_010_020": {
+    "speaker": "Frog",
+    "text": "You saved me! Thank youuu!\nSo, uh, what did you need again?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye wouldn't happen to know why people\ncannae catch worms anymore, would ye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_010_040": {
+    "speaker": "Frog",
+    "text": "Hmm... I might know,\nbut I also might not!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Which is it?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_010_060": {
+    "speaker": "Frog",
+    "text": "Um... I dunno!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_010_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time. Let's go."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Dufda colony. Honestly,\nI don't know 'em very well—rarely\never seen 'em, in fact."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Will we find the Naml here?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "No idea. But we need leads,\nso let's sneak on in."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_030": {
+    "speaker": "Frog",
+    "text": "Go away, Naml! You're gross!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_040": {
+    "speaker": "Insect",
+    "text": "I have found a seedbed.\nTime to secure it."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_050": {
+    "speaker": "Frog",
+    "text": "What are you doing!? Stop!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "They're being attacked!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Best to wait and watch."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I'll save ye!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "They've been taken away."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_100": {
+    "speaker": "Frog",
+    "text": "You're one of the Naml's friends,\naren't you!? Go away! Go away!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Nope. We just have a question."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_120": {
+    "speaker": "Frog",
+    "text": "GO AWAAAAAAY!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Wait. Ye wouldn't happen to know anything\nabout my heart, would... Nae, I suppose not.\nApologies for the trouble."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_010_000": {
+    "speaker": "Insect",
+    "text": "An interference.\nWe must retreat for now."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Are ye all right there?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_010_020": {
+    "speaker": "Frog",
+    "text": "You saved me! Thank youuu!\nSo, uh, what did you need again?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye wouldn't happen to know why people\ncannae catch worms anymore, would ye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_010_040": {
+    "speaker": "Frog",
+    "text": "Hmm... I might know,\nbut I also might not!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Which is it?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_010_060": {
+    "speaker": "Frog",
+    "text": "Um... I dunno!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_110_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time. Let's go."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_000": {
+    "speaker": "Frog",
+    "text": "You need something again?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "We can't find any more worms, and we're\ngetting desperate. So if you know anything\nabout the cause, please tell us!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_020": {
+    "speaker": "Frog",
+    "text": "Nothing's causing it!\nThe soil is just dirty now."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_030": {
+    "speaker": "Frog",
+    "text": "It's the end of the earth's life,\nwhich means it's the end of the world's\nlife—and you can't do much about that!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "So we can't do <i>anything</i>\nto fix it?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Aye, is there no way to rid the\nsoil of impurities, then?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_060": {
+    "speaker": "Frog",
+    "text": "We Dufda take the days as they come.\nNow we'll just have fun until the end!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "But the other races here are in peril.\nIs there no way we can help them?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_080": {
+    "speaker": "Frog",
+    "text": "You're an interesting one, aren't you?\nBut sure, there's a way—I just don't\ncare about it!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Then at least share it\nwith us so I can help."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_000_100": {
+    "speaker": "Frog",
+    "text": "Fiiine, I'll tell you...\nAFTER you play with me!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Satisfied?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_010": {
+    "speaker": "Frog",
+    "text": "Wee hee hee! What fun!\nSo fine, I'll tell you."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "What do we do, then?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_030": {
+    "speaker": "Frog",
+    "text": "You have to wake up the\nLord of the Earth."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "The Lord of the Earth? Who's that?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_050": {
+    "speaker": "Frog",
+    "text": "Some weirdo who eats the dirty earth and\nmakes it all clean. I heard he cleaned the\nwhole world once back when it was all filthy."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_060": {
+    "speaker": "Frog",
+    "text": "But he's sleeping now! Zzz!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "So if we wake the Lord of the Earth,\nit will purify the soil for us?\nAye, we can do that."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_080": {
+    "speaker": "Frog",
+    "text": "Yeah, except I don't think he's\nreally gonna listen to you."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_090": {
+    "speaker": "Frog",
+    "text": "In fact, he'll probably get all mad\nthat you woke him and go hog wild!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "I don't know what to do, love."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_110": {
+    "speaker": "Mole",
+    "text": "What happened to all that confidence\nfrom earlier, huh!? We gonna be fine\nso long as we stick together!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "But where will we find this Lord of the Earth,\nthough? It seems to be somewhere my sensors\naren't able to penetrate."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_130": {
+    "speaker": "Frog",
+    "text": "Dunno! Oh, but I hear it's snoozing 'cause\nof two keystones with opposing powers?\nSo you probably wanna try moving those."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_140": {
+    "speaker": "Mole",
+    "text": "And where are these keystones?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_150": {
+    "speaker": "Frog",
+    "text": "There's one in one place, and another in...\nUmmmm... Some other place. They're big rocks\nwith carvings of weird creatures on 'em."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_FROG_020_CUT_010_160": {
+    "speaker": "Diva_No5",
+    "text": "Aye, we'll see what we can find."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "That's the Bashar colony—a people primitive\nand violent to the last. Nothing good ever\ncomes of dealing with them."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Will we find the Naml here?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "No idea. But we need leads,\nso let's sneak on in."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_030": {
+    "speaker": "Human",
+    "text": "Stay out! Go away!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_040": {
+    "speaker": "Insect",
+    "text": "I have found a seedbed.\nTime to secure it."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_050": {
+    "speaker": "Human",
+    "text": "No! Stop this!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "They're being attacked!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Best to wait and watch."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I'll save ye!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "They've been taken away."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_100": {
+    "speaker": "Human",
+    "text": "Get out! Get out!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "We just have a question abou—"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_120": {
+    "speaker": "Human",
+    "text": "Get out! Get out!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Wait. Ye wouldn't happen to know anything\nabout my heart, would... Nae, I suppose not.\nApologies for the trouble."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_010_000": {
+    "speaker": "Insect",
+    "text": "An interference.\nWe must retreat for now."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Are ye all right there?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_010_020": {
+    "speaker": "Human",
+    "text": "You saved me! You are amazing!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye wouldn't happen to know why people\ncannae catch worms anymore, would ye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_010_040": {
+    "speaker": "Human",
+    "text": "We can't catch worms.\nWe are in trouble."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Right, exactly. But do you know\nanything MORE than that?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_010_060": {
+    "speaker": "Human",
+    "text": "We are in trouble!\nWe are in trouble!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_110_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time. Let's go."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "That's the Bashar colony—a people primitive\nand violent to the last. Nothing good ever\ncomes of dealing with them."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Will we find the Dufda here?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "No idea. But we need leads,\nso let's sneak on in."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_030": {
+    "speaker": "Human",
+    "text": "Stay out! Go away!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_040": {
+    "speaker": "Frog",
+    "text": "I'm gonna make you feed\nfor my toys!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_050": {
+    "speaker": "Human",
+    "text": "No! Stop this!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "They're being attacked!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Best to wait and watch."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I'll save ye!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "They've been taken away."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_100": {
+    "speaker": "Human",
+    "text": "Get out! Get out!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "We just have a question abou—"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_120": {
+    "speaker": "Human",
+    "text": "Get out! Get out!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Wait. Ye wouldn't happen to know anything\nabout my heart, would... Nae, I suppose not.\nApologies for the trouble."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_010_000": {
+    "speaker": "Frog",
+    "text": "Ugh, stop bothering me!\nFiiine, I'll go."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Are ye all right there?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_010_020": {
+    "speaker": "Human",
+    "text": "You saved me! You are amazing!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye wouldn't happen to know why people\ncannae catch worms anymore, would ye?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_010_040": {
+    "speaker": "Human",
+    "text": "We can't catch worms.\nWe are in trouble."
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Right, exactly. But do you know\nanything MORE than that?"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_010_060": {
+    "speaker": "Human",
+    "text": "We are in trouble!\nWe are in trouble!"
+  },
+  "SUB_W08_EVAR_DIVA_BURROW_HUMAN_210_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time. Let's go."
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_1ST_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This must be one of the keystones.\nLet's give it a proper shove!"
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_1ST_000_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "...Nope. Too heavy.\nWon't even budge."
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_1ST_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I can handle this if I temporarily unleash\nmy full power. Leave it to me."
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_1ST_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Wait, look at the keystone!\nThe relief is moving!"
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_1ST_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "Well, that was a surprise.\nWhat WAS that?"
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_1ST_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "The Lord of the Earth's power is clearly so\ngrand that whoever made this seal thought\nit needed extra security measures."
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_1ST_000_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "So we have to do it again?\nUgh. Talk about annoying."
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_2ND_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Here we go!"
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_2ND_000_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "I bet those reliefs are\ngonna attack us again."
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_2ND_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Should I do this on my own?"
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_2ND_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "No, I'll help!"
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_2ND_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Almost there!"
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_2ND_000_CUT_000_050": {
+    "speaker": "Mole",
+    "text": "Look! The relief is moving again!"
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_2ND_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Now we've moved both keystones,\nwhich should be enough to wake\nthe Lord of the Earth."
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_2ND_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Earthquake! Proper strong one, too!"
+  },
+  "SUB_W08_EVAR_DIVA_FOSSIL_2ND_000_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "Came from over there. Let's go!"
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "Wait. Someone's coming."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "Who are you!?"
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_020": {
+    "speaker": "Mole_OldMan",
+    "text": "You have many stones."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "What're you talking about?"
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_040": {
+    "speaker": "Mole_OldMan",
+    "text": "Your stones. So many stones.\nWill you give them to me?"
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "But they're just stones..."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_060": {
+    "speaker": "Mole_OldMan",
+    "text": "Perhaps they are mere stones to you,\nbut they are necessities to me."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Well, I suppose I don't see the harm,\nsince ye seem so keen to have them."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_080": {
+    "speaker": "Mole_OldMan",
+    "text": "Ah, what fine stones! Please accept\nthis small token of my thanks."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_090": {
+    "speaker": "Mole_OldMan",
+    "text": "Farewell."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_000_CUT_000_100": {
+    "speaker": "Mole",
+    "text": "What a weirdo."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_010_CUT_000_000": {
+    "speaker": "Mole_OldMan",
+    "text": "You have collected more stones.\nGive them to me."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I've no data indicating moles eat rocks.\nWhat do ye intend to use them for?"
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_010_CUT_000_020": {
+    "speaker": "Mole_OldMan",
+    "text": "You will find out soon enough."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I'm genuinely fascinated."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_010_CUT_000_040": {
+    "speaker": "Mole_OldMan",
+    "text": "Farewell."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_020_CUT_000_000": {
+    "speaker": "Mole_OldMan",
+    "text": "You have collected more stones.\nGive them to me."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_020_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "All right."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_020_CUT_000_020": {
+    "speaker": "Mole_OldMan",
+    "text": "So many... Perhaps this is enough."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_020_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "It's like a stone tower..."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_020_CUT_000_040": {
+    "speaker": "Mole_OldMan",
+    "text": "I have been exposed to the elements\nthis whole time, but now I can\nfinally rest in peace."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_020_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "What do ye mean?"
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_020_CUT_000_060": {
+    "speaker": "Mole_OldMan",
+    "text": "You have been a great help to me.\nBut now, farewell."
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_020_CUT_000_070": {
+    "speaker": "Mole",
+    "text": "What the heck!? He's gone!"
+  },
+  "SUB_W08_EVAR_DIVA_REWARD_STONE_020_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Perhaps it was a ghost of some kind?\nI cannae be certain."
+  }
+}

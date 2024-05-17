@@ -1,0 +1,226 @@
+{
+  "W09_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Avalon: The Capital of Albion"
+  },
+  "W09_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After walking through the door, you find yourself in an antiquated city that still uses steam trains. Will anything here help you unravel the mysteries of the triangles?"
+  },
+  "W09_EVAR_BOFO_OPENING_110_TITLE": {
+    "speaker": "UI",
+    "text": "Someone Suspicious"
+  },
+  "W09_EVAR_BOFO_OPENING_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone who stands out is lurking in your immediate vicinity. Perhaps they know something?"
+  },
+  "W09_EVAR_BOFO_OPENING_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W09_EVAR_BOFO_STATION_000_TITLE": {
+    "speaker": "UI",
+    "text": "With Ticket in Hand"
+  },
+  "W09_EVAR_BOFO_STATION_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This ticket lets you ride the tram, but where will it take you?"
+  },
+  "W09_EVAR_BOFO_STATION_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Ticket"
+  },
+  "W09_EVAR_BOFO_RADIO_TOWER_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Next Ticket"
+  },
+  "W09_EVAR_BOFO_RADIO_TOWER_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The retinue of peculiar allies flocking to your side shows no sign of stopping. What will happen next?"
+  },
+  "W09_EVAR_BOFO_RADIO_TOWER_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Ticket"
+  },
+  "W09_EVAR_BOFO_SQUARE_SEVEN_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Coach Ticket"
+  },
+  "W09_EVAR_BOFO_SQUARE_SEVEN_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The ticket you received at the bar is for a coach that will take you all the way to Avalon Yard."
+  },
+  "W09_EVAR_BOFO_SQUARE_SEVEN_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Ticket"
+  },
+  "W09_EVAR_BOFO_SQUARE_SEVEN_MOVE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Tram Ticket"
+  },
+  "W09_EVAR_BOFO_SQUARE_SEVEN_MOVE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The ticket you received at the bar is for a tram that will take you all the way to the Royal Museum of Albion."
+  },
+  "W09_EVAR_BOFO_SQUARE_SEVEN_MOVE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Ticket"
+  },
+  "W09_EVAR_BOFO_MUSEUM_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "To Your Next Destination"
+  },
+  "W09_EVAR_BOFO_MUSEUM_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You received a ticket at the museum, but where will it take you?"
+  },
+  "W09_EVAR_BOFO_MUSEUM_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Ticket"
+  },
+  "W09_EVAR_BOFO_POLICE_OFFICE_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Ride the Motorcar"
+  },
+  "W09_EVAR_BOFO_POLICE_OFFICE_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This ticket is for a motorcar, something still very rare in this world."
+  },
+  "W09_EVAR_BOFO_POLICE_OFFICE_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Ticket"
+  },
+  "W09_EVAR_BOFO_SQUARE_SIX_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Canuds Department Store"
+  },
+  "W09_EVAR_BOFO_SQUARE_SIX_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The department store should be your next destination."
+  },
+  "W09_EVAR_BOFO_SQUARE_SIX_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Ticket"
+  },
+  "W09_EVAR_BOFO_DEPARTMENT_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "To Your Next Destination"
+  },
+  "W09_EVAR_BOFO_DEPARTMENT_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "With the puzzle solved, your next destination is the theatre."
+  },
+  "W09_EVAR_BOFO_DEPARTMENT_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Theatre"
+  },
+  "W09_EVAR_BOFO_DEPARTMENT_MOVE_010_TITLE": {
+    "speaker": "UI",
+    "text": "To Your Next Destination"
+  },
+  "W09_EVAR_BOFO_DEPARTMENT_MOVE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Since you weren't able to solve the puzzle, your next destination is a shady shop."
+  },
+  "W09_EVAR_BOFO_DEPARTMENT_MOVE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Shady Shop"
+  },
+  "W09_EVAR_BOFO_OPERA_HOUSE_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Back to the Station"
+  },
+  "W09_EVAR_BOFO_OPERA_HOUSE_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will take you back to where you first met the mysterious person."
+  },
+  "W09_EVAR_BOFO_OPERA_HOUSE_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Station"
+  },
+  "W09_EVAR_BOFO_SQUARE_FIVE_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Back to the Station"
+  },
+  "W09_EVAR_BOFO_SQUARE_FIVE_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will take you back to where you first met the mysterious person."
+  },
+  "W09_EVAR_BOFO_SQUARE_FIVE_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Station"
+  },
+  "W09_EVAR_BOFO_DUMMY_RADIO_TOWER_TRAM_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Broadcast Tower"
+  },
+  "W09_EVAR_BOFO_DUMMY_RADIO_TOWER_TRAM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The broadcast tower delivers the latest news, stories, and music to the people of Avalon."
+  },
+  "W09_EVAR_BOFO_DUMMY_SQUARE_SEVEN_TRAM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Small Pub"
+  },
+  "W09_EVAR_BOFO_DUMMY_SQUARE_SEVEN_TRAM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the perfect place to take a load off after a hard day's work."
+  },
+  "W09_EVAR_BOFO_DUMMY_MUSEUM_TRAM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Royal Museum of Albion"
+  },
+  "W09_EVAR_BOFO_DUMMY_MUSEUM_TRAM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Royal Museum of Albion allows you to view items that boast the glory of the Kingdom of Albion's past."
+  },
+  "W09_EVAR_BOFO_DUMMY_POLICE_OFFICE_TRAM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Avalon Yard"
+  },
+  "W09_EVAR_BOFO_DUMMY_POLICE_OFFICE_TRAM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "These are the people responsible for maintaining peace and order in Avalon."
+  },
+  "W09_EVAR_BOFO_DUMMY_SQUARE_SIX_CARRIGE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Deeps Boutique"
+  },
+  "W09_EVAR_BOFO_DUMMY_SQUARE_SIX_CARRIGE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This boutique orders hard-to-get items from all over the world and gathers them in one place."
+  },
+  "W09_EVAR_BOFO_DUMMY_DEPARTMENT_CARRIGE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Canuds Department Store"
+  },
+  "W09_EVAR_BOFO_DUMMY_DEPARTMENT_CARRIGE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This department store sells only the finest of goods. "
+  },
+  "W09_EVAR_BOFO_DUMMY_OPERA_HOUSE_TRAM_000_TITLE": {
+    "speaker": "UI",
+    "text": "World Theatre"
+  },
+  "W09_EVAR_BOFO_DUMMY_OPERA_HOUSE_TRAM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All of the world's entertainment is gathered here!"
+  },
+  "W09_EVAR_BOFO_DUMMY_SQUARE_FIVE_CARRIGE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sorries"
+  },
+  "W09_EVAR_BOFO_DUMMY_SQUARE_FIVE_CARRIGE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sorries is Avalon's most outrageous store."
+  },
+  "W09_EVAR_BOFO_DUMMY_STATION_COURSE_END_TRAM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Avalon Station"
+  },
+  "W09_EVAR_BOFO_DUMMY_STATION_COURSE_END_TRAM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the station where all trains begin and end their journeys."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "W17_EVAR_AMYA_WORLDEXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "King Din's Castle"
+  },
+  "W17_EVAR_AMYA_WORLDEXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W17_EVAR_AMYA_WORLDEXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Miyako City"
+  },
+  "W17_EVAR_AMYA_NEKO_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat"
+  },
+  "W17_EVAR_AMYA_NEKO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There should be a cat around here."
+  },
+  "W17_EVAR_AMYA_NEKO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Cat"
+  }
+}

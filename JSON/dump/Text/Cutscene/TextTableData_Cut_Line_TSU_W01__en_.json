@@ -1,0 +1,1554 @@
+{
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_000": {
+    "speaker": "Cathedral_Officer",
+    "text": "Right then. Last name Mido, first name...\nHuh. Never seen this one before.\nHow is it pronounced?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tsunanori."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_020": {
+    "speaker": "Cathedral_Officer",
+    "text": "Huh?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tsunanori. And I'd appreciate\nit if you don't forget it, okay?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_040": {
+    "speaker": "Cathedral_Officer",
+    "text": "Oh, Tsunanori! Of <i>course</i> that's what it is!\nVery sorry about that. It's an awful thing\nto get a person's name wrong."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_050": {
+    "speaker": "Cathedral_Officer",
+    "text": "Yeesh! People in this country are always\nso uptight about their precious names..."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_060": {
+    "speaker": "Cathedral_Officer",
+    "text": "Well then! Tsunanori Mido, you have been\nchosen to participate in the Cathedral Project.\nYour presence here today is considered an\nindication of your willingness to cooperate.\nI trust you have no objections?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, this isn't the kind of thing a guy's\nreally allowed to refuse. Figured it'd be\neasier if I just marched in like I wanted\nto be here in the first place."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So no, yeah... I'd be happy to chip in\nwith this Cathedral Project of yours."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_090": {
+    "speaker": "Cathedral_Officer",
+    "text": "Very good. To assist you in your mission,\nyou will be provided four <i>kugutsu</i> puppets—\nWait, <i>four</i>!? That can't be right.\nEr, but the paperwork all seems to be in order, so..."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_100": {
+    "speaker": "Cathedral_Officer",
+    "text": "Tsunanori Mido... Miiido...\nIs your father Tadamichi Mido,\nthe Vice-Minister of Domestic Affairs?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nope. Sure isn't."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_120": {
+    "speaker": "Cathedral_Officer",
+    "text": "I see. Okay, what's going on here? There's no\nway this kid can make use of FOUR <i>kugutsu</i>...\nUgh. Why did I have to get such a weird case\non my first day on the job?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Something wrong there?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_000_140": {
+    "speaker": "Cathedral_Officer",
+    "text": "No, everything is perfectly all right.\nNow please collect your equipment and\nhead inside. The rest is up to you."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_000": {
+    "speaker": "Cathedral_Officer",
+    "text": "All right... Tsunanori Mido?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That'd be me."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_020": {
+    "speaker": "Cathedral_Officer",
+    "text": "Congratulations! You have been chosen\nto participate in the Cathedral Project."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_030": {
+    "speaker": "Cathedral_Officer",
+    "text": "But I suppose I don't need to explain\nany of that to <i>you</i>, seeing as you're\nthe nephew of Tadamichi Mido,\nVice-Minister of Domestic Affairs."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hold on just a second there.\nMy uncle might work for the government,\nbut that doesn't mean I know anything\nabout your fancy project. What is it?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_050": {
+    "speaker": "Cathedral_Officer",
+    "text": "Stop pretending—it demeans us both.\nJust take the four <i>kugutsu</i> puppets already."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_060": {
+    "speaker": "Cathedral_Officer",
+    "text": "Can't believe you have four. I got a chance\nto handle <i>one</i> of those things during training,\nand it just ran around doing its own thing.\nHow am I supposed to deal with that, huh?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_070": {
+    "speaker": "Cathedral_Officer",
+    "text": "Anyway, what exactly is Vice-Minister\nMido trying to get you to do?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, during the old regime, the Mido family\nchurned out a whole buncha ministers.\nSome even got written up in textbooks\nand such, as I'm sure you know."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But what the books don't say is that our\nreal family profession involves manipulatin'\nkugutsu, and that we made our bones in the\nworld by using 'em for all sorts of jobs."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_100": {
+    "speaker": "Cathedral_Officer",
+    "text": "...Did you really think I'd buy a ridiculous explanation\nlike that? Save the fantasy stuff for comic books and\nvideo games. Anyway, I'll be sure to spend some time\nlooking into all of that later."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_100_CUT_000_110": {
+    "speaker": "Cathedral_Officer",
+    "text": "Now please collect your equipment and\nhead inside. The rest is up to you."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_000": {
+    "speaker": "Cathedral_Officer",
+    "text": "You're Tsunanori Mido, yes?\nHere to participate in the Cathedral Project?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That'd be me."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_020": {
+    "speaker": "Cathedral_Officer",
+    "text": "I've been assigned here from the executive office of the president\nof the Union States, on the direct orders of Tadamichi Mido,\nVice-Minister of Domestic Affairs. Nothing about the Cathedral Project\nis meant to be concealed from the Union States. The opposite, in fact—\nwe're here to do all we can to prove its value."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_030": {
+    "speaker": "Cathedral_Officer",
+    "text": "There may be nothing secretive about the project,\nbut it seems you, on the other hand, may be keeping\nsome secrets of your own, Tsunanori Mido."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not this guy. I'm just your average university student\nwith nothing to hide. I mean, heck, maybe there's\na thing or three I'd like to keep close to the vest,\nbut I bet you've got a few of those yourself, eh?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_050": {
+    "speaker": "Cathedral_Officer",
+    "text": "I'm sure you're aware that the Mido family\nhas always been of particular interest to the\nUnion States, which is why its most important\nfigures are kept under very careful watch."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_060": {
+    "speaker": "Cathedral_Officer",
+    "text": "But you? You're different. There's literally\n<i>no</i> information about you on file anywhere.\nHow is it possible that it took me coming all the way\nto this country just to learn that you even exist?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Makes sense to me. I was born in Miyako City\ntwenty years ago and never lived anywhere else.\nHeck, I'd be more worried if you Union States\nfellas <i>did</i> know all my information."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now let's get this show on the road, eh?\nDidja bring me here to help out with the\nCathedral Project, or are you just gonna\nkeep pokin' around my business?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_090": {
+    "speaker": "Cathedral_Officer",
+    "text": "Apologies—I let my personal curiosity get the better of me there.\nYour job is to pass through Ama-no-Iwato Cave and venture into \nthe Heavens beyond to gather whatever information you can find.\nOnce that's done, come back and share your findings with us.\nThat's it."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_100": {
+    "speaker": "Cathedral_Officer",
+    "text": "I examined that big stone myself, by the way. I'm told it leads\nsomewhere, but it seems like a normal rock. And when I looked\nat the other side, it was just...the other side of a big rock.\nPretty hard to believe it connects to the Heavens, but there you go."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well now, I thought everybody in the Union\nStates believed in the land of the gods.\nYou mean to say that's not the case?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_120": {
+    "speaker": "Cathedral_Officer",
+    "text": "The only thing I know for certain\nis that the land of <i>my</i> gods is not\nwaiting on the other side of that rock."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Welp, as long as we're shooting straight here,\nI don't think there's anything on the other\nside of Ama-no-Iwato Cave, either."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But I'm a Mido. It's my responsibility\nto do what I can, so that there is\nexactly what I'm gonna do."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_000_090": {
+    "speaker": "Cathedral_Officer",
+    "text": "Right then. You'll be provided with four <i>kugutsu</i>\npuppets to assist you. Also, surprise! Someone from\nthe Mido family gets special treatment right off the bat.\nWhat a shocker."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Can't say I much appreciate the snark\nthere. I mean, manipulating <i>kugutsu</i>\nis our family trade, you know?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_000_110": {
+    "speaker": "Cathedral_Officer",
+    "text": "The Cathedral Project is an official government\nundertaking funded with money from the national\nbudget, not some lark to support your family's\nprivate business. You <i>do</i> get that, right?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No, yeah, I getcha. You need me to head into the worlds\non the other side of the stone gate, gather information,\nthen bring it back so you can create a better future for\nthe nation. That about sum it up there?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_000_130": {
+    "speaker": "Cathedral_Officer",
+    "text": "Um... Yes, actually. In fact, you just recited the outline\nI wrote for you nearly word-for-word. But while that's\nimpressive, I need to know more—starting with the\nMido family's ultimate goal in all of this."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds more like a question for my uncle there.\nI'm just a plain old university student—reading\nstuff and reciting it back is about all I'm good for."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_000_150": {
+    "speaker": "Cathedral_Officer",
+    "text": "Very well, have it your way;\nI'm certain I'll get the answers\nI'm looking for when you return.\nIn any case, good luck out there."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So this is the Ama-no-Iwato, huh?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_010_010": {
+    "speaker": "Cathedral_Officer",
+    "text": "It is indeed. Fun fact: most people chosen\nfor the Project end up going home without\neven managing to get it open. Let's hope\nyou put on a better show than that."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So what's the deal here? This the kinda\nthing where I gotta recite a spell or\nsolve a riddle or something, or do I just\nmuscle it out of the way like in the myths?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...So this really is the path\nI'm meant to walk, huh?"
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy howdy, things sure have changed...\nBoth the Ama-no-Iwato and the shrine used\nto be great places for the kiddos to play,\nbut not even grown-ups can get close now."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_010_010": {
+    "speaker": "Cathedral_Officer",
+    "text": "I very much look forward to seeing how\nyou plan to move that massive gate."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That makes two of us. I got no heckin'\nclue what I'm supposed to do here...\nalthough I <i>do</i> get the feeling the\npath I'm meant to walk lies ahead."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_200_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "O great stone gate...\nPlease show me the way."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I definitely get the feeling my\nfuture's waitin' for me on the\nother side of this stone..."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Also, can't say I'm sure if the gods\nare gonna be okay with some human\nopening up a path to the Heavens..."
+  },
+  "SUB_W01_WRLD_MIDO_INITIAL_300_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Welp! Guess that's up to the stone."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_000_000": {
+    "speaker": "Cathedral_Officer",
+    "text": "......"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_000_001": {
+    "speaker": "Cathedral_Officer",
+    "text": "........."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_000_002": {
+    "speaker": "Cathedral_Officer",
+    "text": "Heck yeah!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_000_010": {
+    "speaker": "Cathedral_Officer",
+    "text": "Wait, what? Oh, come oooooon!\nI can't believe you screwed it up!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_000_020": {
+    "speaker": "Cathedral_Officer",
+    "text": "The second you disappeared, I was here thinking\nhow lucky I was to have my first time on the job\nbe a rousing success, but that was clearly\npremature. I mean, you came back <i>really</i> fast."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry about that. Guess I'm not made\nof the right stuff for this kind of thing.\nAlso, I am <i>seriously</i> tuckered out.\fSo, uh... What do I do now?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_000_040": {
+    "speaker": "Cathedral_Officer",
+    "text": "Feel free to head home. We might call you\nback for a medical check at some point,\nso be prepared to come in for that."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You betcha. See you around, then."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_000_060": {
+    "speaker": "Cathedral_Officer",
+    "text": "Yes, yes. Off you go. *sigh*"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So did time just kind of stop over here,\nor was that whole thing some kind of\nwild daydream?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_010_010": {
+    "speaker": "Komachi_Kugutu",
+    "text": "We house the power of the spirits within us.\nIt can be stated unequivocally that what we\nexperienced was neither dream, nor illusion."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. That's a piece of good news.\nBut wait, if things were frozen over here,\ndoes that mean I...gained time? Or does\nit mean I actually <i>lost</i> time, maybe? "
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Welp, no use runnin' in circles about it.\nLet's get to using the power of the spirits\nwe gathered to fix Miyako City's barrier."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_010_040": {
+    "speaker": "Komachi_Kugutu",
+    "text": "The barrier's heart is located\nat Gokakudo Temple."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Makes sense, considering the temple is\nsmack-dab in the middle of the city.\nThanks, Komachi."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got one shrine gate in each of the cardinal\ndirections, just like I expected. Guess I'll\nstand in the middle while the rest'a youse\nget into position, eh?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Right. Let's unleash some spirits."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Seems like that went pretty well.\nSky's lookin' less scary, at least."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_010": {
+    "speaker": "Tomoko_Mido",
+    "text": "The heck are you doing here, Tsuna?\nGosh, did you ditch class!?\nYou're dead meat if Mom finds out."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nah, it's nothing like that, Tomoko.\nI was actually just finishing up\na pretty important deal."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_030": {
+    "speaker": "Tomoko_Mido",
+    "text": "Well, sure, if you say so. But if you <i>do</i>\never decide to ditch and just go hang,\nmake sure to bring me along, yeah?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_040": {
+    "speaker": "Friend_Tomoko",
+    "text": "Oh, us too! Don't forget to bring\nus along, brother dearest!"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_050": {
+    "speaker": "Tomoko_Mido",
+    "text": "Aw, knock it off."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_060": {
+    "speaker": "Friend_Tomoko",
+    "text": "Ha ha ha!"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nice to see 'em all having some fun.\nReally makes a guy feel like he did\na good job protectin' the peace."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Same goes for you fellas, too.\nI sure do appreciate the help."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_090": {
+    "speaker": "Rin_Kugutu",
+    "text": "I simply fulfilled my duty."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_100": {
+    "speaker": "Bou_Kugutu",
+    "text": "You ever need me, just holler."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_110": {
+    "speaker": "Komachi_Kugutu",
+    "text": "It was fun to get out and\ndo something for a change."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_120": {
+    "speaker": "Musashi_Kugutu",
+    "text": "We are with you always, Tsunanori."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_000_CUT_010_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm thinkin' we'll all be together again\nbefore long. Until then, take it easy."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_000_000": {
+    "speaker": "Cathedral_Officer",
+    "text": "........."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_000_001": {
+    "speaker": "Cathedral_Officer",
+    "text": "Heck yeah!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_000_010": {
+    "speaker": "Cathedral_Officer",
+    "text": "Wait, what? Oh, come oooooon!\nI can't believe you screwed it up!\fOr...maybe not? Maybe time just flows\ndifferently on the other side?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_000_020": {
+    "speaker": "Cathedral_Officer",
+    "text": "Well, let's just assume that. And in that case,\nI need to know everything about what lies beyond\nAma-no-Iwato Cave, which means you—as well as your\n<i>kugutsu</i> and new friends—need to stick around."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No can do. I got important Mido family\nbusiness to take care of, so your little\ninvestigation's gonna have to wait until\nI can get that all settled."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_000_040": {
+    "speaker": "Cathedral_Officer",
+    "text": "What? No. I can't just let you walk\nout of here; I have orders directly\nfrom Vice-Minister Mido himself."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Koh? Hanzo? Mind restrainin'\nthis nice lady for me?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_000_060": {
+    "speaker": "Cathedral_Officer",
+    "text": "Huh!? Stop! What are you doing!?\nGet your damn puppet hands off me!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Real sorry about this,\nbut I'll be back soon as I can."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_100_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We better shake a leg to Gokakudo Temple.\nIt's right in the middle of Miyako City."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got one shrine gate in each of the cardinal\ndirections, just like I expected. Guess I'll\nstand in the middle while the rest'a youse\nget into position, eh?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Right. Let's unleash some spirits."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_000_020": {
+    "speaker": "Musashi_Kugutu",
+    "text": "Abnormality detected in the barrier\nof the Azure Dragon of the East."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_000_030": {
+    "speaker": "Komachi_Kugutu",
+    "text": "Abnormality detected in the barrier\nof the Vermillion Bird of the South."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_000_040": {
+    "speaker": "Bou_Kugutu",
+    "text": "Abnormality detected in the barrier\nof the White Tiger of the West."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_000_050": {
+    "speaker": "Rin_Kugutu",
+    "text": "Abnormality detected in the barrier\nof the Black Tortoise of the North."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, cripes. What's the deal?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_010_000": {
+    "speaker": "Komachi_Kugutu",
+    "text": "The city's barrier is bound with knots at points\nrelative to the location of Gokakudo Temple.\nSomething must be amiss at those locations."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_010_010": {
+    "speaker": "Komachi_Kugutu",
+    "text": "Though I fear I have no idea\nwhere those knots might be."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_100_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You just leave that part to me.\nI'll figure out where we need to go."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sequoia Mall, eh? Wonder if the knot\nthat corresponds to the wood element\nis around here someplace."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't see anything that fits the bill so far... \nCripes almighty, am I really gonna have to\ncheck each store one by one?"
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I'm not gonna find anything by\nstanding around. Better get after it."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this is a bummer. Haven't even\nbeen to half the stores in here yet,\nand I'm already ready to call it quits."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_010": {
+    "speaker": "Naomi_Waka",
+    "text": "Is that you, Tsunanori?"
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh hey, Naomi. Forgot you went and\ngot yourself a job at the mall."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_030": {
+    "speaker": "Naomi_Waka",
+    "text": "I sure did. By the way, I had a look\nat that philosophy paper you wrote.\nSmart move, making it about Aristotle."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, Professor Kusano's all about Aristotle.\nWhenever you write a paper about the guy,\nhe can't help but give it a good grade."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But hey, have you seen anything here in\nthe mall that seems kinda...strange?\nI know that's a weird question,\nbut I'd appreciate getting your take."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_060": {
+    "speaker": "Naomi_Waka",
+    "text": "Strange? Hmm... Well, there's an old shrine on\nthe roof. It was apparently here way before they\nbuilt the mall, but instead of demolishing it,\nthey hauled it all the way up there.\fGotta say, I'm really impressed by how the\npeople here in Miyako City treasure all\nthe historic stuff they've got lying around."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_070": {
+    "speaker": "Naomi_Waka",
+    "text": "I mean, it's not like old shrines are in short supply\naround here, but they kept it anyway. It stood out\nto me, because I'm from one of those families\nthat's all about makin' way for progress."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Shoot, that's it! Thanks for the help,\nNaomi—I really appreciate it. You gotta\nlet me return the favor sometime, yeah?"
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_010_090": {
+    "speaker": "Naomi_Waka",
+    "text": "Oh, I should be the one thanking y—\nAaand off he goes. *sigh*\nAlways in a rush, that one."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa, look at this! This shrine is one\nof the knots, no doubt about it.\fLooks like they just stuck it right on top of where\nit originally was, which is why the angle's all off\ncompared to the rest of the building."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like the shrine door\nwas forced open."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_020_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Who the heck tore this talisman up?\nI gotta put this thing back together."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_030_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep, that oughta do it.\nI knew that wasn't just some\nordinary piece of paper."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_030_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Time to head back to\nGokakudo Temple."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_030_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better swing by the next barrier."
+  },
+  "SUB_W01_EVAR_MIDO_SEQUOIAMALL_000_CUT_030_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, I got no idea here.\nBetter come back another time."
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess the knot for the water element is here\nat Sangen-in Temple, maybe? This one's gonna\nbe a doozy; there's plenty of spots around\nhere where it could be hiding."
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_000_010": {
+    "speaker": "Tourist_Woman",
+    "text": "Like, oh my GOD. I come all the way out here\nand the water's not FLOWING!? Somebody needs\nto fire their socials manager, like, RIGHT now,\nbecause this was a TOTAL waste of my time!"
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No water, eh? I bet that's got\nsomething to do with the barrier."
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, shoot. The spring's dried up.\nI figure it's obvious this is the root cause,\nbut I have no idea how to get it back to normal."
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_010_010": {
+    "speaker": "Komachi_Kugutu",
+    "text": "Sangen-in Temple was originally located in a\ncavern within the rock. As people flocked to it\nas a place of worship, a large stage with a\nbuilding was built in front of the rock.\fTherefore, if you wish to find the source\nof the water, you must make for the inner\nshrine within the cavern."
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Helpful info <i>and</i> a history lesson?\nSee, this is why you're the best.\nLet's go swing by this inner shrine."
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Something ain't right here, and I'm guessing\nit's because some wood spirit is suckin' up\nall the water. Gonna need all hands on deck\nfor this one, fellas!"
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_030_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's one spring fixed up good.\nHopefully we won't have any more\ndisappointed tourists on our hands."
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_030_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Time to go back to Gokakudo Temple."
+  },
+  "SUB_W01_EVAR_MIDO_SANGENIN_000_CUT_030_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better swing by the next barrier."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So this is Komainu Jizo Children's\nPark, eh? Not a bad little spot."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, kiddo. You know anywhere\naround here that's got a Jizo statue?"
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_020": {
+    "speaker": "Yumeha_Izumi",
+    "text": "Sorry, but I just transferred here and\ndon't really know much about the place.\nUm, but Ren might, though."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_030": {
+    "speaker": "Ren_Tutuki",
+    "text": "Say, who's the old fart\nya got there, Izumi?\f...Huh? A Jizo statue? Heckin' sure\nwe got one of those! I mean, it's in\nthe name of the dang place, right?\nBring your glasses next time, gramps."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The 'gramps' thing is way outta line, guy.\nHow about you just tell me where I can\nfind this Jizo statue and spare me the lip?"
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_050": {
+    "speaker": "Ren_Tutuki",
+    "text": "It's back behind the swings. But watch yourself\nthere, fella, because that Jizo statue is a\nmonument for the aliens that came by here—\nand more than that, it actually <i>is</i> an alien!"
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks, guy. And, uh... I'll keep that\nlittle alien theory of yours in mind."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Figures he'd be a bit mouthy; kid's just an\nelementary schooler at the end of the day.\n...Ha! Aliens. Isn't that somethin'?"
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this is...clearly not a normal\nJizo statue. Maybe it <i>does</i> have\nsomething to do with aliens...\fNo, wait. If this is one of the\nbarrier's knots, a buncha aliens\naren't gonna be involved."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I mean, something should be strange about\nthe Jizo statue, but when it's <i>this</i> strange,\nit makes it hard to know where to start."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I'll look at it again..."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, this is a waste of time."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "These triangles are off. If they're s'posed to\nrepresent how the five elements relate to each\nother, it should be white, black, blue, red,\nand then yellow, with none overpowerin' the other."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There we go. And heck, it looks like even\nthe statue's feelin' better about itself!\nWeird how that works."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Time to go back to Gokakudo Temple."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better swing by the next barrier."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No way I'm getting through this\nwithout a hint. ...Hey! Ren! "
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_010_040": {
+    "speaker": "Ren_Tutuki",
+    "text": "Isn't it about your bedtime, old timer?\n...Huh? Aw geez, you got the order of\nthe triangles all outta whack."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That should be all the info I need\nto make somethin' happen. Thanks."
+  },
+  "SUB_W01_EVAR_MIDO_ZIZOUPARK_000_CUT_010_060": {
+    "speaker": "Ren_Tutuki",
+    "text": "Just watch yourself there, gramps.\nFiddle with it too much and you\nmight get abducted by aliens, maybe."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakusuiro Tower is obviously one of\nthe knots, but everything seems to be\njust fine on the inside."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I mean, sure, havin' four floors on the inside\ndespite looking like five from the outside\nis a bit weird, but it's always been that way."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_020": {
+    "speaker": "Tomoko_Mido",
+    "text": "The heck are you doing here, Tsuna?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, Tomoko. And heck, if it isn't\nKaoruko Hachijo! Say, this tower was built\nby your family, yeah? Anything about it\nseem a touch off to you lately?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_040": {
+    "speaker": "Tomoko_Mido",
+    "text": "Aw, geez! Er, well, the thing is..."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_050": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "It's okay, Tomoko—I'll tell the story.\nMind lending an ear, Tsunanori?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_060": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "Rakusuiro Tower is a bastion of defense for\nthe city. My family has long said that none\nof us are permitted to set foot inside,\nand I've never doubted those teachings.\fBut then, this man appeared..."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_070": {
+    "speaker": "Unknown_Person",
+    "text": "Such teachings exist only to cage your soul.\nShould you desire to live free and true to\nyourself, you <i>must</i> enter Rakusuiro Tower.\nWould you deny yourself liberty?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, Kaoruko! Never woulda thought\na smart gal like you would get played\nby some sketchy weirdo."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_090": {
+    "speaker": "Tomoko_Mido",
+    "text": "Now hang on just a gosh darn minute!\nIt's not just Kaoruko—I was there, too!\fAnd sure, something seemed off about \nthe fella from the moment he showed up,\nbut we still couldn't help but listen!"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I hear you. My mistake. Clearly this is all\nthat creeper's fault, not Kaoruko's."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I took a peek inside the tower,\nbut everything seemed pretty normal.\nWhat did that guy do, exactly?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_120": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "The tower has five floors when seen\nfrom the outside, but normally only\nfour can be accessed once inside.\fThe hidden fifth floor only shows\nitself to those of Hachijo blood."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, now we're cookin' with gas.\nSo the barrier's been protected this whole\ntime by being kept on a hidden floor...\fMind showing me that hidden floor, maybe?\nI should be able to figure out what the\ncreeper guy did if I can get up there."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sweet cripes, a mountain spider!\nWell, now we know what the problem is:\nthe creeper sent this critter in here\nto mess with the barrier.\fSorry about this, bud. I know you're\njust up here livin' your best life,\nbut this is the one place I can't\nhave you building your nest."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_010_000": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "I feel like you're always helping\nme out in one way or another,\nand I don't know how to thank you."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Just doing my duty as a part of the\nMido family. Oh, and if that creeper\never shows his face around here again,\nyou just come find me, yeah?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Time to go back to Gokakudo Temple."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUSUITOWER_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better swing by the next barrier."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you're the one who's been going\naround destroying all the knots, eh?\nWhat's the big idea there, fella?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_000_010": {
+    "speaker": "Unknown_Person",
+    "text": "I could ask the same; it's quite rude\nof you to undo all the hard work I put\ninto trying to do away with them."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_000_020": {
+    "speaker": "Unknown_Person",
+    "text": "Sadly, you've left me with no choice but to\ndestroy Gokakudo Temple. A shame, really—\nI was hoping to get through this without\nattracting too much attention."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Destroy Gokakudo Temple? Not on my watch.\nHands off the city's cultural assets, pal!"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "Do you truly think you've\npower enough to stop me!?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_010_000": {
+    "speaker": "Unknown_Person",
+    "text": "Where are we?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We're inside a barrier Gokakudo Temple created\nto protect Miyako City, which means we're good\nto fight our little hearts out here."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_010_020": {
+    "speaker": "Unknown_Person",
+    "text": "What foolishness! There's no way a simple\nbuilding could possess such power.\nIt must be a defense mechanism that was\nincluded by whoever created the barrier.\fThere isn't a thing about this world that\nI do not find outrageously irritating!"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We inherited the city's barrier from\nour ancestors, and I sure as heck\nwon't let you destroy it!"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_020_000": {
+    "speaker": "Unknown_Person",
+    "text": "This world should no longer be able to\nproduce people capable of protecting the\nbarrier... Just who are you!?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The Mido family has always kept this\ncountry safe, and it always will."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_020_020": {
+    "speaker": "Unknown_Person",
+    "text": "Nonsense! All those of Mido blood\nperished in the war, so how can\nsomeone like you even <i>exist</i>?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, you sure are a chatty fella, huh?\nGood thing too, because I've got a whole\nbunch more I wanna talk to you about.\nMusashi? Sukune? Time to take this guy away."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_020_040": {
+    "speaker": "Unknown_Person",
+    "text": "I think not!"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes! Did he blow himself up?\n...Nah. Probably just vanished."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_CUT_020_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, curious as I am about his deal,\nI better get the barrier fixed up first."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I couldn't have protected the barrier\nwithout everyone's help, so thanks."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_000_010": {
+    "speaker": "Cathedral_Officer",
+    "text": "Hey! What's the big idea!?"
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Ah, right, forgot about you. My bad.\nAnyway, I'm all done here. Later."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_000_030": {
+    "speaker": "Cathedral_Officer",
+    "text": "Do you think some whimsical apology is enough\nto get you off the hook? Need I remind you\nthat the point of this entire project is to—"
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gonna have to stop you right there. I think it's time I had a\nlong talk with my uncle, the Vice-Minister of Domestic Affairs.\nWe'll need more long-term initiatives in place if we want to\nprotect Miyako City, this country, and the entire world."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_000_050": {
+    "speaker": "Cathedral_Officer",
+    "text": "You...seem serious. Still, I have questions\nof my own, and I won't let you weasel your\nway out of giving me some answers."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Do you <i>want</i> me to sic Koh\nand Hanzo on you again?"
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_000_070": {
+    "speaker": "Cathedral_Officer",
+    "text": "Oh, lord! Anything but that!"
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Then I'll just be on my merry way, eh?\nHeck, if I don't get my buns home soon,\nMother'll never let me hear the end of it."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_010_000": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Hey there, Son."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, Dad! When'd you get back?"
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_010_020": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Plane just landed—had myself a bit of\na bumpy flight. Seems like everything\nworked out just fine over here, though."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, not too shabby, if you ask me.\nNo way I coulda pulled it off without\nyou and Mother in my corner, though."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_010_040": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Still... Maybe it's best we keep this\nwhole mess a secret from your mom."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hear you loud and clear. Heck, I know\nanything to do with Uncle Tadamichi\nis a bit of a sore spot."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_LAST_000_CUT_010_060": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Ha ha ha! It is indeed.\nNow let's get home, Son."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_200_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tsunanori Mido here.\nI'm back from the other side."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_200_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nobody here? Well, this is...odd."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_200_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck's going on here?\nWhy does everything feel so...off?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_200_CUT_010_010": {
+    "speaker": "Musashi_Kugutu",
+    "text": "Evil spirits are roaming about\nunchecked. It's likely the barrier\nhas been destroyed."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_200_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So we were too late..."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_200_CUT_010_030": {
+    "speaker": "Komachi_Kugutu",
+    "text": "The heart of the barrier is\nlocated at Gokakudo Temple.\nLet's make our way there for now."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_200_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thank cripes Gokakudo Temple\nseems to be okay."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_200_CUT_000_010": {
+    "speaker": "Komachi_Kugutu",
+    "text": "Then let us make all haste and instill\nthe power of the spirits here, for the\nbarrier cannot be made whole once more\nwithout the divine force of the four gods."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_200_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Seems like Gokakudo Temple's been filled\nup with plenty of power, but...am I really\ngonna be able to put the barrier back up\nall on my lonesome?"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_200_CUT_000_030": {
+    "speaker": "Musashi_Kugutu",
+    "text": "You have us at your side, Tsunanori.\nYou must believe in yourself."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_200_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks, Musashi. Welp, let's get to it.\nWhich direction should we start with?"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_200_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This evil spirit is what went and destroyed\nthe barrier, so I guess we'd better start\nby getting it out of the picture."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_200_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Who was that?"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_200_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, so the power of the spirits forced\nthat evil spirit into submission?\fOh heck, I get it now! That evil spirit didn't\n<i>destroy</i> the barrier, it <i>forms</i> the barrier!\nMan, that's wild. Whoever went and made\nthis thing is a certified genius."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_200_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "In any case, that's the first barrier fixed up\nreal nice, which means I've got three to go.\nI can already tell this is gonna be tough."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_210_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This evil spirit and the one at the\nlast place both seem kinda familiar..."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_210_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh, did I see that guy\nat the last place, maybe?"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_210_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, whatever.\nTwo down, two to go."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_220_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep, these are definitely the same evil\nspirits I ran into before going through\nthe doors to the worlds I visited.\nBut what the heck does it all <i>mean</i>?"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_220_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh swell, that guy again. He's gotta be\nthe one destroying all the barriers."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_220_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So all the evil spirits bound to the barrier\nwere beings from the Conjoined Worlds?\nBoy, that is a thing right there.\fI thought Miyako City was isolated from\nother worlds, but I guess it's always been\nmore closely connected than I thought."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_220_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "More importantly, who the heck is that guy\nI keep seeing, and why does he keep comin'\nback to the scene of the crime? Feels like\nI'm in a crummy mystery novel here."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All right, I know you're there, guy!\nQuit hiding and show yourself!"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_000_010": {
+    "speaker": "Musashi_Kugutu",
+    "text": "Focus on the battle at hand, Tsunanori!"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I <i>knew</i> that guy was\nwatchin' me! Hey!\nHold up a minute, fella!"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_010": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Son!"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_020": {
+    "speaker": "Tadako_Mido",
+    "text": "Tsunanori!"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Dad! Mother!"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_040": {
+    "speaker": "Tadako_Mido",
+    "text": "The barrier has been made anew."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_050": {
+    "speaker": "Masatsuna_Mido",
+    "text": "And the evil spirits\nare disappearing."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, would you look at that?\nI guess I did it."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_070": {
+    "speaker": "Tadako_Mido",
+    "text": "Yes. Well done, Tsunanori."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "A compliment? From <i>you</i>, Mother?\nHa ha ha! Think this is the first time\nyou've ever said something like that!"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_090": {
+    "speaker": "Tadako_Mido",
+    "text": "Don't be silly. I'm certain I've praised\nyou many times before."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_100": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Anyhoo, let's get you home, Son.\nYou deserve some rest, eh?"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No can do—not yet, anyway. I need to track\ndown that guy from before and find out\nwhy he destroyed the barrier, or the same\nthing'll just happen all over again."
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look out—he's heading to the shrine.\nMust be planning to escape to the Heavens!"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_130": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Son, wait!"
+  },
+  "SUB_W01_EVAR_MIDO_KEKKAI_230_CUT_010_140": {
+    "speaker": "Tadako_Mido",
+    "text": "Tsunanori!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We got folks out there trying to change our\nworld for good, and no way of knowing when\nor where they'll strike. Keeping everything\nwe care about safe is gonna be...tough."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But you know what? That's fine.\nGot my mind all made up."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_020": {
+    "speaker": "Cathedral_Officer",
+    "text": "Tsunanori Mido!\nWhen did you get back?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, I could ask you the same question.\nWhere'd you get off to, anyway?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_040": {
+    "speaker": "Cathedral_Officer",
+    "text": "When you crossed to the other side of the stone,\nthe way you disappeared left me with a horrible sense\nof unease. Did you really head into the Heavens,\nor was it some kind of weird illusion? The whole thing\nhad me so shook that I just sort of...ran away."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_050": {
+    "speaker": "Cathedral_Officer",
+    "text": "I'm not sure why I left; abandoning my post in a panic\nisn't really my thing. Anyway, once I managed to pull\nmyself together, I came right back. Though I'm not\nreally sure why I did that, either..."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, the city's barrier was busted for a\nbit there, which is why everybody felt wonky.\nUnease is contagious, you know—and it just\ngets bigger and uglier as it spreads."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_070": {
+    "speaker": "Cathedral_Officer",
+    "text": "And...what? You, a boy of the esteemed\nMido family, sorted it all out and put\neverything to rights? You think you're\nsome kind of superhero or something?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nah, nothing like that. All I did was repair\nthe barrier and protect what I thought needed\nprotecting. And you can believe that or not—\nno skin off my tush either way."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_000_090": {
+    "speaker": "Cathedral_Officer",
+    "text": "...You certainly are a very\ninteresting man, Tsunanori."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_000": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Son!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_010": {
+    "speaker": "Tadako_Mido",
+    "text": "Tsunanori!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Mother? Dad? Thank you for everything you've done\nin raising me. I appreciate it more than you'll\never know, and I'm real sorry I've gone all this\ntime without telling you."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_030": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Whoa there, kiddo!\nWhere's this coming from?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_040": {
+    "speaker": "Tadako_Mido",
+    "text": "Oh, Tsunanori... *sniff* If anyone\nis owed gratitude here, it's you.\nIsn't that right, dear?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_050": {
+    "speaker": "Tomoko_Mido",
+    "text": "Tsuna? Why is Mother crying?\nThe heck did you do to her!?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tomoko! Thank you so, <i>so</i> much\nfor being my little sis."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_070": {
+    "speaker": "Tomoko_Mido",
+    "text": "Okay geez, what is <i>up</i> with you!?\nI don't care if you're my brother—\nthis is super embarrassing!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm the happiest guy in the world... But you know what?\nHappiness is somethin' that needs protecting, and the\nonly reason we're here now is because all sorts of folks\ndid what they could to protect this city and our country."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "As a proud member of the Mido family,\nI'll do all I can to keep Miyako City safe."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_210_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...Or my name isn't Tsunanori Mido."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_000_000": {
+    "speaker": "Cathedral_Officer",
+    "text": "There you are, Tsunanori Mido!\nWere you off in the Heavens again?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Mind your own business."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_000_020": {
+    "speaker": "Cathedral_Officer",
+    "text": "Wow, okay. What was <i>that</i> about?\nHe seemed like a totally different person."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_000": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Son!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_010": {
+    "speaker": "Tadako_Mido",
+    "text": "Tsunanori!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The one you know as Tsunanori is no more.\nLed astray by your deception and forced to\nbear the curse of the Mido name, he lost\nsight of his true self—so I erased him."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_030": {
+    "speaker": "Masatsuna_Mido",
+    "text": "...What are you saying, boy?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_040": {
+    "speaker": "Tadako_Mido",
+    "text": "...So you learned the truth, did you?\nWell, that doesn't change the fact\nthat you <i>are</i> Tsunanori Mido."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_050": {
+    "speaker": "Tomoko_Mido",
+    "text": "Tsuna? Why is Mother crying?\nThe heck did you do to her!?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Did you know you have no brother, Tomoko?\nTo think of all the time you wasted admiring\nsomeone who was a perfect stranger...\nWhat a sad, pathetic girl you are."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_070": {
+    "speaker": "Tomoko_Mido",
+    "text": "Wh-what? Tsuna, why would you\n<i>say</i> something like that!?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I did not come here to reproach you.\nAll you need know is this:\nthe Tsunanori you knew is dead."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_090": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Son!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_100": {
+    "speaker": "Tadako_Mido",
+    "text": "Tsunanori!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_220_CUT_010_110": {
+    "speaker": "Tomoko_Mido",
+    "text": "Tsuna!"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_220_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This is the heart of the barrier. Should it be undone,\nthis world will be unleashed in the direction of the\nConjoined Worlds, and I will be freed from my fate."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_220_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's done... I have done it! Now this world\ncan become one with the Conjoined Worlds!\nI have finally accomplished the task I was\nborn into this land to achieve!"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_220_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The sham of a life I led as Tsunanori Mido is over.\nFarewell, my false family. Farewell, my false home.\nI have been freed from all that kept me bound...\n<i>and I am reborn</i>!"
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_220_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Who...am I?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, cripes! The shrine's destroyed!"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What in the heck happened\nhere while I was gone?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The barrier's been destroyed...\nI'm too late."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_010_010": {
+    "speaker": "Unknown_Person",
+    "text": "Just what were you doing gallivanting\nabout the Conjoined Worlds? You were\nsent to this world to protect it, you fool!\n...No. This is all wrong."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh? Wait, <i>what's</i> wrong?\nWhat do you mean, I was <i>sent</i> here?\nDid you seriously expect me to\nfollow any of that malarkey?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_010_030": {
+    "speaker": "Unknown_Person",
+    "text": "If you truly wish to learn, it's better you\nhear it from the lips of those closest to you\nrather than myself. That is the only way\nthis wrong might be set to rights."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Is saying stuff in roundabout ways just\nyour thing, guy? Who are you, anyway?"
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_010_050": {
+    "speaker": "Unknown_Person",
+    "text": "I'd be more than happy to tell you...\nafter you learn all you must know."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_010_060": {
+    "speaker": "Unknown_Person",
+    "text": "This world has been invaded\nby beings of destruction from\nthe Conjoined Worlds that seek\nto tear down all which is good.\fShould they learn you have returned,\nthey will attempt to destroy you as well.\nHear me well, then: be careful."
+  },
+  "SUB_W01_WRLD_MIDO_RETURN_300_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that fella's sketchy as all heck.\nHope he didn't expect I'd believe all\nthe junk he was spewing there.\fThat said, the shrine <i>has</i> been destroyed—\nand I'm also sorta curious about the part\nregarding the people close to me..."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUGAKU_300_CUT_000_000": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "Tsunanori! Thank goodness you're here!\nTomoko's been abducted!"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUGAKU_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hold on just a second there!\nSomeone <i>took</i> my sister?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUGAKU_300_CUT_000_020": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "It's all a bit strange, but it seemed\nlike no one else could see it happen?\nThat makes me think it must have been\nsome manner of evil spirit."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUGAKU_300_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Appreciate the heads-up. Also, the barrier's\nbeen broken and evil spirits are struttin'\naround like they own the place, so go find\nsomewhere safe. I'll get Tomoko back myself."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUGAKU_300_CUT_000_040": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "Do be careful, Tsunanori. The city is\nfilled with energies most malevolent."
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This energy... You're not one of the spirits that\ninhabit Miyako City, which means you gotta be a \nbeing of destruction from the Conjoined Worlds!\nWhat the heck are you doin' with Tomoko!?"
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tomoko!"
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_020": {
+    "speaker": "Tomoko_Mido",
+    "text": "Eeek! Wait, stop! Don't kill me!\nI got nothing to do with this!"
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tomoko? What's wrong?"
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_040": {
+    "speaker": "Tomoko_Mido",
+    "text": "Stay back! All this weird stuff keeps\nhappening to me because <i>you're</i>\naround, and I'm super sick of it!\fI mean, I can deal with stuff like snakes\nand poisonous bugs and whatever,\nbut almost getting killed by monsters\nis where <i>I draw the freakin' line</i>!"
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That monster was after me, and...\nI'm real sorry you got caught up in this."
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_060": {
+    "speaker": "Tomoko_Mido",
+    "text": "You're sorry? You're <i>sorry</i>?\nI've been getting caught up in stupid\njunk like this since the day I was born.\fUgh, why did I have to be your little sister?\nI'm so sick of pretending to be a Mido.\nI just wanna live a normal life."
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pretending to be...\nWait, what do you mean?"
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_080": {
+    "speaker": "Tomoko_Mido",
+    "text": "There is no 'Tomoko Mido,' you big doof!\nThere's also no 'Dad,' and no 'Mother.'\nWe're all a bunch of fakes that've been\nset up to pass you off as 'Tsunanori Mido.'"
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What? No. That can't be true..."
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_100": {
+    "speaker": "Tomoko_Mido",
+    "text": "I used to think how nice it'd be if you\nreally <i>were</i> my brother, but nope!\nI'm done with all of it, mister! DONE!"
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tomoko!"
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tomoko... Tell me it isn't true..."
+  },
+  "SUB_W01_EVAR_MIDO_OOIKE_300_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tomoko... So that's how it is..."
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Dad... Mother...\nIs what Tomoko said really true?"
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh? What happened!?\nDad! Mother!"
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_020": {
+    "speaker": "SP",
+    "text": "Hold it right there!"
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_030": {
+    "speaker": "SP",
+    "text": "...Tsunanori Mido has arrived\non the scene. Over."
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Why won't you let me in?\nThis is my home!"
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_050": {
+    "speaker": "SP",
+    "text": "Not anymore it isn't.\nYou're coming with me,\nTsunanori Mido."
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Perfect timing."
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Dad! Mother! ...Is anyone here!?"
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So...what? This..."
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_081": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This was all a lie!?"
+  },
+  "SUB_W01_EVAR_MIDO_HOME_300_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What're you still doing here!?\nGet outta my way!"
+  },
+  "SUB_W01_EVAR_MIDO_STATION_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Dad!"
+  },
+  "SUB_W01_EVAR_MIDO_STATION_300_CUT_000_010": {
+    "speaker": "Masatsuna_Mido",
+    "text": "I'm not your dad anymore, kiddo—I'm done\nplaying Masatsuna Mido. From now on,\nI'm just a regular old man.\fGot a call from Vice-Minister Mido in\nDomestic Affairs sayin' the whole thing's off,\nand... Well, that's really all there is to it."
+  },
+  "SUB_W01_EVAR_MIDO_STATION_300_CUT_000_020": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Still, we were together so long, I really\nstarted thinking of you as my own son.\nSo take care of yourself, kiddo."
+  },
+  "SUB_W01_EVAR_MIDO_STATION_300_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What the heck? Wait, that's it?\nThat's all you have to say to me?"
+  },
+  "SUB_W01_EVAR_MIDO_MALL_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Mother!"
+  },
+  "SUB_W01_EVAR_MIDO_MALL_300_CUT_000_010": {
+    "speaker": "Tadako_Mido",
+    "text": "Goodness! Found me, have you? Well, I guess I\nshould start by apologizing for being so darn\nstrict with you all these years—that's just\nhow I was asked to play the role.\fI admit it was nice being able to wear such\nfancy clothes all the time. But now I'll just\nbe a normal woman who does normal things\nlike... Oh, you know, shop at the mall."
+  },
+  "SUB_W01_EVAR_MIDO_MALL_300_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tell me this is all some kinda joke!\nYou're all working together to pull\nsome kinda prank on me, right?"
+  },
+  "SUB_W01_EVAR_MIDO_MALL_300_CUT_000_030": {
+    "speaker": "Tadako_Mido",
+    "text": "If you got questions, hon, you should be asking\nVice-Minister Mido, not me. He's the one who\nfound you at Ama-no-Iwato, and also the one\nwho asked us to raise you as Tsunanori Mido."
+  },
+  "SUB_W01_EVAR_MIDO_MALL_300_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I don't imagine we'll meet again.\nBe well, Tsunanori."
+  },
+  "SUB_W01_EVAR_MIDO_MALL_300_CUT_000_050": {
+    "speaker": "Tadako_Mido",
+    "text": "How can you say goodbye so easily?\nHow can you lose your family and\njust...be okay with it?"
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_000": {
+    "speaker": "Unknown_Person",
+    "text": "Ah. I see you've learned the truth."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Always knew I was a weird sorta kid,\nbut I never would've guessed my entire\nfamily was completely made up."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_020": {
+    "speaker": "Unknown_Person",
+    "text": "I must say, I'm relieved to see you're\nmanaging to process this entire\nrevelation with relative composure."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm not composed. Just...empty."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "Then let us fill the newly carved hollow in\nyour heart with the mission you were meant\nto carry out. You are to protect this world\nfrom beings who would see it destroyed.\fTheir aim is to destroy what makes each world\npure and unique, and in so doing reduce the\nConjoined Worlds to a single, solitary existence."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So I guess Miyako City's barrier is meant\nto protect us from those bad guys?\nSuppose that explains why we've been doing\nall this for over a thousand years..."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_060": {
+    "speaker": "Unknown_Person",
+    "text": "But this time we failed—and should the\nworld be lost, it can never be reclaimed.\fThis is a problem which must be torn out by\nthe very roots. We must destroy the gateway\nthat leads to the Conjoined Worlds."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You want to destroy the Ama-no-Iwato?"
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_080": {
+    "speaker": "Unknown_Person",
+    "text": "I do. Should we see it through,\nthis world will be permanently\ndetached from the Conjoined Worlds.\fFreed from the taint of outside influences,\nit will be permitted to retain its\npurity and individuality...forever."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All right. I get you."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_100": {
+    "speaker": "Unknown_Person",
+    "text": "Then I shall withdraw and leave the rest to you.\nAnd while we will never again cross paths,\nI hope you find happiness here. Farewell."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_110": {
+    "speaker": "Musashi_Kugutu",
+    "text": "What do you intend to do with the\nspirits we've gathered, Tsunanori?"
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, guy. So, uh, turns out I'm not\nactually Tsunanori Mido. Don't really\nknow <i>who</i> the heck I am, honestly."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_130": {
+    "speaker": "Musashi_Kugutu",
+    "text": "We all recognize the life force that courses\nthrough you to be that of Tsunanori Mido.\nTherefore, you <i>are</i> Tsunanori Mido."
+  },
+  "SUB_W01_EVAR_MIDO_SEIDO_300_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I appreciate it, bud. In that case,\nguess I'll keep goin' by Tsunanori Mido,\nsince you insist and all.\fAnyway, let's get to fixin' up the barrier,\nyeah? Everything else can wait until that\nlittle project is done."
+  },
+  "SUB_W01_EVAR_MIDO_GOKAKUDO_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We'll get all sorts of bad characters in Miyako City\nif the barrier's busted, so I figure this'll help everyone\npull themselves together. ...My family too, hopefully."
+  },
+  "SUB_W01_EVAR_MIDO_CATHEDRAL_300_CUT_000_000": {
+    "speaker": "Musashi_Kugutu",
+    "text": "Do you truly intend to\ndestroy the stone?"
+  },
+  "SUB_W01_EVAR_MIDO_CATHEDRAL_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, I dunno. Maybe I should talk to\nmy uncle... Er, to Tadamichi Mido first."
+  },
+  "SUB_W01_EVAR_MIDO_CATHEDRAL_300_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...Nah, he's got nothin' to do with this.\nEvery decision I've made up to this point\nis one I made on my own."
+  },
+  "SUB_W01_EVAR_MIDO_CATHEDRAL_300_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All sorts of stuff happened because I passed\nthrough the stone and into the Heavens...\nSo is closing that path for good <i>really</i>\nthe right thing to do?"
+  },
+  "SUB_W01_EVAR_MIDO_CATHEDRAL_300_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We're better off without it."
+  },
+  "SUB_W01_EVAR_MIDO_CATHEDRAL_300_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The stone's not the problem here."
+  },
+  "SUB_W01_EVAR_MIDO_CATHEDRAL_300_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There are folks in the Heavens who wanna use me—\nand because of that, everyone I care about had\ntheir lives turned completely upside-down.\nThat's the reason everything's gone to heck."
+  },
+  "SUB_W01_EVAR_MIDO_CATHEDRAL_300_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I need to know what the big idea\nwas in doing all of this junk!\nMy life belongs to me, dangit!"
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Dad!"
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Mother!"
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tomoko!"
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_030": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Are you sure this was\nfor the best, Son?"
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You betcha. Heck, you guys are the only family\nI'd ever want. ...Though I suppose I <i>am</i>\na bit worried about Mother."
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_050": {
+    "speaker": "Tadako_Mido",
+    "text": "I'm a bit worried about me too, hon.\nAfter twenty years of the high life,\nI'm not sure I'll be able to go back\nto being a plain old Jane."
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_060": {
+    "speaker": "Tomoko_Mido",
+    "text": "Well, I get to live with Tsuna and Dad and Mother\nagain, so I think it's great! It's a bummer I can't see\nmy friends from school anymore, but I bet I'll make\nnew ones here in Hokkaijima."
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry you guys had to suffer\nthrough all that because of me."
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_080": {
+    "speaker": "Masatsuna_Mido",
+    "text": "I'd better not hear you say that again, Son.\nYou did what you had to do, we were there for you,\nand that's all there is to it. Now c'mon. Let's all work\ntogether to make a fresh start here in Hokkaijima."
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know? I may not be able to see\nthe Emerald Wave anymore..."
+  },
+  "SUB_W01_EVAR_MIDO_END_300_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But I somehow feel more connected\nto all of you than ever."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUHOKUSTA_PATH_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakuto Station is close to Sequoia Mall,\nand Rakunan Station is close to Keihoku\nElementary School. Which should I swing by?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUHOKUSTA_PATH_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakuto Station."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUHOKUSTA_PATH_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakunan Station."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUHOKUSTA_PATH_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Stay put."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUNANSTA_PATH_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakuhoku Station is close to Miyako Imperial\nUniversity, and Rakuto Station is close to\nSequoia Mall. Which should I swing by?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUNANSTA_PATH_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakuhoku Station."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUNANSTA_PATH_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakuto Station."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUNANSTA_PATH_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Stay put."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUTOSTA_PATH_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakuhoku Station is close to Miyako Imperial\nUniversity, and Rakunan Station is close to Keihoku\nElementary School. Which should I swing by?"
+  },
+  "SUB_W01_EVAR_MIDO_RAKUTOSTA_PATH_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakuhoku Station."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUTOSTA_PATH_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Rakunan Station."
+  },
+  "SUB_W01_EVAR_MIDO_RAKUTOSTA_PATH_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Stay put."
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "C01_DOOR_MIDO_W02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of various spirits."
+  },
+  "C01_DOOR_MIDO_W02_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a fire spirit."
+  },
+  "C01_DOOR_MIDO_W03_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W04_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a growing spirit."
+  },
+  "C01_DOOR_MIDO_W04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W06_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of clashing spirits."
+  },
+  "C01_DOOR_MIDO_W06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W07_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of various spirits."
+  },
+  "C01_DOOR_MIDO_W07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W08_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W08_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a thriving spirit."
+  },
+  "C01_DOOR_MIDO_W08_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W09_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W09_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a changing spirit."
+  },
+  "C01_DOOR_MIDO_W09_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W10_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W10_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a metal spirit."
+  },
+  "C01_DOOR_MIDO_W10_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W11_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W11_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a wood spirit."
+  },
+  "C01_DOOR_MIDO_W11_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W12_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W12_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a water spirit."
+  },
+  "C01_DOOR_MIDO_W12_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W13_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W13_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a metal spirit."
+  },
+  "C01_DOOR_MIDO_W13_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W14_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W14_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a cooperative spirit."
+  },
+  "C01_DOOR_MIDO_W14_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W15_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W15_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a fire spirit."
+  },
+  "C01_DOOR_MIDO_W15_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W17_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W17_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a water spirit."
+  },
+  "C01_DOOR_MIDO_W17_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W18_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W18_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of overlapping spirits."
+  },
+  "C01_DOOR_MIDO_W18_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_W19_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_W19_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the doors look the same. Although faint, you can sense the power of a wood spirit."
+  },
+  "C01_DOOR_MIDO_W19_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_BATTLE_VH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of Combat"
+  },
+  "C01_DOOR_MIDO_BATTLE_VH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A truly grueling battle awaits beyond this door."
+  },
+  "C01_DOOR_MIDO_BATTLE_VH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "C01_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Heavens' Visage"
+  },
+  "C01_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Upon arriving in the Heavens for the first time, you are informed that the Cathedral Project's true purpose is to acquire the power of four spirits. Let's hope you and your <i>kugutsu</i> are up to the challenge."
+  },
+  "C01_WRLD_MIDO_INITIAL_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Heavens' Visage"
+  },
+  "C01_WRLD_MIDO_INITIAL_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Though this is your first visit to the Heavens, it doesn't look quite like you thought it would. Upon arriving, you are informed of the Cathedral Project's true purpose."
+  },
+  "C01_WRLD_MIDO_INITIAL_200_TITLE": {
+    "speaker": "UI",
+    "text": "The Heavens' Visage"
+  },
+  "C01_WRLD_MIDO_INITIAL_200_DETAIL": {
+    "speaker": "UI",
+    "text": "It is your first visit to the Heavens, and it looks just like you thought it would. Upon arriving, your mother piles on an uncomfortable amount of pressure. "
+  },
+  "C01_WRLD_MIDO_INITIAL_300_TITLE": {
+    "speaker": "UI",
+    "text": "The Heavens' Visage"
+  },
+  "C01_WRLD_MIDO_INITIAL_300_DETAIL": {
+    "speaker": "UI",
+    "text": "The Heavens look quite different from how you imagined. Upon arriving, you are informed of the Cathedral Project's true purpose. Use the power of your <i>kugutsu</i> to overcome the challenges that await."
+  },
+  "C01_DOOR_MIDO_FIRST_PORTAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of the Heavens"
+  },
+  "C01_DOOR_MIDO_FIRST_PORTAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "What a massive door. Do you suppose it'll open if you give it a push?"
+  },
+  "C01_DOOR_MIDO_FIRST_PORTAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_SCAN_MIDO_INITIAL_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Emerald Wave"
+  },
+  "C01_SCAN_MIDO_INITIAL_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Emerald Wave guides you to your fate. It currently connects to a single door."
+  },
+  "C01_SCAN_MIDO_INITIAL_WAVE_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Emerald Wave"
+  },
+  "C01_SCAN_MIDO_INITIAL_WAVE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Emerald Wave guides you to your fate. It currently connects to four doors."
+  },
+  "C01_SCAN_MIDO_INITIAL_WAVE_200_TITLE": {
+    "speaker": "UI",
+    "text": "The Emerald Wave"
+  },
+  "C01_SCAN_MIDO_INITIAL_WAVE_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The Emerald Wave guides you to your fate. It currently connects to two doors."
+  },
+  "C01_WRLD_MIDO_1SPIRIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Enigma of the Heavens"
+  },
+  "C01_WRLD_MIDO_1SPIRIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Why do the Heavens look different than they did the last time you were here? This place really is full of mysteries..."
+  },
+  "C01_SCAN_MIDO_1SPIRIT_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Three Waves"
+  },
+  "C01_SCAN_MIDO_1SPIRIT_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The path before you branches in multiple directions. Just you know that whichever one you pick, you were fated to do so."
+  },
+  "C01_SCAN_MIDO_2SPIRIT_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "A New Door"
+  },
+  "C01_SCAN_MIDO_2SPIRIT_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A door you've never seen before has appeared. One can only wonder what awaits you on the other side..."
+  },
+  "C01_WRLD_MIDO_2SPIRIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Halfway Point"
+  },
+  "C01_WRLD_MIDO_2SPIRIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found two of the four spirits you need. Only two? Already two? Whether the glass is half-empty or half-full is up to you."
+  },
+  "C01_WRLD_MIDO_3SPIRIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Final Door"
+  },
+  "C01_WRLD_MIDO_3SPIRIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There's one spirit left to acquire, and one world left to visit."
+  },
+  "C01_WRLD_MIDO_4SPIRIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Final Trip to the Heavens"
+  },
+  "C01_WRLD_MIDO_4SPIRIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Search for the door to Miyako City."
+  },
+  "C01_DOOR_MIDO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to Miyako City"
+  },
+  "C01_DOOR_MIDO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The door to good ol' Miyako City. Time to take the power of the four spirits you acquired back home."
+  },
+  "C01_DOOR_MIDO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_RETURN_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to Miyako City"
+  },
+  "C01_DOOR_MIDO_RETURN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The door to good ol' Miyako City. Time to take the power of the four spirits you acquired back home."
+  },
+  "C01_DOOR_MIDO_RETURN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_RETURN_200_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to Miyako City"
+  },
+  "C01_DOOR_MIDO_RETURN_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The door to good ol' Miyako City. Time to take the power of the four spirits you acquired back home."
+  },
+  "C01_DOOR_MIDO_RETURN_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_MIDO_RETURN_300_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to Miyako City"
+  },
+  "C01_DOOR_MIDO_RETURN_300_DETAIL": {
+    "speaker": "UI",
+    "text": "The door to good ol' Miyako City. Time to take the power of the four spirits you acquired back home."
+  },
+  "C01_DOOR_MIDO_RETURN_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_WRLD_MIDO_REENTER_200_TITLE": {
+    "speaker": "UI",
+    "text": "In Pursuit of the Mysterious Man"
+  },
+  "C01_WRLD_MIDO_REENTER_200_DETAIL": {
+    "speaker": "UI",
+    "text": "Hot on the mysterious man's trail, you've come to the Heavens yet again."
+  },
+  "C01_SCAN_MIDO_REENTER_WAVE_200_TITLE": {
+    "speaker": "UI",
+    "text": "The Emerald Wave's Guidance"
+  },
+  "C01_SCAN_MIDO_REENTER_WAVE_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The Emerald Wave guides you to a door. The man you're chasing must be waiting on the other side."
+  },
+  "C01_DOOR_MIDO_W14_200_TITLE": {
+    "speaker": "UI",
+    "text": "Door to the Unknown"
+  },
+  "C01_DOOR_MIDO_W14_200_DETAIL": {
+    "speaker": "UI",
+    "text": "Beyond this door is a world you've never visited before. The man you're pursuing may have prepared a trap for you."
+  },
+  "C01_DOOR_MIDO_W14_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_WRLD_MIDO_REENTER_300_TITLE": {
+    "speaker": "UI",
+    "text": "Seeking the Truth"
+  },
+  "C01_WRLD_MIDO_REENTER_300_DETAIL": {
+    "speaker": "UI",
+    "text": "Should Miyako City be cut loose from the Conjoined Worlds—and who even <i>are</i> you? The Heavens must hold the answers."
+  },
+  "C01_SCAN_MIDO_REENTER_WAVE_300_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Wave"
+  },
+  "C01_SCAN_MIDO_REENTER_WAVE_300_DETAIL": {
+    "speaker": "UI",
+    "text": "The Emerald Wave guides you to two doors. This is your final choice."
+  },
+  "C01_DOOR_MIDO_LASTBATTLE_300_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to Separate All Worlds"
+  },
+  "C01_DOOR_MIDO_LASTBATTLE_300_DETAIL": {
+    "speaker": "UI",
+    "text": "You were sent to Miyako City by a being that wants the worlds to be kept separate. You must press onward if you wish to find the answers you seek."
+  },
+  "C01_DOOR_MIDO_LASTBATTLE_310_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to Join All Worlds"
+  },
+  "C01_DOOR_MIDO_LASTBATTLE_310_DETAIL": {
+    "speaker": "UI",
+    "text": "You were sent to Miyako City by a being that seeks to make all the worlds into one. You must press onward if you wish to find the answers you seek."
+  },
+  "C01_EVNT_MIDO_LASTBATTLE_300_TITLE": {
+    "speaker": "UI",
+    "text": "One Who Rules the World"
+  },
+  "C01_EVNT_MIDO_LASTBATTLE_300_DETAIL": {
+    "speaker": "UI",
+    "text": "Ignoring the desires of those who would see Miyako City separated from the Conjoined Worlds, you've arrived in the Heavens. You should probably go in expecting the worst."
+  },
+  "C01_EVNT_MIDO_LASTBATTLE_300_BUTTON": {
+    "speaker": "UI",
+    "text": "I'm Ready"
+  },
+  "C01_EVNT_MIDO_LASTBATTLE_310_TITLE": {
+    "speaker": "UI",
+    "text": "One Who Desires a Beautiful World"
+  },
+  "C01_EVNT_MIDO_LASTBATTLE_310_DETAIL": {
+    "speaker": "UI",
+    "text": "You've arrived in the Heavens after learning the desires of those who would see all the worlds combined. But after visiting so many, you can't imagine merging them. What will happen next?"
+  },
+  "C01_EVNT_MIDO_LASTBATTLE_310_BUTTON": {
+    "speaker": "UI",
+    "text": "I'm Ready"
+  }
+}

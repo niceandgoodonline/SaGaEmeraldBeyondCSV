@@ -1,0 +1,230 @@
+{
+  "WORLD_C01_DOOR_A00_TITLE": {
+    "speaker": "UI",
+    "text": "Shining Door"
+  },
+  "WORLD_C01_DOOR_A00_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense a strange power on the other side of this door."
+  },
+  "WORLD_C01_DOOR_A00_BUTTON": {
+    "speaker": "UI",
+    "text": "Go Inside"
+  },
+  "WORLD_C01_DOOR_A02_1_TITLE": {
+    "speaker": "UI",
+    "text": "Dark Door"
+  },
+  "WORLD_C01_DOOR_A02_1_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense a deep darkness on the other side of this door."
+  },
+  "WORLD_C01_DOOR_A02_1_BUTTON": {
+    "speaker": "UI",
+    "text": "Go Inside"
+  },
+  "WORLD_C01_DOOR_A02_2_TITLE": {
+    "speaker": "UI",
+    "text": "Dark Door"
+  },
+  "WORLD_C01_DOOR_A02_2_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense a deep darkness on the other side of this door."
+  },
+  "WORLD_C01_DOOR_A02_2_BUTTON": {
+    "speaker": "UI",
+    "text": "Go Inside"
+  },
+  "WORLD_C01_DOOR_A02_3_TITLE": {
+    "speaker": "UI",
+    "text": "Dark Door"
+  },
+  "WORLD_C01_DOOR_A02_3_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense a deep darkness on the other side of this door."
+  },
+  "WORLD_C01_DOOR_A02_3_BUTTON": {
+    "speaker": "UI",
+    "text": "Go Inside"
+  },
+  "C01_DOOR_COMM_DJUMP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Special Door"
+  },
+  "C01_DOOR_COMM_DJUMP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door looks to be special."
+  },
+  "C01_DOOR_COMM_DJUMP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_GMCK_COMM_EMERALDRIDE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Suspicious Creature?"
+  },
+  "C01_GMCK_COMM_EMERALDRIDE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can't help but feel like you've seen this...thing somewhere before. Is it even alive?"
+  },
+  "C01_GMCK_COMM_EMERALDRIDE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Try Talking to It"
+  },
+  "C01_GMCK_COMM_CHALLENGE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Suspicious Creature?"
+  },
+  "C01_GMCK_COMM_CHALLENGE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can't help but feel like you've seen this...thing somewhere before. Is it even alive?"
+  },
+  "C01_GMCK_COMM_CHALLENGE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Try Talking to It"
+  },
+  "C01_GMCK_COMM_TRADEDRUM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Mysterious Machine"
+  },
+  "C01_GMCK_COMM_TRADEDRUM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can't help but feel like you've seen this...thing somewhere before. What is it even doing here?"
+  },
+  "C01_GMCK_COMM_TRADEDRUM_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Touch It"
+  },
+  "C01_GMCK_COMM_TRADEDRUM_010_TITLE": {
+    "speaker": "UI",
+    "text": "Trading Machine"
+  },
+  "C01_GMCK_COMM_TRADEDRUM_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You can apparently trade your belongings for other items using this machine, though you have no idea how it works."
+  },
+  "C01_GMCK_COMM_TRADEDRUM_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Machine"
+  },
+  "C01_WRLD_COMM_SIUGNAS_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Fearsome New Ally"
+  },
+  "C01_WRLD_COMM_SIUGNAS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Dismal King has joined your retinue."
+  },
+  "C01_WRLD_COMM_ERYTHEIA_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Strange New Ally"
+  },
+  "C01_WRLD_COMM_ERYTHEIA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Erytheia has joined your retinue."
+  },
+  "C01_WRLD_COMM_ICECASTLE_NEGATIVE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Battle With the Final Emperor"
+  },
+  "C01_WRLD_COMM_ICECASTLE_NEGATIVE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "After choosing to fight the final emperor and protect Alexandre, you found yourself kicked out of Grelon. You wonder what happened to Alexandre after that."
+  },
+  "C01_DOOR_COMM_TICKET_001_TITLE": {
+    "speaker": "UI",
+    "text": "Final Trial I"
+  },
+  "C01_DOOR_COMM_TICKET_001_DETAIL": {
+    "speaker": "UI",
+    "text": "This trial pits you against the first formidable foe."
+  },
+  "C01_DOOR_COMM_TICKET_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt the Trial"
+  },
+  "C01_DOOR_COMM_TICKET_002_TITLE": {
+    "speaker": "UI",
+    "text": "Final Trial II"
+  },
+  "C01_DOOR_COMM_TICKET_002_DETAIL": {
+    "speaker": "UI",
+    "text": "This trial pits you against the second formidable foe."
+  },
+  "C01_DOOR_COMM_TICKET_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt the Trial"
+  },
+  "C01_DOOR_COMM_TICKET_003_TITLE": {
+    "speaker": "UI",
+    "text": "Final Trial III"
+  },
+  "C01_DOOR_COMM_TICKET_003_DETAIL": {
+    "speaker": "UI",
+    "text": "This trial pits you against the third formidable foe."
+  },
+  "C01_DOOR_COMM_TICKET_003_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt the Trial"
+  },
+  "C01_DOOR_COMM_TICKET_004_TITLE": {
+    "speaker": "UI",
+    "text": "Final Trial IV"
+  },
+  "C01_DOOR_COMM_TICKET_004_DETAIL": {
+    "speaker": "UI",
+    "text": "This trial pits you against the fourth formidable foe."
+  },
+  "C01_DOOR_COMM_TICKET_004_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt the Trial"
+  },
+  "C01_DOOR_COMM_TICKET_005_TITLE": {
+    "speaker": "UI",
+    "text": "Final Trial V"
+  },
+  "C01_DOOR_COMM_TICKET_005_DETAIL": {
+    "speaker": "UI",
+    "text": "This trial pits you against the fifth formidable foe."
+  },
+  "C01_DOOR_COMM_TICKET_005_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt the Trial"
+  },
+  "C01_DOOR_COMM_TICKET_006_TITLE": {
+    "speaker": "UI",
+    "text": "Final Trial VI"
+  },
+  "C01_DOOR_COMM_TICKET_006_DETAIL": {
+    "speaker": "UI",
+    "text": "This trial pits you against the sixth formidable foe."
+  },
+  "C01_DOOR_COMM_TICKET_006_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt the Trial"
+  },
+  "C01_DOOR_COMM_TICKET_007_TITLE": {
+    "speaker": "UI",
+    "text": "Final Trial VII"
+  },
+  "C01_DOOR_COMM_TICKET_007_DETAIL": {
+    "speaker": "UI",
+    "text": "This trial pits you against the seventh formidable foe."
+  },
+  "C01_DOOR_COMM_TICKET_007_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt the Trial"
+  },
+  "C01_DOOR_COMM_TICKET_008_TITLE": {
+    "speaker": "UI",
+    "text": "Final Trial VIII"
+  },
+  "C01_DOOR_COMM_TICKET_008_DETAIL": {
+    "speaker": "UI",
+    "text": "This trial pits you against the eighth formidable foe."
+  },
+  "C01_DOOR_COMM_TICKET_008_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt the Trial"
+  }
+}

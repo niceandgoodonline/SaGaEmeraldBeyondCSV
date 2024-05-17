@@ -1,0 +1,517 @@
+{
+  "KEY_ITEM_W02_POWER_KEY_BLA": {
+    "description": "KEY_ITEM_W02_POWER_KEY_BLA_DESCRIPTION",
+    "name": "KEY_ITEM_W02_POWER_KEY_BLA_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W02_POWER_KEY_BLA_02": {
+    "description": "KEY_ITEM_W02_POWER_KEY_BLA_02_DESCRIPTION",
+    "name": "KEY_ITEM_W02_POWER_KEY_BLA_02_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W02_POWER_KEY_RED_01": {
+    "description": "KEY_ITEM_W02_POWER_KEY_RED_01_DESCRIPTION",
+    "name": "KEY_ITEM_W02_POWER_KEY_RED_01_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W02_POWER_KEY_RED_02": {
+    "description": "KEY_ITEM_W02_POWER_KEY_RED_02_DESCRIPTION",
+    "name": "KEY_ITEM_W02_POWER_KEY_RED_02_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W02_POWER_KEY_RED_03": {
+    "description": "KEY_ITEM_W02_POWER_KEY_RED_03_DESCRIPTION",
+    "name": "KEY_ITEM_W02_POWER_KEY_RED_03_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W02_DISASTER_PIECE": {
+    "description": "KEY_ITEM_W02_DISASTER_PIECE_DESCRIPTION",
+    "name": "KEY_ITEM_W02_DISASTER_PIECE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W03_POISON_BOTTLE": {
+    "description": "KEY_ITEM_W03_POISON_BOTTLE_DESCRIPTION",
+    "name": "KEY_ITEM_W03_POISON_BOTTLE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W12_WOODPILE": {
+    "description": "KEY_ITEM_W12_WOODPILE_DESCRIPTION",
+    "name": "KEY_ITEM_W12_WOODPILE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W12_MATCH": {
+    "description": "KEY_ITEM_W12_MATCH_DESCRIPTION",
+    "name": "KEY_ITEM_W12_MATCH_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W12_ARTEFACT": {
+    "description": "KEY_ITEM_W12_ARTEFACT_DESCRIPTION",
+    "name": "KEY_ITEM_W12_ARTEFACT_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_DISK": {
+    "description": "KEY_ITEM_W10_DISK_DESCRIPTION",
+    "name": "KEY_ITEM_W10_DISK_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_CODE": {
+    "description": "KEY_ITEM_W10_CODE_DESCRIPTION",
+    "name": "KEY_ITEM_W10_CODE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_TRIANGLE": {
+    "description": "KEY_ITEM_W10_TRIANGLE_DESCRIPTION",
+    "name": "KEY_ITEM_W10_TRIANGLE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_KATANA": {
+    "description": "KEY_ITEM_W10_KATANA_DESCRIPTION",
+    "name": "KEY_ITEM_W10_KATANA_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_GIZUMO": {
+    "description": "KEY_ITEM_W10_GIZUMO_DESCRIPTION",
+    "name": "KEY_ITEM_W10_GIZUMO_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_MAG_DATA": {
+    "description": "KEY_ITEM_W10_MAG_DATA_DESCRIPTION",
+    "name": "KEY_ITEM_W10_MAG_DATA_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_BOOK": {
+    "description": "KEY_ITEM_W10_BOOK_DESCRIPTION",
+    "name": "KEY_ITEM_W10_BOOK_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_TAILE": {
+    "description": "KEY_ITEM_W10_TAILE_DESCRIPTION",
+    "name": "KEY_ITEM_W10_TAILE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_KEY_RY": {
+    "description": "KEY_ITEM_W10_KEY_RY_DESCRIPTION",
+    "name": "KEY_ITEM_W10_KEY_RY_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_KEY_RB": {
+    "description": "KEY_ITEM_W10_KEY_RB_DESCRIPTION",
+    "name": "KEY_ITEM_W10_KEY_RB_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_KEY_BY": {
+    "description": "KEY_ITEM_W10_KEY_BY_DESCRIPTION",
+    "name": "KEY_ITEM_W10_KEY_BY_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_JEWEL": {
+    "description": "KEY_ITEM_W10_JEWEL_DESCRIPTION",
+    "name": "KEY_ITEM_W10_JEWEL_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_SEED": {
+    "description": "KEY_ITEM_W10_SEED_DESCRIPTION",
+    "name": "KEY_ITEM_W10_SEED_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_EGG": {
+    "description": "KEY_ITEM_W10_EGG_DESCRIPTION",
+    "name": "KEY_ITEM_W10_EGG_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_CLYSTAL": {
+    "description": "KEY_ITEM_W10_CLYSTAL_DESCRIPTION",
+    "name": "KEY_ITEM_W10_CLYSTAL_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W10_KEY_6": {
+    "description": "KEY_ITEM_W10_KEY_6_DESCRIPTION",
+    "name": "KEY_ITEM_W10_KEY_6_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_JADE_JAR": {
+    "description": "KEY_ITEM_W04_JADE_JAR_DESCRIPTION",
+    "name": "KEY_ITEM_W04_JADE_JAR_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_CONTRACT": {
+    "description": "KEY_ITEM_W04_CONTRACT_DESCRIPTION",
+    "name": "KEY_ITEM_W04_CONTRACT_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_SUGAR": {
+    "description": "KEY_ITEM_W04_SUGAR_DESCRIPTION",
+    "name": "KEY_ITEM_W04_SUGAR_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_GHOST_AXE": {
+    "description": "KEY_ITEM_W04_GHOST_AXE_DESCRIPTION",
+    "name": "KEY_ITEM_W04_GHOST_AXE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_MONSTER_SURVEY_01": {
+    "description": "KEY_ITEM_W04_MONSTER_SURVEY_01_DESCRIPTION",
+    "name": "KEY_ITEM_W04_MONSTER_SURVEY_01_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_MONSTER_SURVEY_02": {
+    "description": "KEY_ITEM_W04_MONSTER_SURVEY_02_DESCRIPTION",
+    "name": "KEY_ITEM_W04_MONSTER_SURVEY_02_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_TIMECONTROLLER": {
+    "description": "KEY_ITEM_W04_TIME_CONTROLLER_DESCRIPTION",
+    "name": "KEY_ITEM_W04_TIME_CONTROLLER_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_RUBY": {
+    "description": "KEY_ITEM_W04_RUBY_DESCRIPTION",
+    "name": "KEY_ITEM_W04_RUBY_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_SAPPHIRE": {
+    "description": "KEY_ITEM_W04_SAPPHIRE_DESCRIPTION",
+    "name": "KEY_ITEM_W04_SAPPHIRE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_BALTASAR_HEART": {
+    "description": "KEY_ITEM_W04_BALTASAR_HEART_DESCRIPTION",
+    "name": "KEY_ITEM_W04_BALTASAR_HEART_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_BLUE_DRAGONS_EGG": {
+    "description": "KEY_ITEM_W04_BLUE_DRAGONS_EGG_DESCRIPTION",
+    "name": "KEY_ITEM_W04_BLUE_DRAGONS_EGG_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W04_PIRATES_FLAG": {
+    "description": "KEY_ITEM_W04_PIRATES_FLAG_DESCRIPTION",
+    "name": "KEY_ITEM_W04_PIRATES_FLAG_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_HORSE_TICKET": {
+    "description": "KEY_ITEM_W09_HORSE_TICKET_DESCRIPTION",
+    "name": "KEY_ITEM_W09_HORSE_TICKET_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_VEHICLE_TICKET": {
+    "description": "KEY_ITEM_W09_VEHICLE_TICKET_DESCRIPTION",
+    "name": "KEY_ITEM_W09_VEHICLE_TICKET_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_TRAM_TICKET": {
+    "description": "KEY_ITEM_W09_TRAM_TICKET_DESCRIPTION",
+    "name": "KEY_ITEM_W09_TRAM_TICKET_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_IDOL_SIGNATURE": {
+    "description": "KEY_ITEM_W09_IDOL_SIGNATURE_DESCRIPTION",
+    "name": "KEY_ITEM_W09_IDOL_SIGNATURE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_IDOL_SIGNATURE_02": {
+    "description": "KEY_ITEM_W09_IDOL_SIGNATURE_02_DESCRIPTION",
+    "name": "KEY_ITEM_W09_IDOL_SIGNATURE_02_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_GOLD_MEDAL": {
+    "description": "KEY_ITEM_W09_GOLD_MEDAL_DESCRIPTION",
+    "name": "KEY_ITEM_W09_GOLD_MEDAL_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_ANNIVERSARY_GIFT": {
+    "description": "KEY_ITEM_W09_ANNIVERSARY_GIFT_DESCRIPTION",
+    "name": "KEY_ITEM_W09_ANNIVERSARY_GIFT_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_MEMORIAL_PLATE": {
+    "description": "KEY_ITEM_W09_MEMORIAL_PLATE_DESCRIPTION",
+    "name": "KEY_ITEM_W09_MEMORIAL_PLATE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_CERTIFICATE": {
+    "description": "KEY_ITEM_W09_CERTIFICATE_DESCRIPTION",
+    "name": "KEY_ITEM_W09_CERTIFICATE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_OLD_CROWN": {
+    "description": "KEY_ITEM_W09_OLD_CROWN_DESCRIPTION",
+    "name": "KEY_ITEM_W09_OLD_CROWN_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_MEDAL": {
+    "description": "KEY_ITEM_W09_MEDAL_DESCRIPTION",
+    "name": "KEY_ITEM_W09_MEDAL_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_VINTAGE_WINE": {
+    "description": "KEY_ITEM_W09_VINTAGE_WINE_DESCRIPTION",
+    "name": "KEY_ITEM_W09_VINTAGE_WINE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_BISCUIT": {
+    "description": "KEY_ITEM_W09_BISCUIT_DESCRIPTION",
+    "name": "KEY_ITEM_W09_BISCUIT_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_OLD_TIARA": {
+    "description": "KEY_ITEM_W09_OLD_TIARA_DESCRIPTION",
+    "name": "KEY_ITEM_W09_OLD_TIARA_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_RUSTY_SWORD": {
+    "description": "KEY_ITEM_W09_RUSTY_SWORD_DESCRIPTION",
+    "name": "KEY_ITEM_W09_RUSTY_SWORD_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_LEATHER_HANDBAG": {
+    "description": "KEY_ITEM_W09_LEATHER_HANDBAG_DESCRIPTION",
+    "name": "KEY_ITEM_W09_LEATHER_HANDBAG_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_ANIMAL_PERFUME": {
+    "description": "KEY_ITEM_W09_ANIMAL_PERFUME_DESCRIPTION",
+    "name": "KEY_ITEM_W09_ANIMAL_PERFUME_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_CAVIAR": {
+    "description": "KEY_ITEM_W09_CAVIAR_DESCRIPTION",
+    "name": "KEY_ITEM_W09_CAVIAR_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_TRUFFLE": {
+    "description": "KEY_ITEM_W09_TRUFFLE_DESCRIPTION",
+    "name": "KEY_ITEM_W09_TRUFFLE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_BAKED_BREAD": {
+    "description": "KEY_ITEM_W09_BAKED_BREAD_DESCRIPTION",
+    "name": "KEY_ITEM_W09_BAKED_BREAD_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_STUFFED_BIRD": {
+    "description": "KEY_ITEM_W09_STUFFED_BIRD_DESCRIPTION",
+    "name": "KEY_ITEM_W09_STUFFED_BIRD_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_UNAGIPIE_PASTRY": {
+    "description": "KEY_ITEM_W09_UNAGIPIE_PASTRY_DESCRIPTION",
+    "name": "KEY_ITEM_W09_UNAGIPIE_PASTRY_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_SURPRISED_JUICE": {
+    "description": "KEY_ITEM_W09_SURPRISED_JUICE_DESCRIPTION",
+    "name": "KEY_ITEM_W09_SURPRISED_JUICE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_DIAMOND": {
+    "description": "KEY_ITEM_W09_DIAMOND_DESCRIPTION",
+    "name": "KEY_ITEM_W09_DIAMOND_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_GOLD_WAND": {
+    "description": "KEY_ITEM_W09_GOLD_WAND_DESCRIPTION",
+    "name": "KEY_ITEM_W09_GOLD_WAND_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_GOLD_RING": {
+    "description": "KEY_ITEM_W09_GOLD_RING_DESCRIPTION",
+    "name": "KEY_ITEM_W09_GOLD_RING_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W09_GOLD_NECKLACE": {
+    "description": "KEY_ITEM_W09_GOLD_NECKLACE_DESCRIPTION",
+    "name": "KEY_ITEM_W09_GOLD_NECKLACE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W06_ANTIBODY_STOMACH": {
+    "description": "KEY_ITEM_W06_ANTIBODY_STOMACH_DESCRIPTION",
+    "name": "KEY_ITEM_W06_ANTIBODY_STOMACH_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W06_ANTIBODY_LUNGS": {
+    "description": "KEY_ITEM_W06_ANTIBODY_LUNGS_DESCRIPTION",
+    "name": "KEY_ITEM_W06_ANTIBODY_LUNGS_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W06_ANTIBODY_BRAIN": {
+    "description": "KEY_ITEM_W06_ANTIBODY_BRAIN_DESCRIPTION",
+    "name": "KEY_ITEM_W06_ANTIBODY_BRAIN_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W06_ANTIBODY_HEART": {
+    "description": "KEY_ITEM_W06_ANTIBODY_HEART_DESCRIPTION",
+    "name": "KEY_ITEM_W06_ANTIBODY_HEART_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W06_MUCUS": {
+    "description": "KEY_ITEM_W06_MUCUS_DESCRIPTION",
+    "name": "KEY_ITEM_W06_MUCUS_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W06_MITOCHONDRIA": {
+    "description": "KEY_ITEM_W06_MITOCHONDRIA_DESCRIPTION",
+    "name": "KEY_ITEM_W06_MITOCHONDRIA_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_SEEDS": {
+    "description": "KEY_ITEM_W19_SEEDS_DESCRIPTION",
+    "name": "KEY_ITEM_W19_SEEDS_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_INSECTS": {
+    "description": "KEY_ITEM_W19_INSECTS_DESCRIPTION",
+    "name": "KEY_ITEM_W19_INSECTS_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_WHISTLE": {
+    "description": "KEY_ITEM_W19_WHISTLE_DESCRIPTION",
+    "name": "KEY_ITEM_W19_WHISTLE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_SCALE": {
+    "description": "KEY_ITEM_W19_SCALE_DESCRIPTION",
+    "name": "KEY_ITEM_W19_SCALE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_TOOTH": {
+    "description": "KEY_ITEM_W19_TOOTH_DESCRIPTION",
+    "name": "KEY_ITEM_W19_TOOTH_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_NUT": {
+    "description": "KEY_ITEM_W19_NUT_DESCRIPTION",
+    "name": "KEY_ITEM_W19_NUT_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_WINGS": {
+    "description": "KEY_ITEM_W19_WINGS_DESCRIPTION",
+    "name": "KEY_ITEM_W19_WINGS_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_EGGS": {
+    "description": "KEY_ITEM_W19_EGGS_DESCRIPTION",
+    "name": "KEY_ITEM_W19_EGGS_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_BRANCH": {
+    "description": "KEY_ITEM_W19_BRANCH_DESCRIPTION",
+    "name": "KEY_ITEM_W19_BRANCH_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W14_WATER": {
+    "description": "KEY_ITEM_W14_WATER_DESCRIPTION",
+    "name": "KEY_ITEM_W14_WATER_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W14_ANTIDOTE": {
+    "description": "KEY_ITEM_W14_ANTIDOTE_DESCRIPTION",
+    "name": "KEY_ITEM_W14_ANTIDOTE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_ANT": {
+    "description": "KEY_ITEM_W19_ANT_DESCRIPTION",
+    "name": "KEY_ITEM_W19_ANT_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_CUCKOO": {
+    "description": "KEY_ITEM_W19_CUCKOO_DESCRIPTION",
+    "name": "KEY_ITEM_W19_CUCKOO_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_OWL": {
+    "description": "KEY_ITEM_W19_OWL_DESCRIPTION",
+    "name": "KEY_ITEM_W19_OWL_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W19_DRAGONFLY": {
+    "description": "KEY_ITEM_W19_DRAGONFLY_DESCRIPTION",
+    "name": "KEY_ITEM_W19_DRAGONFLY_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W08_EARTHWORM_NORMAL": {
+    "description": "KEY_ITEM_W08_EARTHWORM_NORMAL_DESCRIPTION",
+    "name": "KEY_ITEM_W08_EARTHWORM_NORMAL_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W08_EARTHWORM_RARE": {
+    "description": "KEY_ITEM_W08_EARTHWORM_RARE_DESCRIPTION",
+    "name": "KEY_ITEM_W08_EARTHWORM_RARE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W08_STONE_NORMAL": {
+    "description": "KEY_ITEM_W08_STONE_NORMAL_DESCRIPTION",
+    "name": "KEY_ITEM_W08_STONE_NORMAL_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W08_STONE_RARE": {
+    "description": "KEY_ITEM_W08_STONE_RARE_DESCRIPTION",
+    "name": "KEY_ITEM_W08_STONE_RARE_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_W13_ENERGY": {
+    "description": "KEY_ITEM_W13_ENERGY_DESCRIPTION",
+    "name": "KEY_ITEM_W13_ENERGY_NAME",
+    "keepMax": "1"
+  },
+  "KEY_ITEM_W13_BREAK": {
+    "description": "KEY_ITEM_W13_BREAK_DESCRIPTION",
+    "name": "KEY_ITEM_W13_BREAK_NAME",
+    "keepMax": "2"
+  },
+  "KEY_ITEM_W13_FOCUS": {
+    "description": "KEY_ITEM_W13_FOCUS_DESCRIPTION",
+    "name": "KEY_ITEM_W13_FOCUS_NAME",
+    "keepMax": "3"
+  },
+  "KEY_ITEM_W13_MOVE": {
+    "description": "KEY_ITEM_W13_MOVE_DESCRIPTION",
+    "name": "KEY_ITEM_W13_MOVE_NAME",
+    "keepMax": "4"
+  },
+  "KEY_ITEM_C01_LAST_TICKET": {
+    "description": "KEY_ITEM_C01_LAST_TICKET_DESCRIPTION",
+    "name": "KEY_ITEM_C01_LAST_TICKET_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_1": {
+    "description": "KEY_ITEM_C01_YARIKOMI_TICKET_1_DESCRIPTION",
+    "name": "KEY_ITEM_C01_YARIKOMI_TICKET_1_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_2": {
+    "description": "KEY_ITEM_C01_YARIKOMI_TICKET_2_DESCRIPTION",
+    "name": "KEY_ITEM_C01_YARIKOMI_TICKET_2_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_3": {
+    "description": "KEY_ITEM_C01_YARIKOMI_TICKET_3_DESCRIPTION",
+    "name": "KEY_ITEM_C01_YARIKOMI_TICKET_3_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_4": {
+    "description": "KEY_ITEM_C01_YARIKOMI_TICKET_4_DESCRIPTION",
+    "name": "KEY_ITEM_C01_YARIKOMI_TICKET_4_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_5": {
+    "description": "KEY_ITEM_C01_YARIKOMI_TICKET_5_DESCRIPTION",
+    "name": "KEY_ITEM_C01_YARIKOMI_TICKET_5_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_6": {
+    "description": "KEY_ITEM_C01_YARIKOMI_TICKET_6_DESCRIPTION",
+    "name": "KEY_ITEM_C01_YARIKOMI_TICKET_6_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_7": {
+    "description": "KEY_ITEM_C01_YARIKOMI_TICKET_7_DESCRIPTION",
+    "name": "KEY_ITEM_C01_YARIKOMI_TICKET_7_NAME",
+    "keepMax": "0"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_8": {
+    "description": "KEY_ITEM_C01_YARIKOMI_TICKET_8_DESCRIPTION",
+    "name": "KEY_ITEM_C01_YARIKOMI_TICKET_8_NAME",
+    "keepMax": "0"
+  }
+}

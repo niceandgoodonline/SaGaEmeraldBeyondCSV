@@ -1,0 +1,322 @@
+{
+  "MagicCat001_ItemName": {
+    "speaker": "UI",
+    "text": "Abyssinian"
+  },
+  "MagicCat001_ItemExp": {
+    "speaker": "UI",
+    "text": "There's something glorious about its slender body and wild facial features!"
+  },
+  "MagicCat002_ItemName": {
+    "speaker": "UI",
+    "text": "Exotic Shorthair"
+  },
+  "MagicCat002_ItemExp": {
+    "speaker": "UI",
+    "text": "Its big, widely spaced eyes and tiny nose are just to die for!"
+  },
+  "MagicCat003_ItemName": {
+    "speaker": "UI",
+    "text": "Egyptian Mau"
+  },
+  "MagicCat003_ItemExp": {
+    "speaker": "UI",
+    "text": "Its almond-shaped eyes and feral countenance are magnificent!"
+  },
+  "MagicCat004_ItemName": {
+    "speaker": "UI",
+    "text": "Ocicat"
+  },
+  "MagicCat004_ItemExp": {
+    "speaker": "UI",
+    "text": "The leopardlike appearance of this cat speaks to its wild roots. So marvelous!"
+  },
+  "MagicCat005_ItemName": {
+    "speaker": "UI",
+    "text": "Oriental Shorthair"
+  },
+  "MagicCat005_ItemExp": {
+    "speaker": "UI",
+    "text": "Its long limbs and slim build give this cat an elegant appearance!"
+  },
+  "MagicCat006_ItemName": {
+    "speaker": "UI",
+    "text": "Cymric"
+  },
+  "MagicCat006_ItemExp": {
+    "speaker": "UI",
+    "text": "Wow, its tail is just a little nub! I had no idea there were cats without tails!"
+  },
+  "MagicCat007_ItemName": {
+    "speaker": "UI",
+    "text": "Korat"
+  },
+  "MagicCat007_ItemExp": {
+    "speaker": "UI",
+    "text": "This kitty's heart-shaped face and silver coat are just breathtaking!"
+  },
+  "MagicCat008_ItemName": {
+    "speaker": "UI",
+    "text": "Siberian"
+  },
+  "MagicCat008_ItemExp": {
+    "speaker": "UI",
+    "text": "This cat boasts a perfect amount of fat atop its muscular frame!"
+  },
+  "MagicCat009_ItemName": {
+    "speaker": "UI",
+    "text": "Siamese"
+  },
+  "MagicCat009_ItemExp": {
+    "speaker": "UI",
+    "text": "This cat's colorpoint fur and sapphire-blue eyes give a new definition to 'lovely'!"
+  },
+  "MagicCat010_ItemName": {
+    "speaker": "UI",
+    "text": "Chartreux"
+  },
+  "MagicCat010_ItemExp": {
+    "speaker": "UI",
+    "text": "This stocky kitty's most gallant features are its thick chest and broad shoulders!"
+  },
+  "MagicCat011_ItemName": {
+    "speaker": "UI",
+    "text": "Singapura"
+  },
+  "MagicCat011_ItemExp": {
+    "speaker": "UI",
+    "text": "Aw, you've never seen a cat this small! How precious!"
+  },
+  "MagicCat012_ItemName": {
+    "speaker": "UI",
+    "text": "Scottish Fold"
+  },
+  "MagicCat012_ItemExp": {
+    "speaker": "UI",
+    "text": "Look how those little ears fold forward! Adorbs!"
+  },
+  "MagicCat013_ItemName": {
+    "speaker": "UI",
+    "text": "Snowshoe"
+  },
+  "MagicCat013_ItemExp": {
+    "speaker": "UI",
+    "text": "Just look at those widdle white paws! It's like the kitty's wearing snowshoes!"
+  },
+  "MagicCat014_ItemName": {
+    "speaker": "UI",
+    "text": "Selkirk Rex"
+  },
+  "MagicCat014_ItemExp": {
+    "speaker": "UI",
+    "text": "It looks so dashing with its solid build and soft, curly hair!"
+  },
+  "MagicCat015_ItemName": {
+    "speaker": "UI",
+    "text": "Somali"
+  },
+  "MagicCat015_ItemExp": {
+    "speaker": "UI",
+    "text": "One look at that tapered face makes me swoon! And those big eyes and ears? Outrageous!"
+  },
+  "MagicCat016_ItemName": {
+    "speaker": "UI",
+    "text": "Turkish Van"
+  },
+  "MagicCat016_ItemExp": {
+    "speaker": "UI",
+    "text": "What big, round eyes—and those long legs are just to die for!"
+  },
+  "MagicCat017_ItemName": {
+    "speaker": "UI",
+    "text": "Turkish Angora"
+  },
+  "MagicCat017_ItemExp": {
+    "speaker": "UI",
+    "text": "This slender, elegant beauty would be the belle of any ball!"
+  },
+  "MagicCat018_ItemName": {
+    "speaker": "UI",
+    "text": "Birman"
+  },
+  "MagicCat018_ItemExp": {
+    "speaker": "UI",
+    "text": "This cat's sapphire-blue eyes and mystical features take your breath away!"
+  },
+  "MagicCat019_ItemName": {
+    "speaker": "UI",
+    "text": "Burmese"
+  },
+  "MagicCat019_ItemExp": {
+    "speaker": "UI",
+    "text": "The coolest cat around! It's amazing how much muscle is packed into that tiny frame!"
+  },
+  "MagicCat020_ItemName": {
+    "speaker": "UI",
+    "text": "Himalayan"
+  },
+  "MagicCat020_ItemExp": {
+    "speaker": "UI",
+    "text": "The combination of Persian and Siamese features makes this cat devastatingly attractive!"
+  },
+  "MagicCat021_ItemName": {
+    "speaker": "UI",
+    "text": "Persian"
+  },
+  "MagicCat021_ItemExp": {
+    "speaker": "UI",
+    "text": "Look at that round head! And those big eyes! Oh, and the lovely glossy hair!"
+  },
+  "MagicCat022_ItemName": {
+    "speaker": "UI",
+    "text": "Bengal"
+  },
+  "MagicCat022_ItemExp": {
+    "speaker": "UI",
+    "text": "This cat's almond-shaped eyes and leopardlike appearance are magnificent!"
+  },
+  "MagicCat023_ItemName": {
+    "speaker": "UI",
+    "text": "Bombay"
+  },
+  "MagicCat023_ItemExp": {
+    "speaker": "UI",
+    "text": "This cat's muscular silhouette and pantherlike visage are to die for!"
+  },
+  "MagicCat024_ItemName": {
+    "speaker": "UI",
+    "text": "Munchkin"
+  },
+  "MagicCat024_ItemExp": {
+    "speaker": "UI",
+    "text": "Aww, who has widdle legs and a widdle round face? That's wight! You do!"
+  },
+  "MagicCat025_ItemName": {
+    "speaker": "UI",
+    "text": "Maine Coon"
+  },
+  "MagicCat025_ItemExp": {
+    "speaker": "UI",
+    "text": "Man alive, this thing is MASSIVE!"
+  },
+  "MagicCat026_ItemName": {
+    "speaker": "UI",
+    "text": "Ragdoll"
+  },
+  "MagicCat026_ItemExp": {
+    "speaker": "UI",
+    "text": "This kitty's so cute you might think it's a plushie! And look at those piercing blue eyes!"
+  },
+  "MagicCat027_ItemName": {
+    "speaker": "UI",
+    "text": "Ragamuffin"
+  },
+  "MagicCat027_ItemExp": {
+    "speaker": "UI",
+    "text": "This cat's long coat and upward-slanting eyes are cute as can be! And it's SO fluffy!"
+  },
+  "MagicCat028_ItemName": {
+    "speaker": "UI",
+    "text": "LaPerm"
+  },
+  "MagicCat028_ItemExp": {
+    "speaker": "UI",
+    "text": "Look at that well-proportioned frame and curly hair! Jealous!"
+  },
+  "MagicCat029_ItemName": {
+    "speaker": "UI",
+    "text": "Cornish Rex"
+  },
+  "MagicCat029_ItemExp": {
+    "speaker": "UI",
+    "text": "Have you ever seen anything like this cat's rippling coat of hair? Outstanding!"
+  },
+  "MagicCat030_ItemName": {
+    "speaker": "UI",
+    "text": "Pixie-Bob"
+  },
+  "MagicCat030_ItemExp": {
+    "speaker": "UI",
+    "text": "This cat is notable for having a head shaped like an upside-down pear. I love it!"
+  },
+  "MagicCat031_ItemName": {
+    "speaker": "UI",
+    "text": "Balinese"
+  },
+  "MagicCat031_ItemExp": {
+    "speaker": "UI",
+    "text": "This cat's Siamese-like appearance and soft, long hair are just marvelous!"
+  },
+  "MagicCat032_ItemName": {
+    "speaker": "UI",
+    "text": "American Shorthair"
+  },
+  "MagicCat032_ItemExp": {
+    "speaker": "UI",
+    "text": "Its short, tightly packed fur and muscular build are as handsome as can be!"
+  },
+  "MagicCat033_ItemName": {
+    "speaker": "UI",
+    "text": "Norwegian Forest"
+  },
+  "MagicCat033_ItemExp": {
+    "speaker": "UI",
+    "text": "How can it be so fluffy and yet so...BURLY!? Just gorgeous!"
+  },
+  "MagicCat034_ItemName": {
+    "speaker": "UI",
+    "text": "Aegean"
+  },
+  "MagicCat034_ItemExp": {
+    "speaker": "UI",
+    "text": "The rounded tips of the ears... The sharp eyes... Incredible, I say!"
+  },
+  "MagicCat035_ItemName": {
+    "speaker": "UI",
+    "text": "Ural Rex"
+  },
+  "MagicCat035_ItemExp": {
+    "speaker": "UI",
+    "text": "The slim body! The tight curls of its fur! Adorable from tip to toe!"
+  },
+  "MagicCat036_ItemName": {
+    "speaker": "UI",
+    "text": "Sphynx"
+  },
+  "MagicCat036_ItemExp": {
+    "speaker": "UI",
+    "text": "The lack of fur and wrinkled skin give this cat a beauty all its own!"
+  },
+  "MagicCat037_ItemName": {
+    "speaker": "UI",
+    "text": "British Shorthair"
+  },
+  "MagicCat038_ItemName": {
+    "speaker": "UI",
+    "text": "Ojos Azules"
+  },
+  "MagicCat039_ItemName": {
+    "speaker": "UI",
+    "text": "Kinkalow"
+  },
+  "MagicCat040_ItemName": {
+    "speaker": "UI",
+    "text": "Kurilian Bobtail"
+  },
+  "MagicCat037_ItemExp": {
+    "speaker": "UI",
+    "text": "One look at those stout limbs attached to that roly-poly frame is enough to make anyone swoon!"
+  },
+  "MagicCat038_ItemExp": {
+    "speaker": "UI",
+    "text": "This cat's slightly rounded triangular head and blue eyes are beyond words!"
+  },
+  "MagicCat039_ItemExp": {
+    "speaker": "UI",
+    "text": "The tiny legs! The solid frame! The curled ears! How can something this cute exist!?"
+  },
+  "MagicCat040_ItemExp": {
+    "speaker": "UI",
+    "text": "Its long hind legs and kinked tail make it look like a rabbit! I love it!"
+  }
+}

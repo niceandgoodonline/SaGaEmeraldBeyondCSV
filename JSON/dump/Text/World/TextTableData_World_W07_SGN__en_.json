@@ -1,0 +1,34 @@
+{
+  "W07_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cinq: World of the Four Tribes"
+  },
+  "W07_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "On the other side of the door, you find what looks to be a ruined temple. Four tribes exist in this world, but is there any darkness?"
+  },
+  "W07_EVAR_SIUG_TEMPLESOUL_000_TITLE": {
+    "speaker": "UI",
+    "text": "New Thrall Acquired"
+  },
+  "W07_EVAR_SIUG_TEMPLESOUL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The darkness of the four tribes now dwells within you as a thrall. You can't wait to see what awaits you in the next world."
+  },
+  "W07_EVAR_SIUG_TEMPLESOUL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Soul Temple"
+  },
+  "W07_EVAR_SIUG_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Next World"
+  },
+  "W07_EVAR_SIUG_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There was nothing for you in this world. Hopefully the next one will be different."
+  },
+  "W07_EVAR_SIUG_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Cinq"
+  }
+}

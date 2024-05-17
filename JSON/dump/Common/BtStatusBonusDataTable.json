@@ -1,0 +1,802 @@
+{
+    "Bonus_001": {
+        "Status": 0, 
+        "DamageBonus": 0.0, 
+        "DefenseBonus": 0.0, 
+        "HitBonus": -1.5, 
+        "SuccessRateBonus": -0.15, 
+        "TimeLineBonus": -8.0
+    }, 
+    "Bonus_002": {
+        "Status": 1, 
+        "DamageBonus": 0.01, 
+        "DefenseBonus": 0.0025, 
+        "HitBonus": -1.4, 
+        "SuccessRateBonus": -0.14, 
+        "TimeLineBonus": -7.0
+    }, 
+    "Bonus_003": {
+        "Status": 2, 
+        "DamageBonus": 0.02, 
+        "DefenseBonus": 0.005, 
+        "HitBonus": -1.3, 
+        "SuccessRateBonus": -0.13, 
+        "TimeLineBonus": -7.0
+    }, 
+    "Bonus_004": {
+        "Status": 3, 
+        "DamageBonus": 0.03, 
+        "DefenseBonus": 0.0075, 
+        "HitBonus": -1.2, 
+        "SuccessRateBonus": -0.12, 
+        "TimeLineBonus": -6.0
+    }, 
+    "Bonus_005": {
+        "Status": 4, 
+        "DamageBonus": 0.04, 
+        "DefenseBonus": 0.01, 
+        "HitBonus": -1.1, 
+        "SuccessRateBonus": -0.11, 
+        "TimeLineBonus": -6.0
+    }, 
+    "Bonus_006": {
+        "Status": 5, 
+        "DamageBonus": 0.05, 
+        "DefenseBonus": 0.0125, 
+        "HitBonus": -1.0, 
+        "SuccessRateBonus": -0.1, 
+        "TimeLineBonus": -5.0
+    }, 
+    "Bonus_007": {
+        "Status": 6, 
+        "DamageBonus": 0.06, 
+        "DefenseBonus": 0.015, 
+        "HitBonus": -0.9, 
+        "SuccessRateBonus": -0.09, 
+        "TimeLineBonus": -5.0
+    }, 
+    "Bonus_008": {
+        "Status": 7, 
+        "DamageBonus": 0.07, 
+        "DefenseBonus": 0.0175, 
+        "HitBonus": -0.8, 
+        "SuccessRateBonus": -0.08, 
+        "TimeLineBonus": -4.0
+    }, 
+    "Bonus_009": {
+        "Status": 8, 
+        "DamageBonus": 0.08, 
+        "DefenseBonus": 0.02, 
+        "HitBonus": -0.7, 
+        "SuccessRateBonus": -0.07, 
+        "TimeLineBonus": -4.0
+    }, 
+    "Bonus_010": {
+        "Status": 9, 
+        "DamageBonus": 0.09, 
+        "DefenseBonus": 0.0225, 
+        "HitBonus": -0.6, 
+        "SuccessRateBonus": -0.06, 
+        "TimeLineBonus": -3.0
+    }, 
+    "Bonus_011": {
+        "Status": 10, 
+        "DamageBonus": 0.1, 
+        "DefenseBonus": 0.025, 
+        "HitBonus": -0.5, 
+        "SuccessRateBonus": -0.05, 
+        "TimeLineBonus": -3.0
+    }, 
+    "Bonus_012": {
+        "Status": 11, 
+        "DamageBonus": 0.11, 
+        "DefenseBonus": 0.0275, 
+        "HitBonus": -0.4, 
+        "SuccessRateBonus": -0.04, 
+        "TimeLineBonus": -2.0
+    }, 
+    "Bonus_013": {
+        "Status": 12, 
+        "DamageBonus": 0.12, 
+        "DefenseBonus": 0.03, 
+        "HitBonus": -0.3, 
+        "SuccessRateBonus": -0.03, 
+        "TimeLineBonus": -2.0
+    }, 
+    "Bonus_014": {
+        "Status": 13, 
+        "DamageBonus": 0.13, 
+        "DefenseBonus": 0.0325, 
+        "HitBonus": -0.2, 
+        "SuccessRateBonus": -0.02, 
+        "TimeLineBonus": -1.0
+    }, 
+    "Bonus_015": {
+        "Status": 14, 
+        "DamageBonus": 0.14, 
+        "DefenseBonus": 0.035, 
+        "HitBonus": -0.1, 
+        "SuccessRateBonus": -0.01, 
+        "TimeLineBonus": -1.0
+    }, 
+    "Bonus_016": {
+        "Status": 15, 
+        "DamageBonus": 0.15, 
+        "DefenseBonus": 0.0375, 
+        "HitBonus": 0.0, 
+        "SuccessRateBonus": 0.0, 
+        "TimeLineBonus": 0
+    }, 
+    "Bonus_017": {
+        "Status": 16, 
+        "DamageBonus": 0.16, 
+        "DefenseBonus": 0.04, 
+        "HitBonus": 0.1, 
+        "SuccessRateBonus": 0.01, 
+        "TimeLineBonus": 0
+    }, 
+    "Bonus_018": {
+        "Status": 17, 
+        "DamageBonus": 0.17, 
+        "DefenseBonus": 0.0425, 
+        "HitBonus": 0.2, 
+        "SuccessRateBonus": 0.02, 
+        "TimeLineBonus": 1
+    }, 
+    "Bonus_019": {
+        "Status": 18, 
+        "DamageBonus": 0.18, 
+        "DefenseBonus": 0.045, 
+        "HitBonus": 0.3, 
+        "SuccessRateBonus": 0.03, 
+        "TimeLineBonus": 1
+    }, 
+    "Bonus_020": {
+        "Status": 19, 
+        "DamageBonus": 0.19, 
+        "DefenseBonus": 0.0475, 
+        "HitBonus": 0.4, 
+        "SuccessRateBonus": 0.04, 
+        "TimeLineBonus": 2
+    }, 
+    "Bonus_021": {
+        "Status": 20, 
+        "DamageBonus": 0.2, 
+        "DefenseBonus": 0.05, 
+        "HitBonus": 0.5, 
+        "SuccessRateBonus": 0.05, 
+        "TimeLineBonus": 2
+    }, 
+    "Bonus_022": {
+        "Status": 21, 
+        "DamageBonus": 0.21, 
+        "DefenseBonus": 0.0525, 
+        "HitBonus": 0.6, 
+        "SuccessRateBonus": 0.06, 
+        "TimeLineBonus": 3
+    }, 
+    "Bonus_023": {
+        "Status": 22, 
+        "DamageBonus": 0.22, 
+        "DefenseBonus": 0.055, 
+        "HitBonus": 0.7, 
+        "SuccessRateBonus": 0.07, 
+        "TimeLineBonus": 3
+    }, 
+    "Bonus_024": {
+        "Status": 23, 
+        "DamageBonus": 0.23, 
+        "DefenseBonus": 0.0575, 
+        "HitBonus": 0.8, 
+        "SuccessRateBonus": 0.08, 
+        "TimeLineBonus": 4
+    }, 
+    "Bonus_025": {
+        "Status": 24, 
+        "DamageBonus": 0.24, 
+        "DefenseBonus": 0.06, 
+        "HitBonus": 0.9, 
+        "SuccessRateBonus": 0.09, 
+        "TimeLineBonus": 4
+    }, 
+    "Bonus_026": {
+        "Status": 25, 
+        "DamageBonus": 0.25, 
+        "DefenseBonus": 0.0625, 
+        "HitBonus": 1.0, 
+        "SuccessRateBonus": 0.1, 
+        "TimeLineBonus": 5
+    }, 
+    "Bonus_027": {
+        "Status": 26, 
+        "DamageBonus": 0.26, 
+        "DefenseBonus": 0.065, 
+        "HitBonus": 1.1, 
+        "SuccessRateBonus": 0.11, 
+        "TimeLineBonus": 5
+    }, 
+    "Bonus_028": {
+        "Status": 27, 
+        "DamageBonus": 0.27, 
+        "DefenseBonus": 0.0675, 
+        "HitBonus": 1.2, 
+        "SuccessRateBonus": 0.12, 
+        "TimeLineBonus": 6
+    }, 
+    "Bonus_029": {
+        "Status": 28, 
+        "DamageBonus": 0.28, 
+        "DefenseBonus": 0.07, 
+        "HitBonus": 1.3, 
+        "SuccessRateBonus": 0.13, 
+        "TimeLineBonus": 6
+    }, 
+    "Bonus_030": {
+        "Status": 29, 
+        "DamageBonus": 0.29, 
+        "DefenseBonus": 0.0725, 
+        "HitBonus": 1.4, 
+        "SuccessRateBonus": 0.14, 
+        "TimeLineBonus": 7
+    }, 
+    "Bonus_031": {
+        "Status": 30, 
+        "DamageBonus": 0.3, 
+        "DefenseBonus": 0.075, 
+        "HitBonus": 1.5, 
+        "SuccessRateBonus": 0.15, 
+        "TimeLineBonus": 7
+    }, 
+    "Bonus_032": {
+        "Status": 31, 
+        "DamageBonus": 0.31, 
+        "DefenseBonus": 0.0775, 
+        "HitBonus": 1.6, 
+        "SuccessRateBonus": 0.16, 
+        "TimeLineBonus": 8
+    }, 
+    "Bonus_033": {
+        "Status": 32, 
+        "DamageBonus": 0.32, 
+        "DefenseBonus": 0.08, 
+        "HitBonus": 1.7, 
+        "SuccessRateBonus": 0.17, 
+        "TimeLineBonus": 8
+    }, 
+    "Bonus_034": {
+        "Status": 33, 
+        "DamageBonus": 0.33, 
+        "DefenseBonus": 0.0825, 
+        "HitBonus": 1.8, 
+        "SuccessRateBonus": 0.18, 
+        "TimeLineBonus": 9
+    }, 
+    "Bonus_035": {
+        "Status": 34, 
+        "DamageBonus": 0.34, 
+        "DefenseBonus": 0.085, 
+        "HitBonus": 1.9, 
+        "SuccessRateBonus": 0.19, 
+        "TimeLineBonus": 9
+    }, 
+    "Bonus_036": {
+        "Status": 35, 
+        "DamageBonus": 0.35, 
+        "DefenseBonus": 0.0875, 
+        "HitBonus": 2.0, 
+        "SuccessRateBonus": 0.2, 
+        "TimeLineBonus": 10
+    }, 
+    "Bonus_037": {
+        "Status": 36, 
+        "DamageBonus": 0.36, 
+        "DefenseBonus": 0.09, 
+        "HitBonus": 2.1, 
+        "SuccessRateBonus": 0.21, 
+        "TimeLineBonus": 10
+    }, 
+    "Bonus_038": {
+        "Status": 37, 
+        "DamageBonus": 0.37, 
+        "DefenseBonus": 0.0925, 
+        "HitBonus": 2.2, 
+        "SuccessRateBonus": 0.22, 
+        "TimeLineBonus": 11
+    }, 
+    "Bonus_039": {
+        "Status": 38, 
+        "DamageBonus": 0.38, 
+        "DefenseBonus": 0.095, 
+        "HitBonus": 2.3, 
+        "SuccessRateBonus": 0.23, 
+        "TimeLineBonus": 11
+    }, 
+    "Bonus_040": {
+        "Status": 39, 
+        "DamageBonus": 0.39, 
+        "DefenseBonus": 0.0975, 
+        "HitBonus": 2.4, 
+        "SuccessRateBonus": 0.24, 
+        "TimeLineBonus": 12
+    }, 
+    "Bonus_041": {
+        "Status": 40, 
+        "DamageBonus": 0.4, 
+        "DefenseBonus": 0.1, 
+        "HitBonus": 2.5, 
+        "SuccessRateBonus": 0.25, 
+        "TimeLineBonus": 12
+    }, 
+    "Bonus_042": {
+        "Status": 41, 
+        "DamageBonus": 0.41, 
+        "DefenseBonus": 0.1025, 
+        "HitBonus": 2.6, 
+        "SuccessRateBonus": 0.26, 
+        "TimeLineBonus": 13
+    }, 
+    "Bonus_043": {
+        "Status": 42, 
+        "DamageBonus": 0.42, 
+        "DefenseBonus": 0.105, 
+        "HitBonus": 2.7, 
+        "SuccessRateBonus": 0.27, 
+        "TimeLineBonus": 13
+    }, 
+    "Bonus_044": {
+        "Status": 43, 
+        "DamageBonus": 0.43, 
+        "DefenseBonus": 0.1075, 
+        "HitBonus": 2.8, 
+        "SuccessRateBonus": 0.28, 
+        "TimeLineBonus": 14
+    }, 
+    "Bonus_045": {
+        "Status": 44, 
+        "DamageBonus": 0.44, 
+        "DefenseBonus": 0.11, 
+        "HitBonus": 2.9, 
+        "SuccessRateBonus": 0.29, 
+        "TimeLineBonus": 14
+    }, 
+    "Bonus_046": {
+        "Status": 45, 
+        "DamageBonus": 0.45, 
+        "DefenseBonus": 0.1125, 
+        "HitBonus": 3.0, 
+        "SuccessRateBonus": 0.3, 
+        "TimeLineBonus": 15
+    }, 
+    "Bonus_047": {
+        "Status": 46, 
+        "DamageBonus": 0.46, 
+        "DefenseBonus": 0.115, 
+        "HitBonus": 3.1, 
+        "SuccessRateBonus": 0.31, 
+        "TimeLineBonus": 15
+    }, 
+    "Bonus_048": {
+        "Status": 47, 
+        "DamageBonus": 0.47, 
+        "DefenseBonus": 0.1175, 
+        "HitBonus": 3.2, 
+        "SuccessRateBonus": 0.32, 
+        "TimeLineBonus": 16
+    }, 
+    "Bonus_049": {
+        "Status": 48, 
+        "DamageBonus": 0.48, 
+        "DefenseBonus": 0.12, 
+        "HitBonus": 3.3, 
+        "SuccessRateBonus": 0.33, 
+        "TimeLineBonus": 16
+    }, 
+    "Bonus_050": {
+        "Status": 49, 
+        "DamageBonus": 0.49, 
+        "DefenseBonus": 0.1225, 
+        "HitBonus": 3.4, 
+        "SuccessRateBonus": 0.34, 
+        "TimeLineBonus": 17
+    }, 
+    "Bonus_051": {
+        "Status": 50, 
+        "DamageBonus": 0.5, 
+        "DefenseBonus": 0.125, 
+        "HitBonus": 3.5, 
+        "SuccessRateBonus": 0.35, 
+        "TimeLineBonus": 17
+    }, 
+    "Bonus_052": {
+        "Status": 51, 
+        "DamageBonus": 0.51, 
+        "DefenseBonus": 0.1275, 
+        "HitBonus": 3.6, 
+        "SuccessRateBonus": 0.36, 
+        "TimeLineBonus": 18
+    }, 
+    "Bonus_053": {
+        "Status": 52, 
+        "DamageBonus": 0.52, 
+        "DefenseBonus": 0.13, 
+        "HitBonus": 3.7, 
+        "SuccessRateBonus": 0.37, 
+        "TimeLineBonus": 18
+    }, 
+    "Bonus_054": {
+        "Status": 53, 
+        "DamageBonus": 0.53, 
+        "DefenseBonus": 0.1325, 
+        "HitBonus": 3.8, 
+        "SuccessRateBonus": 0.38, 
+        "TimeLineBonus": 19
+    }, 
+    "Bonus_055": {
+        "Status": 54, 
+        "DamageBonus": 0.54, 
+        "DefenseBonus": 0.135, 
+        "HitBonus": 3.9, 
+        "SuccessRateBonus": 0.39, 
+        "TimeLineBonus": 19
+    }, 
+    "Bonus_056": {
+        "Status": 55, 
+        "DamageBonus": 0.55, 
+        "DefenseBonus": 0.1375, 
+        "HitBonus": 4.0, 
+        "SuccessRateBonus": 0.4, 
+        "TimeLineBonus": 20
+    }, 
+    "Bonus_057": {
+        "Status": 56, 
+        "DamageBonus": 0.56, 
+        "DefenseBonus": 0.14, 
+        "HitBonus": 4.1, 
+        "SuccessRateBonus": 0.41, 
+        "TimeLineBonus": 20
+    }, 
+    "Bonus_058": {
+        "Status": 57, 
+        "DamageBonus": 0.57, 
+        "DefenseBonus": 0.1425, 
+        "HitBonus": 4.2, 
+        "SuccessRateBonus": 0.42, 
+        "TimeLineBonus": 21
+    }, 
+    "Bonus_059": {
+        "Status": 58, 
+        "DamageBonus": 0.58, 
+        "DefenseBonus": 0.145, 
+        "HitBonus": 4.3, 
+        "SuccessRateBonus": 0.43, 
+        "TimeLineBonus": 21
+    }, 
+    "Bonus_060": {
+        "Status": 59, 
+        "DamageBonus": 0.59, 
+        "DefenseBonus": 0.1475, 
+        "HitBonus": 4.4, 
+        "SuccessRateBonus": 0.44, 
+        "TimeLineBonus": 22
+    }, 
+    "Bonus_061": {
+        "Status": 60, 
+        "DamageBonus": 0.6, 
+        "DefenseBonus": 0.15, 
+        "HitBonus": 4.5, 
+        "SuccessRateBonus": 0.45, 
+        "TimeLineBonus": 22
+    }, 
+    "Bonus_062": {
+        "Status": 61, 
+        "DamageBonus": 0.61, 
+        "DefenseBonus": 0.1525, 
+        "HitBonus": 4.6, 
+        "SuccessRateBonus": 0.46, 
+        "TimeLineBonus": 23
+    }, 
+    "Bonus_063": {
+        "Status": 62, 
+        "DamageBonus": 0.62, 
+        "DefenseBonus": 0.155, 
+        "HitBonus": 4.7, 
+        "SuccessRateBonus": 0.47, 
+        "TimeLineBonus": 23
+    }, 
+    "Bonus_064": {
+        "Status": 63, 
+        "DamageBonus": 0.63, 
+        "DefenseBonus": 0.1575, 
+        "HitBonus": 4.8, 
+        "SuccessRateBonus": 0.48, 
+        "TimeLineBonus": 24
+    }, 
+    "Bonus_065": {
+        "Status": 64, 
+        "DamageBonus": 0.64, 
+        "DefenseBonus": 0.16, 
+        "HitBonus": 4.9, 
+        "SuccessRateBonus": 0.49, 
+        "TimeLineBonus": 24
+    }, 
+    "Bonus_066": {
+        "Status": 65, 
+        "DamageBonus": 0.65, 
+        "DefenseBonus": 0.1625, 
+        "HitBonus": 5.0, 
+        "SuccessRateBonus": 0.5, 
+        "TimeLineBonus": 25
+    }, 
+    "Bonus_067": {
+        "Status": 66, 
+        "DamageBonus": 0.66, 
+        "DefenseBonus": 0.165, 
+        "HitBonus": 5.1, 
+        "SuccessRateBonus": 0.51, 
+        "TimeLineBonus": 25
+    }, 
+    "Bonus_068": {
+        "Status": 67, 
+        "DamageBonus": 0.67, 
+        "DefenseBonus": 0.1675, 
+        "HitBonus": 5.2, 
+        "SuccessRateBonus": 0.52, 
+        "TimeLineBonus": 26
+    }, 
+    "Bonus_069": {
+        "Status": 68, 
+        "DamageBonus": 0.68, 
+        "DefenseBonus": 0.17, 
+        "HitBonus": 5.3, 
+        "SuccessRateBonus": 0.53, 
+        "TimeLineBonus": 26
+    }, 
+    "Bonus_070": {
+        "Status": 69, 
+        "DamageBonus": 0.69, 
+        "DefenseBonus": 0.1725, 
+        "HitBonus": 5.4, 
+        "SuccessRateBonus": 0.54, 
+        "TimeLineBonus": 27
+    }, 
+    "Bonus_071": {
+        "Status": 70, 
+        "DamageBonus": 0.7, 
+        "DefenseBonus": 0.175, 
+        "HitBonus": 5.5, 
+        "SuccessRateBonus": 0.55, 
+        "TimeLineBonus": 27
+    }, 
+    "Bonus_072": {
+        "Status": 71, 
+        "DamageBonus": 0.71, 
+        "DefenseBonus": 0.1775, 
+        "HitBonus": 5.6, 
+        "SuccessRateBonus": 0.56, 
+        "TimeLineBonus": 28
+    }, 
+    "Bonus_073": {
+        "Status": 72, 
+        "DamageBonus": 0.72, 
+        "DefenseBonus": 0.18, 
+        "HitBonus": 5.7, 
+        "SuccessRateBonus": 0.57, 
+        "TimeLineBonus": 28
+    }, 
+    "Bonus_074": {
+        "Status": 73, 
+        "DamageBonus": 0.73, 
+        "DefenseBonus": 0.1825, 
+        "HitBonus": 5.8, 
+        "SuccessRateBonus": 0.58, 
+        "TimeLineBonus": 29
+    }, 
+    "Bonus_075": {
+        "Status": 74, 
+        "DamageBonus": 0.74, 
+        "DefenseBonus": 0.185, 
+        "HitBonus": 5.9, 
+        "SuccessRateBonus": 0.59, 
+        "TimeLineBonus": 29
+    }, 
+    "Bonus_076": {
+        "Status": 75, 
+        "DamageBonus": 0.75, 
+        "DefenseBonus": 0.1875, 
+        "HitBonus": 6.0, 
+        "SuccessRateBonus": 0.6, 
+        "TimeLineBonus": 30
+    }, 
+    "Bonus_077": {
+        "Status": 76, 
+        "DamageBonus": 0.76, 
+        "DefenseBonus": 0.19, 
+        "HitBonus": 6.1, 
+        "SuccessRateBonus": 0.61, 
+        "TimeLineBonus": 30
+    }, 
+    "Bonus_078": {
+        "Status": 77, 
+        "DamageBonus": 0.77, 
+        "DefenseBonus": 0.1925, 
+        "HitBonus": 6.2, 
+        "SuccessRateBonus": 0.62, 
+        "TimeLineBonus": 31
+    }, 
+    "Bonus_079": {
+        "Status": 78, 
+        "DamageBonus": 0.78, 
+        "DefenseBonus": 0.195, 
+        "HitBonus": 6.3, 
+        "SuccessRateBonus": 0.63, 
+        "TimeLineBonus": 31
+    }, 
+    "Bonus_080": {
+        "Status": 79, 
+        "DamageBonus": 0.79, 
+        "DefenseBonus": 0.1975, 
+        "HitBonus": 6.4, 
+        "SuccessRateBonus": 0.64, 
+        "TimeLineBonus": 32
+    }, 
+    "Bonus_081": {
+        "Status": 80, 
+        "DamageBonus": 0.8, 
+        "DefenseBonus": 0.2, 
+        "HitBonus": 6.5, 
+        "SuccessRateBonus": 0.65, 
+        "TimeLineBonus": 32
+    }, 
+    "Bonus_082": {
+        "Status": 81, 
+        "DamageBonus": 0.81, 
+        "DefenseBonus": 0.2025, 
+        "HitBonus": 6.6, 
+        "SuccessRateBonus": 0.66, 
+        "TimeLineBonus": 33
+    }, 
+    "Bonus_083": {
+        "Status": 82, 
+        "DamageBonus": 0.82, 
+        "DefenseBonus": 0.205, 
+        "HitBonus": 6.7, 
+        "SuccessRateBonus": 0.67, 
+        "TimeLineBonus": 33
+    }, 
+    "Bonus_084": {
+        "Status": 83, 
+        "DamageBonus": 0.83, 
+        "DefenseBonus": 0.2075, 
+        "HitBonus": 6.8, 
+        "SuccessRateBonus": 0.68, 
+        "TimeLineBonus": 34
+    }, 
+    "Bonus_085": {
+        "Status": 84, 
+        "DamageBonus": 0.84, 
+        "DefenseBonus": 0.21, 
+        "HitBonus": 6.9, 
+        "SuccessRateBonus": 0.69, 
+        "TimeLineBonus": 34
+    }, 
+    "Bonus_086": {
+        "Status": 85, 
+        "DamageBonus": 0.85, 
+        "DefenseBonus": 0.2125, 
+        "HitBonus": 7.0, 
+        "SuccessRateBonus": 0.7, 
+        "TimeLineBonus": 35
+    }, 
+    "Bonus_087": {
+        "Status": 86, 
+        "DamageBonus": 0.86, 
+        "DefenseBonus": 0.215, 
+        "HitBonus": 7.1, 
+        "SuccessRateBonus": 0.71, 
+        "TimeLineBonus": 35
+    }, 
+    "Bonus_088": {
+        "Status": 87, 
+        "DamageBonus": 0.87, 
+        "DefenseBonus": 0.2175, 
+        "HitBonus": 7.2, 
+        "SuccessRateBonus": 0.72, 
+        "TimeLineBonus": 36
+    }, 
+    "Bonus_089": {
+        "Status": 88, 
+        "DamageBonus": 0.88, 
+        "DefenseBonus": 0.22, 
+        "HitBonus": 7.3, 
+        "SuccessRateBonus": 0.73, 
+        "TimeLineBonus": 36
+    }, 
+    "Bonus_090": {
+        "Status": 89, 
+        "DamageBonus": 0.89, 
+        "DefenseBonus": 0.2225, 
+        "HitBonus": 7.4, 
+        "SuccessRateBonus": 0.74, 
+        "TimeLineBonus": 37
+    }, 
+    "Bonus_091": {
+        "Status": 90, 
+        "DamageBonus": 0.9, 
+        "DefenseBonus": 0.225, 
+        "HitBonus": 7.5, 
+        "SuccessRateBonus": 0.75, 
+        "TimeLineBonus": 37
+    }, 
+    "Bonus_092": {
+        "Status": 91, 
+        "DamageBonus": 0.91, 
+        "DefenseBonus": 0.2275, 
+        "HitBonus": 7.6, 
+        "SuccessRateBonus": 0.76, 
+        "TimeLineBonus": 38
+    }, 
+    "Bonus_093": {
+        "Status": 92, 
+        "DamageBonus": 0.92, 
+        "DefenseBonus": 0.23, 
+        "HitBonus": 7.7, 
+        "SuccessRateBonus": 0.77, 
+        "TimeLineBonus": 38
+    }, 
+    "Bonus_094": {
+        "Status": 93, 
+        "DamageBonus": 0.93, 
+        "DefenseBonus": 0.2325, 
+        "HitBonus": 7.8, 
+        "SuccessRateBonus": 0.78, 
+        "TimeLineBonus": 39
+    }, 
+    "Bonus_095": {
+        "Status": 94, 
+        "DamageBonus": 0.94, 
+        "DefenseBonus": 0.235, 
+        "HitBonus": 7.9, 
+        "SuccessRateBonus": 0.79, 
+        "TimeLineBonus": 39
+    }, 
+    "Bonus_096": {
+        "Status": 95, 
+        "DamageBonus": 0.95, 
+        "DefenseBonus": 0.2375, 
+        "HitBonus": 8.0, 
+        "SuccessRateBonus": 0.8, 
+        "TimeLineBonus": 40
+    }, 
+    "Bonus_097": {
+        "Status": 96, 
+        "DamageBonus": 0.96, 
+        "DefenseBonus": 0.24, 
+        "HitBonus": 8.1, 
+        "SuccessRateBonus": 0.81, 
+        "TimeLineBonus": 40
+    }, 
+    "Bonus_098": {
+        "Status": 97, 
+        "DamageBonus": 0.97, 
+        "DefenseBonus": 0.2425, 
+        "HitBonus": 8.2, 
+        "SuccessRateBonus": 0.82, 
+        "TimeLineBonus": 41
+    }, 
+    "Bonus_099": {
+        "Status": 98, 
+        "DamageBonus": 0.98, 
+        "DefenseBonus": 0.245, 
+        "HitBonus": 8.3, 
+        "SuccessRateBonus": 0.83, 
+        "TimeLineBonus": 41
+    }, 
+    "Bonus_100": {
+        "Status": 99, 
+        "DamageBonus": 0.99, 
+        "DefenseBonus": 0.2475, 
+        "HitBonus": 8.4, 
+        "SuccessRateBonus": 0.84, 
+        "TimeLineBonus": 42
+    }
+}

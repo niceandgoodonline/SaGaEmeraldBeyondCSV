@@ -1,0 +1,2386 @@
+{
+  "SUB_W08_WRLD_MIDO_START_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck? Am I underground?"
+  },
+  "SUB_W08_WRLD_MIDO_START_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this is weird as all get-out.\nAm I really gonna find spirits down here?"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hm? Got something at my feet here..."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes! That is one huge worm."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Stay away from that worm, you!\nIt's mine!"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw, heck!"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "Don't recognize you, stranger.\nWhere are you from?"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Where I'm from, fella, it's real rude\nto pop outta the ground and scare\nsomebody half to death."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_060": {
+    "speaker": "Mole",
+    "text": "Don't care if it's rude.\nI want the worm."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All yours, guy; I got no use\nfor some huge creepy-crawly."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "You sure? I mean, <i>really</i> sure?\nWorm this big is a pretty rare find."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure as shoot, guy."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_100": {
+    "speaker": "Mole",
+    "text": "Yesss! Now I can finally go home!\nYou're good people, stranger. Take care."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hold on just one second there, bud!\nI actually came here lookin' for spirits.\nKnow anything that might fit the bill?"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_120": {
+    "speaker": "Mole",
+    "text": "Nope—but good luck all the same.\nBye now!"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait!"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_140": {
+    "speaker": "Mole",
+    "text": "What is it this time?"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_150": {
+    "speaker": "Tsunanori_Mido",
+    "text": "See, I'm not much for this whole\n'underground' deal, so I was wondering\nhow a fella...you know? Gets around?"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_160": {
+    "speaker": "Mole",
+    "text": "Wait. You can't dig holes?\nHow have you LIVED, man!?"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_170": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I'm not from here,\nlike I said."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_180": {
+    "speaker": "Mole",
+    "text": "Yeesh, I can't follow a word you say.\nFine, I'll take you to my house—\nbut then you're on your own. Capisce?"
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_190": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Capisce, bud. Oh, and I'm Tsunanori."
+  },
+  "SUB_W08_EVAR_MIDO_FIRST_CONTACT_000_CUT_000_200": {
+    "speaker": "Mole",
+    "text": "I'm Tope, of the Kuld."
+  },
+  "SUB_W08_GIMK_MIDO_DIGWALL11_010_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Holy heck, fella! You dug that hole\nthere in no time flat."
+  },
+  "SUB_W08_GIMK_MIDO_DIGWALL11_010_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "The trick is to look for spots\nwhere the earth is soft."
+  },
+  "SUB_W08_GIMK_MIDO_DIGWALL11_010_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, but if you go around diggin'\nall the time, doesn't the entire\nplace just get riddled with holes?"
+  },
+  "SUB_W08_GIMK_MIDO_DIGWALL11_010_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Nope. Our tunnels eventually cave in\nand fill up all on their own."
+  },
+  "SUB_W08_GIMK_MIDO_DIGWALL11_010_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like more trouble\nthan it's worth."
+  },
+  "SUB_W08_GIMK_MIDO_DIGWALL11_010_CUT_000_050": {
+    "speaker": "Mole",
+    "text": "That's 'cause you gotta look\nat the big picture!\fSee, when the earth gets dug up and filled in,\nit makes the soil more fertile. That fertile\nsoil goes on to nurture nutrient-rich worms,\nwhich all of us then chow down on."
+  },
+  "SUB_W08_GIMK_MIDO_DIGWALL11_010_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. That's a well-balanced cycle,\nall right."
+  },
+  "SUB_W08_GIMK_MIDO_DIGWALL11_010_CUT_000_070": {
+    "speaker": "Mole",
+    "text": "Yeah, I dunno about that.\nAll I know is that we couldn't get\nby if we didn't do it this way."
+  },
+  "SUB_W08_GIMK_MIDO_DIGWALL11_010_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "Crummy thing is that worms have been real\nhard to come by lately—but that's a tale\nfor another time. Now let's go home."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "Here's the colony where\nwe Kuld live."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So this is where your pals are?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Dunno if I'd call 'em that; Kuld typically\nwork alone, and we <i>never</i> form groups.\nWe only meet up like this because it's a\nconvenient way to keep everybody safe."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "C'mon, let's go to my house.\nIt's over there."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "Coste! I'm home!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_050": {
+    "speaker": "Mole_Wife",
+    "text": "Late again, Tope! Ground below, how long\ndoes it take to catch one measly worm!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_060": {
+    "speaker": "Mole_Son",
+    "text": "Mommy! I'm hungry!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_070": {
+    "speaker": "Mole_Wife",
+    "text": "I know, honey. I know."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_080": {
+    "speaker": "Mole_Wife",
+    "text": "See that? Your poor son is starving!\nNow hand over the worms already."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_090": {
+    "speaker": "Mole",
+    "text": "Here you go, honeybunch."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_100": {
+    "speaker": "Mole_Wife",
+    "text": "Are you KIDDING me!? This is it?\nWell, that's just pathetic."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Sorry, sweetie, but you know how poor\nthe hunting's been lately, and—"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_120": {
+    "speaker": "Mole_Wife",
+    "text": "I don't want to hear your excuses!\nHow pathetic."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So not to butt in or anything, but how come\nyou've got a wife and kid if you Kuld folks\nall work alone?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_140": {
+    "speaker": "Mole",
+    "text": "We <i>work</i> alone. That doesn't\nmean we don't have families."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_150": {
+    "speaker": "Mole_Wife",
+    "text": "Oh, a guest! Well, this is unusual.\nWhy didn't you tell me you were bringing\nsomeone home, you grubhead!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_160": {
+    "speaker": "Mole",
+    "text": "Honey, this is Tsunanori.\nHe's the one who gave me the worm."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_170": {
+    "speaker": "Mole",
+    "text": "Tsunanori, this is my wife, Coste,\nand my son, Gourmand."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_180": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, folks."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_190": {
+    "speaker": "Mole_Wife",
+    "text": "I'm sorry you had to see such a disgraceful\ndisplay, stranger. We don't have much,\nbut please make yourself at home."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_200": {
+    "speaker": "Mole_Wife",
+    "text": "And as for you, Tope..."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_210": {
+    "speaker": "Mole",
+    "text": "Yes, sweetlips?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_220": {
+    "speaker": "Mole_Wife",
+    "text": "You're an idiot if you think this single\nworm is enough for us! Little Gourmand\nhere is a growing pup, you know!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_230": {
+    "speaker": "Mole_Son",
+    "text": "Mommy! When's fooooood!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_240": {
+    "speaker": "Mole",
+    "text": "Of course, honey. I'll be right back.\nJust hold on, all right, Son?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_250": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You said something about worms being\nhard to come by lately, right?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_260": {
+    "speaker": "Mole",
+    "text": "Yeah, it's like their population dried\nup all of a sudden. And it's not just\nworms—other creatures too."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_270": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Any idea why?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_280": {
+    "speaker": "Mole",
+    "text": "Nope, but I'm looking into it—because if\nthis continues, we're all gonna starve."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_290": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So why not tell your wife all that so she\nknows why you're always runnin' late?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_300": {
+    "speaker": "Mole",
+    "text": "The last thing I want to do is cause\nCoste any unnecessary worry.\nNope, this is something where I just\nhave to carry my own water."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_310": {
+    "speaker": "Mole",
+    "text": "Back to investigating for me, then!\nBut, uh, what're you gonna do?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_320": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Figured I'd tag along and see if I could help.\nI mean, heck, it's not like I'm gonna find\nany spirits without you, anyway."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_330": {
+    "speaker": "Mole",
+    "text": "Well, today I'm goin' farther than usual,\nso we might end up runnin' into other species.\nSure you're ready for that?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_340": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So there's other people livin' down\nhere besides you mole folks?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_000_CUT_000_350": {
+    "speaker": "Mole",
+    "text": "A few, yeah—though we don't usually\ninteract, so I can't tell you much more.\fThis world's got a kind of code, see:\nstick to your own, avoid unnecessary spats,\nand you'll generally be golden."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "One of the Bashar might be\nat our colony."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look! There's one right now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_020": {
+    "speaker": "Mole_Npc",
+    "text": "Hey! Get outta here, you!\nThis is Kuld territory!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_030": {
+    "speaker": "Human",
+    "text": "An offering! An offering!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_040": {
+    "speaker": "Mole_Npc",
+    "text": "Gya! Get off me!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He's being attacked!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'll wait it out."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not on my watch!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "They took him away."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_090": {
+    "speaker": "Mole",
+    "text": "Coste! Gourmand!\nWhere are you!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_100": {
+    "speaker": "Mole_Wife",
+    "text": "Stop yelling, you silly mole!\nWhat do you want?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Oh, Coste! What a relief!\nWhere were you?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_120": {
+    "speaker": "Mole_Wife",
+    "text": "We both got bored waiting for you\nto come home, so we took a little\nwalk to kill some time."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_130": {
+    "speaker": "Mole_Son",
+    "text": "Welcome back, Daddy!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_140": {
+    "speaker": "Mole",
+    "text": "I'm sorry, honeypants, but it's not safe out\nhere right now. In fact, you should just stay\naway from the colony altogether for a bit."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_150": {
+    "speaker": "Mole_Wife",
+    "text": "Don't need to tell me twice—just make\nsure you come home with some good\nworms this time. You hear me?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_160": {
+    "speaker": "Mole_Son",
+    "text": "Bye, Daddy!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_000_170": {
+    "speaker": "Mole",
+    "text": "Let's go get 'em, Tsunanori."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_010_000": {
+    "speaker": "Human",
+    "text": "Foiled again. They are strong!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You okay there, bud?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_010_020": {
+    "speaker": "Mole_Npc",
+    "text": "Yes, thanks to you. Also, you're one\nof the Kuld that live here, right?\nTope, I think?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_010_030": {
+    "speaker": "Mole",
+    "text": "That's me, all right. But tell me,\nhave you seen a mole named Coste?\nShe's my wife."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_010_040": {
+    "speaker": "Mole_Npc",
+    "text": "Coste? Sure did! Said she was worried\nand headed out to try and find you.\nA real firecracker, that one!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Well, at least she's not here.\nThat's a relief."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Know anything about that Bashar\nfella that attacked you, maybe?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_010_070": {
+    "speaker": "Mole_Npc",
+    "text": "Nope. All I know is they came\nafter me outta nowhere."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_010_CUT_010_080": {
+    "speaker": "Mole",
+    "text": "Then let's get after him!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_110_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "One of the Naml might be at our colony."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_110_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look! There's one right now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_110_CUT_000_030": {
+    "speaker": "Insect",
+    "text": "Seedbed discovered. Securing."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_110_CUT_010_000": {
+    "speaker": "Insect",
+    "text": "Securing of seedbed failed.\nRetreating."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_110_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Know anything about that Naml\nwho attacked you there, guy?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_110_CUT_010_080": {
+    "speaker": "Mole",
+    "text": "Now stop asking questions,\n'cause we're going after that Naml!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_210_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "One of the Dufda might be\nat our colony."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_210_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look! There's one right now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_210_CUT_000_030": {
+    "speaker": "Frog",
+    "text": "Hey. You. Be my food."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_210_CUT_010_000": {
+    "speaker": "Frog",
+    "text": "You're not making this easy!\nWhatever. Forget this."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_210_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Know anything about that Dufda\nwho attacked you there, guy?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_210_CUT_010_080": {
+    "speaker": "Mole",
+    "text": "Now stop asking questions,\n'cause we're going after that Dufda!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This is the last colony, so I bet the\nLord of the Earth is gonna show."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "This is my house, and I will protect it!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "The ground is shaking...\nIt's coming!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Here it comes!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "It's not moving... Is it over?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep, that thing's busted, all right—but while\nwe saved the world from immediate danger,\nI couldn't stop all the ground pollution.\nSorry as heck about that, guy."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "No, it's better this way; I actually hate the\nthought of relying on something called\nthe 'Lord of the Earth' to survive."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_030": {
+    "speaker": "Mole",
+    "text": "By the way, didja ever find those\nspirits you were lookin' for?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure did, bud. I took care of business when\nwe dealt with the Lord of the Earth."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Well, I'm glad it all worked out for you.\nAs for us, I feel confident we'll take back our\nwormy world without the help of some 'Lord.'"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good luck there, guy."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_070": {
+    "speaker": "Mole_Wife",
+    "text": "Tope! Where in the WORLD\nhave you been!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_080": {
+    "speaker": "Mole_Son",
+    "text": "Daddy! Yaaay!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_090": {
+    "speaker": "Mole",
+    "text": "Coste? Gourmand? I'm gonna do it.\nI'M GONNA DOOOOOO IT!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_100": {
+    "speaker": "Mole_Wife",
+    "text": "Oh for the love of dirt... Maybe stop all\nthis fool yelling and go get us some worms,\nyou good-for-nothing mole!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_010_110": {
+    "speaker": "Mole",
+    "text": "Right away, sugarclaws!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_010": {
+    "speaker": "Cultivator",
+    "text": "<b>ERRORS REPAIRED. RESTARTING.</b>"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Is this thing comin' at us again?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_030": {
+    "speaker": "Cultivator",
+    "text": "<b>ALL SYSTEMS GREEN.\nSOIL CONTAMINATION DETECTED.\nINITIATING CLEANUP PROCESS.</b>"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_040": {
+    "speaker": "Mole",
+    "text": "Huh? It left."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We did it, Tope! The Lord of the Earth\nis starting to clean up the soil!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "Then we did it?\nWe saved the world?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure looks that way. Once I went ahead\nand extracted the spirit power from it,\nit stopped acting all funny."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_090": {
+    "speaker": "Mole",
+    "text": "Which means everything went\nexactly as it should've."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And it's all because of you, bud.\nCan't thank you enough."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_110": {
+    "speaker": "Mole",
+    "text": "Ha ha ha! Of course it is! ...Although I\nsuppose you pulled your weight too.\nSo thanks for everything, and take care."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_140": {
+    "speaker": "Mole",
+    "text": "Coste! Gourmand! I did it!\nI saved the world!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_160": {
+    "speaker": "Mole_Son",
+    "text": "I'm bored of worms, Mommy!\nI wanna eat something TASTY!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_170": {
+    "speaker": "Mole",
+    "text": "WHAAAAAAT!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_180": {
+    "speaker": "Mole",
+    "text": "...And that's why I need you to\ntake my son with you."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_190": {
+    "speaker": "Tsunanori_Mido",
+    "text": "WHAAAAAAT!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_200": {
+    "speaker": "Mole_Wife",
+    "text": "All children need to leave the burrow\nsometime, and I know you'll take very\ngood care of our little Gourmand."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_210": {
+    "speaker": "Mole_Son",
+    "text": "Yaaay! I can't wait to eat\nall of the tasties!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_220": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This ain't gonna be some fancy\nrestaurant tour there, bud!\fStill, I suppose I can't say no\nsince Tope's askin' so nicely..."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_230": {
+    "speaker": "Mole",
+    "text": "We'll rest easy knowing our son\nis with you, Tsunanori.\fNow don't make any trouble, Son.\nYou do everything he says, all right?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_240": {
+    "speaker": "Mole_Wife",
+    "text": "Have fun, Gourmand."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_070_CUT_020_250": {
+    "speaker": "Mole_Son",
+    "text": "Yaaaaaay!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_080_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "So was that really the Lord of the Earth?\nI mean, it could have just been one of the\ncarnivorous mushrooms the Naml use, right?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_080_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got me, fella. Heck, I don't think\nthere's even a way to tell if it's\ncleaning up the earth or not."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_080_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "Well, even if it <i>was</i> cleaning it up,\nI don't want to live in a world where I'm\nworried about being eaten alive by some\ngigantic mushroom."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_080_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Can't say. Heck, the Naml used it even\nknowing the kind of danger it posed.\nThey didn't try to free the Lord of\nthe Earth until the very last second."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_080_CUT_020_040": {
+    "speaker": "Mole",
+    "text": "Maybe the Naml were just waiting for a mighty\nstranger like you to show up—but considering\nyou couldn't even dig through the earth without\nmy help, I think some gratitude is in order?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_080_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know it, bud. Heck, my meeting you\ngot me some spirit power <i>and</i> let me\nclean up this world!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_080_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "Ha ha ha! I did it!\nI saved the world!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_080_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heh. You sure did, fella.\nTake care, okay?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_090_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "This has to be some bad Dufda\njoke that went a little too far."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_090_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess we'll never know if that was really\nthe Lord of the Earth or if it actually\npurified the soil."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_090_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "Well, even if it <i>was</i> cleaning up the earth,\nI don't want to live in a world where I'm worried\nabout that thing swallowing me whole."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_090_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Still, I doubt it mattered much to the\nLord of the Earth if there were colonies\naround or not, so long as the thing was\nchowing down on dirt and cleaning it up. "
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_MOLE_090_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "Yeah, I suppose it might've actually\nbeen the Lord of the Earth...\fYou know what? I'm gonna say it was.\nHeck, it renewed our soil, after all!"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the origin of that\nbig quake earlier."
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Something's here...\nLook out, bud!"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Is this the Lord of the Earth!?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_010_010": {
+    "speaker": "Cultivator",
+    "text": "<b>ERROR IN BOOT PROCESS 7402.</b>"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_010_020": {
+    "speaker": "Cultivator",
+    "text": "<b>ERROR IN BOOT PROCESS 8496.</b>"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_010_030": {
+    "speaker": "Cultivator",
+    "text": "<b>ERROR IN BOOT PROCESS 9582.</b>"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_010_040": {
+    "speaker": "Cultivator",
+    "text": "<b>UNABLE TO BOOT NORMALLY.\nSWITCHING TO START/STOP PROCESS.</b>"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "What's it saying?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I'll be danged...\nThe Lord of the Earth is actually\nsome kind of dirt-purifying machine!"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_010_070": {
+    "speaker": "Cultivator",
+    "text": "<b>ERROR. ERROR. ERROR.\nUNABLE TO EXECUTE START/STOP PROCESS.\nNORMAL OPERATIONS NOT GUARANTEED.</b>"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_010_080": {
+    "speaker": "Cultivator",
+    "text": "<b>TERRAFORMING PROCESS DEEMED A FAILURE.\nBEGINNING RESET OF WORLD ENVIRONMENT.\nALERT. ALERT. THIS PROCESS IS DANGEROUS.\nOPERATORS MUST TAKE SHELTER IMMEDIATELY.</b>"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "Wait! Where are you going!?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. This thing's gone\nall kinds of haywire."
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "What's going on?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "If we don't stop the Lord of the Earth,\nit's gonna destroy the world!"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_020_040": {
+    "speaker": "Mole",
+    "text": "Where's it going!?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Probably some colony—thing seems pretty\nfired up about wiping out all life here."
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_000_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "WHAT!?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_100_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, so <i>this</i> is the Lord of the Earth!?\nHeck, that's no lord—it's just a dang bug!\nHow's that supposed to rejuvenate the earth?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_100_CUT_010_010": {
+    "speaker": "Mole",
+    "text": "There's something off about these bugs.\nTheir eyes are...dull."
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_100_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You think? I mean, 'cause I figure they're\nmoving around okay. Plus they've been in\nthe earth all this time, so that could\njust be natural, maybe?\fWell, either way, we need 'em.\nListen up, guys! Go restore the earth!"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_100_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "I've got an awful feeling about this.\nWe should look around the colony."
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_100_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whatcha worried about there, guy?\nWe leave the rest to the bugs,\nand I go look for my spirit.\nEasy as pie, yeah?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_100_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "Oh, right. I forgot that's the\nwhole reason you came here."
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "Is this the Lord of the Earth!?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, and it ain't listening to\na lick of what we have to say!"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "I don't think it's happy\nabout being woken up."
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Those frogs don't get when\nthey've crossed the dang line."
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_010_040": {
+    "speaker": "EarthMaster",
+    "text": "GRAAAAAAGH!"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "Wait! Where are you going!?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What do animals do when they first\nwake up from hibernation there, guy?"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "...Oh! They EAT!"
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. And judging by how big this fella is,\nI'm guessing it's about to horf down every\ndang colony it can find."
+  },
+  "SUB_W08_EVAR_MIDO_FUNGUS_200_CUT_020_040": {
+    "speaker": "Mole",
+    "text": "WHAT!?"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "Is the Lord of the Earth going\nto attack this place!?"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Can't say for sure,\nbut my gut says yep."
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "The ground's shaking! It's moving!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Here it comes!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Stand your ground, guy!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Run, fella!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "It's running away!?"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Actually, I think it's headed\nfor another colony."
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "Well, at least we kept\nthis one safe for now."
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "C'mon! We gotta get after it!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "No! The colony!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oof. That ain't good."
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_020_020": {
+    "speaker": "Mole",
+    "text": "Now it's heading somewhere else!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Probably gonna attack another colony.\nWe better get after it!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_030_000": {
+    "speaker": "Mole",
+    "text": "Is the Lord of the Earth going\nto attack this place!?"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_030_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Can't say for sure,\nbut my gut says yep."
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_030_020": {
+    "speaker": "Mole",
+    "text": "The ground's shaking! It's moving!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_040_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like it wasn't headed\nthis way after all."
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_040_010": {
+    "speaker": "Mole",
+    "text": "Did it get another colony!?"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_000_CUT_040_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "C'mon! We gotta get after it!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_100_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "Is this where your spirits are?"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_100_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Should be something here,\nbut this feels a little...different."
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_100_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "So are these spirits of yours\nsupposed to make the ground shake?\nBecause that's absolutely happening!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_100_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh...maybe?"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_100_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "It's a Bashar!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_100_CUT_000_050": {
+    "speaker": "Mole",
+    "text": "It's a Naml!"
+  },
+  "SUB_W08_EVAR_MIDO_BOSS_MOVE_100_CUT_000_060": {
+    "speaker": "Mole",
+    "text": "It's a Dufda!"
+  },
+  "SUB_W08_GIMK_MIDO_DIRT13_010_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like this worm was hiding\nin that mound of earth."
+  },
+  "SUB_W08_GIMK_MIDO_DIRT13_010_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "Yeah, sometimes you find goodies when you dig\nholes. At first you might think that something's\ngotten in your way, but worms often hide out\nin places like that, so I personally welcome it."
+  },
+  "SUB_W08_GIMK_MIDO_DIRT13_010_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So we should dig and check out\nwhatever we find, I guess?"
+  },
+  "SUB_W08_GIMK_MIDO_DIRT13_010_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Considering we found one already,\nI'm guessing you may just be my\nlucky charm, Tsunanori."
+  },
+  "SUB_W08_GIMK_MIDO_DIRT13_010_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, probably just a coincidence."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Bashar colony."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So what kind of folks\nare the Bashar, anyway?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Primitive and violent to the very last.\nNothing good ever comes of dealing with\nthem, but let's hope this ends up being\nthe exception that proves the rule.\fAnyway, there's gotta be a clue here,\nso let's get to looking."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good idea. Let's sneak inside\nand keep it quiet."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_040": {
+    "speaker": "Human_A",
+    "text": "The worms are gone.\nThe Creator is angry."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_050": {
+    "speaker": "Human_B",
+    "text": "We need offerings. More offerings."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_060": {
+    "speaker": "Human_A",
+    "text": "We do not have enough offerings.\nI will find an offering for the Creator."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "'The Creator'?\nYou folks got gods in this world?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "No idea—but if I had to guess, I'd say\nthey thought one up for themselves."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_090": {
+    "speaker": "Human_A",
+    "text": "I found an offering!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_000_100": {
+    "speaker": "Human_B",
+    "text": "I found an offering!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "They came at us outta nowhere!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, these folks\nreally are violent."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_010_020": {
+    "speaker": "Human_A",
+    "text": "They are strong. So strong.\nWe cannot give them as offerings."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_010_030": {
+    "speaker": "Human_B",
+    "text": "I will search for an offering.\nI will search elsewhere."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "Where are they going!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "They all said something about finding more\nofferings and wandered off. Real bunch of\nweirdos there, if you ask me."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_000_CUT_010_060": {
+    "speaker": "Mole",
+    "text": "Offerings... Oh no! They're gonna\nattack the other colonies!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_000": {
+    "speaker": "Human",
+    "text": "You return. What do you want?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "We can't find any more worms, and we're\ngetting desperate. So if you know anything\nabout this, please tell us!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_020": {
+    "speaker": "Human",
+    "text": "The earth is dirty now.\nThe earth is bad."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_030": {
+    "speaker": "Human",
+    "text": "The earth's life is the world's life.\nIt is hopeless."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "So there's <i>nothing</i> we can do!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And you folks are all\nokay with this?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_060": {
+    "speaker": "Human",
+    "text": "We pray to the Creator.\nWe pray every day."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that's real good for you, but what\nabout everybody else? I mean, there's\ngotta be some way to solve this deal."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_080": {
+    "speaker": "Human",
+    "text": "There is one way.\nBut it will anger the Creator."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't care. Spill it."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_000_100": {
+    "speaker": "Human",
+    "text": "No. The Creator hates the weak.\nWe must test your strength. "
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck was up with that, guy!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_010": {
+    "speaker": "Human",
+    "text": "You are strong. The Creator likes you.\nWe can tell you now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Then stop with the chatter\nand let's get at 'er.\nWhat's the plan here?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_030": {
+    "speaker": "Human",
+    "text": "Wake up the Lord of the Earth."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "The Lord of the Earth?\nWho's that?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_050": {
+    "speaker": "Human",
+    "text": "The Lord of the Earth eats foul dirt.\nThe Lord of the Earth makes clean dirt.\nThe Lord of the Earth serves the Creator.\nThe Lord of the Earth made the world with the Creator."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_060": {
+    "speaker": "Human",
+    "text": "The Lord of the Earth is asleep.\nIt has been sleeping long and long."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So we wake up this Lord of the Earth\nand use its powers to purify the dirt?\nSuppose that might work, maybe..."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_080": {
+    "speaker": "Human",
+    "text": "Yes. But it is dangerous.\nThe Lord of the Earth is violent.\nThe Lord of the Earth listens only to the Creator."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_090": {
+    "speaker": "Human",
+    "text": "It is bad to wake it up\nof your own will."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, that's nothin' to worry about.\nWe'll take care of it, right, Tope?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_110": {
+    "speaker": "Mole",
+    "text": "Uh... S-sure! Of course! Tsunanori and\nme'll take care of this, no sweat!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So where's this Lord of the Earth sleep,\nand how do we wake it up?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_130": {
+    "speaker": "Human",
+    "text": "Remove the keystones. There are two.\nThis will wake the Lord of the Earth."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_140": {
+    "speaker": "Mole",
+    "text": "And where are they?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_150": {
+    "speaker": "Human",
+    "text": "There and there. One in each place.\nThey are big stones. With pictures."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_020_CUT_010_160": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds good. We'll be back."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Naml colony."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So what are these Naml folks like?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "They are extremely prolific—by which\nI mean there's a heck of a lot of 'em.\fThey're not hostile, exactly, but they sure\nain't friendly either. I wouldn't be here if\nI didn't have to be, so let's start looking\nfor clues."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good idea. Let's sneak inside\nand keep it quiet."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_040": {
+    "speaker": "Insect_A",
+    "text": "The colony's food reserves are low.\nWe must go harvesting."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_050": {
+    "speaker": "Insect_B",
+    "text": "Are the seedbeds ready?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_060": {
+    "speaker": "Insect_A",
+    "text": "We are going to procure\nsome of them right now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Seedbeds? You got any idea\nwhat they're talking about?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "Oh, who even knows."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_090": {
+    "speaker": "Insect_A",
+    "text": "I found the perfect seedbeds\nright here."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_000_100": {
+    "speaker": "Insect_B",
+    "text": "Come. Come this way."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "They came at us outta nowhere!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's no end to 'em."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_010_020": {
+    "speaker": "Insect_A",
+    "text": "We cannot use them as seedbeds."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_010_030": {
+    "speaker": "Insect_B",
+    "text": "Let us search elsewhere."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "Where are they going!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, they all said something about\nfinding seedbeds and wandered off."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_000_CUT_010_060": {
+    "speaker": "Mole",
+    "text": "Seedbeds... Oh no! They're gonna\nattack the other colonies!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Dufda colony."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So what are these Dufda folks like?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Honestly, I don't know 'em very well—\nrarely even seen 'em, in fact. All I\nknow is I wanna find a clue and get\nout of here as quick as we can."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good idea. Let's sneak inside\nand keep it quiet."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_040": {
+    "speaker": "Frog_A",
+    "text": "So bored! Nothing to do!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_050": {
+    "speaker": "Frog_B",
+    "text": "Why don't we go to the toys?\nWe could play with them."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_060": {
+    "speaker": "Frog_A",
+    "text": "Oooh, that could be fun.\nBut we need feed for the toys.\nLet's go find some."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Feed? You got any idea\nwhat they're talking about?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_080": {
+    "speaker": "Mole",
+    "text": "Oh, who even knows."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_090": {
+    "speaker": "Frog_A",
+    "text": "Found some feed!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_000_100": {
+    "speaker": "Frog_B",
+    "text": "Don't take this personally!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "They came at us outta nowhere!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "These fellas creep me the heck out."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_010_020": {
+    "speaker": "Frog_A",
+    "text": "They are not good for feed."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_010_030": {
+    "speaker": "Frog_B",
+    "text": "Boo! Killjoys! Boo!\nLet's look somewhere else."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "Where are they going!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, they all said something about\nlooking for feed and wandered off."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_000_CUT_010_060": {
+    "speaker": "Mole",
+    "text": "Feed... Oh no! They're gonna\nattack the other colonies!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I got no idea why the Bashar are rounding\nup all the folks they kidnapped,\nbut I don't like it one bit."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_000_010": {
+    "speaker": "Human_A",
+    "text": "We've brought our offerings, O Creator!\nFeast well! Feast well!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_005_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, hey. What're the Bashar\ndoing over there?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_005_010": {
+    "speaker": "Human_A",
+    "text": "We were unable to gather offerings."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_005_020": {
+    "speaker": "Human_B",
+    "text": "Then you will be our offering."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_005_030": {
+    "speaker": "Human_A",
+    "text": "What? Don't touch me!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sweet cripes! All the folks they\ncaptured turned into mushrooms!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_010_010": {
+    "speaker": "Mole",
+    "text": "Actually, those are carnivorous mushrooms.\nLooks like the mushrooms got them all.\nThere's no saving them now."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_010_020": {
+    "speaker": "Human_B",
+    "text": "You saw our ceremony. This is bad.\nWe must kill everyone who saw."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_015_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa! That Bashar turned into a mushroom!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "What are you people doing!?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_020_010": {
+    "speaker": "Human_A",
+    "text": "The Creator created this world.\nThe Creator gives us worms."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_020_020": {
+    "speaker": "Human_B",
+    "text": "But the Creator has been angry lately.\nSo we must give offerings."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_020_030": {
+    "speaker": "Mole",
+    "text": "Offerings? Those are just a bunch of\ncarnivorous mushrooms, you dirtbags! "
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_020_040": {
+    "speaker": "Human_A",
+    "text": "Do not go against the Creator."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_020_050": {
+    "speaker": "Mole",
+    "text": "Ugh! Shut up and get the heck\noutta here already!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "We still don't know why the\nworms are disappearing."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got any ideas there, bud?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_000_CUT_020_080": {
+    "speaker": "Mole",
+    "text": "Much as I hate to say it, we won't find the\nanswers we need among the Kuld; we have\nto venture out and talk to other species."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I got no idea why the Naml are rounding\nup all the folks they kidnapped,\nbut I don't like it one bit."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_000_010": {
+    "speaker": "Insect_A",
+    "text": "You will become seedbeds.\nSeedbeds for our food."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_005_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, hey. What're the Naml\ndoing over there?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_005_010": {
+    "speaker": "Insect_A",
+    "text": "Sadly, we met with an obstacle and\nwere unable to secure our seedbeds. "
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_005_020": {
+    "speaker": "Insect_B",
+    "text": "This responsibility lies with you.\nYou will be our seedbed."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_005_030": {
+    "speaker": "Insect_A",
+    "text": "What? No! Stop!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sweet cripes! All the folks they\ncaptured turned into mushrooms!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_010_010": {
+    "speaker": "Mole",
+    "text": "Actually, those are carnivorous mushrooms.\nLooks like the mushrooms got them all.\nThere's no saving them now."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_010_020": {
+    "speaker": "Insect_B",
+    "text": "You have learned the secret to our\nfood supply. This cannot stand."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_015_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa! That Naml turned into a mushroom!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "What are you people doing!?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_020_010": {
+    "speaker": "Insect_A",
+    "text": "Securing our food. These mushrooms\ncreate an infinite supply of seedbeds\nfrom other species."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_020_020": {
+    "speaker": "Insect_B",
+    "text": "These mushrooms will allow us\nto live forever."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_020_030": {
+    "speaker": "Mole",
+    "text": "You're <i>sacrificing</i> people!?\nWhat a sick joke!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_020_040": {
+    "speaker": "Insect_A",
+    "text": "That is all life is."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_020_050": {
+    "speaker": "Mole",
+    "text": "Ugh! Shut up and get the heck\noutta here already!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "We still don't know why the\nworms are disappearing."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got any ideas there, bud?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_100_CUT_020_080": {
+    "speaker": "Mole",
+    "text": "Much as I hate to say it, we won't find the\nanswers we need among the Kuld; we have\nto venture out and talk to other species."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I got no idea why the Dufda are rounding\nup all the folks they kidnapped,\nbut I don't like it one bit."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_000_010": {
+    "speaker": "Frog_A",
+    "text": "Hooray for all of you!\nYou get to be feed for our toys!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_005_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, hey. What're the Dufda\ndoing over there?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_005_010": {
+    "speaker": "Frog_A",
+    "text": "Sorryyy! Stuff came up and\nI couldn't bring anyone."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_005_020": {
+    "speaker": "Frog_B",
+    "text": "Then YOU'LL be the feed!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_005_030": {
+    "speaker": "Frog_A",
+    "text": "What!? Nooo!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sweet cripes! All the folks they\ncaptured turned into mushrooms!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_010_010": {
+    "speaker": "Mole",
+    "text": "Actually, those are carnivorous mushrooms.\nLooks like the mushrooms got them all.\nThere's no saving them now."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_010_020": {
+    "speaker": "Frog_B",
+    "text": "You saw our toys, didn't you?\nWe cannot allow this!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_015_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa! That Dufda turned\ninto a mushroom!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_020_000": {
+    "speaker": "Mole",
+    "text": "What are you people doing!?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_020_010": {
+    "speaker": "Frog_A",
+    "text": "These mushrooms are our toys.\nAren't they cool?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_020_020": {
+    "speaker": "Frog_B",
+    "text": "They turn regular people into mushroom\npeople. Isn't that awesome?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_020_030": {
+    "speaker": "Mole",
+    "text": "Stop playing with lives,\nyou pimply tadpoles!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_020_040": {
+    "speaker": "Frog_A",
+    "text": "That's manure and you know it!\nThis world is eat or be eaten!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_020_050": {
+    "speaker": "Mole",
+    "text": "Ugh! Shut up and get the heck\noutta here already!"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_020_060": {
+    "speaker": "Mole",
+    "text": "We still don't know why the\nworms are disappearing."
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got any ideas there, bud?"
+  },
+  "SUB_W08_EVAR_MIDO_CORDYCEPS01_200_CUT_020_080": {
+    "speaker": "Mole",
+    "text": "Much as I hate to say it, we won't find the\nanswers we need among the Kuld; we have\nto venture out and talk to other species."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Naml colony. They're extremely\nprolific—by which I mean there's a heck\nof a lot of 'em. Not hostile, exactly,\nbut they sure ain't friendly either."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I don't think we're gonna be waltzing\ninto this place like it's no big deal.\nYou really think those Bashar are here?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Don't know—and don't really care what\nhappens to the Naml, if I'm honest.\nBut we need leads, so let's get in there."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_030": {
+    "speaker": "Insect",
+    "text": "Bashar! What do you want, you scoundrel?\nStep any closer and you will pay!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_040": {
+    "speaker": "Human",
+    "text": "An offering! An offering!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_050": {
+    "speaker": "Insect",
+    "text": "What are you doing!? Stop this!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He's being attacked!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'll wait it out."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not on my watch!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "They took him away."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_100": {
+    "speaker": "Insect",
+    "text": "Are you here to attack us?\nI will not hold back if you are."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Nope. We just have a question."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_120": {
+    "speaker": "Insect",
+    "text": "I have nothing to say to you.\nLeave now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, we're not gonna get\nthese folks to say boo."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_010_000": {
+    "speaker": "Human",
+    "text": "Foiled again. They are strong."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You okay there, guy?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_010_020": {
+    "speaker": "Insect",
+    "text": "How pitiful to be saved by a Kuld."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_010_030": {
+    "speaker": "Mole",
+    "text": "That's how you act when someone saves\nyour hide? See if I help you again!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_010_040": {
+    "speaker": "Insect",
+    "text": "I did not ask for your help.\nYou did this without permission."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, let's bring things down a notch.\nTope's trying to learn where all the\nworms went. Got any ideas there, guy?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_010_060": {
+    "speaker": "Insect",
+    "text": "I have nothing to say to you.\nGo away."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_010_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time.\nLet's go, Tsunanori."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Naml colony. They're extremely\nprolific—by which I mean there's a heck\nof a lot of 'em. Not hostile, exactly,\nbut they sure ain't friendly either."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I don't think we're gonna be waltzing\ninto this place like it's no big deal.\nYou really think those Dufda are here?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "Don't know—and don't really care what\nhappens to the Naml, if I'm honest.\nBut we need leads, so let's get in there."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_030": {
+    "speaker": "Insect",
+    "text": "What does a Dufda want from this place?\nStep any closer and you will pay!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_040": {
+    "speaker": "Frog",
+    "text": "Found feed! Found feed!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_050": {
+    "speaker": "Insect",
+    "text": "What are you doing!? Stop!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He's being attacked!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'll wait it out."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not on my watch!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "They took him away."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_100": {
+    "speaker": "Insect",
+    "text": "Are you here to attack us?\nI will not hold back if you are."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Nope. We just have a question."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_120": {
+    "speaker": "Insect",
+    "text": "I have nothing to say to you.\nLeave now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, we're not gonna get\nthese folks to say boo."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_010_000": {
+    "speaker": "Frog",
+    "text": "Uuugh. Fiiine.\nForget this."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You okay there, fella?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_010_020": {
+    "speaker": "Insect",
+    "text": "How pitiful to be saved by a Kuld."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_010_030": {
+    "speaker": "Mole",
+    "text": "That's how you act when someone saves\nyour hide? See if I help you again!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_010_040": {
+    "speaker": "Insect",
+    "text": "I didn't ask for your help!\nYou just went ahead and gave it!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, let's bring things down a notch.\nTope's trying to learn where all the\nworms went. Got any ideas there, guy?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_010_060": {
+    "speaker": "Insect",
+    "text": "I have nothing to say to you.\nGo away!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_210_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time.\nLet's go, Tsunanori."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_000": {
+    "speaker": "Insect",
+    "text": "I told you, I have nothing to say.\nNow begone from this place."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "We can't find any more worms, and we're\ngetting desperate. So if you know anything\nabout the cause, please tell us!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_020": {
+    "speaker": "Insect",
+    "text": "There is no cause. The clean earth has\nmerely become sullied over the passing\nof many, many years."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_030": {
+    "speaker": "Insect",
+    "text": "That is what earth is. The coming end\nof the earth's life span means the world's\nend is upon us as well. This is our fate."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "So we can't do <i>anything</i>\nto fix it?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You folks seem pretty dang calm\nconsidering the world's about to end."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_060": {
+    "speaker": "Insect",
+    "text": "We Naml have prepared for this situation by\nbuilding up our food stores for a long time.\nEven if there are no more worms to capture,\nwe will endure."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that's real good for you, but what\nabout everybody else? I mean, there's\ngotta be some way to solve this deal."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_080": {
+    "speaker": "Insect",
+    "text": "You are sharp. You are clever.\fYes, there is a way—but it comes with\ngreat risk. So instead of engaging with\nthat risk, we chose a more definitive way\nof extending our life span."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_090": {
+    "speaker": "Mole",
+    "text": "So you don't care if everyone else dies\nas long as the Naml are all right?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_100": {
+    "speaker": "Insect",
+    "text": "Yet we are not the only ones doing so.\nNo, your words are not something\nI care to hear from a selfish Kuld."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look, bud. Just tell us how to\ngo fix this thing and we'll get\noutta your feelers."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_120": {
+    "speaker": "Mole",
+    "text": "Hold on, Tsunanori!\nI never agreed to this."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And what about your family, guy?\nDon't you wanna save them?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_140": {
+    "speaker": "Mole",
+    "text": "*grumble*"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_000_150": {
+    "speaker": "Insect",
+    "text": "This is not something we can leave\nto the weak. So before I tell you,\nI must test your strength."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck was up with that, guy!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_010": {
+    "speaker": "Insect",
+    "text": "Well done. I suppose it is safe\nto leave this in your hands."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "About dang time. Now tell us\nwhat we gotta do already."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_030": {
+    "speaker": "Insect",
+    "text": "You must wake the\nLord of the Earth."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "The Lord of the Earth? Who's that?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_050": {
+    "speaker": "Insect",
+    "text": "In the beginning, this world was naught but\nsullied soil. But the Lord of the Earth\npurified the land, creating the chance for\nlife to blossom."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_060": {
+    "speaker": "Insect",
+    "text": "Once it was finished, it is said the\nLord of the Earth slipped into a\nlong slumber in a place unknown."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So we wake up this Lord of the Earth\nand use its powers to purify the dirt?\nThat doesn't sound so tough."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_080": {
+    "speaker": "Insect",
+    "text": "Even if you manage to rouse the Lord of the Earth,\nit does not mean it will purify the earth as we\nhope. Indeed, it may go beyond purification and\nend up destroying the entire world."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_090": {
+    "speaker": "Insect",
+    "text": "Do you understand the risk that comes with\nwaking a being that has the power to remake\nthe world completely?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, that's nothin' to worry about.\nWe'll take care of it, right, Tope?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_110": {
+    "speaker": "Mole",
+    "text": "Uh... S-sure! Of course! Tsunanori and\nme'll take care of this, no sweat!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So where's this Lord of the Earth sleep,\nand how do we wake it up?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_130": {
+    "speaker": "Insect",
+    "text": "I know not where it is, but legends claim the\nLord of the Earth is held in slumber by two\nkeystones of opposing powers. If you move\nthem, it might cause the Lord to awaken."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_140": {
+    "speaker": "Mole",
+    "text": "So where are they?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_150": {
+    "speaker": "Insect",
+    "text": "Each stone rests not far from this colony.\nLook for enormous rocks carved with reliefs\nof creatures unknown."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_INSECT_020_CUT_010_160": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds good. We'll be back."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Dufda colony. Honestly,\nI don't know 'em very well—rarely\never seen 'em, in fact."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You think those Bashar are here?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "No idea. But we need leads,\nso let's sneak on in."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_030": {
+    "speaker": "Frog",
+    "text": "Ew! Get out of here, Bashar!\nYou're gross!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_040": {
+    "speaker": "Human",
+    "text": "An offering! An offering!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_050": {
+    "speaker": "Frog",
+    "text": "What are you doing!? Stop!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He's being attacked!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'll wait it out."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not on my watch!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "They took him away."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_100": {
+    "speaker": "Frog",
+    "text": "You're one of the Bashar's friends,\naren't you!? Go away! Go away!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Nope. We just have a question."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_120": {
+    "speaker": "Frog",
+    "text": "GO AWAAAAAAY!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, they're clearly not interested\nin talking to us."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_010_000": {
+    "speaker": "Human",
+    "text": "Foiled again. They are strong."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You okay there, fella?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_010_020": {
+    "speaker": "Frog",
+    "text": "You saved me! Thank youuu!\nSo, uh, what did you need again?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tope here's looking into why he can't\ncatch any more worms. You happen to\nknow anything about that, maybe?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_010_040": {
+    "speaker": "Frog",
+    "text": "Hmm... I might know,\nbut I also might not!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Which is it?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_010_060": {
+    "speaker": "Frog",
+    "text": "Um... I dunno!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_010_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time.\nLet's go, Tsunanori."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "This is the Dufda colony. Honestly,\nI don't know 'em very well—rarely\never seen 'em, in fact."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You think those Naml are here?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "No idea. But we need leads,\nso let's sneak on in."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_030": {
+    "speaker": "Frog",
+    "text": "Go away, Naml! You're gross!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_040": {
+    "speaker": "Insect",
+    "text": "I have found a seedbed.\nTime to secure it."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_050": {
+    "speaker": "Frog",
+    "text": "What are you doing!? Stop!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He's being attacked!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'll wait it out."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not on my watch!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "They took him away."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_100": {
+    "speaker": "Frog",
+    "text": "You're one of the Naml's friends,\naren't you!? Go away! Go away!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "Nope. We just have a question."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_120": {
+    "speaker": "Frog",
+    "text": "GO AWAAAAAAY!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, they're clearly not much\nfor being helpful."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_010_000": {
+    "speaker": "Insect",
+    "text": "An interference.\nWe must retreat for now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You okay there, fella?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_010_020": {
+    "speaker": "Frog",
+    "text": "You saved me! Thank youuu!\nSo, uh, what did you need again?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tope here's looking into why he can't\ncatch any more worms. You happen to\nknow anything about that, maybe?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_010_040": {
+    "speaker": "Frog",
+    "text": "Hmm... I might know,\nbut I also might not!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Which is it?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_010_060": {
+    "speaker": "Frog",
+    "text": "Um... I dunno!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_110_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time.\nLet's go, Tsunanori."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_000": {
+    "speaker": "Frog",
+    "text": "You need something again?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "We can't find any more worms, and we're\ngetting desperate. So if you know anything\nabout the cause, please tell us!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_020": {
+    "speaker": "Frog",
+    "text": "Nothing's causing it!\nThe soil is just dirty now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_030": {
+    "speaker": "Frog",
+    "text": "It's the end of the earth's life,\nwhich means it's the end of the world's\nlife—and you can't do much about that!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_040": {
+    "speaker": "Mole",
+    "text": "So we can't do <i>anything</i>\nto fix it?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You folks seem pretty dang calm\nconsidering the world's about to end."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_060": {
+    "speaker": "Frog",
+    "text": "We Dufda take the days as they come.\nNow we'll just have fun until the end!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that's real good for you, but what\nabout everybody else? I mean, there's\ngotta be some way to solve this deal."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_080": {
+    "speaker": "Frog",
+    "text": "Heh! You're funny, pal!\fAnd yeah, there's a way.\nI just don't care about it."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Bud, I'm startin' to get\nreal impatient here."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_000_100": {
+    "speaker": "Frog",
+    "text": "Fiiine, I'll tell you...\nAFTER you play with me!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck was up with that, guy!?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_010": {
+    "speaker": "Frog",
+    "text": "Wee hee hee! What fun!\nSo fine, I'll tell you."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "About dang time. Now tell us\nwhat we gotta do already."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_030": {
+    "speaker": "Frog",
+    "text": "You have to wake up the\nLord of the Earth."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_040": {
+    "speaker": "Mole",
+    "text": "The Lord of the Earth? Who's that?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_050": {
+    "speaker": "Frog",
+    "text": "Some weirdo who eats the dirty earth and\nmakes it all clean. I heard he cleaned the\nwhole world once back when it was all filthy."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_060": {
+    "speaker": "Frog",
+    "text": "But he's sleeping now! Zzz!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So we wake up this Lord of the Earth\nand use its powers to purify the dirt?\nSeems easy enough."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_080": {
+    "speaker": "Frog",
+    "text": "Yeah, except I don't think he's\nreally gonna listen to you."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_090": {
+    "speaker": "Frog",
+    "text": "In fact, he'll probably get all mad\nthat you woke him and go hog wild!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, that's nothin' to worry about.\nWe'll take care of it, right, Tope?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_110": {
+    "speaker": "Mole",
+    "text": "Uh... S-sure! Of course! Tsunanori and\nme'll take care of this, no sweat!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So where's this Lord of the Earth sleep,\nand how do we wake it up?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_130": {
+    "speaker": "Frog",
+    "text": "Dunno! Oh, but I hear it's snoozing 'cause\nof two keystones with opposing powers?\nSo you probably wanna try moving those."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_140": {
+    "speaker": "Mole",
+    "text": "And where are these keystones?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_150": {
+    "speaker": "Frog",
+    "text": "There's one in one place, and another in...\nUmmmm... Some other place. They're big rocks\nwith carvings of weird creatures on 'em."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_FROG_020_CUT_010_160": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds good. We'll be back."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "That's the Bashar colony—a people primitive\nand violent to the last. Nothing good ever\ncomes of dealing with them."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You think those Naml are here?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "No idea. But we need leads,\nso let's sneak on in."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_030": {
+    "speaker": "Human",
+    "text": "Stay out! Go away!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_040": {
+    "speaker": "Insect",
+    "text": "I have found a seedbed.\nTime to secure it."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_050": {
+    "speaker": "Human",
+    "text": "No! Stop this!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He's being attacked!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'll wait it out."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not on my watch!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "They took him away."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_100": {
+    "speaker": "Human",
+    "text": "Get out! Get out!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "We just have a question abou—"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_120": {
+    "speaker": "Human",
+    "text": "Get out! Get out!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, they're clearly not much\nfor being helpful."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_010_000": {
+    "speaker": "Insect",
+    "text": "An interference.\nWe must retreat for now."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You okay there, fella?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_010_020": {
+    "speaker": "Human",
+    "text": "You saved me! You are amazing!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tope here's looking into why he can't\ncatch any more worms. You happen to\nknow anything about that, maybe?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_010_040": {
+    "speaker": "Human",
+    "text": "We can't catch worms.\nWe are in trouble."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Right, exactly. But do you know\nanything MORE than that?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_010_060": {
+    "speaker": "Human",
+    "text": "We are in trouble!\nWe are in trouble!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_110_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time.\nLet's go, Tsunanori."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "That's the Bashar colony—a people primitive\nand violent to the last. Nothing good ever\ncomes of dealing with them."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You think those Dufda are here?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_020": {
+    "speaker": "Mole",
+    "text": "No idea. But we need leads,\nso let's sneak on in."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_030": {
+    "speaker": "Human",
+    "text": "Stay out! Go away!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_040": {
+    "speaker": "Frog",
+    "text": "I'm gonna make you feed\nfor my toys!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_050": {
+    "speaker": "Human",
+    "text": "No! Stop this!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He's being attacked!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'll wait it out."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not on my watch!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "They took him away."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_100": {
+    "speaker": "Human",
+    "text": "Get out! Get out!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_110": {
+    "speaker": "Mole",
+    "text": "We just have a question abou—"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_120": {
+    "speaker": "Human",
+    "text": "Get out! Get out!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, they're clearly not much\nfor being helpful."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_010_000": {
+    "speaker": "Frog",
+    "text": "Ugh, stop bothering me!\nFiiine, I'll go."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You okay there, fella?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_010_020": {
+    "speaker": "Human",
+    "text": "You saved me! You are amazing!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tope here's looking into why he can't\ncatch any more worms. You happen to\nknow anything about that, maybe?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_010_040": {
+    "speaker": "Human",
+    "text": "We can't catch worms.\nWe are in trouble."
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_010_050": {
+    "speaker": "Mole",
+    "text": "Right, exactly. But do you know\nanything MORE than that?"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_010_060": {
+    "speaker": "Human",
+    "text": "We are in trouble!\nWe are in trouble!"
+  },
+  "SUB_W08_EVAR_MIDO_BURROW_HUMAN_210_CUT_010_070": {
+    "speaker": "Mole",
+    "text": "This is a waste of time.\nLet's go, Tsunanori."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_1ST_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So this is a keystone, I guess?\nLet's move the sucker."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_1ST_000_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "...Nope. Too heavy.\nWon't even budge."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_1ST_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We nudged it! Okay, guy,\nlet's give this everything we got!"
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_1ST_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Wait, look at the keystone!\nThe relief is moving!"
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_1ST_000_CUT_010_000": {
+    "speaker": "Mole",
+    "text": "Well, that was a surprise.\nWhat WAS that?"
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_1ST_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, probably be bad if any random fella\ncould walk up and give the thing a shove.\nI bet there's all sorts of tricks here\nto stop folks from doing that."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_1ST_000_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "So we have to do it again?\nUgh. Talk about annoying."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_2ND_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All right, let's move this puppy."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_2ND_000_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "I bet those reliefs are\ngonna attack us again."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_2ND_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What're you muttering about, guy?\nC'mon, gimme a hand here."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_2ND_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "Yeah, yeah. I'm coming."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_2ND_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good stuff. Just a little more."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_2ND_000_CUT_000_050": {
+    "speaker": "Mole",
+    "text": "Look! They're moving again!"
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_2ND_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, we moved both keystones.\nThis should be enough to wake up\nthis Lord of the Earth fella."
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_2ND_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa! Was that an earthquake!?"
+  },
+  "SUB_W08_EVAR_MIDO_FOSSIL_2ND_000_CUT_010_020": {
+    "speaker": "Mole",
+    "text": "Came from over there. Let's go!"
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_000": {
+    "speaker": "Mole",
+    "text": "Wait. Someone's coming."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_010": {
+    "speaker": "Mole",
+    "text": "Who are you!?"
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_020": {
+    "speaker": "Mole_OldMan",
+    "text": "You have many stones."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_030": {
+    "speaker": "Mole",
+    "text": "What're you talking about?"
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_040": {
+    "speaker": "Mole_OldMan",
+    "text": "Your stones. So many stones.\nWill you give them to me?"
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What, you mean these? Fella, we just\npicked these up off the ground."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_060": {
+    "speaker": "Mole_OldMan",
+    "text": "Perhaps they are mere stones to you,\nbut they are necessities to me."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh, sure? Well, go ahead and\ntake 'em if you're that into it."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_080": {
+    "speaker": "Mole_OldMan",
+    "text": "Ah, what fine stones! Please accept\nthis small token of my thanks."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_090": {
+    "speaker": "Mole_OldMan",
+    "text": "Farewell."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_000_CUT_000_100": {
+    "speaker": "Mole",
+    "text": "What a weirdo."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_010_CUT_000_000": {
+    "speaker": "Mole_OldMan",
+    "text": "You have collected more stones.\nGive them to me."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorta curious why you need\nall these stones, old timer."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_010_CUT_000_020": {
+    "speaker": "Mole_OldMan",
+    "text": "You will find out soon enough."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_010_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...Right."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_010_CUT_000_040": {
+    "speaker": "Mole_OldMan",
+    "text": "Farewell."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_020_CUT_000_000": {
+    "speaker": "Mole_OldMan",
+    "text": "You have collected more stones.\nGive them to me."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_020_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All yours, old timer."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_020_CUT_000_020": {
+    "speaker": "Mole_OldMan",
+    "text": "So many... Perhaps this is enough."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_020_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I'll be. He went and put all\nthose stones we collected into a\nlittle pile. Sorta nice, actually."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_020_CUT_000_040": {
+    "speaker": "Mole_OldMan",
+    "text": "I have been exposed to the elements\nthis whole time, but now I can\nfinally rest in peace."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_020_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not really following you there,\nold timer."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_020_CUT_000_060": {
+    "speaker": "Mole_OldMan",
+    "text": "You have been a great help to me.\nBut now, farewell."
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_020_CUT_000_070": {
+    "speaker": "Mole",
+    "text": "What the heck!? He's gone!"
+  },
+  "SUB_W08_EVAR_MIDO_REWARD_STONE_020_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, cripes. I think that old timer\njust went and built his own grave.\nRest well there, guy."
+  }
+}

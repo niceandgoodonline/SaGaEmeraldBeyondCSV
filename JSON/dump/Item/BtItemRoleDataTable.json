@@ -1,0 +1,581 @@
+{
+    "SOUL_MUSASHI": {
+        "name": "\u30e0\u30b5\u30b7"
+    }, 
+    "SOUL_TOKI": {
+        "name": "\u30b9\u30af\u30cd"
+    }, 
+    "SOUL_KOMACHI": {
+        "name": "\u30b3\u30de\u30c1"
+    }, 
+    "SOUL_BOU": {
+        "name": "\u30dc\u30a6"
+    }, 
+    "SOUL_M0000": {
+        "name": "\u30a4\u30ef\u30af\u30a4"
+    }, 
+    "SOUL_M0001": {
+        "name": "\u30de\u30c3\u30c9\u30d5\u30a1\u30fc\u30b8"
+    }, 
+    "SOUL_M0001_B": {
+        "name": "\u5927\u5730\u306e\u4ed9\u4eba"
+    }, 
+    "SOUL_M0002": {
+        "name": "\u68ee\u306e\u4ed9\u4eba"
+    }, 
+    "SOUL_M0003": {
+        "name": "\u96f7\u55b0\u3044"
+    }, 
+    "SOUL_M0010": {
+        "name": "\u4eba\u72fc"
+    }, 
+    "SOUL_M0011": {
+        "name": "\u30cf\u30c6\u30a3"
+    }, 
+    "SOUL_M0012": {
+        "name": "\u30b9\u30b3\u30eb"
+    }, 
+    "SOUL_M0020": {
+        "name": "\u30a4\u30ce\u30b7\u30b7\u6b66\u8005"
+    }, 
+    "SOUL_M0021": {
+        "name": "\u30a4\u30ce\u30b7\u30b7\u731f\u5175"
+    }, 
+    "SOUL_M0022": {
+        "name": "\u30a4\u30ce\u30b7\u30b7\u7a81\u6483\u5175"
+    }, 
+    "SOUL_M0100": {
+        "name": "\u30bb\u30d5\u30a3\u30e9\u30b9"
+    }, 
+    "SOUL_M0101": {
+        "name": "\u30a4\u30b7\u30e5\u30bf\u30eb"
+    }, 
+    "SOUL_M0102": {
+        "name": "\u30d0\u30eb\u30ad\u30ea\u30fc"
+    }, 
+    "SOUL_M0110": {
+        "name": "\u30a2\u30fc\u30b9\u30c9\u30e9\u30b4\u30f3"
+    }, 
+    "SOUL_M0111": {
+        "name": "\u30ec\u30c3\u30c9\u30c9\u30e9\u30b4\u30f3"
+    }, 
+    "SOUL_M0112": {
+        "name": "\u30d6\u30eb\u30fc\u30c9\u30e9\u30b4\u30f3"
+    }, 
+    "SOUL_M0113": {
+        "name": "\u30b0\u30ea\u30fc\u30f3\u30c9\u30e9\u30b4\u30f3"
+    }, 
+    "SOUL_M0114": {
+        "name": "\u30b4\u30fc\u30eb\u30c9\u30c9\u30e9\u30b4\u30f3"
+    }, 
+    "SOUL_M0115": {
+        "name": "\u30db\u30ef\u30a4\u30c8\u30c9\u30e9\u30b4\u30f3"
+    }, 
+    "SOUL_M0120": {
+        "name": "\u30d7\u30fc\u30ab"
+    }, 
+    "SOUL_M0121": {
+        "name": "\u30e9\u30b9\u30ab\u30eb"
+    }, 
+    "SOUL_M0123": {
+        "name": "\u30d7\u30e9\u30f3\u30af\u30b9\u30bf\u30fc"
+    }, 
+    "SOUL_M0210": {
+        "name": "\u30b8\u30e3\u30f3\u30dc\u30fb\u30e2\u30af"
+    }, 
+    "SOUL_M0211": {
+        "name": "\u30e4\u30f3\u30b0\u30fb\u30e2\u30af"
+    }, 
+    "SOUL_M0212": {
+        "name": "\u30a8\u30eb\u30c0\u30fc\u30fb\u30e2\u30af"
+    }, 
+    "SOUL_M0220": {
+        "name": "\u30b5\u30f3\u30d5\u30e9\u30ef\u30fc"
+    }, 
+    "SOUL_M0221": {
+        "name": "\u30a2\u30de\u30e9\u30f3\u30b9"
+    }, 
+    "SOUL_M0222": {
+        "name": "\u30a2\u30b9\u30dd\u30c7\u30ed\u30b9"
+    }, 
+    "SOUL_M0230": {
+        "name": "\u30a2\u30eb\u30e9\u30a6\u30cd"
+    }, 
+    "SOUL_M0231": {
+        "name": "\u30ac\u30eb\u30b2\u30f3\u30e1\u30f3\u30e9\u30a4\u30f3"
+    }, 
+    "SOUL_M0232": {
+        "name": "\u30e9\u30f4\u30ed\u30de\u30f3\u30b5\u30fc"
+    }, 
+    "SOUL_M0300": {
+        "name": "\u30f4\u30a1\u30a4\u30d1\u30fc"
+    }, 
+    "SOUL_M0301": {
+        "name": "\u30d0\u30b8\u30ea\u30b9\u30af"
+    }, 
+    "SOUL_M0302": {
+        "name": "\u30e9\u30c3\u30c8\u30e9\u30fc"
+    }, 
+    "SOUL_M0310": {
+        "name": "\u30d0\u30fc\u30b2\u30b9\u30c8"
+    }, 
+    "SOUL_M0311": {
+        "name": "\u30d1\u30c3\u30c9\u30d5\u30c3\u30c8"
+    }, 
+    "SOUL_M0312": {
+        "name": "\u30d5\u30a1\u30ea\u30cb\u30b7\u30e5"
+    }, 
+    "SOUL_M0320": {
+        "name": "\u30ea\u30b6\u30fc\u30c9\u30d5\u30a9\u30fc\u30c8\u30ec\u30b9"
+    }, 
+    "SOUL_M0321": {
+        "name": "\u30ea\u30b6\u30fc\u30c9\u30bf\u30a4\u30e9\u30f3\u30c8"
+    }, 
+    "SOUL_M0322": {
+        "name": "\u30ab\u30fc\u30cb\u30dc\u30a2"
+    }, 
+    "SOUL_M0400": {
+        "name": "\u30ab\u30a8\u30eb\u6226\u58eb"
+    }, 
+    "SOUL_M0401": {
+        "name": "\u30ab\u30a8\u30eb\u95d8\u58eb"
+    }, 
+    "SOUL_M0401_B": {
+        "name": "\u5de8\u9be8\u306e\u50d5"
+    }, 
+    "SOUL_M0402": {
+        "name": "\u8d64\u30ac\u30a8\u30eb"
+    }, 
+    "SOUL_M0403": {
+        "name": "\u30a8\u30c9\u30de"
+    }, 
+    "SOUL_M0403_B": {
+        "name": "\u30ab\u30a8\u30eb\u5947\u8853\u5e2b"
+    }, 
+    "SOUL_M0410": {
+        "name": "\u30af\u30e9\u30fc\u30b1\u30f3"
+    }, 
+    "SOUL_M0411": {
+        "name": "\u30f4\u30a7\u30eb\u30c7\u30a3\u30b0\u30ea"
+    }, 
+    "SOUL_M0412": {
+        "name": "\u30b9\u30ab\u30a6\u30c6\u30f3\u30bf\u30af\u30e9\u30fc"
+    }, 
+    "SOUL_M0413": {
+        "name": "\u30ac\u30eb\u30ac\u30f3\u30c1\u30e5\u30a2"
+    }, 
+    "SOUL_M0420": {
+        "name": "\u30d6\u30eb\u30fc\u30c9\u30ec\u30a4\u30af"
+    }, 
+    "SOUL_M0421": {
+        "name": "\u30da\u30c8\u30ed\u30c9\u30ec\u30a4\u30af"
+    }, 
+    "SOUL_M0422": {
+        "name": "\u30b1\u30eb\u30d4\u30fc"
+    }, 
+    "SOUL_M0423": {
+        "name": "\u30b3\u30ab\u30c8\u30ea\u30b9"
+    }, 
+    "SOUL_M0500": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30d0\u30a6\u30e0"
+    }, 
+    "SOUL_M0501": {
+        "name": "\u30bc\u30e9\u30c1\u30ca\u30b9\u30de\u30bf\u30fc"
+    }, 
+    "SOUL_M0502": {
+        "name": "\u30de\u30a4\u30b3\u30c6\u30a3\u30c3\u30af\u30d7\u30ec\u30c7\u30bf\u30fc"
+    }, 
+    "SOUL_M0510": {
+        "name": "\u30b5\u30a4\u30b3\u30aa\u30fc\u30ac"
+    }, 
+    "SOUL_M0511": {
+        "name": "\u30e1\u30eb\u30c8\u30c0\u30a6\u30ca\u30fc"
+    }, 
+    "SOUL_M0512": {
+        "name": "\u30dd\u30a4\u30be\u30f3\u30de\u30b9\u30bf\u30fc"
+    }, 
+    "SOUL_M0520": {
+        "name": "\u306f\u306b\u308f"
+    }, 
+    "SOUL_M0521": {
+        "name": "\u4e18\u306f\u306b\u308f"
+    }, 
+    "SOUL_M0522": {
+        "name": "\u77f3\u4e0a\u306f\u306b\u308f"
+    }, 
+    "SOUL_M0700": {
+        "name": "\u30b4\u30ed\u30b4\u30ed\u30e0\u30b7"
+    }, 
+    "SOUL_M0701": {
+        "name": "\u30b0\u30e9\u30b9\u30de\u30c3\u30b7\u30e3\u30fc"
+    }, 
+    "SOUL_M0702": {
+        "name": "\u30ef\u30a4\u30eb\u30c9\u30a8\u30dc\u30cb\u30fc"
+    }, 
+    "SOUL_M0703": {
+        "name": "\u30d3\u30fc\u30b9\u30c8\u30a4\u30fc\u30bf\u30fc"
+    }, 
+    "SOUL_M0710": {
+        "name": "\u30a2\u30c8\u30e9\u30ca\u30fc\u30c8"
+    }, 
+    "SOUL_M0711": {
+        "name": "\u30d6\u30e9\u30c3\u30c9\u30a2\u30e9\u30af\u30cb\u30c0"
+    }, 
+    "SOUL_M0712": {
+        "name": "\u30ed\u30fc\u30c9\u30a2\u30e9\u30af\u30cb\u30c0"
+    }, 
+    "SOUL_M0720": {
+        "name": "\u30de\u30a4\u30ca\u30fc\u30a2\u30f3\u30c8"
+    }, 
+    "SOUL_M0721": {
+        "name": "\u30e1\u30b8\u30e3\u30fc\u30a2\u30f3\u30c8"
+    }, 
+    "SOUL_M0722": {
+        "name": "\u30ab\u30a4\u30b6\u30fc\u30a2\u30f3\u30c8"
+    }, 
+    "SOUL_M0800": {
+        "name": "\u30d0\u30eb\u30c1\u30e3\u30fc"
+    }, 
+    "SOUL_M0801": {
+        "name": "\u30bd\u30f3\u30b0\u30d0\u30fc\u30c9"
+    }, 
+    "SOUL_M0802": {
+        "name": "\u30b9\u30ab\u30a4\u30c0\u30a4\u30d0\u30fc"
+    }, 
+    "SOUL_M0803": {
+        "name": "\u30b9\u30ab\u30a4\u30bf\u30f3\u30ab\u30fc"
+    }, 
+    "SOUL_M0810": {
+        "name": "\u30d5\u30e9\u30a4\u30de\u30f3\u30d0"
+    }, 
+    "SOUL_M0811": {
+        "name": "\u30e4\u30f3\u30b0\u30fb\u30b5\u30f3"
+    }, 
+    "SOUL_M0812": {
+        "name": "\u30af\u30ec\u30a4\u30b8\u30fc\u30fb\u30b5\u30f3"
+    }, 
+    "SOUL_M0820": {
+        "name": "\u30c7\u30b3\u30d0\u30c3\u30c8"
+    }, 
+    "SOUL_M0820_B": {
+        "name": "\u98db\u9f20"
+    }, 
+    "SOUL_M0821": {
+        "name": "\u30a2\u30c3\u30b7\u30e5\u30d3\u30fc\u30af"
+    }, 
+    "SOUL_M0822": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u30d0\u30c3\u30c8"
+    }, 
+    "SOUL_M0900": {
+        "name": "\u30a8\u30ec\u30e1\u30f3\u30bf\u30eb\u91d1"
+    }, 
+    "SOUL_M0900_B": {
+        "name": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30b9\u30c8\u30fc\u30f3"
+    }, 
+    "SOUL_M0901": {
+        "name": "\u30a8\u30ec\u30e1\u30f3\u30bf\u30eb\u6c34"
+    }, 
+    "SOUL_M0902": {
+        "name": "\u30a8\u30ec\u30e1\u30f3\u30bf\u30eb\u706b"
+    }, 
+    "SOUL_M0903": {
+        "name": "\u30a8\u30ec\u30e1\u30f3\u30bf\u30eb\u6728"
+    }, 
+    "SOUL_M0904": {
+        "name": "\u30a8\u30ec\u30e1\u30f3\u30bf\u30eb\u571f"
+    }, 
+    "SOUL_M0904_B": {
+        "name": "\u30d5\u30ed\u30fc\u30c8"
+    }, 
+    "SOUL_M1000": {
+        "name": "\u30d1\u30ef\u30fc\u30c7\u30d3\u30eb"
+    }, 
+    "SOUL_M1001": {
+        "name": "\u30a4\u30d5\u30ea\u30fc\u30c8"
+    }, 
+    "SOUL_M1002": {
+        "name": "\u30ab\u30eb\u30b3\u30d6\u30ea\u30fc\u30ca"
+    }, 
+    "SOUL_M1003": {
+        "name": "\u30de\u30e9\u30b3\u30fc\u30c0"
+    }, 
+    "SOUL_M1004": {
+        "name": "\u30a2\u30ea\u30a8\u30eb"
+    }, 
+    "SOUL_M1010": {
+        "name": "\u30ea\u30ea\u30b9"
+    }, 
+    "SOUL_M1011": {
+        "name": "\u30b5\u30ad\u30e5\u30d0\u30b9"
+    }, 
+    "SOUL_M1012": {
+        "name": "\u30cf\u30eb\u30d4\u30e5\u30a4\u30a2"
+    }, 
+    "SOUL_M1020": {
+        "name": "\u30b9\u30b1\u30eb\u30c8\u30f3"
+    }, 
+    "SOUL_M1021": {
+        "name": "\u30b9\u30ab\u30eb\u30c0\u30f3\u30b5\u30fc"
+    }, 
+    "SOUL_M1022": {
+        "name": "\u30f4\u30a1\u30cb\u30bf\u30b9"
+    }, 
+    "SOUL_M2000": {
+        "name": "\u30af\u30b8\u30e9(\u767d)"
+    }, 
+    "SOUL_M2001": {
+        "name": "\u30af\u30b8\u30e9(\u9ed2)"
+    }, 
+    "SOUL_M2002": {
+        "name": "\u30af\u30b8\u30e9(\u8d64)"
+    }, 
+    "SOUL_M2003": {
+        "name": "\u30af\u30b8\u30e9(\u7dd1)"
+    }, 
+    "SOUL_M2004": {
+        "name": "\u30af\u30b8\u30e9(\u9ec4)"
+    }, 
+    "SOUL_M2100": {
+        "name": "\u6709\u7ffc\u4eba\u9762\u7363"
+    }, 
+    "SOUL_M2101": {
+        "name": "\u6709\u7ffc\u4eba\u9762\u73632"
+    }, 
+    "SOUL_M2102": {
+        "name": "\u6709\u7ffc\u4eba\u9762\u73633"
+    }, 
+    "SOUL_M2103": {
+        "name": "\u6709\u7ffc\u4eba\u9762\u73634"
+    }, 
+    "SOUL_M2200": {
+        "name": "\u30e0\u30b5\u30b5\u30d31"
+    }, 
+    "SOUL_M2201": {
+        "name": "\u30e0\u30b5\u30b5\u30d32"
+    }, 
+    "SOUL_M2202": {
+        "name": "\u30e0\u30b5\u30b5\u30d33"
+    }, 
+    "SOUL_M2203": {
+        "name": "\u30e0\u30b5\u30b5\u30d34"
+    }, 
+    "SOUL_M2204": {
+        "name": "\u30e0\u30b5\u30b5\u30d35"
+    }, 
+    "SOUL_E_C01_TUTORIAL_MONSTER": {
+        "name": "\u30ef\u30f3\u30c0\u30ea\u30f3\u30b0\u30fb\u30e2\u30af"
+    }, 
+    "SOUL_E_C01_DOOREVIL_A": {
+        "name": "\u6249\u306e\u90aa\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_MOKU_E": {
+        "name": "\u6728\u306e\u5c0f\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_MOKU_N": {
+        "name": "\u6728\u306e\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_MOKU_H": {
+        "name": "\u6728\u306e\u5927\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_MOKU": {
+        "name": "\u6728\u306e\u795e\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_KA_E": {
+        "name": "\u706b\u306e\u5c0f\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_KA_N": {
+        "name": "\u706b\u306e\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_KA_H": {
+        "name": "\u706b\u306e\u5927\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_KA": {
+        "name": "\u706b\u306e\u795e\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_DO_E": {
+        "name": "\u571f\u306e\u5c0f\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_DO_N": {
+        "name": "\u571f\u306e\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_DO_H": {
+        "name": "\u571f\u306e\u5927\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_DO": {
+        "name": "\u571f\u306e\u795e\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_KIN_E": {
+        "name": "\u91d1\u306e\u5c0f\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_KIN_N": {
+        "name": "\u91d1\u306e\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_KIN_H": {
+        "name": "\u91d1\u306e\u5927\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_KIN": {
+        "name": "\u91d1\u306e\u795e\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_SUI_E": {
+        "name": "\u6c34\u306e\u5c0f\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_SUI_N": {
+        "name": "\u6c34\u306e\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_SUI_H": {
+        "name": "\u6c34\u306e\u5927\u7cbe\u970a"
+    }, 
+    "SOUL_E_BOSS_ELEMENT_SUI": {
+        "name": "\u6c34\u306e\u795e\u970a"
+    }, 
+    "SOUL_E_W01_AMYA_MYSTERY_00_A": {
+        "name": "\u30bf\u30c4\u30ce\u30aa\u30c8\u30b7\u30b4"
+    }, 
+    "SOUL_E_W01_GHOSTTOWN_00_A": {
+        "name": "\u30c8\u30ec\u30f3\u30c8"
+    }, 
+    "SOUL_E_W01_KOMAINU_00_A": {
+        "name": "\u72db\u72ac"
+    }, 
+    "SOUL_E_W01_YAMAGUMO_00_A": {
+        "name": "\u5c71\u8718\u86db"
+    }, 
+    "SOUL_E_W01_LAKE_00_A": {
+        "name": "\u5de8\u5927\u30ab\u30a8\u30eb"
+    }, 
+    "SOUL_E_W01_BOSS_KORYU_A": {
+        "name": "\u9ec4\u9f8d"
+    }, 
+    "SOUL_E_W02_CELESTIAL_WING_GUARDIAN": {
+        "name": "\u9b54\u5973\u306e\u5b88\u8b77\u8005"
+    }, 
+    "SOUL_E_W02_CRYSTAL_MONSTER": {
+        "name": "\u7d50\u6676\u306e\u9b54\u7269"
+    }, 
+    "SOUL_E_W02_CALAMITY": {
+        "name": "\u707d\u5384"
+    }, 
+    "SOUL_E_W03_BOSS_KING_A": {
+        "name": "\u95c7\u306e\u738b"
+    }, 
+    "SOUL_E_W04_PEDRO_00_A": {
+        "name": "\u30da\u30c9\u30ed"
+    }, 
+    "SOUL_E_W04_AZURE_00_B": {
+        "name": "\u8b77\u308a\u4eba\u306e\u9b42"
+    }, 
+    "SOUL_E_W04_BOSS_BALTASAR_A": {
+        "name": "\u30d0\u30eb\u30bf\u30b5\u30fc\u30eb"
+    }, 
+    "SOUL_E_W04_MASTER_00_A": {
+        "name": "\u5148\u751f"
+    }, 
+    "SOUL_E_W04_SEAGOD_A": {
+        "name": "\u6d77\u795e"
+    }, 
+    "SOUL_E_W04_LIBERATOR_A": {
+        "name": "\u89e3\u653e\u8005"
+    }, 
+    "SOUL_E_W06_EVILCELL_A": {
+        "name": "\u60aa\u6027\u7a2e"
+    }, 
+    "SOUL_E_W06_EVILCELL_B": {
+        "name": "\u8d85\u60aa\u6027\u7a2e"
+    }, 
+    "SOUL_E_W06_SAFED_A": {
+        "name": "\u795e\u5b98\u30b5\u30d5\u30a3\u30fc\u30c9"
+    }, 
+    "SOUL_E_W06_VALKOINEN_A": {
+        "name": "\u795e\u5b98\u9577\u30f4\u30a1\u30eb\u30b3\u30cd\u30a4\u30f3"
+    }, 
+    "SOUL_E_W06_CANCER_A": {
+        "name": "\u30ab\u30f3\uff1d\u30b1\u30eb\u30a5"
+    }, 
+    "SOUL_E_W06_CANCER_B": {
+        "name": "\u30ab\u30f3\uff1d\u30b1\u30eb\u30a5"
+    }, 
+    "SOUL_E_W06_PARASITE_A": {
+        "name": "\u5bc4\u751f\u7a2e"
+    }, 
+    "SOUL_E_W06_SUPERPARASITE_A": {
+        "name": "\u8d85\u5bc4\u751f\u7a2e"
+    }, 
+    "SOUL_E_W07_EVAR_MISSION232_00_A": {
+        "name": "\u7d2b\u306e\u5de8\u7363"
+    }, 
+    "SOUL_E_W07_EVAR_MISSION401_00_A": {
+        "name": "\u30ec\u30c3\u30c9\u30fb\u30b5\u30f3"
+    }, 
+    "SOUL_E_W08_M0722_A": {
+        "name": "\u30ca\u30e0\u30eb\u65cf"
+    }, 
+    "SOUL_E_W08_M0403_A": {
+        "name": "\u30c9\u30d5\u30bf\u30fc\u65cf"
+    }, 
+    "SOUL_E_W08_FOSSIL_A": {
+        "name": "\u967d\u306e\u93ae\u5b88\u795e"
+    }, 
+    "SOUL_E_W08_FOSSIL_B": {
+        "name": "\u9670\u306e\u93ae\u5b88\u795e"
+    }, 
+    "SOUL_E_W08_SOILMASTER_M0220_A": {
+        "name": "\u571f\u306e\u30cc\u30b7"
+    }, 
+    "SOUL_E_W08_SOILMASTER_M2004_A": {
+        "name": "\u571f\u306e\u30cc\u30b7"
+    }, 
+    "SOUL_E_W10_MANUSCRIPT_MONSTER_00_A": {
+        "name": "\u53e4\u6587\u66f8\u306e\u9b54\u7269"
+    }, 
+    "SOUL_E_W10_CURSE_KING_00_A": {
+        "name": "\u546a\u3044\u306e\u738b"
+    }, 
+    "SOUL_E_W10_DRIFTING_LIZARD_00_A": {
+        "name": "\u6f02\u6d41\u8725\u8734"
+    }, 
+    "SOUL_E_W10_TSUCHINOKO_00_A": {
+        "name": "\u30c4\u30c1\u30ce\u30b3"
+    }, 
+    "SOUL_E_W10_MONOFFID_00_A": {
+        "name": "\u30e2\u30ce\u30d5\u30a3\u30c9"
+    }, 
+    "SOUL_E_W10_NENKIN_00_A": {
+        "name": "\u7c98\u83cc"
+    }, 
+    "SOUL_E_W10_MUTANT303_00_A": {
+        "name": "\u5909\u7570\u7a2e303\u53f7"
+    }, 
+    "SOUL_E_W10_QWEEN_00_A": {
+        "name": "\u5909\u7570\u7a2e303\u53f7\u7dd1\u5973\u738b"
+    }, 
+    "SOUL_E_W10_QWEEN_00_B": {
+        "name": "\u5909\u7570\u7a2e303\u53f7\u9ec4\u5973\u738b"
+    }, 
+    "SOUL_E_W10_QWEEN_00_C": {
+        "name": "\u5909\u7570\u7a2e303\u53f7\u8d64\u5973\u738b"
+    }, 
+    "SOUL_E_W10_SPRIGGAN_00_A": {
+        "name": "\u30b9\u30d7\u30ea\u30ac\u30f3"
+    }, 
+    "SOUL_E_W12_BOOK_KEEPER_00_A": {
+        "name": "\u672c\u306e\u5b88\u8b77\u7363"
+    }, 
+    "SOUL_E_W12_M0120_A": {
+        "name": "\u30d0\u30d5\u30fc\u30f3"
+    }, 
+    "SOUL_E_W12_BOSS_GOD_00_A": {
+        "name": "\u30a2\u30a4\u30a2\u30f3\u30fb\u30e1\u30a4\u30c7\u30f3"
+    }, 
+    "SOUL_E_W15_BOSS_ALESSA_A": {
+        "name": "\u30a2\u30ec\u30b5"
+    }, 
+    "SOUL_E_W15_BOSS_CEO_C": {
+        "name": "\u793e\u9577"
+    }, 
+    "SOUL_E_W19_M1011_A": {
+        "name": "\u5973\u738b\u8702"
+    }, 
+    "ROLE_129": {
+        "name": "\u30b5\u30e9\u30de\u30f3\u30c0\u30fc"
+    }
+}

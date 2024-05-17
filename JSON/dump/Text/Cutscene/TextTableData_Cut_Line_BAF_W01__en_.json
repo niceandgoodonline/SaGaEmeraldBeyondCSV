@@ -1,0 +1,986 @@
+{
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Can't believe the door to this\nworld was just some big ol' rock!\nWhose big idea was it to leave\nthis here anyway?"
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Hold on. I know this place.\nA stone door means this world..."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wait, you know where we are?"
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's just head outside\nand find out for sure."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I knew it! This is Miyako City in the East Islands!\nI can tell because of that tower over there;\nit's called Rakusuiro Tower."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "You been here before?"
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "In my teens, I spent a summer with some\nfriends of my parents in a nearby town\ncalled Shinko."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "To walk through that gate means\nyou are no ordinary people."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Funny way to say hi there, feller.\nWho are you?"
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_050": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Lend me your power, O mighty ones!\nIf you do not, I may be forced to deem\nyou my enemies."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "If you're looking to make allies here,\nyou are REALLY going about it badly."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_070": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "You will regret this."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Is everybody here like this? If so,\nI'm ready to turn around and leave."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "He's not from here—but he looks like the\nkind of person who might have something\nto do with the triangles."
+  },
+  "SUB_W01_WRLD_BOFO_INITIAL_000_CUT_010_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure does—which means I reckon\nwe're gonna run into him again."
+  },
+  "SUB_W01_WRLD_BOFO_BATTLE_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Watch out! Something's here!"
+  },
+  "SUB_W01_WRLD_BOFO_BATTLE_000_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yeee-haw! Got us a triangle!"
+  },
+  "SUB_W01_WRLD_BOFO_BATTLE_000_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "It was just like that man said—\nbut I still have a bad feeling."
+  },
+  "SUB_W01_WRLD_BOFO_BATTLE_000_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Aw, you're overthinkin' it, hon.\nTriangle's a triangle, after all!"
+  },
+  "SUB_W01_WRLD_BOFO_BATTLE_000_CUT_020_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Tarnation! That there fiend went\nand transformed into a triangle!"
+  },
+  "SUB_W01_WRLD_BOFO_BATTLE_000_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you think it was from Quisstatium?"
+  },
+  "SUB_W01_WRLD_BOFO_BATTLE_000_CUT_020_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I ain't sure, but we got a triangle,\nwhich means our mission here in\nMiyako City is finished."
+  },
+  "SUB_W01_WRLD_BOFO_BATTLE_000_CUT_020_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Aw, c'mon! Let's sightsee\nfor just a little longer!"
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, ladies. You seen a strange fella\nwandering around these parts, maybe?\nHe's wearing a fancy suit, but tends to\nact real shady once he gets talking."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure have, pardner! Feller asked us if we\nwere gonna help him out or be his enemy."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pretty rude thing to tell somebody on their\nfirst day in a place. So what'd you say?\nYou gonna lend the power or be an enemy?"
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Honestly, the feller seemed dead-set on\nbein' a pain in the chaps from the moment\nhe saw us; we could tell he didn't have no\ninterest in bein' friends."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_031": {
+    "speaker": "Formina_Franklyn",
+    "text": "If you don't mind, who are you? You came\nright up to us and said hi, which probably\nmeans you're not a local."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, tough crowd. Y'know, not everyone in\nMiyako City is aloof, despite the reputation.\nBut yeah, my name's Tsunanori Mido, and I'm\na student over at Miyako Imperial University."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_041": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The shady fella is trying to destroy the barrier\nthat protects the city, and I'm working like\nheck to stop him. And I know this is all\ncoming out the blue, but—"
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "You sure this ain't some kind of interactive\nstreet performance, pardner? 'Cause you sound\nlike somebody who visits tourist traps to rope\nfolks into some kinda wacky hijinx."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I suppose it might come across like that,\nbut everything I said is the real deal.\nSure wish where was a way I could\nconvince you!"
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, we've got to get going.\nJust tell us the rest if we see\nyou again, all right?"
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Can't quite put a finger on why,\nbut I reckon I believed that feller."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "Me too. But it seemed like you were\ntaking him kind of lightly, so I decided\nto match your approach."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "So we got us a shady feller and a student,\nand we don't know which one of 'em has\nthe triangle we're lookin' for."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's about the long and short of it.\nWithout more information, it's going\nto be hard to know which one to trust."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "Y'know, both our grandpappies fought\nwith this country in the war."
+  },
+  "SUB_W01_EVAR_BOFO_MEETING_TSUNA_000_CUT_000_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "Uh... I don't think that has anything\nto do with anything, actually."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "So as you can see, this is a shopping mall!\nIt would been really fun to browse around\nif we weren't here on a job."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Shoot, look at all the people!\nI ain't never seen so many."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, if that suspicious man is here,\nit's not going to be easy to find him.\nShould we split up and look?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nuh-uh! Moment I take my eyes off you,\nyou'll be running into a store and maxin'\nout our credit card!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "There a convention of blond fellers\nin town or somethin'? We ain't never\ngonna find him at this rate!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I think lots of people here just dye their hair.\nBut you're right—wandering around like this\nisn't a very effective strategy."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_020": {
+    "speaker": "Naomi_Waka",
+    "text": "Wait, FORMINA? Is that you?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Naomi!? Why are you here!? Wait, did you\nget into Miyako Imperial University!?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_040": {
+    "speaker": "Naomi_Waka",
+    "text": "I work here—but what are YOU doing here?\nAre you on vacation or something?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Actually, we're here on business."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_060": {
+    "speaker": "Naomi_Waka",
+    "text": "Oh, hi there! I'm Naomi Waka."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Bonnie Blair—but you can call me Bonnie.\nI'm Formina's partner, and it's a right\npleasure to make your acquaintance."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_080": {
+    "speaker": "Naomi_Waka",
+    "text": "Her...partner? What kind of job\nare you in, Formina?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're police."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_100": {
+    "speaker": "Naomi_Waka",
+    "text": "Wait, YOU'RE a cop!? That's crazy!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_110": {
+    "speaker": "Naomi_Waka",
+    "text": "Oops! Guess I shouldn't yell that if\nyou're trying to be all undercover, huh?\fGosh, I'm just so happy to see you!\nI always sort of wanted to <i>be</i> you,\nyou know? "
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "Listen, darlin', we're chasin' after\na shady blond feller in a suit.\nYou seen anybody like that?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_130": {
+    "speaker": "Naomi_Waka",
+    "text": "Oh my gosh, your accent is the BEST!\nBut no, I haven't seen anyone like that."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_140": {
+    "speaker": "Naomi_Waka",
+    "text": "Oh, but there's an off-limits area on the roof\nof the mall. It's not locked, so weirdos tend\nto get up there from time to time."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_150": {
+    "speaker": "Formina_Franklyn",
+    "text": "Thanks, Naomi. You always gave me good luck,\nso I know you're on the money here, too."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_160": {
+    "speaker": "Naomi_Waka",
+    "text": "I hope we see each other again, Formina.\nGood luck with everything!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_001_170": {
+    "speaker": "Bonnie_Blair",
+    "text": "Catch you up the trail, hon."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "It doesn't appear you've come to offer\nyour cooperation. But if it's trouble you\nseek, I will not hold back."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We ain't lookin' to cause trouble, mister.\nWe just wanna see what you're up to."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_020": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Well then, let me show you."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Hear me, mascot! I intend to rend asunder\nthe evil-spirit talisman on this shrine!\fFor if I do not, calamity will come to\nthis shopping mall! You will be fired,\nand your family will face great hardship!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_040": {
+    "speaker": "Mascot_Mall",
+    "text": "I... I will obey..."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_050": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Now tear that talisman apart, mascot!\nSave those engaged in their custom at\nthis mall, as well as yourself and all\nyou hold dear!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Are them little bits'a paper really that\npowerful? If they are, you ought show 'em\nto us before you rip 'em to shreds."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_070": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "NOW you trouble me?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "We never said that—we simply want\nto examine those talismans."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_010_090": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Then see them for yourselves!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_020_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "What power you have! But very well.\nI will step aside for now—but know\nthat the real fight begins soon!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_020_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "And off he runs. Still, does that mean\nthem pieces of paper have the power\nto protect a whole durn buildin'?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_020_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I don't believe in spooky stuff like\nthat—and I'm surprised that you do."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_020_030": {
+    "speaker": "Mascot_Mall",
+    "text": "H-huh...? The heck's going on?\nWhat am I doing here?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_020_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Aw, the cute little mascot's awake!\nTell us what happened here, darlin'."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_020_050": {
+    "speaker": "Mascot_Mall",
+    "text": "I have no idea! Some customer just\nasked me about the shrine on the roof.\nI told him the area's off limits,\nand then everything went fuzzy. "
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_020_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a barrier shrine on the roof of\nSequoia Mall? Cripes, I KNEW that fella\nwas trying to destroy the barrier that\nprotects Miyako City. "
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_030_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Why in the world would the mall\nuse such an ugly mascot?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_030_001": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, I thought that mascot\nwas cute as a day-old colt!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_030_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look, forget the mascot. That shady fella\nis heading for another barrier, and I need\nyour help if I'm gonna stop him."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_030_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "......"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_030_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Where to next, hon?"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_030_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "I've heard about a spring that boosts\nyour luck in romance. Let's try that."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_030_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yeee-haw! I hope some old rich\noilman asks me out on a date!"
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_030_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's not romantic, Bonnie.\nLike, at ALL."
+  },
+  "SUB_W01_EVAR_BOFO_SEQUOIA_HOKORA_020_CUT_030_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Are these two even listening to me?"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is Sangen-in Temple. The water from the\nthree-pronged waterfall is famous; they say\nthat you'll have better luck in health,\nfinance, and love if you drink it."
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "I ain't the superstitious type, but I'm ready\nto believe anything that might make me rich\nand lucky in love, so let's go have a drink!"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_000_020": {
+    "speaker": "Tourist_Woman",
+    "text": "To think the waterfall wouldn't be flowing\nTODAY of all days! Someone really should\nhave put up a sign or something before\nI wasted my valuable time."
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Emergency, Formina! The well's run dry!\nI ain't never gonna find me a rich oilman\nat this rate!"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "The water comes from a spring at the\nheart of the temple, so something\nmust have happened to it."
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "I bet it's that shady feller—and I ain't\ngonna let him get away with it! C'mon!"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "I KNEW it was you!"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_010_010": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "You two again? Why are you here?\nIs this a skill of those with power?"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Stop talking nonsense and start givin'\nthe waterfall its water back!"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_010_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "You are outside of my jurisdiction,\npowerful ones—and I will not permit\nyou to get in my way!"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Curse you for standing\nin the way of my plans!"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I just saw that shady fella leave.\nWhat happened to Sangen-in Temple?"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "He tried to take away our romance, which made\nme madder'n a wet hen—but now the spring's\nback to normal and everything's peachy!\nAin't that great, Formina!?"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Are you two some kind of\nweird comedy duo, maybe?\fWell, whatever—you stopped that guy's plan,\nand since Sangen-in Temple is the water\nbarrier of the north, that means we kept\nanother one safe."
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's only a temporary victory;\nI fully expect that man to show\nup again and give us trouble."
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, we just got the south and west left,\nwhich gives me a fifty-fifty chance of\ntracking him down. It's appreciated, buds."
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey, what if that college feller is\nsupposed to be the product of your\nromantic luck, Formina?"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "He seems nice enough, but he just\ndoesn't...do it for me, you know?"
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yeah, me neither. I mean, he's cute enough,\nI reckon, but there ain't nothin' there."
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "I think that's because finding that man\nis more important to him than we are."
+  },
+  "SUB_W01_EVAR_BOFO_SANGENIN_SPRING_020_CUT_020_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Say, that's right! He didn't even\nbother askin' our names!"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Welcome to Rakusuiro Tower, the symbol of\nMiyako City. It's made of wood, but despite\nbeing in an earthquake-prone country, it's\nnever caught fire. Isn't that incredible?"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm more worried about that feller;\nI reckon we're gonna see him here."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm going to need you to specify\nwhich 'feller' you mean."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Ugh! This place is covered in spiderwebs!\nIs the selling point that people don't take\ncare of it—'cause if so, they oughta be\ndoin' a land-office business."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I see someone over there!\nHey, are you all right?"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Do you reckon the spiderwebs are\nalso because of that feller?"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_010": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "The magatama... Scattered...\nCracked and shattered... "
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "We fought so hard and loud,\nbut she hasn't even noticed us."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Kaoruko!? What's wrong!?"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "That other guy set up a trap.\nWe got rid of the spider, but..."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yup. I'll see what I can do."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_080": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "*gasp* Tsunanori? I was...\nThere was a man at Rakusuiro Tower..."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That guy's gonna pay for what\nhe put you through, bud."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "This must've been another barrier!\nDid we save it?"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_111": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "The barrier is safe; the man was unable to\ndestroy it himself, so he tried to get me to\ndo it. But you arrived, and somehow..."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_112": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Easy there, bud. Just save your breath.\fWell then, all we got left is the metal\nbarrier in the west, and I bet anythin'\nthat's where the shady fella's headed."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'll send Tomoko over\nto check on you, eh?"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So long, buds."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_140": {
+    "speaker": "Bonnie_Blair",
+    "text": "We still ain't got no clues about\nwhere to find a dang triangle!"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_141": {
+    "speaker": "Formina_Franklyn",
+    "text": "Does the last barrier also mean\nthis is our last chance?"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_142": {
+    "speaker": "Bonnie_Blair",
+    "text": "No choice but to mosey on\nover there and find out."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_020_CUT_020_150": {
+    "speaker": "Tomoko_Mido",
+    "text": "Kaoruko! You okay there?"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_120_CUT_020_140": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hoo-ee! Things around here are\nfinally gettin' exciting!"
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_120_CUT_020_141": {
+    "speaker": "Formina_Franklyn",
+    "text": "This stuff seemingly has nothing to do with\nthe triangle, but I still want to know what\nthat man is hoping to accomplish."
+  },
+  "SUB_W01_EVAR_BOFO_PAGODA_120_CUT_020_142": {
+    "speaker": "Bonnie_Blair",
+    "text": "Same here! I bet anything he's Kiss Stadium,\n'cause he stinks like a week-old cow pie\njust like the rest of them fellers!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_000_000": {
+    "speaker": "Ren_Tutuki",
+    "text": "You bring your Game Kid, Kentaro?"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_000_010": {
+    "speaker": "Kentarou_Yanagibi",
+    "text": "You bet, guy—and there's no way\nin heck I'm gonna lose this time!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Lots of kids playing in this park."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "They'd be in danger if somethin' happened,\nso we'd better track down the shady feller\nand make sure it don't!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_010_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Why do you harry me so?\nWhat do you hope to gain?"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We're just trying to find out if you\nknow anything about our triangles."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_010_020": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Ah, I see. Well them, this will be\na simple conversation—so long as\nyou are willing to work with me."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_010_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "This world is closed off from the rest of\nthe Conjoined Worlds, and I have been\nsent here to throw the doors wide by\ndestroying these bothersome barriers."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_010_040": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "And how are these barriers formed, you ask?\nWith triangles! Indeed, the triangle you seek\nis a part of the barrier—so if I destroy it,\nyou will earn the item you desire!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_010_050": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "The barrier of this land is a statue called a jizo.\nSee for yourselves—and then take the triangle\nwith your own hands! Aaah ha ha ha!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_010_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "This the jizo thing that\nfeller was on about?"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "There are definitely triangles\non its chest, but..."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yessir, this here's definitely a trap.\nThat feller wants us to go one and\nbreak the barrier ourselves. "
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "But doing that might be the only way\nfor us to get a triangle."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, you two beat me to it again!\nHow come regular travelers like you\ncan find the barriers so dang easy?"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "The blond man told us the\njizo statues are a barrier."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And did you decide to make some\nsorta deal with him, maybe?"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nope—but he did tell us that we'd get\na triangle we're looking for if we went\nand busted up this statue."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, it's true that each knot of the barrier\noften has something of equal power placed there—\nso I imagine these triangle deals you're looking\nfor are almost certainly hidden around here."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...But I won't let you\ndestroy the barrier!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "Whoa, hang on! Look, that blond man\nis nothing if not clever; I'm sure he has\nsome kind of backup plan in place in case\nwe decide not to play ball here.\fAnd that means we need to put an end\nto his scheme before we even think\nabout triangles."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yup. We got no interest in lettin'\nthat feller use and abuse us."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, now that the barriers are safe,\nthe only way to destroy it all would be..."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw, cripes! Gokakudo Temple! It's in the\ncenter of the barriers—and if it's destroyed,\nthe whole dang thing comes crashing down!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_140": {
+    "speaker": "Bonnie_Blair",
+    "text": "So why didn't that shady feller\njust do that to begin with?"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_020_CUT_020_150": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Probably 'cause it's real tough—but now he\ndoesn't have another choice, which means\nwe gotta get to Gokakudo Temple!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_120_CUT_020_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "He doesn't know we already have a triangle,\nwhich made it SO hard to not laugh. I mean,\ndid you HEAR how smug he sounded there!?"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_120_CUT_020_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "Hold on. I doubt that guy's the kind to place\nall his bets on us breaking this statue.\nHe's going to have some other kind of plan,\nand we'd better figure it out and stop it."
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_120_CUT_020_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "And since we got us a triangle,\nhe ain't got a prayer against us!"
+  },
+  "SUB_W01_EVAR_BOFO_JIZO_120_CUT_020_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Is that so? Now that all the barriers are safe..."
+  },
+  "SUB_W01_EVAR_BOFO_GOKAKUDO_020_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "This here building's older'n dirt;\nit'd be real easy to bring it down."
+  },
+  "SUB_W01_EVAR_BOFO_GOKAKUDO_020_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Breaking the barrier probably isn't the\nsame thing as destroying the building.\nThere must be something else he has to do."
+  },
+  "SUB_W01_EVAR_BOFO_GOKAKUDO_020_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Which is why the college feller\nsaid it was gonna be tough."
+  },
+  "SUB_W01_EVAR_BOFO_GOKAKUDO_020_CUT_000_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "I knew you would come, powerful ones—\nand for our final scene, I'm going to\nuse your power for my own purposes!"
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "What'n the heck is this!?"
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_010_010": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "This barrier has recognized you as alien.\nSo go on—fight to your heart's content.\nEither you die, or the barrier shatters.\nI emerge victorious either way."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm gonna smash this to bits!"
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Stop, bud! That'd just destroy the barrier!\nI know a way we can get the temple back\nto normal, so just help me out, yeah?"
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "What should we do!?"
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fight it. Damage it. Then as the\nseasons pass, I'll pray at each one\nand calm the temple down!"
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_020_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "This cannot be!"
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We saved the city AND we caught the\nshady fella! I can't thank you enough."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_020_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I reckon you had the clue to the triangle\nthis whole time, so maybe give us a better\nhint than you handed out back at the statue."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_020_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Very well. My research tells me that the\ntriangle once brought to this world was split\ninto four, and then transformed into four\nevil spirits that now roam this land.\fBring down those four spirits. If you do,\nthe triangle will reform into a single unit."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_020_031": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "I attempted to use your power to break\nthe barrier, but I failed. I will have\nto try something else next time."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_020_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Buds, you gotta take that completed triangle\ndeal outta Miyako City before it causes all\nkinds of havoc. You do that, and I'll take this\nguy away in the meantime."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_020_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "'Bring down some spirits,' he says.\nAs if killing ghosts is some simple thing."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_020_CUT_020_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "At least it's straightforward.\nNow let's get goin', hon!"
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_120_CUT_020_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "What the heck ARE you, anyway!?\nYou with them Kiss Stadium fellers?"
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_120_CUT_020_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "And what purpose would knowing that serve?\nYou simply need to obey the triangle."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_120_CUT_020_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Buds, you gotta take that completed triangle\ndeal outta Miyako City before it causes all\nkinds of havoc. You do that, and I'll take this\nguy away in the meantime."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_120_CUT_020_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Obey the triangle? Heck to that."
+  },
+  "SUB_W01_EVAR_BOFO_CONSPIRACY_120_CUT_020_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Havoc, is it? I must admit the triangles\ndo seem to have that power to them."
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "What happened to the blond feller?"
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I banished him from Miyako City."
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Okay, but if you only kicked him out,\nwon't he just try the same thing again?"
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, this is just how I do things.\nI mean, heck, if I were to kill the guy,\nsomeone else would just take his place."
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, if that's your decision, \nI suppose it ain't our place to comment.\nGuess this is farewell then, huh?"
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, you say that, but where do you think\nyou're going to go from here? This is a shrine,\nbuds, not Miyako Station."
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "We came from the stone door, so we're going\nto go home the exact same way. I mean,\nthat's how you banished that man, right?"
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I know this door leads to the Heavens,\nbut I couldn't tell you what kind of place\nthe Heavens are."
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Then why don't we take you there?"
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yep—and let's keep it that way."
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Two ladies inviting me on a journey?\nCripes, this has to be some kinda trap...\nbut I'm coming anyway!"
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_130": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, yee-haw!"
+  },
+  "SUB_W01_EVAR_BOFO_AMANO_IWATO_020_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, probably best not to stick my nose\nwhere it don't belong. See ya, buds."
+  },
+  "SUB_W01_EVAR_BOFO_MIYAKOTHEATRE_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Right huge building, this.\nThe heck is it?"
+  },
+  "SUB_W01_EVAR_BOFO_MIYAKOTHEATRE_000_CUT_000_010": {
+    "speaker": "Information_Staff",
+    "text": "This is Miyako Theater—guess you could\ncall it a fortress of art, maybe."
+  },
+  "SUB_W01_EVAR_BOFO_MIYAKOTHEATRE_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "No way! Emily Bryant's supposed\nto be singing here!"
+  },
+  "SUB_W01_EVAR_BOFO_MIYAKOTHEATRE_000_CUT_000_030": {
+    "speaker": "Information_Staff",
+    "text": "Yes indeed! Our schedule's jam-packed with\nfascinating performances, so please check\nour home page and pick up tickets to\nwhatever strikes your fancy!"
+  },
+  "SUB_W01_EVAR_BOFO_MIYAKOTHEATRE_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "I had no idea Emily toured overseas.\nSeems like she became a star overnight."
+  },
+  "SUB_W01_EVAR_BOFO_MIYAKOTHEATRE_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Who the heck is Emily Bryant?"
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is an elementary school."
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "So this is what elementary schools\nare like in the East Islands, eh?\nCute little thing, ain't it?"
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_020": {
+    "speaker": "Akane_Erisawa",
+    "text": "Welcome to Keihoku Elementary School.\nDo you have business here?"
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Whoops! We ain't here to cause trouble,\nI swear. We're just lookin' for somethin'\nand happened to be passin' by."
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_040": {
+    "speaker": "Akane_Erisawa",
+    "text": "Well then, why don't we ask the children\nif they've seen it? If there's anything\nparticular about—"
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_050": {
+    "speaker": "Kentarou_Yanagibi",
+    "text": "Miss Erisawa! Miss Erisawa! I...\nHuh? Sorry. Didn't see that you\nwere talkin' to someone."
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey there, little one! How's school?\nYou mindin' your Ps and Qs?"
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_070": {
+    "speaker": "Kentarou_Yanagibi",
+    "text": "Please don't talk to me like my mom, ma'am.\nAlso, studying isn't fun, but I like lunch!"
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_080": {
+    "speaker": "Akane_Erisawa",
+    "text": "Kentaro!"
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Him callin' me ma'am makes me feel ancient!\nI ain't really that old, am I?"
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "Kids are just honest."
+  },
+  "SUB_W01_EVAR_BOFO_EREMENTARY_SCHOOL_000_CUT_000_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "You ain't helpin'!"
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is a girls' school.\nI doubt the triangle will be here."
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_010": {
+    "speaker": "Sophia_Beniike",
+    "text": "Oh, those two looks like actresses.\nTomoko, you should go say hi!"
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_020": {
+    "speaker": "Tomoko_Mido",
+    "text": "What!? Why me!? Also, they look less like\nactresses and more like...suspicious."
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_030": {
+    "speaker": "Sophia_Beniike",
+    "text": "But you're all about suspicious!\nHeck, just look at your brother—\nthat fella's weird as all get out."
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_040": {
+    "speaker": "Tomoko_Mido",
+    "text": "What are you <i>talking</i> about!?"
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_050": {
+    "speaker": "Tomoko_Mido",
+    "text": "Umm... Hi there. Are you filming\na movie or something, maybe?"
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "A...movie?"
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_070": {
+    "speaker": "Tomoko_Mido",
+    "text": "You really stand out, so I was wondering\nif you were acting on a set nearby."
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Girl, you sure can lay it on thick!\nBut no, we're police."
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_090": {
+    "speaker": "Tomoko_Mido",
+    "text": "Police officers!? Heck, this really IS\nlike a movie! Sorry for bothering you!"
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_100": {
+    "speaker": "Tomoko_Mido",
+    "text": "Cripes, I was SUPER nervous."
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_110": {
+    "speaker": "Sophia_Beniike",
+    "text": "But you did it, Tomoko!"
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_120": {
+    "speaker": "Tomoko_Mido",
+    "text": "Okay, don't act like you\nhad no part in this!"
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "Ah, to be young again. Were things like\nthat when you were a student, Bonnie?"
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_140": {
+    "speaker": "Bonnie_Blair",
+    "text": "I didn't go to no fancy school with uniforms\nand all that; I was an old jeans and busted-up\nsneakers kind of gal all the way.\fBut the military gave me new clothes,\nas well as three hots and a cot—\nwhich is one of the reasons I love it."
+  },
+  "SUB_W01_EVAR_BOFO_GIRLS_SCHOOLLIFE_000_CUT_000_150": {
+    "speaker": "Formina_Franklyn",
+    "text": "I bet you'd be super cute\nin a school uniform."
+  },
+  "SUB_W01_LTXT_BOFO_RAKUHOKUSTA_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Rakuto Station is close to Sequoia Mall,\nand Rakunan Station is close to Keihoku\nElementary School. Where should we go?"
+  },
+  "SUB_W01_LTXT_BOFO_RAKUHOKUSTA_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Rakuto Station."
+  },
+  "SUB_W01_LTXT_BOFO_RAKUHOKUSTA_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Rakunan Station."
+  },
+  "SUB_W01_LTXT_BOFO_RAKUHOKUSTA_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Never mind."
+  },
+  "SUB_W01_LTXT_BOFO_RAKUTOSTA_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Rakuhoku Station is close to Miyako Imperial\nUniversity, and Rakunan Station is close to\nKeihoku Elementary School. Where should we go?"
+  },
+  "SUB_W01_LTXT_BOFO_RAKUTOSTA_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Rakuhoku Station."
+  },
+  "SUB_W01_LTXT_BOFO_RAKUTOSTA_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Rakunan Station."
+  },
+  "SUB_W01_LTXT_BOFO_RAKUTOSTA_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Never mind."
+  },
+  "SUB_W01_LTXT_BOFO_RAKUNANSTA_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Rakuhoku Station is close to Miyako Imperial\nUniversity, and Rakuto Station is close to\nSequoia Mall. Where should we go?"
+  },
+  "SUB_W01_LTXT_BOFO_RAKUNANSTA_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Rakuhoku Station."
+  },
+  "SUB_W01_LTXT_BOFO_RAKUNANSTA_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Rakuto Station."
+  },
+  "SUB_W01_LTXT_BOFO_RAKUNANSTA_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Never mind."
+  }
+}

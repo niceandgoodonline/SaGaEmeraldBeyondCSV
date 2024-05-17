@@ -1,0 +1,66 @@
+{
+  "W02_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Pulchra: The Witchdom"
+  },
+  "W02_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found Pulchra, a world inhabited by colorful witches, on the other side of the door. Their way of life is under threat from a calamity, and you must watch over this conflict."
+  },
+  "W02_EVAR_BOFO_LASTBATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "To End a Calamity"
+  },
+  "W02_EVAR_BOFO_LASTBATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Your final task as the Watcher awaits. Once you enter the Brilliant Tower, you won't be able to turn back."
+  },
+  "W02_EVAR_BOFO_LASTBATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  },
+  "W02_EVAR_BOFO_LASTBATTLE_900_TITLE": {
+    "speaker": "UI",
+    "text": "Following the Mysterious Voice"
+  },
+  "W02_EVAR_BOFO_LASTBATTLE_900_DETAIL": {
+    "speaker": "UI",
+    "text": "Should you really trust some mysterious voice over the Arch Witch?"
+  },
+  "W02_EVAR_BOFO_LASTBATTLE_900_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  },
+  "W02_EVAR_BOFO_RETURN_100_TITLE": {
+    "speaker": "UI",
+    "text": "Calamity Engulfs All"
+  },
+  "W02_EVAR_BOFO_RETURN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Calamity has engulfed all, leaving the Witchdom of Pulchra silent as the grave. There is nothing left for you in this world."
+  },
+  "W02_EVAR_BOFO_RETURN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  },
+  "W02_SCAN_BOFO_AMYA_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Watcher's Path"
+  },
+  "W02_SCAN_BOFO_AMYA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Pulchra contains many witches for you to watch over. Areas colored red are in particular danger."
+  },
+  "W02_EVAR_BOFO_TRIANGLE_WHITE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Guidance of the Triangles"
+  },
+  "W02_EVAR_BOFO_TRIANGLE_WHITE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone currently holds the triangle you seek—but who?"
+  },
+  "W02_EVAR_BOFO_TRIANGLE_WHITE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Proceed"
+  }
+}

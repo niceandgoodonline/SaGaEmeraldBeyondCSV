@@ -1,0 +1,314 @@
+{
+  "Tangram_ReleaseData_C01_DOOR_MIDO_FIRST_PORTAL": {
+    "speaker": "UI",
+    "text": "The Gate of Beginnings"
+  },
+  "Tangram_ReleaseData_C01_DOOR_MIDO_FIRST_PORTAL_Explanation": {
+    "speaker": "UI",
+    "text": "A mechanism for opening the door to the Heavens."
+  },
+  "Tangram_ReleaseData_W01Mirror": {
+    "speaker": "UI",
+    "text": "Shattered Mirror"
+  },
+  "Tangram_ReleaseData_W01Mirror_Explanation": {
+    "speaker": "UI",
+    "text": "A shattered mirror in Sequoia Mall. Ghosts are said to appear from it, because of course they do."
+  },
+  "Tangram_ReleaseData_W01Shikifuda": {
+    "speaker": "UI",
+    "text": "The Shrine's Talisman"
+  },
+  "Tangram_ReleaseData_W01Shikifuda_Explanation": {
+    "speaker": "UI",
+    "text": "A talisman thought to be the eastern barrier. It's kept in a shrine on the roof of Sequoia Mall."
+  },
+  "Tangram_ReleaseDara_W01Jizo": {
+    "speaker": "UI",
+    "text": "The Komainu Jizo's Design"
+  },
+  "Tangram_ReleaseDara_W01Jizo_Explanation": {
+    "speaker": "UI",
+    "text": "The design of the Jizo at Komainu Jizo Children's Park is thought to be the western barrier."
+  },
+  "Tangram_ReleaseData_W02StoryQuestYEL": {
+    "speaker": "UI",
+    "text": "Compass"
+  },
+  "Tangram_ReleaseData_W02StoryQuestYELExplanation": {
+    "speaker": "UI",
+    "text": "A compass that guides the Dusk Pinwheel."
+  },
+  "Tangram_ReleaseData_W02_MIRROR": {
+    "speaker": "UI",
+    "text": "The Mirror's Seal"
+  },
+  "Tangram_ReleaseData_W02_MIRROR_Explanation": {
+    "speaker": "UI",
+    "text": "A mirror located in an ancient castle. It was previously used as a way to keep someone—or something—sealed away."
+  },
+  "Tangram_ReleaseData_W02_EVAR_MIDO_AQUEDUCT_000": {
+    "speaker": "UI",
+    "text": "Black Witch's Canal"
+  },
+  "Tangram_ReleaseData_W02_EVAR_MIDO_AQUEDUCT_000_Explanation": {
+    "speaker": "UI",
+    "text": "A magical panel that controls the flow of the Black Witch's canal."
+  },
+  "Tangram_ReleaseData_W03Castle": {
+    "speaker": "UI",
+    "text": "The Castle's Seal"
+  },
+  "Tangram_ReleaseData_W03Castle_Explanation": {
+    "speaker": "UI",
+    "text": "A castle gate sealed by a desire most frightening."
+  },
+  "Tangram_ReleaseData_W10_CLT_01_010": {
+    "speaker": "UI",
+    "text": "Cursed Archive"
+  },
+  "Tangram_ReleaseData_W10_CLT_01_010_Explanation": {
+    "speaker": "UI",
+    "text": "Designed to resemble the fiend unleashed from the Cursed Archive."
+  },
+  "Tangram_ReleaseData_W12Castle_Gate": {
+    "speaker": "UI",
+    "text": "Ice Palace Gates"
+  },
+  "Tangram_ReleaseData_W12Castle_Gate_Explanation": {
+    "speaker": "UI",
+    "text": "A seal placed on the gates to the Ice Palace."
+  },
+  "Tangram_ReleaseData_W10_CLT_04_000": {
+    "speaker": "UI",
+    "text": "Necronomicon"
+  },
+  "Tangram_ReleaseData_W10_CLT_04_000_Explanation": {
+    "speaker": "UI",
+    "text": "A piece of the Necronomicon."
+  },
+  "Tangram_ReleaseData_W10_CLT_01_020": {
+    "speaker": "UI",
+    "text": "Cursed Archive"
+  },
+  "Tangram_ReleaseData_W10_CLT_01_020_Explanation": {
+    "speaker": "UI",
+    "text": "Designed to resemble the alien unleashed from the Cursed Archive."
+  },
+  "Tangram_ReleaseData_W10_CLT_01_030": {
+    "speaker": "UI",
+    "text": "Cursed Archive"
+  },
+  "Tangram_ReleaseData_W10_CLT_01_030_Explanation": {
+    "speaker": "UI",
+    "text": "Designed to resemble the one-eyed fiend unleashed from the Cursed Archive."
+  },
+  "Tangram_ReleaseData_W10_CLT_05_000": {
+    "speaker": "UI",
+    "text": "Mysterious Blade"
+  },
+  "Tangram_ReleaseData_W10_CLT_05_000_Explanation": {
+    "speaker": "UI",
+    "text": "A hunk of metal shaped like a blade."
+  },
+  "Tangram_ReleaseData_W10_CLT_06_000": {
+    "speaker": "UI",
+    "text": "Philosopher's Stone"
+  },
+  "Tangram_ReleaseData_W10_CLT_06_000_Explanation": {
+    "speaker": "UI",
+    "text": "An enigmatic rock known as the Philosopher's Stone."
+  },
+  "Tangram_ReleaseData_W10_CLT_END_001": {
+    "speaker": "UI",
+    "text": "Communications Control Panel 1"
+  },
+  "Tangram_ReleaseData_W10_CLT_END_001_Explanation": {
+    "speaker": "UI",
+    "text": "Can be operated to prevent data loss."
+  },
+  "Tangram_ReleaseData_W10_CLT_END_002": {
+    "speaker": "UI",
+    "text": "Communications Control Panel 2"
+  },
+  "Tangram_ReleaseData_W10_CLT_END_002_Explanation": {
+    "speaker": "UI",
+    "text": "Can be operated to prevent data loss."
+  },
+  "Tangram_ReleaseData_W10_CLT_END_003": {
+    "speaker": "UI",
+    "text": "Communications Control Panel 3"
+  },
+  "Tangram_ReleaseData_W10_CLT_END_003_Explanation": {
+    "speaker": "UI",
+    "text": "Can be operated to prevent data loss."
+  },
+  "Tangram_ReleaseData_W04_TGM_SHIP_01": {
+    "speaker": "UI",
+    "text": "Sloop Blueprint"
+  },
+  "Tangram_ReleaseData_W04_TGM_SHIP_01_Explanation": {
+    "speaker": "UI",
+    "text": "Valuable design documents for constructing a sloop."
+  },
+  "Tangram_ReleaseData_W04_TGM_SHIP_02": {
+    "speaker": "UI",
+    "text": "Sailboat Blueprint"
+  },
+  "Tangram_ReleaseData_W04_TGM_SHIP_02_Explanation": {
+    "speaker": "UI",
+    "text": "Valuable design documents for constructing a sailboat."
+  },
+  "Tangram_ReleaseData_W04_TGM_RAFT": {
+    "speaker": "UI",
+    "text": "Shoddy Raft"
+  },
+  "Tangram_ReleaseData_W04_TGM_RAFT_Explanation": {
+    "speaker": "UI",
+    "text": "A raft hastily assembled on a desert island."
+  },
+  "Tangram_ReleaseData_W04_TGM_RUBY": {
+    "speaker": "UI",
+    "text": "The Ruby Scales"
+  },
+  "Tangram_ReleaseData_W04_TGM_RUBY_Explanation": {
+    "speaker": "UI",
+    "text": "A booby-trapped device inside a pirate hideout."
+  },
+  "Tangram_ReleaseData_W14_BOMB": {
+    "speaker": "UI",
+    "text": "Time Bomb"
+  },
+  "Tangram_ReleaseData_W14_BOMB_Explanation": {
+    "speaker": "UI",
+    "text": "A timed explosive planted in a building."
+  },
+  "Tangram_ReleaseData_W11_PUIKE_01_ITA": {
+    "speaker": "UI",
+    "text": "Epuyke Tablet"
+  },
+  "Tangram_ReleaseData_W11_PUIKE_01_ITA_Explanation": {
+    "speaker": "UI",
+    "text": "A tablet required for the Epuyke's maiden to undergo the Trial of Wisdom."
+  },
+  "Tangram_ReleaseData_W11_PUIKE_02_ITA": {
+    "speaker": "UI",
+    "text": "Epuyke Tablet"
+  },
+  "Tangram_ReleaseData_W11_PUIKE_02_ITA_Explanation": {
+    "speaker": "UI",
+    "text": "A tablet required for the Epuyke's maiden to undergo the Trial of Wisdom."
+  },
+  "Tangram_ReleaseData_W11_PUIKE_03_ITA": {
+    "speaker": "UI",
+    "text": "Epuyke Tablet"
+  },
+  "Tangram_ReleaseData_W11_PUIKE_03_ITA_Explanation": {
+    "speaker": "UI",
+    "text": "A tablet required for the Epuyke's maiden to undergo the Trial of Wisdom."
+  },
+  "Tangram_ReleaseData_W18_LAB": {
+    "speaker": "UI",
+    "text": "Energy Jamming Device"
+  },
+  "Tangram_ReleaseData_W18_LAB_Explanation": {
+    "speaker": "UI",
+    "text": "A device intended to disrupt the new energy management system."
+  },
+  "Tangram_ReleaseData_W04_GHOSTSHIP_ISLAND": {
+    "speaker": "UI",
+    "text": "Ghost Ship Raft"
+  },
+  "Tangram_ReleaseData_W04_GHOSTSHIP_ISLAND_Explanation": {
+    "speaker": "UI",
+    "text": "A special raft put together for a ghost ship."
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA": {
+    "speaker": "UI",
+    "text": "Enigmatic Organization's Ritgram"
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_Explanation": {
+    "speaker": "UI",
+    "text": "A pedestal of special make that contains valuable data."
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_01": {
+    "speaker": "UI",
+    "text": "Unsolvable Ritgram 1"
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_01_Explanation": {
+    "speaker": "UI",
+    "text": "A puzzle-like pedestal given to you by the enigmatic Quisstatium organization."
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_02": {
+    "speaker": "UI",
+    "text": "Unsolvable Ritgram 2"
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_02_Explanation": {
+    "speaker": "UI",
+    "text": "A puzzle-like pedestal given to you by the enigmatic Quisstatium organization."
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_03": {
+    "speaker": "UI",
+    "text": "Unsolvable Ritgram 3"
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_03_Explanation": {
+    "speaker": "UI",
+    "text": "A puzzle-like pedestal given to you by the enigmatic Quisstatium organization."
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_04": {
+    "speaker": "UI",
+    "text": "Unsolvable Ritgram 4"
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_04_Explanation": {
+    "speaker": "UI",
+    "text": "A puzzle-like pedestal given to you by the enigmatic Quisstatium organization."
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_05": {
+    "speaker": "UI",
+    "text": "Unsolvable Ritgram 5"
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_05_Explanation": {
+    "speaker": "UI",
+    "text": "A puzzle-like pedestal given to you by the enigmatic Quisstatium organization."
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_06": {
+    "speaker": "UI",
+    "text": "Unsolvable Ritgram 6"
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_06_Explanation": {
+    "speaker": "UI",
+    "text": "A puzzle-like pedestal given to you by the enigmatic Quisstatium organization."
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_07": {
+    "speaker": "UI",
+    "text": "Unsolvable Ritgram 7"
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_07_Explanation": {
+    "speaker": "UI",
+    "text": "A puzzle-like pedestal given to you by the enigmatic Quisstatium organization."
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_08": {
+    "speaker": "UI",
+    "text": "Unsolvable Ritgram 8"
+  },
+  "Tangram_ReleaseData_C01_TRIANGULUM_DATA_SAMPLE_08_Explanation": {
+    "speaker": "UI",
+    "text": "A puzzle-like pedestal given to you by the enigmatic Quisstatium organization."
+  },
+  "Tangram_ReleaseData_W09_CEMETERY_01": {
+    "speaker": "UI",
+    "text": "Ancient Headstone Emblem"
+  },
+  "Tangram_ReleaseData_W09_CEMETERY_01_Explanation": {
+    "speaker": "UI",
+    "text": "A mysterious emblem used to seal away someone—or something. Found engraved on an old headstone."
+  },
+  "Tangram_ReleaseData_W09_DEPARTMENT": {
+    "speaker": "UI",
+    "text": "Toy Puzzle"
+  },
+  "Tangram_ReleaseData_W09_DEPARTMENT_Explanation": {
+    "speaker": "UI",
+    "text": "An educational toy designed for well-to-do kiddies."
+  }
+}

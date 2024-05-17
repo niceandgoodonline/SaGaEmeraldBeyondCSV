@@ -1,0 +1,82 @@
+{
+  "W19_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The World of the Colossal Tree"
+  },
+  "W19_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You descended upon the Great Tree—a world teeming with life. If there's anywhere a spirit should come easy, it's here."
+  },
+  "W19_EVAR_MIDO_MOKU_EASY_TITLE": {
+    "speaker": "UI",
+    "text": "Mediocre Spirit"
+  },
+  "W19_EVAR_MIDO_MOKU_EASY_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense a weak spirit."
+  },
+  "W19_EVAR_MIDO_MOKU_EASY_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W19_EVAR_MIDO_MOKU_NORMAL_TITLE": {
+    "speaker": "UI",
+    "text": "Appropriately Powerful Spirit"
+  },
+  "W19_EVAR_MIDO_MOKU_NORMAL_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense a somewhat powerful spirit."
+  },
+  "W19_EVAR_MIDO_MOKU_NORMAL_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W19_EVAR_MIDO_MOKU_HARD_TITLE": {
+    "speaker": "UI",
+    "text": "Strong Spirit"
+  },
+  "W19_EVAR_MIDO_MOKU_HARD_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense a very powerful spirit."
+  },
+  "W19_EVAR_MIDO_MOKU_HARD_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W19_EVAR_MIDO_MOKU_VH_TITLE": {
+    "speaker": "UI",
+    "text": "Sinister Spirit"
+  },
+  "W19_EVAR_MIDO_MOKU_VH_DETAIL": {
+    "speaker": "UI",
+    "text": "Think carefully about whether or not you should engage this spirit."
+  },
+  "W19_EVAR_MIDO_MOKU_VH_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W19_EVAR_MIDO_WORLDEXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Heavens"
+  },
+  "W19_EVAR_MIDO_WORLDEXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Continue your journey and secure even more spiritual power."
+  },
+  "W19_EVAR_MIDO_WORLDEXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W19_EVAR_MIDO_WORLDEXIT_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Heavens and Home Await"
+  },
+  "W19_EVAR_MIDO_WORLDEXIT_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired power from all the spirits. All that's left is to return to Miyako City."
+  },
+  "W19_EVAR_MIDO_WORLDEXIT_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  }
+}

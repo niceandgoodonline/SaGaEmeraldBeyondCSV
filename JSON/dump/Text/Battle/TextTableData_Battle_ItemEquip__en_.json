@@ -1,0 +1,5810 @@
+{
+  "WLLSW01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Broadsword"
+  },
+  "WLLSW02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Town Sword"
+  },
+  "WLLSW03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Splasher"
+  },
+  "WLLSW04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Schiavona"
+  },
+  "WLLSW05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Worm Slayer"
+  },
+  "WLLSW06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Valeria Heart"
+  },
+  "WLLSW07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Rune Sword"
+  },
+  "WLLSW08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Triones Blade"
+  },
+  "WLLSW09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Dragonscale Blade"
+  },
+  "WLLSW10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Levateinn"
+  },
+  "WLLSW11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Victor's Blade"
+  },
+  "WLRAP01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Fleuret"
+  },
+  "WLRAP02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Rapier"
+  },
+  "WLRAP03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Estoc"
+  },
+  "WLRAP04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Dress Sword"
+  },
+  "WLRAP05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lob Omen"
+  },
+  "WLRAP06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Blazing Sword"
+  },
+  "WLRAP07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Star of the Down"
+  },
+  "WLRAP08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Espada Ropera"
+  },
+  "WLRAP09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Joyeuse"
+  },
+  "WLRAP10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Sword of Earth"
+  },
+  "WLRAP11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Masquerade"
+  },
+  "WLDAG01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Khukuri"
+  },
+  "WLDAG02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Bladebreaker"
+  },
+  "WLDAG03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Steel Dagger"
+  },
+  "WLDAG04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Shadow Dagger"
+  },
+  "WLDAG05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Queen of Swords"
+  },
+  "WLDAG06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Gladius"
+  },
+  "WLDAG07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Devil's Dagger"
+  },
+  "WLDAG08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Hanger"
+  },
+  "WLDAG09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Wyrmbrand"
+  },
+  "WLDAG10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Beowulf"
+  },
+  "WLDAG11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lordstar"
+  },
+  "WLAXE01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Hand Axe"
+  },
+  "WLAXE02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Stone Axe"
+  },
+  "WLAXE03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Francisca"
+  },
+  "WLAXE04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Berserker Axe"
+  },
+  "WLAXE05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Falconwind"
+  },
+  "WLAXE06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Bullova"
+  },
+  "WLAXE07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Bilqis"
+  },
+  "WLAXE08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Earth's Creation"
+  },
+  "WLAXE09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Archfiend's Axe"
+  },
+  "WLAXE10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Chainsaw"
+  },
+  "WLAXE11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Fractionary Shine"
+  },
+  "WHGSW01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Zweihander"
+  },
+  "WHGSW02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Claymore"
+  },
+  "WHGSW03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Faussar"
+  },
+  "WHGSW04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Flamberge"
+  },
+  "WHGSW05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Galatyn"
+  },
+  "WHGSW06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Ice Sword"
+  },
+  "WHGSW07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Blue Saber"
+  },
+  "WHGSW08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Obsidian Sword"
+  },
+  "WHGSW09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Dragonscale Greatsword"
+  },
+  "WHGSW10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Dayblade"
+  },
+  "WHGSW11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Moonlite"
+  },
+  "WHSSW01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Samurai Sword"
+  },
+  "WHSSW02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Exorciser"
+  },
+  "WHSSW03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Twin Dragon"
+  },
+  "WHSSW04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Invincible East"
+  },
+  "WHSSW05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Ame-no-Habakiri"
+  },
+  "WHSSW06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Gekkabijin"
+  },
+  "WHSSW07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Comet Blade"
+  },
+  "WHSSW08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Crane Princess"
+  },
+  "WHSSW09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Seven-Branched Sword"
+  },
+  "WHSSW10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Demonbrand"
+  },
+  "WHSSW11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Cinderforge Sword"
+  },
+  "WHPSW01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Halberd"
+  },
+  "WHPSW02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Naginata"
+  },
+  "WHPSW03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Glaive"
+  },
+  "WHPSW04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Guisarme"
+  },
+  "WHPSW05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Zhanmadao"
+  },
+  "WHPSW06_A_ItemName": {
+    "speaker": "UI",
+    "text": "War God's Pike"
+  },
+  "WHPSW07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Qinglong Yanyuedao"
+  },
+  "WHPSW08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Feather Spear"
+  },
+  "WHPSW09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Gae Bolg"
+  },
+  "WHPSW10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Nether Malystrix"
+  },
+  "WHPSW11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lohengrin"
+  },
+  "GLONE01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Eagle Gun"
+  },
+  "GLONE02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Princess Guard"
+  },
+  "GLONE03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Duelist's Pistol"
+  },
+  "GLONE04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Living Revolver"
+  },
+  "GLONE05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Zen Gun"
+  },
+  "GLONE06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Behemoth Rifle"
+  },
+  "GLONE07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Blundergun"
+  },
+  "GLONE08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Queen's Address"
+  },
+  "GLONE09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Grimhorn"
+  },
+  "GLONE10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Pendragon"
+  },
+  "GLONE11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Silver Lily"
+  },
+  "GLONE12_A_ItemName": {
+    "speaker": "UI",
+    "text": "Light Rifle"
+  },
+  "GLONE13_A_ItemName": {
+    "speaker": "UI",
+    "text": "Blaster Gun"
+  },
+  "GLONE14_A_ItemName": {
+    "speaker": "UI",
+    "text": "Vector Ray"
+  },
+  "GLONE15_A_ItemName": {
+    "speaker": "UI",
+    "text": "Executor"
+  },
+  "GLONE16_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lemuria"
+  },
+  "GLONE17_A_ItemName": {
+    "speaker": "UI",
+    "text": "Peach Blossom Spring"
+  },
+  "GLONE18_A_ItemName": {
+    "speaker": "UI",
+    "text": "Magellanica"
+  },
+  "GHMAC01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Saber Machine Gun"
+  },
+  "GHMAC02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Hecaton Heavy Machine Gun"
+  },
+  "GHFLA01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Agni Heart"
+  },
+  "GHFLA02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Firetrapper"
+  },
+  "GHELE01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lightning Cannon"
+  },
+  "GHELE02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Photon Shooter"
+  },
+  "GHBOM01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Super Missile"
+  },
+  "GHBOM02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Hyperion Bazooka"
+  },
+  "GHCHE01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Serpent"
+  },
+  "GHCHE02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Hydra"
+  },
+  "WLLSW01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Antiair"
+  },
+  "WLLSW01_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Antiair"
+  },
+  "WLLSW01_PURSUIT_C_ItemName": {
+    "speaker": "UI",
+    "text": "Pursuant Blade +2"
+  },
+  "WLLSW03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WLLSW03_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WLLSW03_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WLLSW03_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WLLSW04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW04_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW04_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW04_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLLSW05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLLSW07_C_ItemName": {
+    "speaker": "UI",
+    "text": "Rune Sword +2"
+  },
+  "WLRAP01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLRAP01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLRAP01_GUARD_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLRAP01_GUARD_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLRAP02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLRAP02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLRAP02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLRAP02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLRAP04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WLRAP04_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WLRAP04_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WLRAP04_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WLRAP05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLRAP05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLRAP06_C_ItemName": {
+    "speaker": "UI",
+    "text": "Blazing Sword +2"
+  },
+  "WLRAP08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "WLRAP08_C_ItemName": {
+    "speaker": "UI",
+    "text": "Espada Ropera +2"
+  },
+  "WLRAP11_C_ItemName": {
+    "speaker": "UI",
+    "text": "Masquerade +2"
+  },
+  "WLDAG01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG03_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG03_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG03_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WLDAG06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WLDAG06_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WLDAG06_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WLDAG07_C_ItemName": {
+    "speaker": "UI",
+    "text": "Devil's Dagger +2"
+  },
+  "WLDAG11_B_ItemName": {
+    "speaker": "UI",
+    "text": "Jetstream"
+  },
+  "WLDAG11_C_ItemName": {
+    "speaker": "UI",
+    "text": "Speedstar"
+  },
+  "WLDAG11_D_ItemName": {
+    "speaker": "UI",
+    "text": "Speedstar +1"
+  },
+  "WLAXE_OLD_01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLAXE01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLAXE01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLAXE02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLAXE02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLAXE04_C_ItemName": {
+    "speaker": "UI",
+    "text": "Berserker Axe +2"
+  },
+  "WLAXE05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "WLAXE05_C_ItemName": {
+    "speaker": "UI",
+    "text": "Falconwind +2"
+  },
+  "WLAXE06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLAXE06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLAXE06_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLAXE06_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLAXE07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WLAXE07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WLAXE07_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WLAXE07_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WLAXE11_C_ItemName": {
+    "speaker": "UI",
+    "text": "Fractionary Shine +2"
+  },
+  "WHGSW_OLD_01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WHGSW02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WHGSW02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WHGSW02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WHGSW03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHGSW03_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHGSW04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW04_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW04_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW04_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW06_B_ItemName": {
+    "speaker": "UI",
+    "text": "Ice Sword +1"
+  },
+  "WHSSW01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WHSSW02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WHSSW02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WHSSW02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "WHSSW03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW03_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW03_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW03_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW04_C_ItemName": {
+    "speaker": "UI",
+    "text": "Invincible East +2"
+  },
+  "WHSSW07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "WHSSW08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHSSW08_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHSSW09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Seven-Branched Sword +1"
+  },
+  "WHSSW11_B_ItemName": {
+    "speaker": "UI",
+    "text": "Cinderforge Sword +1"
+  },
+  "WHPSW01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WHPSW04_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WHPSW04_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WHPSW04_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "WHPSW05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHPSW05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHPSW07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Qinglong Yanyuedao +1"
+  },
+  "WHPSW08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "GLONE01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE03_B_ItemName": {
+    "speaker": "UI",
+    "text": "Duelist's Pistol +1"
+  },
+  "GLONE04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE04_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE05_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE05_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE09_C_ItemName": {
+    "speaker": "UI",
+    "text": "Grimhorn +2"
+  },
+  "GLONE10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "GLONE10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "GLONE10_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "GLONE10_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "GHMAC01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHMAC01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHMAC02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHMAC02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHMAC02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHMAC02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHFLA02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Firetrapper +3"
+  },
+  "GHELE02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "GHELE02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "GHELE02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Photon Shooter +3"
+  },
+  "GHBOM02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Hyperion Bazooka +3"
+  },
+  "GHCHE02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Hydra +3"
+  },
+  "MAMCR01_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR02_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR03_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR04_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR05_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR06_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR07_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR08_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR09_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR10_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR11_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR12_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR13_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR14_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR15_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR16_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR17_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAMCR18_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACL01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACL02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACL03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA05_C_ItemName": {
+    "speaker": "UI",
+    "text": "Astral Armor +1"
+  },
+  "MANA06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_BONE04_ItemName": {
+    "speaker": "UI",
+    "text": "Marrow Breastplate +2"
+  },
+  "MANA_BEAST04_ItemName": {
+    "speaker": "UI",
+    "text": "Beast's Leather Armor +1"
+  },
+  "MANA11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA12_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA13_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA14_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA15_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA15_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO11_C_ItemName": {
+    "speaker": "UI",
+    "text": "Magnificent Candis +2"
+  },
+  "MACW01_DM_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACW02_DM_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACW03_DM_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACW04_DM_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACW05_DM_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACW06_DM_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACW07_DM_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACW08_DM_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MACW09_DM_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN06_B_ItemName": {
+    "speaker": "UI",
+    "text": "Padded Gi"
+  },
+  "SAIN06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Emperor's Cape +1"
+  },
+  "SAIN10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Evade Chance +2%"
+  },
+  "SAIN11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Evade Chance +2%"
+  },
+  "SAIN12_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Evade Chance +2%"
+  },
+  "SAIN13_A_ItemName": {
+    "speaker": "UI",
+    "text": "Cloak of the North Wind"
+  },
+  "SAIN13_B_ItemName": {
+    "speaker": "UI",
+    "text": "Cloak of the North Wind +1"
+  },
+  "SAIN14_A_ItemName": {
+    "speaker": "UI",
+    "text": "Cloak of the Sun"
+  },
+  "SAIN14_B_ItemName": {
+    "speaker": "UI",
+    "text": "Cloak of the Sun +1"
+  },
+  "SAHE05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Beast's Hood"
+  },
+  "SAHE07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Cockscomb +1"
+  },
+  "SAHE10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Corolla of the Great Tree +1"
+  },
+  "SAGL01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL13_B_ItemName": {
+    "speaker": "UI",
+    "text": "Insulators +1"
+  },
+  "SAGL20_B_ItemName": {
+    "speaker": "UI",
+    "text": "Lace Gloves +1"
+  },
+  "SAGL21_B_ItemName": {
+    "speaker": "UI",
+    "text": "Hexed Gloves +1"
+  },
+  "SASH00_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH00_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH00_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH00_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH04_B_ItemName": {
+    "speaker": "UI",
+    "text": "Sabatons +1"
+  },
+  "SASH05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Silver Boots +1"
+  },
+  "SASH09_C_ItemName": {
+    "speaker": "UI",
+    "text": "Astral Boots +1"
+  },
+  "SASH10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Obsidian Boots +1"
+  },
+  "SASH12_B_ItemName": {
+    "speaker": "UI",
+    "text": "Galoshes +1"
+  },
+  "SASH16_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Action Order Up (S)"
+  },
+  "SASH16_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Action Order Up (M)"
+  },
+  "SASH16_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Action Order Up (L)"
+  },
+  "SASH17_A2_ItemName": {
+    "speaker": "UI",
+    "text": "Jungle Boots +1"
+  },
+  "SASH17_B2_ItemName": {
+    "speaker": "UI",
+    "text": "Combat Boots +1"
+  },
+  "SAAC14_B_ItemName": {
+    "speaker": "UI",
+    "text": "Harmonium Earring +1"
+  },
+  "SAAC15_B_ItemName": {
+    "speaker": "UI",
+    "text": "Sanguine Star +1"
+  },
+  "SAAC16_B_ItemName": {
+    "speaker": "UI",
+    "text": "Genjo +1"
+  },
+  "SAAC17_B_ItemName": {
+    "speaker": "UI",
+    "text": "Shiny Sunglasses +1"
+  },
+  "SAAC18_B_ItemName": {
+    "speaker": "UI",
+    "text": "Emeth Tag +1"
+  },
+  "SAAC19_B_ItemName": {
+    "speaker": "UI",
+    "text": "Angel Brooch +1"
+  },
+  "SAAC20_B_ItemName": {
+    "speaker": "UI",
+    "text": "Flower Rosette +1"
+  },
+  "SAAC21_B_ItemName": {
+    "speaker": "UI",
+    "text": "Blood Chalice +1"
+  },
+  "SAAC22_B_ItemName": {
+    "speaker": "UI",
+    "text": "Closed-Back Headphones +1"
+  },
+  "SAAC35_B_ItemName": {
+    "speaker": "UI",
+    "text": "Cerberus's Ring +1"
+  },
+  "SAAC_RING_ATK_ItemName": {
+    "speaker": "UI",
+    "text": "Warrior's Ring"
+  },
+  "SAAC_RING_DEF_ItemName": {
+    "speaker": "UI",
+    "text": "Guardian's Ring"
+  },
+  "SAAC_RING_AGL_ItemName": {
+    "speaker": "UI",
+    "text": "Thief's Ring"
+  },
+  "SAAC_RING_MAG_ItemName": {
+    "speaker": "UI",
+    "text": "Sage's Ring"
+  },
+  "SAAC_DUMBBELL_1_ItemExp": {
+    "speaker": "UI",
+    "text": "Action order down (S)"
+  },
+  "SAAC_DUMBBELL_2_ItemExp": {
+    "speaker": "UI",
+    "text": "Action order down (M)"
+  },
+  "SAAC_DUMBBELL_3_ItemExp": {
+    "speaker": "UI",
+    "text": "Action order down (L)"
+  },
+  "SAAC_DUMBBELL_4_ItemExp": {
+    "speaker": "UI",
+    "text": "Action order down (XL)"
+  },
+  "SAAC07_MS_ItemExp": {
+    "speaker": "UI",
+    "text": "Evade Chance +3%"
+  },
+  "DIVA_SLOT01_RES_ItemExp": {
+    "speaker": "UI",
+    "text": "You can't use this yet"
+  },
+  "DIVA_SLOT02_RES_ItemExp": {
+    "speaker": "UI",
+    "text": "You can't use this yet"
+  },
+  "DIVA_SLOT03_RES_ItemExp": {
+    "speaker": "UI",
+    "text": "You can't use this yet"
+  },
+  "DIVA_SLOT04_RES_ItemExp": {
+    "speaker": "UI",
+    "text": "You can't use this yet"
+  },
+  "MAMCR01_DW_TEST_ItemName": {
+    "speaker": "UI",
+    "text": "Left Claw"
+  },
+  "MAMCR02_DW_TEST_ItemName": {
+    "speaker": "UI",
+    "text": "Right Claw"
+  },
+  "MAMCR03_DW_TEST_ItemName": {
+    "speaker": "UI",
+    "text": "Left Claw"
+  },
+  "MAMCR04_DW_TEST_ItemName": {
+    "speaker": "UI",
+    "text": "Right Claw"
+  },
+  "MAMCR05_DW_TEST_ItemName": {
+    "speaker": "UI",
+    "text": "Left Claw"
+  },
+  "MAMCR06_DW_TEST_ItemName": {
+    "speaker": "UI",
+    "text": "Right Claw"
+  },
+  "MACW01_DM_TEST_ItemName": {
+    "speaker": "UI",
+    "text": "Fur Pelt"
+  },
+  "MACW02_DM_TEST_ItemName": {
+    "speaker": "UI",
+    "text": "Fur Pelt"
+  },
+  "MACW03_DM_TEST_ItemName": {
+    "speaker": "UI",
+    "text": "Fur Pelt"
+  },
+  "WLLSW_OLD_01_ItemName": {
+    "speaker": "UI",
+    "text": "Aged Longsword"
+  },
+  "WLLSW_OLD_02_ItemName": {
+    "speaker": "UI",
+    "text": "Dull Longsword"
+  },
+  "WLLSW01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Broadsword +1"
+  },
+  "WLLSW01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Driftwhale Blade"
+  },
+  "WLLSW01_D_ItemName": {
+    "speaker": "UI",
+    "text": "Driftwhale Blade +1"
+  },
+  "WLLSW01_PURSUIT_A_ItemName": {
+    "speaker": "UI",
+    "text": "Pursuant Blade"
+  },
+  "WLLSW01_PURSUIT_B_ItemName": {
+    "speaker": "UI",
+    "text": "Pursuant Blade +1"
+  },
+  "WLLSW02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Town Sword +1"
+  },
+  "WLLSW02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Town Sword +2"
+  },
+  "WLLSW02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Town Sword +3"
+  },
+  "WLLSW03_B_ItemName": {
+    "speaker": "UI",
+    "text": "Splasher +1"
+  },
+  "WLLSW03_C_ItemName": {
+    "speaker": "UI",
+    "text": "Splasher +2"
+  },
+  "WLLSW03_D_ItemName": {
+    "speaker": "UI",
+    "text": "Splasher +3"
+  },
+  "WLLSW04_B_ItemName": {
+    "speaker": "UI",
+    "text": "Schiavona +1"
+  },
+  "WLLSW04_C_ItemName": {
+    "speaker": "UI",
+    "text": "Schiavona +2"
+  },
+  "WLLSW04_D_ItemName": {
+    "speaker": "UI",
+    "text": "Schiavona +3"
+  },
+  "WLLSW05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Worm Slayer +1"
+  },
+  "WLLSW05_C_ItemName": {
+    "speaker": "UI",
+    "text": "Worm Slayer +2"
+  },
+  "WLLSW05_D_ItemName": {
+    "speaker": "UI",
+    "text": "Worm Slayer +3"
+  },
+  "WLLSW07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Rune Sword +1"
+  },
+  "WLLSW09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Dragonscale Blade +1"
+  },
+  "WLLSW09_C_ItemName": {
+    "speaker": "UI",
+    "text": "Dragonscale Blade +2"
+  },
+  "WLLSW09_D_ItemName": {
+    "speaker": "UI",
+    "text": "Dragonscale Blade +3"
+  },
+  "WLRAP01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Fleuret +1"
+  },
+  "WLRAP01_GUARD_A_ItemName": {
+    "speaker": "UI",
+    "text": "Fleuret Guard"
+  },
+  "WLRAP01_GUARD_B_ItemName": {
+    "speaker": "UI",
+    "text": "Fleuret Guard +1"
+  },
+  "WLRAP02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Rapier +1"
+  },
+  "WLRAP02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Rapier +2"
+  },
+  "WLRAP02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Rapier +3"
+  },
+  "WLRAP03_B_ItemName": {
+    "speaker": "UI",
+    "text": "Estoc +1"
+  },
+  "WLRAP03_C_ItemName": {
+    "speaker": "UI",
+    "text": "Estoc +2"
+  },
+  "WLRAP03_D_ItemName": {
+    "speaker": "UI",
+    "text": "Estoc +3"
+  },
+  "WLRAP04_B_ItemName": {
+    "speaker": "UI",
+    "text": "Dress Sword +1"
+  },
+  "WLRAP04_C_ItemName": {
+    "speaker": "UI",
+    "text": "Dress Sword +2"
+  },
+  "WLRAP04_D_ItemName": {
+    "speaker": "UI",
+    "text": "Dress Sword +3"
+  },
+  "WLRAP05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Lob Omen +1"
+  },
+  "WLRAP05_C_ItemName": {
+    "speaker": "UI",
+    "text": "Lob Omen +2"
+  },
+  "WLRAP05_D_ItemName": {
+    "speaker": "UI",
+    "text": "Lob Omen +3"
+  },
+  "WLRAP06_B_ItemName": {
+    "speaker": "UI",
+    "text": "Blazing Sword +1"
+  },
+  "WLRAP07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Star of the Down +1"
+  },
+  "WLRAP08_B_ItemName": {
+    "speaker": "UI",
+    "text": "Espada Ropera +1"
+  },
+  "WLRAP10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Sword of Earth +1"
+  },
+  "WLRAP11_B_ItemName": {
+    "speaker": "UI",
+    "text": "Masquerade +1"
+  },
+  "WLDAG01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Khukuri +1"
+  },
+  "WLDAG01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Lightweight Khukuri"
+  },
+  "WLDAG02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Bladebreaker +1"
+  },
+  "WLDAG02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Bladebreaker +2"
+  },
+  "WLDAG03_B_ItemName": {
+    "speaker": "UI",
+    "text": "Steel Dagger +1"
+  },
+  "WLDAG03_C_ItemName": {
+    "speaker": "UI",
+    "text": "Steel Dagger +2"
+  },
+  "WLDAG03_D_ItemName": {
+    "speaker": "UI",
+    "text": "Steel Dagger +3"
+  },
+  "WLDAG04_B_ItemName": {
+    "speaker": "UI",
+    "text": "Shadow Dagger +1"
+  },
+  "WLDAG04_C_ItemName": {
+    "speaker": "UI",
+    "text": "Shadow Dagger +2"
+  },
+  "WLDAG04_D_ItemName": {
+    "speaker": "UI",
+    "text": "Shadow Dagger +3"
+  },
+  "WLDAG05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Queen of Swords +1"
+  },
+  "WLDAG05_C_ItemName": {
+    "speaker": "UI",
+    "text": "Queen of Swords +2"
+  },
+  "WLDAG06_B_ItemName": {
+    "speaker": "UI",
+    "text": "Gladius +1"
+  },
+  "WLDAG06_C_ItemName": {
+    "speaker": "UI",
+    "text": "Gladius +2"
+  },
+  "WLDAG06_D_ItemName": {
+    "speaker": "UI",
+    "text": "Gladius +3"
+  },
+  "WLDAG07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Devil's Dagger +1"
+  },
+  "WLDAG08_B_ItemName": {
+    "speaker": "UI",
+    "text": "Hanger +1"
+  },
+  "WLDAG08_C_ItemName": {
+    "speaker": "UI",
+    "text": "Hanger +2"
+  },
+  "WLDAG08_D_ItemName": {
+    "speaker": "UI",
+    "text": "Hanger +3"
+  },
+  "WLDAG09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Wyrmbrand +1"
+  },
+  "WLDAG09_C_ItemName": {
+    "speaker": "UI",
+    "text": "Wyrmbrand +2"
+  },
+  "WLDAG09_D_ItemName": {
+    "speaker": "UI",
+    "text": "Wyrmbrand +3"
+  },
+  "WLDAG10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Beowulf +1"
+  },
+  "WLDAG10_C_ItemName": {
+    "speaker": "UI",
+    "text": "Beowulf +2"
+  },
+  "WLAXE_OLD_01_ItemName": {
+    "speaker": "UI",
+    "text": "Beast's Axe"
+  },
+  "WLAXE01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Hand Axe +1"
+  },
+  "WLAXE01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Lightweight Hand Axe"
+  },
+  "WLAXE02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Stone Axe +1"
+  },
+  "WLAXE02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Stone Axe +2"
+  },
+  "WLAXE02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Stone Axe +3"
+  },
+  "WLAXE03_B_ItemName": {
+    "speaker": "UI",
+    "text": "Francisca +1"
+  },
+  "WLAXE03_C_ItemName": {
+    "speaker": "UI",
+    "text": "Francisca +2"
+  },
+  "WLAXE03_D_ItemName": {
+    "speaker": "UI",
+    "text": "Francisca +3"
+  },
+  "WLAXE04_B_ItemName": {
+    "speaker": "UI",
+    "text": "Berserker Axe +1"
+  },
+  "WLAXE05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Falconwind +1"
+  },
+  "WLAXE06_B_ItemName": {
+    "speaker": "UI",
+    "text": "Bullova +1"
+  },
+  "WLAXE06_C_ItemName": {
+    "speaker": "UI",
+    "text": "Bullova +2"
+  },
+  "WLAXE06_D_ItemName": {
+    "speaker": "UI",
+    "text": "Bullova +3"
+  },
+  "WLAXE07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Bilqis +1"
+  },
+  "WLAXE07_C_ItemName": {
+    "speaker": "UI",
+    "text": "Bilqis +2"
+  },
+  "WLAXE07_D_ItemName": {
+    "speaker": "UI",
+    "text": "Bilqis +3"
+  },
+  "WLAXE08_B_ItemName": {
+    "speaker": "UI",
+    "text": "Earth's Creation Prime"
+  },
+  "WLAXE09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Archfiend's Axe +1"
+  },
+  "WLAXE10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Chainsaw +1"
+  },
+  "WLAXE11_B_ItemName": {
+    "speaker": "UI",
+    "text": "Fractionary Shine +1"
+  },
+  "WHGSW_OLD_01_ItemName": {
+    "speaker": "UI",
+    "text": "Spirit Greatsword"
+  },
+  "WHGSW01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Zweihander +1"
+  },
+  "WHGSW01_GUARD_A_ItemName": {
+    "speaker": "UI",
+    "text": "Guardian Sword"
+  },
+  "WHGSW01_GUARD_B_ItemName": {
+    "speaker": "UI",
+    "text": "Guardian Sword +1"
+  },
+  "WHGSW01_GUARD_C_ItemName": {
+    "speaker": "UI",
+    "text": "Guardian Sword +2"
+  },
+  "WHGSW02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Claymore +1"
+  },
+  "WHGSW02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Claymore +2"
+  },
+  "WHGSW02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Claymore +3"
+  },
+  "WHGSW03_B_ItemName": {
+    "speaker": "UI",
+    "text": "Faussar +1"
+  },
+  "WHGSW03_C_ItemName": {
+    "speaker": "UI",
+    "text": "Faussar +2"
+  },
+  "WHGSW03_D_ItemName": {
+    "speaker": "UI",
+    "text": "Faussar +3"
+  },
+  "WHGSW04_B_ItemName": {
+    "speaker": "UI",
+    "text": "Flamberge +1"
+  },
+  "WHGSW04_C_ItemName": {
+    "speaker": "UI",
+    "text": "Flamberge +2"
+  },
+  "WHGSW04_D_ItemName": {
+    "speaker": "UI",
+    "text": "Flamberge +3"
+  },
+  "WHGSW05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Galatyn +1"
+  },
+  "WHGSW05_C_ItemName": {
+    "speaker": "UI",
+    "text": "Galatyn +2"
+  },
+  "WHGSW05_D_ItemName": {
+    "speaker": "UI",
+    "text": "Galatyn +3"
+  },
+  "WHGSW08_B_ItemName": {
+    "speaker": "UI",
+    "text": "Obsidian Sword +1"
+  },
+  "WHGSW09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Dragonscale Greatsword +1"
+  },
+  "WHGSW09_C_ItemName": {
+    "speaker": "UI",
+    "text": "Dragonscale Greatsword +2"
+  },
+  "WHGSW09_D_ItemName": {
+    "speaker": "UI",
+    "text": "Dragonscale Greatsword +3"
+  },
+  "WHGSW10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Dayblade +1"
+  },
+  "WHGSW11_B_ItemName": {
+    "speaker": "UI",
+    "text": "Moonlite +1"
+  },
+  "WHGSW_EXCALIBUR_01_ItemName": {
+    "speaker": "UI",
+    "text": "Cemetery Greatsword"
+  },
+  "WHGSW_EXCALIBUR_02_ItemName": {
+    "speaker": "UI",
+    "text": "Polished Greatsword"
+  },
+  "WHGSW_EXCALIBUR_03_ItemName": {
+    "speaker": "UI",
+    "text": "Sword of Albion"
+  },
+  "WHGSW_EXCALIBUR_04_ItemName": {
+    "speaker": "UI",
+    "text": "Excalibur"
+  },
+  "WHSSW_OLD_01_ItemName": {
+    "speaker": "UI",
+    "text": "Old Sword"
+  },
+  "WHSSW01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Samurai Sword +1"
+  },
+  "WHSSW01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Lightweight Samurai Sword"
+  },
+  "WHSSW02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Exorciser +1"
+  },
+  "WHSSW02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Exorciser +2"
+  },
+  "WHSSW02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Exorciser +3"
+  },
+  "WHSSW03_B_ItemName": {
+    "speaker": "UI",
+    "text": "Twin Dragon +1"
+  },
+  "WHSSW03_C_ItemName": {
+    "speaker": "UI",
+    "text": "Twin Dragon +2"
+  },
+  "WHSSW03_D_ItemName": {
+    "speaker": "UI",
+    "text": "Twin Dragon +3"
+  },
+  "WHSSW04_B_ItemName": {
+    "speaker": "UI",
+    "text": "Invincible East +1"
+  },
+  "WHSSW05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Ame-no-Habakiri +1"
+  },
+  "WHSSW05_C_ItemName": {
+    "speaker": "UI",
+    "text": "Ame-no-Habakiri +2"
+  },
+  "WHSSW05_D_ItemName": {
+    "speaker": "UI",
+    "text": "Ame-no-Habakiri +3"
+  },
+  "WHSSW06_B_ItemName": {
+    "speaker": "UI",
+    "text": "Gekkabijin +1"
+  },
+  "WHSSW07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Comet Blade +1"
+  },
+  "WHSSW07_C_ItemName": {
+    "speaker": "UI",
+    "text": "Comet Blade +2"
+  },
+  "WHSSW08_B_ItemName": {
+    "speaker": "UI",
+    "text": "Crane Princess +1"
+  },
+  "WHSSW08_C_ItemName": {
+    "speaker": "UI",
+    "text": "Crane Princess +2"
+  },
+  "WHSSW08_D_ItemName": {
+    "speaker": "UI",
+    "text": "Crane Princess +3"
+  },
+  "WHSSW10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Demonbrand +1"
+  },
+  "WHSSW10_C_ItemName": {
+    "speaker": "UI",
+    "text": "Demonbrand +2"
+  },
+  "WHSSW_HIDEYOSHI_ItemName": {
+    "speaker": "UI",
+    "text": "Darkblayde Hideyoshi"
+  },
+  "WHSSW_IEYASU_ItemName": {
+    "speaker": "UI",
+    "text": "Deathblayde Ieyasu"
+  },
+  "WHSSW_NOBUNAGA_ItemName": {
+    "speaker": "UI",
+    "text": "Dreadblayde Nobunaga"
+  },
+  "WHPSW01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Halberd +1"
+  },
+  "WHPSW01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Porter's Pike"
+  },
+  "WHPSW02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Naginata +1"
+  },
+  "WHPSW02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Naginata +2"
+  },
+  "WHPSW02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Naginata +3"
+  },
+  "WHPSW03_B_ItemName": {
+    "speaker": "UI",
+    "text": "Glaive +1"
+  },
+  "WHPSW03_C_ItemName": {
+    "speaker": "UI",
+    "text": "Glaive +2"
+  },
+  "WHPSW03_D_ItemName": {
+    "speaker": "UI",
+    "text": "Glaive +3"
+  },
+  "WHPSW04_B_ItemName": {
+    "speaker": "UI",
+    "text": "Guisarme +1"
+  },
+  "WHPSW04_C_ItemName": {
+    "speaker": "UI",
+    "text": "Guisarme +2"
+  },
+  "WHPSW04_D_ItemName": {
+    "speaker": "UI",
+    "text": "Guisarme +3"
+  },
+  "WHPSW05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Zhanmadao +1"
+  },
+  "WHPSW05_C_ItemName": {
+    "speaker": "UI",
+    "text": "Zhanmadao +2"
+  },
+  "WHPSW05_D_ItemName": {
+    "speaker": "UI",
+    "text": "Zhanmadao +3"
+  },
+  "WHPSW06_B_ItemName": {
+    "speaker": "UI",
+    "text": "War God's Pike +1"
+  },
+  "WHPSW08_B_ItemName": {
+    "speaker": "UI",
+    "text": "Feather Spear +1"
+  },
+  "WHPSW08_C_ItemName": {
+    "speaker": "UI",
+    "text": "Feather Spear +2"
+  },
+  "WHPSW09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Gae Bolg +1"
+  },
+  "WHPSW09_C_ItemName": {
+    "speaker": "UI",
+    "text": "Gae Bolg +2"
+  },
+  "WHPSW09_D_ItemName": {
+    "speaker": "UI",
+    "text": "Gae Bolg +3"
+  },
+  "WHPSW10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Nether Malystrix +1"
+  },
+  "WHPSW11_B_ItemName": {
+    "speaker": "UI",
+    "text": "Lohengrin +1"
+  },
+  "WHPSW11_C_ItemName": {
+    "speaker": "UI",
+    "text": "Lohengrin +2"
+  },
+  "GLONE_OLD_01_ItemName": {
+    "speaker": "UI",
+    "text": "Old Blunderbuss"
+  },
+  "GLONE_OLD_02_ItemName": {
+    "speaker": "UI",
+    "text": "Antique Gun"
+  },
+  "GLONE01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Eagle Gun +1"
+  },
+  "GLONE01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Eagle Gun SP"
+  },
+  "GLONE01_D_ItemName": {
+    "speaker": "UI",
+    "text": "Eagle Gun SP2"
+  },
+  "GLONE01_E_ItemName": {
+    "speaker": "UI",
+    "text": "Eagle Gun SP3"
+  },
+  "GLONE01_F_ItemName": {
+    "speaker": "UI",
+    "text": "Eagle Gun SP4"
+  },
+  "GLONE02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Princess Guard +1"
+  },
+  "GLONE02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Princess Guard +2"
+  },
+  "GLONE02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Princess Guard +3"
+  },
+  "GLONE04_B_ItemName": {
+    "speaker": "UI",
+    "text": "Living Revolver +1"
+  },
+  "GLONE05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Zen Gun +1"
+  },
+  "GLONE05_C_ItemName": {
+    "speaker": "UI",
+    "text": "Zen Gun +2"
+  },
+  "GLONE05_D_ItemName": {
+    "speaker": "UI",
+    "text": "Zen Gun +3"
+  },
+  "GLONE06_B_ItemName": {
+    "speaker": "UI",
+    "text": "Behemoth Rifle +1"
+  },
+  "GLONE07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Blundergun +1"
+  },
+  "GLONE07_C_ItemName": {
+    "speaker": "UI",
+    "text": "Blundergun +2"
+  },
+  "GLONE07_D_ItemName": {
+    "speaker": "UI",
+    "text": "Blundergun +3"
+  },
+  "GLONE08_B_ItemName": {
+    "speaker": "UI",
+    "text": "Queen's Address +1"
+  },
+  "GLONE08_C_ItemName": {
+    "speaker": "UI",
+    "text": "Queen's Address +2"
+  },
+  "GLONE09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Grimhorn +1"
+  },
+  "GLONE10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Pendragon +1"
+  },
+  "GLONE10_C_ItemName": {
+    "speaker": "UI",
+    "text": "Pendragon +2"
+  },
+  "GLONE10_D_ItemName": {
+    "speaker": "UI",
+    "text": "Pendragon +3"
+  },
+  "GLONE11_B_ItemName": {
+    "speaker": "UI",
+    "text": "Silver Lily +1"
+  },
+  "GLONE11_C_ItemName": {
+    "speaker": "UI",
+    "text": "Silver Lily +2"
+  },
+  "GLONE13_B_ItemName": {
+    "speaker": "UI",
+    "text": "Blaster Gun +1"
+  },
+  "GLONE13_C_ItemName": {
+    "speaker": "UI",
+    "text": "Blaster Gun +2"
+  },
+  "GLONE13_D_ItemName": {
+    "speaker": "UI",
+    "text": "Blaster Gun +3"
+  },
+  "GLONE14_B_ItemName": {
+    "speaker": "UI",
+    "text": "Vector Ray +1"
+  },
+  "GHMAC_OLD_01_ItemName": {
+    "speaker": "UI",
+    "text": "Rusted Machine Gun"
+  },
+  "GHMAC_OLD_02_ItemName": {
+    "speaker": "UI",
+    "text": "Crumbling Machine Gun"
+  },
+  "GHMAC_OLD_03_ItemName": {
+    "speaker": "UI",
+    "text": "Broken Machine Gun"
+  },
+  "GHMAC_OLD_04_ItemName": {
+    "speaker": "UI",
+    "text": "Busted Machine Gun"
+  },
+  "GHMAC01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Saber Machine Gun +1"
+  },
+  "GHMAC01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Divergence"
+  },
+  "GHMAC01_D_ItemName": {
+    "speaker": "UI",
+    "text": "Divergence +1"
+  },
+  "GHMAC01_E_ItemName": {
+    "speaker": "UI",
+    "text": "Divergence +2"
+  },
+  "GHMAC02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Hecaton Heavy Machine Gun +1"
+  },
+  "GHMAC02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Hecaton Heavy Machine Gun +2"
+  },
+  "GHMAC02_D_ItemName": {
+    "speaker": "UI",
+    "text": "Hecaton Heavy Machine Gun +3"
+  },
+  "GHMAC02_2_A_ItemName": {
+    "speaker": "UI",
+    "text": "Atlas"
+  },
+  "GHFLA01_ZERO_ItemName": {
+    "speaker": "UI",
+    "text": "Agni Zero"
+  },
+  "GHFLA01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Agni Heart +1"
+  },
+  "GHFLA01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Agni Heart +2"
+  },
+  "GHFLA01_D_ItemName": {
+    "speaker": "UI",
+    "text": "Agni Heart +3"
+  },
+  "GHFLA01_2_A_ItemName": {
+    "speaker": "UI",
+    "text": "Flametip Lance"
+  },
+  "GHFLA02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Firetrapper +1"
+  },
+  "GHFLA02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Firetrapper +2"
+  },
+  "GHELE01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Lightning Cannon +1"
+  },
+  "GHELE01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Lightning Cannon +2"
+  },
+  "GHELE01_D_ItemName": {
+    "speaker": "UI",
+    "text": "Lightning Cannon +3"
+  },
+  "GHELE01_2_A_ItemName": {
+    "speaker": "UI",
+    "text": "Star King"
+  },
+  "GHELE02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Photon Shooter +1"
+  },
+  "GHELE02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Photon Shooter +2"
+  },
+  "GHBOM01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Super Missile +1"
+  },
+  "GHBOM01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Super Missile +2"
+  },
+  "GHBOM01_D_ItemName": {
+    "speaker": "UI",
+    "text": "Super Missile +3"
+  },
+  "GHBOM01_2_A_ItemName": {
+    "speaker": "UI",
+    "text": "Foundation"
+  },
+  "GHBOM02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Hyperion Bazooka +1"
+  },
+  "GHBOM02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Hyperion Bazooka +2"
+  },
+  "GHCHE01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Serpent +1"
+  },
+  "GHCHE01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Serpent +2"
+  },
+  "GHCHE01_D_ItemName": {
+    "speaker": "UI",
+    "text": "Serpent +3"
+  },
+  "GHCHE01_2_A_ItemName": {
+    "speaker": "UI",
+    "text": "Glaukos"
+  },
+  "GHCHE02_B_ItemName": {
+    "speaker": "UI",
+    "text": "Hydra +1"
+  },
+  "GHCHE02_C_ItemName": {
+    "speaker": "UI",
+    "text": "Hydra +2"
+  },
+  "BLADGEAR_SWORD00_ItemName": {
+    "speaker": "UI",
+    "text": "Sarubobo"
+  },
+  "BLADGEAR_SWORD01_ItemName": {
+    "speaker": "UI",
+    "text": "Lefikar"
+  },
+  "BLADGEAR_GUN00_ItemName": {
+    "speaker": "UI",
+    "text": "Bittersweet Sand"
+  },
+  "BLADGEAR_GUN01_ItemName": {
+    "speaker": "UI",
+    "text": "Normam"
+  },
+  "WLLSW_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Fragarach"
+  },
+  "GLONE_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Tathlum"
+  },
+  "MAMCR01_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Left Cat Claw"
+  },
+  "MAMCR02_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Right Cat Claw"
+  },
+  "MAMCR03_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Left Cat Claw"
+  },
+  "MAMCR04_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Right Cat Claw"
+  },
+  "MAMCR05_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Left Cat Claw"
+  },
+  "MAMCR06_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Right Cat Claw"
+  },
+  "MAMCR07_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Left Cat Claw"
+  },
+  "MAMCR08_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Right Cat Claw"
+  },
+  "MAMCR09_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Left Wolf Claw"
+  },
+  "MAMCR10_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Right Wolf Claw"
+  },
+  "MAMCR11_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Lysosome"
+  },
+  "MAMCR12_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Lysosome 2"
+  },
+  "MAMCR13_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Hemoglobin"
+  },
+  "MAMCR14_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Hemoglobin 2"
+  },
+  "MAMCR15_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Left Moleband"
+  },
+  "MAMCR16_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Right Moleband"
+  },
+  "MAMCR17_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Left Mantis Sickle"
+  },
+  "MAMCR18_DW_ItemName": {
+    "speaker": "UI",
+    "text": "Right Mantis Sickle"
+  },
+  "WLLSW01_MW_ItemName": {
+    "speaker": "UI",
+    "text": "Magical Pawpole"
+  },
+  "WHGSW01_MW_ItemName": {
+    "speaker": "UI",
+    "text": "Brilliant Blossom"
+  },
+  "GLONE01_MW_ItemName": {
+    "speaker": "UI",
+    "text": "Twinkling Star"
+  },
+  "GHMAC01_MW_ItemName": {
+    "speaker": "UI",
+    "text": "Catling Gun"
+  },
+  "MACL01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Combat Coat"
+  },
+  "MACL02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Leather Jacket"
+  },
+  "MACL03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Suit"
+  },
+  "MACL04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Deus Maris's Harness"
+  },
+  "MANA01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Leather Armor"
+  },
+  "MANA02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Rigid Leather"
+  },
+  "MANA03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Demon's Leather"
+  },
+  "MANA04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Demon's Leather +1"
+  },
+  "MANA05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Filthy Armor"
+  },
+  "MANA05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Astral Armor"
+  },
+  "MANA06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Battle Jacket"
+  },
+  "MANA07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Justaucorps"
+  },
+  "MANA08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Carmagnole"
+  },
+  "MANA09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Emperor's Jacket"
+  },
+  "MANA09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Emperor's Jacket +1"
+  },
+  "MANA10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Grimleather"
+  },
+  "MANA10_B_ItemName": {
+    "speaker": "UI",
+    "text": "Grimleather +1"
+  },
+  "MANA_BONE01_ItemName": {
+    "speaker": "UI",
+    "text": "Bone Breastplate"
+  },
+  "MANA_BONE02_ItemName": {
+    "speaker": "UI",
+    "text": "Marrow Breastplate"
+  },
+  "MANA_BONE03_ItemName": {
+    "speaker": "UI",
+    "text": "Marrow Breastplate +1"
+  },
+  "MANA_BEAST01_ItemName": {
+    "speaker": "UI",
+    "text": "Bestial Leather"
+  },
+  "MANA_BEAST02_ItemName": {
+    "speaker": "UI",
+    "text": "Celestial Leather Armor"
+  },
+  "MANA_BEAST03_ItemName": {
+    "speaker": "UI",
+    "text": "Beast's Leather Armor"
+  },
+  "MANA_SNAKE01_ItemName": {
+    "speaker": "UI",
+    "text": "Serpent Leather"
+  },
+  "MANA_SNAKE02_ItemName": {
+    "speaker": "UI",
+    "text": "Serpent Leather +1"
+  },
+  "MANA_SNAKE03_ItemName": {
+    "speaker": "UI",
+    "text": "Hazmat Suit"
+  },
+  "MANA_SNAKE04_ItemName": {
+    "speaker": "UI",
+    "text": "Hazmat Suit +1"
+  },
+  "MANA11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Squire's Armor"
+  },
+  "MANA12_A_ItemName": {
+    "speaker": "UI",
+    "text": "Knight's Armor"
+  },
+  "MANA13_A_ItemName": {
+    "speaker": "UI",
+    "text": "Brigandi"
+  },
+  "MANA14_A_ItemName": {
+    "speaker": "UI",
+    "text": "Platinum Armor"
+  },
+  "MANA15_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lordly Mail"
+  },
+  "MANA15_B_ItemName": {
+    "speaker": "UI",
+    "text": "Lordly Mail +1"
+  },
+  "MANA16_A_ItemName": {
+    "speaker": "UI",
+    "text": "Dragonscale Armor"
+  },
+  "MAFA01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Protective Suit"
+  },
+  "MAFA02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Soldier Suit"
+  },
+  "MAFA03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Combat Armor"
+  },
+  "MAFA04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Reinforced Armor"
+  },
+  "MAFA05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Power Suit"
+  },
+  "MAFA06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Spriggan Suit"
+  },
+  "MAFA07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Wyrm Mail"
+  },
+  "MAFA08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Mobile Armor"
+  },
+  "MAFA09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Mobile Armor +1"
+  },
+  "MARO00_A_ItemName": {
+    "speaker": "UI",
+    "text": "Robe"
+  },
+  "MARO00_B_ItemName": {
+    "speaker": "UI",
+    "text": "Coat"
+  },
+  "MARO01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Caster's Robe"
+  },
+  "MARO02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Sage's Robe"
+  },
+  "MARO03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Shade Robe"
+  },
+  "MARO04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Moonbeam Robe"
+  },
+  "MARO05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Twilight Robe"
+  },
+  "MARO05_B_ItemName": {
+    "speaker": "UI",
+    "text": "Twilight Robe +1"
+  },
+  "MARO06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Stardust Robe"
+  },
+  "MARO06_B_ItemName": {
+    "speaker": "UI",
+    "text": "Stardust Robe +1"
+  },
+  "MARO07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Sunflare Robe"
+  },
+  "MARO07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Sunflare Robe +1"
+  },
+  "MARO08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lagoon Robe"
+  },
+  "MARO08_B_ItemName": {
+    "speaker": "UI",
+    "text": "Lagoon Robe +1"
+  },
+  "MARO09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Chromatic Robe"
+  },
+  "MARO10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Floral Robe"
+  },
+  "MARO11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Magnificent Candis"
+  },
+  "MARO11_B_ItemName": {
+    "speaker": "UI",
+    "text": "Magnificent Candis +1"
+  },
+  "MARO_ALL01_ItemName": {
+    "speaker": "UI",
+    "text": "Trench Coat"
+  },
+  "MARO_ALL02_ItemName": {
+    "speaker": "UI",
+    "text": "Chesterfield Coat"
+  },
+  "MARO_ALL03_ItemName": {
+    "speaker": "UI",
+    "text": "Gown Coat"
+  },
+  "MARO12_A_ItemName": {
+    "speaker": "UI",
+    "text": "Duffle Coat"
+  },
+  "MARO12_B_ItemName": {
+    "speaker": "UI",
+    "text": "Down Coat"
+  },
+  "MARO12_C_ItemName": {
+    "speaker": "UI",
+    "text": "Fancy Coat"
+  },
+  "MARO12_D_ItemName": {
+    "speaker": "UI",
+    "text": "Pulchran Robe"
+  },
+  "MARO13_A_ItemName": {
+    "speaker": "UI",
+    "text": "Camouflage Garb"
+  },
+  "MARO14_A_ItemName": {
+    "speaker": "UI",
+    "text": "Shinobi Garb"
+  },
+  "MARO15_A_ItemName": {
+    "speaker": "UI",
+    "text": "Tengu Cloak"
+  },
+  "MACW01_DM_ItemName": {
+    "speaker": "UI",
+    "text": "Cat Fur"
+  },
+  "MACW02_DM_ItemName": {
+    "speaker": "UI",
+    "text": "Cat Fur"
+  },
+  "MACW03_DM_ItemName": {
+    "speaker": "UI",
+    "text": "Cat Fur"
+  },
+  "MACW04_DM_ItemName": {
+    "speaker": "UI",
+    "text": "Cat Fur"
+  },
+  "MACW05_DM_ItemName": {
+    "speaker": "UI",
+    "text": "Wolf Coat"
+  },
+  "MACW06_DM_ItemName": {
+    "speaker": "UI",
+    "text": "Demonic Membrane"
+  },
+  "MACW07_DM_ItemName": {
+    "speaker": "UI",
+    "text": "Demonic Membrane"
+  },
+  "MACW08_DM_ItemName": {
+    "speaker": "UI",
+    "text": "Mole Fur"
+  },
+  "MACW09_DM_ItemName": {
+    "speaker": "UI",
+    "text": "Mantis Husk"
+  },
+  "SAIN01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Doublet"
+  },
+  "SAIN01_B_ItemName": {
+    "speaker": "UI",
+    "text": "Dress Shirt"
+  },
+  "SAIN02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Reinforced Clothes"
+  },
+  "SAIN03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Enchanter's Tunic"
+  },
+  "SAIN04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Budo Gi"
+  },
+  "SAIN05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Magicked Shawl"
+  },
+  "SAIN06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Padded Clothes"
+  },
+  "SAIN07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Beetle Shawl"
+  },
+  "SAIN08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Bat Cape"
+  },
+  "SAIN09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Emperor's Cape"
+  },
+  "SAIN10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Bolero"
+  },
+  "SAIN11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Feathered Bolero"
+  },
+  "SAIN12_A_ItemName": {
+    "speaker": "UI",
+    "text": "Tropical Bolero"
+  },
+  "SAHE01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Hood"
+  },
+  "SAHE02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Feathered Hat"
+  },
+  "SAHE03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Fur Hood"
+  },
+  "SAHE04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Pirate Bandana"
+  },
+  "SAHE05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Celestial Hood"
+  },
+  "SAHE06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Insulated Hood"
+  },
+  "SAHE07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Cockscomb"
+  },
+  "SAHE08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Beastbone Helmet"
+  },
+  "SAHE09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Flower Crown"
+  },
+  "SAHE10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Topiary Crown"
+  },
+  "SAHE11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Bone Helmet"
+  },
+  "SAHE12_A_ItemName": {
+    "speaker": "UI",
+    "text": "Battle Cap"
+  },
+  "SAHE13_A_ItemName": {
+    "speaker": "UI",
+    "text": "Sallet"
+  },
+  "SAHE14_A_ItemName": {
+    "speaker": "UI",
+    "text": "Metal Helm"
+  },
+  "SAHE15_A_ItemName": {
+    "speaker": "UI",
+    "text": "Bird Helm"
+  },
+  "SAHE15_B_ItemName": {
+    "speaker": "UI",
+    "text": "Bird Helm +1"
+  },
+  "SAHE16_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lordly Helm"
+  },
+  "SAHE17_A_ItemName": {
+    "speaker": "UI",
+    "text": "Plumed Hairpin"
+  },
+  "SAHE18_A_ItemName": {
+    "speaker": "UI",
+    "text": "Red Hairclip"
+  },
+  "SAHE18_B_ItemName": {
+    "speaker": "UI",
+    "text": "Blue Hairclip"
+  },
+  "SAHE18_C_ItemName": {
+    "speaker": "UI",
+    "text": "Yellow Hairclip"
+  },
+  "SAHE18_D_ItemName": {
+    "speaker": "UI",
+    "text": "Black Hairclip"
+  },
+  "SAHE18_E_ItemName": {
+    "speaker": "UI",
+    "text": "Soleil Hairclip"
+  },
+  "SAHE18_F_ItemName": {
+    "speaker": "UI",
+    "text": "Twilight Hairclip"
+  },
+  "SAHE18_G_ItemName": {
+    "speaker": "UI",
+    "text": "Verdant Hairclip"
+  },
+  "SAHE18_H_ItemName": {
+    "speaker": "UI",
+    "text": "Abyssal Hairclip"
+  },
+  "SAHE19_A_ItemName": {
+    "speaker": "UI",
+    "text": "Silver Majeste"
+  },
+  "SAHE20_A_ItemName": {
+    "speaker": "UI",
+    "text": "Obsidian Frontlet"
+  },
+  "SAHE21_A_ItemName": {
+    "speaker": "UI",
+    "text": "Mask"
+  },
+  "SAHE22_A_ItemName": {
+    "speaker": "UI",
+    "text": "Feather Mask"
+  },
+  "SAHE23_A_ItemName": {
+    "speaker": "UI",
+    "text": "Beast Mask"
+  },
+  "SAHE24_A_ItemName": {
+    "speaker": "UI",
+    "text": "Screaming Devil"
+  },
+  "SAHE25_A_ItemName": {
+    "speaker": "UI",
+    "text": "Masked Emperor"
+  },
+  "SAHE26_A_ItemName": {
+    "speaker": "UI",
+    "text": "Silk Hat"
+  },
+  "SAGL01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Knuckle Covers"
+  },
+  "SAGL02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Shell Bracers"
+  },
+  "SAGL03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Aged Gloves"
+  },
+  "SAGL04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Steel Gauntlets"
+  },
+  "SAGL05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Vambraces"
+  },
+  "SAGL06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Cyber Glove"
+  },
+  "SAGL06_B_ItemName": {
+    "speaker": "UI",
+    "text": "Cyber Glove +1"
+  },
+  "SAGL07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Uncanny Gloves"
+  },
+  "SAGL07_B_ItemName": {
+    "speaker": "UI",
+    "text": "Uncanny Gloves +1"
+  },
+  "SAGL08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Pot Holders"
+  },
+  "SAGL09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Silver Snake"
+  },
+  "SAGL10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lordly Gauntlets"
+  },
+  "SAGL11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Posh Mitaines"
+  },
+  "SAGL12_A_ItemName": {
+    "speaker": "UI",
+    "text": "Mitaines"
+  },
+  "SAGL13_A_ItemName": {
+    "speaker": "UI",
+    "text": "Insulators"
+  },
+  "SAGL14_A_ItemName": {
+    "speaker": "UI",
+    "text": "Sharpshooter Gloves"
+  },
+  "SAGL15_A_ItemName": {
+    "speaker": "UI",
+    "text": "Musketeers"
+  },
+  "SAGL16_A_ItemName": {
+    "speaker": "UI",
+    "text": "Tactical Gloves"
+  },
+  "SAGL17_A_ItemName": {
+    "speaker": "UI",
+    "text": "Arm Warmers"
+  },
+  "SAGL18_A_ItemName": {
+    "speaker": "UI",
+    "text": "Trompe l'oeil"
+  },
+  "SAGL18_B_ItemName": {
+    "speaker": "UI",
+    "text": "Trompe l'oeil +1"
+  },
+  "SAGL19_A_ItemName": {
+    "speaker": "UI",
+    "text": "Evil Gloves"
+  },
+  "SAGL20_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lace Gloves"
+  },
+  "SAGL21_A_ItemName": {
+    "speaker": "UI",
+    "text": "Hexed Gloves"
+  },
+  "SASH00_A_ItemName": {
+    "speaker": "UI",
+    "text": "Clogs"
+  },
+  "SASH00_B_ItemName": {
+    "speaker": "UI",
+    "text": "Gaiters"
+  },
+  "SASH00_C_ItemName": {
+    "speaker": "UI",
+    "text": "Breeches"
+  },
+  "SASH00_D_ItemName": {
+    "speaker": "UI",
+    "text": "Pumps"
+  },
+  "SASH01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Leather Boots"
+  },
+  "SASH02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Long Boots"
+  },
+  "SASH03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Metal Greaves"
+  },
+  "SASH04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Sabatons"
+  },
+  "SASH05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Silver Boots"
+  },
+  "SASH06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lordly Sabatons"
+  },
+  "SASH07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Rubber Soles"
+  },
+  "SASH08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Stone Leggings"
+  },
+  "SASH09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Filthy Boots"
+  },
+  "SASH09_B_ItemName": {
+    "speaker": "UI",
+    "text": "Astral Boots"
+  },
+  "SASH10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Obsidian Boots"
+  },
+  "SASH11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Rubber Soles +1"
+  },
+  "SASH12_A_ItemName": {
+    "speaker": "UI",
+    "text": "Galoshes"
+  },
+  "SASH13_A_ItemName": {
+    "speaker": "UI",
+    "text": "Snake-Print Sandals"
+  },
+  "SASH14_A_ItemName": {
+    "speaker": "UI",
+    "text": "Python-Print Shoes"
+  },
+  "SASH15_A_ItemName": {
+    "speaker": "UI",
+    "text": "Scorpion Smashers"
+  },
+  "SASH16_A_ItemName": {
+    "speaker": "UI",
+    "text": "Cyclone Shoes"
+  },
+  "SASH16_B_ItemName": {
+    "speaker": "UI",
+    "text": "Cyclone Shoes +1"
+  },
+  "SASH16_C_ItemName": {
+    "speaker": "UI",
+    "text": "Skanda Shoes"
+  },
+  "SASH17_A_ItemName": {
+    "speaker": "UI",
+    "text": "Jungle Boots"
+  },
+  "SASH17_B_ItemName": {
+    "speaker": "UI",
+    "text": "Combat Boots"
+  },
+  "SAAC00_A_ItemName": {
+    "speaker": "UI",
+    "text": "Bone Amulet"
+  },
+  "SAAC01_A_ItemName": {
+    "speaker": "UI",
+    "text": "Fang Amulet"
+  },
+  "SAAC02_A_ItemName": {
+    "speaker": "UI",
+    "text": "Nail Amulet"
+  },
+  "SAAC03_A_ItemName": {
+    "speaker": "UI",
+    "text": "Wing Amulet"
+  },
+  "SAAC04_A_ItemName": {
+    "speaker": "UI",
+    "text": "Steel Amulet"
+  },
+  "SAAC05_A_ItemName": {
+    "speaker": "UI",
+    "text": "Pearl Amulet"
+  },
+  "SAAC06_A_ItemName": {
+    "speaker": "UI",
+    "text": "Flower Amulet"
+  },
+  "SAAC07_A_ItemName": {
+    "speaker": "UI",
+    "text": "Fang Amulet +1"
+  },
+  "SAAC08_A_ItemName": {
+    "speaker": "UI",
+    "text": "Nail Amulet +1"
+  },
+  "SAAC09_A_ItemName": {
+    "speaker": "UI",
+    "text": "Wing Amulet +1"
+  },
+  "SAAC10_A_ItemName": {
+    "speaker": "UI",
+    "text": "Steel Amulet +1"
+  },
+  "SAAC11_A_ItemName": {
+    "speaker": "UI",
+    "text": "Pearl Amulet +1"
+  },
+  "SAAC12_A_ItemName": {
+    "speaker": "UI",
+    "text": "Flower Amulet +1"
+  },
+  "SAAC13_A_ItemName": {
+    "speaker": "UI",
+    "text": "Protective Bead"
+  },
+  "SAAC14_A_ItemName": {
+    "speaker": "UI",
+    "text": "Harmonium Earring"
+  },
+  "SAAC15_A_ItemName": {
+    "speaker": "UI",
+    "text": "Sanguine Star"
+  },
+  "SAAC16_A_ItemName": {
+    "speaker": "UI",
+    "text": "Genjo"
+  },
+  "SAAC17_A_ItemName": {
+    "speaker": "UI",
+    "text": "Shiny Sunglasses"
+  },
+  "SAAC18_A_ItemName": {
+    "speaker": "UI",
+    "text": "Emeth Tag"
+  },
+  "SAAC19_A_ItemName": {
+    "speaker": "UI",
+    "text": "Angel Brooch"
+  },
+  "SAAC20_A_ItemName": {
+    "speaker": "UI",
+    "text": "Flower Rosette"
+  },
+  "SAAC21_A_ItemName": {
+    "speaker": "UI",
+    "text": "Blood Chalice"
+  },
+  "SAAC22_A_ItemName": {
+    "speaker": "UI",
+    "text": "Closed-Back Headphones"
+  },
+  "SAAC23_A_ItemName": {
+    "speaker": "UI",
+    "text": "Magatama"
+  },
+  "SAAC23_B_ItemName": {
+    "speaker": "UI",
+    "text": "Large Magatama"
+  },
+  "SAAC24_A_ItemName": {
+    "speaker": "UI",
+    "text": "Blade Attractor"
+  },
+  "SAAC25_A_ItemName": {
+    "speaker": "UI",
+    "text": "Hammer Attractor"
+  },
+  "SAAC26_A_ItemName": {
+    "speaker": "UI",
+    "text": "Spear Attractor"
+  },
+  "SAAC27_A_ItemName": {
+    "speaker": "UI",
+    "text": "Fire Crystal"
+  },
+  "SAAC28_A_ItemName": {
+    "speaker": "UI",
+    "text": "Ice Crystal"
+  },
+  "SAAC29_A_ItemName": {
+    "speaker": "UI",
+    "text": "Lightning Rod"
+  },
+  "SAAC30_A_ItemName": {
+    "speaker": "UI",
+    "text": "Golden Band of Gale"
+  },
+  "SAAC31_A_ItemName": {
+    "speaker": "UI",
+    "text": "Ring of Flame"
+  },
+  "SAAC32_A_ItemName": {
+    "speaker": "UI",
+    "text": "Band of Forest"
+  },
+  "SAAC33_A_ItemName": {
+    "speaker": "UI",
+    "text": "Earring of Wave"
+  },
+  "SAAC34_A_ItemName": {
+    "speaker": "UI",
+    "text": "Sunglasses"
+  },
+  "SAAC35_A_ItemName": {
+    "speaker": "UI",
+    "text": "Cerberus's Ring"
+  },
+  "SAAC36_A_ItemName": {
+    "speaker": "UI",
+    "text": "Monocle"
+  },
+  "SAAC37_A_ItemName": {
+    "speaker": "UI",
+    "text": "Eyepatch"
+  },
+  "SAAC37_B_ItemName": {
+    "speaker": "UI",
+    "text": "Blindfold"
+  },
+  "SAAC_DUMBBELL_1_ItemName": {
+    "speaker": "UI",
+    "text": "10kg Dumbbell"
+  },
+  "SAAC_DUMBBELL_2_ItemName": {
+    "speaker": "UI",
+    "text": "20kg Dumbbell"
+  },
+  "SAAC_DUMBBELL_3_ItemName": {
+    "speaker": "UI",
+    "text": "30kg Dumbbell"
+  },
+  "SAAC_DUMBBELL_4_ItemName": {
+    "speaker": "UI",
+    "text": "40kg Dumbbell"
+  },
+  "SAAC_WATCH_1_ItemName": {
+    "speaker": "UI",
+    "text": "Cheap Watch"
+  },
+  "SAAC_WATCH_2_ItemName": {
+    "speaker": "UI",
+    "text": "Wristwatch"
+  },
+  "SAAC_WATCH_3_ItemName": {
+    "speaker": "UI",
+    "text": "Silver Watch"
+  },
+  "SAAC_WATCH_4_ItemName": {
+    "speaker": "UI",
+    "text": "Chain Horologe"
+  },
+  "SAAC_TICKET_0_ItemName": {
+    "speaker": "UI",
+    "text": "Cleaning Ticket"
+  },
+  "SAAC_TICKET_1_ItemName": {
+    "speaker": "UI",
+    "text": "Street Stall Ticket"
+  },
+  "SAAC_TICKET_2_ItemName": {
+    "speaker": "UI",
+    "text": "Art Gallery Ticket"
+  },
+  "SAAC_TICKET_3_ItemName": {
+    "speaker": "UI",
+    "text": "Museum Ticket"
+  },
+  "SAAC_TICKET_4_ItemName": {
+    "speaker": "UI",
+    "text": "Black Market Ticket"
+  },
+  "SAAC_TICKET_5_ItemName": {
+    "speaker": "UI",
+    "text": "Concert Ticket"
+  },
+  "SAAC_GIVEAWAY_1_ItemName": {
+    "speaker": "UI",
+    "text": "Tissues"
+  },
+  "SAAC_GIVEAWAY_2_ItemName": {
+    "speaker": "UI",
+    "text": "Glow Stick"
+  },
+  "SAAC_GIVEAWAY_3_ItemName": {
+    "speaker": "UI",
+    "text": "Acrylic Charm"
+  },
+  "SAAC_GIVEAWAY_4_ItemName": {
+    "speaker": "UI",
+    "text": "Tumbler"
+  },
+  "SAAC_GIVEAWAY_5_ItemName": {
+    "speaker": "UI",
+    "text": "Hand Fan"
+  },
+  "SAAC_GIVEAWAY_6_ItemName": {
+    "speaker": "UI",
+    "text": "Sports Towel"
+  },
+  "SAAC_GIVEAWAY_7_ItemName": {
+    "speaker": "UI",
+    "text": "UV-Proof Stole"
+  },
+  "SAAC_GIVEAWAY_8_ItemName": {
+    "speaker": "UI",
+    "text": "Pocket Mirror"
+  },
+  "BLADGEAR_MANA00_ItemName": {
+    "speaker": "UI",
+    "text": "Eggshell"
+  },
+  "BLADGEAR_MANA01_ItemName": {
+    "speaker": "UI",
+    "text": "Shed Musua"
+  },
+  "BLADGEAR_SAGL00_ItemName": {
+    "speaker": "UI",
+    "text": "Diadema Imperatoris"
+  },
+  "BLADGEAR_SAGL01_ItemName": {
+    "speaker": "UI",
+    "text": "Logferv"
+  },
+  "BLADGEAR_SAHE00_ItemName": {
+    "speaker": "UI",
+    "text": "Alley Boots"
+  },
+  "BLADGEAR_SAHE01_ItemName": {
+    "speaker": "UI",
+    "text": "Natas"
+  },
+  "BLADGEAR_SASH00_ItemName": {
+    "speaker": "UI",
+    "text": "Identification Tag"
+  },
+  "BLADGEAR_SASH01_ItemName": {
+    "speaker": "UI",
+    "text": "Balzerive"
+  },
+  "SAAC_ABILITY_UP_1_ItemName": {
+    "speaker": "UI",
+    "text": "Sportswear"
+  },
+  "SAAC_ABILITY_UP_2_ItemName": {
+    "speaker": "UI",
+    "text": "Pressurized Base Layer"
+  },
+  "SAAC_ABILITY_UP_3_ItemName": {
+    "speaker": "UI",
+    "text": "Compression Gear"
+  },
+  "SAAC_MASTR_CROWN_1_ItemName": {
+    "speaker": "UI",
+    "text": "Master's Crown"
+  },
+  "SAAC01_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Choker"
+  },
+  "SAAC02_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Pendant"
+  },
+  "SAAC03_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Bell"
+  },
+  "SAAC04_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Charm"
+  },
+  "SAAC05_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Talisman"
+  },
+  "SAAC06_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Amulet"
+  },
+  "SAAC07_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Cursed Bone"
+  },
+  "SAAC08_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Apophyllite"
+  },
+  "SAAC09_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Horn"
+  },
+  "SAAC10_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Knot Stone"
+  },
+  "SAAC11_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Ptyalolith"
+  },
+  "SAAC12_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Trinket"
+  },
+  "SAAC13_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Vial"
+  },
+  "SAAC14_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Anuran's Ring"
+  },
+  "SAAC15_DS_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Bangle"
+  },
+  "SAAC01_MS_ItemName": {
+    "speaker": "UI",
+    "text": "Cat's Bell of Warding"
+  },
+  "SAAC02_MS_ItemName": {
+    "speaker": "UI",
+    "text": "Cat Socks"
+  },
+  "SAAC03_MS_ItemName": {
+    "speaker": "UI",
+    "text": "Cat Scrunchie"
+  },
+  "SAAC04_MS_ItemName": {
+    "speaker": "UI",
+    "text": "Catnip Charm"
+  },
+  "SAAC05_MS_ItemName": {
+    "speaker": "UI",
+    "text": "Cat Hat"
+  },
+  "SAAC06_MS_ItemName": {
+    "speaker": "UI",
+    "text": "Paw Shoes"
+  },
+  "SAAC07_MS_ItemName": {
+    "speaker": "UI",
+    "text": "Cat Gloves"
+  },
+  "SAAC08_MS_ItemName": {
+    "speaker": "UI",
+    "text": "Catear Muffler"
+  },
+  "DIVA_SLOT01_RES_ItemName": {
+    "speaker": "UI",
+    "text": "Function Limiter"
+  },
+  "DIVA_SLOT02_RES_ItemName": {
+    "speaker": "UI",
+    "text": "Function Limiter"
+  },
+  "DIVA_SLOT03_RES_ItemName": {
+    "speaker": "UI",
+    "text": "Function Limiter"
+  },
+  "DIVA_SLOT04_RES_ItemName": {
+    "speaker": "UI",
+    "text": "Function Limiter"
+  },
+  "WLLSW_OLD_01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW_OLD_02_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW01_L_ItemName": {
+    "speaker": "UI",
+    "text": "Lightweight Broadsword"
+  },
+  "WLLSW01_L_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WLLSW01_PURSUIT_A_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 When Near Death"
+  },
+  "WLLSW01_PURSUIT_B_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 When at Half Health"
+  },
+  "WLLSW01_PURSUIT_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 When at Half Health"
+  },
+  "WLLSW02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "WLLSW02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "WLLSW02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "WLLSW02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "WLLSW05_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLLSW05_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLLSW06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW07_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "WLLSW09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WLLSW09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WLLSW09_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WLLSW09_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WLLSW10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +30%"
+  },
+  "WLLSW11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "WLRAP01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Lightweight Fleuret"
+  },
+  "WLRAP01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WLRAP03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLRAP03_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLRAP03_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLRAP03_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLRAP05_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLRAP05_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLRAP06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +15%"
+  },
+  "WLRAP06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +15%"
+  },
+  "WLRAP06_C_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +15%"
+  },
+  "WLRAP07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 When Near Death"
+  },
+  "WLRAP07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 When at Half Health"
+  },
+  "WLRAP08_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "WLRAP08_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "WLRAP09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "WLRAP10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Range 1"
+  },
+  "WLRAP10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Range 1"
+  },
+  "WLRAP11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Quelling Conditionals"
+  },
+  "WLRAP11_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Quelling Conditionals"
+  },
+  "WLRAP11_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Quelling Conditionals"
+  },
+  "WLDAG01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WLDAG02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -30%"
+  },
+  "WLDAG02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -40%"
+  },
+  "WLDAG02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -50%"
+  },
+  "WLDAG04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLDAG04_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLDAG04_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLDAG04_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLDAG05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +15%"
+  },
+  "WLDAG05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +15%"
+  },
+  "WLDAG05_C_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +30%"
+  },
+  "WLDAG07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG07_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "WLDAG08_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "WLDAG08_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "WLDAG08_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "WLDAG09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WLDAG09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WLDAG09_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WLDAG09_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WLDAG10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "WLDAG10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "WLDAG10_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "WLDAG11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "WLDAG11_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLDAG11_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "WLDAG11_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "WLAXE01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WLAXE02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLAXE02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WLAXE03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLAXE03_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLAXE03_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLAXE03_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WLAXE04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "WLAXE04_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "WLAXE04_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "WLAXE05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "WLAXE05_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "WLAXE08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Combo Rate +5%"
+  },
+  "WLAXE08_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Combo Rate +5%"
+  },
+  "WLAXE09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "WLAXE09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "WLAXE10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Deals Massive Damage on Very Rare Occasions"
+  },
+  "WLAXE10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Deals Massive Damage on Very Rare Occasions"
+  },
+  "WLAXE11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLAXE11_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLAXE11_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW01_C_ItemName": {
+    "speaker": "UI",
+    "text": "Lightweight Zweihander"
+  },
+  "WHGSW01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WHGSW01_D_ItemName": {
+    "speaker": "UI",
+    "text": "Fine Zweihander"
+  },
+  "WHGSW01_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "WHGSW01_GUARD_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW01_GUARD_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW01_GUARD_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW03_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHGSW03_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHGSW05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "WHGSW05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "WHGSW05_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "WHGSW05_D_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "WHGSW06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +15%"
+  },
+  "WHGSW06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +30%"
+  },
+  "WHGSW07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WHGSW08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Range 0"
+  },
+  "WHGSW08_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Range 1"
+  },
+  "WHGSW09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WHGSW09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WHGSW09_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WHGSW09_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WHGSW10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "WHGSW10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "WHGSW11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -30%"
+  },
+  "WHGSW11_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -40%"
+  },
+  "WHGSW_EXCALIBUR_01_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "WHGSW_EXCALIBUR_02_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "WHGSW_EXCALIBUR_03_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "WHGSW_EXCALIBUR_04_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "WHSSW_OLD_01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WHSSW04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW04_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW04_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHSSW05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WHSSW05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WHSSW05_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WHSSW05_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WHSSW06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WHSSW06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WHSSW07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "WHSSW07_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "WHSSW08_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHSSW08_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHSSW09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Combo Rate +7%"
+  },
+  "WHSSW09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Combo Rate +7%"
+  },
+  "WHSSW10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -30%"
+  },
+  "WHSSW10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -40%"
+  },
+  "WHSSW10_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -50%"
+  },
+  "WHSSW11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "WHSSW11_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "WHSSW_HIDEYOSHI_ItemExp": {
+    "speaker": "UI",
+    "text": "Deals Massive Damage on Very Rare Occasions"
+  },
+  "WHSSW_IEYASU_ItemExp": {
+    "speaker": "UI",
+    "text": "Deals Massive Damage on Rare Occasions"
+  },
+  "WHSSW_NOBUNAGA_ItemExp": {
+    "speaker": "UI",
+    "text": "Deals Massive Damage on Occasion"
+  },
+  "WHPSW01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "WHPSW03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WHPSW03_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WHPSW03_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WHPSW03_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "WHPSW05_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHPSW05_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "WHPSW06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "WHPSW06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "WHPSW07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW08_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "WHPSW08_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "WHPSW09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WHPSW09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WHPSW09_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WHPSW09_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "WHPSW10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHPSW11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% Against Chanting Enemies"
+  },
+  "WHPSW11_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% Against Chanting Enemies"
+  },
+  "WHPSW11_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% Against Chanting Enemies"
+  },
+  "GLONE_OLD_01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE_OLD_02_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "GLONE01_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "GLONE01_E_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "GLONE01_F_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "GLONE02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "GLONE03_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate per missing retinue member +10%"
+  },
+  "GLONE04_C_ItemName": {
+    "speaker": "UI",
+    "text": "Living Revolver Mk. II"
+  },
+  "GLONE04_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "GLONE04_D_ItemName": {
+    "speaker": "UI",
+    "text": "Living Revolver Mk. III"
+  },
+  "GLONE04_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "GLONE06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Quelling Conditionals"
+  },
+  "GLONE06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Quelling Conditionals"
+  },
+  "GLONE07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "GLONE07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "GLONE07_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "GLONE07_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Critical Attack Power +15%"
+  },
+  "GLONE08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE08_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE08_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -30%"
+  },
+  "GLONE09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -40%"
+  },
+  "GLONE09_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -40%"
+  },
+  "GLONE11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE11_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE11_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE12_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE13_A_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "GLONE13_B_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "GLONE13_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "GLONE13_D_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "GLONE14_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "GLONE14_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "GLONE15_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "GLONE16_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "GLONE17_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GLONE18_A_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1"
+  },
+  "GHMAC_OLD_01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHMAC_OLD_02_ItemExp": {
+    "speaker": "UI",
+    "text": "Tech Order -2"
+  },
+  "GHMAC_OLD_03_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Enmity (L)"
+  },
+  "GHMAC_OLD_04_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Range 0"
+  },
+  "GHMAC01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "GHMAC01_D_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "GHMAC01_E_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "GHMAC02_E_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHMAC02_2_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHFLA01_ZERO_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +15%"
+  },
+  "GHFLA01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +15%"
+  },
+  "GHFLA01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +15%"
+  },
+  "GHFLA01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +15%"
+  },
+  "GHFLA01_D_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +15%"
+  },
+  "GHFLA01_2_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +30%"
+  },
+  "GHFLA02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "GHFLA02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "GHFLA02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "GHFLA02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied"
+  },
+  "GHELE01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Resistance +15%"
+  },
+  "GHELE01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Resistance +15%"
+  },
+  "GHELE01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Resistance +15%"
+  },
+  "GHELE01_D_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Resistance +15%"
+  },
+  "GHELE01_2_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Resistance +30%"
+  },
+  "GHELE02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "GHELE02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Initial Combo Rate +5%"
+  },
+  "GHBOM01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +10%"
+  },
+  "GHBOM01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +10%"
+  },
+  "GHBOM01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +10%"
+  },
+  "GHBOM01_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +10%"
+  },
+  "GHBOM01_2_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +20%"
+  },
+  "GHBOM02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "GHBOM02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "GHBOM02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "GHBOM02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "GHCHE01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +15%"
+  },
+  "GHCHE01_B_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +15%"
+  },
+  "GHCHE01_C_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +15%"
+  },
+  "GHCHE01_D_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +15%"
+  },
+  "GHCHE01_2_A_ItemExp": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +30%"
+  },
+  "GHCHE02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "GHCHE02_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "GHCHE02_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "GHCHE02_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Finisher Combo Rate +10%"
+  },
+  "BLADGEAR_SWORD00_ItemExp": {
+    "speaker": "UI",
+    "text": "Can be made into sanguine gear via enhancement"
+  },
+  "BLADGEAR_SWORD01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "BLADGEAR_GUN00_ItemExp": {
+    "speaker": "UI",
+    "text": "Can be made into sanguine gear via enhancement"
+  },
+  "BLADGEAR_GUN01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WLLSW_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "GLONE_DW_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "WLLSW01_MW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "WHGSW01_MW_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell BP Cost -1"
+  },
+  "GLONE01_MW_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "GHMAC01_MW_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell BP Cost -1"
+  },
+  "MACL04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA05_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_BONE01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_BONE02_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_BONE03_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_BONE04_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_BEAST01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_BEAST02_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_BEAST03_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_BEAST04_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_SNAKE01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_SNAKE02_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_SNAKE03_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA_SNAKE04_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MANA16_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAFA01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAFA02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAFA03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAFA04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAFA05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAFA06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MAFA07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Action Order Up (S)"
+  },
+  "MAFA08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Action Order Up (S)"
+  },
+  "MAFA09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Action Order Up (S)"
+  },
+  "MARO00_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO00_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO08_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO11_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO11_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "MARO_ALL01_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +10%"
+  },
+  "MARO_ALL02_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +15%"
+  },
+  "MARO_ALL03_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +20%"
+  },
+  "MARO12_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell Resistance +10%"
+  },
+  "MARO12_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell Resistance +10%"
+  },
+  "MARO12_C_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell Resistance +15%"
+  },
+  "MARO12_D_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell Resistance +20%"
+  },
+  "MARO13_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Less Likely to Be Targeted (M)"
+  },
+  "MARO14_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Less Likely to Be Targeted (L)"
+  },
+  "MARO15_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Less Likely to Be Targeted (XL)"
+  },
+  "SAIN08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAIN13_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +10%"
+  },
+  "SAIN13_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +10%"
+  },
+  "SAIN14_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell Resistance +10%"
+  },
+  "SAIN14_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell Resistance +10%"
+  },
+  "SAHE01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE12_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S)"
+  },
+  "SAHE13_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S)"
+  },
+  "SAHE14_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S)"
+  },
+  "SAHE15_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S)"
+  },
+  "SAHE15_B_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S)"
+  },
+  "SAHE16_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Strike>Blunt Attacks (S)"
+  },
+  "SAHE17_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE18_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE18_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE18_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE18_D_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE18_E_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE18_F_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE18_G_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE18_H_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE19_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE20_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE21_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE22_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE23_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE24_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE25_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAHE26_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Slash>Slash Attacks (S)"
+  },
+  "SAGL05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Slash>Slash Attacks (S)"
+  },
+  "SAGL06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Slash>Slash Attacks (S)"
+  },
+  "SAGL06_B_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Slash>Slash Attacks (S)"
+  },
+  "SAGL07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL07_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Slash>Slash Attacks (S)"
+  },
+  "SAGL10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Slash>Slash Attacks (S)"
+  },
+  "SAGL11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL12_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL13_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL13_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL14_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +20%"
+  },
+  "SAGL15_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +30%"
+  },
+  "SAGL16_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Accuracy +50%"
+  },
+  "SAGL17_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL18_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Inverts Combo Range"
+  },
+  "SAGL18_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Inverts Combo Range"
+  },
+  "SAGL19_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL20_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL20_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAGL21_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted While Chanting"
+  },
+  "SAGL21_B_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted While Chanting"
+  },
+  "SASH03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S)"
+  },
+  "SASH04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S)"
+  },
+  "SASH04_B_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S)"
+  },
+  "SASH05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S)"
+  },
+  "SASH05_B_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S)"
+  },
+  "SASH06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Stab>Pierce Attacks (S)"
+  },
+  "SASH07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH09_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH09_C_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH10_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH12_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH12_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH13_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH14_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH15_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SASH17_A_ItemExp": {
+    "speaker": "UI",
+    "text": "Interrupt Evade Chance +50%"
+  },
+  "SASH17_A2_ItemExp": {
+    "speaker": "UI",
+    "text": "Interrupt Evade Chance +50%"
+  },
+  "SASH17_B_ItemExp": {
+    "speaker": "UI",
+    "text": "Counterattack Damage Resistance +50%"
+  },
+  "SASH17_B2_ItemExp": {
+    "speaker": "UI",
+    "text": "Counterattack Damage Resistance +50%"
+  },
+  "SAAC00_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC01_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC02_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC03_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC04_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC05_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC06_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC07_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC08_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC09_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC10_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC11_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC12_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC13_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC14_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC14_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC15_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC15_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC16_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC16_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC17_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC17_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC18_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC18_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC19_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC19_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC20_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC20_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC21_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC21_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC22_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC22_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC23_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC23_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC24_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Slash>Slash Attacks (L)"
+  },
+  "SAAC25_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Strike>Blunt Attacks (L)"
+  },
+  "SAAC26_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Stab>Pierce Attacks (L)"
+  },
+  "SAAC27_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Fire>Heat Attacks (L)"
+  },
+  "SAAC28_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Ice>Cold Attacks (L)"
+  },
+  "SAAC29_A_ItemExp": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted by <emoji Lightning>Shock Attacks (L)"
+  },
+  "SAAC30_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC31_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC32_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC33_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC34_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC35_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC35_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC36_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC37_A_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC37_B_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC_RING_FOOL_ItemName": {
+    "speaker": "UI",
+    "text": "Fool's Ring"
+  },
+  "SAAC_RING_FOOL_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Range 0"
+  },
+  "SAAC_RING_ATK_ItemExp": {
+    "speaker": "UI",
+    "text": "Attack Power +10%"
+  },
+  "SAAC_RING_DEF_ItemExp": {
+    "speaker": "UI",
+    "text": "Defense +10%"
+  },
+  "SAAC_RING_AGL_ItemExp": {
+    "speaker": "UI",
+    "text": "Speed +10%"
+  },
+  "SAAC_RING_MAG_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell Power +10%"
+  },
+  "SAAC_WATCH_1_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 6 Onward"
+  },
+  "SAAC_WATCH_2_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 5 Onward"
+  },
+  "SAAC_WATCH_3_ItemExp": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 4 Onward"
+  },
+  "SAAC_WATCH_4_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo Rate +4%"
+  },
+  "SAAC_TICKET_0_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC_TICKET_1_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order +3"
+  },
+  "SAAC_TICKET_2_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order -3"
+  },
+  "SAAC_TICKET_3_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order -6"
+  },
+  "SAAC_TICKET_4_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order +6"
+  },
+  "SAAC_TICKET_5_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "SAAC_GIVEAWAY_1_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC_GIVEAWAY_2_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC_GIVEAWAY_3_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell Resistance +3%"
+  },
+  "SAAC_GIVEAWAY_4_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC_GIVEAWAY_5_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC_GIVEAWAY_6_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC_GIVEAWAY_7_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC_GIVEAWAY_8_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC_ABILITY_UP_1_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Attribute Growth Rate (S)"
+  },
+  "SAAC_ABILITY_UP_2_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Attribute Growth Rate (M)"
+  },
+  "SAAC_ABILITY_UP_3_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Attribute Growth Rate (L)"
+  },
+  "SAAC_MASTR_CROWN_1_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Tech Rank Growth Rate"
+  },
+  "BLADGEAR_MANA00_ItemExp": {
+    "speaker": "UI",
+    "text": "Can be made into sanguine gear via enhancement"
+  },
+  "BLADGEAR_MANA01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "BLADGEAR_SAGL00_ItemExp": {
+    "speaker": "UI",
+    "text": "Can be made into sanguine gear via enhancement"
+  },
+  "BLADGEAR_SAGL01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "BLADGEAR_SAHE00_ItemExp": {
+    "speaker": "UI",
+    "text": "Can be made into sanguine gear via enhancement"
+  },
+  "BLADGEAR_SAHE01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "BLADGEAR_SASH00_ItemExp": {
+    "speaker": "UI",
+    "text": "Can be made into sanguine gear via enhancement"
+  },
+  "BLADGEAR_SASH01_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC01_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC02_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC03_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC04_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC05_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC06_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC07_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC08_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC09_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC10_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC11_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC12_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC13_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC14_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC15_DS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC01_MS_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell Resistance +3%"
+  },
+  "SAAC02_MS_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order -9"
+  },
+  "SAAC03_MS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC04_MS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "SAAC05_MS_ItemExp": {
+    "speaker": "UI",
+    "text": "Less Likely to Be Targeted While Chanting"
+  },
+  "SAAC06_MS_ItemExp": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order +9"
+  },
+  "SAAC08_MS_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_001_ItemName": {
+    "speaker": "UI",
+    "text": "Dayblade +2"
+  },
+  "ITEM_001_ItemExp": {
+    "speaker": "UI",
+    "text": "Guaranteed Hit"
+  },
+  "ITEM_002_ItemName": {
+    "speaker": "UI",
+    "text": "Moonlite +2"
+  },
+  "ITEM_002_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -40%"
+  },
+  "ITEM_003_ItemName": {
+    "speaker": "UI",
+    "text": "True Lefikar"
+  },
+  "ITEM_003_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_004_ItemName": {
+    "speaker": "UI",
+    "text": "True Normam"
+  },
+  "ITEM_004_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_005_ItemName": {
+    "speaker": "UI",
+    "text": "True Shed Musua"
+  },
+  "ITEM_005_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_006_ItemName": {
+    "speaker": "UI",
+    "text": "True Logferv"
+  },
+  "ITEM_006_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_007_ItemName": {
+    "speaker": "UI",
+    "text": "True Natas"
+  },
+  "ITEM_007_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_008_ItemName": {
+    "speaker": "UI",
+    "text": "True Balzerive"
+  },
+  "ITEM_008_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_009_ItemName": {
+    "speaker": "UI",
+    "text": "Bronze Mirror"
+  },
+  "ITEM_009_ItemExp": {
+    "speaker": "UI",
+    "text": "Expand Combo Range"
+  },
+  "ITEM_010_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Wing"
+  },
+  "ITEM_010_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_011_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Red Urn"
+  },
+  "ITEM_011_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_012_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Blue Urn"
+  },
+  "ITEM_012_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_013_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Yellow Urn"
+  },
+  "ITEM_013_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "ITEM_014_ItemName": {
+    "speaker": "UI",
+    "text": "Djinn's Belt"
+  },
+  "ITEM_014_ItemExp": {
+    "speaker": "UI",
+    "text": "Raises Attribute Growth Rate (M)"
+  },
+  "ITEM_015_ItemName": {
+    "speaker": "UI",
+    "text": "Sealed Deity's Insignia"
+  },
+  "ITEM_015_ItemExp": {
+    "speaker": "UI",
+    "text": "None"
+  }
+}

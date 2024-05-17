@@ -1,0 +1,2238 @@
+{
+  "SUB_W15_WRLD_AMYA_INITIAL_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeesh, what is that terrible SMELL!?\nIs it because of the smoke coming \nfrom those buildings over there?"
+  },
+  "SUB_W15_WRLD_AMYA_INITIAL_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Not the liveliest city I've\never seen, that's for sure."
+  },
+  "SUB_W15_WRLD_AMYA_INITIAL_000_CUT_000_015": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oh, look! It's the Vermillion Bird!\n...Wait, no. Just a shape in the smoke."
+  },
+  "SUB_W15_WRLD_AMYA_INITIAL_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "That sounded like an explosion!\nWhere'd it come from?"
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_000": {
+    "speaker": "CEO_TRIGON",
+    "text": "Another accident? Well, great. I suppose this\nis going to postpone the beginning of service\nyet again. What is our useless pack of engineers\neven doing!?"
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_010": {
+    "speaker": "CEO_TRIGON",
+    "text": "You there! What are you staring into\nspace for? Hurry up and deal with this!"
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh..."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_030": {
+    "speaker": "Fred_Kinlei",
+    "text": "I'll see it taken care of, Director.\nI've already called Corana."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_040": {
+    "speaker": "CEO_TRIGON",
+    "text": "There's going to be no end to trouble if you\ndon't sort this out, Fred. Dealing with the\nAnti-Triangle is already enough of a headache—\nwe don't need more issues in our lives."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_050": {
+    "speaker": "CEO_TRIGON",
+    "text": "And remember this: the Trigon Corporation\nhas no seats at the table for those who prove\nthemselves of no use."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_060": {
+    "speaker": "Fred_Kinlei",
+    "text": "Sorry about that, friend. The director's been\non edge lately, what with the accidents at\nthe triangle engines and the appearance\nof the Anti-Triangle."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "If you hoped I would follow that,\nyou're gonna be disappointed."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_080": {
+    "speaker": "Fred_Kinlei",
+    "text": "Ah, I see. You've clearly come to\nus from somewhere far away."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_090": {
+    "speaker": "Fred_Kinlei",
+    "text": "Well then, let me give you the rundown.\nEvery single machine we have is powered\nby something called a 'triangle engine.'\fThese engines are based on a concept\ncalled 'triangle theory,' and require\nno fuel of any kind."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "I don't know about this theory you've got,\nbut I assume the gist is that it's like a\nmagical circuit that uses triangles?\nAlso, what's this 'Anti-Triangle' stuff?"
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_110": {
+    "speaker": "Fred_Kinlei",
+    "text": "The term 'Anti-Triangle' is a general\nword we use to describe the fiends\nthat have started to crop up near\nour triangle engines of late.\fOur current working theory is that these fiends\nare attracted to the force fields that surround\nthe engines, but honestly, the phenomenon isn't\nparticularly well understood yet."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_120": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oh, fiends always gather in places where\nmagic is generated. They're drawn to it."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_130": {
+    "speaker": "Fred_Kinlei",
+    "text": "A fascinating theory! Are you a scholar?\nI'm sure she'd be interested to—"
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_140": {
+    "speaker": "Corana_Sitrix",
+    "text": "I hear we had another accident\nwith the triangle engines."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_150": {
+    "speaker": "Fred_Kinlei",
+    "text": "Oh, Corana! Great. Now that you're here,\nI'll let you sort the situation out.\nWork with this woman here to repair the\ntriangle engines, please and thank you."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_160": {
+    "speaker": "Corana_Sitrix",
+    "text": "All right. Come on, you—we'll start by\nmaking some emergency repairs to the\ncentral terminal."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_170": {
+    "speaker": "Amaya_Aisling",
+    "text": "Now hold on just a—"
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_180": {
+    "speaker": "BX10_EX",
+    "text": "We should finish the repairs quickly;\nthe explosion's impact is already\nspreading across the land."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_000_190": {
+    "speaker": "Corana_Sitrix",
+    "text": "Master is right. Let's hurry."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_010_000": {
+    "speaker": "BX10_EX",
+    "text": "Emergency repairs are finished.\nThings should function without\nissue once more after we restore\nthe entire triangle network."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_010_010": {
+    "speaker": "Corana_Sitrix",
+    "text": "As the new model of triangle engine\nis rather lacking in countermeasures,\nsudden loads tend to cause accidents.\fAlso, I've yelled at the Trigon board about\nthis until I'm blue in the face, but do\nthey listen to me? Nooo!"
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_010_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Wish I could help you, but this\nis all a bit out of my league."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_010_030": {
+    "speaker": "Corana_Sitrix",
+    "text": "Yes, I suppose. It's just so frustrating!\nThe director never listens to a word I say,\ntelling Fred is pointless, and you...\nWell, you happen to be standing here."
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_010_040": {
+    "speaker": "BX10_EX",
+    "text": "There is no time for idle chatter.\nWe must proceed to the next location. "
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_010_050": {
+    "speaker": "Corana_Sitrix",
+    "text": "Of course, Master. We'll head to the\ntriangle engine at the tower at once.\nCome along, you!"
+  },
+  "SUB_W15_EVAR_AMYA_TERMINAL_000_CUT_010_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Wait, hold on!"
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Is that fiend there part of that\n'Anti-Triangle' you mentioned?"
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_000_010": {
+    "speaker": "Corana_Sitrix",
+    "text": "You don't know about the Anti-Triangle?\nAre you a new hire or something?"
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "I'm not a new hire, I'm a 'no' hire!\nI don't work for your company at all!\fI was just passing by, but then that director\nlady thought I looked like an employee and\nthat Fred guy started bossing me around,\nand now I'm here with you repairing stuff."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_000_030": {
+    "speaker": "Corana_Sitrix",
+    "text": "Oh? Hmm. Sorry about that; I thought you\nwere a Trigon Corporation employee. Still,\nthat doesn't explain why Fred had you come."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Honestly, I think Fred KNOWS I'm not an\nemployee. I mean, he knew right away\nthat I came from somewhere else."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "But before we keep talking,\nwe should sort out these fiends!"
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_000": {
+    "speaker": "BX10_EX",
+    "text": "System reinitialization is complete,\nand the restart process is underway.\nWe should return to normal output shortly."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "So did those fiends wreck\nthe triangle engine?"
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_020": {
+    "speaker": "Corana_Sitrix",
+    "text": "The Anti-Triangle doesn't attack the triangle\nengines—it just steals energy from them.\nBut eventually it steals so much that\nthe engines overload and shut down."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_030": {
+    "speaker": "Corana_Sitrix",
+    "text": "Usually I can't count on a word Fred says,\nbut it looks like he wasn't wrong about my\nbringing you along."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_040": {
+    "speaker": "Corana_Sitrix",
+    "text": "Since all the other triangle engines are\ncurrently in shutdown mode, I need to\ngo around and restart them all."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_050": {
+    "speaker": "Corana_Sitrix",
+    "text": "I'd normally have to wait until Trigon sent out\na special team to deal with the Anti-Triangle,\nbut with you and Master at my side, we should\nbe able to proceed without issue."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "I'm glad, but—and don't laugh—I actually came\nhere looking for a magical cat. It's a serious\nsituation, and I really have to find it."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_070": {
+    "speaker": "Corana_Sitrix",
+    "text": "Which means you'll be searching\nfor enchanted felines instead of\nhelping me?"
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "What? No! See, I've got a feeling the\nAnti-Triangle and these triangle engines\nare tied into my finding the cat somehow,\nso I'm totally going to help you."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_090": {
+    "speaker": "Corana_Sitrix",
+    "text": "That would be wonderful, thank you.\nAnd in return, I will do what I can\nto help you."
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_100": {
+    "speaker": "BX10_EX",
+    "text": "A fine plan. Now let us head to the next site;\nas soon as we have three repaired engines,\nwe can link them into a more efficient\ntandem known as a 'triangle network.'"
+  },
+  "SUB_W15_EVAR_AMYA_TOWER_000_CUT_010_110": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hm, okay. So between the terminal and\nthe tower, we just need one more place\nrepaired to make a triangle."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "This place would form a triangle if it had\nan engine, but it's just some dusty old cave.\nCould there really be something here?"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_010": {
+    "speaker": "BX10_EX",
+    "text": "Not according to the data I have on hand.\nThat said, the place is indeed part of\nthe triangle network."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_020": {
+    "speaker": "Barbara",
+    "text": "Welcome to Mural Ruins. I'm Barbara,\nand I conduct research on the murals here.\nI heard we had some unusual guests coming,\nbut didn't know Dr. Sitrix had an assistant!"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Heya! I'm Ameya, and I'm helping\nMaster fix up the triangle engines.\nSo what's the story with these ruins?"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_040": {
+    "speaker": "Barbara",
+    "text": "This is the place where Alessa and Corana—\nthe Sitrix sisters—invented triangle theory.\nSupposedly they were inspired by the murals,\nbut that could just be a myth."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_050": {
+    "speaker": "Barbara",
+    "text": "Regardless, I'm hoping to unravel the true\nmeaning behind the murals by investigating\nthe various pieces that remain here."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_060": {
+    "speaker": "BX10_EX",
+    "text": "I would also like to see the mural\nthat Dr. Corana Sitrix saw."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "I'm kinda surprised you\nhaven't seen it already."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_080": {
+    "speaker": "BX10_EX",
+    "text": "I was created by Dr. Alessa Sitrix based\nupon the principles of triangle theory.\nI know nothing of the time prior to my\ninitial origination."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_090": {
+    "speaker": "Barbara",
+    "text": "Oh dear. You see, that mural is located\ndeep inside the cave, and I am not sure\nI can actually guide you there.\fYou'll probably want to consult with Corana;\nit's a complicated route, but I'm sure BX10\nwon't have any trouble recalling it once\nshe implants it in his memory."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "How about it, Master?"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_110": {
+    "speaker": "BX10_EX",
+    "text": "I wish to see the place where triangle theory\nwas born. The reason behind this is something\nmore akin to human sentimentality than logic,\nbut either way, I feel the need to go there."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_000_CUT_000_120": {
+    "speaker": "Amaya_Aisling",
+    "text": "Then let's head for Corana's lab!"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_GOLAB_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hi there, Corana! I heard about the mural \nyou found—the one that helped you develop\ntriangle theory?\fMaster and I wanted to take a peek at it,\nso I was wondering if you'd mind pointing\nus in the right direction."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_GOLAB_000_CUT_000_010": {
+    "speaker": "Corana_Sitrix",
+    "text": "There are more than a few factual inaccuracies\nthere, but I'll let that go for now. More to the\npoint, however, you can't visit the mural."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_GOLAB_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Wait, did you DESTROY it!?"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_GOLAB_000_CUT_000_030": {
+    "speaker": "Corana_Sitrix",
+    "text": "No, it turned into the Vermillion Bird and\nflew away. That event was the impetus for\nour research into triangle theory, which posits\nthat arrays of triangles can produce energy."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_GOLAB_000_CUT_000_040": {
+    "speaker": "BX10_EX",
+    "text": "I exist because doctors Corana and Alessa Sitrix\nwent into that cave, and would like to see it for\nmyself so I might decide whether or not it is a\ntruly special place."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_GOLAB_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeah, we'd BOTH love to see it."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_GOLAB_000_CUT_000_060": {
+    "speaker": "Corana_Sitrix",
+    "text": "Very well. In that case, I will record\nthe location data in Master's memory\nso he can guide you there."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_000": {
+    "speaker": "Barbara",
+    "text": "Did she give you directions?"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yep, we got the data we needed.\nLead the way, Master!"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_020": {
+    "speaker": "Barbara",
+    "text": "Do you mind if I come along?"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_030": {
+    "speaker": "BX10_EX",
+    "text": "Not at all. Just take care not\nto get lost along the way."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_040": {
+    "speaker": "BX10_EX",
+    "text": "First we go left."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_050": {
+    "speaker": "BX10_EX",
+    "text": "Next, right."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_060": {
+    "speaker": "BX10_EX",
+    "text": "We go straight here."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_070": {
+    "speaker": "BX10_EX",
+    "text": "Right again."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_080": {
+    "speaker": "BX10_EX",
+    "text": "Straight."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_090": {
+    "speaker": "BX10_EX",
+    "text": "Left."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_100": {
+    "speaker": "BX10_EX",
+    "text": "Right."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_110": {
+    "speaker": "BX10_EX",
+    "text": "Straight."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_120": {
+    "speaker": "Barbara",
+    "text": "Are we not there yet!?"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_130": {
+    "speaker": "BX10_EX",
+    "text": "And left."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_140": {
+    "speaker": "BX10_EX",
+    "text": "We have arrived."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_150": {
+    "speaker": "Amaya_Aisling",
+    "text": "Aw, boo. The mural's gone,\njust like Corana said."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_160": {
+    "speaker": "Barbara",
+    "text": "Wait, it's gone!? Why didn't you say that\nBEFORE we tromped all the way here!?"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_170": {
+    "speaker": "Amaya_Aisling",
+    "text": "But wait, look! There's some kind\nof triangular indentation."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_180": {
+    "speaker": "Barbara",
+    "text": "Ah, yes. I also see a triangular\nfragment on the ground."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_190": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, this seems simple enough!"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_200": {
+    "speaker": "Amaya_Aisling",
+    "text": "Whoa! What the heck!?"
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_210": {
+    "speaker": "BX10_EX",
+    "text": "Though faint, I am detecting energy. \nThis is a triangle engine."
+  },
+  "SUB_W15_EVAR_AMYA_CAVE_END_000_CUT_000_220": {
+    "speaker": "Barbara",
+    "text": "Oh, but this raises so many questions!\nDid this occur naturally, or did ancient\npeople already know about triangle theory!?"
+  },
+  "SUB_W15_EVAR_AMYA_DAM_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Does a dam even need\na triangle engine?"
+  },
+  "SUB_W15_EVAR_AMYA_DAM_000_CUT_000_010": {
+    "speaker": "BX10_EX",
+    "text": "The dam's hydraulic power generation\nis used to make the triangle engine\nmore efficient.\fIt is one of Dr. Alessa Sitrix's earliest\nworks—such a large-scale apparatus\nwould not be made today."
+  },
+  "SUB_W15_EVAR_AMYA_DAM_000_CUT_000_020": {
+    "speaker": "DamMaster_Teo",
+    "text": "A'yup. And since it's so old,\nmaintenance is a real pain."
+  },
+  "SUB_W15_EVAR_AMYA_DAM_000_CUT_000_030": {
+    "speaker": "BX10_EX",
+    "text": "While the procedure to restart this engine\nis not complicated, it takes a good deal of\ntime due to the size of the dam. As such,\nI recommend we prioritize other locations."
+  },
+  "SUB_W15_EVAR_AMYA_DAM_000_CUT_000_040": {
+    "speaker": "DamMaster_Teo",
+    "text": "Actually, I can handle it if you give me\nthe details. I mean, it IS my job as the\nforeman of the dam and all."
+  },
+  "SUB_W15_EVAR_AMYA_DAM_000_CUT_000_050": {
+    "speaker": "BX10_EX",
+    "text": "Very well. Remember these steps.\nFirst, you..."
+  },
+  "SUB_W15_EVAR_AMYA_DAM_000_CUT_000_060": {
+    "speaker": "BX10_EX",
+    "text": "...And if you repeat that sequence,\neverything should work out."
+  },
+  "SUB_W15_EVAR_AMYA_DAM_000_CUT_000_070": {
+    "speaker": "DamMaster_Teo",
+    "text": "Woof! That's a lot more work than I\nwas expecting. But I'll get 'er done,\ndon't you worry."
+  },
+  "SUB_W15_EVAR_AMYA_DAM_END_000_CUT_000_000": {
+    "speaker": "DamMaster_Teo",
+    "text": "Took a while, but I finally managed\nto get everything restarted."
+  },
+  "SUB_W15_EVAR_AMYA_DAM_END_000_CUT_000_010": {
+    "speaker": "DamMaster_Teo",
+    "text": "Thanks for showing me how, by the way!\nProbably a good thing for me to know."
+  },
+  "SUB_W15_EVAR_AMYA_DAM_END_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, this is a relief."
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_000_CUT_000_000": {
+    "speaker": "Silvano",
+    "text": "People keep saying things are being\npurified, but the pollution around here\nis clearly getting WORSE, not better."
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_000_CUT_000_010": {
+    "speaker": "Silvano",
+    "text": "I mean, these people are all\noff their nuts, right!?"
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "They sure are!"
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Meh, not really."
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_000_CUT_000_040": {
+    "speaker": "Silvano",
+    "text": "Exactly—and that's why we need\nto ACTUALLY purify things!"
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_000_CUT_000_050": {
+    "speaker": "Silvano",
+    "text": "So you're on their side,\ntree-hater!?"
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_000_CUT_000_060": {
+    "speaker": "BX10_EX",
+    "text": "With that man gone,\nwe can restart the engine."
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_010_CUT_000_000": {
+    "speaker": "Silvano",
+    "text": "Oh ho! Kindred spirits!"
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_010_CUT_000_010": {
+    "speaker": "Silvano",
+    "text": "Today we're gonna do some\nREAL purification!"
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_010_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Happy to help!"
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_010_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, leave me out of it."
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_010_CUT_000_040": {
+    "speaker": "Silvano",
+    "text": "Then let's get started."
+  },
+  "SUB_W15_EVAR_AMYA_FOREST_010_CUT_000_050": {
+    "speaker": "Silvano",
+    "text": "What did you say, traitor!?"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "TRIGON_Nello",
+    "text": "Goodness, but that's an unusual fashion sense\nyou're sporting! Got time to chat? I'd love\nto pick your brain and see if it can maybe\nlead to developing some new products."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oh, for sure! I'm pretty\ninterested in fashion, myself."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "TRIGON_Nello",
+    "text": "Yes, your outfit is almost to die for, and yet\nthere's something missing. A headband, perhaps?\nEarrings? A necklace?\fEureka! It's a WATCH!"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "A watch? Like, a thing to see the time?\nWitches don't really need gear like that,\nbut if it looks cute, I'm totally willing\nto strap it on and see."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "BX10_EX",
+    "text": "Does the Trigon Corporation even have the\ntechnology to develop a triangle engine\nsmall enough to be worn on the wrist?"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "TRIGON_Nello",
+    "text": "Don't underestimate us! Why, your circuits\nwould be scrambled if you saw what was\ngoing on at the company's R&D facility!"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Field trip time!"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTOWER_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hrm. This thing's big and clunky\nand not cute at ALL."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTOWER_000_CUT_000_010": {
+    "speaker": "TRIGON_Nello",
+    "text": "No good, huh?"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTOWER_000_CUT_000_020": {
+    "speaker": "CEO_TRIGON",
+    "text": "What's the problem here?"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTOWER_000_CUT_000_030": {
+    "speaker": "TRIGON_Nello",
+    "text": "Director! I'm working on a prototype that\nutilizes a small-scale triangle engine,\nbut it appears it's still too large."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTOWER_000_CUT_000_040": {
+    "speaker": "CEO_TRIGON",
+    "text": "The miniaturized triangle engine is a nut\ncountless individuals before you have\ntried and failed to crack."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTOWER_000_CUT_000_050": {
+    "speaker": "CEO_TRIGON",
+    "text": "We need more practical product concepts.\nTry asking for Fred's opinion."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTOWER_000_CUT_000_060": {
+    "speaker": "TRIGON_Nello",
+    "text": "Right away, ma'am!"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_000": {
+    "speaker": "TRIGON_Nello",
+    "text": "Say there, Fred! So I'm trying to develop a\nwristwatch that utilizes a miniature triangle\nengine, but I just can't seem to get the thing\nsmall enough. Do you have any ideas?"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_010": {
+    "speaker": "Fred_Kinlei",
+    "text": "Miniaturizing a triangle engine is something\nbest left to pure geniuses like Alessa.\nSadly, she was never interested in that\nkind of research."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_020": {
+    "speaker": "BX10_EX",
+    "text": "Agreed. Dr. Alessa Sitrix's research interests\nshifted away from improving the triangle engine\nitself and toward the development of the\nBX series—which concluded with me."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_030": {
+    "speaker": "Fred_Kinlei",
+    "text": "She doesn't much care about machines.\nIn the end, Alessa thinks about Alessa,\nand that's it."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "So she <i>still</i> thinks about herself?"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_050": {
+    "speaker": "Fred_Kinlei",
+    "text": "Oh, sorry. Did it sound like that?\nNo, I'm afraid Alessa has passed on.\nI was speaking of things in the past."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_060": {
+    "speaker": "Fred_Kinlei",
+    "text": "Oh, and this is merely a thought,\nbut what if you pursued an air purifier\ninstead of this wristwatch?"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_070": {
+    "speaker": "Fred_Kinlei",
+    "text": "The technological capabilities of the Trigon\nCorporation allow us to manufacture large-\nscale products with ease, you see.\fAnd if we develop products that are meant\nfor factories and not individuals, we can\nsell them at an even higher price."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_080": {
+    "speaker": "TRIGON_Nello",
+    "text": "Ah, I see! So rather than trying to force the\nminiaturization work, I should make use of our\nexisting technology on products that need it!\nI think I've seen the light as an engineer."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_GOTERMINAL_000_CUT_000_090": {
+    "speaker": "Fred_Kinlei",
+    "text": "Great. Then go work hard so you\ncan earn the director's approval."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_END_000_CUT_000_000": {
+    "speaker": "TRIGON_Nello",
+    "text": "Thanks to you, we sold\na ton of air purifiers!"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_END_000_CUT_000_010": {
+    "speaker": "BX10_EX",
+    "text": "And by installing them in this area,\nthe triangle network has been restored."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_END_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, that worked out well."
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_010_CUT_000_000": {
+    "speaker": "TRIGON_Nello",
+    "text": "I've heard from my colleagues in the\nResidential and Commercial Wards,\nand we're going to purify this area!"
+  },
+  "SUB_W15_EVAR_AMYA_INDUSTRIAL_010_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Great! That makes this easier."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_000": {
+    "speaker": "Corana_Sitrix",
+    "text": "It appears the triangle network repairs\nare proceeding smoothly. Thank you."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hee hee! More praise, please!"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_020": {
+    "speaker": "Corana_Sitrix",
+    "text": "The emergence of the Anti-Triangle...\nThe severing of the triangle network...\nThe failure of triangle engines...\fMy sister and I battled these problems\nsince we first came up with triangle\ntheory, but its value to the world\nhas been worth any amount of pain.\fOr at least, that is very much\nwhat I want to believe..."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "You seem really worn out by all this.\nCan't your sister help you?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_040": {
+    "speaker": "Corana_Sitrix",
+    "text": "...Alessa passed away in an accident\nsome ten years ago."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oh, I'm so sorry. I didn't realize."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_060": {
+    "speaker": "Corana_Sitrix",
+    "text": "There's no need to apologize; honestly,\nI still have a hard time believing it.\nI keep thinking she'll show up one day—\nshe did always love her little pranks."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_070": {
+    "speaker": "Corana_Sitrix",
+    "text": "It doesn't help that the details of her\naccident are maddeningly unclear. In fact,\nthe only witness was Fred, who was her\nassistant at the time.\fAlessa's old laboratory is still in the\nbasement of the terminal, but not even\nI am allowed in there."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Speaking of Fred, what's his deal?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_090": {
+    "speaker": "Corana_Sitrix",
+    "text": "You'd have to ask him about that.\nFor now, you can leave the triangle\nengine in this place to me."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Sure thing."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_000_CUT_000_110": {
+    "speaker": "Corana_Sitrix",
+    "text": "I should probably mention this: Fred and I\nwere once...together. So if I seem reluctant\nto discuss the man, that's why."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hiya, Fred! I heard that you used to be\nAlessa's assistant. Mind telling me more\nabout what she was researching?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_010": {
+    "speaker": "Fred_Kinlei",
+    "text": "I was her assistant when she was researching\nthe BX series—the results of which are\nstanding next to you now.\fWe wanted to apply triangle theory to AI.\nAlessa had grown dissatisfied researching\ntriangle engines, you see, and sought to\nuse the theory with different applications."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_020": {
+    "speaker": "Fred_Kinlei",
+    "text": "Honestly, Alessa was just quick to lose interest\nin things. Once a subject started going well,\nshe'd drop it like a hot potato and move on to\nsomething new and exciting.\fGave me a bit of whiplash as her assistant,\nbut that was nothing compared to the messes\nher sister Corana had to clean up."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Was that around the time\nof her accident?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_040": {
+    "speaker": "Fred_Kinlei",
+    "text": "That has nothing to do with you.\nWhy are you even asking?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, I heard she might actually still\nbe alive, and thought you might know\nsomething about it."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_060": {
+    "speaker": "Fred_Kinlei",
+    "text": "Ugh. This conversation is dredging up some\nthings I would much sooner forget. She was\nso horribly disfigured in that accident,\nand I just... I can't..."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_070": {
+    "speaker": "Fred_Kinlei",
+    "text": "I'm sorry, but my inability to handle this\nis why I broke up with Corana, and I really\nhave no interest in discussing it further.\nI'll take my leave now."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "If you ask me, Master, that guy is hiding\nsomething—although it DOES seem like the\naccident really happened."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_090": {
+    "speaker": "BX10_EX",
+    "text": "I am not capable of such intuitive judgments.\nSo long as the cause and details of the\naccident remain unknown, Dr. Alessa Sitrix's\ndeath cannot be confirmed conclusively.\fMy analysis of our conversation just now\nalso supports that assessment."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, we should probably wait to talk to\nCorana about it again, 'cause she REALLY\nwants her sister to still be alive.\fIt would be cruel to get her hopes up\nonly to dash 'em again, you know?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_110": {
+    "speaker": "BX10_EX",
+    "text": "Is that so?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_GOTERMINAL_000_CUT_000_120": {
+    "speaker": "Amaya_Aisling",
+    "text": "It sure is."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_END_000_CUT_000_000": {
+    "speaker": "Corana_Sitrix",
+    "text": "I've finished repairing the laboratory's\ntriangle engine. Now tell me, how did\nyour conversation with Fred go?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_END_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I couldn't get a good read on what kind\nof person he is, but I definitely think\nhe's hiding something."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_END_000_CUT_000_020": {
+    "speaker": "Corana_Sitrix",
+    "text": "Then you and I have arrived\nat the same conclusion.\fHonestly, I felt that way even when we lived\ntogether. Though we were partners, I never\nonce felt love for the man. It was more like...\nWell, like I had to comfort him in Alessa's stead."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_END_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oof. That's rough."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_END_000_CUT_000_040": {
+    "speaker": "Corana_Sitrix",
+    "text": "...Forgive me. It's water under the bridge.\nThere are things that need doing in the here\nand now, and that's what I should attend to."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_000": {
+    "speaker": "Corana_Sitrix",
+    "text": "The triangle network restoration seems\nto be proceeding apace; the skies look\nthat much prettier."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I wanted to ask about that, actually.\nIs the source of that awful smell all\nthe smoke from the triangle engines?\n'Cause it's a major downer."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_020": {
+    "speaker": "Corana_Sitrix",
+    "text": "You're an odd one, aren't you? This 'smell,'\nas you call it, is proof that life is growing\nricher. Also, when I look at a sky and see\nonly blue, it makes me profoundly uneasy.\fJust look at all that smog! Doesn't it make you\nfeel like you're being embraced by something warm\nand comforting? In this way, our engines give\nnot only physical happiness, but peace of mind."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeah, I still don't get it, but I've got\nother things I need to talk about.\fI saw the Anti-Triangle recently,\nand they weren't able to absorb\nany triangle energy."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_040": {
+    "speaker": "Corana_Sitrix",
+    "text": "That seems rather unlikely, but I suppose\nI've no choice but to believe you.\nCan you give any more details?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "I dunno? I mean, I've seen them a lot,\nand these ones didn't seem any different."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_060": {
+    "speaker": "Corana_Sitrix",
+    "text": "Well, what about the area around it?\nIf the Anti-Triangle itself hasn't changed,\nperhaps something in the surroundings did."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_070": {
+    "speaker": "BX10_EX",
+    "text": "The triangle network around the\nAnti-Triangle had been restored."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oh yeah! It was like no matter how hard they\ntried, they just couldn't absorb energy from\nthe triangle engine. Eventually they just\nsorta poofed out and disappeared."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_090": {
+    "speaker": "Corana_Sitrix",
+    "text": "Interesting... So if the Anti-Triangle is\ncaught in a triangle network, it protects\nthe engines and gives us an opening to\nexterminate the beasts."
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Ah, okay! So basically we should reactivate\nthe triangle engines in a way that encloses\nthe Anti-Triangle in a triangle shape?"
+  },
+  "SUB_W15_EVAR_AMYA_LAB_020_CUT_000_110": {
+    "speaker": "Corana_Sitrix",
+    "text": "Exactly so. Oh, but this is very exciting!\nNow that we understand more about the\nAnti-Triangle, we might be able to prevent\nit from appearing entirely."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hi there! We'd like to take a look\nat the triangle engine."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_000_CUT_000_010": {
+    "speaker": "Teo_Senior",
+    "text": "Get outta here! If I can't use any water\nfrom the dam, I can't get any work done!\nNow go on! Beat it! Git!"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_010_CUT_000_000": {
+    "speaker": "Teo_Senior",
+    "text": "Seems like my son's good work has led to the\nrestoration of the dam's triangle engine.\nWhat a chip off the old block! Gah ha ha!"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_010_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hi there! We'd like to take a look\nat the triangle engine."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_010_CUT_000_020": {
+    "speaker": "Teo_Senior",
+    "text": "Nope! I'm busy gettin' the thing up\nand running again. Go on, now! Git!"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_010_CUT_000_030": {
+    "speaker": "BX10_EX",
+    "text": "Why won't this man listen to us?\nHe should be concerned about the fact\nhis engine is no longer functioning."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_010_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Guessing he doesn't want anyone to steal\nhis thunder. But sounds like his kid's at\nthe dam, so let's try talking to him."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_GODAM_010_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hi there. Is your dad the guy\nwho runs the mine?"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_GODAM_010_CUT_000_010": {
+    "speaker": "DamMaster_Teo",
+    "text": "Oh no! Is he causing you trouble?\nI'm so sorry."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_GODAM_010_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh, not exactly? We want to talk to\nhim about the mine's triangle engine,\nbut he's not really having it."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_GODAM_010_CUT_000_030": {
+    "speaker": "DamMaster_Teo",
+    "text": "*sigh* I'm afraid he's always been like this.\nSee, my father is an incredibly competitive\nman who always tries to do everything himself.\fThis leads to a vicious circle where it\nbecomes harder and harder to ask for help\nonce he realizes he's in over his head."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_GODAM_010_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Do you mind talking to him for us?\nI mean, he seems super proud of you."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_GODAM_010_CUT_000_050": {
+    "speaker": "DamMaster_Teo",
+    "text": "Of course. I'll go there right now."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_000": {
+    "speaker": "Teo_Senior",
+    "text": "I'm busy with work! Go on now! Git!"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_010": {
+    "speaker": "DamMaster_Teo",
+    "text": "Dad!"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_020": {
+    "speaker": "Teo_Senior",
+    "text": "Son! What brings you here?\nThat dam still purrin' right along?"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_030": {
+    "speaker": "DamMaster_Teo",
+    "text": "It's running great, but only because these\nfolks helped me repair the triangle engine—\nand you should let them do the same here."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_040": {
+    "speaker": "Teo_Senior",
+    "text": "Help!? I don't need no gosh-durned help!\nAin't nobody know this mine better'n me!"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_050": {
+    "speaker": "DamMaster_Teo",
+    "text": "YOU might be fine with that, but what about all\nthe other people working here? If the triangle\nengine isn't fixed soon, they won't be able\nto support their families."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_060": {
+    "speaker": "Teo_Senior",
+    "text": "Well, sure, but..."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_070": {
+    "speaker": "DamMaster_Teo",
+    "text": "Okay, fine. What if <i>I</i> help you\ninstead of some stranger?"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_080": {
+    "speaker": "Teo_Senior",
+    "text": "Well, sure! I'd never turn down\nhelp from m'own son."
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_090": {
+    "speaker": "DamMaster_Teo",
+    "text": "A'yup, I think we're ready to get things\nup and running here. The process is the\nsame as it was at the dam, right?"
+  },
+  "SUB_W15_EVAR_AMYA_MINE_END_010_CUT_000_100": {
+    "speaker": "BX10_EX",
+    "text": "Yes, that will work fine. The engine here\nis of the same antiquated construction as\nthe one located at the dam."
+  },
+  "SUB_W15_EVAR_AMYA_PARK_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Wooow! This place is huge, and there\nare sooo many bright shiny lights!\nDid you all make this with magic?\nEr, I mean, with triangle engines?"
+  },
+  "SUB_W15_EVAR_AMYA_PARK_000_CUT_000_010": {
+    "speaker": "BX10_EX",
+    "text": "We did. Dr. Corana Sitrix is always saying\nthat we must also use the power of triangle\nengines to delight the children."
+  },
+  "SUB_W15_EVAR_AMYA_PARK_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Aw, everyone seems really happy!\nEr, but also the more I look,\nthe more something seems off."
+  },
+  "SUB_W15_EVAR_AMYA_PARK_000_CUT_000_030": {
+    "speaker": "Lara",
+    "text": "Help! Heeelp! The triangle engine\nis out of control and we can't shut\ndown any of the rides!"
+  },
+  "SUB_W15_EVAR_AMYA_PARK_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "What do we do, Master!?"
+  },
+  "SUB_W15_EVAR_AMYA_PARK_000_CUT_000_050": {
+    "speaker": "BX10_EX",
+    "text": "This is the first time something of this\nnature has happened, and my database files\ndo not possess a clear solution.\fWe might be able to stop it by absorbing the\ntriangle energy and inducing an overload on\nthe system, but with the triangle network\nsevered, we have no means to do so."
+  },
+  "SUB_W15_EVAR_AMYA_PARK_000_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Except that we DO know something\nthat's always sucking up whatever\ntriangle energy it wants..."
+  },
+  "SUB_W15_EVAR_AMYA_PARK_000_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "So we're gonna lure the\nAnti-Triangle here!"
+  },
+  "SUB_W15_EVAR_AMYA_PARK_END_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "That worked great! I guess even\nthe Anti-Triangle comes in handy\nonce in a while."
+  },
+  "SUB_W15_EVAR_AMYA_PARK_END_000_CUT_000_010": {
+    "speaker": "Lara",
+    "text": "Oh, thank you so much!"
+  },
+  "SUB_W15_EVAR_AMYA_PARK_END_000_CUT_000_020": {
+    "speaker": "BX10_EX",
+    "text": "I will forward this data to Dr. Corana Sitrix.\nThe information regarding both the park's engine\nrunning wild and its subsequent stabilization\nshould prove valuable research data."
+  },
+  "SUB_W15_EVAR_AMYA_PARK_END_000_CUT_000_030": {
+    "speaker": "Lara",
+    "text": "Oh wow, you know Dr. Sitrix? When I was a kid,\nshe gave me a toy that was powered by triangle\nenergy. That's actually the whole reason I\nstarted working here in the first place!"
+  },
+  "SUB_W15_EVAR_AMYA_PARK_END_000_CUT_000_040": {
+    "speaker": "BX10_EX",
+    "text": "Dr. Corana Sitrix's dream is blossoming\nsplendidly. She really should have more\nconfidence in what she's doing."
+  },
+  "SUB_W15_EVAR_AMYA_PARK_END_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeah, her work is really\nmaking everyone happy."
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_000": {
+    "speaker": "BX10_EX",
+    "text": "It is good to see you again, Michele.\nWould you mind if I took care of\nrestarting the triangle engine here?"
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_010": {
+    "speaker": "Michele",
+    "text": "If you're offering, I'm glad for the help;\nthe engine is one of the older models,\nand restarting it is a lot of work."
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_020": {
+    "speaker": "BX10_EX",
+    "text": "Michele here was one of Dr. Corana Sitrix's\ncolleagues at the laboratory—and the one she\nhad the greatest number of conversations with.\nClearly she was enamored with him."
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hmm. I see."
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_040": {
+    "speaker": "BX10_EX",
+    "text": "My analysis judged you to be the most\nsuitable partner for Dr. Corana Sitrix.\nWhy did you not act on this?"
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_050": {
+    "speaker": "Michele",
+    "text": "Because Corana was too busy hooking up\nwith Fred, of all people. Why she did that\nI'll never know, especially considering he\nand Alessa were an item!"
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_060": {
+    "speaker": "Michele",
+    "text": "Er... Right. Sorry. Back to work."
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_070": {
+    "speaker": "BX10_EX",
+    "text": "You should go say hello to Dr. Corana Sitrix\nonce in a while, Michele; while I can help her\nwith this kind of work, what she truly needs\nis a partner with whom she can share her life."
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_080": {
+    "speaker": "Michele",
+    "text": "I want to, Master—I really do.\nI just... Well, I can't.\nCall it a human failing, I guess."
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_090": {
+    "speaker": "Michele",
+    "text": "You're as handy as ever, Master!\nWe got that wrapped up in no time.\fI'm also really glad we got to catch up.\nEr, and if you don't mind, would you\ntell Corana that I'm doing all right?"
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_100": {
+    "speaker": "BX10_EX",
+    "text": "I will be certain to do so."
+  },
+  "SUB_W15_EVAR_AMYA_PORT_000_CUT_000_110": {
+    "speaker": "Amaya_Aisling",
+    "text": "Relationships are complicated for reals.\nThose two are clearly close, but just\nslightly out of sync at the moment.\nAnd heck, maybe they always will be."
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_000_CUT_000_000": {
+    "speaker": "Melania",
+    "text": "Help! HEEELP!"
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "What's wrong!?"
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_000_CUT_000_020": {
+    "speaker": "Melania",
+    "text": "The animals have escaped!\nPlease help me get them back!"
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_000_CUT_000_030": {
+    "speaker": "BX10_EX",
+    "text": "I will take care of repairing the\ntriangle engine if you can help\nthis woman with the animals."
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Guess I don't really have a choice."
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_SEARCH_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Animal alert! Let's get you home."
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_SEARCHFALSE_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hmm... No animals here."
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_END_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, we're back—and look\nwho we brought with us!"
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_END_000_CUT_000_010": {
+    "speaker": "Melania",
+    "text": "Thank you SO much, stranger!"
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_END_000_CUT_000_020": {
+    "speaker": "BX10_EX",
+    "text": "You took enough time that I was\nable to finish the repairs here."
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_END_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Whoa, what!?"
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_END_000_CUT_000_040": {
+    "speaker": "Melania",
+    "text": "I sure wish we could use triangle theory\nto create a breed of animal that actually\nLISTENS when you call them..."
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_END_000_CUT_000_050": {
+    "speaker": "BX10_EX",
+    "text": "Dr. Corana Sitrix feels it unethical to apply\ntriangle theory to living creatures."
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_END_000_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeah, and we can't go around doing whatever\nyou want just 'cause it makes stuff easier.\nI know, because magic is the same way.\fAnyway, try not to let the\nanimals run off again, 'kay?"
+  },
+  "SUB_W15_EVAR_AMYA_RANCH_END_000_CUT_000_070": {
+    "speaker": "Melania",
+    "text": "I won't. And thank you again."
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_000_CUT_000_000": {
+    "speaker": "TRIGON_Beppe",
+    "text": "Hello there. I'm with the Trigon\nInfrastructure Department."
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hiya! Mind if we take a look\nat the triangle engine here?"
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_000_CUT_000_020": {
+    "speaker": "TRIGON_Beppe",
+    "text": "Sorry, but there's a customer in the building\nthat houses the triangle engine, so you can't\ngo near it right now.\fThey're demanding that we purge the\npollution as quickly as possible—and\nbetween you and me, I hope it happens\nsoon, because they are VERY annoying."
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_000_CUT_000_030": {
+    "speaker": "TRIGON_Beppe",
+    "text": "They're even saying that the end of days is\napproaching because we aren't handling the\npollution correctly. Talk about a buzzkill!"
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_000_CUT_000_040": {
+    "speaker": "BX10_EX",
+    "text": "Given this information, we should\ndeal with other locations first."
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Makes sense. Let's do that."
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_010_CUT_000_000": {
+    "speaker": "TRIGON_Beppe",
+    "text": "I've heard from my colleagues in the\nIndustrial and Commercial Wards,\nand we're going to purify this area!"
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_010_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Good! That'll make this easier."
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_020_CUT_000_000": {
+    "speaker": "TRIGON_Beppe",
+    "text": "Hello there. I'm with the Trigon\nInfrastructure Department."
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_020_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hiya! Mind if we take a look\nat the triangle engine here?"
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_020_CUT_000_020": {
+    "speaker": "TRIGON_Beppe",
+    "text": "Oh, are you here to repair it!?\nThank the stars!"
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_020_CUT_000_030": {
+    "speaker": "TRIGON_Beppe",
+    "text": "People keep contacting us with\nall these wild complaints,\nand I'm just at my wits' end!"
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_020_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Master? If you would?"
+  },
+  "SUB_W15_EVAR_AMYA_SETTLEMENT_020_CUT_000_050": {
+    "speaker": "BX10_EX",
+    "text": "I will deal with it at once."
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_000_CUT_000_000": {
+    "speaker": "TRIGON_Stella",
+    "text": "Hello! I'm with the Trigon Sales Department!\nWould you like to try out one of our newest\nproducts absolutely free of charge!?"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_000_CUT_000_010": {
+    "speaker": "TRIGON_Stella",
+    "text": "Great! First of all, this is a sensor that\nutilizes triangle energy to locate\nplaces that will boost your spirit."
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_000_CUT_000_020": {
+    "speaker": "TRIGON_Stella",
+    "text": "Even the end of days is nothing to\nworry about when you have this baby!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oh, you KNOW I wanna try it!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Mmm, no thanks."
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_000_CUT_000_050": {
+    "speaker": "TRIGON_Stella",
+    "text": "Thank you very much for your interest!\nAaand...here you go. I went ahead and\njust turned it on for you there."
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_000_CUT_000_060": {
+    "speaker": "TRIGON_Stella",
+    "text": "Oh, I hate it when people turn down\na good deal... But hey, your loss!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_BATTLE_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "So can this thing really\n'boost my spirit'?"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_BATTLE_000_CUT_000_010": {
+    "speaker": "BX10_EX",
+    "text": "Unidentified object approaching!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_BATTLE_010_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh, there's nothing here."
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_BATTLE_010_CUT_000_010": {
+    "speaker": "BX10_EX",
+    "text": "Threat levels rising!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_BATTLE_020_CUT_000_000": {
+    "speaker": "BX10_EX",
+    "text": "My sensors are not picking up\nanything at this location."
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_BATTLE_020_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, better re-sensor 'em or whatever,\nbecause we got fiends incoming!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_END_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Okay, so we went to three places\nand ALL of them were dangerous?"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_END_000_CUT_000_010": {
+    "speaker": "TRIGON_Stella",
+    "text": "Yes, but you're SO much\nstronger now!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_END_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "This thing is way too dangerous\nfor you to be selling it."
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_END_000_CUT_000_030": {
+    "speaker": "BX10_EX",
+    "text": "The system has restarted without issue;\nperhaps because we defeated such a\nlarge number of fiends."
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_END_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "You're just lucky we're the ones\nwho tested your stupid thingy out.\nA regular person would've died!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_END_000_CUT_000_050": {
+    "speaker": "TRIGON_Stella",
+    "text": "So sorry!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_010_CUT_000_000": {
+    "speaker": "TRIGON_Stella",
+    "text": "I've heard from my colleagues in the\nIndustrial and Residential Wards,\nand we're going to purify this area!"
+  },
+  "SUB_W15_EVAR_AMYA_TRADE_010_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Good! That'll make this easier."
+  },
+  "SUB_W15_EVAR_AMYA_RECLEAN_000_CUT_000_000": {
+    "speaker": "BX10_EX",
+    "text": "We've already repaired this engine,\nso restarting it is a simple matter."
+  },
+  "SUB_W15_EVAR_AMYA_RECLEAN_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Sounds good."
+  },
+  "SUB_W15_EVAR_AMYA_WORLDEXIT_000_CUT_000_000": {
+    "speaker": "BX10_EX",
+    "text": "Are you departing the world?"
+  },
+  "SUB_W15_EVAR_AMYA_WORLDEXIT_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "No."
+  },
+  "SUB_W15_EVAR_AMYA_WORLDEXIT_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "I sure am!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey, it's Fred. Where's he going?"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_010": {
+    "speaker": "BX10_EX",
+    "text": "He appears to be headed to the basement\nlevel of the terminal. Perhaps he is going\nto the laboratory of Dr. Alessa Sitrix\nthat her sister mentioned."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hmm. Well, I want to talk to him,\nso let's tag along."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_030": {
+    "speaker": "Fred_Kinlei",
+    "text": "...Yes, everything is proceeding apace.\nAdditionally, the woman we spoke of\nbefore is proving to be quite useful."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "He's talking to someone—and about me,\nI think? Assuming I'm 'the woman.'"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_050": {
+    "speaker": "BX10_EX",
+    "text": "There's a 50 percent probability\nthat the person he is speaking\nto is Dr. Alessa Sitrix."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh, I thought she was dead?"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_070": {
+    "speaker": "BX10_EX",
+    "text": "As I said, there is only a 50 percent\nprobability. This is, however, an\nassumption based on my analytics."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Fred's coming back! Hide!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_090": {
+    "speaker": "BX10_EX",
+    "text": "Why did you hide?"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Why WOULDN'T we hide!?\nWe're eavesdropping on strangers!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_110": {
+    "speaker": "BX10_EX",
+    "text": "Dr. Alessa Sitrix is not a stranger."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_120": {
+    "speaker": "Amaya_Aisling",
+    "text": "I thought you were only 50 percent sure!\nAlso, if Alessa's alive, why would she be\npretending to be...well, not?"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_130": {
+    "speaker": "BX10_EX",
+    "text": "We should share this information\nwith Dr. Corana Sitrix."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_000_CUT_000_140": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's talk to Fred and then think about it.\n50 percent is a lot of wiggle room."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_000": {
+    "speaker": "BX10_EX",
+    "text": "Dr. Corana Sitrix is in the central\nterminal. I do not know why."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Are you always tracking where she is,\nMaster? 'Cause that's stalker stuff."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_020": {
+    "speaker": "BX10_EX",
+    "text": "I am Dr. Corana Sitrix's assistant;\nI must always be aware of her actions."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "But you DON'T know where Alessa is?"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_040": {
+    "speaker": "BX10_EX",
+    "text": "Correct. My last reading that seemingly\ndetected her was our first contact\nsince the accident."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "I guess I'm happy you're also a\nlittle confused about all this."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_060": {
+    "speaker": "BX10_EX",
+    "text": "It's true that I lack the data to infer the truth\nof the situation. However, if Dr. Corana Sitrix\nhas discovered something in the terminal,\nwe may be able to supplement said data."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "You're not wrong, but if she's there\nto meet someone, we probably don't\nwant to poke our noses into her biz."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's follow her anyway!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's leave it."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_100": {
+    "speaker": "Corana_Sitrix",
+    "text": "You must let me see Alessa's laboratory,\nFred; I have to know if there are any\npapers on triangle theory there."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_110": {
+    "speaker": "Fred_Kinlei",
+    "text": "This again, Corana? All remaining data has\nbeen released to the public through the\nTrigon Corporation. There's nothing there."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_120": {
+    "speaker": "Corana_Sitrix",
+    "text": "But you of all people know how she was:\nthere might be notes or writings or\nseemingly random doodles that could\nturn out to be a breakthrough!\fOther people would simply overlook\nthat kind of thing, but I won't."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_130": {
+    "speaker": "Fred_Kinlei",
+    "text": "Look, I know I've always come across as a kind\nof idiot luddite to you genius Sitrix sisters,\nbut Alessa's lab is owned by the Trigon\nCorporation, and I'm in charge of it."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_140": {
+    "speaker": "Fred_Kinlei",
+    "text": "So no, Corana. You can't go in.\nNow turn around and go home."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_150": {
+    "speaker": "Fred_Kinlei",
+    "text": "Ugh. One of these days, she's just going to\nforce her way in even if it means destroying\nthe entrance. We really need to deal with this."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_160": {
+    "speaker": "BX10_EX",
+    "text": "This exchange has happened many times\nbetween the two of them, and this\ninstance provided no new information."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_170": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hmm. Fred's in a big hurry to do something,\nand he's also got us running around fixing\nall the triangle engines."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_010_CUT_000_180": {
+    "speaker": "BX10_EX",
+    "text": "It would seem he has some plan\nwe are not aware of."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_000": {
+    "speaker": "BX10_EX",
+    "text": "Something is going on here:\nthe terminal's energy level is rising."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I think Fred might be having\nanother clandestine chat."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_020": {
+    "speaker": "BX10_EX",
+    "text": "We should determine if it is\nDr. Alessa Sitrix."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_021": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's go see!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_022": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeah, let's not."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_030": {
+    "speaker": "Alessa_Sitrix",
+    "text": "So the traveler of the Conjoined Worlds has\nbeen lured in at last. I have been trying to\nascertain if you would be a friend or foe,\nbut see now that you are clearly the latter."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_031": {
+    "speaker": "Alessa_Sitrix",
+    "text": "You'll rue the day you\ninterfered with me!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "I guess we know who's behind\nthe Anti-Triangle now!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "I can't believe that purple lady was ruling\nthe Anti-Triangle and messing with all the\nengines. Also, was that SERIOUSLY Alessa?"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_060": {
+    "speaker": "BX10_EX",
+    "text": "50 percent."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "We were standing RIGHT next to her!\nHow can you only be 50 percent sure!?\nI think you're the one who need repairing..."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_080": {
+    "speaker": "BX10_EX",
+    "text": "No. 50 percent of that woman is\nDr. Alessa Sitrix. The remaining\n50 percent is something else."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "Huh. Guess that explains her look.\nBut we can't tell this to Corana."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_100": {
+    "speaker": "BX10_EX",
+    "text": "I agree with that assessment."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_110": {
+    "speaker": "Fred_Kinlei",
+    "text": "You there! Hold it right..."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_120": {
+    "speaker": "Fred_Kinlei",
+    "text": "Oh. It's you two. Look, I know there's been\na lot of work recently, what with all the\nvarious problems cropping up, but please\ncontinue the repairs as fast as you can."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_020_CUT_000_130": {
+    "speaker": "Amaya_Aisling",
+    "text": "You got it!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "That's the Anti-Triangle!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Nope. We're off to the terminal."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "We can't ignore this!"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_030": {
+    "speaker": "BX10_EX",
+    "text": "Dr. Alessa Sitrix."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_040": {
+    "speaker": "Alessa_Sitrix",
+    "text": "It's been a long time, Master."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "What's going on here, Alessa! Why did you\nmake the Anti-Triangle, and why are you\ninterfering with the triangle network!?"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_060": {
+    "speaker": "Alessa_Sitrix",
+    "text": "You think you know much, traveler,\nbut you know nothing.\fThe Anti-Triangle is a natural formation\ncaused by triangle energy. I was merely using\nthem to make the true dangers of the triangle\nnetwork known to Corana."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "Huh? I haven't heard anything about the\nengines and network being dangerous."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_080": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Oh, triangle theory itself is perfectly safe.\nUnexpected things happen, however, when\nenergy is amplified through a triangle network."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "Meaning this world is actually\nin a ton of danger right now?"
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_100": {
+    "speaker": "Alessa_Sitrix",
+    "text": "It is indeed—and not even I can\npredict what might happen next."
+  },
+  "SUB_W15_EVAR_AMYA_ALESSAAGHOST_030_CUT_000_110": {
+    "speaker": "Amaya_Aisling",
+    "text": "We have to tell Corana!"
+  },
+  "SUB_W15_EVAR_AMYA_COMPLETE_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "That's all the engines repaired!"
+  },
+  "SUB_W15_EVAR_AMYA_COMPLETE_000_CUT_000_010": {
+    "speaker": "BX10_EX",
+    "text": "Dr. Corana Sitrix is headed for the central\nterminal, where it appears they are planning\nto hold a ceremony."
+  },
+  "SUB_W15_EVAR_AMYA_COMPLETE_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Er, is something wrong, Master?"
+  },
+  "SUB_W15_EVAR_AMYA_COMPLETE_000_CUT_000_030": {
+    "speaker": "BX10_EX",
+    "text": "Yes. The energy level near the\ncentral terminal is spiking."
+  },
+  "SUB_W15_EVAR_AMYA_COMPLETE_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Man, I just CANNOT catch a break..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "What's the deal with this ceremony, Corana?\nHaving it start the second repairs are done\nseems a little hasty—or a little convenient!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_010": {
+    "speaker": "Corana_Sitrix",
+    "text": "The director of the Trigon Corporation\ninformed me about an important ceremony\nI had to attend. That's all I know."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_020": {
+    "speaker": "CEO_TRIGON",
+    "text": "Greetings, ladies and gentlemen! Today is a\nmomentous day in our history: every triangle\nengine is now functioning, which means the\ntriangle network is complete!\fYes, this is a day of new beginnings—\nnot only for all of you, but also for\neveryone who could not be with us today."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_030": {
+    "speaker": "CEO_TRIGON",
+    "text": "Now, let us beckon the Supreme Being unto us.\nI daresay none among you will be unfamiliar\nwith her name...Doctor Alessa Sitrix!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_040": {
+    "speaker": "Corana_Sitrix",
+    "text": "...What?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_050": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Greetings, everyone. Let me begin with this:\nI'm aware that many of you believed I was\nkilled in a tragic accident—and in reality,\nthat is not far from the truth.\fBut thanks to the energy generated\nby the triangle network, I have\nbeen able to return to this world."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_060": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Henceforth, I will be resuming the work that\nwas interrupted by my accident—the work of\napplying triangle theory to living creatures.\fI will offer up my body as a test subject\nonce more. But this time, we have more than\nsufficient amounts of triangle energy,\nwhich means I cannot fail."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_070": {
+    "speaker": "Alessa_Sitrix",
+    "text": "In a moment, I will stand upon this stage as a\nnew form of life: the Supreme Being. And once\nthis is done, all of you will be transmuted\ninto triangle energy and become one with me.\fPlease know it will be the great honor\nof my life to guide you all in this."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_080": {
+    "speaker": "Corana_Sitrix",
+    "text": "Have you gone utterly mad, Alessa!?\nThat's not what triangle theory is for!\fWhat about all the times we talked about\nusing it to help people!? To be of service\nso they could live happier lives!?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_090": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Oh, my dear little sister. You have my thanks\nfor continuing our research after the accident—\nfor had you and I not completed the triangle\nnetwork, I wouldn't be standing here today.\fBut this is a happy moment, Corana!\nYou are about to become a part of\nthe Supreme Being—a part of ME.\nDoes this not fill you with joy?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh, so is Trigon seriously\ncool with this?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_110": {
+    "speaker": "CEO_TRIGON",
+    "text": "All that the Trigon Corporation does\nis for the sake of the great Alessa—\nand we offer our all unto her!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_120": {
+    "speaker": "Amaya_Aisling",
+    "text": "Did you know, Fred? Did you know all this\nand have me fix the engines anyway?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_130": {
+    "speaker": "Fred_Kinlei",
+    "text": "All is as Alessa foresaw, for she said\nyou would be the last piece of the puzzle.\fOh yes! She is my goddess, and I seek\nnothing more in this life than to be\nof service to her!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_140": {
+    "speaker": "Amaya_Aisling",
+    "text": "Alessa? A goddess? Oh, that is rich!\nI mean, sure, she's got some rabid fans,\nbut what kind of magic does she even use?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_150": {
+    "speaker": "Alessa_Sitrix",
+    "text": "I saw how you were guided by the emerald light,\ntraveler, and knew it would lead you here.\nThus was I assured of my destiny, for your\narrival is the key to advancing these events."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_160": {
+    "speaker": "Amaya_Aisling",
+    "text": "Okay, I didn't work my butt off all\nthis time to become a part of YOU!\fCorana, we need a way to cut off\nthe triangle network... Er, Corana?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_170": {
+    "speaker": "Corana_Sitrix",
+    "text": "I wish we never saw the Vermillion Bird mural...\nI wish we hadn't researched triangle theory...\nI wish I'd gone on that date with Michele...\fI wish I'd never reached out to Fred...\nI wish I had never been Alessa's sister..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_180": {
+    "speaker": "Amaya_Aisling",
+    "text": "Nothing's going to come from you denying the\npast like that. All we can do is face the reality\nthat's in front of us—'cause it's just you, me,\nand Master now!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_190": {
+    "speaker": "Amaya_Aisling",
+    "text": "Master, can you get in touch with the\npeople we met at the triangle engines?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_200": {
+    "speaker": "BX10_EX",
+    "text": "Yes, I can open a line to all\nof them simultaneously."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_210": {
+    "speaker": "Amaya_Aisling",
+    "text": "Perfect. Then you and Corana find out\nhow to cut off the triangle network.\nMeanwhile, I've got a cocky little\ngoddess I need to spank."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_220": {
+    "speaker": "Corana_Sitrix",
+    "text": "How can you just move forward\nlike this!? I just... I..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_000_230": {
+    "speaker": "Amaya_Aisling",
+    "text": "Time passes no matter what we do or don't do.\nTime makes all things equal—and it's no magic.\nAnd since that's the case, I don't want to\nstand still even for a second.\fAlso, the green line seems to expect me\nto keep moving forward, so there's that.\nNow come on! Let's do this!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_010_000": {
+    "speaker": "BX10_EX",
+    "text": "We made it in time."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_010_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Thanks, Master."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_010_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "What about Corana?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_010_030": {
+    "speaker": "Corana_Sitrix",
+    "text": "Oh, Alessa..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_010_040": {
+    "speaker": "Alessa_Sitrix",
+    "text": "We had a dream when we saw the Vermillion\nBird, Corana... And though it didn't come\ntrue today, maybe someday...it..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_010_050": {
+    "speaker": "Corana_Sitrix",
+    "text": "ALESSA!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey, so won't this all happen again\nif the triangle network is rebuilt?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_010": {
+    "speaker": "Corana_Sitrix",
+    "text": "Perhaps—which is why I've decided\nto divide the network into smaller\nclusters instead.\fWhile this will prevent triangle energy from\nbecoming too concentrated in one place, each\ncluster will also serve to complement the\nothers and help keep everything in check."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "So even this incident's gonna serve as data\nfor you, huh? But if your new system works,\nAlessa won't be able to come back."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_030": {
+    "speaker": "Corana_Sitrix",
+    "text": "I am a scientist.\nI prioritize data over emotion."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, I'm no scientist, but I totally\nget prioritizing the future of the\nworld over your own feelings."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_050": {
+    "speaker": "Corana_Sitrix",
+    "text": "Thank you for understanding."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_060": {
+    "speaker": "Michele",
+    "text": "Let me help you, Corana. Please."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_070": {
+    "speaker": "Corana_Sitrix",
+    "text": "Michele? Of course you can help!\nAnd, um... Thank you."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_080": {
+    "speaker": "BX10_EX",
+    "text": "And what of your magical feline?\nDon't you have to find it?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "I found it during the fight with Alessa,\nactually—just like the green line said."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_100": {
+    "speaker": "BX10_EX",
+    "text": "It is difficult to reconcile a green line\nthat only you can see. But your words are\npersuasive, so I will choose to believe you."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_110": {
+    "speaker": "Amaya_Aisling",
+    "text": "I'm really happy you trust me, Master,\nbut it's time for me to say goodbye\nto this world. Oh, but before I go,\nwhat is this place even called?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_000_CUT_030_120": {
+    "speaker": "BX10_EX",
+    "text": "This world is known as Vermiglio.\nI do not know what it means."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_020": {
+    "speaker": "CEO_TRIGON",
+    "text": "This is a ceremony for you, Dr. Sitrix,\nso I hope you enjoy yourself. That said,\nwhy are you mingling with one of our\nemployees? Looking for a new assistant?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "She thinks I work for her again.\nIt's scary how blinded some people\ncan be to their assumptions."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_040": {
+    "speaker": "CEO_TRIGON",
+    "text": "Now then, Dr. Alessa Sitrix will be arriving\nmomentarily, and I suspect it will be a moving\nreunion of sisters long-parted. As such, I'll\ngive you a little time to say your goodbyes."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_050": {
+    "speaker": "Corana_Sitrix",
+    "text": "...Alessa?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_060": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Oh, my dear little sister. You have my thanks\nfor continuing our research after the accident—\nfor had you not gone and completed the triangle\nnetwork, I wouldn't be standing here today."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_070": {
+    "speaker": "Corana_Sitrix",
+    "text": "I don't understand. Are you...Alessa?\nI mean, I'm happy you're alive—truly I am—\nbut I'm also very confused. What's going on,\nand what did she mean by 'saying goodbyes'?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_080": {
+    "speaker": "CEO_TRIGON",
+    "text": "I fear your sister's role ends here.\nWith the triangle network completed,\nI need her to die for real this time.\n...Fred? If you would?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_090": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Fred, no! The director betrayed me!\nShe intends to keep all this power\nfor herself! Get rid of her!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_100": {
+    "speaker": "Fred_Kinlei",
+    "text": "Oh, now THIS is rich! Two beautiful—yet\nutterly terrifying—women have made the\nsame request of me! Must be my punishment\nfor being so darned handsome."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_110": {
+    "speaker": "Fred_Kinlei",
+    "text": "Oh, Corana, my former flame. Though you're\nrather plain, you're smart as a whip—so I trust\nyou to make a cool-headed choice here.\fWho should I choose: the director\nor your sister? Who dies?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_120": {
+    "speaker": "Corana_Sitrix",
+    "text": "Don't even joke about that, Fred!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_130": {
+    "speaker": "Fred_Kinlei",
+    "text": "Ah ah ah! I know what you're trying to say.\nOr rather, I knew what you were going to say\nwithout you even saying it.\fAlessa may have foisted cleaning up\nher research onto me, but she IS\nyour only sister, after all."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_140": {
+    "speaker": "Fred_Kinlei",
+    "text": "Which makes it an obvious choice.\nSorry, Director—I guess you die."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_150": {
+    "speaker": "CEO_TRIGON",
+    "text": "You damn, useless drunk! Apparently you\ndidn't believe me when I said there was\nno seat at the table for those who\nweren't of use!\fBut so be it. If you can't deal with\nAlessa, I'll just do it myself."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_160": {
+    "speaker": "Fred_Kinlei",
+    "text": "Hey, you're the one who handed out the\ndeath sentence. And on that note... Bye!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_161": {
+    "speaker": "CEO_TRIGON",
+    "text": "AAAAAAH!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_170": {
+    "speaker": "Fred_Kinlei",
+    "text": "Well, would you look at that?\nI'm the director of Trigon now!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_180": {
+    "speaker": "Alessa_Sitrix",
+    "text": "The director is dead, but the plan moves on.\nConcentrate the energy from the triangle\nnetwork into the central terminal, Fred."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_190": {
+    "speaker": "Fred_Kinlei",
+    "text": "That's 'Director,' not 'Fred.' Also,\nyou don't order me around anymore,\nAlessa. The director decides what we're\ndoing here—and oh gosh, that's ME!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_200": {
+    "speaker": "Fred_Kinlei",
+    "text": "Your eternal life project has, of course,\nbeen canceled. Instead, we'll make a charm\nfilled with triangle energy and sell it to\ncustomers who crave perpetual youth.\fAnd of course, it'll make me RICH!\nRICH, I tell ya!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_210": {
+    "speaker": "Alessa_Sitrix",
+    "text": "I knew you were useless as an assistant,\nbut I never realized you were so <i>stupid</i>."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_220": {
+    "speaker": "Fred_Kinlei",
+    "text": "Well, well! Looks like this day just\nearned itself another death sentence!\fStill, just murdering you outright would be\nso BORING, so perhaps I'll try to extract\na little triangle energy out of it!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_230": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Don't do this, Fr—"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_240": {
+    "speaker": "Fred_Kinlei",
+    "text": "Dear me, I wonder how long you'll be able to\nmaintain that form? I mean, you SHOULD show\nyour sister how brutally disfigured you were \nafter the failed experiment, right?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_250": {
+    "speaker": "Corana_Sitrix",
+    "text": "Alessa!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_260": {
+    "speaker": "Fred_Kinlei",
+    "text": "You used triangle theory to evolve yourself\nonce you saw the success of the BX series.\nSadly, living creatures aren't machines."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_270": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Don't look at me, Corana..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_280": {
+    "speaker": "Amaya_Aisling",
+    "text": "So Fred, what do me and Master get after all\nthe work we did getting the triangle network\nup and running? I mean, a little reward seems\nappropriate here, don't you think?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_290": {
+    "speaker": "Fred_Kinlei",
+    "text": "Are you still here? Look, just hurry up,\ndo whatever it is you came here for,\nand then be on your way.\fOh, and I have a VERY fun date planned\nwith the Sitrix sisters here, so I'd\nadvise you not to get in the way."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_300": {
+    "speaker": "Amaya_Aisling",
+    "text": "I figured that's what you'd say."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_310": {
+    "speaker": "Amaya_Aisling",
+    "text": "Sorry, but I'm in the way!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_320": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey, you do you."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_330": {
+    "speaker": "Amaya_Aisling",
+    "text": "Don't get in your way!? You're not NEARLY\ncool enough to drop a line like that on me!\n...Master! Keep an eye on Corana!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_340": {
+    "speaker": "Fred_Kinlei",
+    "text": "A wise choice.\nOh, and take BX10 with you."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_350": {
+    "speaker": "Fred_Kinlei",
+    "text": "Die!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_360": {
+    "speaker": "Fred_Kinlei",
+    "text": "Please, have mercy!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_000_370": {
+    "speaker": "Fred_Kinlei",
+    "text": "...Is that would you thought I'd say?\nAh ha ha! You fell for my stalling technique!\nMuch like Alessa, I have evolved—and now\nmy triangle energy is at its full potential!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "I'm not getting the impression you understand\ntriangle theory at all, Freddy. 'Cause let's be\nhonest here, you weren't exactly wielding\nthat power like a pro."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_010": {
+    "speaker": "Fred_Kinlei",
+    "text": "I was...drunk? Yes, that's it!\nJust a little drunken prank!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh, you MURDERED the director.\nYou're not getting out of this\nwithout some serious punishment."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "And now..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_040": {
+    "speaker": "Corana_Sitrix",
+    "text": "Alessa, why didn't you tell me you were alive?\nI don't care what you look like, because you'll\nALWAYS be my sister. So let's try to find a way\nto get you back to normal—together."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_050": {
+    "speaker": "Alessa_Sitrix",
+    "text": "You don't have to console me, Corana.\nTriangle theory isn't magic—that which has\nbeen broken can't be put back how it was."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_060": {
+    "speaker": "Corana_Sitrix",
+    "text": "But there MUST be a way, Alessa.\nDon't give up—we'll find it."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_070": {
+    "speaker": "Alessa_Sitrix",
+    "text": "I always did tend to give up on things...\nBut all right, Corana. If you think this\ncan be done, I'll follow your lead."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_080": {
+    "speaker": "Corana_Sitrix",
+    "text": "This is the first time you've taken my advice since we\nwent to the cave mural! I wish you'd tried listening to\nme a lot earlier, but I suppose this will have to do.\nLet's see the Vermillion Bird together."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_090": {
+    "speaker": "BX10_EX",
+    "text": "The greatest sisters in the land\nare back in action once more."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_010_CUT_010_110": {
+    "speaker": "Amaya_Aisling",
+    "text": "Actually, I got what I needed while I was\nbeating up that sad-sack Fred—just like\nthe green line said I would."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_020": {
+    "speaker": "CEO_TRIGON",
+    "text": "Well, if it isn't Dr. Sitrix and\nour otherworldly traveler!\fSorry I confused you for an employee before, but\nI'm SO impressed by how helpful you've been since\nyou came here—we were at quite the loss for how\nto deal with Alessa's Anti-Triangle creatures."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "<i>Alessa's</i> Anti-Triangle?\nWhat does that mean?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_040": {
+    "speaker": "CEO_TRIGON",
+    "text": "Well, I suppose it won't hurt to reveal\nmy entire clever plan now that the\ntriangle network is complete..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_050": {
+    "speaker": "CEO_TRIGON",
+    "text": "The Trigon Corporation was created to raise the\nfunds required to complete the triangle network—\nand I cannot tell you how proud I was when\nAlessa selected me to lead her new company."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_060": {
+    "speaker": "CEO_TRIGON",
+    "text": "But as we approached our goal, Alessa suddenly\nwanted to stop the project. Of course, that\nwould have caused Trigon to collapse—and as\nits director, I could not permit such a thing."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_070": {
+    "speaker": "Corana_Sitrix",
+    "text": "Hold on. Alessa died in an accident\nshortly after the project started."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_080": {
+    "speaker": "CEO_TRIGON",
+    "text": "Oh no, Alessa is very much alive;\nher 'death' was something she\nand Fred came up with.\fDon't get me wrong—there WAS an accident.\nBut it didn't kill Alessa.\nIt just...changed her."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_090": {
+    "speaker": "Corana_Sitrix",
+    "text": "What do you mean it—"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_100": {
+    "speaker": "CEO_TRIGON",
+    "text": "Details, details! Look, I'm not an expert\nin triangle theory, so if you want any\nactual technical answers, you'll need to\ngo straight to your sister.\fAll I know is this: Alessa wanted to complete\nthe triangle network in order to get her\noriginal body back, and Trigon was happy\nto help her achieve that goal."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_110": {
+    "speaker": "CEO_TRIGON",
+    "text": "And then? Poof! Her sudden change of heart.\nBut I don't need to tell YOU about that;\nI'm sure you've found yourself tossed about\non the stormy seas of her whims before.\fRegardless, it was too much to ask—the\nlivelihoods of Trigon's entire staff\nhung in the balance, after all."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_120": {
+    "speaker": "CEO_TRIGON",
+    "text": "So we simply ignored her and went ahead\nwith the plan—but then she started to\nfight back with the Anti-Triangle."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_130": {
+    "speaker": "Amaya_Aisling",
+    "text": "So why didn't you just tell us all that!?\nI thought we were dealing with some kind\nof magic—it would've been easily to solve\nthings if we knew Alessa was the cause!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_140": {
+    "speaker": "CEO_TRIGON",
+    "text": "Because if I was unwilling to tell\nCorana about her sister, I certainly\nwasn't about to tell you.\fAfter all, if she learned that her darling\nsister opposed the completion of the network,\nshe would have stopped at nothing to prevent\nit from coming to fruition."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_150": {
+    "speaker": "Corana_Sitrix",
+    "text": "If Alessa is truly alive, I want to see her.\nI need to know what she discovered that\nmade her oppose the network."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_160": {
+    "speaker": "CEO_TRIGON",
+    "text": "Oh, I suspect she'll be making her appearance\nshortly. You must have noticed the increase in\nenergy levels, yes? This is a sign that she's\non her way here right now.\fYou see, the previous explosion at the terminal\nwas surely her doing, and I expect she intends\nto sabotage things once again—but I will NOT\nallow that to happen this time!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_170": {
+    "speaker": "Corana_Sitrix",
+    "text": "Oh my god. Is this...Alessa?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_180": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Corana! Why are you here!?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_190": {
+    "speaker": "Corana_Sitrix",
+    "text": "Tell me why you opposed the triangle network!\nIs there some flaw in triangle theory?\nDid you make some kind of new discovery?\nHave you maybe...\fOh, but listen to me ramble! It's you,\nAlessa—and you're ALIVE! My sister is ALIVE!\nI'm so happy, and yet all I'm doing is\nblabbing on about triangle theory!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_200": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Oh, my dear sister... I was performing\nsecret research in an attempt to apply\ntriangle theory to a living creature.\fAnd you know what? I learned something:\nas triangle energy increases, it has an\neffect on the life-forms around it—but the\noutcome of such effects are VERY unpredictable."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_210": {
+    "speaker": "Alessa_Sitrix",
+    "text": "That's why I interfered with the project.\nBut I couldn't tell you, because then my\nforbidden research would have become known."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_220": {
+    "speaker": "Alessa_Sitrix",
+    "text": "I have already reaped my own just reward.\nI can hold this form with enough triangle\nenergy, but if the levels drop, I become\nsomething far, <i>far</i> worse.\fAnd I can't have that, Corana. I won't.\nI won't let anyone in this world endure\nthe <i>thing</i> that I have become."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_230": {
+    "speaker": "CEO_TRIGON",
+    "text": "Such beautiful sentiments, Doctor!\nYet with the massive amount of energy\nthat can be obtained from the triangle\nnetwork, we could evolve you even further!\fI mean, that WAS your plan all along,\nwas it not? Do be honest now."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_240": {
+    "speaker": "Alessa_Sitrix",
+    "text": "No, you're right. The higher you push\nthe energy value, the more potential\nthere is for evolution.\fBut maintaining it at this level is\nimpossible, because it introduces\nmutations in nearby creatures.\fThat's why we have to abort the project,\nCorana. We can't allow that to happen—\nthe people's confidence in the triangle\nengines must be maintained."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_250": {
+    "speaker": "CEO_TRIGON",
+    "text": "OR we can go with my idea instead!\nSee, the Trigon Corporation won't last\nif we don't recoup our investment now.\fAnd yes, this will require covering up some\nminor inconveniences such as...oh, YOU.\nBut seeing as you've already died once,\nI don't imagine anyone would miss you."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_260": {
+    "speaker": "Alessa_Sitrix",
+    "text": "And how are you going to get rid of me?\nWill you destroy the triangle network?\nThat would be pointless—I'll just\ndestroy the terminal with brute force."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_270": {
+    "speaker": "CEO_TRIGON",
+    "text": "Oh, I'm well prepared for that.\n...Yoo hoo! Fred! I need you!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_271": {
+    "speaker": "Fred_Kinlei",
+    "text": "F-Fred...coming..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_272": {
+    "speaker": "Alessa_Sitrix",
+    "text": "What... What is THAT!?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_280": {
+    "speaker": "CEO_TRIGON",
+    "text": "Oh, I just used a little mechanization\nprocess on him, and this is the result.\nSuits him well, don't you think?\fI did worry at first if he'd be willing\nto defy you, but it seems he has enough\ndissatisfaction to express in your\ngeneral direction. Do enjoy now!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_281": {
+    "speaker": "Corana_Sitrix",
+    "text": "That thing is...Fred?\nI can't believe this..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_282": {
+    "speaker": "Amaya_Aisling",
+    "text": "Corana!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_290": {
+    "speaker": "Corana_Sitrix",
+    "text": "Stop! STOP! Madness like this wasn't\nwhy we researched triangle theory!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_291": {
+    "speaker": "Fred_Kinlei",
+    "text": "Coranaaaaaa..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_292": {
+    "speaker": "Corana_Sitrix",
+    "text": "Fred, STOP!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_300": {
+    "speaker": "Michele",
+    "text": "CORANA, WATCH OUT!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_310": {
+    "speaker": "Corana_Sitrix",
+    "text": "Michele!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_320": {
+    "speaker": "Michele",
+    "text": "Talk about bungling the moment...\nMy timing always was off with you..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_330": {
+    "speaker": "Corana_Sitrix",
+    "text": "Michele!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_331": {
+    "speaker": "Amaya_Aisling",
+    "text": "Master!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_340": {
+    "speaker": "Amaya_Aisling",
+    "text": "Master, keep an eye on Corana.\nI've got some idiocy to end."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_350": {
+    "speaker": "BX10_EX",
+    "text": "I know you can do it."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_360": {
+    "speaker": "Amaya_Aisling",
+    "text": "Fight Fred first."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_370": {
+    "speaker": "Amaya_Aisling",
+    "text": "Fight Alessa first."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_000_380": {
+    "speaker": "Amaya_Aisling",
+    "text": "Eh, I'll just fight 'em both."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "How's Michele?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_010": {
+    "speaker": "BX10_EX",
+    "text": "It appears today was not\nhis day to die."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "What a relief! And now for her..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_030": {
+    "speaker": "Corana_Sitrix",
+    "text": "I knew you were hiding something, Alessa,\nbut I can't believe you actually used\ntriangle theory on a living creature."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_040": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Once we applied triangle theory to an\nartificial intelligence via the BX series,\nI simply couldn't contain my curiosity.\fI started wondering what would happen if we\napplied it to a living creature, and had all\nconfidence it would go swimmingly."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_050": {
+    "speaker": "Alessa_Sitrix",
+    "text": "But on the off-chance I was wrong, I chose\nto conduct the experiment on myself.\nNo one else was harmed, Corana—I swear."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_060": {
+    "speaker": "Corana_Sitrix",
+    "text": "Alessa, I think we should divide the\nnetwork into smaller clusters.\fWhile this will prevent triangle energy from\nbecoming too concentrated in one place, each\ncluster will also serve to complement the\nothers and help keep everything in check.\fBut if we do that, it means..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_070": {
+    "speaker": "Alessa_Sitrix",
+    "text": "That's exactly the kind of solid idea\nI'd expect from my genius of a sister—\nso don't worry about what happens to me."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_080": {
+    "speaker": "Corana_Sitrix",
+    "text": "I'm sorry, Alessa. I'm SO sorry. I just...\nI can't think of any other way to do this.\nThe only method I can come up with is\nthe one that...sacrifices you."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_090": {
+    "speaker": "Alessa_Sitrix",
+    "text": "I told you not to worry about it, Sis.\nI'll always be somewhere in the network,\nso I'll always be watching over you."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_100": {
+    "speaker": "Corana_Sitrix",
+    "text": "I'm going to save you someday, Alessa—\nI promise. And when I do, we'll go see\nthe Vermillion Bird together."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_110": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Thank you, Corana.\nBut now...I must go."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_120": {
+    "speaker": "Corana_Sitrix",
+    "text": "Alessa!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_130": {
+    "speaker": "Amaya_Aisling",
+    "text": "She's gone."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_140": {
+    "speaker": "BX10_EX",
+    "text": "No, she's not gone. She is here.\nAnd there. And all around us."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_020_CUT_010_160": {
+    "speaker": "Amaya_Aisling",
+    "text": "Actually, I got what I needed while I was\nbeating up Fred and Alessa—just like the\ngreen line said I would."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_000": {
+    "speaker": "Corana_Sitrix",
+    "text": "You must stop this ceremony!\nThere's no telling what could happen!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_010": {
+    "speaker": "CEO_TRIGON",
+    "text": "Ah, Dr. Sitrix. Today is an auspicious day,\nfor the triangle network has been completed.\nAnd as we've bested so many obstacles together,\nwe should similarly celebrate as one."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_020": {
+    "speaker": "Fred_Kinlei",
+    "text": "She's right, Corana. Thanks to our new employee\nand Master, we also managed to deal with the\nAnti-Triangle. I was hoping to show my formal\nthanks, but it seems they took a sick day."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_030": {
+    "speaker": "Corana_Sitrix",
+    "text": "Listen to me, both of you: if the energy\nlevels in this place increase any further,\nthe terminal is not going to last."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_040": {
+    "speaker": "CEO_TRIGON",
+    "text": "And if we don't put the triangle network\ninto full and complete operation today,\n<i>Trigon</i> won't last. We'll be ruined.\fAnd if that happens, we'll have to start\nall over again from nothing. Our employees?\nTheir families? They'll all be destitute."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_050": {
+    "speaker": "Fred_Kinlei",
+    "text": "Now let's begin the ceremony."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_060": {
+    "speaker": "CEO_TRIGON",
+    "text": "Greetings, ladies and gentlemen!\nI'm proud to announce that with all\nthe triangle engines now functioning,\nthe triangle network is complete!\fThis network will change every aspect\nof your lives! The Trigon Corporation\nwill open the door to tomorrow—today!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_061": {
+    "speaker": "CEO_TRIGON",
+    "text": "Nnngh... Gaaah!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_062": {
+    "speaker": "CEO_TRIGON",
+    "text": "GYAAAAAAH!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_070": {
+    "speaker": "Fred_Kinlei",
+    "text": "The director... She..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_080": {
+    "speaker": "Alessa_Sitrix",
+    "text": "I knew something like this could happen.\nI managed to stop it once before, but not\nthis time."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_090": {
+    "speaker": "Corana_Sitrix",
+    "text": "Alessa!? You're alive!?\nWhere have you been?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_100": {
+    "speaker": "BX10_EX",
+    "text": "Now is not the time, Doctor. This area\nis dangerous, and we must withdraw."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_101": {
+    "speaker": "BX10_EX",
+    "text": "Threat levels spiking!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_110": {
+    "speaker": "Corana_Sitrix",
+    "text": "Master!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_120": {
+    "speaker": "BX10_EX",
+    "text": "Dr. Corana Sitrix...you remain well...\nNow r-run... Run n-n-n-n-nooow..."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_130": {
+    "speaker": "Michele",
+    "text": "Corana!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_140": {
+    "speaker": "Corana_Sitrix",
+    "text": "Michele! Master's hurt!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_000_150": {
+    "speaker": "Amaya_Aisling",
+    "text": "Michele, you keep an eye on Corana.\nThat might be the director on the\ninside, but I'm not gonna hold back!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_010_000": {
+    "speaker": "Fred_Kinlei",
+    "text": "It's over! It's all over!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_010_010": {
+    "speaker": "Michele",
+    "text": "Fred, you know all about the BX series.\nCan you fix Master?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_010_020": {
+    "speaker": "Corana_Sitrix",
+    "text": "Please, Fred."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_010_030": {
+    "speaker": "Fred_Kinlei",
+    "text": "Huh? What? Oh, right. Well, I could probably\nhandle wiring up a few connecting circuits,\nbut fixing broken parts is beyond me."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_010_040": {
+    "speaker": "Michele",
+    "text": "That's fine. We need to shut down all\nthe triangle engines at the same time,\nwhich means we have to connect Master\nto the network."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_010_050": {
+    "speaker": "Fred_Kinlei",
+    "text": "Like I said, I'll do what I can.\nBut, uh, please don't hurt me\nif this doesn't work, okay?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_020_000": {
+    "speaker": "Fred_Kinlei",
+    "text": "Master? Master, please wake up."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_020_010": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Let me, Fred.\n...BX10? Wake up."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_020_020": {
+    "speaker": "BX10_EX",
+    "text": "Good morning, Dr. Alessa Sitrix,\nI will have a double espresso."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_020_030": {
+    "speaker": "Michele",
+    "text": "Master, we need you to contact all the triangle\nengines on the network and shut them down. There\nmight be some that have to be stopped manually,\nso I'll head back to port. Fred, you're with me."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_020_040": {
+    "speaker": "Fred_Kinlei",
+    "text": "Sorry, we're going to RUN \nall the way to the port!?"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_020_050": {
+    "speaker": "Michele",
+    "text": "No, you dolt.\nYou're going to drive."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_020_060": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Hurry, BX10. She won't be\nable to do this forever."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_030_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "I stopped the director, but man,\nshe was tougher than I expected."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_030_010": {
+    "speaker": "Corana_Sitrix",
+    "text": "I don't understand! We disabled all of the\nengines, but the energy concentrating here\njust keeps rising!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_030_020": {
+    "speaker": "Alessa_Sitrix",
+    "text": "I'll handle it, Corana—for when you get\ndown to it, this is all my responsibility.\fAlso, I know it was only for a short time,\nbut I'm truly happy we were able to see\neach other again... Farewell."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_030_030": {
+    "speaker": "Corana_Sitrix",
+    "text": "Alessa!"
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_030_130": {
+    "speaker": "Amaya_Aisling",
+    "text": "If you don't mind a witch saying so,\nI think you might call this a miracle."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_030_140": {
+    "speaker": "BX10_EX",
+    "text": "It is not a miracle if you\nmade it happen."
+  },
+  "SUB_W15_EVAR_AMYA_BOSS_030_CUT_030_160": {
+    "speaker": "Amaya_Aisling",
+    "text": "Actually, I got what I needed while I\nwas fighting the director—just like\nthe green line said I would."
+  },
+  "SUB_W15_EVAR_AMYA_RETURN_000_CUT_000_000": {
+    "speaker": "Lara",
+    "text": "Welcome to Dreamland!\nNow let us dream together!"
+  },
+  "SUB_W15_EVAR_AMYA_RETURN_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I should be able to get to the\nLost Realms through this gate.\nThanks for everything, Master!"
+  },
+  "SUB_W15_EVAR_AMYA_RETURN_000_CUT_000_020": {
+    "speaker": "BX10_EX",
+    "text": "Are the Lost Realms a place\nsimilar to Dreamland?"
+  },
+  "SUB_W15_EVAR_AMYA_RETURN_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Er, not quite. See, every world is its own\nkind of reality—both good and bad.\nIt'd be best for you to see for yourself,\nbut I'm guessing you can't leave Corana."
+  },
+  "SUB_W15_EVAR_AMYA_RETURN_000_CUT_000_040": {
+    "speaker": "BX10_EX",
+    "text": "Dr. Corana Sitrix has found a suitable\npartner, and will be well without me."
+  },
+  "SUB_W15_EVAR_AMYA_RETURN_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Then hop on board!"
+  },
+  "SUB_W15_EVAR_AMYA_RETURN_000_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Sorry, I still can't take you."
+  },
+  "SUB_W15_EVAR_AMYA_RETURN_000_CUT_000_070": {
+    "speaker": "BX10_EX",
+    "text": "I would love to."
+  },
+  "SUB_W15_EVAR_AMYA_RETURN_000_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Farewell, Master!\nAnd farewell, Vermiglio!"
+  }
+}

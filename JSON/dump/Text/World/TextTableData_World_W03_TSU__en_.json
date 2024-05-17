@@ -1,0 +1,118 @@
+{
+  "W03_EVAR_MIDO_GRAVE_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Grave"
+  },
+  "W03_EVAR_MIDO_GRAVE_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Return to the Heavens and search for your next destination."
+  },
+  "W03_EVAR_MIDO_GRAVE_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W03_EVAR_MIDO_RUIN_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Ruins"
+  },
+  "W03_EVAR_MIDO_RUIN_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Return to the Heavens and search for your next destination."
+  },
+  "W03_EVAR_MIDO_RUIN_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W03_EVAR_MIDO_WELL_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Well"
+  },
+  "W03_EVAR_MIDO_WELL_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Return to the Heavens and search for your next destination."
+  },
+  "W03_EVAR_MIDO_WELL_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W03_EVAR_MIDO_GRAVE_RETURN_040_TITLE": {
+    "speaker": "UI",
+    "text": "Grave"
+  },
+  "W03_EVAR_MIDO_GRAVE_RETURN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Head to the Heavens, then return to Miyako City."
+  },
+  "W03_EVAR_MIDO_GRAVE_RETURN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W03_EVAR_MIDO_SPIRIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Weak Spirit"
+  },
+  "W03_EVAR_MIDO_SPIRIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The spirit's power cannot be acquired without a fight. Are you ready?"
+  },
+  "W03_EVAR_MIDO_SPIRIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W03_EVAR_MIDO_SPIRIT_100_TITLE": {
+    "speaker": "UI",
+    "text": "Normal Spirit"
+  },
+  "W03_EVAR_MIDO_SPIRIT_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The spirit's power cannot be acquired without a fight. Are you ready?"
+  },
+  "W03_EVAR_MIDO_SPIRIT_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W03_EVAR_MIDO_SPIRIT_200_TITLE": {
+    "speaker": "UI",
+    "text": "Strong Spirit"
+  },
+  "W03_EVAR_MIDO_SPIRIT_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The spirit's power cannot be acquired without a fight. Are you ready?"
+  },
+  "W03_EVAR_MIDO_SPIRIT_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W03_EVAR_MIDO_SPIRIT_300_TITLE": {
+    "speaker": "UI",
+    "text": "Sinister Spirit"
+  },
+  "W03_EVAR_MIDO_SPIRIT_300_DETAIL": {
+    "speaker": "UI",
+    "text": "The spirit's power cannot be acquired without a fight. Are you ready?"
+  },
+  "W03_EVAR_MIDO_SPIRIT_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W03_EVAR_MIDO_CASTLE_FINAL_PRIDE_110_TITLE": {
+    "speaker": "UI",
+    "text": "To Acquire a Spirit's Power"
+  },
+  "W03_EVAR_MIDO_CASTLE_FINAL_PRIDE_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Must you really fight against the Warden of Pride—against Dolores?"
+  },
+  "W03_EVAR_MIDO_CASTLE_FINAL_PRIDE_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dark Castle"
+  },
+  "W03_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yomi: The World of Darkness"
+  },
+  "W03_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world shrouded in darkness on the other side of the door. Perhaps you can acquire a spirit's power if you let Dolores guide you."
+  }
+}

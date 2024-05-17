@@ -1,0 +1,330 @@
+{
+  "C01_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Lost Realms"
+  },
+  "C01_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Lost Realms are mysterious in nature, with doors all over the place. With so many doors to choose from, the freedom can almost feel stifling at times."
+  },
+  "C01_SCAN_AMYA_INITIAL_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door Forward"
+  },
+  "C01_SCAN_AMYA_INITIAL_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Macha's magic is showing the way to a single door."
+  },
+  "C01_SCAN_AMYA_INITIAL_WAVE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Four Doors, Four Cats"
+  },
+  "C01_SCAN_AMYA_INITIAL_WAVE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Looks like there are four cats that got away to other worlds. Better get to it!"
+  },
+  "C01_SCAN_AMYA_2nd_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Two Doors"
+  },
+  "C01_SCAN_AMYA_2nd_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There are two cats that escaped to other worlds that need to be tracked down. Which should you go for first?"
+  },
+  "C01_SCAN_AMYA_2nd_WAVE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Three Cats Left"
+  },
+  "C01_SCAN_AMYA_2nd_WAVE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need to come back to the Lost Realms two more times. LoLo's not going to be happy about that."
+  },
+  "C01_SCAN_AMYA_3rd_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Still Two Doors"
+  },
+  "C01_SCAN_AMYA_3rd_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Why aren't there fewer doors now? You did catch a cat, didn't you? How odd."
+  },
+  "C01_SCAN_AMYA_3rd_WAVE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Two Doors to Go"
+  },
+  "C01_SCAN_AMYA_3rd_WAVE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Seeing the doors disappear one by one really makes you feel a sense of progress."
+  },
+  "C01_SCAN_AMYA_4th_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Pursuit of Cats Continues"
+  },
+  "C01_SCAN_AMYA_4th_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is all the fault of that strange armored man. He sure has made life difficult for you."
+  },
+  "C01_SCAN_AMYA_4th_WAVE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Chasing the Final Cat"
+  },
+  "C01_SCAN_AMYA_4th_WAVE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "There's just one cat left to be found in another world. Don't give up until the job is done."
+  },
+  "C01_WRLD_AMYA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Returning to Pulchra"
+  },
+  "C01_WRLD_AMYA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's finally time to open the door to Pulchra."
+  },
+  "C01_WRLD_AMYA_FINAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Farewell, Pulchra"
+  },
+  "C01_WRLD_AMYA_FINAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can never go home to Pulchra again... Where should you go?"
+  },
+  "C01_SCAN_AMYA_FINAL_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door Forward"
+  },
+  "C01_SCAN_AMYA_FINAL_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Macha's magic is showing the way to a single door. Believe in what the future holds and press on!"
+  },
+  "C01_DOOR_AMYA_BATTLE_VH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of Combat"
+  },
+  "C01_DOOR_AMYA_BATTLE_VH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A truly grueling battle awaits beyond this door."
+  },
+  "C01_DOOR_AMYA_BATTLE_VH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "C01_EVNT_AMYA_LASTBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Mysterious Man"
+  },
+  "C01_EVNT_AMYA_LASTBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The man who tried to steal your magic in Miyako City waits in front of the door!"
+  },
+  "C01_EVNT_AMYA_LASTBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "C01_EVNT_AMYA_LASTBATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Mysterious Man"
+  },
+  "C01_EVNT_AMYA_LASTBATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The man who tried to steal your magic in Miyako City waits in front of the door!"
+  },
+  "C01_EVNT_AMYA_LASTBATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "C01_DOOR_AMYA_LASTBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of Hope"
+  },
+  "C01_DOOR_AMYA_LASTBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Macha's magic points to one of the doors."
+  },
+  "C01_DOOR_AMYA_LASTBATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Door of Hope"
+  },
+  "C01_DOOR_AMYA_LASTBATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Macha's magic points to one of the doors."
+  },
+  "C01_DOOR_AMYA_W03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that a world of darkness lies just beyond the door."
+  },
+  "C01_DOOR_AMYA_W03_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W04_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that an oceanic world lies just beyond the door."
+  },
+  "C01_DOOR_AMYA_W04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W06_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that...some world of other lies just beyond the door."
+  },
+  "C01_DOOR_AMYA_W06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W07_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that a world full of spiritual energy lies just beyond the door."
+  },
+  "C01_DOOR_AMYA_W07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W08_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W08_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that a hole lies just beyond the door. ...Wait, a hole?"
+  },
+  "C01_DOOR_AMYA_W08_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W09_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W09_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that some infernal ride lies just beyond the door."
+  },
+  "C01_DOOR_AMYA_W09_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W10_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W10_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that a completely incomprehensible world lies just beyond the door."
+  },
+  "C01_DOOR_AMYA_W10_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W11_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W11_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that beautiful flowers lie just beyond the door."
+  },
+  "C01_DOOR_AMYA_W11_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W12_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W12_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that an immensely frigid world lies just beyond the door. Brrr!"
+  },
+  "C01_DOOR_AMYA_W12_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W13_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W13_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that an impossibly dry world lies just beyond the door. Unfortunate for your skin regime."
+  },
+  "C01_DOOR_AMYA_W13_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W14_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W14_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense that a world of infinite possibilities lies just beyond the door. May no one be peeping on you!"
+  },
+  "C01_DOOR_AMYA_W14_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W15_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W15_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense the presense of myriad triangles just beyond the door."
+  },
+  "C01_DOOR_AMYA_W15_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W17_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W17_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense an endless struggle just beyond the door."
+  },
+  "C01_DOOR_AMYA_W17_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W18_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W18_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense a total lack of magical energy just beyond the door."
+  },
+  "C01_DOOR_AMYA_W18_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_AMYA_W19_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Magic"
+  },
+  "C01_DOOR_AMYA_W19_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can sense a bevy of bugs and snakes just beyond the door."
+  },
+  "C01_DOOR_AMYA_W19_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  }
+}

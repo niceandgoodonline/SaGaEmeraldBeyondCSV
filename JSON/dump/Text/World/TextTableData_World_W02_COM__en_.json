@@ -1,0 +1,986 @@
+{
+  "W02_LTXT_COMM_CASTLE_BIG_TITLE": {
+    "speaker": "UI",
+    "text": "Brilliant Tower"
+  },
+  "W02_LTXT_COMM_CASTLE_BIG_DETAIL": {
+    "speaker": "UI",
+    "text": "A pillar of light where witches gather. Constantly absorbing magical energy, it's effectively the center of the world, though it also connects to other worlds as well."
+  },
+  "W02_LTXT_COMM_CASTLE_RED_TITLE": {
+    "speaker": "UI",
+    "text": "Flame Fortress"
+  },
+  "W02_LTXT_COMM_CASTLE_RED_DETAIL": {
+    "speaker": "UI",
+    "text": "A perpetually smoldering castle of hellfire. Home to the sagely Red Witch."
+  },
+  "W02_LTXT_COMM_CASTLE_BLU_TITLE": {
+    "speaker": "UI",
+    "text": "Tree of the Forever Young"
+  },
+  "W02_LTXT_COMM_CASTLE_BLU_DETAIL": {
+    "speaker": "UI",
+    "text": "A castle within a great tree that's covered in the fresh, eternal vegetation of early summer. Home to the sagely Blue Witch."
+  },
+  "W02_LTXT_COMM_CASTLE_WHI_TITLE": {
+    "speaker": "UI",
+    "text": "Leone Bianco Palazzo"
+  },
+  "W02_LTXT_COMM_CASTLE_WHI_DETAIL": {
+    "speaker": "UI",
+    "text": "The stronghold for witches of the white, made from gold and marble. Home to the sagely White Witch."
+  },
+  "W02_LTXT_COMM_CASTLE_YEL01_TITLE": {
+    "speaker": "UI",
+    "text": "Dusk Pinwheel"
+  },
+  "W02_LTXT_COMM_CASTLE_YEL01_DETAIL": {
+    "speaker": "UI",
+    "text": "A magical pinwheel where witches of the yellow live. It has a habit of moving about on a whim."
+  },
+  "W02_LTXT_COMM_CASTLE_YEL05_TITLE": {
+    "speaker": "UI",
+    "text": "The Dusk Pinwheel Returns"
+  },
+  "W02_LTXT_COMM_CASTLE_YEL05_DETAIL": {
+    "speaker": "UI",
+    "text": "The Dusk Pinwheel has returned to its original region. You can only hope it isn't going to move again any time soon."
+  },
+  "W02_LTXT_COMM_CASTLE_BLA_TITLE": {
+    "speaker": "UI",
+    "text": "Castle Black Swan"
+  },
+  "W02_LTXT_COMM_CASTLE_BLA_DETAIL": {
+    "speaker": "UI",
+    "text": "The stronghold for witches of the black. A lake so cold it freezes you to your core stands between you and it."
+  },
+  "W02_LTXT_COMM_CASTLE_BLA2_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallizing Castle Black Swan"
+  },
+  "W02_LTXT_COMM_CASTLE_BLA2_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystallization process has begun at Castle Black Swan. You must ensure it doesn't reach the castle."
+  },
+  "W02_LTXT_COMM_CASTLE_BLA3_TITLE": {
+    "speaker": "UI",
+    "text": "Imperiled Castle Black Swan"
+  },
+  "W02_LTXT_COMM_CASTLE_BLA3_DETAIL": {
+    "speaker": "UI",
+    "text": "The area in front of the castle has become a warzone, and the crystallization is now pronounced. If the witches of the black don't achieve victory quickly, the crystallization will reach the castle."
+  },
+  "W02_LTXT_COMM_CASTLE_BLA4_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Castle Black Swan"
+  },
+  "W02_LTXT_COMM_CASTLE_BLA4_DETAIL": {
+    "speaker": "UI",
+    "text": "The home of the black witches has succumbed to the Calamity and turned to crystal."
+  },
+  "W02_LTXT_COMM_CASTLE_BLA5_TITLE": {
+    "speaker": "UI",
+    "text": "Liberated Castle Black Swan"
+  },
+  "W02_LTXT_COMM_CASTLE_BLA5_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystals are no more, and the immediate danger has passed. However, you can't afford to let your guard down until the battle with the Calamity is over."
+  },
+  "W02_LTXT_COMM_CASTLE_BLU2_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallizing Tree of the Forever Young"
+  },
+  "W02_LTXT_COMM_CASTLE_BLU2_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystallization process has begun at the Tree of the Forever Young. You must ensure it doesn't reach the tree."
+  },
+  "W02_LTXT_COMM_CASTLE_BLU3_TITLE": {
+    "speaker": "UI",
+    "text": "Imperiled Tree of the Forever Young"
+  },
+  "W02_LTXT_COMM_CASTLE_BLU3_DETAIL": {
+    "speaker": "UI",
+    "text": "The area in front of the tree has become a warzone, and the crystallization is now pronounced. If the witches of the blue don't achieve victory quickly, the crystallization will reach the castle."
+  },
+  "W02_LTXT_COMM_CASTLE_BLU4_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Tree of the Forever Young"
+  },
+  "W02_LTXT_COMM_CASTLE_BLU4_DETAIL": {
+    "speaker": "UI",
+    "text": "The home of the blue witches has succumbed to the Calamity and turned to crystal."
+  },
+  "W02_LTXT_COMM_CASTLE_BLU5_TITLE": {
+    "speaker": "UI",
+    "text": "Liberated Tree of the Forever Young"
+  },
+  "W02_LTXT_COMM_CASTLE_BLU5_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystals are no more, and the immediate danger has passed. However, you can't afford to let your guard down until the battle with the Calamity is over."
+  },
+  "W02_LTXT_COMM_CASTLE_RED2_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallizing Flame Fortress"
+  },
+  "W02_LTXT_COMM_CASTLE_RED2_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystallization process has begun at the Flame Fortress. You must ensure it doesn't reach the fortress."
+  },
+  "W02_LTXT_COMM_CASTLE_RED3_TITLE": {
+    "speaker": "UI",
+    "text": "Imperiled Flame Fortress"
+  },
+  "W02_LTXT_COMM_CASTLE_RED3_DETAIL": {
+    "speaker": "UI",
+    "text": "The area in front of the fortress has become a warzone, and the crystallization is now pronounced. If the witches of the red don't achieve victory quickly, the crystallization will reach the fortress."
+  },
+  "W02_LTXT_COMM_CASTLE_RED4_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Flame Fortress"
+  },
+  "W02_LTXT_COMM_CASTLE_RED4_DETAIL": {
+    "speaker": "UI",
+    "text": "The home of the red witches has succumbed to the Calamity and turned to crystal."
+  },
+  "W02_LTXT_COMM_CASTLE_RED5_TITLE": {
+    "speaker": "UI",
+    "text": "Liberated Flame Fortress"
+  },
+  "W02_LTXT_COMM_CASTLE_RED5_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystals are no more, and the immediate danger has passed. However, you can't afford to let your guard down until the battle with the Calamity is over."
+  },
+  "W02_LTXT_COMM_CASTLE_YEL2_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallizing Dusk Pinwheel"
+  },
+  "W02_LTXT_COMM_CASTLE_YEL2_DETAIL": {
+    "speaker": "UI",
+    "text": "The Dusk Pinwheel has begun to crystallize, and crystals are covering the land. If the process is left unchecked, it won't be easy to reverse."
+  },
+  "W02_LTXT_COMM_CASTLE_YEL3_TITLE": {
+    "speaker": "UI",
+    "text": "Imperiled Dusk Pinwheel"
+  },
+  "W02_LTXT_COMM_CASTLE_YEL3_DETAIL": {
+    "speaker": "UI",
+    "text": "The area where the pinwheel will land has become a war zone, and the crystallization is now pronounced. If the witches of the yellow don't win quickly, the crystallization will reach the pinwheel."
+  },
+  "W02_LTXT_COMM_CASTLE_YEL4_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Dusk Pinwheel"
+  },
+  "W02_LTXT_COMM_CASTLE_YEL4_DETAIL": {
+    "speaker": "UI",
+    "text": "The Dusk Pinwheel has succumbed to the Calamity and turned to crystal."
+  },
+  "W02_LTXT_COMM_CASTLE_YEL5_TITLE": {
+    "speaker": "UI",
+    "text": "Liberated Dusk Pinwheel"
+  },
+  "W02_LTXT_COMM_CASTLE_YEL5_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystals are no more, and the immediate danger has passed. However, you can't afford to let your guard down until the battle with the Calamity is over."
+  },
+  "W02_LTXT_COMM_CASTLE_WHI2_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallizing Leone Bianco Palazzo"
+  },
+  "W02_LTXT_COMM_CASTLE_WHI2_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystallization process has begun at Leone Bianco Palazzo. You must ensure it doesn't reach the palazzo."
+  },
+  "W02_LTXT_COMM_CASTLE_WHI3_TITLE": {
+    "speaker": "UI",
+    "text": "Imperiled Leone Bianco Palazzo"
+  },
+  "W02_LTXT_COMM_CASTLE_WHI3_DETAIL": {
+    "speaker": "UI",
+    "text": "The area in front of the palazzo has become a warzone, and the crystallization is now pronounced. If the witches of the white don't achieve victory quickly, the crystallization will reach the palazzo."
+  },
+  "W02_LTXT_COMM_CASTLE_WHI4_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Leone Bianco Palazzo"
+  },
+  "W02_LTXT_COMM_CASTLE_WHI4_DETAIL": {
+    "speaker": "UI",
+    "text": "The home of the white witches has succumbed to the Calamity and turned to crystal."
+  },
+  "W02_LTXT_COMM_CASTLE_WHI5_TITLE": {
+    "speaker": "UI",
+    "text": "Liberated Leone Bianco Palazzo"
+  },
+  "W02_LTXT_COMM_CASTLE_WHI5_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystals are no more, and the immediate danger has passed. However, you can't afford to let your guard down until the battle with the Calamity is over."
+  },
+  "W02_LTXT_COMM_TWN_OLD_TITLE": {
+    "speaker": "UI",
+    "text": "The Mistkeep"
+  },
+  "W02_LTXT_COMM_TWN_OLD_DETAIL": {
+    "speaker": "UI",
+    "text": "An old castle where witches supposedly lived at one time. Its gates are now shut, preventing any unwelcome guests from setting foot inside."
+  },
+  "W02_LTXT_COMM_TWN_SER_TITLE": {
+    "speaker": "UI",
+    "text": "Squire's Burg"
+  },
+  "W02_LTXT_COMM_TWN_SER_DETAIL": {
+    "speaker": "UI",
+    "text": "A settlement populated by the squires who serve the sages."
+  },
+  "W02_LTXT_COMM_DUN_WHI_TITLE": {
+    "speaker": "UI",
+    "text": "White Ore Mine"
+  },
+  "W02_LTXT_COMM_DUN_WHI_DETAIL": {
+    "speaker": "UI",
+    "text": "A mine within the White Sage's territory. Cave-ins are frequent, making it a rather dangerous location."
+  },
+  "W02_LTXT_COMM_DUN_BLU_TITLE": {
+    "speaker": "UI",
+    "text": "Blue Forest"
+  },
+  "W02_LTXT_COMM_DUN_BLU_DETAIL": {
+    "speaker": "UI",
+    "text": "A deep, vast forest area protected by the witches of the blue. A great power can supposedly be found in its depths."
+  },
+  "W02_LTXT_COMM_DUN_YEL_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Rift"
+  },
+  "W02_LTXT_COMM_DUN_YEL_DETAIL": {
+    "speaker": "UI",
+    "text": "The entrance to an underground rift. Fiends are known to appear here."
+  },
+  "W02_LTXT_COMM_DUN_RED_TITLE": {
+    "speaker": "UI",
+    "text": "The Scorching Tower"
+  },
+  "W02_LTXT_COMM_DUN_RED_DETAIL": {
+    "speaker": "UI",
+    "text": "A tower for trials constructed by the witches of the red. Its searing flames can melt gold in an instant."
+  },
+  "W02_LTXT_COMM_DUN_BLA_TITLE": {
+    "speaker": "UI",
+    "text": "Ebon Sluice"
+  },
+  "W02_LTXT_COMM_DUN_BLA_DETAIL": {
+    "speaker": "UI",
+    "text": "The entrance to an underground waterway that leads to the black castle."
+  },
+  "W02_LTXT_COMM_DUN_BIG_TITLE": {
+    "speaker": "UI",
+    "text": "The Witches' Greenhouse"
+  },
+  "W02_LTXT_COMM_DUN_BIG_DETAIL": {
+    "speaker": "UI",
+    "text": "A large greenhouse in which various magical plants are cultivated. It's under the effect of a spell that makes it larger on the inside than the outside."
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_BLA_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Ebon Sluice"
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_BLA_DETAIL": {
+    "speaker": "UI",
+    "text": "The Ebon Sluice and the surrounding area have been turned to crystal."
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_BLU_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Blue Forest"
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_BLU_DETAIL": {
+    "speaker": "UI",
+    "text": "The Blue Forest and the surrounding area have been turned to crystal."
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_RED_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Scorching Tower"
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_RED_DETAIL": {
+    "speaker": "UI",
+    "text": "The Scorching Tower and the surrounding area have been turned to crystal."
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_YEL_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Rift Entrance"
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_YEL_DETAIL": {
+    "speaker": "UI",
+    "text": "The area around the rift entrance has been turned to crystal."
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_WHI_TITLE": {
+    "speaker": "UI",
+    "text": "Crystallized Mine"
+  },
+  "W02_LTXT_COMM_DUN_CRYSTAL_WHI_DETAIL": {
+    "speaker": "UI",
+    "text": "The area around the mine has been crystallized. The inside of the mine is also in peril."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Black Battlefield: Crystallization Begins"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Calamity has begun to cause crystallization. If you don't do something quickly, the effects will spread unchecked across the land."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Black Battlefield"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA01_010_TITLE": {
+    "speaker": "UI",
+    "text": "Black Battlefield: The Witches' Offensive"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA01_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystals, and are on the cusp of eradicating them from this region entirely."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Black Battlefield: The Advancing Crystals"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystallization process continues to spread across the land, and the witches are proving powerless to stop it."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA02_010_TITLE": {
+    "speaker": "UI",
+    "text": "Black Battlefield: The Witches' Counterattack"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA02_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystallization, but they may not be able to keep it up."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Black Battlefield: Castle Black Swan in Danger"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_AREA03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The wave of crystallization is approaching Castle Black Swan. At this rate, it won't be long before the entire region turns to crystal."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA01_000_TITLE": {
+    "speaker": "UI",
+    "text": "White Battlefield: Crystallization Begins"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Calamity has begun to cause crystallization. If you don't do something quickly, the effects will spread unchecked across the land."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the White Battlefield"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA01_010_TITLE": {
+    "speaker": "UI",
+    "text": "White Battlefield: The Witches' Offensive"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA01_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystals, and are on the cusp of eradicating them from this region entirely."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA02_000_TITLE": {
+    "speaker": "UI",
+    "text": "White Battlefield: The Advancing Crystals"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystallization process continues to spread across the land, and the witches are proving powerless to stop it."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA02_010_TITLE": {
+    "speaker": "UI",
+    "text": "White Battlefield: The Witches' Counterattack"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA02_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystallization, but they may not be able to keep it up."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA03_000_TITLE": {
+    "speaker": "UI",
+    "text": "White Battlefield: Leone Bianco Palazzo in Danger"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_AREA03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The wave of crystallization is approaching Leone Bianco Palazzo. At this rate, it won't be long before the entire region turns to crystal."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Blue Battlefield: Crystallization Begins"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Calamity has begun to cause crystallization. If you don't do something quickly, the effects will spread unchecked across the land."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Blue Battlefield"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA01_010_TITLE": {
+    "speaker": "UI",
+    "text": "Blue Battlefield: The Witches' Offensive"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA01_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystals, and are on the cusp of eradicating them from this region entirely."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Blue Battlefield: The Advancing Crystals"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystallization process continues to spread across the land, and the witches are proving powerless to stop it."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA02_010_TITLE": {
+    "speaker": "UI",
+    "text": "Blue Battlefield: The Witches' Counterattack"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA02_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystallization, but they may not be able to keep it up."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Blue Battlefield: Tree of the Forever Young in Danger"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_AREA03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The wave of crystallization is approaching the Tree of the Forever Young. At this rate, it won't be long before the entire region turns to crystal."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Battlefield: Crystallization Begins"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Calamity has begun to cause crystallization. If you don't do something quickly, the effects will spread unchecked across the land."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Yellow Battlefield"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA01_010_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Battlefield: The Witches' Offensive"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA01_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystals, and are on the cusp of eradicating them from this region entirely."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Battlefield: The Advancing Crystals"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystallization process continues to spread across the land, and the witches are proving powerless to stop it."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA02_010_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Battlefield: The Witches' Counterattack"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA02_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystallization, but they may not be able to keep it up."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Battlefield: Dusk Pinwheel in Danger"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_AREA03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The wave of crystallization is approaching the Dusk Pinwheel. At this rate, it won't be long before the entire region turns to crystal."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Battlefield: Crystallization Begins"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Calamity has begun to cause crystallization. If you don't do something quickly, the effects will spread unchecked across the land."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Red Battlefield"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA01_010_TITLE": {
+    "speaker": "UI",
+    "text": "Red Battlefield: The Witches' Offensive"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA01_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystals, and are on the cusp of eradicating them from this region entirely."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Battlefield: The Advancing Crystals"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The crystallization process continues to spread across the land, and the witches are proving powerless to stop it."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA02_010_TITLE": {
+    "speaker": "UI",
+    "text": "Red Battlefield: The Witches' Counterattack"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA02_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The witches have managed to push back against the crystallization, but they may not be able to keep it up."
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Battlefield: Flame Fortress in Danger"
+  },
+  "W02_EVAR_COMM_WAVE1_OUTPOST_RED_AREA03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The wave of crystallization is approaching the Flame Fortress. At this rate, it won't be long before the entire region turns to crystal."
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_TITLE": {
+    "speaker": "UI",
+    "text": "A Shy Witch"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_DETAIL": {
+    "speaker": "UI",
+    "text": "Grete is a shy witch of the black, but perhaps she fights as ferociously on the battlefield as the other witches?"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Grete"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_2_TITLE": {
+    "speaker": "UI",
+    "text": "Grete's Staff"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_2_DETAIL": {
+    "speaker": "UI",
+    "text": "You wonder how Grete has been since giving you that powerful staff."
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_2_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Grete"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_3_TITLE": {
+    "speaker": "UI",
+    "text": "Suspicious Old Castle"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_3_DETAIL": {
+    "speaker": "UI",
+    "text": "Grete the black witch has changed significantly since you first saw her. Perhaps the reason why lurks within this old castle."
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_3_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Old Castle"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_4_TITLE": {
+    "speaker": "UI",
+    "text": "Search for Grete"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_4_DETAIL": {
+    "speaker": "UI",
+    "text": "The grey staff should still be in Grete's possession. You should find her and ask about it."
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_4_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Black Battlefield"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_5_TITLE": {
+    "speaker": "UI",
+    "text": "Road to Castle Black Swan"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_5_DETAIL": {
+    "speaker": "UI",
+    "text": "Grete is on her way to Castle Black Swan. If you wish to follow her, you'll need to pass through this floodgate."
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLACK_5_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Ebon Sluice"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_TITLE": {
+    "speaker": "UI",
+    "text": "A Suspicious Shadow"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense something amiss in the woods. What could be happening here?"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Woods"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_2_TITLE": {
+    "speaker": "UI",
+    "text": "Mystery in the Castle"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_2_DETAIL": {
+    "speaker": "UI",
+    "text": "The suspicious frog in the forest turned out to be Pierre, Lita's familiar. Pierre made a desperate dash for the Tree of the Forever Young, but where could Lita be?"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_2_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Tree of the Forever Young"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_3_TITLE": {
+    "speaker": "UI",
+    "text": "Blue Forest"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_3_DETAIL": {
+    "speaker": "UI",
+    "text": "When Pierre left the castle, he was making his way to the Blue Forest—a site holy to the witches of the blue. What is he planning to do there?"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_3_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Woods"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_4_TITLE": {
+    "speaker": "UI",
+    "text": "Save the Tree of the Forever Young"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_4_DETAIL": {
+    "speaker": "UI",
+    "text": "Lita and Pierre ran underground to save the Tree of the Forever Young. Will you be able to rescue it—and them, for that matter?"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_BLUE_4_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Tree of the Forever Young"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Squire"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You spy a lone armored figure standing away from the battlefield. Who could he be?"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to the Red Squire"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_010_TITLE": {
+    "speaker": "UI",
+    "text": "Red Sage"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You've been roped into breaking up a foolish squabble between two witch sisters. Will the Red Sage even listen to what you have to say?"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Red Sage"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_020_TITLE": {
+    "speaker": "UI",
+    "text": "Friendship and Tragedy"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_020_DETAIL": {
+    "speaker": "UI",
+    "text": "In the end, your involvement allows the red witch sisters to make up. But then tragedy strikes..."
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Flame Fortress"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_030_TITLE": {
+    "speaker": "UI",
+    "text": "Salamander Scale"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_030_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need a scale of the Salamander to create an antidote. You can find one in the Scorching Tower."
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Scorching Tower"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_060_TITLE": {
+    "speaker": "UI",
+    "text": "Grand Finale"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_060_DETAIL": {
+    "speaker": "UI",
+    "text": "This antidote will let you save the witch sisters."
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_060_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Flame Fortress"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_031_TITLE": {
+    "speaker": "UI",
+    "text": "Left in the Tower"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_031_DETAIL": {
+    "speaker": "UI",
+    "text": "An item the two witch sisters have an emotional attachment to is said to be in this tower. What could it be?"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_031_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Scorching Tower"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_051_TITLE": {
+    "speaker": "UI",
+    "text": "Squire's Burg"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_051_DETAIL": {
+    "speaker": "UI",
+    "text": "This is a village where the squires who serve the witches live. The assassin should be hiding among them."
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_051_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Squire's Burg"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_061_TITLE": {
+    "speaker": "UI",
+    "text": "Antidote Obtained"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_061_DETAIL": {
+    "speaker": "UI",
+    "text": "This antidote should let you save the witch sisters."
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_RED_061_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Flame Fortress"
+  },
+  "W02_EVAR_COMM_ASSASIN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Assassin's Soul"
+  },
+  "W02_EVAR_COMM_ASSASIN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The assassin leapt off the cliff. Perhaps his soul remains there?"
+  },
+  "W02_EVAR_COMM_ASSASIN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to Squire's Burg"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_TITLE": {
+    "speaker": "UI",
+    "text": "A Capricious Pinwheel"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_DETAIL": {
+    "speaker": "UI",
+    "text": "The Calamity is still ongoing, yet the Dusk Pinwheel has begun moving about. What could be the cause?"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dusk Pinwheel"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_2_TITLE": {
+    "speaker": "UI",
+    "text": "The Witch Knows"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_2_DETAIL": {
+    "speaker": "UI",
+    "text": "The Dusk Pinwheel's compass is behaving strangely. Perhaps Willma the yellow witch knows why?"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_2_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Willma"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_3_TITLE": {
+    "speaker": "UI",
+    "text": "Willma's Concern"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_3_DETAIL": {
+    "speaker": "UI",
+    "text": "Willma is worried she might be a golem. Share her concerns with the Yellow Sage in order to calm her mind."
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_3_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Yellow Sage"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_4_TITLE": {
+    "speaker": "UI",
+    "text": "The Dusk Pinwheel Returns"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_4_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps the compass has decided to accept Willma? You will find the answer inside."
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_4_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dusk Pinwheel"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_5_TITLE": {
+    "speaker": "UI",
+    "text": "Willma's Future"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_5_DETAIL": {
+    "speaker": "UI",
+    "text": "Willma may be a golem, but she has still proven her strength. What kind of future could be waiting for her?"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_5_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dusk Pinwheel"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_6_TITLE": {
+    "speaker": "UI",
+    "text": "A Witch's Departure"
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_6_DETAIL": {
+    "speaker": "UI",
+    "text": "With the Calamity nearly ended, it's time to pick up Willma."
+  },
+  "W02_FUNC_COMM_WQT00_FIRST_SUB_EVENT_YELLOW_6_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Willma"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sightings"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You're desperate for any information as to where those two witches could be, however unreliable."
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Gather Information"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Battlefield Rumors"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone has a rumor to share about the two wayward witches."
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Listen to the Rumor"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_020_TITLE": {
+    "speaker": "UI",
+    "text": "Greenhouse Investigation"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Those two witches seem to have found something."
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witches"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_030_TITLE": {
+    "speaker": "UI",
+    "text": "Leone Bianco's Knowledge"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_030_DETAIL": {
+    "speaker": "UI",
+    "text": "The vanished witches have returned, but two squires are now missing instead. This mystery needs to be solved."
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to Leone Bianco Palazzo"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_040_TITLE": {
+    "speaker": "UI",
+    "text": "Deceived"
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_040_DETAIL": {
+    "speaker": "UI",
+    "text": "The two witches are fired up because of an order they received from the White Sage. Can you solve this mystery by visiting the mine where it all began? "
+  },
+  "W02_EVAR_COMM_COLOR_QUEST_WHITE_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witches"
+  },
+  "W02_GIMK_COMM_PATHMOVE_BROOM_TITLE": {
+    "speaker": "UI",
+    "text": "Magic Broom"
+  },
+  "W02_GIMK_COMM_PATHMOVE_BROOM_DETAIL": {
+    "speaker": "UI",
+    "text": "If you ask this broom nicely, it will apparently take you to Squire's Burg."
+  },
+  "W02_GIMK_COMM_PATHMOVE_BROOM_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Broom"
+  },
+  "W02_GIMK_COMM_PATHMOVE_BROOM2_TITLE": {
+    "speaker": "UI",
+    "text": "Magic Broom"
+  },
+  "W02_GIMK_COMM_PATHMOVE_BROOM2_DETAIL": {
+    "speaker": "UI",
+    "text": "If you climb onto this broom, it will take you somewhere."
+  },
+  "W02_GIMK_COMM_PATHMOVE_BROOM2_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Broom"
+  },
+  "W02_EVAR_COMM_DUNGEON_FREE_BATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Witches' Greenhouse"
+  },
+  "W02_EVAR_COMM_DUNGEON_FREE_BATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should be able to test your combat skills against the fiends raised in the greenhouse."
+  },
+  "W02_EVAR_COMM_DUNGEON_FREE_BATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_COMM_DUNGEON_FREE_BATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Fiends of the Gold Mine"
+  },
+  "W02_EVAR_COMM_DUNGEON_FREE_BATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You should be able to test your combat skills against the fiends that live in this mine."
+  },
+  "W02_EVAR_COMM_DUNGEON_FREE_BATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_COMM_GREENHOUSE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Greenhouse"
+  },
+  "W02_EVAR_COMM_GREENHOUSE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Apparently this is the perfect environment for raising not only plants, but fiends. You should be able to test your combat skills here."
+  },
+  "W02_EVAR_COMM_GREENHOUSE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_COMM_MINE_000_TITLE": {
+    "speaker": "UI",
+    "text": "White Ore Mine"
+  },
+  "W02_EVAR_COMM_MINE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The fiends in this mine have been growing stronger. You should be able to put your combat skills to the test here."
+  },
+  "W02_EVAR_COMM_MINE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_COMM_FIRETOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Scorching Tower"
+  },
+  "W02_EVAR_COMM_FIRETOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "No doubt you will find flaming hot fiends in the Scorching Tower. You should be able to test your combat skills against them."
+  },
+  "W02_EVAR_COMM_FIRETOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_COMM_FOSSAMAGNA_000_TITLE": {
+    "speaker": "UI",
+    "text": "Earthen Ditch"
+  },
+  "W02_EVAR_COMM_FOSSAMAGNA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something is writhing at the bottom of the ditch. This may be a good opportunity to test your strength."
+  },
+  "W02_EVAR_COMM_FOSSAMAGNA_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  }
+}

@@ -1,0 +1,170 @@
+{
+    "SL_ROLE_1_001": {
+        "Name": "\u30c1\u30e3\u30a4\u30eb\u30c9\u30ca\u30a4\u30c8", 
+        "Skill": "OneHandedSword", 
+        "GrowRoute": "SL_ROLE_1_002", 
+        "Type": "Child"
+    }, 
+    "SL_ROLE_1_002": {
+        "Name": "\u30e4\u30f3\u30b0\u30ca\u30a4\u30c8", 
+        "Skill": "OneHandedSword", 
+        "GrowRoute": "SL_ROLE_1_003", 
+        "Type": "Young"
+    }, 
+    "SL_ROLE_1_003": {
+        "Name": "\u30df\u30c9\u30eb\u30ca\u30a4\u30c8", 
+        "Skill": "OneHandedSword", 
+        "GrowRoute": "SL_ROLE_1_004", 
+        "Type": "Middle"
+    }, 
+    "SL_ROLE_1_004": {
+        "Name": "\u30a8\u30eb\u30c0\u30fc\u30ca\u30a4\u30c8", 
+        "Skill": "OneHandedSword", 
+        "GrowRoute": "_NOT_SPECIFIED_", 
+        "Type": "Elder"
+    }, 
+    "SL_ROLE_2_001": {
+        "Name": "\u30c1\u30e3\u30a4\u30eb\u30c9\u30ac\u30fc\u30c9", 
+        "Skill": "TwoHandedSword", 
+        "GrowRoute": "SL_ROLE_2_002", 
+        "Type": "Child"
+    }, 
+    "SL_ROLE_2_002": {
+        "Name": "\u30e4\u30f3\u30b0\u30ac\u30fc\u30c9", 
+        "Skill": "TwoHandedSword", 
+        "GrowRoute": "SL_ROLE_2_003", 
+        "Type": "Young"
+    }, 
+    "SL_ROLE_2_003": {
+        "Name": "\u30df\u30c9\u30eb\u30ac\u30fc\u30c9", 
+        "Skill": "TwoHandedSword", 
+        "GrowRoute": "SL_ROLE_2_004", 
+        "Type": "Middle"
+    }, 
+    "SL_ROLE_2_004": {
+        "Name": "\u30a8\u30eb\u30c0\u30fc\u30ac\u30fc\u30c9", 
+        "Skill": "TwoHandedSword", 
+        "GrowRoute": "_NOT_SPECIFIED_", 
+        "Type": "Elder"
+    }, 
+    "SL_ROLE_3_001": {
+        "Name": "\u30c1\u30e3\u30a4\u30eb\u30c9\u30ac\u30f3\u30de\u30f3", 
+        "Skill": "OneHandedGun", 
+        "GrowRoute": "SL_ROLE_3_002", 
+        "Type": "Child"
+    }, 
+    "SL_ROLE_3_002": {
+        "Name": "\u30e4\u30f3\u30b0\u30ac\u30f3\u30de\u30f3", 
+        "Skill": "OneHandedGun", 
+        "GrowRoute": "SL_ROLE_3_003", 
+        "Type": "Young"
+    }, 
+    "SL_ROLE_3_003": {
+        "Name": "\u30df\u30c9\u30eb\u30ac\u30f3\u30de\u30f3", 
+        "Skill": "OneHandedGun", 
+        "GrowRoute": "SL_ROLE_3_004", 
+        "Type": "Middle"
+    }, 
+    "SL_ROLE_3_004": {
+        "Name": "\u30a8\u30eb\u30c0\u30fc\u30ac\u30f3\u30de\u30f3", 
+        "Skill": "OneHandedGun", 
+        "GrowRoute": "_NOT_SPECIFIED_", 
+        "Type": "Elder"
+    }, 
+    "SL_ROLE_4_001": {
+        "Name": "\u30c1\u30e3\u30a4\u30eb\u30c9\u30b7\u30e5\u30fc\u30bf\u30fc", 
+        "Skill": "TwoHandedGun", 
+        "GrowRoute": "SL_ROLE_4_002", 
+        "Type": "Child"
+    }, 
+    "SL_ROLE_4_002": {
+        "Name": "\u30e4\u30f3\u30b0\u30b7\u30e5\u30fc\u30bf\u30fc", 
+        "Skill": "TwoHandedGun", 
+        "GrowRoute": "SL_ROLE_4_003", 
+        "Type": "Young"
+    }, 
+    "SL_ROLE_4_003": {
+        "Name": "\u30df\u30c9\u30eb\u30b7\u30e5\u30fc\u30bf\u30fc", 
+        "Skill": "TwoHandedGun", 
+        "GrowRoute": "SL_ROLE_4_004", 
+        "Type": "Middle"
+    }, 
+    "SL_ROLE_4_004": {
+        "Name": "\u30a8\u30eb\u30c0\u30fc\u30b7\u30e5\u30fc\u30bf\u30fc", 
+        "Skill": "TwoHandedGun", 
+        "GrowRoute": "_NOT_SPECIFIED_", 
+        "Type": "Elder"
+    }, 
+    "SL_ROLE_5_001": {
+        "Name": "\u30c1\u30e3\u30a4\u30eb\u30c9\u30e2\u30f3\u30af", 
+        "Skill": "MartialArts", 
+        "GrowRoute": "SL_ROLE_5_002", 
+        "Type": "Child"
+    }, 
+    "SL_ROLE_5_002": {
+        "Name": "\u30e4\u30f3\u30b0\u30e2\u30f3\u30af", 
+        "Skill": "MartialArts", 
+        "GrowRoute": "SL_ROLE_5_003", 
+        "Type": "Young"
+    }, 
+    "SL_ROLE_5_003": {
+        "Name": "\u30df\u30c9\u30eb\u30e2\u30f3\u30af", 
+        "Skill": "MartialArts", 
+        "GrowRoute": "SL_ROLE_5_004", 
+        "Type": "Middle"
+    }, 
+    "SL_ROLE_5_004": {
+        "Name": "\u30a8\u30eb\u30c0\u30fc\u30e2\u30f3\u30af", 
+        "Skill": "MartialArts", 
+        "GrowRoute": "_NOT_SPECIFIED_", 
+        "Type": "Elder"
+    }, 
+    "SL_ROLE_6_001": {
+        "Name": "\u30c1\u30e3\u30a4\u30eb\u30c9\u30e1\u30a4\u30b8", 
+        "Skill": "Magic", 
+        "GrowRoute": "SL_ROLE_6_002", 
+        "Type": "Child"
+    }, 
+    "SL_ROLE_6_002": {
+        "Name": "\u30e4\u30f3\u30b0\u30e1\u30a4\u30b8", 
+        "Skill": "Magic", 
+        "GrowRoute": "SL_ROLE_6_003", 
+        "Type": "Young"
+    }, 
+    "SL_ROLE_6_003": {
+        "Name": "\u30df\u30c9\u30eb\u30e1\u30a4\u30b8", 
+        "Skill": "Magic", 
+        "GrowRoute": "SL_ROLE_6_004", 
+        "Type": "Middle"
+    }, 
+    "SL_ROLE_6_004": {
+        "Name": "\u30a8\u30eb\u30c0\u30fc\u30e1\u30a4\u30b8", 
+        "Skill": "Magic", 
+        "GrowRoute": "_NOT_SPECIFIED_", 
+        "Type": "Elder"
+    }, 
+    "SL_ROLE_7_001": {
+        "Name": "\u30c1\u30e3\u30a4\u30eb\u30c9\u30e2\u30f3\u30b9\u30bf\u30fc", 
+        "Skill": "Monster", 
+        "GrowRoute": "SL_ROLE_7_002", 
+        "Type": "Child"
+    }, 
+    "SL_ROLE_7_002": {
+        "Name": "\u30e4\u30f3\u30b0\u30e2\u30f3\u30b9\u30bf\u30fc", 
+        "Skill": "Monster", 
+        "GrowRoute": "SL_ROLE_7_003", 
+        "Type": "Young"
+    }, 
+    "SL_ROLE_7_003": {
+        "Name": "\u30df\u30c9\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc", 
+        "Skill": "Monster", 
+        "GrowRoute": "SL_ROLE_7_004", 
+        "Type": "Middle"
+    }, 
+    "SL_ROLE_7_004": {
+        "Name": "\u30a8\u30eb\u30c0\u30fc\u30e2\u30f3\u30b9\u30bf\u30fc", 
+        "Skill": "Monster", 
+        "GrowRoute": "_NOT_SPECIFIED_", 
+        "Type": "Elder"
+    }
+}

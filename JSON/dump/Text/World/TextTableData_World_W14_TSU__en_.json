@@ -1,0 +1,138 @@
+{
+  "W14_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Providence: The World of Visions"
+  },
+  "W14_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A world riddled with countless visions. Will it be possible to acquire a spirit's power in a place like this?"
+  },
+  "W14_WRLD_MIDO_INITIAL_200_TITLE": {
+    "speaker": "UI",
+    "text": "Providence: The World of Visions"
+  },
+  "W14_WRLD_MIDO_INITIAL_200_DETAIL": {
+    "speaker": "UI",
+    "text": "A world riddled with countless visions. Could there be one among them that will guide you to the truth?"
+  },
+  "W14_EVAR_MIDO_VISION_EXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Vision of the Heavens"
+  },
+  "W14_EVAR_MIDO_VISION_EXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Return to the Heavens and search for your next destination."
+  },
+  "W14_EVAR_MIDO_VISION_EXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W14_EVAR_MIDO_VISION_EXIT_100_TITLE": {
+    "speaker": "UI",
+    "text": "A Vision of the Heavens"
+  },
+  "W14_EVAR_MIDO_VISION_EXIT_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Head to the Heavens, then return to Miyako City."
+  },
+  "W14_EVAR_MIDO_VISION_EXIT_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W14_EVAR_MIDO_KA_EASY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Weak Fire Spirit"
+  },
+  "W14_EVAR_MIDO_KA_EASY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You see a vision of a weak fire spirit."
+  },
+  "W14_EVAR_MIDO_KA_EASY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W14_EVAR_MIDO_KA_NORMAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Normal Fire Spirit"
+  },
+  "W14_EVAR_MIDO_KA_NORMAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You see a vision of a normal fire spirit."
+  },
+  "W14_EVAR_MIDO_KA_NORMAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W14_EVAR_MIDO_KA_HARD_000_TITLE": {
+    "speaker": "UI",
+    "text": "Strong Fire Spirit"
+  },
+  "W14_EVAR_MIDO_KA_HARD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You see a vision of a strong fire spirit."
+  },
+  "W14_EVAR_MIDO_KA_HARD_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W14_EVAR_MIDO_KA_VH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sinister Fire Spirit"
+  },
+  "W14_EVAR_MIDO_KA_VH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You see a vision of a sinister fire spirit."
+  },
+  "W14_EVAR_MIDO_KA_VH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W14_EVAR_MIDO_KIN_EASY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Weak Metal Spirit"
+  },
+  "W14_EVAR_MIDO_KIN_EASY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You see a vision of a weak metal spirit."
+  },
+  "W14_EVAR_MIDO_KIN_EASY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W14_EVAR_MIDO_KIN_NORMAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Normal Metal Spirit"
+  },
+  "W14_EVAR_MIDO_KIN_NORMAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You see a vision of a normal metal spirit."
+  },
+  "W14_EVAR_MIDO_KIN_NORMAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W14_EVAR_MIDO_KIN_HARD_000_TITLE": {
+    "speaker": "UI",
+    "text": "Strong Metal Spirit"
+  },
+  "W14_EVAR_MIDO_KIN_HARD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You see a vision of a strong metal spirit."
+  },
+  "W14_EVAR_MIDO_KIN_HARD_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W14_EVAR_MIDO_KIN_VH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sinister Metal Spirit"
+  },
+  "W14_EVAR_MIDO_KIN_VH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You see a vision of a sinister metal spirit."
+  },
+  "W14_EVAR_MIDO_KIN_VH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  }
+}

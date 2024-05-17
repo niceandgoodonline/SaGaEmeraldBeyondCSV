@@ -1,0 +1,86 @@
+{
+    "NPC_001": {
+        "HandleNameLabel": "TRADE_NPC_LEO_Name", 
+        "ProfileLabel": "TRADE_NPC_LEO_Exp"
+    }, 
+    "NPC_002": {
+        "HandleNameLabel": "TRADE_NPC_ELI_Name", 
+        "ProfileLabel": "TRADE_NPC_ELI_Exp"
+    }, 
+    "NPC_003": {
+        "HandleNameLabel": "TRADE_NPC_ASA_Name", 
+        "ProfileLabel": "TRADE_NPC_ASA_Exp"
+    }, 
+    "NPC_004": {
+        "HandleNameLabel": "TRADE_NPC_MON_Name", 
+        "ProfileLabel": "TRADE_NPC_MON_Exp"
+    }, 
+    "TRADE_NPC_W01": {
+        "HandleNameLabel": "TRADE_NPC_W01_Name", 
+        "ProfileLabel": "TRADE_NPC_W01_Exp"
+    }, 
+    "TRADE_NPC_W02": {
+        "HandleNameLabel": "TRADE_NPC_W02_Name", 
+        "ProfileLabel": "TRADE_NPC_W02_Exp"
+    }, 
+    "TRADE_NPC_W03": {
+        "HandleNameLabel": "TRADE_NPC_W03_Name", 
+        "ProfileLabel": "TRADE_NPC_W03_Exp"
+    }, 
+    "TRADE_NPC_W04": {
+        "HandleNameLabel": "TRADE_NPC_W04_Name", 
+        "ProfileLabel": "TRADE_NPC_W04_Exp"
+    }, 
+    "TRADE_NPC_W06": {
+        "HandleNameLabel": "TRADE_NPC_W06_Name", 
+        "ProfileLabel": "TRADE_NPC_W06_Exp"
+    }, 
+    "TRADE_NPC_W07": {
+        "HandleNameLabel": "TRADE_NPC_W07_Name", 
+        "ProfileLabel": "TRADE_NPC_W07_Exp"
+    }, 
+    "TRADE_NPC_W08": {
+        "HandleNameLabel": "TRADE_NPC_W08_Name", 
+        "ProfileLabel": "TRADE_NPC_W08_Exp"
+    }, 
+    "TRADE_NPC_W09": {
+        "HandleNameLabel": "TRADE_NPC_W09_Name", 
+        "ProfileLabel": "TRADE_NPC_W09_Exp"
+    }, 
+    "TRADE_NPC_W10": {
+        "HandleNameLabel": "TRADE_NPC_W10_Name", 
+        "ProfileLabel": "TRADE_NPC_W10_Exp"
+    }, 
+    "TRADE_NPC_W11": {
+        "HandleNameLabel": "TRADE_NPC_W11_Name", 
+        "ProfileLabel": "TRADE_NPC_W11_Exp"
+    }, 
+    "TRADE_NPC_W12": {
+        "HandleNameLabel": "TRADE_NPC_W12_Name", 
+        "ProfileLabel": "TRADE_NPC_W12_Exp"
+    }, 
+    "TRADE_NPC_W13": {
+        "HandleNameLabel": "TRADE_NPC_W13_Name", 
+        "ProfileLabel": "TRADE_NPC_W13_Exp"
+    }, 
+    "TRADE_NPC_W14": {
+        "HandleNameLabel": "TRADE_NPC_W14_Name", 
+        "ProfileLabel": "TRADE_NPC_W14_Exp"
+    }, 
+    "TRADE_NPC_W15": {
+        "HandleNameLabel": "TRADE_NPC_W15_Name", 
+        "ProfileLabel": "TRADE_NPC_W15_Exp"
+    }, 
+    "TRADE_NPC_W17": {
+        "HandleNameLabel": "TRADE_NPC_W17_Name", 
+        "ProfileLabel": "TRADE_NPC_W17_Exp"
+    }, 
+    "TRADE_NPC_W18": {
+        "HandleNameLabel": "TRADE_NPC_W18_Name", 
+        "ProfileLabel": "TRADE_NPC_W18_Exp"
+    }, 
+    "TRADE_NPC_W19": {
+        "HandleNameLabel": "TRADE_NPC_W19_Name", 
+        "ProfileLabel": "TRADE_NPC_W19_Exp"
+    }
+}

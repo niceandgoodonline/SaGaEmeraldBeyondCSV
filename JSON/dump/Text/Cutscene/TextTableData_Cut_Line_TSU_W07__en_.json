@@ -1,0 +1,1646 @@
+{
+  "SUB_W07_WRLD_MIDO_INITIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This world looks normal enough.\nAlso, pretty sure I'm detecting\na faint presence of spirits here."
+  },
+  "SUB_W07_WRLD_MIDO_INITIAL_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "As for where to go first...\nGuess I should just do the usual."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like there used to be some sort\nof altar here. Yeesh, somebody went\nand smashed the place up good."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, hey there."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You one of the locals, maybe?"
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. Guess you don't speak my language—\nand golly, why would you? Sure seems like\nyou're trying to tell me something, though."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hm? Where you going, fella?"
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And off it goes."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_060": {
+    "speaker": "WindPriest",
+    "text": "We've a visitor at the Soul Temple."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_070": {
+    "speaker": "WoodsPriest",
+    "text": "A Flamewave League spy, perhaps?\nI've not seen his like before."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_080": {
+    "speaker": "FirePriest",
+    "text": "As if we would recruit so\nostentatious an agent!"
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_090": {
+    "speaker": "WaterPriest",
+    "text": "The Soul Temple has been the site of strange\nphenomena since ancient times. Is that not\nwhy we banded together to destroy it?"
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_100": {
+    "speaker": "WoodsPriest",
+    "text": "Are you suggesting this creature is\na Soul Voyager? Are we to be ruled\nby the Soul Temple even now?"
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_110": {
+    "speaker": "FirePriest",
+    "text": "If he is indeed a Soul Voyager,\nwe of the Flamewave League\nwill not engage with him."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_120": {
+    "speaker": "WindPriest",
+    "text": "And nor will we of the\nForestgale Alliance."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, isn't that something? Sounds like\nI'm on the outs with all these folks."
+  },
+  "SUB_W07_EVAR_MIDO_SOULCULTIST_000_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hm? When'd you get back?\f...How's that? You'll guide me around\nthis world? Heck, I'm glad <i>someone</i> is\nwilling to give me the time of day."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Didn't sound like those folks had much\ninterest in talkin' to me, so not\nreally sure why you lead me here."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "Be welcome at the Flame Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...Or they changed their minds, maybe?\nWell, hey there, bud. Mind telling a guy\nwhat's up with this 'Soul Voyager' deal?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "The Four Tribes of Cinq once had our lives\ncontrolled by the Soul Temple. Eventually\nwe grew to despise its dominion over us,\nand so banded together to destroy it."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "In the days when we were still under its sway,\ntravelers would occasionally appear. We named\nthem Soul Voyagers, for whatever they sought\nwould greatly affect the lives of all in Cinq."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "We know well the power of a Soul Voyager,\nand humbly request your assistance in\ndefeating the Forestgale Alliance."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hold on just a minute there.\nYou're at <i>war</i> with each other?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_070": {
+    "speaker": "FirePriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Flamewave League\nand the Forestgale Alliance.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_080": {
+    "speaker": "FirePriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Flamewave League!"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, guy. Lemme noodle on that\nthere for a bit."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_100": {
+    "speaker": "FirePriest",
+    "text": "Take whatever time you need.\nWe await your favorable reply."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, look who's still lurking around.\nYou got a take on all this, bud?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't think it really matters which one\nI pick, eh? Yeah, I figured the same.\fMost likely I'll get spirit power no matter\nwho I help out. Meaning, likewise, I won't\nget any spirit power unless I make up my\nmind and choose a team."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's help these guys."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, let's look around more."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there. You Flame Temple\nfellas looking to get my help?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_010_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Flamewave League do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLE_INTRO_010_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What do you think, fella?\nShould we go with this one?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLE_INTRO_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's help these guys."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLE_INTRO_010_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, let's look around more."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_010_000": {
+    "speaker": "FirePriest",
+    "text": "Thank you, Soul Voyager.\nNow then, if I may be so bold as to\nask, we would appreciate your help."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_INTRO_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No worries, fella. Ask away\nand I'll see what I can do."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_INTRO_000_CUT_000_010": {
+    "speaker": "WaterPriest",
+    "text": "Be welcome at the Wave Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_INTRO_000_CUT_000_070": {
+    "speaker": "WaterPriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Waveflame League\nand the Forestgale Alliance.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_INTRO_000_CUT_000_080": {
+    "speaker": "WaterPriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Waveflame League!"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_INTRO_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there. You Wave Temple\nfellas looking to get my help?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_INTRO_010_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Waveflame League do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_INTRO_000_CUT_000_010": {
+    "speaker": "WindPriest",
+    "text": "Be welcome at the Gale Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_INTRO_000_CUT_000_050": {
+    "speaker": "WindPriest",
+    "text": "We know well the power of a Soul Voyager,\nand humbly request your assistance in\ndefeating the Flamewave League."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_INTRO_000_CUT_000_070": {
+    "speaker": "WindPriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Galeforest Alliance\nand the Flamewave League.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_INTRO_000_CUT_000_080": {
+    "speaker": "WindPriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Galeforest Alliance!"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_INTRO_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there. You Gale Temple\nfellas looking to get my help?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_INTRO_010_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Galeforest Alliance do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_INTRO_000_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "Be welcome at the Forest Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_INTRO_000_CUT_000_070": {
+    "speaker": "WoodsPriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Forestgale Alliance\nand the Flamewave League.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_INTRO_000_CUT_000_080": {
+    "speaker": "WoodsPriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Forestgale Alliance!"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_INTRO_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there. You Forest Temple\nfellas looking to get my help?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_INTRO_010_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Forestgale Alliance do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_141_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We must boost our economic strength\nif we hope to win this war. To this end,\nwe are creating factories one after another,\nputting a strain on our energy supply."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_141_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "As our League has heat sources and water\nin abundance, we use steam as our primary\nmeans of generating power."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_141_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like a solid plan to me.\nWhat's the problem?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_141_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "The output of our steam plant is dropping.\nShould the Soul Voyager stop by, I am sure\nboth the problem and its solution will be\nmade apparent."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_141_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I dunno about that, guy.\nBut sure, I'll give it a shot."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_141_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yikes, would you look at this?\nWe got clean energy produced\nby water and geothermal heat!\nSure is something, all right."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_141_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Where to now, bud?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_141_CUT_000_020": {
+    "speaker": "Nitram",
+    "text": "Ah, you must be the Soul Voyager.\nThe temple told us you'd be coming;\nwe are excited to behold your success."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_141_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So what do I do here, exactly?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_141_CUT_000_040": {
+    "speaker": "Nitram",
+    "text": "That should be apparent imminently."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_141_CUT_010_000": {
+    "speaker": "Nitram",
+    "text": "I expected no less from you, Voyager!\nThose fiends are sent by the Forestgale\nAlliance, and perpetually cause damage\nin this place.\fBut today, the plant remains unharmed!\nSadly for the beasts, they cannot say the same."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_141_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "I do not expect the Forestgale Alliance\nto launch another attack any time soon,\nso thank you again for your efforts."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_142_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "With the issue at the steam plant resolved,\nour factories can now operate at full capacity.\nHowever, we've realized our transportation\ninfrastructure cannot handle the output."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_142_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "We need more harbors and ships. Furthermore,\nour current lack of shipyards will surely lead\nto additional problems down the road."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_142_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And you think I can help, maybe?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_142_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "I'd like to ask you to visit a shipyard\nconstruction site, where I feel certain\nyour presence will cause something\nquite beneficial to transpire."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_142_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not much of an explanation there, guy.\nBut sure, I'll see what I can do."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So this is where they're building\na new shipyard, eh?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, somebody's in a hurry."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "Welcome, Voyager! Your arrival will\nsurely hasten the construction of\nthis important site!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't really see how that's\nsupposed to work, actually."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I mean, everybody's already workin'\nreal hard, so maybe just having me\nwatch 'em will be good enough?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, there you are, bud!\n...Huh? You want me to come that way?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hm? Looks like somebody\nmisplaced a box over here."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sweet heck, it's a bomb!\nGet outta here, you!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_080": {
+    "speaker": "Atihana",
+    "text": "Are you all right, Voyager!?\nI heard an explosion!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Still got all my fingers and toes\nif that's what you mean."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_100": {
+    "speaker": "Atihana",
+    "text": "This is clearly the work of the Forestgale\nAlliance—one of their spies must have\ninfiltrated the site. I will begin a\nthorough investigation at once!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_110": {
+    "speaker": "Atihana",
+    "text": "How did you locate that bomb,\nif you don't mind my asking?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uhhh... Intuition?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_000_130": {
+    "speaker": "Atihana",
+    "text": "Well, regardless, your being here\nwas clearly a blessing. Thank you."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks a lot there, fella.\nEveryone was saved because of you."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "If you keep getting in our way, Voyager,\nI'm afraid I'll have to get rid of you."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_142_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So I help one side and the other\nturns against me? This is getting\nto be more trouble than it's worth."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_143_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "I'm given to understand that you foiled the\nenemy's attempt to sabotage our new shipyard.\nYou Soul Voyagers truly are special beings!"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_143_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "Construction of the shipyard is now complete,\noffering a solution to our long-term shipping\nproblems. However, we would like to bring our\nwar with the Forestgale Alliance to a swifter end."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_143_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All right. What's the plan?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_143_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "The backbone of the Forestgale Alliance's\neconomy is their system of railways.\nSomething must be done about it."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_143_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Something like...sabotage? 'Cause, fella,\nI'm not interested in busting up a\nbunch of innocent trains."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_143_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "All we ask is that you visit a train\nstation of the Forestgale Alliance.\nThe rest will take care of itself."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, these Forestgale trains sure are swell.\nThey carry passengers and cargo and all\nkinds of stuff!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "Ah, the Soul Voyager!\nWhat are you doing here?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heard you had a real nice train line,\nso I came to see it for myself—and it's\neven more of a humdinger than I thought!\nSure am glad I got to check it out."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_030": {
+    "speaker": "Irbas",
+    "text": "While I'm pleased to see you enjoying our train\nsystem, I somehow expect you've not come\nsimply for sightseeing. As such, we will take\nthe liberty of escorting you during your visit."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "A guided tour?\nBoy, that's even better!\fHey, so I feel like I've met that\nfella there before. Or am I mixing\nhim up with someone else, maybe?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_050": {
+    "speaker": "Nahoj",
+    "text": "......"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_060": {
+    "speaker": "Irbas",
+    "text": "I trust you've seen enough?\nPerhaps it's time you departed."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I hear you, guy—it's always rude to overstay\na welcome. Thanks a bunch for showing me\naround the place, though."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_080": {
+    "speaker": "Irbas",
+    "text": "Where the Voyager travels, calamity follows.\nI am relieved to see that this instance\nproved to be the exception to the—"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Holy cow! The station EXPLODED!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_100": {
+    "speaker": "Irbas",
+    "text": "And we were too distracted with the Voyager\nto see it coming! Damn you, Voyager!\nYou have brought ruin upon us!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's almost like they turned me into an\naccomplice for their sabotage mission.\nWhat do you think, fella? This on me?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_143_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...Not my fault, then? Phew!\nThat sure is a load off my mind. "
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_231_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "Our verdant forests supply the Alliance\nwith an ample amount of lumber. "
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_231_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "Sadly, we have fallen far behind in\nthe task of processing said lumber;\nwe simply cannot afford to maintain\nthe necessary workforce."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_231_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Ever thought about mechanizing\nthe process, maybe?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_231_CUT_000_030": {
+    "speaker": "WoodsPriest",
+    "text": "Indeed we have, which is why the Gale and Forest\nTribes have begun working together to construct\na mill. However, the project is beset with issues\nthat I am hoping you might resolve."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_231_CUT_000_031": {
+    "speaker": "WoodsPriest",
+    "text": "The peoples of Gale and Forest have begun\nworking together to construct a lumber mill.\nHowever, the project is beset with issues\nthat I am hoping you might resolve."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_231_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'll do what I can, fella."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This must be where they're building the\nlumber mill. Sure as heck doesn't look\nlike they've made much progress, though."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, bud! Where you going?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_020": {
+    "speaker": "Irbas",
+    "text": "I am pleased to see you come, Voyager. Alas,\nthose of the Gale Tribe who are supposed to\nbe helping us construct the mill refuse to work.\fMight I ask you to scold them in my stead?\nWhile they ignore me, they'll not so easily\nshrug off a rebuke from a Soul Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, no, I'm not just gonna start chewing out\nsome poor people I've never met. But how about\nI head over to these Gale folks and hear their\nside of the story?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_040": {
+    "speaker": "Nahoj",
+    "text": "The work is just too dangerous! These woods\nare filled with all manner of horrid beasts,\nand they're perpetually waiting for a chance\nto make us their dinner!\fWe tried telling the Forest Tribe that you can't\nbuild a mill when you're always looking over\nyour shoulder, but they don't seem to care!\nI simply don't understand their kind..."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, bud, I gotcha.\nLemme look into this, okay?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yipes! We got a beast right here!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_070": {
+    "speaker": "Irbas",
+    "text": "To the Forest Tribe, beasts of the wood are\ntreasured neighbors with whom we coexist.\fAnd while we do eat them at times, our hunting\nseason is primarily for population control.\nWe cannot simply slaughter them indiscriminately\nto ease the nerves of some cowardly wind people!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, I like conservation as much as the\nnext guy, but the thing I saw in the forest \nwas a fiend—not a beast."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_090": {
+    "speaker": "Irbas",
+    "text": "Hmm. We <i>have</i> sensed a disturbing decline\nin the beasts' numbers of late, so perhaps\nthis is the reason. Which means...\fOf course! Those villains from the Flamewave\nLeague must be releasing fiends into\nour woods! Might I ask you to cull the\nnumbers of these interlopers, Voyager?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, I guess I oughta help\ncritters out whenever I can."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_010_000": {
+    "speaker": "Irbas",
+    "text": "Now the Gale Tribe\ncan work without fear."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_231_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "I can't believe the Flamewave League was behind\nthose monsters! They very nearly managed to\ncause strife between us and the Forest Tribe,\nand they will pay dearly for it!"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_232_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "Thanks to the new mill, we'll be able to\nfinish some large-scale construction\nprojects that were on hold."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_232_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "Our next project is installing wind turbines in the\nGale Tribe's residential district. If we complete\nthat, the Alliance's energy production will finally\nbe comparable to that of the League."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_232_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And I fit in how?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_232_CUT_000_030": {
+    "speaker": "WoodsPriest",
+    "text": "Oh, I appreciate someone who doesn't beat\naround the bush! The crux of it is this: we expect\nthe League to attempt to sabotage the project,\nfor there's no low their kind won't sink to."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_232_CUT_000_031": {
+    "speaker": "WoodsPriest",
+    "text": "Our next project is installing wind turbines\nin the Gale Tribe's residential district.\nBut we expect the League to attempt sabotage,\nfor there's no low their kind won't sink to."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_232_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Probably send more of those fiends\nto try and muck up the works, eh?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa, look at this construction site.\nGuess it isn't easy to turn wind into\nelectricity, huh?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "Yes, and the greater the project,\nthe harder it is to defend.\fWe've already had a rash of suspicious fires\nthat destroyed precious materials recently\ndelivered from the mill. Without a doubt,\nthis is the work of the Flamewave League."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like you need a watchman.\nNo problem, guy."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey! Who goes there!?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "We've been spotted! Run!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, I'm exhausted—playing whack-a-mole\nwith arsonists all night gets old fast."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_060": {
+    "speaker": "Nahoj",
+    "text": "Thanks to you, our materials are safe,\nand construction is proceeding smoothly."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's just hope those arsonists\nget the hint and give up soon."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh? What now?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_090": {
+    "speaker": "Nahoj",
+    "text": "Fiend! A giant fiend is coming!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like they're playing for keeps.\nGood thing I can play that way, too!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Think I'm finally ready to hang up\nmy guard boots for good."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_232_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What's that? You praising me, fella?\nWell, ain't that just swell."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_233_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "Various industries have been reaping the\nbenefit of the Alliance's new wind energy,\nand our economic prospects seem bright."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_233_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "Sadly, while we strive to live in greater\nharmony with nature than the Flamewave League,\nthis has put us at a disadvantage in the war."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_233_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "Even with our recent gains,\nour loss is inevitable."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_233_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You sure about that, fella?\nCan't you do something?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_233_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "Our only option would be to attack the enemy's\ninfrastructure. If we can destroy their port,\nwe will deal a great blow to their economy."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_233_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Can't say I like the sound of helping\nwith something like that."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_233_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Something about this whole deal\njust doesn't sit right with me."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_233_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You feel the same, eh?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_233_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "You have come, Voyager—\njust as our intelligence predicted."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_233_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "We know you are planning to destroy the port,\nand I will not allow it! Your meddling will cause\nno harm to the League today!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_233_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Intelligence, eh? Sounds like I was just\nthe decoy and they'd been planning to\ndo this job all along..."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_233_CUT_000_050": {
+    "speaker": "Atihana",
+    "text": "Cease your mumbling!\fNow then, tell me who sent you and\nwhy you have come. I need to hear\na confession from your own lips."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_233_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry. Too late now."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_233_CUT_000_070": {
+    "speaker": "Atihana",
+    "text": "What!?"
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_000": {
+    "speaker": "Nitram",
+    "text": "Our long war is finally over!\nThe Flamewave League stands victorious!"
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_010": {
+    "speaker": "Atihana",
+    "text": "You mean the <i>Waveflame</i> League."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_020": {
+    "speaker": "Nitram",
+    "text": "Our League has proven its dominance\nthanks to the Soul Voyager!"
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_030": {
+    "speaker": "Atihana",
+    "text": "Should your travels bring you to this\nworld again, please do visit our temple."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_040": {
+    "speaker": "Nitram",
+    "text": "Farewell."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_050": {
+    "speaker": "Atihana",
+    "text": "And thank you."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy howdy, they sure chased me outta there\nin a hurry—guess they've decided the work\nof the Soul Voyager is done?\fCan't say this feels over to me,\nbut hey, what do I know? For now,\nI guess I'll go find some spirits."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know if there are any\nspirits around here, pal?"
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What's that, fella? You telling me\nit's still too early for that?"
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'm gonna look anyway."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_FWWIN_000_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I'll play the Voyager a bit longer."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_000": {
+    "speaker": "Irbas",
+    "text": "Our long war is finally over!\nThe Forestgale Alliance stands victorious!"
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "You mean the <i>Galeforest</i> Alliance."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_020": {
+    "speaker": "Irbas",
+    "text": "Our Alliance has proven its dominance\nthanks to the Soul Voyager!"
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_030": {
+    "speaker": "Nahoj",
+    "text": "Should your travels bring you to this\nworld again, please do visit our temple."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_040": {
+    "speaker": "Irbas",
+    "text": "Farewell."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_050": {
+    "speaker": "Nahoj",
+    "text": "And thank you."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I shouldn't be surprised they're tossing\nme out on my ear—this whole 'Soul Voyager'\nnonsense was just a way for them to win the war.\f...Eh, probably for the best.\nI've got things to do, anyway."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know if there are any\nspirits around here, pal?"
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "How's that? You do?"
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, that's not very clear."
+  },
+  "SUB_W07_FUNC_MIDO_SWITCHPHASE_WWWIN_000_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I got no choice but to play\nthe Voyager a while longer."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I know I should feel good about everything\nthat happened here since it ended a war\nand all, but...yeah. I don't."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "You have come at an opportune time,\nSoul Voyager!"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. Knew something was wrong."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "Wrong, you say? Yes, we have been feeling much\nthe same—in fact, we now suspect the Wave Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. I thought the way you folks \nall came together was pretty swell.\nWhy'd your League fall apart?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "As much as I wish it could have continued,\nthe Wave Temple sees things differently,\nand has decreed our people can never be one.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Lemme think about it."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_070": {
+    "speaker": "FirePriest",
+    "text": "Take whatever time you need.\nWe await your favorable reply."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know, I seem to remember something pretty\ndang similar happening here not so long ago.\nWhat do you think, fella?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't give a shoot one way or the other?\nYeah, you never really cared about this—\nand frankly, neither do I.\fThis whole mess is just gonna keep going\nuntil one of 'em finally wins, which feels\npretty pointless to me."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The Flame Temple feels the same?\nOh, you gotta be kiddin' me..."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEFIRE_BETRAYAL_010_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "We are resolved to launch an attack\non the Wave Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_BETRAYAL_000_CUT_000_030": {
+    "speaker": "WaterPriest",
+    "text": "Wrong, you say? Yes, we have been feeling much\nthe same—in fact, we now suspect the Flame Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. I thought the way you folks \nall came together was pretty swell.\nWhy'd your League fall apart?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_BETRAYAL_000_CUT_000_050": {
+    "speaker": "WaterPriest",
+    "text": "As much as I wish it could have continued,\nthe Flame Temple sees things differently,\nand has decreed our people can never be one.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The Wave Temple feels the same?\nOh, you gotta be kiddin' me..."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWATER_BETRAYAL_010_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "We are resolved to launch an attack\non the Flame Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_BETRAYAL_000_CUT_000_030": {
+    "speaker": "WindPriest",
+    "text": "Wrong, you say? Yes, we have been feeling much\nthe same—in fact, we now suspect the Forest Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. I thought the way you folks \nall came together was pretty swell.\nWhy'd your Alliance fall apart?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_BETRAYAL_000_CUT_000_050": {
+    "speaker": "WindPriest",
+    "text": "As much as I wish it could have continued,\nthe Forest Temple sees things differently,\nand claims the forest has no need of wind.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The Gale Temple feels the same?\nOh, you gotta be kiddin' me..."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWIND_BETRAYAL_010_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "We are resolved to launch an attack\non the Forest Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_BETRAYAL_000_CUT_000_030": {
+    "speaker": "WoodsPriest",
+    "text": "Wrong, you say? Yes, we have been feeling much\nthe same—in fact, we now suspect the Gale Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. I thought the way you folks \nall came together was pretty swell.\nWhy'd your Alliance fall apart?"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_BETRAYAL_000_CUT_000_050": {
+    "speaker": "WoodsPriest",
+    "text": "As much as I wish it could have continued,\nthe Gale Temple sees things differently,\nand declared the woods an obstacle to wind.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The Forest Temple feels the same?\nOh, you gotta be kiddin' me..."
+  },
+  "SUB_W07_EVAR_MIDO_TEMPLEWOODS_BETRAYAL_010_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "We are resolved to launch an attack\non the Gale Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_101_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We were able to claim victory in our war\nagainst the Forestgale Alliance due to our\nsuperior energy production."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_101_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You folks gonna build another\nsteam plant, then?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_101_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "No. That would take far too long, causing\nus to fall behind in the war against the\nwave people. Instead, we seek to upgrade\nour current plant."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_101_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like you need an engineer\nthere, guy. Which, uh, isn't me."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_101_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "I ask only that you visit the plant.\nThat should ensure all goes smoothly."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_101_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Y'know, you leave a <i>lot</i> of important\ninformation out of your requests."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_101_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, the energy from this plant also goes\nto the Wave Tribe, right? So why can't\nyou folks all cooperate for this?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_101_CUT_000_010": {
+    "speaker": "Nitram",
+    "text": "Because their incessant harassment\nhas completely stalled our plans\nto upgrade the power plant!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_101_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What kind of harassment?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_101_CUT_000_030": {
+    "speaker": "Nitram",
+    "text": "They loose fiends near the cooling pools,\nwhich both endangers our staff and reduces\nthe plant's efficiency."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_101_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now there's something we can help with.\nConsider the fiends wrangled, guy."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_101_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You flame folks have trouble with fiends like\nthese? They were nothing to write home\nabout, which makes me wonder if the Wave\nTribe's all that serious about taking you out."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_101_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "While you have my gratitude, Voyager,\nyou know little of the Wave Tribe.\nThey are indeed set on annihilating\nour kind!"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_102_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We wish to make use of various minerals\nwhich can be obtained from volcanoes."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_102_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gonna toss 'em in and melt 'em?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_102_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "You are rather ignorant about our technology,\nVoyager. We are only securing the minerals\n<i>from</i> the volcano; we will later smelt them\nusing the heat from our steam plant."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_102_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Which is a lot more powerful now\nthanks to the upgrade."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_102_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "Precisely so. We will use that energy to power\nour forges, which will allow us to make ever\nmore potent weapons and lead us to victory!"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_102_CUT_000_041": {
+    "speaker": "FirePriest",
+    "text": "We will use that energy to power our forges,\nwhich will allow us to make ever more potent\nweapons and lead us to a great victory!"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_102_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure there isn't something you wanna\nmake besides weapons there, guy?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_102_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hoo-ee! Talk about hot."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_102_CUT_000_010": {
+    "speaker": "Nitram",
+    "text": "What you are feeling is the heat from the\nvolcano mingling with our fiery enthusiasm\nfor these ironworks."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_102_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whatever it is, I got no interest in\nhanging around longer than I have to.\nSo let's get to it: what's the problem?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_102_CUT_000_030": {
+    "speaker": "Nitram",
+    "text": "The fire fiends here don't like our presence.\nAnd while we're not afraid of their attacks,\nper se, we also haven't figured out an\neffective strategy to combat them."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_102_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotcha. We'll take a look."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_102_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heat was just the <i>worst</i>,\nbut I managed to take care of things."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_102_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "Thank you! Now we can finish the\nironworks without further incident."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_103_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We have arrived at a decision, Voyager:\nwe are going to destroy the shipyard\nthat once stood as a proud symbol\nof the Flamewave League's unity."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_103_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hold on, guy. What's the point\nin going around destroyin' stuff?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_103_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "The psychological damage it will deal\nto the Wave Tribe is the best way to\nensure a rapid victory against them."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_103_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I'm sure as shoot not gonna\nhelp you destroy a place I once\nsaved from being blown up!"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_103_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "We will win this war with or without\nyour assistance, Soul Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_103_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Are these folks really gonna\nblow up the dang shipyard?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_103_CUT_000_010": {
+    "speaker": "Nitram",
+    "text": "I understand how you must feel, Voyager,\nseeing as you once risked your life in defense\nof the shipyard. But there is no other choice\nleft to us."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_103_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, bud—YOU were the one who really\nsaved this place. I bet you're feelin'\npretty low now, huh?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_103_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy howdy, this is bumming me out.\nHow did it all come to this?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_103_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Welp, at least it's all over now.\nTime for me to find some spirits\nand get the heck outta here."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_100_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We have destroyed all the enemy\ntemples thanks to your good work."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_100_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guy, I'm just passing through.\nI never saw any of the people\nhere as my enemy."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_100_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "No, of course not. Regardless, now that only\nthe Flame Temple remains, we can finally\ncover the entirety of Cinq with magma.\nThen only we will remain!"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_100_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "You have served us well, Soul Voyager,\nand I wish to grant you tribute.\nWhat is it you desire?"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_100_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I want spirit power!"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_100_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Keep your dang tribute!"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_100_CUT_000_060": {
+    "speaker": "UI",
+    "text": "You have already acquired\na fire spirit's power."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_401_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "Our transportation infrastructure gives us an\nadvantage over the Flame Tribe, for we can move\nmore on our waterways than on any land route—\nso long as we have the ships, that is."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_401_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You folks gonna build another\nshipyard, then?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_401_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "No. That would take far too long, causing\nus to fall behind in the war against the\nFlame Tribe. Instead, we seek to upgrade\nour current one."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_401_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like you need an engineer\nthere, guy. Which, uh, isn't me."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_401_CUT_000_040": {
+    "speaker": "WaterPriest",
+    "text": "I ask only that you visit the shipyard.\nThat should ensure all goes smoothly."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_401_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Y'know, you leave a <i>lot</i> of important\ninformation out of your requests."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_401_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Remember how you saved this place, guy?\nThat was some good work right there."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_401_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All right then. How do we go about\nupgrading this puppy?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_401_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "While our shipyard is capable of producing\nlarge-scale vessels, its facilities are\nlacking due to its hasty construction\nin the midst of the war.\fAnd since building large vessels is an\ninefficient process at the best of times,\nwe must see this situation rectified."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_401_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You're looking to upgrade this place so you\ncan build large ships more efficiently?\nSorry, fella, but that kind of thing\nis way out of my comfort zone."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_401_CUT_000_040": {
+    "speaker": "Atihana",
+    "text": "Ha ha! We certainly do not expect your help\nwith <i>that</i>, Voyager. We have specialists\nin that field arriving any min—"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_401_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That ship's under attack!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_401_CUT_010_000": {
+    "speaker": "Atihana",
+    "text": "You truly have a knack for being where\nyou are needed most, Voyager."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_401_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pretty sure that's because all you do\nis lead me straight into trouble, fella."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_402_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "Our waterways are now so crowded that\nwe fear the possibility of a collision."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_402_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like a real problem, all right.\nWhat are you going to do about it?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_402_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "We intend to construct a lighthouse\nand highlight safe shipping routes."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_402_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck of a plan there, bud—lighthouses\nare the best! Mind if I come take a peek\nonce you've got the thing up and running?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_402_CUT_000_040": {
+    "speaker": "WaterPriest",
+    "text": "Actually, I would prefer\nthat you go see it now."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_402_CUT_000_041": {
+    "speaker": "WaterPriest",
+    "text": "I would like you to visit the\nlighthouse construction site."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_402_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Just in case something happens, eh?\nYeah, I know how this goes."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_402_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So this is where they're building the\nlighthouse, eh? Wish I could've waited\nuntil the thing was done; nobody gives\ntwo hoots about an unfinished lighthouse."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_402_CUT_000_010": {
+    "speaker": "Atihana",
+    "text": "Yet had you waited, there would be no\nlighthouse to see, for fiends are currently\npreventing us from building it."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_402_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Lemme guess: these fiends were\nsent here by the Flame Tribe?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_402_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "No, in fact—these appear to be native\ncreatures who simply don't appreciate\nwhat we're doing in their territory."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_402_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh. Well, guess that's my cue."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_402_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So how much fighting do\nI gotta do here, fella?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_402_CUT_010_010": {
+    "speaker": "Atihana",
+    "text": "The fiends should calm down once\nconstruction is finished and we\nvacate the area."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_402_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, geez. Sounds like that's not\nhappening anytime soon."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_403_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "We have arrived at a decision, Voyager:\nwe are going to destroy the steam plant\nthat once stood as a proud symbol of\nthe Waveflame League's unity."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_403_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh, but won't that cause problems\nfor your folks too?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_403_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "Yes, but it is still the best way to ensure\na rapid victory against the Flame Tribe."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_403_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Where I'm from, fella, we try not to\ntoss the baby out with the bathwater."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_403_CUT_000_040": {
+    "speaker": "WaterPriest",
+    "text": "No one asked for your opinion."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_403_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So how are you planning\nto stop this thing?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_403_CUT_000_010": {
+    "speaker": "Atihana",
+    "text": "If the pressure of the steam exceeds\na certain level, the plant will explode.\nAccidents do happen, after all."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_403_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Except this is one 'accident'\nthe Wave Temple knows\nabout in advance."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_403_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "Everyone knows about the potential for\naccidents. If this one causes excessive\ndamage, it will be on the Flame Tribe for\nnot taking proper precautions."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_403_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You can't rationalize away an\naccident YOU'RE causing!"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_400_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "As the Wave Tribe cannot survive for long in\nthe open air, we have no intentions of stealing\nthe lands of others. All we desire is for all to\nlive in peace within their own territories."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_400_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So why'd you wage war, then?"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_400_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "Because they looked to conquer <i>us</i>! No,\nthe peace we sought could only be secured\nthrough the destruction of all other temples."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_400_CUT_000_060": {
+    "speaker": "UI",
+    "text": "You have already acquired\na water spirit's power."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_301_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "We must increase our energy capacity without\nattracting attention from the Forest Tribe.\nTo this end, we seek to upgrade our output\nof wind energy."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_301_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you're masking upgrades\nas routine maintenance?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_301_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "Yes, exactly so! Ah, but it is a relief\nto have your keen insight on our side,\nSoul Voyager."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_301_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And you're not worried the forest folks\nwill have the same insight, maybe?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_301_CUT_000_040": {
+    "speaker": "WindPriest",
+    "text": "Indeed I am. In fact, the Forest Tribe are\ncertain to come investigate our dealings,\nand I am at a loss for how to deter them."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_301_CUT_000_041": {
+    "speaker": "WindPriest",
+    "text": "Might I ask you to visit the wind farm?\nI have no desire to risk trouble between\nour peoples at this point. "
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_301_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, I'm happy to wander over and\nmake sure no fights break out."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_301_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, looks like a bunch of forest folks\nare sightseeing at the plant. Er, or is this\nactually a covert surveillance deal?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_301_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "It will be impossible to replace the\ncomponents necessary to boost our output\nwith so many people watching, Voyager.\nWhat is to be done?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_301_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I suppose you could unleash\na fiend around here."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_301_CUT_000_030": {
+    "speaker": "Nahoj",
+    "text": "An interesting thought... Yet while the\nForest Tribe would certainly pay us little\nmind during a fiend attack, it would also\nplace our workers in grave danger."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_301_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, we've got that part handled, guy.\nYour folks'll be safe and sound."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_301_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey! I asked for <i>a</i> fiend,\nnot a dang herd!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_301_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "We may have gotten carried away a bit,\nand for this, I apologize. But surely\nthey were no more than a minor\ninconvenience for you, Voyager?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_302_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "As there has been no change to the Forest\nTribe's supply of energy, they currently\nsuspect nothing. We must use this chance\nto strengthen our own position."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_302_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You gonna build weapons, maybe?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_302_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "We intend to take measures such as increasing\nfood production in order to become fully self-\nsufficient. In this way, we can continue the\nwar even after the forest people cut off trade."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_302_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That...actually sounds like an okay plan—\ncertainly good for you folks, at least.\nSo how can I help?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_302_CUT_000_040": {
+    "speaker": "WindPriest",
+    "text": "Thank you. I would like you to visit our farm;\nits output is not increasing in quite the way\nwe had expected."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_302_CUT_000_041": {
+    "speaker": "WindPriest",
+    "text": "I would like you to visit our farm;\nits output is not increasing in quite\nthe way we had expected."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_302_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm sure as shoot no farmer,\nbut I guess visiting places is\njust what a Voyager does."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_302_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Y'know, when I was told to visit a farm,\nI expected to see folk plowing fields,\nnot building barns. They must be planning\nto raise a heck of a lot of critters."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_302_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "With our wind power, even a small amount of\npeople can raise a large amount of livestock.\nThese will be used not only for consumption,\nbut for trade with other regions as well."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_302_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like a humdinger of a plan\nto this guy. So what's the problem?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_302_CUT_000_030": {
+    "speaker": "Nahoj",
+    "text": "Barns are of little use with no livestock to\nfill them—but before we can gather our herds\nfrom the pastures, we must deal with the\nvarious fiends in the area."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_302_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, maybe not quite as humdinger-y\nof a plan as I thought. Thankfully,\nI think I can help you folks out."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_302_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm guessing you folks can\ntake it from there."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_302_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "Thank you, Voyager! Without your help,\nwe would be up for a severe tongue-lashing\nfrom our leaders at the temple."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_302_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Who the heck are we even\nworking for here, bud?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_303_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "The Forest Tribe are completely oblivious,\nand one small push may be all it takes to\nwin their surrender. As such, I intend to\nattack their lumber mill."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_303_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. The old 'surprise attack' deal.\nThat'll shock 'em, all right."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_303_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "Such an attack is the best way to\nminimize damage on both sides,\nand therefore the optimal strategy."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_303_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not to be rude there, champ, but I think\nnot attacking at all is the best way to\nminimize damage."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_303_CUT_000_040": {
+    "speaker": "WindPriest",
+    "text": "No one is asking you to participate\nin the attack, Soul Voyager!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_303_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. Wasn't so long ago that the gale\nfolks and forest folks worked hand-in-hand\nto build this lumber mill. Whole deal feels\nsorta bleak when you think about it."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_303_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "We worked ourselves near to death in this forest,\nyet the Forest Tribe never made any effort to\nunderstand our ways. For us, this place holds\nnaught but painful memories."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_300_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "Now we can finally raze this terrible forest!\nWe will turn it from a terrifying den of beasts\ninto a peaceful grassland savanna—for one cannot\nlive on lava and water, nor grow crops there."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Will there still be wind after you cut\ndown the forest? You know, delicate\nbalance of nature and all that?"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_300_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "There will still be trees, Voyager—there is\nsimply no need for such dense forestland.\nAll that matters is the wind blowing through\nthe new grassy plains."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_300_CUT_000_060": {
+    "speaker": "UI",
+    "text": "You have already acquired\na metal spirit's power."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_201_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "How are we to defend ourselves from an assault by\nthe Gale Tribe? Alas, while we of the Forest Tribe\ncannot match their strength, we've no choice but\nto throw away our lives in the effort."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_201_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Or you could try talking to 'em, maybe?\nNo reason this has to end in blood."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_201_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "Yes, we will definitely try that...\nand afterward, we will optimize the\nlumber mill! That is our only hope."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_201_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Any way I can help here?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_201_CUT_000_040": {
+    "speaker": "WoodsPriest",
+    "text": "I would appreciate you going to the mill,\nfor I know your presence will bring\ngreat cheer to all the workers."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_201_CUT_000_041": {
+    "speaker": "WoodsPriest",
+    "text": "I would appreciate you going to the mill,\nfor I know your presence will bring\ngreat cheer to all the workers."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_201_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Golly, look at that crowd of forest\nfolks around the lumber mill.\nThe heck are they even doing?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_201_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "We laid off laborers who will no longer be\nneeded due to the mill upgrades, and now\nthey're interfering with the process!\fWe even offered to find them new jobs,\nbut they refuse to listen."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_201_CUT_000_020": {
+    "speaker": "Irbas",
+    "text": "We may have to take stronger\nmeasures to remove them."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_201_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hold just a second there, guy! Of course\nfolks are gonna be upset about losing a job,\nso let's just maybe work a little harder to\nexplain why all this is necessary."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_201_CUT_000_040": {
+    "speaker": "Irbas",
+    "text": "Look out! Some of the fiends the\nFlamewave League sent are still alive!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_201_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Leave 'em to this guy!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_201_CUT_010_000": {
+    "speaker": "Irbas",
+    "text": "With the former workers scattered,\nwe can now upgrade the mill."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_201_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. Were those <i>really</i> leftover fiends\nfrom the war with the Flamewave League?\nI mean, they wouldn't have... Would they?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_202_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "Our talks with the Gale Tribe did nothing\nbut heighten suspicions. We should never\nhave engaged with them at all."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_202_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry to hear that, fella, but I still\nthink that dialogue is the key to— "
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_202_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "In response, we've formed a cavalry composed\nof workers who were made redundant by the mill\nupgrade. That should allow us to match the\nspeed of the gale peoples' forces."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_202_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess you'll be needing stables\nin that case?"
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_202_CUT_000_040": {
+    "speaker": "WoodsPriest",
+    "text": "You guess correctly. As such, we would ask\nyou to visit the construction site, as we\nanticipate interference from the Gale Tribe."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_202_CUT_000_041": {
+    "speaker": "WoodsPriest",
+    "text": "We would ask you to visit the construction\nsite of the stables, as we anticipate\ninterference from the Gale Tribe."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_202_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, fella. If that's your attitude\ntoward each other about everything,\nit's no wonder talking didn't help."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_202_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Are the gale folks really planning to sabotage\nthese stables? Or do you think excessive\nprecautions like these are the real reason\nyour peace talks failed, maybe."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_202_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "The wind blows in a strange direction today... \nI wonder if the Gale Tribe is using it\nto send some fell beast after us."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_202_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck you talkin' about, guy?"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_202_CUT_000_030": {
+    "speaker": "Irbas",
+    "text": "There!"
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_202_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, so are you SURE the gale folks sent\nthese monsters here? 'Cause they could\nhave just happened to be flying by."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_202_CUT_010_010": {
+    "speaker": "Irbas",
+    "text": "You cannot possibly believe that."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_202_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, I suppose that'd be\none heck of a coincidence."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_203_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "The Gale Tribe derives its strength\nfrom the energy of their wind farm.\nWithout it, they are powerless."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_203_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Please don't tell me you're gonna\ndestroy the wind farm."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_203_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "The Gale Tribe uses their mastery of the breezes\nto send countless fiends after us. We have no\noption but to destroy the farm—although I do not\nknow if we actually possess the power to do so. "
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_203_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But without that wind energy,\nyour societies are gonna regress."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_TEXT_203_CUT_000_040": {
+    "speaker": "WoodsPriest",
+    "text": "That is of no concern. So long as we\nhave our forests, we can survive."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_203_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I don't get why they decided to turn on\neach other when they all worked so hard\nto get this wind farm up and running."
+  },
+  "SUB_W07_EVAR_MIDO_MISSION_203_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "We will set the wind farm to burn.\nIf we are slain in the effort,\nI leave the fate of the Forest Tribe\nin your hands, Voyager. Farewell."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_200_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "The strength of the Gale Temple has been\nreduced to nothing, and we can now live\nlives free of worry.\fAll praise to the forests, for they will\nnow spread unchecked across all of Cinq,\nrealizing our dream of a green world!"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_200_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "A world of trees doesn't sound so bad\nto me, though I imagine your neighbors\nare gonna feel different."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_200_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "The other peoples do not yet know the worth\nof the forest. Once they see how wonderful\nit is to make one's home among the canopy\nof trees, they will come to see things our way."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_200_CUT_000_060": {
+    "speaker": "UI",
+    "text": "You have already acquired\na wood spirit's power."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, looks like I'm going home without\nany spirit power. The Emerald Wave really\ngave me a bum steer here, 'cause I got no\nidea where it was trying to send me."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_000_010": {
+    "speaker": "SoulSprite",
+    "text": "To this place."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_000_020": {
+    "speaker": "SoulSprite",
+    "text": "If it is a fire spirit you seek,\nreturn to the Flame Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_000_021": {
+    "speaker": "SoulSprite",
+    "text": "If it is a water spirit you seek,\nreturn to the Wave Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_000_022": {
+    "speaker": "SoulSprite",
+    "text": "If it is a wood spirit you seek,\nreturn to the Forest Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_000_023": {
+    "speaker": "SoulSprite",
+    "text": "If it is a metal spirit you seek,\nreturn to the Gale Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_000_030": {
+    "speaker": "SoulSprite",
+    "text": "If it is another spirit you seek,\nreturn to another temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_000_040": {
+    "speaker": "SoulSprite",
+    "text": "The choice is yours,\nSoul Voyager Tsunanori Mido."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hold on just a dang second!"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_111_CUT_000_020": {
+    "speaker": "SoulSprite",
+    "text": "You seek a fire spirit, yes? In that case,\nyou must return to the Flame Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_111_CUT_000_021": {
+    "speaker": "SoulSprite",
+    "text": "You seek a water spirit, yes? In that case,\nyou must return to the Wave Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_111_CUT_000_022": {
+    "speaker": "SoulSprite",
+    "text": "You seek a wood spirit, yes? In that case,\nyou must return to the Forest Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_111_CUT_000_023": {
+    "speaker": "SoulSprite",
+    "text": "You seek a metal spirit, yes? In that case,\nyou must return to the Gale Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_111_CUT_000_030": {
+    "speaker": "SoulSprite",
+    "text": "All will unfold as you so desire it,\nSoul Voyager Tsunanori Mido."
+  },
+  "SUB_W07_EVAR_MIDO_SPIRIT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So everything's gonna unfold\njust like I want it to, eh?"
+  },
+  "SUB_W07_EVAR_MIDO_SPIRIT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Desire the strongest spirit."
+  },
+  "SUB_W07_EVAR_MIDO_SPIRIT_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Desire a strong spirit."
+  },
+  "SUB_W07_EVAR_MIDO_SPIRIT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Desire a normal spirit."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, all the temples are now destroyed,\nand I feel like it's pretty much my fault.\nWonder what's gonna happen to this world?"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_010": {
+    "speaker": "SoulSprite",
+    "text": "All has been returned to the point from\nwhich it began. The Four Tribes will now\nbegin anew—and will continue to do so\nas many times as it takes."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_020": {
+    "speaker": "Nitram",
+    "text": "Let's stack these stones\nat the Soul Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_030": {
+    "speaker": "Atihana",
+    "text": "If we all work together,\nwe can rebuild the Soul Temple."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_040": {
+    "speaker": "Nahoj",
+    "text": "All those of the Four Tribes\npossess a soul."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_050": {
+    "speaker": "Irbas",
+    "text": "May all our souls be as one."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_060": {
+    "speaker": "SoulSprite",
+    "text": "You may resume your travels without\nworry, Soul Voyager Tsunanori Mido.\nWill you take someone with you?"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nitram of the Flame Tribe."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Atihana of the Wave Tribe."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nahoj of the Gale Tribe."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Irbas of the Forest Tribe."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No, I'm good."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_110_CUT_010_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Just who the heck ARE you, bud!?"
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_120_CUT_000_020": {
+    "speaker": "SoulSprite",
+    "text": "Whether or not you can gain the\npower of a spirit is up to you now,\nSoul Voyager Tsunanori Mido."
+  },
+  "SUB_W07_EVAR_MIDO_GAMEOVER_120_CUT_010_000": {
+    "speaker": "SoulSprite",
+    "text": "Congratulations, Tsunanori Mido."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_010_CUT_000_000": {
+    "speaker": "Priest",
+    "text": "Right, then. Take it away."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Hold up."
+  },
+  "SUB_W07_FUNC_MIDO_MISSIONCONFIRMATION_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Let's get to it."
+  }
+}

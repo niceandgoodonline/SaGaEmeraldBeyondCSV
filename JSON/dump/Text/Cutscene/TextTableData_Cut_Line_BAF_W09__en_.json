@@ -1,0 +1,394 @@
+{
+  "SUB_W09_WRLD_BOFO_INITIAL_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "A train station? This city looks\nstraight out of ye olden times.\nHave we somehow landed ourselves\nsomewhere on the old continent?"
+  },
+  "SUB_W09_WRLD_BOFO_INITIAL_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Is anyone still runnin' steam\nlocomotives in this day and age?"
+  },
+  "SUB_W09_WRLD_BOFO_INITIAL_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is all so odd; what exactly are we\nsupposed to DO here? At least we had a\nclear objective while chasing that man."
+  },
+  "SUB_W09_WRLD_BOFO_INITIAL_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Guess this here's our only clue."
+  },
+  "SUB_W09_EVAR_BOFO_OPENING_110_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Beggin' your pardon, feller, but you\never seen a triangle like this before?"
+  },
+  "SUB_W09_EVAR_BOFO_OPENING_110_CUT_000_010": {
+    "speaker": "Unknown_Person",
+    "text": "But that's... Where could you two\npossibly have found such a thing!?"
+  },
+  "SUB_W09_EVAR_BOFO_OPENING_110_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'll ask the questions here, pardner.\nClearly you know this little number,\nso I'd sure appreciate it if you could\ntell me everything you know about it."
+  },
+  "SUB_W09_EVAR_BOFO_OPENING_110_CUT_000_030": {
+    "speaker": "Unknown_Person",
+    "text": "If knowledge is what you seek, use these\ntickets to arrive at the answer yourselves.\n...If you're capable of such, that is."
+  },
+  "SUB_W09_EVAR_BOFO_OPENING_110_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Now hold on just a dang minute!"
+  },
+  "SUB_W09_EVAR_BOFO_OPENING_110_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Could that man have been an accomplice\nof the other? They both have a garish\nappearance, as well as a somewhat\nroundabout way of talking."
+  },
+  "SUB_W09_EVAR_BOFO_OPENING_110_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's use these tickets and see where\nthey lead. Long as we're on this ride,\nI'm gonna see it through to its end."
+  },
+  "SUB_W09_EVAR_BOFO_STATION_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "I ain't never ridden on a\nhorse-drawn carriage before!"
+  },
+  "SUB_W09_EVAR_BOFO_STATION_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "This place really is something."
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "That streetcar was like\nsomething out of a museum."
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "This a radio tower? Boy howdy, I sure\nappreciated these back in the war.\nEven when broadcasts were in another\nlanguage, it still beat silence."
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Hello, loves! I'm the songstress!\nThank ye for all your support!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Er, I'm afraid neither of us are\nfamiliar with your work—but we'd\nlove to hear you sing all the same!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but that's proper kind of ye.\nIn fact, it gives me the courage\nI need to join ye on your journey!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Ain't nobody invited you on a ride-along!\nThis ain't a pleasure trip, it's business—and\nbesides, don't you got songstressin' to do?"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I do—and like I said, ye gave me the\ncourage to toss all my fetters away and\nleap headfirst into a grand new world!\n'Tis my destiny, so it is!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Okay, this is getting weird.\nLook, it was nice meeting you\nand all, but we need to go."
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "You cannae get away from me, loves!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_010_CUT_000_010": {
+    "speaker": "Mech_Bard",
+    "text": "You there! Listen to my ballad!\nCongratulations. You are very welcome."
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_010_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Okay, now we got us some robots?\nThe level of technology in this place\nmakes no dang sense."
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_010_CUT_000_030": {
+    "speaker": "Mech_Bard",
+    "text": "Do hurry and request a ballad, now.\nThe customer is king!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_010_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Fine, play something."
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_010_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm ignoring you, la la la!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_010_CUT_000_060": {
+    "speaker": "Mech_Bard",
+    "text": "I will not leave your side until you\nmake your request. Good day!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_010_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "I've a fine old tune that will surely\npluck at your heartstrings!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "And now we got some weirdo taggin' along!\nWhat'n the heck should we do?"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "A weirdo AND some cats. I guess we're just\nthat likeable? Or maybe it's destiny.\nRegardless, I think we have to let them\njoin our merry little band."
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "You sure do roll with the punches, hon.\nHeck, I was trained to adapt to changin'\nconditions, but what about you? How\ndoes this not get you flippin' your lid?"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Maybe I'm just more flexible now because of\neverything I went through with my parents.\nBut in the end, you just have to accept\nthings as they are and move on."
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well if you ever feel a need to start\nhootin' and hollerin' at the top of\nyour lungs, you go ahead and do it—\nbecause I'm sure as heck gonna!"
+  },
+  "SUB_W09_EVAR_BOFO_RADIO_TOWER_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Good plan, Bonnie. When it all gets\nto be too much, we'll scream together."
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "It's a mite early in the day for drinkin',\nwhich is a real shame; this looks like the\nsorta place where a girl could have\nherself some real fun."
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_000_010": {
+    "speaker": "Bartender",
+    "text": "We've a fine variety of fizzy drinks\nif you would prefer, ladies.\nPlease do help yourselves."
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_000_020": {
+    "speaker": "Avalon_Gang",
+    "text": "Oi! I 'eard a rumour what blokes could drink\nfor free at this 'ere pub— gimme a shot of\nthe good stuff and keep it comin', bird!"
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_000_030": {
+    "speaker": "Bartender",
+    "text": "I believe you've entered the\nwrong establishment, sir."
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_000_040": {
+    "speaker": "Avalon_Gang",
+    "text": "Think so, do ya? Well, you got bottles\nand I got a thirst, so what bloody\ndifference does it make?"
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_000_050": {
+    "speaker": "Bartender",
+    "text": "Unfortunately for you, sir, we've\na new pair of bouncers on the job.\n...Ahem. ...AHEM."
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wait, does she mean us!?"
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Shoot, now I'm so thirsty,\nI don't care what time it is!"
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_010_010": {
+    "speaker": "Bartender",
+    "text": "Please accept these tickets,\nmy brave lasses."
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is no time for drinking our cares\naway, Bonnie. We need to get moving."
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_020_000": {
+    "speaker": "Bartender",
+    "text": "Hm. It appears I chose the wrong\npatrons to appoint as our bouncers."
+  },
+  "SUB_W09_EVAR_BOFO_BAR_000_CUT_020_010": {
+    "speaker": "Bartender",
+    "text": "Now then, anyone who finds themselves\nin the wrong place, please do leave."
+  },
+  "SUB_W09_EVAR_BOFO_MUSEUM_000_CUT_000_000": {
+    "speaker": "Museum_Director",
+    "text": "Welcome to the Royal Museum of Albion, ladies.\nTo celebrate our bicentennial anniversary, we are\npresenting commemorative gifts to our visitors.\nI do hope you will accept one."
+  },
+  "SUB_W09_EVAR_BOFO_MUSEUM_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Can you tell us if you've ever\nseen a triangle like this before?"
+  },
+  "SUB_W09_EVAR_BOFO_MUSEUM_000_CUT_000_020": {
+    "speaker": "Museum_Director",
+    "text": "Ah. That."
+  },
+  "SUB_W09_EVAR_BOFO_MUSEUM_000_CUT_000_030": {
+    "speaker": "Museum_Director",
+    "text": "Beneath the streets of Avalon lie not only\nlost treasures, but unimaginably terrifying\ncreatures just waiting to awaken from their\neternal slumber!"
+  },
+  "SUB_W09_EVAR_BOFO_MUSEUM_000_CUT_000_040": {
+    "speaker": "Museum_Director",
+    "text": "But that has absolutely nothing to\ndo with your triangle. Oh my, no."
+  },
+  "SUB_W09_EVAR_BOFO_POLICEOFFICE_000_CUT_000_000": {
+    "speaker": "Police_Inspector",
+    "text": "Oi! Yer some'a them lostlings, ain'tcha? Well,\nwe'll be needin' your 'elp with an investigation,\nso I'm gonna go ahead and nick one'a them lovely\nlittle items ya gathered. There's a lass!"
+  },
+  "SUB_W09_EVAR_BOFO_POLICEOFFICE_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Lovely little items? Like this one?"
+  },
+  "SUB_W09_EVAR_BOFO_POLICEOFFICE_000_CUT_000_020": {
+    "speaker": "Police_Inspector",
+    "text": "Ah, so you're in league with 'them,' \nare ya? Quite the discovery, innit..."
+  },
+  "SUB_W09_EVAR_BOFO_POLICEOFFICE_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Who exactly are you referring to?\nAlso, what even IS this triangle?"
+  },
+  "SUB_W09_EVAR_BOFO_POLICEOFFICE_000_CUT_000_040": {
+    "speaker": "Police_Inspector",
+    "text": "I've nothin' to say to 'them'\nOR their cronies! Now sod off!"
+  },
+  "SUB_W09_EVAR_BOFO_SHOPINGSTREET_000_CUT_000_000": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Greetings, Madams, and welcome to Deeps. \nWhat can I help you with today? Footwear?\nA bag? A fine hat? Or perhaps we could\ntailor a new suit especially for you?"
+  },
+  "SUB_W09_EVAR_BOFO_SHOPINGSTREET_000_CUT_000_010": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Or perchance you ladies seek\nsomething else entirely?"
+  },
+  "SUB_W09_EVAR_BOFO_SHOPINGSTREET_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Got anything like this, darlin'?"
+  },
+  "SUB_W09_EVAR_BOFO_SHOPINGSTREET_000_CUT_000_030": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Here at Deeps, we strive to meet our\ncustomers' every desire—and as such,\nI trust this companion triangle will\nmore than satisfy.\fSaid item, however, is provided as-is,\nand solely at the customer's risk.\nCaveat emptor, madams!"
+  },
+  "SUB_W09_EVAR_BOFO_SHOPINGSTREET_000_CUT_010_000": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "We greatly look forward\nto serving you again."
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "So is this a shoppin' mall?\nSure got a different vibe than\nthe ones back in Capitol City."
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_010": {
+    "speaker": "Store_Customer",
+    "text": "Oh dear, just look at those slovenly women come\nhere to shop. Some sort of foreigners, perhaps?\nPoor fools must not be aware this store\ndeals only in goods of <i>quality</i>."
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I made a full loop of the shop\nand didn't see anything that\nseemed related to our triangle."
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_030": {
+    "speaker": "Store_Customer",
+    "text": "Visitors, is it? Then permit me to educate you!\nThis boutique, you see, deals exclusively in\nthe finer things. As such, it does not stock\nrandom items such as 'triangles.'\fWell, except perchance in the\nchildren's toys department."
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Guess we ain't checked there yet."
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Thank you for your help, ma'am."
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_060": {
+    "speaker": "Store_Customer",
+    "text": "Oh! How lovely that you've managed\nto learn your basic courtesies!"
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, I found the thing, but turns out it\nactually IS part of a children's puzzle!\nThink you can solve this, Bonnie?"
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "You think I fell off the wagon\nyesterday? 'Course I can solve\na goshdarn kiddie puzzle!"
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "There!"
+  },
+  "SUB_W09_EVAR_BORO_KANUDSDEPARTMENT_000_CUT_000_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "It's just a children's puzzle, Bonnie.\nDon't get discouraged."
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_000": {
+    "speaker": "Guinevere",
+    "text": "Oh dear, I never would have expected to encounter\na lostling in a place like this! Clearly I need to broaden\nmy horizons—which is why I will join you on your\njourney through the Conjoined Worlds."
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We picked up ANOTHER weirdo!\nWhat in the heck do we do now?"
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Maybe they're connected\nto the triangle people?"
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "If you wish to murmur without my overhearing,\nmight I suggest you sidle further away?"
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_040": {
+    "speaker": "Guinevere",
+    "text": "Know then that I am Guinevere, rightful queen\nof Albion by marriage. Alas, certain incidents\nhave transpired that have relegated me to the\nmanagement of lostlings."
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, that's impressive. Question, then:\nhave you seen a triangle like this before?"
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "That is a triangle of power. It is said\nthey grant various powers to those who\npossess them, but I do not believe this."
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Enough with the dang riddles, darlin'!\nDoes the thing have power or not!?"
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "Do you truly believe one can achieve supremacy\nsimply by possessing a triangle? That the\nacquisition of power is as simple as gathering\nup various bits and bobs?\fNo, my lostlings. If there is power\nwithin you, it comes from <i>you</i>,\nnot your possessions."
+  },
+  "SUB_W09_EVAR_BOFO_WORLDTHEATER_000_CUT_000_090": {
+    "speaker": "Guinevere",
+    "text": "And with that, let us begin our journey!"
+  },
+  "SUB_W09_EVAR_BOFO_SAULEYSSTORE_000_CUT_000_000": {
+    "speaker": "Lancelot",
+    "text": "Well, that's Sorries for you, isn't it?\nThey've even got lostlings in stock!\nThat said, I certainly can't complain\nabout the timing.\fRight then. You lostlings make way,\nbecause I'm coming along."
+  },
+  "SUB_W09_EVAR_BOFO_SAULEYSSTORE_000_CUT_000_030": {
+    "speaker": "Lancelot",
+    "text": "Perfectly reasonable to be wary,\nbut you've nothing to worry about.\fMy name is Lancelot, and I'm a Knight of the\nRound Table. Sadly, there's a bit of a shambles\nat the moment, and I've a need to be somewhere\nother than Avalon—so cheers and all that."
+  },
+  "SUB_W09_EVAR_BOFO_SAULEYSSTORE_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Whatever you say there, feller.\nBut say, you seen this shape before?"
+  },
+  "SUB_W09_EVAR_BOFO_SAULEYSSTORE_000_CUT_000_050": {
+    "speaker": "Lancelot",
+    "text": "All that triangle will bring is foul luck.\nYou'd be wise to bin it."
+  },
+  "SUB_W09_EVAR_BOFO_SAULEYSSTORE_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're trying to solve a mystery here,\nand this triangle is our single clue.\nWe're not about to 'bin it' just because\nyou think it might be unlucky."
+  },
+  "SUB_W09_EVAR_BOFO_SAULEYSSTORE_000_CUT_000_070": {
+    "speaker": "Lancelot",
+    "text": "Ah, travellers in the midst of a noble quest.\nThen of course, you cannot free yourself of the\ntriangle no matter the ill fortune it brings!\fWell then, as a knight, I've no choice but to\naccompany you on this journey, so that I may\nbear at least a portion of your burden."
+  },
+  "SUB_W09_EVAR_BOFO_ENDING_110_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "We rode all around the city and burned\nthrough a heap'a tickets, but didn't\nlearn a darn thing about that triangle."
+  },
+  "SUB_W09_EVAR_BOFO_ENDING_110_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "True. It's clearly special in some way,\nbut actual facts are proving elusive."
+  },
+  "SUB_W09_EVAR_BOFO_ENDING_110_CUT_000_020": {
+    "speaker": "Unknown_Person",
+    "text": "As to be expected. However, as you have\nproven yourselves able to command the\npower hidden within that piece, I feel\ncomfortable entrusting you with this."
+  },
+  "SUB_W09_EVAR_BOFO_ENDING_110_CUT_000_030": {
+    "speaker": "Unknown_Person",
+    "text": "We are Quisstatium, they who build the\nroads! Complete that, and we will recognize\nyou as kindred souls and tell you all."
+  },
+  "SUB_W09_EVAR_BOFO_ENDING_110_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "The man who dropped this piece said our\npresident betrayed him—and tried to kill\nhim because of it. Is that the sort of\norganization you belong to?"
+  },
+  "SUB_W09_EVAR_BOFO_ENDING_110_CUT_000_050": {
+    "speaker": "Unknown_Person",
+    "text": "While every organization contains members\nwho step over the line, I assure you we are\nnot any manner of criminal syndicate.\fThat said, the further details you seek\nmust wait until you've filled in all of\nthe pieces in that frame."
+  },
+  "SUB_W09_EVAR_BOFO_ENDING_110_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "First tickets, now pieces? Good thing\nI love me a puzzle. Now what'd you say\nyour little group was called again?"
+  },
+  "SUB_W09_EVAR_BOFO_ENDING_110_CUT_000_070": {
+    "speaker": "Unknown_Person",
+    "text": "Quisstatium. They who build the roads."
+  },
+  "SUB_W09_EVAR_BOFO_ENDING_110_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Boy howdy, that there's a real mouthful.\nBut don't worry, feller! We'll fill this\nthing chock-full'a pieces, and then you\ncan tell us all about Kissy Stadium!"
+  }
+}

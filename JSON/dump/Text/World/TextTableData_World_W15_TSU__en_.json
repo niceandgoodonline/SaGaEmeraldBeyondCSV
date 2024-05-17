@@ -1,0 +1,46 @@
+{
+  "W15_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Vermiglio: The Triangular World"
+  },
+  "W15_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world choked by stagnant air on the other side of the door. What looked like the Vermillion Bird was just a discharge of smoke."
+  },
+  "W15_EVAR_MIDO_KA_100_TITLE": {
+    "speaker": "UI",
+    "text": "To Acquire a Spirit's Power"
+  },
+  "W15_EVAR_MIDO_KA_100_DETAIL": {
+    "speaker": "UI",
+    "text": "There should be a spirit in this cave. Better secure it fast and get out of this place."
+  },
+  "W15_EVAR_MIDO_KA_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W15_EVAR_MIDO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Through the Gate of Fantasy"
+  },
+  "W15_EVAR_MIDO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Head to the Heavens in search of a door that'll lead you to your next spirit."
+  },
+  "W15_EVAR_MIDO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W15_EVAR_MIDO_RETURN_030_TITLE": {
+    "speaker": "UI",
+    "text": "Through the Gate of Fantasy"
+  },
+  "W15_EVAR_MIDO_RETURN_030_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired power from all the spirits. Time to head back to the Heavens and search for the door to Miyako City."
+  },
+  "W15_EVAR_MIDO_RETURN_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  }
+}

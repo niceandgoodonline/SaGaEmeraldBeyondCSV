@@ -1,0 +1,90 @@
+{
+  "W03_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Dismal King in Danger"
+  },
+  "W03_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You are Siugnas, the Dismal King. Your tedious days spent on the throne came to a rather irksome end, but you rather look forward to what comes next."
+  },
+  "W03_WRLD_SIUG_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Dismal King's Homecoming"
+  },
+  "W03_WRLD_SIUG_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You arrived in a graveyard, where you asked a maid what happened during your absence."
+  },
+  "W03_EVAR_SIUG_DARKCASTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Recovering the Throne"
+  },
+  "W03_EVAR_SIUG_DARKCASTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You suspect that unpleasant man is waiting for you in the Dark Castle. You cannot wait to punish him."
+  },
+  "W03_EVAR_SIUG_DARKCASTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Dark Castle"
+  },
+  "W03_EVAR_SIUG_GLUTTONY_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Tower of Gluttony"
+  },
+  "W03_EVAR_SIUG_GLUTTONY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A pig warden with an insatiable appetite is waiting for you here."
+  },
+  "W03_EVAR_SIUG_GLUTTONY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit the Warden of Gluttony"
+  },
+  "W03_EVAR_SIUG_LUST_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Tower of Lust"
+  },
+  "W03_EVAR_SIUG_LUST_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A snake warden concealing a twisted desire in his heart is waiting for you here."
+  },
+  "W03_EVAR_SIUG_LUST_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit the Warden of Lust"
+  },
+  "W03_EVAR_SIUG_SLOTH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Tower of Sloth"
+  },
+  "W03_EVAR_SIUG_SLOTH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A bat warden that is ever sleeping is waiting for you here."
+  },
+  "W03_EVAR_SIUG_SLOTH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit the Warden of Sloth"
+  },
+  "W03_EVAR_SIUG_RAGE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Tower of Wrath"
+  },
+  "W03_EVAR_SIUG_RAGE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A bull warden that is ever burning with rage is waiting for you here."
+  },
+  "W03_EVAR_SIUG_RAGE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit the Warden of Wrath"
+  },
+  "W03_EVAR_SIUG_LEVELUP_BATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Where a Powerful Foe Awaits"
+  },
+  "W03_EVAR_SIUG_LEVELUP_BATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Should a king vacate his throne, those of great ambition can't help but push their luck. How will you handle this?"
+  },
+  "W03_EVAR_SIUG_LEVELUP_BATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  }
+}

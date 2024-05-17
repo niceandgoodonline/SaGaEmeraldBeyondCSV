@@ -1,0 +1,166 @@
+{
+  "W14_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Providence: The World of Visions"
+  },
+  "W14_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A world riddled with countless visions. Will you find a triangle here?"
+  },
+  "W14_EVAR_BOFO_001_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Miyako City"
+  },
+  "W14_EVAR_BOFO_001_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of a shrine is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_002_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Pulchra"
+  },
+  "W14_EVAR_BOFO_002_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of a witch is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_003_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Yomi"
+  },
+  "W14_EVAR_BOFO_003_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of the Dark Castle is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_003_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_004_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of the Mare Nostrum"
+  },
+  "W14_EVAR_BOFO_004_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of the sea is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_004_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_006_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of the Kosmos"
+  },
+  "W14_EVAR_BOFO_006_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of the inside of a body is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_006_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_007_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Cinq"
+  },
+  "W14_EVAR_BOFO_007_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of four tribes is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_007_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_008_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Cordycep"
+  },
+  "W14_EVAR_BOFO_008_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of an earthen tunnel is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_008_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_010_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Delta Base"
+  },
+  "W14_EVAR_BOFO_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of a base is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_011_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Kamala"
+  },
+  "W14_EVAR_BOFO_011_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of the Epuyke is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_011_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_012_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Grelon"
+  },
+  "W14_EVAR_BOFO_012_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of a palace is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_012_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_013_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of the Crowrealm"
+  },
+  "W14_EVAR_BOFO_013_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of a desert is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_013_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_015_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Vermiglio"
+  },
+  "W14_EVAR_BOFO_015_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of a terminal is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_015_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  },
+  "W14_EVAR_BOFO_017_TITLE": {
+    "speaker": "UI",
+    "text": "Memories of Brighthome"
+  },
+  "W14_EVAR_BOFO_017_DETAIL": {
+    "speaker": "UI",
+    "text": "A vision of King Din's castle is projected before you. Will you obtain another triangle here?"
+  },
+  "W14_EVAR_BOFO_017_BUTTON": {
+    "speaker": "UI",
+    "text": "Inspect the Vision"
+  }
+}

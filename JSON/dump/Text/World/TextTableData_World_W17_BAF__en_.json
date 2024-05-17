@@ -1,0 +1,18 @@
+{
+  "W17_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Brighthome: The Warrior World"
+  },
+  "W17_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After passing through the door, you find yourself in a very unsettling world. Will you find a triangle here?"
+  },
+  "W17_SCAN_BOFO_INITIAL_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Chalk Citadel"
+  },
+  "W17_SCAN_BOFO_INITIAL_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The wave is directing you toward this place."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "InitItemSet_01": {
+    "Item": "['WLRAP01_A','WLDAG01_A','WHGSW01_A','GLONE01_A']"
+  },
+  "InitItemSet_02": {
+    "Item": "['WLLSW02_A','WLRAP02_A','WLDAG02_A','WLAXE02_A','WHGSW02_A','WHSSW02_A','WHPSW02_A','GLONE02_A','GHMAC02_A','GHFLA02_A','GHELE02_A','GHBOM02_A','GHCHE02_A']"
+  },
+  "InitItemSet_03": {
+    "Item": "['WLLSW01_A','WLLSW01_B','WLRAP01_A','WLRAP01_B','WLDAG01_A','WLDAG01_B','WLAXE01_A','WLAXE01_B','WHGSW01_A','WHGSW01_B','WHSSW01_A','WHSSW01_B','WHPSW01_A','WHPSW01_B','GLONE01_A','GLONE01_B','GHMAC01_A','GHMAC01_B','GHFLA01_A','GHFLA01_B','GHELE01_A','GHELE01_B','GHBOM01_A','GHBOM01_B','GHCHE01_A','GHCHE01_B']"
+  },
+  "InitItemSet_04": {
+    "Item": "['WLLSW01_VW','WHGSW01_VW','MANA01_VW','SAHE01_VS','SAAC01_VS']"
+  },
+  "InitItemSet_05": {
+    "Item": "['None']"
+  },
+  "InitItemSet_06": {
+    "Item": "['None']"
+  },
+  "InitItemSet_07": {
+    "Item": "['None']"
+  },
+  "InitItemSet_08": {
+    "Item": "['None']"
+  },
+  "InitItemSet_09": {
+    "Item": "['None']"
+  },
+  "InitItemSet_10": {
+    "Item": "['None']"
+  },
+  "InitItemSet_11": {
+    "Item": "['None']"
+  },
+  "InitItemSet_12": {
+    "Item": "['None']"
+  },
+  "InitItemSet_13": {
+    "Item": "['None']"
+  },
+  "InitItemSet_14": {
+    "Item": "['None']"
+  },
+  "InitItemSet_15": {
+    "Item": "['None']"
+  },
+  "InitItemSet_16": {
+    "Item": "['None']"
+  },
+  "InitItemSet_17": {
+    "Item": "['None']"
+  },
+  "InitItemSet_18": {
+    "Item": "['None']"
+  },
+  "InitItemSet_TSU": {
+    "Item": "['WLRAP01_A','WLDAG01_A','WHGSW01_A','GLONE01_A']"
+  },
+  "InitItemSet_AMY": {
+    "Item": "['WLRAP01_A','WLDAG01_A','WHGSW01_A','GLONE01_A']"
+  },
+  "InitItemSet_SGN": {
+    "Item": "['WLRAP01_A','WLDAG01_A','WHGSW01_A','GLONE01_A']"
+  },
+  "InitItemSet_DVA": {
+    "Item": "['WLRAP01_A','WLDAG01_A','WHGSW01_A','GLONE01_A']"
+  },
+  "InitItemSet_BAF": {
+    "Item": "['WLRAP01_A','WLDAG01_A','WHGSW01_A','GLONE01_A']"
+  }
+}

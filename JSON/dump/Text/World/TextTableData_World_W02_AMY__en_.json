@@ -1,0 +1,462 @@
+{
+  "W02_EVAR_AMYA_HISOU_BLACK_RED_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A witch of the black and witch of the red are fighting. Is it possible to get them to cooperate?"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_YELLOW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A witch of the blue and witch of the yellow are fighting. Is it possible to get them to cooperate?"
+  },
+  "W02_EVAR_AMYA_BATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Where a Powerful Foe Awaits"
+  },
+  "W02_EVAR_AMYA_BATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this part of the Calamity? Or is Pulchra itself trying to assist you in some way?"
+  },
+  "W02_EVAR_AMYA_BATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_SCAN_AMYA_INITIAL_100_TITLE": {
+    "speaker": "UI",
+    "text": "To Save Pulchra"
+  },
+  "W02_SCAN_AMYA_INITIAL_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Even the Arch Witch succumbed to crystallization. You've no choice but to proceed along the path shown by Macha's magic."
+  },
+  "W02_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Returning to Pulchra"
+  },
+  "W02_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Your Witchterms are over and you have returned to Pulchra. Time to become a full-fledged witch!"
+  },
+  "W02_WRLD_AMYA_INITIAL_100_TITLE": {
+    "speaker": "UI",
+    "text": "Returning to Pulchra"
+  },
+  "W02_WRLD_AMYA_INITIAL_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Your Witchterms are over and you have returned to Pulchra. You had hoped to become a full-fledged witch, but now you've got to deal with the Calamity that has come to your home!"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_RED_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fire and Water Out of Balance"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_RED_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_YELLOW_000_TITLE": {
+    "speaker": "UI",
+    "text": "Wood and Earth Out of Balance"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_YELLOW_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_YELLOW_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sisterly Bonds: Black and Yellow"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_YELLOW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You're starting you realize why the world is crystallizing. Time to get your comrades on board."
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_YELLOW_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_RED_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sisterly Bonds: Blue and Red"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_RED_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You're starting you realize why the world is crystallizing. Time to get your comrades on board."
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_RED_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_BLUE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Saving the world: Black and Blue"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_BLUE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The key to saving the world may lie with the mirror's shards. Defeat the Calamity fiend and reclaim them."
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_BLUE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_RED_000_TITLE": {
+    "speaker": "UI",
+    "text": "Saving the world: Yellow and Red"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_RED_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The key to saving the world may lie with the mirror's shards. Defeat the Calamity fiend and reclaim them."
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_RED_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W02_EVAR_AMYA_HISOU_OLD_CASTLE_ROAD_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Mirror Shards"
+  },
+  "W02_EVAR_AMYA_HISOU_OLD_CASTLE_ROAD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You're retrieved the mirror's shards, but what awaits you in the Mistkeep?"
+  },
+  "W02_EVAR_AMYA_HISOU_OLD_CASTLE_ROAD_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Way"
+  },
+  "W02_EVAR_AMYA_HISOU_OLD_CASTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Visitor in the Mists"
+  },
+  "W02_EVAR_AMYA_HISOU_OLD_CASTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You feel as though the Mistkeep is calling out to you. Your curiosity has brought you this far, so no giving up now!"
+  },
+  "W02_EVAR_AMYA_HISOU_OLD_CASTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Mistkeep"
+  },
+  "W02_EVAR_AMYA_AQUEDUCT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fiends in the Channel"
+  },
+  "W02_EVAR_AMYA_AQUEDUCT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Fighting the fiends in the channel could provide an opportunity for growth."
+  },
+  "W02_EVAR_AMYA_AQUEDUCT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_AMYA_MINE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fiends in the Mines"
+  },
+  "W02_EVAR_AMYA_MINE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Fighting the fiends in the mines could provide an opportunity for growth."
+  },
+  "W02_EVAR_AMYA_MINE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_AMYA_FIRETOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fiends in the Scorching Tower"
+  },
+  "W02_EVAR_AMYA_FIRETOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Fighting the fiends in the Scorching Tower could provide an opportunity for growth."
+  },
+  "W02_EVAR_AMYA_FIRETOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_AMYA_FOSSAMAGNA_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fiends in the Gulch"
+  },
+  "W02_EVAR_AMYA_FOSSAMAGNA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Fighting the fiends in the gulch could provide an opportunity for growth."
+  },
+  "W02_EVAR_AMYA_FOSSAMAGNA_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_AMYA_MOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fiends in the Forest"
+  },
+  "W02_EVAR_AMYA_MOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Fighting the fiends in the forest could provide an opportunity for growth."
+  },
+  "W02_EVAR_AMYA_MOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W02_EVAR_AMYA_HISOU_WHITE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Danger Approaches the White"
+  },
+  "W02_EVAR_AMYA_HISOU_WHITE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The lands of the white witches are your home. You must face the Calamity without fear."
+  },
+  "W02_EVAR_AMYA_HISOU_WHITE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the White Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_WHITE_100_TITLE": {
+    "speaker": "UI",
+    "text": "The White Live On"
+  },
+  "W02_EVAR_AMYA_HISOU_WHITE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The lands of the white witches are your home. You must face the Calamity without fear."
+  },
+  "W02_EVAR_AMYA_HISOU_WHITE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the White Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_WHITE_200_TITLE": {
+    "speaker": "UI",
+    "text": "Victory is Near for the White"
+  },
+  "W02_EVAR_AMYA_HISOU_WHITE_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The lands of the white witches are your home. You must face the Calamity without fear."
+  },
+  "W02_EVAR_AMYA_HISOU_WHITE_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the White Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_000_TITLE": {
+    "speaker": "UI",
+    "text": "Danger Approaches the Yellow"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The yellow witches are engaged in battle. Is Willma okay?"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Yellow Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Yellow Live On"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The immediate danger has passed, but you can't let your guard down. Is Willma okay?"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Yellow Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_200_TITLE": {
+    "speaker": "UI",
+    "text": "Victory is Near for the Yellow"
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_200_DETAIL": {
+    "speaker": "UI",
+    "text": "Check on Willma, who is cleaning up the stragglers."
+  },
+  "W02_EVAR_AMYA_HISOU_YELLOW_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Yellow Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Danger Approaches the Black"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The black witches are engaged in battle. Is Grete okay?"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Black Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Black Live On"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The immediate danger has passed, but you can't let your guard down. Is Grete okay?"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Black Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_200_TITLE": {
+    "speaker": "UI",
+    "text": "Victory is Near for the Black"
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_200_DETAIL": {
+    "speaker": "UI",
+    "text": "Check on Grete, who is cleaning up the stragglers."
+  },
+  "W02_EVAR_AMYA_HISOU_BLACK_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Black Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_RED_000_TITLE": {
+    "speaker": "UI",
+    "text": "Danger Approaches the Red"
+  },
+  "W02_EVAR_AMYA_HISOU_RED_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The red witches are engaged in battle. Is Red Orchid okay?"
+  },
+  "W02_EVAR_AMYA_HISOU_RED_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Red Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_RED_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Red Live On"
+  },
+  "W02_EVAR_AMYA_HISOU_RED_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The immediate danger has passed, but you can't let your guard down. Is Red Orchid okay?"
+  },
+  "W02_EVAR_AMYA_HISOU_RED_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Red Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_RED_200_TITLE": {
+    "speaker": "UI",
+    "text": "Victory is Near for the Red"
+  },
+  "W02_EVAR_AMYA_HISOU_RED_200_DETAIL": {
+    "speaker": "UI",
+    "text": "Check on Red Orchid, who is cleaning up the stragglers."
+  },
+  "W02_EVAR_AMYA_HISOU_RED_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Red Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Danger Approaches the Blue"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The blue witches are engaged in battle. Is Lita okay?"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Blue Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Blue Live On"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The immediate danger has passed, but you can't let your guard down. Is Lita okay?"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Blue Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_200_TITLE": {
+    "speaker": "UI",
+    "text": "Victory is Near for the Blue"
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_200_DETAIL": {
+    "speaker": "UI",
+    "text": "Check on Lita, who is cleaning up the stragglers."
+  },
+  "W02_EVAR_AMYA_HISOU_BLUE_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Blue Battlegrounds"
+  },
+  "W02_EVAR_AMYA_HISOU_TOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Preparing for the Last Battle"
+  },
+  "W02_EVAR_AMYA_HISOU_TOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If you can clear out the crystallization, you should emerge victorious over the Calamity. Time to consult your allies."
+  },
+  "W02_EVAR_AMYA_HISOU_TOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Brilliant Tower"
+  },
+  "W02_EVAR_AMYA_HISOU_OLD_CASTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Grey Witch Beckons"
+  },
+  "W02_EVAR_AMYA_HISOU_OLD_CASTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Grey Witch must pay for trying to fracture the bond between your comrades!"
+  },
+  "W02_EVAR_AMYA_HISOU_OLD_CASTLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Mistkeep"
+  },
+  "W02_EVAR_AMYA_BRILLIANTTOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Arch Witch"
+  },
+  "W02_EVAR_AMYA_BRILLIANTTOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You have defeated the Grey Witch. What are you supposed to do with such overwhelming power?"
+  },
+  "W02_EVAR_AMYA_BRILLIANTTOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Brilliant Tower"
+  },
+  "W02_EVAR_AMYA_BRILLIANTTOWER_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Calamity Must Fall"
+  },
+  "W02_EVAR_AMYA_BRILLIANTTOWER_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Everyone worked together to best the Grey Witch. The time to end the Calamity is nigh."
+  },
+  "W02_EVAR_AMYA_BRILLIANTTOWER_100_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Brilliant Tower"
+  },
+  "W02_LTXT_AMYA_CASTLE_BLA_TITLE": {
+    "speaker": "UI",
+    "text": "Castle Black Swan, Crystallized"
+  },
+  "W02_LTXT_AMYA_CASTLE_BLA_DETAIL": {
+    "speaker": "UI",
+    "text": "Although the battlegrounds have been cleared out, Castle Black Swan is still crystallized. Is there another incident to clear up?"
+  },
+  "W02_LTXT_AMYA_CASTLE_BLU_TITLE": {
+    "speaker": "UI",
+    "text": "The Tree of the Forever Young, Crystallized"
+  },
+  "W02_LTXT_AMYA_CASTLE_BLU_DETAIL": {
+    "speaker": "UI",
+    "text": "Although the battlegrounds have been cleared out, the Tree of the Forever Young is still crystallized. Is there another incident to clear up?"
+  },
+  "W02_LTXT_AMYA_CASTLE_RED_TITLE": {
+    "speaker": "UI",
+    "text": "The Flame Fortress, Crystallized"
+  },
+  "W02_LTXT_AMYA_CASTLE_RED_DETAIL": {
+    "speaker": "UI",
+    "text": "Although the battlegrounds have been cleared out, the Flame Fortress is still crystallized. Is there another incident to clear up?"
+  },
+  "W02_LTXT_AMYA_CASTLE_YEL_TITLE": {
+    "speaker": "UI",
+    "text": "The Dusk Pinwheel, Crystallized"
+  },
+  "W02_LTXT_AMYA_CASTLE_YEL_DETAIL": {
+    "speaker": "UI",
+    "text": "Although the battlegrounds have been cleared out, the Dusk Pinwheel is still crystallized. Is there another incident to clear up?"
+  },
+  "W02_LTXT_AMYA_CASTLE_WHI_TITLE": {
+    "speaker": "UI",
+    "text": "Leone Bianco Palazzo, Crystallized"
+  },
+  "W02_LTXT_AMYA_CASTLE_WHI_DETAIL": {
+    "speaker": "UI",
+    "text": "Although the battlegrounds have been cleared out, Leone Bianco Palazzo is still crystallized. Is there another incident to clear up?"
+  }
+}

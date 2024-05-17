@@ -1,0 +1,1502 @@
+{
+  "SUB_W07_WRLD_AMYA_INITIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, this world feels so rich in spirit power!\nMight be able to gather a bunch of mana here,\nbut first, I've got a cat to find."
+  },
+  "SUB_W07_WRLD_AMYA_INITIAL_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, Mr. Green Line. Where to?"
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "An altar, huh? I sense some faint spirit\npower from here, but it's all smashed up.\nWho would do something like this?"
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hm? Is someone there?"
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh my gosh, you're sooo cute!\nDo you live here, faerie friend?"
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Don't worry, little sprite. I'm a witch,\nso even if you can't talk, I'll understand\nwhat it is you're trying to tell me."
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh? Wait, where you going?"
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, it's gone..."
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_060": {
+    "speaker": "WindPriest",
+    "text": "We've a visitor at the Soul Temple."
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_070": {
+    "speaker": "WoodsPriest",
+    "text": "A Flamewave League spy, perhaps?\nI've not seen her like before."
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_080": {
+    "speaker": "FirePriest",
+    "text": "As if we would recruit so\nostentatious an agent!"
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_090": {
+    "speaker": "WaterPriest",
+    "text": "The Soul Temple has been the site of strange\nphenomena since ancient times. Is that not\nwhy we banded together to destroy it?"
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_100": {
+    "speaker": "WoodsPriest",
+    "text": "Are you suggesting this creature is\na Soul Voyager? Are we to be ruled\nby the Soul Temple even now?"
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_110": {
+    "speaker": "FirePriest",
+    "text": "If she is indeed a Soul Voyager,\nwe of the Flamewave League\nwill not engage with her."
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_120": {
+    "speaker": "WindPriest",
+    "text": "And nor will we of the\nForestgale Alliance."
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, harsh! You're just going to\ncompletely snub a visiting witch?"
+  },
+  "SUB_W07_EVAR_AMYA_SOULCULTIST_000_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "At least <i>you've</i> come back to me,\nfaerie friend. Will you guide me around?\fYou will? Aw, thanks for not ignoring me\nlike those other jerkfaces!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, so this is the guy who swore\nhe wouldn't talk to me.\nWhy guide me here?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "Be welcome at the Flame Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Looks like someone finally got interested\nin talking to the visiting witch!\nAlso, what's a 'Soul Voyager'?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "The Four Tribes of Cinq once had our lives\ncontrolled by the Soul Temple. Eventually\nwe grew to despise its dominion over us,\nand so banded together to destroy it."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "In the days when we were still under its sway,\ntravelers would occasionally appear. We named\nthem Soul Voyagers, for whatever they sought\nwould greatly affect the lives of all in Cinq."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "We know well the power of a Soul Voyager,\nand humbly request your assistance in\ndefeating the Forestgale Alliance."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, look who's Mr. Warm and Friendly\nall of a sudden. So what's going on\nhere now? You guys are at war?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_070": {
+    "speaker": "FirePriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Flamewave League\nand the Forestgale Alliance.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_080": {
+    "speaker": "FirePriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Flamewave League!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Mmm, I'll think about it."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_100": {
+    "speaker": "FirePriest",
+    "text": "Take whatever time you need.\nWe await your favorable reply."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "What's your take on all this,\nfaerie friend?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "...You don't particularly care which one\nI go with? Ha! I feel the exact same way!\nI mean, I'll probably find my cat either way,\nso I don't think there's a wrong choice here."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's help these guys."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's look around more."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hi. I'm guessing you Flame Temple\nguys also want my help?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_010_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Flamewave League do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLE_INTRO_010_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "What do you think?\nGo with this one?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLE_INTRO_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's help these guys."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLE_INTRO_010_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's look around more."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_010_000": {
+    "speaker": "FirePriest",
+    "text": "Thank you, Soul Voyager.\nNow then, if I may be so bold as to\nask, we would appreciate your help."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_INTRO_000_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'll do what I can."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_INTRO_000_CUT_000_010": {
+    "speaker": "WaterPriest",
+    "text": "Be welcome at the Wave Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_INTRO_000_CUT_000_070": {
+    "speaker": "WaterPriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Waveflame League\nand the Forestgale Alliance.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_INTRO_000_CUT_000_080": {
+    "speaker": "WaterPriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Waveflame League!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_INTRO_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hi. I'm guessing you Wave Temple\nguys also want my help?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_INTRO_010_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Waveflame League do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_INTRO_000_CUT_000_010": {
+    "speaker": "WindPriest",
+    "text": "Be welcome at the Gale Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_INTRO_000_CUT_000_050": {
+    "speaker": "WindPriest",
+    "text": "We know well the power of a Soul Voyager,\nand humbly request your assistance in\ndefeating the Flamewave League."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_INTRO_000_CUT_000_070": {
+    "speaker": "WindPriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Galeforest Alliance\nand the Flamewave League.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_INTRO_000_CUT_000_080": {
+    "speaker": "WindPriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Galeforest Alliance!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_INTRO_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hi. I'm guessing you Gale Temple\nguys also want my help?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_INTRO_010_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Galeforest Alliance do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_INTRO_000_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "Be welcome at the Forest Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_INTRO_000_CUT_000_070": {
+    "speaker": "WoodsPriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Forestgale Alliance\nand the Flamewave League.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_INTRO_000_CUT_000_080": {
+    "speaker": "WoodsPriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Forestgale Alliance!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_INTRO_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hi. I'm guessing you Forest Temple\nguys also want my help?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_INTRO_010_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Forestgale Alliance do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_141_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We must boost our economic strength\nif we hope to win this war. To this end,\nwe are creating factories one after another,\nputting a strain on our energy supply."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_141_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "As our League has heat sources and water\nin abundance, we use steam as our primary\nmeans of generating power."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_141_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, cool... So?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_141_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "The output of our steam plant is dropping.\nShould the Soul Voyager stop by, I am sure\nboth the problem and its solution will be\nmade apparent."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_141_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "And you really think that'll work?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_141_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "These people live in a world crammed full\nof spirit power, and they STILL go out of\ntheir way to get energy through machines?\nThat's so much unnecessary work."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_141_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, where are you\noff to this time?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_141_CUT_000_020": {
+    "speaker": "Nitram",
+    "text": "Ah, you must be the Soul Voyager.\nThe temple told us you'd be coming;\nwe are excited to behold your success."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_141_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sweet! But, um, what am I\nsupposed to DO, exactly?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_141_CUT_000_040": {
+    "speaker": "Nitram",
+    "text": "That should be apparent imminently."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_141_CUT_010_000": {
+    "speaker": "Nitram",
+    "text": "I expected no less from you, Voyager!\nThose fiends are sent by the Forestgale\nAlliance, and perpetually cause damage\nin this place.\fBut today, the plant remains unharmed!\nSadly for the beasts, they cannot say the same."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_141_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "I do not expect the Forestgale Alliance\nto launch another attack any time soon,\nso thank you again for your efforts."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_142_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "With the issue at the steam plant resolved,\nour factories can now operate at full capacity.\nHowever, we've realized our transportation\ninfrastructure cannot handle the output."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_142_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "We need more harbors and ships. Furthermore,\nour current lack of shipyards will surely lead\nto additional problems down the road."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_142_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "You know, if you just learned to fly\nthrough the air on broomsticks,\nyou wouldn't need ships at all."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_142_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "I'd like to ask you to visit a shipyard\nconstruction site, where I feel certain\nyour presence will cause something\nquite beneficial to transpire."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_142_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "It'd be awesome if you could\nbe more vague about it."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So this is where they're\nbuilding the shipyard?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw! My faerie friend ran off again!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "Welcome, Voyager! Your arrival will\nsurely hasten the construction of\nthis important site!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "It will? I mean, yeah, I guess it would!\nI totally get how having a cutie like me\naround would get your workers all fired up."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, everyone's working so hard! Still, I wonder\nhow long I'll need to stay here to keep them\nmotivated, because watching a shipyard being\nbuilt is up there with watching clothes dry."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh? You want me to come this way?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh-oh! Looks like somebody\naccidently left this crate here."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, is this a BOMB!? Oh, yikes!\nWhatever this is doing here,\nthis is NOT where it belongs!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_080": {
+    "speaker": "Atihana",
+    "text": "Are you all right, Voyager!?\nI heard an explosion!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh wow, I didn't think it would ACTUALLY\nexplode! I'm just glad nobody got hurt."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_100": {
+    "speaker": "Atihana",
+    "text": "This is clearly the work of the Forestgale\nAlliance—one of their spies must have\ninfiltrated the site. I will begin a\nthorough investigation at once!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_110": {
+    "speaker": "Atihana",
+    "text": "How did you locate that bomb,\nif you don't mind my asking?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "Magic! I'm a witch, see?\nIt's kind of what I do."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_000_130": {
+    "speaker": "Atihana",
+    "text": "Your being here was a\ngreat blessing. Thank you."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Thanks for your help, faerie friend.\nYou saved all those people!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "If you keep getting in our way, Voyager,\nI'm afraid I'll have to get rid of you."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_142_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Man, you go help out <i>these</i> guys,\nand then <i>those</i> guys hate you for it!\nAlthough to be fair, that's pretty\nmuch how it works in every world."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_143_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "I'm given to understand that you foiled the\nenemy's attempt to sabotage our new shipyard.\nYou Soul Voyagers truly are special beings!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_143_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "Construction of the shipyard is now complete,\noffering a solution to our long-term shipping\nproblems. However, we would like to bring our\nwar with the Forestgale Alliance to a swifter end."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_143_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "You're gonna declare war\non the Forestgale Alliance?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_143_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "The backbone of the Forestgale Alliance's\neconomy is their system of railways.\nSomething must be done about it."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_143_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Look, if you want a war, just go fight\n'em already. I can't stand all this\nsneaky-pants roundabout stuff."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_143_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "All we ask is that you visit a train\nstation of the Forestgale Alliance.\nThe rest will take care of itself."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So this is a Forestgale Alliance train station?\nI'm sure it's handy, but I can't imagine the\nspirits of this land care much for all these\ngiant metal boxes clanging around."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "Ah, the Soul Voyager!\nWhat are you doing here?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I came to see your train line. The people\nof this world only seem to use spirit power\nto craft new technologies—and as a witch,\nthat feels SUPER backward.\fIt's like you're happy to exploit nature,\nbut nature itself means nothing to you."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_030": {
+    "speaker": "Irbas",
+    "text": "Voyagers have no right to criticize our ways.\nObserve if you wish, but know we will be\nclosely monitoring every move you make."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, monitor away! I don't give a...\nWait. You there, on the right.\nDon't I know you from somewhere?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_050": {
+    "speaker": "Nahoj",
+    "text": "......"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_060": {
+    "speaker": "Irbas",
+    "text": "I trust you've seen enough?\nPerhaps it's time you departed."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Thanks for escorting me out, guys.\nIt's been a real delight."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_080": {
+    "speaker": "Irbas",
+    "text": "Where the Voyager travels, calamity follows.\nI am relieved to see that this instance\nproved to be the exception to the—"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ack! Your station just exploded!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_100": {
+    "speaker": "Irbas",
+    "text": "And we were too distracted with the Voyager\nto see it coming! Damn you, Voyager!\nYou have brought ruin upon us!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Seems like all the awesome things they build\nout of spirit power get destroyed by weapons\nthat they build out of <i>other</i> spirit power.\nThis is all just so dumb!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_143_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "I can tell that you're pretty\nupset about it too, faerie friend."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_231_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "Our verdant forests supply the Alliance\nwith an ample amount of lumber. "
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_231_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "Sadly, we have fallen far behind in\nthe task of processing said lumber;\nwe simply cannot afford to maintain\nthe necessary workforce."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_231_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you want to use machines instead."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_231_CUT_000_030": {
+    "speaker": "WoodsPriest",
+    "text": "Indeed we do, which is why the tribes of Forest\nand Gale have begun working together to\nconstruct a mill. Sadly, the project is beset\nwith issues I am hoping you might resolve."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_231_CUT_000_031": {
+    "speaker": "WoodsPriest",
+    "text": "The peoples of gale and forest have begun\nworking together to construct a lumber mill.\nHowever, the project is beset with issues\nthat I am hoping you might resolve."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_231_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I'll give it a shot."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So they're building a mill here, huh?\nI mean, not that I see a whole lot\nof building going on..."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Where you going now,\nfaerie friend?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_020": {
+    "speaker": "Irbas",
+    "text": "I am pleased to see you come, Voyager. Alas,\nthose of the Gale Tribe who are supposed to\nbe helping us construct the mill refuse to work.\fMight I ask you to scold them in my stead?\nWhile they ignore me, they'll not so easily\nshrug off a rebuke from a Soul Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sure! I mean, once I hear\ntheir side of the story."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_040": {
+    "speaker": "Nahoj",
+    "text": "The work is just too dangerous! These woods\nare filled with all manner of horrid beasts,\nand they're perpetually waiting for a chance\nto make us their dinner!\fWe tried telling the Forest Tribe that you can't\nbuild a mill when you're always looking over\nyour shoulder, but they don't seem to care!\nI simply don't understand their kind..."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, nobody wants to end up as someone\nelse's dinner! Lemme take a look and see\nwhat we're dealing with here."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey! These aren't beasts!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_070": {
+    "speaker": "Irbas",
+    "text": "To the Forest Tribe, beasts of the wood are\ntreasured neighbors with whom we coexist.\fAnd while we do eat them at times, our hunting\nseason is primarily for population control.\nWe cannot simply slaughter them indiscriminately\nto ease the nerves of some cowardly wind people!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, well, the creature I fought earlier wasn't\none of your beloved beast neighbors:\nit was actually a fiend!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_090": {
+    "speaker": "Irbas",
+    "text": "Hmm. We <i>have</i> sensed a disturbing decline\nin the beasts' numbers of late, so perhaps\nthis is the reason. Which means...\fOf course! Those villains from the Flamewave\nLeague must be releasing fiends into\nour woods! Might I ask you to cull the\nnumbers of these interlopers, Voyager?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, probably not a bad idea—\nfor the beasts AND you."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_010_000": {
+    "speaker": "Irbas",
+    "text": "Now the Gale Tribe\ncan work without fear."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_231_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "I can't believe the Flamewave League was behind\nthose monsters! They very nearly managed to\ncause strife between us and the Forest Tribe,\nand they will pay dearly for it!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_232_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "Thanks to the new mill, we'll be able to\nfinish some large-scale construction\nprojects that were on hold."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_232_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "Our next project is installing wind turbines in the\nGale Tribe's residential district. If we complete\nthat, the Alliance's energy production will finally\nbe comparable to that of the League."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_232_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I don't see how energy from nature can\nbelong to anybody, but I'll let that go.\nWhat exactly do you want my help with here?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_232_CUT_000_030": {
+    "speaker": "WoodsPriest",
+    "text": "Oh, I appreciate someone who doesn't beat\naround the bush! The crux of it is this: we expect\nthe League to attempt to sabotage the project,\nfor there's no low their kind won't sink to."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_232_CUT_000_031": {
+    "speaker": "WoodsPriest",
+    "text": "Our next project is installing wind turbines\nin the Gale Tribe's residential district.\nBut we expect the League to attempt sabotage,\nfor there's no low their kind won't sink to."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_232_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "You think they'll send fiends\nafter the workers again?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa, they're HUGE! I guess these catch\nthe wind and use it to produce energy?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "Yes, and the greater the project,\nthe harder it is to defend.\fWe've already had a rash of suspicious fires\nthat destroyed precious materials recently\ndelivered from the mill. Without a doubt,\nthis is the work of the Flamewave League."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I can handle this."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey! Stop!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "We've been spotted! Run!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "*yaaawn* I'm...so tired...\nChasing off arsonists night after night\nis NOT what I had in mind when I agreed\nto guard this stupid place!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_060": {
+    "speaker": "Nahoj",
+    "text": "Thanks to you, our materials are safe,\nand construction is proceeding smoothly."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well it sure would be nice if the\nother side got the hint and gave up,\nbut I won't be holding my breath."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh? What now?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_090": {
+    "speaker": "Nahoj",
+    "text": "Fiend! A giant fiend is coming!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Finally bringing out the big guns,\nhuh? Time to stand and fight!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, now they've <i>GOT</i>\nto throw in the towel."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_232_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "What's that? You praising me, fella?\nWell, ain't that just swell."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_233_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "Various industries have been reaping the\nbenefit of the Alliance's new wind energy,\nand our economic prospects seem bright."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_233_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "Sadly, while we strive to live in greater\nharmony with nature than the Flamewave League,\nthis has put us at a disadvantage in the war."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_233_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "Even with our recent gains,\nour loss is inevitable."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_233_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Why would living in harmony with nature\nput you at a disadvantage? You guys really\nneed to put more faith in the wider world\nthat you can't necessarily see."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_233_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "Regardless, our only option now is\nto attack the enemy's infrastructure.\nIf we can destroy the port, we will\ndeal a great blow to their economy!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_233_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Don't think I got through\nto him there."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_233_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Much as I didn't want to do this,\nI couldn't help but wonder."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_233_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Did you feel the same,\nfaerie friend?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_233_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "You have come, Voyager—\njust as our intelligence predicted."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_233_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "We know you are planning to destroy the port,\nand I will not allow it! Your meddling will cause\nno harm to the League today!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_233_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "They didn't listen to a thing I said!\nThey just wanted me to be their decoy\nwhile they blew up the port."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_233_CUT_000_050": {
+    "speaker": "Atihana",
+    "text": "Cease your mumbling!\fNow then, tell me who sent you and\nwhy you have come. I need to hear\na confession from your own lips."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_233_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wake up, dummy. It's already over."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_233_CUT_000_070": {
+    "speaker": "Atihana",
+    "text": "What!?"
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_FWWIN_000_CUT_010_000": {
+    "speaker": "Nitram",
+    "text": "Our long war is finally over!\nThe Flamewave League stands victorious!"
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_FWWIN_000_CUT_010_010": {
+    "speaker": "Atihana",
+    "text": "You mean the <i>Waveflame</i> League."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_FWWIN_000_CUT_010_020": {
+    "speaker": "Nitram",
+    "text": "Our League has proven its dominance\nthanks to the Soul Voyager!"
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_FWWIN_000_CUT_010_030": {
+    "speaker": "Atihana",
+    "text": "Should your travels bring you to this\nworld again, please do visit our temple."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_FWWIN_000_CUT_010_040": {
+    "speaker": "Nitram",
+    "text": "Farewell."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_FWWIN_000_CUT_010_050": {
+    "speaker": "Atihana",
+    "text": "Thanks."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_FWWIN_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Not exactly a heartfelt parting\nfor any of us there.\fWell, I guess I fulfilled my duty as\nthe 'Soul Voyager.' Can't say I feel\nall that good about it, but at least\nnow I'm free to find my cat!"
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_FWWIN_000_CUT_010_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Do you have any idea where\nthe cat might be?"
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_FWWIN_000_CUT_010_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "...What's that? It's <i>still</i> too early\nto go looking for the kitty?"
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_000": {
+    "speaker": "Irbas",
+    "text": "Our long war is finally over!\nThe Forestgale Alliance stands victorious!"
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "You mean the <i>Galeforest</i> Alliance."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_020": {
+    "speaker": "Irbas",
+    "text": "Our Alliance has proven its dominance\nthanks to the Soul Voyager!"
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_030": {
+    "speaker": "Nahoj",
+    "text": "Should your travels bring you to this\nworld again, please do visit our temple."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_040": {
+    "speaker": "Irbas",
+    "text": "Farewell."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_050": {
+    "speaker": "Nahoj",
+    "text": "Thanks."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "So the 'Soul Voyager' was just a tool to\nhelp them win their stupid war—and now\nthat it's over, I get tossed aside?\fI can't decide if I should be furious\nabout this or not care at all."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "So hey, do you happen to know\nwhere a girl might find a cat?"
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, THAT'S not very helpful."
+  },
+  "SUB_W07_FUNC_AMYA_SWITCHPHASE_WWWIN_000_CUT_010_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Seems like someone wants me to continue\nmy fateful visit a little longer, huh?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I really hope we helped to end the war,\nyet somehow I doubt it."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "You have come at an opportune time,\nSoul Voyager!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ugh. I knew it. Whenever I suspect\nsomething is wrong, it usually is."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "Wrong, you say? Yes, we have been feeling much\nthe same—in fact, we now suspect the Wave Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "But the tribes of Flame and Wave made such a\ngreat team when they were working together!\nWhy break that up now?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "As much as I wish it could have continued,\nthe Wave Temple sees things differently,\nand has decreed our people can never be one.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I'll think about it."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_070": {
+    "speaker": "FirePriest",
+    "text": "Take whatever time you need.\nWe await your favorable reply."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "It's everything we feared it\nwould be, faerie friend."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "Everyone here seem to think this world's spirit \npower belongs to them alone, which means they're\njust gonna keep fighting until someone wins!\nWhy can't they see that?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, come on! You Flame Temple\nguys are planning the same thing?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEFIRE_BETRAYAL_010_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "We are resolved to launch an attack\non the Wave Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_BETRAYAL_000_CUT_000_030": {
+    "speaker": "WaterPriest",
+    "text": "Wrong, you say? Yes, we have been feeling much\nthe same—in fact, we now suspect the Flame Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "But the tribes of Flame and Wave made such a\ngreat team when they were working together!\nWhy break that up now?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_BETRAYAL_000_CUT_000_050": {
+    "speaker": "WaterPriest",
+    "text": "As much as I wish it could have continued,\nthe Flame Temple sees things differently,\nand has decreed our people can never be one.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, come on! You Wave Temple\nguys are planning the same thing?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWATER_BETRAYAL_010_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "We are resolved to launch an attack\non the Flame Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_BETRAYAL_000_CUT_000_030": {
+    "speaker": "WindPriest",
+    "text": "Wrong, you say? Yes, we have been feeling much\nthe same—in fact, we now suspect the Forest Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "But you and the Forest Tribe were a team!\nWhy break up the alliance?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_BETRAYAL_000_CUT_000_050": {
+    "speaker": "WindPriest",
+    "text": "As much as I wish it could have continued,\nthe Forest Temple sees things differently,\nand claims the forest has no need of wind.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, come on! You Gale Temple\nguys are planning the same thing?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWIND_BETRAYAL_010_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "We are resolved to launch an attack\non the Forest Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_BETRAYAL_000_CUT_000_030": {
+    "speaker": "WoodsPriest",
+    "text": "Wrong, you say? Yes, we have been feeling much\nthe same—in fact, we now suspect the Gale Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "But you and the Gale Tribe were a team!\nWhy break up the alliance?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_BETRAYAL_000_CUT_000_050": {
+    "speaker": "WoodsPriest",
+    "text": "As much as I wish it could have continued,\nthe Gale Temple sees things differently,\nand declared the woods an obstacle to wind.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, come on! You Forest Temple\nguys are planning the same thing?"
+  },
+  "SUB_W07_EVAR_AMYA_TEMPLEWOODS_BETRAYAL_010_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "We are resolved to launch an attack\non the Gale Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_101_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We were able to claim victory in our war\nagainst the Forestgale Alliance due to our\nsuperior energy production."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_101_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "So are you going to build\nanother steam power plant?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_101_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "No. That would take far too long, causing\nus to fall behind in the war against the\nwave people. Instead, we seek to upgrade\nour current plant."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_101_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, that's sounds like a job for an\nengineer or something. Way above this\ngirl's pay grade, at any rate."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_101_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "I ask only that you visit the plant.\nThat should ensure all goes smoothly."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_101_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's really all the explanation\nyou're going to give me?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_101_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "The energy from this plant is shared with\nthe Wave Tribe, right? So why can't you\nboth collaborate on it?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_101_CUT_000_010": {
+    "speaker": "Nitram",
+    "text": "Because their incessant harassment\nhas completely stalled our plans\nto upgrade the power plant!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_101_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Er, harassment?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_101_CUT_000_030": {
+    "speaker": "Nitram",
+    "text": "They loose fiends near the cooling pools,\nwhich both endangers our staff and reduces\nthe plant's efficiency."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_101_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "See, now that's the sort of thing\nI <i>can</i> help with. Lemme at 'em!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_101_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I could see how those fiends would give the\nFlame Tribe trouble, but they really weren't\nmuch to write home about. I don't think the\nWave Tribe was all that serious about this."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_101_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "While you have my gratitude, Voyager,\nyou know little of the Wave Tribe.\nThey are indeed set on annihilating\nour kind!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_102_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We wish to make use of various minerals\nwhich can be obtained from volcanoes."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_102_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oooh, a special volcanic mineral?\nLike the kind that can be used\nas a catalyst for magic?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_102_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "No, they are nothing so special.\nWe simply intend to melt them down\nwith the energy from our plant."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_102_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, you're melting them with machines?\nThese things come from a VOLCANO!\nJust use that to melt 'em!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_102_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "You seem rather ignorant about our technology,\nVoyager. We intend to build proper forges,\nand use them to produce more potent weaponry\nthat will ensure our victory."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_102_CUT_000_041": {
+    "speaker": "FirePriest",
+    "text": "We intend to build proper forges,\nand use them to produce more potent\nweaponry that will ensure our victory."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_102_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "If I were you, I'd be doing a lot more\ninner contemplation and a lot less\nweapon production."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_102_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wowzers! It's hot!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_102_CUT_000_010": {
+    "speaker": "Nitram",
+    "text": "What you are feeling is the heat from the\nvolcano mingling with our fiery enthusiasm\nfor these ironworks."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_102_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ugggh, this heat is miiiserable.\nI just wanna get out of here\nbefore I sweat my skin off."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_102_CUT_000_030": {
+    "speaker": "Nitram",
+    "text": "The fire fiends here don't like our presence.\nAnd while we're not afraid of their attacks,\nper se, we also haven't figured out an\neffective strategy to combat them."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_102_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, well, lemme see what I can figure\nout before I melt into a puddle of goo."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_102_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "All this heat and I STILL got the\njob done! Man, I'm good."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_102_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "Thank you! Now we can finish the\nironworks without further incident."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_103_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We have arrived at a decision, Voyager:\nwe are going to destroy the shipyard\nthat once stood as a proud symbol\nof the Flamewave League's unity."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_103_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "You know what? Fine. It's your world,\nand you can do what you want with it.\fGo ahead! Waste all your power building things\nand then destroying them. See if I care.\nThis world is in a state of disaster,\nand that disaster is ALL OF YOU!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_103_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "But you must understand, the psychological\ndamage this will deal to the Wave Tribe is the\nbest way to ensure a rapid victory."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_103_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "So what part of 'see if I care' didn't\nget through to you? Go hog wild, man!\nJust don't ask me to help."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_103_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "We will win this war with or without\nyour assistance, Soul Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_103_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I wonder if they'll really go through\nwith destroying the shipyard."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_103_CUT_000_010": {
+    "speaker": "Nitram",
+    "text": "I understand how you must feel, Voyager,\nseeing as you once risked your life in defense\nof the shipyard. But there is no other choice\nleft to us."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_103_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I wasn't the one who defended the shipyard—\nit was my faerie friend. Speaking of,\nI wonder how they feel about that now."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_103_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This is all just so sad...\nHow did it come to this?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_103_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, that's it. I'm done.\nI'm gonna find my cat and bounce."
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_100_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We have destroyed all the enemy\ntemples thanks to your good work."
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_100_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Look, I know I'm just a traveler here,\nbut did you always see the other people\nof this world as your enemies?"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_100_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "No, of course not. Regardless, now that only\nthe Flame Temple remains, we can finally\ncover the entirety of Cinq with magma.\nThen only we will remain!"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_100_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "You have served us well, Soul Voyager,\nand I wish to grant you tribute.\nWhat is it you desire?"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_100_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Where's my dang cat already!?"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_100_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "You know what? I'm good."
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_100_CUT_000_060": {
+    "speaker": "FirePriest",
+    "text": "Er, what is...a 'cat'?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_401_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "Our transportation infrastructure gives us an\nadvantage over the Flame Tribe, for we can move\nmore on our waterways than on any land route—\nso long as we have the ships, that is."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_401_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you're going to\nbuild a new shipyard?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_401_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "No. That would take far too long, causing\nus to fall behind in the war against the\nFlame Tribe. Instead, we seek to upgrade\nour current one."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_401_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, that's sounds like a job for an\nengineer or something. Way above this\ngirl's pay grade, at any rate."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_401_CUT_000_040": {
+    "speaker": "WaterPriest",
+    "text": "I ask only that you visit the shipyard.\nThat should ensure all goes smoothly."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_401_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's really all the explanation\nyou're going to give me?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_401_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This is the shipyard you defended.\nFigured I might as well pay it a visit."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_401_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I heard you were going to upgrade it,\nbut what did you even have in mind?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_401_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "While our shipyard is capable of producing\nlarge-scale vessels, its facilities are\nlacking due to its hasty construction\nin the midst of the war.\fAnd since building large vessels is an\ninefficient process at the best of times,\nwe must see this situation rectified."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_401_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you're looking to improve your facilities\nto build large ships more efficiently?\nI <i>knew</i> this wasn't a job for me."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_401_CUT_000_040": {
+    "speaker": "Atihana",
+    "text": "Ha ha! We certainly do not expect your help\nwith <i>that</i>, Voyager. We have specialists\nin that field arriving any min—"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_401_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "That ship's under attack!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_401_CUT_010_000": {
+    "speaker": "Atihana",
+    "text": "You truly have a knack for being where\nyou are needed most, Voyager."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_401_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are you sure I don't just\ninvite trouble wherever I go?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_402_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "Our waterways are now so crowded that\nwe fear the possibility of a collision."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_402_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "See, this is EXACTLY why I told you to\nlook into broomsticks! So what's the plan?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_402_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "We intend to construct a lighthouse\nand highlight safe shipping routes."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_402_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "A new construction project. Of course.\nWell, when this lighthouse is done,\nI might just come to see it."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_402_CUT_000_040": {
+    "speaker": "WaterPriest",
+    "text": "Actually, I would prefer\nthat you go see it now."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_402_CUT_000_041": {
+    "speaker": "WaterPriest",
+    "text": "I would like you to visit the\nlighthouse construction site."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_402_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Because something bad's gonna happen?\nYeah, I know the drill."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_402_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, this is where you're building the\nlighthouse? There's nothing here."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_402_CUT_000_010": {
+    "speaker": "Atihana",
+    "text": "And had you not agreed to come, there would\nnever be a lighthouse to see, for fiends are\npreventing us from building it."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_402_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "And were those fiends also\nsent by the Flame Temple?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_402_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "No, in fact—these appear to be native\ncreatures who simply don't appreciate\nwhat we're doing in their territory."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_402_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well if there's one thing I actually\n<i>can</i> help with, it's driving off fiends!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_402_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ugh! How many of these things\ndo I have to fight?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_402_CUT_010_010": {
+    "speaker": "Atihana",
+    "text": "The fiends should calm down once\nconstruction is finished and we\nvacate the area."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_402_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "So not anytime soon, then."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_403_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "We have arrived at a decision, Voyager:\nwe are going to destroy the steam plant\nthat once stood as a proud symbol of\nthe Waveflame League's unity."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_403_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "But that'll hurt YOUR people too!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_403_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "Yes, but it is still the best way to ensure\na rapid victory against the Flame Tribe."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_403_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Seems like a pretty meaningless\nvictory to me."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_403_CUT_000_040": {
+    "speaker": "WaterPriest",
+    "text": "No one asked for your opinion."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_403_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "How are you going to stop 'em?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_403_CUT_000_010": {
+    "speaker": "Atihana",
+    "text": "If the pressure of the steam exceeds\na certain level, the plant will explode.\nAccidents do happen, after all."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_403_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "So the Wave Temple knows in advance\nthat an accident is going to happen?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_403_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "Everyone knows about the potential for\naccidents. If this one causes excessive\ndamage, it will be on the Flame Tribe for\nnot taking proper precautions."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_403_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's no excuse for causing an accident!"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_400_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "As the Wave Tribe cannot survive for long in\nthe open air, we have no intentions of stealing\nthe lands of others. All we desire is for all to\nlive in peace within their own territories."
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_400_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then why wage war with\nother people at all?"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_400_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "Because they looked to conquer <i>us</i>! No,\nthe peace we sought could only be secured\nthrough the destruction of all other temples."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_301_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "We must increase our energy capacity without\nattracting attention from the Forest Tribe.\nTo this end, we seek to upgrade our output\nof wind energy."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_301_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "By pretending you're looking for\nthings that need to be fixed?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_301_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "Yes, exactly so! Ah, but it is a relief\nto have your keen insight on our side,\nSoul Voyager."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_301_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "I feel like the Forest Tribe\nwill definitely notice that."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_301_CUT_000_040": {
+    "speaker": "WindPriest",
+    "text": "Indeed, the Forest Tribe is certain to\ncome investigate our dealings. Sadly,\nI am at a loss for how to deter them."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_301_CUT_000_041": {
+    "speaker": "WindPriest",
+    "text": "Might I ask you to visit the wind farm?\nI have no desire to risk trouble between\nour peoples at this point. "
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_301_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, I'll go—but only to keep more\ndumb fights from breaking out!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_301_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Looks like a lot of the Gale Tribe\nhas come to observe the windmills—\nEr, or to surveil them, I suppose."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_301_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "It will be impossible to replace the\ncomponents necessary to boost our output\nwith so many people watching, Voyager.\nWhat is to be done?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_301_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Maybe you could drive some\nfiends into the area?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_301_CUT_000_030": {
+    "speaker": "Nahoj",
+    "text": "An interesting thought... Yet while the\nForest Tribe would certainly pay us little\nmind during a fiend attack, it would also\nplace our workers in grave danger."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_301_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "You can leave that to me!\nI'll make sure your work goes smoothly."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_301_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa! That's a WILD\namount of fiends!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_301_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "We may have gotten carried away a bit,\nand for this, I apologize. But surely\nthey were no more than a minor\ninconvenience for you, Voyager?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_302_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "As there has been no change to the Forest\nTribe's supply of energy, they currently\nsuspect nothing. We must use this chance\nto strengthen our own position."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_302_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "So what are you going to do?\nMake weapons or something?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_302_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "We intend to take measures such as increasing\nfood production in order to become fully self-\nsufficient. In this way, we can continue the\nwar even after the forest people cut off trade."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_302_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "That...actually sounds like a\npositive thing for your people.\nI'm surprisingly on board."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_302_CUT_000_040": {
+    "speaker": "WindPriest",
+    "text": "Then I'd appreciate if you could visit\nour farm, as its output is not increasing\nin quite the way we had expected."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_302_CUT_000_041": {
+    "speaker": "WindPriest",
+    "text": "I would like you to visit our farm;\nits output is not increasing in quite\nthe way we had expected."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_302_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "I don't know the first thing about farming,\nbut I'm sure it'll turn into one of those\n'Soul Voyager' things once I show up."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_302_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So this isn't the fields kind of farm,\nit's the barn kind of farm! And from the\nsize of this place, it should be able to\nproduce tons of food for the Gale Tribe."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_302_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "With our wind power, even a small amount of\npeople can raise a large amount of livestock.\nThese will be used not only for consumption,\nbut for trade with other regions as well."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_302_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sounds pretty great to me.\nSo what's the problem?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_302_CUT_000_030": {
+    "speaker": "Nahoj",
+    "text": "Barns are of little use with no livestock to\nfill them—but before we can gather our herds\nfrom the pastures, we must deal with the\nvarious fiends in the area."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_302_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "And you just realized this now?\n...Oh, fine. I'll do what I can to\nhelp you with the fiends."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_302_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "There. Done. The rest is up to you."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_302_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "Thank you, Voyager! Without your help,\nwe would be up for a severe tongue-lashing\nfrom our leaders at the temple."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_302_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yikes, man. What sort of jerks\nare you working for here?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_303_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "The Forest Tribe are completely oblivious,\nand one small push may be all it takes to\nwin their surrender. As such, I intend to\nattack their lumber mill."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_303_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Is defeating their neighbors all the\npeople of this world ever think about?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_303_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "Such an attack is the best way to\nminimize damage on both sides,\nand therefore the optimal strategy."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_303_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Or you could consider the optimal-<i>er</i>\nstrategy of not fighting at all."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_303_CUT_000_040": {
+    "speaker": "WindPriest",
+    "text": "No one is asking you to participate\nin the attack, Soul Voyager!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_303_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "It wasn't that long ago that the tribes of forest\nand gale came together to build this mill.\nI guess bringing two different peoples together\nisn't always a good thing..."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_303_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "We worked ourselves near to death in this forest,\nyet the Forest Tribe never made any effort to\nunderstand our ways. For us, this place holds\nnaught but painful memories."
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_300_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "Now we can finally raze this terrible forest!\nWe will turn it from a terrifying den of beasts\ninto a peaceful grassland savanna—for one cannot\nlive on lava and water, nor grow crops there."
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_300_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's <i>your</i> way of life—you think the\nwind will just keep blowing as usual if all the\nwoods disappear? Nature is connected in ways\nyou people don't seem to understand!"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_300_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "There will still be trees, Voyager—there is\nsimply no need for such dense forestland.\nAll that matters is the wind blowing through\nthe new grassy plains."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_201_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "How are we to defend ourselves from an assault by\nthe Gale Tribe? Alas, while we of the Forest Tribe\ncannot match their strength, we've no choice but\nto throw away our lives in the effort."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_201_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, I don't know—maybe try <i>talking</i> to\nthe Gale Tribe instead of attacking them\nall the time?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_201_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "Yes, we will definitely try that...\nand afterward, we will optimize the\nlumber mill! That is our only hope."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_201_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well if there's anything I can\ndo to help, just lemme know."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_201_CUT_000_040": {
+    "speaker": "WoodsPriest",
+    "text": "I would appreciate you going to the mill,\nfor I know your presence will bring\ngreat cheer to all the workers."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_201_CUT_000_041": {
+    "speaker": "WoodsPriest",
+    "text": "I would appreciate you going to the mill,\nfor I know your presence will bring\ngreat cheer to all the workers."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_201_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa, there's a huge crowd of Gale\nTribe people gathered at the mill.\nWhat are they all doing?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_201_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "We laid off laborers who will no longer be\nneeded due to the mill upgrades, and now\nthey're interfering with the process!\fWe even offered to find them new jobs,\nbut they refuse to listen."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_201_CUT_000_020": {
+    "speaker": "Irbas",
+    "text": "We may have to take stronger\nmeasures to remove them."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_201_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Just because you're in charge and they're not\ndoesn't mean you can ignore their opinions!\nAlso, I feel like these 'stronger measures'\nof yours will only make things worse."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_201_CUT_000_040": {
+    "speaker": "Irbas",
+    "text": "Look out! Some of the fiends the\nFlamewave League sent are still alive!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_201_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Now THIS I can handle!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_201_CUT_010_000": {
+    "speaker": "Irbas",
+    "text": "With the former workers scattered,\nwe can now upgrade the mill."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_201_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Were those really fiends left over from\nthe Flamewave League? 'Cause I mean,\nthey wouldn't... Right?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_202_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "Our talks with the Gale Tribe did nothing\nbut heighten suspicions. We should never\nhave engaged with them at all."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_202_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oof. Sorry to hear that. But I still\nbelieve that talking to each other\nis the only way to—"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_202_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "In response, we've formed a cavalry composed\nof workers who were made redundant by the mill\nupgrade. That should allow us to match the\nspeed of the gale peoples' forces."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_202_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "And if you've got a cavalry,\nI'm guessing you'll need stables?"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_202_CUT_000_040": {
+    "speaker": "WoodsPriest",
+    "text": "You guess correctly. As such, we would ask\nyou to visit the construction site, as we\nanticipate interference from the Gale Tribe."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_202_CUT_000_041": {
+    "speaker": "WoodsPriest",
+    "text": "We would ask you to visit the construction\nsite of the stables, as we anticipate\ninterference from the Gale Tribe."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_202_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "If you both share this paranoid attitude,\nno amount of discussion is going to\naccomplish anything."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_202_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Do you really think the Gale Tribe will\ntry to interfere? I mean, I suppose it's\na possibility with the peace talks breaking\ndown and all, but still."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_202_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "The wind blows in a strange direction today... \nI wonder if the Gale Tribe is using it\nto send some fell beast after us."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_202_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "What do you mean?"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_202_CUT_000_030": {
+    "speaker": "Irbas",
+    "text": "There!"
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_202_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are you sure the Gale Tribe sent the fiends?\nBecause the timing of their appearance\ncould just be some huge coincidence."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_202_CUT_010_010": {
+    "speaker": "Irbas",
+    "text": "You cannot possibly believe that."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_202_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I sure <i>hope</i> it's true."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_203_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "The Gale Tribe derives its strength\nfrom the energy of their wind farm.\nWithout it, they are powerless."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_203_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Don't tell me you're planning\nto destroy it!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_203_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "The Gale Tribe uses their mastery of the breezes\nto send countless fiends after us. We have no\noption but to destroy the farm—although I do not\nknow if we actually possess the power to do so. "
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_203_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Without wind power, you'll have to return\nto your preindustrial way of life—although\nthat might not be such a bad thing."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_TEXT_203_CUT_000_040": {
+    "speaker": "WoodsPriest",
+    "text": "I concur wholeheartedly. So long as we\nhave our forest, we will always be able\nto fend for ourselves."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_203_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I can't believe they're going to\ndestroy the wind farm after they\nspent so long building the thing."
+  },
+  "SUB_W07_EVAR_AMYA_MISSION_203_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "We will set the wind farm to burn.\nIf we are slain in the effort,\nI leave the fate of the Forest Tribe\nin your hands, Voyager. Farewell."
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_200_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "The strength of the Gale Temple has been\nreduced to nothing, and we can now live\nlives free of worry.\fAll praise to the forests, for they will\nnow spread unchecked across all of Cinq,\nrealizing our dream of a green world!"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_200_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I mean, sure, that's a beautiful thought.\nBut even if this world <i>was</i> covered with\nforests, the forces of fire, water, and wind\nwould all reemerge from them at some point.\fI mean, you're sustained by more\nthan forests. You know that, right?"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_200_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "While you may be correct, our dominance\nwill remain unchallenged so long as\neverything is born from the forest."
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_110_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Can't believe I'm going home without finding\nmy cat. I have no idea what those stupid\ngreen lines thought they were doing!"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_110_CUT_000_010": {
+    "speaker": "SoulSprite",
+    "text": "Meow!"
+  },
+  "SUB_W07_EVAR_AMYA_GAMEOVER_110_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, the cat was you all along!?\nThanks for guiding me, kitty!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_010_CUT_000_000": {
+    "speaker": "Priest",
+    "text": "Right, then. Take it away."
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Hold your horses!"
+  },
+  "SUB_W07_FUNC_AMYA_MISSIONCONFIRMATION_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Let me at it!"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "MBody_Diva_No5_ItemName": {
+    "speaker": "UI",
+    "text": "Virginia"
+  },
+  "MBody_Diva_No5_ItemExp": {
+    "speaker": "UI",
+    "text": "BP cost -1 when at half health."
+  },
+  "MBody_Diva_No5_01_ItemName": {
+    "speaker": "UI",
+    "text": "Retro Pod"
+  },
+  "MBody_Diva_No5_01_ItemExp": {
+    "speaker": "UI",
+    "text": "Defensive resistances +10%."
+  },
+  "MBody_Diva_No5_02_ItemName": {
+    "speaker": "UI",
+    "text": "Shanks"
+  },
+  "MBody_Diva_No5_02_ItemExp": {
+    "speaker": "UI",
+    "text": "Combo range +1."
+  },
+  "MBody_Diva_No5_03_ItemName": {
+    "speaker": "UI",
+    "text": "Mover"
+  },
+  "MBody_Diva_No5_03_ItemExp": {
+    "speaker": "UI",
+    "text": "Mech support techs BP cost -1."
+  },
+  "MBody_Diva_No5_04_ItemName": {
+    "speaker": "UI",
+    "text": "Battle Tank"
+  },
+  "MBody_Diva_No5_04_ItemExp": {
+    "speaker": "UI",
+    "text": "Delay +1."
+  },
+  "MBody_Diva_No5_05_ItemName": {
+    "speaker": "UI",
+    "text": "Paradox"
+  },
+  "MBody_Diva_No5_05_ItemExp": {
+    "speaker": "UI",
+    "text": "Target's block chance -20%."
+  },
+  "MBody_Maki_Diva_No5_01_ItemName": {
+    "speaker": "UI",
+    "text": "Mana Machine"
+  },
+  "MBody_Maki_Diva_No5_01_ItemExp": {
+    "speaker": "UI",
+    "text": "Allows the use of relics."
+  }
+}

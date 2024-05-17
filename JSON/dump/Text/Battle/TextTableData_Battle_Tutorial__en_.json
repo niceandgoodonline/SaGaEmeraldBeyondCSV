@@ -1,0 +1,146 @@
+{
+  "InspirationNormal_Category": {
+    "speaker": "UI",
+    "text": "Basic Mechanics"
+  },
+  "InspirationNormal_Title": {
+    "speaker": "UI",
+    "text": "Glimmers"
+  },
+  "InspirationNormal_Text": {
+    "speaker": "UI",
+    "text": "During battle, allies will sometimes perform\na new tech that is related to the weapon\nthey currently have equipped.\nThis is called a 'glimmer'!"
+  },
+  "InspirationOriginal_Category": {
+    "speaker": "UI",
+    "text": "Racial Traits"
+  },
+  "InspirationOriginal_Title": {
+    "speaker": "UI",
+    "text": "Custom Techs"
+  },
+  "InspirationOriginal_Text": {
+    "speaker": "UI",
+    "text": "Humans will sometimes perform new\ntechs based on the one they just used.\nThis is called a 'custom tech'!"
+  },
+  "InspirationTrace_Category": {
+    "speaker": "UI",
+    "text": "Racial Traits"
+  },
+  "InspirationTrace_Title": {
+    "speaker": "UI",
+    "text": "Mimicking"
+  },
+  "InspirationTrace_Text": {
+    "speaker": "UI",
+    "text": "<i>Kugutsu</i> will sometimes imitate the\nmovements of others in battle, reproducing\nthe tech they used and making it their own.\nThis is called 'mimicking'!"
+  },
+  "OverAttack_Category": {
+    "speaker": "UI",
+    "text": "Basic Mechanics"
+  },
+  "OverAttack_Title": {
+    "speaker": "UI",
+    "text": "United Attacks"
+  },
+  "OverAttack_Text": {
+    "speaker": "UI",
+    "text": "Each tech has its own <emoji CoopRange01> combo range.\nWhen these ranges meet on the timeline,\nthe attacks join together to great effect.\nThis is called a 'United Attack'!"
+  },
+  "OverDrive_Category": {
+    "speaker": "UI",
+    "text": "Basic Mechanics"
+  },
+  "OverDrive_Title": {
+    "speaker": "UI",
+    "text": "Overdrive"
+  },
+  "OverDrive_Text": {
+    "speaker": "UI",
+    "text": "When your retinue's combined efforts cause\nyour combo rate to reach a sufficient level,\nthey will sometimes unleash a combo that\npushes a United Attack to the limit.\nThis is called 'overdrive'!"
+  },
+  "SingleStage_Category": {
+    "speaker": "UI",
+    "text": "Basic Mechanics"
+  },
+  "SingleStage_Title": {
+    "speaker": "UI",
+    "text": "Showstoppers"
+  },
+  "SingleStage_Text": {
+    "speaker": "UI",
+    "text": "When an ally has no one in the vicinity,\nthey can call upon their strength to unleash\na mighty sequence of solo attacks.\nThis is called a 'showstopper'!"
+  },
+  "Interrupt_Category": {
+    "speaker": "UI",
+    "text": "Conditionals"
+  },
+  "Interrupt_Title": {
+    "speaker": "UI",
+    "text": "Interrupts"
+  },
+  "Interrupt_Text": {
+    "speaker": "UI",
+    "text": "Allies have the ability to react to\nthe affinity of an enemy tech and\npreempt it with one of their own.\nThis is called an 'interrupt'!"
+  },
+  "Chase_Category": {
+    "speaker": "UI",
+    "text": "Conditionals"
+  },
+  "Chase_Title": {
+    "speaker": "UI",
+    "text": "Pursuits"
+  },
+  "Chase_Text": {
+    "speaker": "UI",
+    "text": "By deciding on a target in advance,\nallies can hit foes with surprise attacks\nlaunched immediately after they act.\nThis is called a 'pursuit'!"
+  },
+  "Follow_Category": {
+    "speaker": "UI",
+    "text": "Conditionals"
+  },
+  "Follow_Title": {
+    "speaker": "UI",
+    "text": "Chains"
+  },
+  "Follow_Text": {
+    "speaker": "UI",
+    "text": "Allies can rush to the aid of\nwhoever acted first and launch\nan attack at the same target.\nThis is called a 'chain'!"
+  },
+  "Counter_Category": {
+    "speaker": "UI",
+    "text": "Conditionals"
+  },
+  "Counter_Title": {
+    "speaker": "UI",
+    "text": "Counterattacks"
+  },
+  "Counter_Text": {
+    "speaker": "UI",
+    "text": "When targeted by an enemy attack,\nallies can nullify the assault and fire\nback with a strike of their own.\nThis is called a 'counterattack'!"
+  },
+  "Protect_Category": {
+    "speaker": "UI",
+    "text": "Conditionals"
+  },
+  "Protect_Title": {
+    "speaker": "UI",
+    "text": "Protects"
+  },
+  "Protect_Text": {
+    "speaker": "UI",
+    "text": "Allies have the ability to fend off\nattacks, or even take attacks that\nwere meant for someone else.\nThis is called a 'protect'!"
+  },
+  "MonsterCapture_Category": {
+    "speaker": "UI",
+    "text": "Racial Traits"
+  },
+  "MonsterCapture_Title": {
+    "speaker": "UI",
+    "text": "Monster Absorption"
+  },
+  "MonsterCapture_Text": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Magu_big>Relic-bearers and monsters\ncan absorb fallen foes,\nclaiming their techs for themselves!"
+  }
+}

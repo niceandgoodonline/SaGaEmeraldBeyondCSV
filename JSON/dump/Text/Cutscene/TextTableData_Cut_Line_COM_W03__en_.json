@@ -1,0 +1,90 @@
+{
+  "SUB_W03_EVAR_COMM_GLUTTONY_FOOD_BATTLE_010_CUT_010_180": {
+    "speaker": "Lord_Gluttony",
+    "text": "Don't make me lau—HURK!"
+  },
+  "SUB_W03_EVAR_COMM_GLUTTONY_FOOD_BATTLE_100_CUT_010_020": {
+    "speaker": "Lord_Gluttony",
+    "text": "Uwargh!"
+  },
+  "SUB_W03_EVAR_COMM_ALL_LUST_DOLORES_100_CUT_010_020": {
+    "speaker": "Lord_Lust",
+    "text": "Aaargh!"
+  },
+  "SUB_W03_EVAR_COMM_ALL_SLOTH_NOTHING_000_CUT_010_070": {
+    "speaker": "Lord_Sloth",
+    "text": "Aaargh!"
+  },
+  "SUB_W03_EVAR_COMM_ALL_RAGE_FIRE_000_CUT_000_270": {
+    "speaker": "Lord_Rage",
+    "text": "Aaargh!"
+  },
+  "SUB_W03_EVAR_COMM_GRAVE_RETURN_PRIDE_000_CUT_000_010": {
+    "speaker": "Dolores",
+    "text": "Master!"
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_PRIDE_110_CUT_000_000": {
+    "speaker": "Dolores",
+    "text": "Master!"
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_NOKING_000_CUT_000_030": {
+    "speaker": "Lord_Sloth",
+    "text": "To think there would be people stupid\nenough to open this gate..."
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_NOKING_000_CUT_000_040": {
+    "speaker": "Lord_Gluttony",
+    "text": "And now the truth is known: you'd hoped\nto meet the Dismal King, but found only\nan empty castle. I hope you are happy."
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_NOKING_000_CUT_000_050": {
+    "speaker": "Lord_Lust",
+    "text": "Yes indeed! The king is gone, and not even\nwe wardens know where he might be.\nPerhaps he fled this life. Perhaps he died."
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_NOKING_000_CUT_000_060": {
+    "speaker": "Lord_Rage",
+    "text": "We're the damn wardens of the watchtowers!\nAnd while we've taken charge of them from\nthe king, his absence is still troubling."
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_NOKING_000_CUT_000_070": {
+    "speaker": "Lord_Sloth",
+    "text": "If it were to become known that our lord\nhas abandoned his fortress, the people of\nthis world would no longer heed us."
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_NOKING_000_CUT_000_080": {
+    "speaker": "Lord_Gluttony",
+    "text": "But if they believe we have sealed him away,\nthey also believe the four of us possess\na strength greater than his own."
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_NOKING_000_CUT_000_090": {
+    "speaker": "Lord_Lust",
+    "text": "Oh, but I'm breaking out in goosebumps\njust thinking about what punishment\nawaits these interlopers!"
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_NOKING_000_CUT_000_100": {
+    "speaker": "Lord_Rage",
+    "text": "Don't worry: the four wardens of the\nwatchtowers will make sure there are\nalways pretty flowers on your grave!"
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_MONSTER_000_CUT_000_050": {
+    "speaker": "Lord_Sloth",
+    "text": "Oh, but you worked so very hard to meet\nthe Dismal King! Stay awhile, friends!\nBask in his presence!"
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_MONSTER_000_CUT_000_060": {
+    "speaker": "Lord_Gluttony",
+    "text": "The Dismal King eventually took that form\nafter repeatedly devouring his subordinates.\nAlas, one must always take care not to overeat."
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_MONSTER_000_CUT_000_070": {
+    "speaker": "Lord_Lust",
+    "text": "Eventually, the wardens of the seven\nwatchtowers joined forces to seal\nthe Dismal King away in his castle."
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_MONSTER_000_CUT_000_080": {
+    "speaker": "Lord_Rage",
+    "text": "And although three towers and their\nwardens fell to ruin, we remaining\nfour kept watch over the seal."
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_MONSTER_000_CUT_000_090": {
+    "speaker": "Lord_Lust",
+    "text": "Do enjoy your little tryst\nwith the Dismal King!"
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_MONSTER_010_CUT_000_050": {
+    "speaker": "Lord_Rage",
+    "text": "You were strong enough to defeat even the\nfour wardens of the watchtowers—which means\nyou might be strong enough to seal away\nthe Dismal King's power!"
+  },
+  "SUB_W03_EVAR_COMM_CASTLE_FINAL_MONSTER_010_CUT_000_090": {
+    "speaker": "Lord_Sloth",
+    "text": "Yes, we've been searching for powerful\npeople such as yourselves who might\nfight the king in our stead."
+  }
+}

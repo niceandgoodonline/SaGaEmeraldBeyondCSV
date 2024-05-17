@@ -1,0 +1,92 @@
+{
+    "RANK_001": {
+        "BidNum": 3, 
+        "ExhibitNum": 1, 
+        "Exp": 3, 
+        "NpcExhibitNum": 3
+    }, 
+    "RANK_002": {
+        "BidNum": 3, 
+        "ExhibitNum": 2, 
+        "Exp": 20, 
+        "NpcExhibitNum": 3
+    }, 
+    "RANK_003": {
+        "BidNum": 4, 
+        "ExhibitNum": 2, 
+        "Exp": 100, 
+        "NpcExhibitNum": 4
+    }, 
+    "RANK_004": {
+        "BidNum": 4, 
+        "ExhibitNum": 3, 
+        "Exp": 400, 
+        "NpcExhibitNum": 4
+    }, 
+    "RANK_005": {
+        "BidNum": 5, 
+        "ExhibitNum": 3, 
+        "Exp": 600, 
+        "NpcExhibitNum": 5
+    }, 
+    "RANK_006": {
+        "BidNum": 6, 
+        "ExhibitNum": 4, 
+        "Exp": 1200, 
+        "NpcExhibitNum": 6
+    }, 
+    "RANK_007": {
+        "BidNum": 7, 
+        "ExhibitNum": 4, 
+        "Exp": 1800, 
+        "NpcExhibitNum": 7
+    }, 
+    "RANK_008": {
+        "BidNum": 8, 
+        "ExhibitNum": 5, 
+        "Exp": 0, 
+        "NpcExhibitNum": 8
+    }, 
+    "RANK_009": {
+        "BidNum": 8, 
+        "ExhibitNum": 5, 
+        "Exp": 0, 
+        "NpcExhibitNum": 8
+    }, 
+    "RANK_010": {
+        "BidNum": 8, 
+        "ExhibitNum": 5, 
+        "Exp": 0, 
+        "NpcExhibitNum": 8
+    }, 
+    "RANK_011": {
+        "BidNum": 8, 
+        "ExhibitNum": 5, 
+        "Exp": 0, 
+        "NpcExhibitNum": 8
+    }, 
+    "RANK_012": {
+        "BidNum": 8, 
+        "ExhibitNum": 5, 
+        "Exp": 0, 
+        "NpcExhibitNum": 8
+    }, 
+    "RANK_013": {
+        "BidNum": 8, 
+        "ExhibitNum": 5, 
+        "Exp": 0, 
+        "NpcExhibitNum": 8
+    }, 
+    "RANK_014": {
+        "BidNum": 8, 
+        "ExhibitNum": 5, 
+        "Exp": 0, 
+        "NpcExhibitNum": 8
+    }, 
+    "RANK_015": {
+        "BidNum": 8, 
+        "ExhibitNum": 5, 
+        "Exp": 0, 
+        "NpcExhibitNum": 8
+    }
+}

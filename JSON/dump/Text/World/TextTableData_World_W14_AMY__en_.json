@@ -1,0 +1,34 @@
+{
+  "W14_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Providence, Realm of Visions"
+  },
+  "W14_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Countless visions unfold before your eyes. Could one of them lead you to your cat?"
+  },
+  "W14_EVAR_AMYA_VISION_EXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Vision of Miyako City"
+  },
+  "W14_EVAR_AMYA_VISION_EXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W14_EVAR_AMYA_VISION_EXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Miyako City"
+  },
+  "W14_EVAR_AMYA_NEKO_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat"
+  },
+  "W14_EVAR_AMYA_NEKO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You see a vision of a cat."
+  },
+  "W14_EVAR_AMYA_NEKO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Cat"
+  }
+}

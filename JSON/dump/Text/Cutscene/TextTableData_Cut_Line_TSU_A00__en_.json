@@ -1,0 +1,22 @@
+{
+  "SUB_A00_SYSM_MIDO_MOKU_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You acquired a wood spirit's power."
+  },
+  "SUB_A00_SYSM_MIDO_KA_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You acquired a fire spirit's power."
+  },
+  "SUB_A00_SYSM_MIDO_KIN_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You acquired a metal spirit's power."
+  },
+  "SUB_A00_SYSM_MIDO_SUI_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You acquired a water spirit's power."
+  },
+  "SUB_A00_SYSM_MIDO_SPIRITGET_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power."
+  }
+}

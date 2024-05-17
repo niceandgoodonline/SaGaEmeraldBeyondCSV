@@ -1,0 +1,146 @@
+{
+  "SUB_W07_FUNC_COMM_MISSIONCONFIRMATION_000_CUT_000_000": {
+    "speaker": "Priest",
+    "text": "Will you work with us?"
+  },
+  "SUB_W07_FUNC_COMM_MISSIONCONFIRMATION_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Of course."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONCONFIRMATION_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "I'm not sure..."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONCONFIRMATION_010_CUT_000_000": {
+    "speaker": "Priest",
+    "text": "Can I count on you, Voyager?"
+  },
+  "SUB_W07_FUNC_COMM_MISSIONCONFIRMATION_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "I'm not sure..."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONCONFIRMATION_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Of course."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_140_CUT_000_000": {
+    "speaker": "UI",
+    "text": "The steam plant has been completed,\nboosting prosperity with its production."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_140_CUT_000_010": {
+    "speaker": "UI",
+    "text": "The shipyard has been completed,\nleading to increased trading power."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_140_CUT_000_020": {
+    "speaker": "UI",
+    "text": "The station has been destroyed.\nTrade in the Forestgale Alliance has plummeted."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_230_CUT_000_000": {
+    "speaker": "UI",
+    "text": "The lumber mill has been completed,\nincreasing the efficiency of production."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_230_CUT_000_010": {
+    "speaker": "UI",
+    "text": "The wind farm has been completed,\nboosting prosperity with its production."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_230_CUT_000_020": {
+    "speaker": "UI",
+    "text": "The port has been destroyed.\nTrade in the Flamewave League plummeted."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_101_CUT_000_000": {
+    "speaker": "UI",
+    "text": "The upgrades to the steam plant\nincreased its energy output."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_101_CUT_000_010": {
+    "speaker": "UI",
+    "text": "The ironworks has been completed,\nimproving the munitions of the Flame Tribe."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_101_CUT_000_020": {
+    "speaker": "UI",
+    "text": "The shipyard has been destroyed, ending\nthe production of new vessels and bringing\neconomic stagnation to the Wave Tribe."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_201_CUT_000_000": {
+    "speaker": "UI",
+    "text": "The lumber mill upgrades have been completed,\nallowing manpower to be diverted elsewhere."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_201_CUT_000_010": {
+    "speaker": "UI",
+    "text": "The stables have been completed,\nimproving the cavalry of the Forest Tribe."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_201_CUT_000_020": {
+    "speaker": "UI",
+    "text": "The wind farm has been destroyed, causing\nenergy production to plummet and the\neconomy of the Gale Tribe to stagnate."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_301_CUT_000_000": {
+    "speaker": "UI",
+    "text": "The wind farm upgrades have been completed,\nbringing an increase in energy production."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_301_CUT_000_010": {
+    "speaker": "UI",
+    "text": "The barns at the farm have been completed,\nmaking the Gale Tribe self-sufficient."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_301_CUT_000_020": {
+    "speaker": "UI",
+    "text": "The lumber mill has been destroyed,\nending the production of new materials and\ncausing the economy of the Forest Tribe to stagnate."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_401_CUT_000_000": {
+    "speaker": "UI",
+    "text": "The shipyard upgrades have been completed,\nboosting the production of container ships."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_401_CUT_000_010": {
+    "speaker": "UI",
+    "text": "The lighthouse has been completed,\nmaking it possible for container ships\nto reach their destinations safely."
+  },
+  "SUB_W07_FUNC_COMM_MISSIONOVER_CAMERA_401_CUT_000_020": {
+    "speaker": "UI",
+    "text": "The steam power plant has been destroyed,\ncausing energy production to plummet and\nthe economy of the Flame Tribe to stagnate."
+  },
+  "SUB_W07_FUNC_COMM_PHASEOVER_CAMERA_000_CUT_141_000": {
+    "speaker": "UI",
+    "text": "The Forest and Gale Temples\nhave both been destroyed."
+  },
+  "SUB_W07_FUNC_COMM_PHASEOVER_CAMERA_000_CUT_231_000": {
+    "speaker": "UI",
+    "text": "The Wave and Flame Temples\nhave both been destroyed."
+  },
+  "SUB_W07_FUNC_COMM_PHASEOVER_CAMERA_000_CUT_100_000": {
+    "speaker": "UI",
+    "text": "The Flame Temple has been destroyed."
+  },
+  "SUB_W07_FUNC_COMM_PHASEOVER_CAMERA_000_CUT_200_000": {
+    "speaker": "UI",
+    "text": "The Forest Temple has been destroyed."
+  },
+  "SUB_W07_FUNC_COMM_PHASEOVER_CAMERA_000_CUT_300_000": {
+    "speaker": "UI",
+    "text": "The Gale Temple has been destroyed."
+  },
+  "SUB_W07_FUNC_COMM_PHASEOVER_CAMERA_000_CUT_400_000": {
+    "speaker": "UI",
+    "text": "The Wave Temple has been destroyed."
+  },
+  "SUB_W07_FUNC_COMM_SWITCHPHASE_FWWIN_000_CUT_000_000": {
+    "speaker": "Irbas",
+    "text": "We cannot endure any further fighting.\nWe of the Forestgale Alliance surrender\nto the Flamewave League, and beg you\nto show us mercy."
+  },
+  "SUB_W07_FUNC_COMM_SWITCHPHASE_FWWIN_000_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "The Forest and Gale Tribes are not our enemy;\nit is your temples that bear responsibility.\nThey must be razed, and the clergy exiled."
+  },
+  "SUB_W07_FUNC_COMM_SWITCHPHASE_FWWIN_000_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "From now on, you will adhere to the\nteachings of wave and flame alone."
+  },
+  "SUB_W07_FUNC_COMM_SWITCHPHASE_WWWIN_000_CUT_000_000": {
+    "speaker": "Nitram",
+    "text": "We cannot endure any further fighting.\nWe of the Flamewave League surrender\nto the Forestgale Alliance, and beg you\nto show us mercy."
+  },
+  "SUB_W07_FUNC_COMM_SWITCHPHASE_WWWIN_000_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "The Flame and Wave Tribes are not our enemy;\nit is your temples that bear responsibility.\nThey must be razed, and the clergy exiled."
+  },
+  "SUB_W07_FUNC_COMM_SWITCHPHASE_WWWIN_000_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "From now on, you will adhere to the\nteachings of forest and gale alone."
+  }
+}

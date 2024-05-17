@@ -1,0 +1,1094 @@
+{
+  "W13_WRLD_COMM_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Crowrealm"
+  },
+  "W13_WRLD_COMM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "On the other side of the door, you find yourself in a sand-covered world called the Crowrealm."
+  },
+  "W13_WRLD_COMM_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Under the Sand"
+  },
+  "W13_WRLD_COMM_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Crowrealm is an apocalyptic desert. Just what is going to happen here?"
+  },
+  "W13_WRLD_COMM_INITIAL_010_TITLE": {
+    "speaker": "UI",
+    "text": "Under the Sand"
+  },
+  "W13_WRLD_COMM_INITIAL_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The Crowrealm is an apocalyptic desert. What fate awaits you here?"
+  },
+  "W13_LTXT_COMM_HUMANOID_000_TITLE": {
+    "speaker": "UI",
+    "text": "Humanoid Robot"
+  },
+  "W13_LTXT_COMM_HUMANOID_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A massive humanoid robot. Used as a weapon in an ancient war, its days of walking around are clearly over."
+  },
+  "W13_LTXT_COMM_TWOLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Bipedal Robot"
+  },
+  "W13_LTXT_COMM_TWOLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A massive bipedal robot. Used as a weapon in an ancient war, its days of walking around are clearly over."
+  },
+  "W13_LTXT_COMM_FOURLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Quadruped Robot"
+  },
+  "W13_LTXT_COMM_FOURLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A massive quadruped robot. Used as a weapon in an ancient war, its days of walking around are clearly over."
+  },
+  "W13_LTXT_COMM_TANK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Tank Robot"
+  },
+  "W13_LTXT_COMM_TANK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A massive robot shaped like a tank. Used as a weapon in an ancient war, its days of moving around are clearly over."
+  },
+  "W13_LTXT_COMM_INDUSTRIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Industrial Robot"
+  },
+  "W13_LTXT_COMM_INDUSTRIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A massive industrial robot. Used as a weapon in an ancient war, its days of moving around are clearly over."
+  },
+  "W13_LTXT_COMM_AIRSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Airship"
+  },
+  "W13_LTXT_COMM_AIRSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This airship ruled the skies during an ancient war. Alas, it seems it will never take to them again."
+  },
+  "W13_LTXT_COMM_WARSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Battleship"
+  },
+  "W13_LTXT_COMM_WARSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This battleship ruled the seas during an ancient war. Alas, it seems it will never sail them again."
+  },
+  "W13_LTXT_COMM_FERRY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cruise Ship"
+  },
+  "W13_LTXT_COMM_FERRY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This ship carried countless weapons during an ancient war. Clearly it will never do so again."
+  },
+  "W13_LTXT_COMM_DIVING_000_TITLE": {
+    "speaker": "UI",
+    "text": "Submarine"
+  },
+  "W13_LTXT_COMM_DIVING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This submarine ruled the depths during an ancient war. Alas, its days of patrolling the abyss are over."
+  },
+  "W13_GIMK_COMM_SANDSTORM01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fierce Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This sandstorm is blocking your progress. You'll have to find another route to reach the other side."
+  },
+  "W13_GIMK_COMM_SANDSTORM03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fierce Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This sandstorm is blocking your progress. You'll have to find another route to reach the other side."
+  },
+  "W13_GIMK_COMM_SANDSTORM05_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fierce Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM05_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This sandstorm is blocking your progress. You'll have to find another route to reach the other side."
+  },
+  "W13_GIMK_COMM_SANDSTORM07_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fierce Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This sandstorm is blocking your progress. You'll have to find another route to reach the other side."
+  },
+  "W13_GIMK_COMM_SANDSTORM10_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fierce Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM10_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This sandstorm is blocking your progress. You'll have to find another route to reach the other side."
+  },
+  "W13_GIMK_COMM_SANDSTORM00_000_TITLE": {
+    "speaker": "UI",
+    "text": "Within the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM00_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something is lurking within the sandstorm. If you can defeat it, you might be able to eliminate the sandstorm itself."
+  },
+  "W13_GIMK_COMM_SANDSTORM00_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Within the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something lurks within the sandstorm. If you can defeat it, it might eliminate the storm itself."
+  },
+  "W13_GIMK_COMM_SANDSTORM02_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM04_000_TITLE": {
+    "speaker": "UI",
+    "text": "Within the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something lurks within the sandstorm. If you can defeat it, it might eliminate the storm itself."
+  },
+  "W13_GIMK_COMM_SANDSTORM04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM06_000_TITLE": {
+    "speaker": "UI",
+    "text": "Within the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something lurks within the sandstorm. If you can defeat it, it might eliminate the storm itself."
+  },
+  "W13_GIMK_COMM_SANDSTORM06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM08_000_TITLE": {
+    "speaker": "UI",
+    "text": "Within the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM08_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something lurks within the sandstorm. If you can defeat it, it might eliminate the storm itself."
+  },
+  "W13_GIMK_COMM_SANDSTORM08_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM09_000_TITLE": {
+    "speaker": "UI",
+    "text": "Within the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM09_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something lurks within the sandstorm. If you can defeat it, it might eliminate the storm itself."
+  },
+  "W13_GIMK_COMM_SANDSTORM09_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM11_000_TITLE": {
+    "speaker": "UI",
+    "text": "Within the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM11_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something lurks within the sandstorm. If you can defeat it, it might eliminate the storm itself."
+  },
+  "W13_GIMK_COMM_SANDSTORM11_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM12_000_TITLE": {
+    "speaker": "UI",
+    "text": "Within the Sandstorm"
+  },
+  "W13_GIMK_COMM_SANDSTORM12_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something lurks within the sandstorm. If you can defeat it, it might eliminate the storm itself."
+  },
+  "W13_GIMK_COMM_SANDSTORM12_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Sandstorm"
+  },
+  "W13_LTXT_COMM_RYUSAHUMANOID_000_TITLE": {
+    "speaker": "UI",
+    "text": "Manipulating the Sand: Humanoid Robot"
+  },
+  "W13_LTXT_COMM_RYUSAHUMANOID_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This robot can change the direction of the nearby sand. Give it a try!"
+  },
+  "W13_LTXT_COMM_RYUSAHUMANOID_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Change the Flow of the Sand"
+  },
+  "W13_LTXT_COMM_RYUSATWOLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Manipulating the Sand: Bipedal Robot"
+  },
+  "W13_LTXT_COMM_RYUSATWOLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This robot can change the direction of the nearby sand. Give it a try!"
+  },
+  "W13_LTXT_COMM_RYUSATWOLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Change the Flow of the Sand"
+  },
+  "W13_LTXT_COMM_RYUSAFOURLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Manipulating the Sand: Quadruped Robot"
+  },
+  "W13_LTXT_COMM_RYUSAFOURLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This robot can change the direction of the nearby sand. Give it a try!"
+  },
+  "W13_LTXT_COMM_RYUSAFOURLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Change the Flow of the Sand"
+  },
+  "W13_LTXT_COMM_RYUSATANK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Manipulating the Sand: Tank Robot"
+  },
+  "W13_LTXT_COMM_RYUSATANK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This robot can change the direction of the nearby sand. Give it a try!"
+  },
+  "W13_LTXT_COMM_RYUSATANK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Change the Flow of the Sand"
+  },
+  "W13_LTXT_COMM_RYUSAINDUSTRIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Manipulating the Sand: Industrial Robot"
+  },
+  "W13_LTXT_COMM_RYUSAINDUSTRIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This robot can change the direction of the nearby sand. Give it a try!"
+  },
+  "W13_LTXT_COMM_RYUSAINDUSTRIAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Change the Flow of the Sand"
+  },
+  "W13_EVAR_COMM_DIG01_MISS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG01_MISS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG01_MISS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG03_MISS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG03_MISS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG03_MISS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG05_MISS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG05_MISS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG05_MISS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG07_MISS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG07_MISS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG07_MISS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG00_SUCCESS_DIVING_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG00_SUCCESS_DIVING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG00_SUCCESS_DIVING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG02_SUCCESS_FERRY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG02_SUCCESS_FERRY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG02_SUCCESS_FERRY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG04_SUCCESS_WARSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG04_SUCCESS_WARSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG04_SUCCESS_WARSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG06_SUCCESS_AIRSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG06_SUCCESS_AIRSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG06_SUCCESS_AIRSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG00_MISS_DIVING_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG00_MISS_DIVING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG00_MISS_DIVING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG02_MISS_FERRY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG02_MISS_FERRY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG02_MISS_FERRY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG04_MISS_WARSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG04_MISS_WARSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG04_MISS_WARSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_DIG06_MISS_AIRSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Digging in the Sand"
+  },
+  "W13_EVAR_COMM_DIG06_MISS_AIRSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Sarab has detected something under the sand. You should dig here and see what you find."
+  },
+  "W13_EVAR_COMM_DIG06_MISS_AIRSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Digging"
+  },
+  "W13_EVAR_COMM_ROUTE0_WARSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Meeting in the Battleship"
+  },
+  "W13_EVAR_COMM_ROUTE0_WARSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A battleship has run aground in the middle of the desert. Someone is inside."
+  },
+  "W13_EVAR_COMM_ROUTE0_WARSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Explore the Battleship"
+  },
+  "W13_EVAR_COMM_ROUTE0_FIRSTSTOP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sand in Your Path"
+  },
+  "W13_EVAR_COMM_ROUTE0_FIRSTSTOP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The flow of the sand prevents you from moving about as you please. Isn't there anything you can do?"
+  },
+  "W13_EVAR_COMM_ROUTE0_FIRSTSTOP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Scarecrow"
+  },
+  "W13_EVAR_COMM_ROUTE0_TWOLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Bipedal Robot"
+  },
+  "W13_EVAR_COMM_ROUTE0_TWOLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Scarecrow said there's a way to manipulate the flow of the sand here."
+  },
+  "W13_EVAR_COMM_ROUTE0_TWOLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Bipedal Robot"
+  },
+  "W13_EVAR_COMM_ROUTE0_AIRSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Airship"
+  },
+  "W13_EVAR_COMM_ROUTE0_AIRSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need to look here if you want to find someone familiar with the Crowrealm."
+  },
+  "W13_EVAR_COMM_ROUTE0_AIRSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for People"
+  },
+  "W13_EVAR_COMM_ROUTE0_HUMANOID_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Humanoid Robot"
+  },
+  "W13_EVAR_COMM_ROUTE0_HUMANOID_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the humanoid robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE0_HUMANOID_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE0_DIVING_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Submarine"
+  },
+  "W13_EVAR_COMM_ROUTE0_DIVING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the submarine? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE0_DIVING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE0_DIVING_ZAKOBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "What Lurks Within the Submarine"
+  },
+  "W13_EVAR_COMM_ROUTE0_DIVING_ZAKOBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The war may be over, but this submarine is still filled with countless robots set on repelling intruders."
+  },
+  "W13_EVAR_COMM_ROUTE0_DIVING_ZAKOBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W13_EVAR_COMM_ROUTE0_TANK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Tank Robot"
+  },
+  "W13_EVAR_COMM_ROUTE0_TANK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the tank-shaped robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE0_TANK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE0_FOURLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Quadruped Robot"
+  },
+  "W13_EVAR_COMM_ROUTE0_FOURLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the quadruped robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE0_FOURLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE0_INDUSTRIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Industrial Robot"
+  },
+  "W13_EVAR_COMM_ROUTE0_INDUSTRIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the industrial robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE0_INDUSTRIAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE0_FERRY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Cruise Ship"
+  },
+  "W13_EVAR_COMM_ROUTE0_FERRY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the cruise ship? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE0_FERRY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE0_FERRY_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Closing Pandora in the Cruise Ship"
+  },
+  "W13_EVAR_COMM_ROUTE0_FERRY_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Pandora is in the cruise ship. How should you go about closing it—and is it even possible to do so?"
+  },
+  "W13_EVAR_COMM_ROUTE0_FERRY_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Close Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE1_AIRSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Meeting in the Airship"
+  },
+  "W13_EVAR_COMM_ROUTE1_AIRSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A heavily-damaged airship lies on the sand, perhaps shot down in the distant past. Someone is inside."
+  },
+  "W13_EVAR_COMM_ROUTE1_AIRSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search the Airship"
+  },
+  "W13_EVAR_COMM_ROUTE1_FIRSTSTOP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sand in Your Path"
+  },
+  "W13_EVAR_COMM_ROUTE1_FIRSTSTOP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The flow of the sand prevents you from moving about as you please. Isn't there anything you can do?"
+  },
+  "W13_EVAR_COMM_ROUTE1_FIRSTSTOP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Scarecrow"
+  },
+  "W13_EVAR_COMM_ROUTE1_HUMANOID_000_TITLE": {
+    "speaker": "UI",
+    "text": "Humanoid Robot"
+  },
+  "W13_EVAR_COMM_ROUTE1_HUMANOID_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Scarecrow said there's a way to manipulate the flow of the sand here."
+  },
+  "W13_EVAR_COMM_ROUTE1_HUMANOID_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Humanoid Robot"
+  },
+  "W13_EVAR_COMM_ROUTE1_DIVING_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Submarine"
+  },
+  "W13_EVAR_COMM_ROUTE1_DIVING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need to look here if you want to find someone familiar with the Crowrealm."
+  },
+  "W13_EVAR_COMM_ROUTE1_DIVING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for People"
+  },
+  "W13_EVAR_COMM_ROUTE1_TWOLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Bipedal Robot"
+  },
+  "W13_EVAR_COMM_ROUTE1_TWOLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the bipedal robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE1_TWOLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE1_FERRY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Cruise Ship"
+  },
+  "W13_EVAR_COMM_ROUTE1_FERRY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the cruise ship? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE1_FERRY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE1_FERRY_ZAKOBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "What Lurks Within the Cruise Ship"
+  },
+  "W13_EVAR_COMM_ROUTE1_FERRY_ZAKOBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The war may be over, but this cruise ship is still filled with countless robots set on repelling intruders."
+  },
+  "W13_EVAR_COMM_ROUTE1_FERRY_ZAKOBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W13_EVAR_COMM_ROUTE1_TANK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Tank Robot"
+  },
+  "W13_EVAR_COMM_ROUTE1_TANK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the tank-shaped robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE1_TANK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE1_FOURLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Quadruped Robot"
+  },
+  "W13_EVAR_COMM_ROUTE1_FOURLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the quadruped robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE1_FOURLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE1_INDUSTRIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Industrial Robot"
+  },
+  "W13_EVAR_COMM_ROUTE1_INDUSTRIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the industrial robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE1_INDUSTRIAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE1_WARSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Battleship"
+  },
+  "W13_EVAR_COMM_ROUTE1_WARSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the battleship? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE1_WARSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE1_WARSHIP_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Closing Pandora in the Battleship"
+  },
+  "W13_EVAR_COMM_ROUTE1_WARSHIP_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Pandora is in the battleship. How should you go about closing it—and is it even possible to do so?"
+  },
+  "W13_EVAR_COMM_ROUTE1_WARSHIP_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Close Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE2_DIVING_000_TITLE": {
+    "speaker": "UI",
+    "text": "Meeting in the Submarine"
+  },
+  "W13_EVAR_COMM_ROUTE2_DIVING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though this area must have been underwater once, the submarine has clearly been here for a long time. It seems like someone is here."
+  },
+  "W13_EVAR_COMM_ROUTE2_DIVING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search the Submarine"
+  },
+  "W13_EVAR_COMM_ROUTE2_FIRSTSTOP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sand in Your Path"
+  },
+  "W13_EVAR_COMM_ROUTE2_FIRSTSTOP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The flow of the sand prevents you from moving about as you please. Isn't there anything you can do?"
+  },
+  "W13_EVAR_COMM_ROUTE2_FIRSTSTOP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Scarecrow"
+  },
+  "W13_EVAR_COMM_ROUTE2_TANK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Tank Robot"
+  },
+  "W13_EVAR_COMM_ROUTE2_TANK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Scarecrow said there's a way to manipulate the flow of the sand here."
+  },
+  "W13_EVAR_COMM_ROUTE2_TANK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Tank Robot"
+  },
+  "W13_EVAR_COMM_ROUTE2_FERRY_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Cruise Ship"
+  },
+  "W13_EVAR_COMM_ROUTE2_FERRY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need to look here if you want to find someone familiar with the Crowrealm."
+  },
+  "W13_EVAR_COMM_ROUTE2_FERRY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for People"
+  },
+  "W13_EVAR_COMM_ROUTE2_TWOLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Bipedal Robot"
+  },
+  "W13_EVAR_COMM_ROUTE2_TWOLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the bipedal robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE2_TWOLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE2_WARSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Battleship"
+  },
+  "W13_EVAR_COMM_ROUTE2_WARSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the battleship? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE2_WARSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE2_WARSHIP_ZAKOBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "What Lurks Within the Submarine"
+  },
+  "W13_EVAR_COMM_ROUTE2_WARSHIP_ZAKOBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The war may be over, but this submarine is still filled with countless robots set on repelling intruders."
+  },
+  "W13_EVAR_COMM_ROUTE2_WARSHIP_ZAKOBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W13_EVAR_COMM_ROUTE2_HUMANOID_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Humanoid Robot"
+  },
+  "W13_EVAR_COMM_ROUTE2_HUMANOID_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the humanoid robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE2_HUMANOID_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE2_FOURLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Quadruped Robot"
+  },
+  "W13_EVAR_COMM_ROUTE2_FOURLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the quadruped robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE2_FOURLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE2_INDUSTRIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Industrial Robot"
+  },
+  "W13_EVAR_COMM_ROUTE2_INDUSTRIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the industrial robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE2_INDUSTRIAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE2_AIRSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Airship"
+  },
+  "W13_EVAR_COMM_ROUTE2_AIRSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the airship? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE2_AIRSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE2_AIRSHIP_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Closing Pandora in the Airship"
+  },
+  "W13_EVAR_COMM_ROUTE2_AIRSHIP_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Pandora is in the airship. How should you go about closing it—and is it even possible to do so?"
+  },
+  "W13_EVAR_COMM_ROUTE2_AIRSHIP_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Close Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE3_FERRY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Meeting in the Cruise Ship"
+  },
+  "W13_EVAR_COMM_ROUTE3_FERRY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You aren't sure if this ship washed up in this place or was built here to begin with. All you know is that something is here."
+  },
+  "W13_EVAR_COMM_ROUTE3_FERRY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search the Cruise Ship"
+  },
+  "W13_EVAR_COMM_ROUTE3_FIRSTSTOP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sand in Your Path"
+  },
+  "W13_EVAR_COMM_ROUTE3_FIRSTSTOP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The flow of the sand prevents you from moving about as you please. Isn't there anything you can do?"
+  },
+  "W13_EVAR_COMM_ROUTE3_FIRSTSTOP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Scarecrow"
+  },
+  "W13_EVAR_COMM_ROUTE3_FOURLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Quadruped Robot"
+  },
+  "W13_EVAR_COMM_ROUTE3_FOURLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Scarecrow said there's a way to manipulate the flow of the sand here."
+  },
+  "W13_EVAR_COMM_ROUTE3_FOURLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Quadruped Robot"
+  },
+  "W13_EVAR_COMM_ROUTE3_WARSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Battleship"
+  },
+  "W13_EVAR_COMM_ROUTE3_WARSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need to look here if you want to find someone familiar with the Crowrealm."
+  },
+  "W13_EVAR_COMM_ROUTE3_WARSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for People"
+  },
+  "W13_EVAR_COMM_ROUTE3_TWOLEGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Bipedal Robot"
+  },
+  "W13_EVAR_COMM_ROUTE3_TWOLEGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the bipedal robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE3_TWOLEGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE3_AIRSHIP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Airship"
+  },
+  "W13_EVAR_COMM_ROUTE3_AIRSHIP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the airship? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE3_AIRSHIP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE3_AIRSHIP_ZAKOBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "What Lurks Within the Airship"
+  },
+  "W13_EVAR_COMM_ROUTE3_AIRSHIP_ZAKOBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The war may be over, but this airship is still filled with countless robots set on repelling intruders."
+  },
+  "W13_EVAR_COMM_ROUTE3_AIRSHIP_ZAKOBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W13_EVAR_COMM_ROUTE3_TANK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Tank Robot"
+  },
+  "W13_EVAR_COMM_ROUTE3_TANK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the tank-shaped robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE3_TANK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE3_TANK_010_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Tank Robot"
+  },
+  "W13_EVAR_COMM_ROUTE3_TANK_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the tank-shaped robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE3_TANK_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE3_HUMANOID_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Humanoid Robot"
+  },
+  "W13_EVAR_COMM_ROUTE3_HUMANOID_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the humanoid robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE3_HUMANOID_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE3_INDUSTRIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Industrial Robot"
+  },
+  "W13_EVAR_COMM_ROUTE3_INDUSTRIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the industrial robot? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE3_INDUSTRIAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE3_DIVING_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Submarine"
+  },
+  "W13_EVAR_COMM_ROUTE3_DIVING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the submarine? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE3_DIVING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE3_DIVING_010_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Pandora: Submarine"
+  },
+  "W13_EVAR_COMM_ROUTE3_DIVING_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Pandora be inside the submarine? You'll need to change the direction of the sand if you want to find out."
+  },
+  "W13_EVAR_COMM_ROUTE3_DIVING_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Pandora"
+  },
+  "W13_EVAR_COMM_ROUTE3_DIVING_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Closing Pandora in the Submarine"
+  },
+  "W13_EVAR_COMM_ROUTE3_DIVING_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Pandora is in the submarine. How should you go about closing it—and is it even possible to do so?"
+  },
+  "W13_EVAR_COMM_ROUTE3_DIVING_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Close Pandora"
+  },
+  "W13_EVAR_COMM_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Time to Go"
+  },
+  "W13_EVAR_COMM_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If you have nothing else to attend to in this world, you can leave whenever you like."
+  },
+  "W13_EVAR_COMM_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  },
+  "W13_EVAR_COMM_RETURN_100_TITLE": {
+    "speaker": "UI",
+    "text": "Time to Go"
+  },
+  "W13_EVAR_COMM_RETURN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "If you have nothing else to attend to in this world, you can leave whenever you like."
+  },
+  "W13_EVAR_COMM_RETURN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  },
+  "W13_EVAR_COMM_RETURN_200_TITLE": {
+    "speaker": "UI",
+    "text": "Time to Go"
+  },
+  "W13_EVAR_COMM_RETURN_200_DETAIL": {
+    "speaker": "UI",
+    "text": "If you have nothing else to attend to in this world, you can leave whenever you like."
+  },
+  "W13_EVAR_COMM_RETURN_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  },
+  "W13_EVAR_COMM_RETURN_300_TITLE": {
+    "speaker": "UI",
+    "text": "Time to Go"
+  },
+  "W13_EVAR_COMM_RETURN_300_DETAIL": {
+    "speaker": "UI",
+    "text": "If you have nothing else to attend to in this world, you can leave whenever you like."
+  },
+  "W13_EVAR_COMM_RETURN_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  },
+  "W13_SCAN_COMM_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Four Colossal Wreckages"
+  },
+  "W13_SCAN_COMM_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There are four wreckage sites you can aim for: the battleship, the airship, the submarine, and the cruise ship."
+  }
+}

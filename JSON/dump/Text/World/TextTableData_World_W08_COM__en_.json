@@ -1,0 +1,574 @@
+{
+  "W08_LTXT_COMM_BURROW_MOLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Kuld Colony"
+  },
+  "W08_LTXT_COMM_BURROW_MOLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the colony where the Kuld live. The entrance is narrow, but it seems spacious inside."
+  },
+  "W08_LTXT_COMM_BURROW_INSECT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Naml Colony"
+  },
+  "W08_LTXT_COMM_BURROW_INSECT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the colony where the Naml live. You smell something sour inside."
+  },
+  "W08_LTXT_COMM_BURROW_INSECT_010_TITLE": {
+    "speaker": "UI",
+    "text": "Naml Colony"
+  },
+  "W08_LTXT_COMM_BURROW_INSECT_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the colony where the Naml live. The ground has caved in, filling it with earth."
+  },
+  "W08_LTXT_COMM_BURROW_HUMAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Bashar Colony"
+  },
+  "W08_LTXT_COMM_BURROW_HUMAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the colony where the Bashar live. You smell an indescribably strong odor inside."
+  },
+  "W08_LTXT_COMM_BURROW_HUMAN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Bashar Colony"
+  },
+  "W08_LTXT_COMM_BURROW_HUMAN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the colony where the Bashar live. The ground has caved in, filling it with earth."
+  },
+  "W08_LTXT_COMM_BURROW_FROG_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dufda Colony"
+  },
+  "W08_LTXT_COMM_BURROW_FROG_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the colony where the Dufda live. The air inside is damp."
+  },
+  "W08_LTXT_COMM_BURROW_FROG_010_TITLE": {
+    "speaker": "UI",
+    "text": "Dufda Colony"
+  },
+  "W08_LTXT_COMM_BURROW_FROG_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the colony where the Dufda live. The ground has caved in, filling it with earth."
+  },
+  "W08_LTXT_COMM_FOSSIL_BEE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Giant Rock"
+  },
+  "W08_LTXT_COMM_FOSSIL_BEE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An image of a creature has been carved into this rock."
+  },
+  "W08_LTXT_COMM_FOSSIL_CENTIPEDE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Giant Rock"
+  },
+  "W08_LTXT_COMM_FOSSIL_CENTIPEDE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An image of a creature has been carved into this rock."
+  },
+  "W08_LDMK_COMM_CORDYCEPS_W_000_TITLE": {
+    "speaker": "UI",
+    "text": "Corpse"
+  },
+  "W08_LDMK_COMM_CORDYCEPS_W_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the grisly fate awaiting those who are parasitized by a mushroom. Nothing can be done for them now."
+  },
+  "W08_LDMK_COMM_CORDYCEPS_NW_000_TITLE": {
+    "speaker": "UI",
+    "text": "Corpse"
+  },
+  "W08_LDMK_COMM_CORDYCEPS_NW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the grisly fate awaiting those who are parasitized by a mushroom. Nothing can be done for them now."
+  },
+  "W08_LDMK_COMM_CORDYCEPS_S_000_TITLE": {
+    "speaker": "UI",
+    "text": "Corpse"
+  },
+  "W08_LDMK_COMM_CORDYCEPS_S_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the grisly fate awaiting those who are parasitized by a mushroom. Nothing can be done for them now."
+  },
+  "W08_LDMK_COMM_CORDYCEPS_E_000_TITLE": {
+    "speaker": "UI",
+    "text": "Corpse"
+  },
+  "W08_LDMK_COMM_CORDYCEPS_E_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the grisly fate awaiting those who are parasitized by a mushroom. Nothing can be done for them now."
+  },
+  "W08_GIMK_COMM_DIGWALL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Soft Earthen Wall"
+  },
+  "W08_GIMK_COMM_DIGWALL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The earth here looks softer than elsewhere. Tope should be able to dig through it."
+  },
+  "W08_GIMK_COMM_DIGWALL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ask Him to Dig for You"
+  },
+  "W08_GIMK_COMM_IVY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Knotted Roots"
+  },
+  "W08_GIMK_COMM_IVY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Knotted roots are blocking your path. You'll need to clear them if you want to go this way, but you sense something lurking inside."
+  },
+  "W08_GIMK_COMM_IVY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Remove the Roots"
+  },
+  "W08_GIMK_COMM_DIRT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Mound of Earth"
+  },
+  "W08_GIMK_COMM_DIRT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A mound of earth is blocking your path. You'll need to clear it if you want to go this way. Something might also be buried under it."
+  },
+  "W08_GIMK_COMM_DIRT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Remove the Mound of Earth"
+  },
+  "W08_GIMK_COMM_STONE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Stones"
+  },
+  "W08_GIMK_COMM_STONE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Stones are blocking your path. You'll need to clear them if you want to go this way. Something might also be buried under them."
+  },
+  "W08_GIMK_COMM_STONE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Move the Stones"
+  },
+  "W08_GIMK_COMM_CRYSTAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Crystal"
+  },
+  "W08_GIMK_COMM_CRYSTAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A giant crystal is blocking your path. You'll need to clear it if you want to go this way. Something might also be buried under it."
+  },
+  "W08_GIMK_COMM_CRYSTAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Move the Crystal"
+  },
+  "W08_GIMK_COMM_WATER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Spring Water"
+  },
+  "W08_GIMK_COMM_WATER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Water is blocking your path. You'll need to cover it with earth if you want to go this way. Something might also be buried here."
+  },
+  "W08_GIMK_COMM_WATER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Cover the Water"
+  },
+  "W08_EVAR_COMM_REWORD_EARTHWORM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Impatient Coste"
+  },
+  "W08_EVAR_COMM_REWORD_EARTHWORM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Coste is wandering around here, desperate for Tope to come home."
+  },
+  "W08_EVAR_COMM_REWORD_EARTHWORM_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Coste"
+  },
+  "W08_EVAR_COMM_REWORD_STONE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Seeker of the Stones"
+  },
+  "W08_EVAR_COMM_REWORD_STONE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense someone or something suspicious here."
+  },
+  "W08_EVAR_COMM_REWORD_STONE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate"
+  },
+  "W08_EVAR_COMM_FIRST_CONTACT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Something on the Ground"
+  },
+  "W08_EVAR_COMM_FIRST_CONTACT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something is on the ground. You should investigate."
+  },
+  "W08_EVAR_COMM_FIRST_CONTACT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Kuld Colony"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Make your way to the Kuld colony with Tope."
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Kuld Colony"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Kuld Colony in Danger"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the Bashar might be on their way to the Kuld colony. You should head over there."
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Kuld Colony"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_110_TITLE": {
+    "speaker": "UI",
+    "text": "Kuld Colony in Danger"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_110_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the Naml might be on their way to the Kuld colony. You should head over there."
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Kuld Colony"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_210_TITLE": {
+    "speaker": "UI",
+    "text": "Kuld Colony in Danger"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_210_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the Dufda might be on their way to the Kuld colony. You should head over there."
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_210_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Kuld Colony"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_040_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Kuld Colony?"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_040_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this where the Lord of the Earth went?"
+  },
+  "W08_EVAR_COMM_BURROW_MOLE_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Kuld Colony"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Naml Colony"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You might learn something helpful in the Naml colony."
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Naml Colony"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_010_TITLE": {
+    "speaker": "UI",
+    "text": "Naml Colony in Danger"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_010_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the Bashar might be on their way to the Naml colony. You should head over there."
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Naml Colony"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_210_TITLE": {
+    "speaker": "UI",
+    "text": "Naml Colony in Danger"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_210_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the Dufda might be on their way to the Naml colony. You should head over there."
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_210_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Naml Colony"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_020_TITLE": {
+    "speaker": "UI",
+    "text": "Back to the Naml Colony"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_020_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to visit the Naml colony once more in search of clues."
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Naml Colony"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_040_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Naml Colony?"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_040_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this where the Lord of the Earth went?"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Naml Colony"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_140_TITLE": {
+    "speaker": "UI",
+    "text": "Searching the Naml Colony"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Will you really find what you seek here?"
+  },
+  "W08_EVAR_COMM_BURROW_INSECT_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Naml Colony"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Bashar Colony"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You may learn something helpful in the Bashar colony."
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Bashar Colony"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_110_TITLE": {
+    "speaker": "UI",
+    "text": "Bashar Colony in Danger"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_110_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the Naml might be on their way to the Bashar colony. You should head over there."
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Bashar Colony"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_210_TITLE": {
+    "speaker": "UI",
+    "text": "Bashar Colony in Danger"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_210_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the Dufda might be on their way to the Bashar colony. You should head over there."
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_210_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Bashar Colony"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_020_TITLE": {
+    "speaker": "UI",
+    "text": "Back to the Bashar Colony"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_020_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to visit the Bashar colony once more in search of clues."
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Bashar Colony"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_040_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Bashar Colony?"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this where the Lord of the Earth went?"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Bashar Colony"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_140_TITLE": {
+    "speaker": "UI",
+    "text": "Searching the Bashar Colony"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Will you really find what you seek here?"
+  },
+  "W08_EVAR_COMM_BURROW_HUMAN_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Bashar Colony"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Dufda Colony"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You may learn something helpful in the Dufda colony."
+  },
+  "W08_EVAR_COMM_BURROW_FROG_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dufda Colony"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_010_TITLE": {
+    "speaker": "UI",
+    "text": "Dufda Colony in Danger"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_010_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the Bashar might be on their way to the Dufda colony. You should head over there."
+  },
+  "W08_EVAR_COMM_BURROW_FROG_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dufda Colony"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_110_TITLE": {
+    "speaker": "UI",
+    "text": "Dufda Colony in Danger"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_110_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the Naml might be on their way to the Dufda colony. You should head over there."
+  },
+  "W08_EVAR_COMM_BURROW_FROG_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dufda Colony"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_020_TITLE": {
+    "speaker": "UI",
+    "text": "Back to the Dufda Colony"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_020_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to visit the Dufda colony once more in search of clues."
+  },
+  "W08_EVAR_COMM_BURROW_FROG_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dufda Colony"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_040_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Dufda Colony?"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_040_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this where the Lord of the Earth went?"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dufda Colony"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_140_TITLE": {
+    "speaker": "UI",
+    "text": "Searching the Dufda Colony"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Will you really find what you seek here?"
+  },
+  "W08_EVAR_COMM_BURROW_FROG_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dufda Colony"
+  },
+  "W08_EVAR_COMM_CORDYCEPS_W_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Abductees"
+  },
+  "W08_EVAR_COMM_CORDYCEPS_W_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Various abductees are gathered here."
+  },
+  "W08_EVAR_COMM_CORDYCEPS_W_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  },
+  "W08_EVAR_COMM_CORDYCEPS_NW_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Assailants"
+  },
+  "W08_EVAR_COMM_CORDYCEPS_NW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a disturbance in this area. Could it have something to do with the attack earlier?"
+  },
+  "W08_EVAR_COMM_CORDYCEPS_NW_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  },
+  "W08_EVAR_COMM_CORDYCEPS_S_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Abductees"
+  },
+  "W08_EVAR_COMM_CORDYCEPS_S_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Various abductees are gathered here."
+  },
+  "W08_EVAR_COMM_CORDYCEPS_S_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  },
+  "W08_EVAR_COMM_CORDYCEPS_E_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Abductees"
+  },
+  "W08_EVAR_COMM_CORDYCEPS_E_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Various abductees are gathered here."
+  },
+  "W08_EVAR_COMM_CORDYCEPS_E_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  },
+  "W08_EVAR_COMM_FOSSIL_BEE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Move the Yang Keystone"
+  },
+  "W08_EVAR_COMM_FOSSIL_BEE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If you move both opposing keystones, the Lord of the Earth should awaken."
+  },
+  "W08_EVAR_COMM_FOSSIL_BEE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Move the Keystone"
+  },
+  "W08_EVAR_COMM_FOSSIL_CENTIPEDE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Move the Yin Keystone"
+  },
+  "W08_EVAR_COMM_FOSSIL_CENTIPEDE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If you move both opposing keystones, the Lord of the Earth should awaken."
+  },
+  "W08_EVAR_COMM_FOSSIL_CENTIPEDE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Move the Keystone"
+  },
+  "W08_EVAR_COMM_FUNGUS_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Source of the Earthquake"
+  },
+  "W08_EVAR_COMM_FUNGUS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Did moving the keystones cause the Lord of the Earth to awaken? You should investigate the epicenter of the earthquake to find out."
+  },
+  "W08_EVAR_COMM_FUNGUS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  }
+}

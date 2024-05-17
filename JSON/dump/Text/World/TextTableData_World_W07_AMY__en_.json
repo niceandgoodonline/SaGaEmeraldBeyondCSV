@@ -1,0 +1,34 @@
+{
+  "W07_EVAR_AMYA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Your Next Destination"
+  },
+  "W07_EVAR_AMYA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head for your next destination."
+  },
+  "W07_EVAR_AMYA_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leaving Cinq"
+  },
+  "W07_EVAR_AMYA_TEMPLESOUL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Amidst Disappointment"
+  },
+  "W07_EVAR_AMYA_TEMPLESOUL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You were unable to find any information pertaining to your cat. Are there no clues to be had?"
+  },
+  "W07_EVAR_AMYA_TEMPLESOUL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Soul Temple"
+  },
+  "W07_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Land of Cinq"
+  },
+  "W07_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A ruined temple awaited you on the other side of the door. Four tribes coexist here, but which will lead you to your cat?"
+  }
+}

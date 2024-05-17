@@ -1,0 +1,2314 @@
+{
+  "SUB_W13_EVAR_BOFO_DIG_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "It looks like there's something here.\nLet's try digging."
+  },
+  "SUB_W13_EVAR_BOFO_DIG_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Leave it to me!"
+  },
+  "SUB_W13_EVAR_BOFO_DIG_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I wonder what this is."
+  },
+  "SUB_W13_EVAR_BOFO_DIG_000_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'll take anything that's useful."
+  },
+  "SUB_W13_EVAR_BOFO_DIG_000_CUT_010_040": {
+    "speaker": "Sarab",
+    "text": "19141914"
+  },
+  "SUB_W13_EVAR_BOFO_DIG_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "Except that it's broken."
+  },
+  "SUB_W13_EVAR_BOFO_DIG_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Tsk. Unfortunate."
+  },
+  "SUB_W13_EVAR_BOFO_DIG06_SUCCESS_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "10711071"
+  },
+  "SUB_W13_EVAR_BOFO_DIG06_SUCCESS_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "It's saying something or other\nabout the sand's energy."
+  },
+  "SUB_W13_EVAR_BOFO_DIG04_SUCCESS_WARSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "18631863"
+  },
+  "SUB_W13_EVAR_BOFO_DIG04_SUCCESS_WARSHIP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Apparently it'll keep the sand\nfrom falling apart?"
+  },
+  "SUB_W13_EVAR_BOFO_DIG00_SUCCESS_DIVING_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "16031603"
+  },
+  "SUB_W13_EVAR_BOFO_DIG00_SUCCESS_DIVING_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Sounds like it'll keep the sand\nfrom clumping together."
+  },
+  "SUB_W13_EVAR_BOFO_DIG02_SUCCESS_FERRY_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "12411241"
+  },
+  "SUB_W13_EVAR_BOFO_DIG02_SUCCESS_FERRY_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "It's talking about the sand's\nshifting ability."
+  },
+  "SUB_W13_EVAR_BOFO_DIG_MISS_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This looks useful."
+  },
+  "SUB_W13_EVAR_BOFO_DIG_MISS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I'm useful too!"
+  },
+  "SUB_W13_EVAR_BOFO_WORLDEXIT_000_CUT_000_000": {
+    "speaker": "カカシ",
+    "text": "Leave this world?"
+  },
+  "SUB_W13_EVAR_BOFO_WORLDEXIT_000_CUT_000_010": {
+    "speaker": "綱紀",
+    "text": "No."
+  },
+  "SUB_W13_EVAR_BOFO_WORLDEXIT_000_CUT_000_020": {
+    "speaker": "綱紀",
+    "text": "Yes."
+  },
+  "SUB_W13_WRLD_BOFO_INITIAL_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Why is this world so dang HOT!? I'm sweatin'\nlike a hog in a clapboard shack, and I ain't even\ndoin' anything! Somebody gimme a nice cold\nriver to dive into."
+  },
+  "SUB_W13_WRLD_BOFO_INITIAL_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "We need a base of operations more than a river;\nhopefully there's someone living around here\nwho can point us in the right direction."
+  },
+  "SUB_W13_WRLD_BOFO_INITIAL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Dang, hon, you sound cool as can be!\nAin't you feelin' this heat?"
+  },
+  "SUB_W13_WRLD_BOFO_INITIAL_000_CUT_000_030": {
+    "speaker": "Constantine",
+    "text": "I actually feel cooler being covered up—\nand I don't need to worry about sunburn.\nNow let's see if we can find a triangle\nbefore you melt into a puddle of goo."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Hmm? Someone's coming."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, this battleship's even bigger than\nthe landing ship I was on when I moved\noutta the Grenil Archipelago!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "And now it's nothing but scrap."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_021": {
+    "speaker": "Formina_Franklyn",
+    "text": "I've had a feeling for a while now that\nsomeone is watching me, but all I see\nis that scarecrow—which makes zero\nsense in a desert, let me just add."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "What was that, Bonnie?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Not her! Me! Scarecrow!\fI haven't seen a human out this way in days.\nWhere exactly did you come from, anyway?\nThe airship? The cruise ship? The submarine?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_051": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, butter my biscuits! A talkin' scarecrow!\nI reckoned there wasn't nothin' in this here\nworld but sand and more sand, but maybe\nwe're gonna have some fun after all."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm Formina, and this is Bonnie.\nWe've come to this world looking for a triangle.\nDo you happen to know anything about that?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Hi there! I'm Scarecrow. But as for <i>why</i> I'm a\nscarecrow, I have no earthly idea! Also, I don't\nknow anything about any triangles. Humans might,\nthough, so why not head over to the airship?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_071": {
+    "speaker": "Bonnie_Blair",
+    "text": "I ain't much for dealin' with talkin'\nscarecrows, so what say I leave this\nto you, Officer Franklyn?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Always so quick to shirk responsibility...\nBut sure, I'll take point; I kind of like\nunique fellows like this, anyway."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_081": {
+    "speaker": "Formina_Franklyn",
+    "text": "Think you can show us the way\nto this airship, Scarecrow?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_WARSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne airship, just as promised."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "But the sand's preventing\nus from going any further."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "And where's that?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This robot is like something out\nof a movie. Does it move?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Spookcrow",
+    "text": "YO, SCARECROW! BEEN A HOT MINUTE, BUDDY!\nALSO, WHY ARE YOU WANDERING ALL OVER FROM\nHELL TO BREAKFAST WITH THIS HUMAN, HUH!?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "You can change the\ndirection of the sand?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "ME? NAH! I CAN'T DO SQUAT, BUDDY!\nBUT THE ROBOT CAN!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "There's no need to shout.\nI can hear you just fine."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Spookcrow",
+    "text": "SORRY ABOUT THAT! THIS IS JUST THE NATURAL\nVOLUME FOR ME! NOW HANG ON AND I'LL GET\nTHAT SAND CHANGED FOR YOU, BUDDY!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_010_000": {
+    "speaker": "Spookcrow",
+    "text": "HOW'S THAT STRIKE YA, BUDDY!?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TWOLEGS_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Thanks, Spookcrow."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is the airship, huh?\nSo people live here?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of 'em!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "It's surprisingly spacious in here,\nbut I still don't think I'd want to\nmake it my permanent home."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm Formina Franklyn. Judging by your reaction,\nI take it you don't get outside visitors from\nother worlds very often?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Of course we don't! ...Ah, but does this mean\nthe legends about Pandora are true? You must\ntell me everything you know about Pandora!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'll do it if you calm down."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "That's right! Let's all take it easy."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "Shut up, strawman! ...AHEM! Yes, well,\nI suppose it's possible I got a smidge\nexcited there. Apologies."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Professor",
+    "text": "I'm the Professor, and I'm researching the history\nof the Crowrealm. Though a desert now, this land\nonce had something called an 'ocean,' and this\nvery airship once soared through the skies."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Professor",
+    "text": "Alas, now the world is nothing but sand,\nand the airships lie in pieces on the ground.\nAnd what is the cause of this misery, you ask?\nThe answer to that...is said to be Pandora!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "I remember hearing about Pandora's Box when\nI was a kid—supposedly it had all manner of\ncalamities sealed inside it? Still, I always thought\nit was just a story to scare children."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_100": {
+    "speaker": "Professor",
+    "text": "Our legend claims the one who opened the box\nwas a human from the outside—and they go on\nto say that the one to close the box will be\n<i>another</i> human from the outside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_110": {
+    "speaker": "Professor",
+    "text": "Oh, how I hope the legend is a lie. If it's true,\nit means our world is held sway by the whims\nof outsiders! And in that case, what are the\nrest of us even worth?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Right? What's my worth?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's a problem for you to solve. Still,\nit's possible Pandora has something to do\nwith the triangles we're searching for,\nso can you tell me where to find it?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_140": {
+    "speaker": "Professor",
+    "text": "...Seriously? It's just a legend. Nothing more.\nDo you truly plan to just blindly follow it?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_150": {
+    "speaker": "Formina_Franklyn",
+    "text": "It might be a legend to you,\nbut it could be a valuable clue to\nus in our search for triangles.\fAlso, if we manage to find it and close it,\nthat could solve both of our problems in\none fell swoop."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_160": {
+    "speaker": "Professor",
+    "text": "I don't know if I should call you an oddity\nor really adventurous... Are <i>all</i> people from\nthe outside like you?\fEr, anyway. Be that all as it may,\nI sadly have no idea where Pandora is.\nYou'll just have to find it yourself."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_170": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, oooh! I know where it is!\nIt could be here. Or there.\nOr way out there someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_180": {
+    "speaker": "Professor",
+    "text": "Let me leave you with this warning:\nDo not make friends with the scarecrows.\nThey're all irresponsible oafs to the last,\njust like this straw-headed ninny here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_190": {
+    "speaker": "Formina_Franklyn",
+    "text": "So the scarecrows aren't yours?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_AIRSHIP_000_CUT_010_200": {
+    "speaker": "Professor",
+    "text": "Perish the thought! If I had to guess,\nI imagine they came from Pandora itself."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Another giant robot...\nI wonder if Pandora's inside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Did the fiends also come from Pandora?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "So what's older,\nPandora or the scarecrows?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, that conversation was pointless.\nLet's just look inside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "There sure isn't!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Pandora's not here, apparently.\nLet's go look somewhere else."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, if the sands start giving us\ntrouble again, we know who to call."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We sure do!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TANK_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This looks like a war robot of some kind.\nThat's a rather unpleasant find."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Aw, it isn't so bad!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TANK_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "This isn't Pandora, right?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TANK_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "So it is?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_TANK_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, since I don't want it to be,\nI'm going to go with my gut here\nand just assume it isn't."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This robot doesn't look like it's Pandora,\nbut maybe it can at least change the\nflow of the sand for us?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "It sure can!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm no engineer, but it's weird how\nthings can affect the sands from\nso far away, right?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Were these robots made specifically to\nchange the flow of the sand? And is there\na reason they all look so different?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "So do scarecrows operate the robots?\nAnd why <i>are</i> you scarecrows, anyway?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Ugh. This is a waste of time."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_HUMANOID_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This robot doesn't look like it's Pandora,\nbut maybe it can at least change the\nflow of the sand for us?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "It sure can!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hi, Sweetcrow! Nice to see you."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_HUMANOID_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "You wouldn't happen to know anything about\nthe triangles we're looking for, would you?\nThey'd fit in this frame."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Triangles live in the ♥s of all scarecrows...\nand you're totally welcome to take\nmy ♥ home, lover girl! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_HUMANOID_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'll pass, but thanks anyway."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_HUMANOID_000_CUT_000_100": {
+    "speaker": "Sweetcrow",
+    "text": "Aww, don't be shy! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "Don't think I know you, friend.\nAre you another junker?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "No, I'm Formina. My partner Bonnie and\nI have come here looking for triangles."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Sure have!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Well now, that's some unusual treasure\nyou're out for. I mostly look for gears and\nengine parts and showerheads and... Well,\nyou know. Things people want."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_000_040": {
+    "speaker": "Junkman",
+    "text": "This place is a veritable mountain of treasure,\nbut because of that, I have a bunch of scoundrels\nin here bugging me. ...See?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "They've been fighting a war ever since\nPandora opened up—even though the\nworld's like it is and no one has any\nclue what the war is for anymore.\fHell, I don't even know if we're supposed\nto destroy this place or protect it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "This is a submarine:\nprotector of the ocean."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "You still think of this as the ocean, huh?\nThat's pretty sad. Still, if we can put an\nend to their battle, I think we should."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "For what reason?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm hoping it leads us to a triangle,\nbut I'm honestly sort of grasping\nat straws here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "Well, good luck out there. All treasure hunts\nstart from hope, and I for one hope that you\nfind what you're looking for!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Hey, thanks!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is the only place we haven't looked.\nDo you think Pandora will be here?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_000_020": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're looking for a triangle—\nand Pandora, while we're at it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_000_040": {
+    "speaker": "Engineer",
+    "text": "Pandora, eh? Yes, I've heard the rumors:\nClose the box and poof! The war is over.\nHonestly, I have doubts that something\nso convenient actually exists."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_000_050": {
+    "speaker": "Engineer",
+    "text": "Still, war robots continue to be produced\nin this place, as you've no doubt seen.\nSo if Pandora is anywhere, it's likely here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well then, let's look inside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_000_070": {
+    "speaker": "Engineer",
+    "text": "I'm coming with you. Heck, maybe we'll meet\nwhoever opened Pandora in the first place—\nalthough if they went in as a human and are\nstill alive, they're probably a monster now."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Then let's go hunt a monster!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "There are a bunch of robot production\nlines here, but most of them don't seem\nto be active."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "No, listen. <i>Something</i> is still\noperational around here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Hey, look! Monsters over that way."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "This production line's still active,\nbut what is it making?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "Sand. It's making sand."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "You scarecrows are all the same:\nliars to the last."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "I get it now! That's not sand—it's robots\nthat are the SIZE of sand! All the sand in\nthis world is actually just war robots that\nare made here!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "...Pretty sure it's just sand.\nBut even if it <i>were</i> robots,\nwhat good would that do us?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "If a single ant tried to attack you, you'd just\nbrush if off—but if a <i>swarm</i> of them did,\nit would be a different story.\fThen there's the fact those robots outside\ncan change the flow of sand. Something has the\nability to manipulate it, and I think that\n'something' is Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "Okay, let's say you're correct, and the robots\ncovered the world in sand to win the war.\nThe war is over now, but the sand remains.\nSo how are we supposed to remove it?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "The first thing we need to do is close Pandora\nand stop sand from being produced."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is hopeless.\nThere's just too much sand."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_001": {
+    "speaker": "Bonnie_Blair",
+    "text": "I can't even reckon if our attacks\nare workin' against it!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_010": {
+    "speaker": "Engineer",
+    "text": "Hey, so I found this inside.\nDo you think it will help us fight Pandora?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_011": {
+    "speaker": "Formina_Franklyn",
+    "text": "Look! That's our triangle!\nSo it <i>was</i> connected to Pandora!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_012": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, shoot. Now that we've got the triangle,\nthere ain't no reason to stay in this world.\nWhat do you think, darlin'?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_013": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's settle the score with Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_014": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's go home."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_020": {
+    "speaker": "Junkman",
+    "text": "Ho, friend! Find any treasure?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_030": {
+    "speaker": "Scarecrow",
+    "text": "We sure did!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_040": {
+    "speaker": "Junkman",
+    "text": "Glad to hear it—but there are still some\nfor whom the battle is not yet over."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_050": {
+    "speaker": "Junkman",
+    "text": "My little friend here can find all sorts\nof things buried in the sand.\fPoor thing managed to survive the war,\nbut can't seem to put it behind him.\nHoping this little treasure hunt of yours\ncan help him move past it for good."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "You're suggesting we might find some kind of\nanti-Pandora secret weapon under the sand?\nWell then, what's your name, little guy?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_070": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_000_CUT_020_080": {
+    "speaker": "Scarecrow",
+    "text": "Let's go find a secret weapon!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Did you figure out a way\nto fight the sand yet?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "We sure did—and I'm looking forward\nto seeing the results."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "So much excitement!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_000_030": {
+    "speaker": "Engineer",
+    "text": "......"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_010_000": {
+    "speaker": "Engineer",
+    "text": "I can't believe you actually ended\nup closing Pandora... This isn't the\noutcome I was expecting at all."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "You're talking like you <i>didn't</i>\nwant Pandora to be closed."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_010_020": {
+    "speaker": "Engineer",
+    "text": "If it was up to me, I would've chosen to\nleave it open, yeah. But you proved your\nown worth by doing it, and that's what\nmatters most. Anyway, keep it up!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_010_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Huh? Keep what up?\nAnd for whose sake?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "So what's that mean for me?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Why don't you come with us?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE0_FERRY_END_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "You can just relax now."
+  },
+  "SUB_W13_WRLD_BOFO_INITIAL_010_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "I can't imagine anybody livin'\nin a place with so much sand."
+  },
+  "SUB_W13_WRLD_BOFO_INITIAL_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Maybe they're just hiding somewhere—\nand if we find them, we might find a\nclue to the next triangle."
+  },
+  "SUB_W13_WRLD_BOFO_INITIAL_010_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Pbbbt! Dangnabbit! Soon as I open my mouth\nto talk, it gets filled with sand! I hate this place\nalready, so let's find what we need and get the\nheck outta here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, someone's coming!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "I ain't never seen an airship in person\nbefore—can't believe a sucker this\nbig actually used to soar the skies!\nSure wish I could ride in it..."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "The scarecrow can talk!\nI repeat, the scarecrow can talk!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'm a talker, all right!\nHaven't seen a human out this way\nin quite a few days, though.\fSo where'd you come from?\nCruise ship? Battleship? Submarine?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm Bonnie Blair, and this cute l'il darlin'\nhere is Formina Franklyn. We came to this\nplace lookin' for triangles—don't reckon\nyou know anything about that?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Oooh! Okay, so my name is Scarecrow—\ner, not that you asked. But as for <i>why</i>\nI'm a scarecrow, I have no idea.\fAlso, I don't know any triangles.\nHumans might know something though,\nso why not head over to the submarine?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_071": {
+    "speaker": "Bonnie_Blair",
+    "text": "This feller's gettin' on my last nerve;\nyou mind doing the talkin' for a spell?\nIf I gotta deal with him, I'm gonna end\nup usin' him for a punchin' bag."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_072": {
+    "speaker": "Formina_Franklyn",
+    "text": "Violence is never the answer, Bonnie;\nwe're not some hoodlums from a street gang."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Right then. Can you show us the way\nto this submarine, Scarecrow?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_AIRSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne submarine, just as promised."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "But the sands are preventing us\nfrom going any further."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "And where's that?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_HUMANOID_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This robot is like something out\nof a movie. Does it move?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_HUMANOID_000_CUT_000_010": {
+    "speaker": "Sweetcrow",
+    "text": "Sure doesn't, sweet thing! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_HUMANOID_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_HUMANOID_000_CUT_000_030": {
+    "speaker": "Sweetcrow",
+    "text": "Scarecrow, baby! Good to see you! ♥\nAnd sure, that's an easy ask. ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_HUMANOID_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "You can change the\ndirection of the sand?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_HUMANOID_000_CUT_000_050": {
+    "speaker": "Sweetcrow",
+    "text": "Not me, hot stuff. But the robot can! ♥\nGo on now, big guy! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_HUMANOID_000_CUT_010_000": {
+    "speaker": "Sweetcrow",
+    "text": "How's that, boo? ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_HUMANOID_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_HUMANOID_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Thanks, Sweetcrow."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This must be the submarine.\nDo people actually live here?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of them."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Finally, a place that isn't full of sand.\nNot hard to see why people would\nwant to make their home here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "It's not often we get visitors from\nthe outside. Who are you people?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm Formina Franklyn. My partner Bonnie\nand I are here in search of triangles.\nYou wouldn't know anything that could\nhelp us track one down, would you?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Oh, joy. Another weirdo. Well, as you\ncan see, the Crowrealm here has been\ndevastated by a war.\fWe've got scrap lying around everywhere,\nso if you see anything you want,\nfeel free to just take it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Er, that's not quite what we mean.\nWe're looking for specific triangles\nthat fit in a frame like this."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "Well, you're welcome to look wherever\nyou fancy, and I sure hope you find 'em.\nBut that's all I've got to say on that."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Okay, then. How about strange events you\nknow of, or special places you could direct\nus to? Any clues that might point us in the\nright direction, basically."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_070": {
+    "speaker": "Junkman",
+    "text": "If you're asking me for a special place\nout here in the desert, there's only\none option: Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Pandora? You mean the box\nthat was full of misfortune?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_090": {
+    "speaker": "Junkman",
+    "text": "And a scholar on top of everything!\fIf you know about Pandora, that means\nit's likely infected your world as well.\nNo wonder you're so desperate in your\nsearch for those triangles."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_100": {
+    "speaker": "Junkman",
+    "text": "Well, it won't be long until this whole world\nis devoured by Pandora, so I very much hope\nyou find what you're looking for."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "You don't know where we could\nfind Pandora, do you?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, but <i>I</i> know where it is! It could be here.\nOr there. Or way out that way someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_DIVING_000_CUT_010_130": {
+    "speaker": "Junkman",
+    "text": "Wiser words were never spoken. Look,\njust have Scarecrow take you where\nyou want to go; that's his job."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TANK_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This looks like a war robot of some kind.\nThat's a rather unpleasant find."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Aw, it's not so bad!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TANK_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "This isn't Pandora, right?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TANK_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "So it is?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TANK_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, since I don't want it to be,\nI'm going to go with my gut here\nand just assume it isn't."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Another giant robot...\nI wonder if Pandora's inside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Did the fiends also come from Pandora?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "So what's older, Pandora\nor the scarecrows?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, that conversation was pointless.\nLet's just look inside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "There sure isn't!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Pandora's not here, apparently.\nLet's go look somewhere else."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, if the sands start giving us\ntrouble again, we know who to call."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We sure do!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This robot doesn't look like it's Pandora,\nbut maybe it can at least change the\nflow of the sand for us?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "It sure can!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm no engineer, but it's weird how\nthings can affect the sands from so\nfar away, right?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Were these robots made specifically to\nchange the flow of the sand? And is there\na reason they all look so different?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "So do scarecrows operate the robots?\nAnd why <i>are</i> you scarecrows, anyway?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Ugh. This is a waste of time."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This robot doesn't look like it's Pandora,\nbut maybe it can at least change the\nflow of the sand for us?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "It sure can!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "You don't know where we could find\na triangle, do you? One that fits into\nthis frame?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "THE TRIANGLES ARE THE SCARECROWS!\n<i>I'M</i> THE TRIANGLE, BUDDY!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Uh, is that a joke?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_TWOLEGS_000_CUT_000_090": {
+    "speaker": "Spookcrow",
+    "text": "I'M NOT JOKING, BUDDY!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're looking for a triangle—\nand Pandora while we're at it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "What she said."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_000_030": {
+    "speaker": "Engineer",
+    "text": "Well, war robots continue to be produced\nin this place, so if Pandora is real,\nthis makes as much sense as anywhere."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_000_040": {
+    "speaker": "Scarecrow",
+    "text": "Speaking of which, we've got\na war robot incoming!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Was that really Pandora?\nIt was weaker than I expected."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Yes, I suppose it was a little pathetic\nfor an immortal war machine. You'll likely\nhave to keep searching somewhere else."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "<i>So</i> pathetic."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's see if we can find somewhere that's\nmore in line with what we're looking for.\nIf not, we can always come back."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "That we can!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "It's the wreckage of a battleship.\nSure looks disaster-like to me."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Could be Pandora, yep!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "This <i>is</i> Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "You know about this place?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Great. Then tell us about\nthe triangles."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_000_060": {
+    "speaker": "Wiseman",
+    "text": "The triangles are Pandora.\nDo not involve yourself with them."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, if this is Pandora, and the triangles\nare <i>also</i> Pandora, this is where we'll find\nwhat we need—so let's go have a look!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Let's go have a look!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "The battleship isn't active at the moment.\nI suppose that's no surprise."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "It sure isn't!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "And yet, I hear a sound."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Why did you come with us?\nI thought you said this was Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_010_040": {
+    "speaker": "Wiseman",
+    "text": "I do not know what lies inside.\nTherefore, I must learn."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you know anything else about Pandora?\nWe'd appreciate any help you can give."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "Pandora is sand. Pandora creates the sand.\nIt buries this world in mountains of sand,\ncausing it to suffocate."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_010_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "So all we need to do is stop more sand from\nbeing produced and grab the triangle that's\nactually Pandora? Well, that sounds simple."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_010_080": {
+    "speaker": "Scarecrow",
+    "text": "Piece of cake!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "The sand is fiends.\nThe fiends are sand."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's clearly no ordinary sand."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_020": {
+    "speaker": "Wiseman",
+    "text": "Pandora controls the sand. Every grain is\na perfect miniature recreation of Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_021": {
+    "speaker": "Scarecrow",
+    "text": "This is also Pandora!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Where did you even find that!?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_040": {
+    "speaker": "Engineer",
+    "text": "Sounds like you found Pandora.\nSo what happens now?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "I don't know. This battleship is Pandora,\nthe sand is all Pandora, the triangle we\nwere searching for is Pandora...\fIt's ALL Pandora, and yet we still don't\nhave a clue how to close the thing."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_060": {
+    "speaker": "Engineer",
+    "text": "Why not try this thing?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_070": {
+    "speaker": "Engineer",
+    "text": "I went ahead and fixed it up earlier.\nI think it's some kind of search mech?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Convenient that there's a tool to defeat\nPandora just waiting for us to find it.\nBut hey, I'll take it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "And we're off."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_END_000_CUT_000_000": {
+    "speaker": "Wiseman",
+    "text": "The time to battle Pandora has come."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_END_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "It has—and we're going to see it done."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "We sure are!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_END_000_CUT_010_000": {
+    "speaker": "Wiseman",
+    "text": "The sand has stopped.\nPandora has been sealed."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_END_000_CUT_010_020": {
+    "speaker": "Engineer",
+    "text": "I can't believe you closed Pandora...\nJust who <i>are</i> you people?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_END_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Just some weirdos here to find triangles—\nbut it takes all kinds to save the world.\nSpeaking of which, it's time for you to\nget back and save your <i>own</i> world, yes?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I want to save worlds too!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_END_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Then let's go save them together."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE1_WARSHIP_END_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "You can save them from here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, someone's coming!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "This here's a submarine, which means this\narea used to be an ocean once upon a time.\nWhat kinda crazy war did the people wage\nto turn an ocean into a dang desert?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I don't know, but there were clearly\nsurvivors, since I see a scarecrow there.\n...Not sure why crows are attacking a\nsubmarine, but hey, what do I know?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Welcome!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Or the scarecrow ITSELF was a survivor.\nDidn't consider that, but sure."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_041": {
+    "speaker": "Formina_Franklyn",
+    "text": "Watch yourself, Formina!\nThere's no tellin' what kind of weird\nweapon this thing might be packin'."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_042": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm Formina, and this is Bonnie.\nWe've come to this world looking\nfor triangles."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Wonderful to meet you as well! I'm Scarecrow,\nand I've been standing here for three thousand\ndays waiting for someone like you to come by.\nOh, but this is a glorious moment!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's a long time to be left alone;\nyou must have been incredibly lonely.\nWe'd be happy to chat a bit, if you like."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "That'd be great! I'm a talker—I <i>love</i> talking.\nSo where are the two of you from?\nThe airship? The battleship? The cruise ship?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're actually not from this world, so we\ndon't know much about it. It sounds like\nthere are other people here, though,\nso could you maybe guide us to them?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_DIVING_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne cruise ship, just as promised."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "But the sands are stopping us\nfrom going any further."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "And where's that?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is this some kind of war robot? It's not\ngoing to suddenly start moving and attack\nus like a bad movie, right?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Strangecrow! I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "You can control the sand?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Are you even listening to us?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Then I'll take that as a yes. Thanks!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_010_000": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TANK_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Thanks, Strangecrow."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just seeing an abandoned cruise ship like this\nmakes you feel like something bad is going to\nhappen inside. Are we going to find a triangle\nhere, or just a lot of trouble?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I don't know about any triangles,\nbut you'll sure find people!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Yup. This place screams 'ghost ship'\nmore than 'cruise ship.'"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Well? What have you brought me?\nPlease say you have copper wire;\nI desperately need it for my motors."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're not peddlers, I'm afraid.\nWe're just searching for triangles\nfor reasons we can't get into."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "Ah, I see. I thought you were a junker.\nWell, I'm the Engineer, and I don't know\nanything about abstract objects like triangles—\nand nor do I care, if we're being honest."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "You don't happen to know any special places\nwhere strange things happen, do you?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "In this sand-blighted hellhole? Hmmm...\nWell, I suppose a place like that\nwould have to be Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Pandora? As in the box of misfortune?\nThat sounds even more abstract than\nwhat we were talking about."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "In this world, Pandora is real. It is Pandora\nthat plunged this place into war and ruin,\nand the horror of that continues to this day.\fSo if we hope to free ourselves from all of\nthis someday, we must find a way to survive\nand close Pandora once and for all."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Maybe Pandora has something to do\nwith the triangles we're seeking."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "You're going to close it?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'll do whatever it takes to get a triangle,\nbut aside from that, no promises.\nNow where can I find Pandora?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_110": {
+    "speaker": "Engineer",
+    "text": "I have no idea where Pandora is.\nI suggest you ask a scarecrow."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_120": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you know where Pandora is?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_130": {
+    "speaker": "Scarecrow",
+    "text": "Of course! You simply go this way,\nthen that way, then some way!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_140": {
+    "speaker": "Formina_Franklyn",
+    "text": "Lead the way."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FERRY_000_CUT_010_150": {
+    "speaker": "Scarecrow",
+    "text": "Delighted to help!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Another giant robot...\nI wonder if Pandora's inside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is this Pandora?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you know where Pandora is?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you know <i>anything</i>?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Ugh. This is a waste of time."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This robot doesn't look like it's Pandora,\nbut maybe it can at least change the\nflow of the sand for us?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "It sure can!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you know where we might find\na triangle that fits in this frame?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "SURE DON'T!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Another giant robot...\nI wonder if Pandora's inside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Did the fiends also come from Pandora?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "So what's older, Pandora\nor the scarecrows?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, that conversation was pointless.\nLet's just look inside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "There sure isn't!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Pandora's not here, apparently.\nLet's go look somewhere else."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe! The fiends are gone,\nso I now have a triangle inside me."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, we can't very well rip you apart to\nget it out, so just take good care of it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_INDUSTRIAL_000_CUT_010_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Sadness! Oh, you're so kind!\nI hope you find your triangle soon!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_HUMANOID_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This robot doesn't look like it's Pandora,\nbut maybe it can at least change the\nflow of the sand for us?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "It sure can!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_HUMANOID_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you know where we might find\na triangle that fits in this frame?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Sure thing, sweet cheeks! ♥ Just ask\nyourself this: what's the most special-est\nplace in the entire Crowrealm, hmm? ♥\nHere's a hint: it's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_HUMANOID_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "No idea."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_HUMANOID_000_CUT_000_080": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "It's the wreckage of a battleship.\nIt sure looks disaster-like to me."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Yep! This could be Pandora!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "No. This is not Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you know anything about Pandora?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Whoopsie! War robot incoming!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I hope that wasn't Pandora.\nThat'd be a real letdown."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "Did I not just tell you\nthis is not Pandora?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "So where is it, then?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I don't know."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "I had a feeling you'd say that...\nWell, let's just look somewhere else."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "I'll help!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "And just what do you plan to do\nonce you actually find Pandora!?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is the only place\nwe haven't looked yet."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Yes, we came from another world in search\nof triangles. Do you know if Pandora is\nsomewhere around here?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So the legends are true—an outsider will\nopen Pandora, and an outsider will close it!\nIs this prophecy? An accurate prediction?\nA cleverly executed program?\fWhatever it may be, one thing is certain:\nhistory will now begin to move."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Professor",
+    "text": "Yes, well, introductions! I'm the Professor,\nand I'm researching the Crowrealm's history.\nI've spent hour after endless hour in this place,\nbut today, you will put an end to that!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just so we're clear, our main priority is\nfinding a triangle; Pandora's just something\nwe hope will lead us to it.\fSo how are we meant to close it, then?\nDoes it have a lid like an actual box?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Professor",
+    "text": "I haven't the faintest idea; no one has\never seen Pandora for themselves.\nEven if it were inside this airship, I doubt\nyou'd gain access to it so easily."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, if there might be a triangle in there,\nwe've got to get inside. I'm going to see\nif there's a way to do that."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Let's go check!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "It's well-guarded, so there's clearly\n<i>something</i> important in here. \nNow where could Pandora be...?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "Pandora's secrets lie deeper within.\nLet's go, so I might witness history!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Deeper within!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Moving sand... So <i>this</i> is the truth of Pandora?\nIt's just digging up sand from somewhere and\nscattering it all across our world?\fAbsurd! Ridiculous! Complete and utter rot!\nI can't believe we let all time come to a\nstandstill because we were afraid of <i>this</i>!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "This isn't sand—it's robots!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "If the sand is robots, that explains\nhow it can be controlled."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "I fear I don't understand."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "It unfortunately means we're currently\nsurrounded by countless robots. I just\nhope we can get out of this place alive."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Scarecrow",
+    "text": "Living is good, and I'd like to do\na whole lot more of it!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "We made it!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, we managed to make it out,\nbut we clearly don't stand a chance\nagainst that many sand robots at once."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_020": {
+    "speaker": "Professor",
+    "text": "The legends say you can close Pandora,\nso I'm sure it's possible."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_021": {
+    "speaker": "Formina_Franklyn",
+    "text": "Fortunately, the triangle we stumbled on\nduring the battle is exactly what we came\nhere for in the first place."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_050": {
+    "speaker": "Wiseman",
+    "text": "You will need power equal to Pandora's\nown if you wish to fight it and win."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Okay, what do you want now?\nWhat do you know?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_070": {
+    "speaker": "Wiseman",
+    "text": "Use this. It hates Pandora, and may prove\na great aid in your upcoming fight."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_080": {
+    "speaker": "Wiseman",
+    "text": "Hate begets nothing!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "Whatever you say."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_100": {
+    "speaker": "Sarab",
+    "text": "Sarab will kill Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "Hey! Where are you going!?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_000_CUT_020_120": {
+    "speaker": "Scarecrow",
+    "text": "Where are you going!?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_END_000_CUT_000_000": {
+    "speaker": "Professor",
+    "text": "The time has come at last... Oh, to think\nI might witness a turning point in history\nwith my own eyes."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_END_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "We'll see it done."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "We will!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_END_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Can you believe it!? I was actually\nable to experience the moment\na legend became reality!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_END_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "Hate really does beget nothing."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_END_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "You did it! You actually closed Pandora!\nHa ha haaa... Hey, wait. What the heck are\nwe supposed to do with the rest of our lives?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, how am I supposed to live?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_END_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Come with us."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE2_AIRSHIP_END_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Live as you always have."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FERRY_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Human incoming!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FERRY_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "This reminds me of the cruise ship that\nsank 'cause the crew got a might careless.\nThis is why you'll never find this gal on\na ship 'less I got no other choice!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FERRY_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Actually, this ship might not have sank;\nthe ocean could've dried up around it.\nThere's no way for us to know."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FERRY_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Actually, this place was already\na ruin when I got here!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FERRY_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is that a talking doll? Or a guy in a suit?\nIt's clearly someone dressed as a scarecrow,\nbut I can't believe how realistic it is...\fAnyway, hello there, Mr. Scarecrow.\nI'm Formina Franklyn, and this is\nmy partner, Bonnie Blair."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FERRY_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Why, yes! I <i>am</i> Scarecrow, actually!\nI had no idea I was famous enough for\ncomplete strangers to know my name!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FERRY_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're here searching for a triangle.\nYou wouldn't happen to have seen\none anywhere, would you?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FERRY_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Sure haven't! But you should\ntry asking someone else.\nHere, I'll show you the way!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne battleship, just as promised."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "But the sand is stopping us\nfrom going any further."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "And where's that?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This robot is like something out\nof a movie. Does it move?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Smilecrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "Aha ha ha ha ha! Scarecrow?\nAha ha ha ha ha! The flow of sand?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "You can change the\ndirection of the sand?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FOURLEGS_000_CUT_010_000": {
+    "speaker": "Smilecrow",
+    "text": "The flow of sand! Aha ha ha ha!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FOURLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_FOURLEGS_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Thanks, Smilecrow."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Even the battleship's gone to ruin.\nAre there really people living here?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "There sure are! But you won't\nfind any triangles."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Everything's shut down inside.\nI suppose that makes sense."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "The arrival of souls from the\noutside world is an omen."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "How do you know we're\nfrom the outside?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "In that case, where's our triangle?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_050": {
+    "speaker": "Wiseman",
+    "text": "What's this about a triangle?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "I knew it. People who insist they're\nall-knowing can't ever be trusted.\fOh, but don't worry—I wasn't expecting\nanything from you to begin with."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_070": {
+    "speaker": "Wiseman",
+    "text": "I'm not sure how you can expect me\nto not feel slighted by that response.\fBut very well! I shall reveal your fate:\nyou will find Pandora within the submarine.\nAll else must be decided by you"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you know where this\nsubmarine is, Scarecrow?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_090": {
+    "speaker": "Scarecrow",
+    "text": "Sure do! Follow me!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "I wonder what Pandora even is..."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_WARSHIP_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "I wonder!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you think this robot has\nsomething to do with triangles?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "You haven't seen any triangles, have you?\nOnes that fit into this frame?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Spookcrow",
+    "text": "NOPE! NEVER!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "It's another giant robot. I wonder\nif there's a triangle inside it?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Did the fiends also come from Pandora?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "So what's older, Pandora\nor the scarecrows?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, that conversation was pointless.\nLet's just look inside."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "There sure isn't!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Pandora's not here, apparently.\nLet's go look somewhere else."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, if the sands start giving us\ntrouble again, we know who to call."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We sure do!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_HUMANOID_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you think this robot has\nsomething to do with triangles?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Nope! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "What's the most special-est place in the\nentire Crowrealm, hmm? ♥ Here's a hint:\nit's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_HUMANOID_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "I have no idea."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TANK_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is this another robot? Because it just looks\nlike a tank. Does it have something to do\nwith the triangles?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TANK_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "It does?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TANK_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Why do I feel like you don't have\nany idea what you're talking about?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TANK_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "No triangles here, then. Got it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_TANK_000_CUT_000_100": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This airship clearly hasn't\nbeen used in a while."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Yes, actually. We came from another\nworld in search of triangle."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So you're not here to close Pandora? Blast!\nWell, I am the Professor, a researcher of\nthe Crowrealm's history who is also seeking\na way to seal Pandora for good."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "A man in the battleship who called himself\nthe Wiseman said we're going to find Pandora\nin the submarine."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Professor",
+    "text": "The Wiseman said that? Then you\nmust go to the submarine at once!\nThis place holds nothing for you!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "But we have an enemy incoming..."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Now go! Find the Junkman in the submarine,\nand get his help to close Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Please?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just what <i>is</i> Pandora, anyway?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Whatever. Let's find the submarine.\nWe can think when we're there."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "It might be there!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "It might not be there!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Yup, this is a submarine, all right.\nI guess this area must've also been an\nocean at some point in the past, though I\nwonder if we'll really find Pandora here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_000_010": {
+    "speaker": "Junkman",
+    "text": "Outsiders have come just as the Wiseman\nforetold! He said it would be up to you\nwhether or not you closed Pandora.\nSo...will you?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "We came here in search of a triangle.\nIf obtaining that requires closing Pandora,\nthat's that's what we're going to do."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Pandora is the cause of all desolation in\nthis world. It brought calamity to the land\nand launched a war that rages to this day.\fAnd if we hope to right these most\nterrible wrongs, we must close Pandora."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you really think we can do that?\nHave you ever considered the possibility\nthat the prophecy is wrong?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_000_050": {
+    "speaker": "Junkman",
+    "text": "I mean, just looking at you, I wouldn't think\nyou could do it. And yet, you've got a certain\nmoxie, so I think you'll pull through for us."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "For us!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, first we need to find out if Pandora\nis in the submarine. That's step one."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "The fact there are security robots around\ncertainly suggests <i>something</i> is here.\nBut so far, we haven't found anything."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "Not as of yet, but the path goes on.\nNow come. I know we will find it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "We'll find it!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm not seeing anything but sand—are you sure\nPandora really exists? It's not just a fever dream\nthe people here dreamed up so they had\nsomething to blame this world's ruin on?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_040": {
+    "speaker": "Junkman",
+    "text": "The sand... Of course! The <i>sand</i> is the\ncause of all this! The <i>sand</i> is Pandora!\fIt was created here in this place,\nand once it spread across the Crowrealm,\nit sent the entire world to ruin."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Now you're blaming everything on sand?\nWhatever. Let's just get out of here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_070": {
+    "speaker": "Junkman",
+    "text": "I cannot allow the truth to leave this place.\nThis world has given up on moving forward,\ninstead blaming everything on Pandora—\nand that is how it must remain."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_080": {
+    "speaker": "Junkman",
+    "text": "I hear you have come in\nsearch of a triangle, yes?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_090": {
+    "speaker": "Junkman",
+    "text": "Here it is. Take it and leave,\ntelling no one what you know."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "You can't silence me!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "You've got a deal."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_120": {
+    "speaker": "Junkman",
+    "text": "I'll need your silence as well."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_010_130": {
+    "speaker": "Junkman",
+    "text": "Then you leave me no choice but force!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_020_000": {
+    "speaker": "Professor",
+    "text": "I hear you found Pandora!\nDid you manage to close it?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Pandora never existed in the first place.\nHow are we supposed to close something\nthat doesn't even exist?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_020_020": {
+    "speaker": "Professor",
+    "text": "Is this true, Junkman?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_020_030": {
+    "speaker": "Junkman",
+    "text": "Seems so. If this world is going to be saved,\nit will be done not by an outsider, but by\nthe sweat and toil of those who live here."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_020_040": {
+    "speaker": "Professor",
+    "text": "Well, I suppose that's not so bad;\nthe Crowrealm is our home, after all,\nso it's only fitting that we should\nbe the main characters in its story.\fYou have my thanks—and I swear to\nyou now, we <i>will</i> take our world\nback! We cannot thank you enough."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_020_050": {
+    "speaker": "Scarecrow",
+    "text": "I'm going to help them!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_020_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Good luck."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_000_CUT_020_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Or you can come with us."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Pandora really is sand after all... \nBut if every grain of sand is Pandora,\nthere's no way we can close it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_010": {
+    "speaker": "Junkman",
+    "text": "The prophecy claims you can,\nso it must be true. Now take this."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_011": {
+    "speaker": "Bonnie_Blair",
+    "text": "That's the triangle we're lookin' for!\nYou had it this whole dang time!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_020": {
+    "speaker": "Junkman",
+    "text": "It was inside Pandora—and the prophecy\nstated you would obtain it, as well.\nAll has come to pass as it was foretold."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_030": {
+    "speaker": "Professor",
+    "text": "Well done! I hear you found Pandora!\nDid you manage to close it?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm sorry, but Pandora is actually the sand—\nas in, <i>all</i> of the sand. We simply don't have\nthe strength to close it."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_050": {
+    "speaker": "Professor",
+    "text": "The sand is...? But no, that can't be!\nThe sand isn't attacking us!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Maybe it hasn't been switched on,\nor maybe it hasn't been ordered to...\fWait, that's it! We need a way to stop\norders being relayed to the sand!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_070": {
+    "speaker": "Professor",
+    "text": "Wonderful! Now here, take this.\nHe's my little helper and a good,\nfine boy, and I know he'll aid you."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, howdy there, pardner!\nWhat's your handle?"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_090": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_010_CUT_020_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "Pleased to meet you, Sarab."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_END_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "You can do it. You <i>will</i>.\nThe prophecy says as much."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_END_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "You clearly have high hopes for us."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "We sure do!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_END_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "The prophecy has been fulfilled,\nand Pandora is closed at last."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_END_000_CUT_010_020": {
+    "speaker": "Professor",
+    "text": "The Crowrealm has finally been returned to us,\nand from this day forward, we shall restore it\nto its former glory with our own hands!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_END_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I foresaw all!"
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I'm going to stay here and help\nwith the restoration."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_END_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Good luck there, bud."
+  },
+  "SUB_W13_EVAR_BOFO_ROUTE3_DIVING_END_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Actually, why not come with me?"
+  }
+}

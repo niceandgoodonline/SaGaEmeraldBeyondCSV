@@ -1,0 +1,22 @@
+{
+  "W15_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Vermiglio, Land of Triangles"
+  },
+  "W15_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A world choked by smog awaited you on the other side of the door. Could the Vermilion Bird be the source of the smog?"
+  },
+  "W15_EVAR_AMYA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Past the Dreamland Gates"
+  },
+  "W15_EVAR_AMYA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W15_EVAR_AMYA_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Miyako City"
+  }
+}

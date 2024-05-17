@@ -1,0 +1,266 @@
+{
+  "UI_Ttl_T_Copyright": {
+    "speaker": "UI",
+    "text": "© SQUARE ENIX"
+  },
+  "UI_Ttl_T_NewGame": {
+    "speaker": "UI",
+    "text": "New Game"
+  },
+  "UI_Ttl_T_Continue": {
+    "speaker": "UI",
+    "text": "Continue"
+  },
+  "UI_Ttl_T_Option": {
+    "speaker": "UI",
+    "text": "Options"
+  },
+  "UI_Ttl_T_PushAnyButton": {
+    "speaker": "UI",
+    "text": "Press Any Button"
+  },
+  "UI_Ttl_ItemName_Option": {
+    "speaker": "UI",
+    "text": "Options"
+  },
+  "UI_Ttl_ItemName_KeyConfig": {
+    "speaker": "UI",
+    "text": "Controls"
+  },
+  "UI_Ttl_ItemName_KeyboardConfig": {
+    "speaker": "UI",
+    "text": "Keyboard Controls"
+  },
+  "UI_Ttl_T_LoadFolder": {
+    "speaker": "UI",
+    "text": "Play Using Other Data"
+  },
+  "UI_Ttl_T_ExitGame": {
+    "speaker": "UI",
+    "text": "Quit Game"
+  },
+  "UI_Ttl_T_PushAnyButton_Touch": {
+    "speaker": "UI",
+    "text": "Touch the Screen to Start"
+  },
+  "UI_Ttl_T_NewGame_Inst": {
+    "speaker": "UI",
+    "text": "Select a protagonist and embark on a new adventure."
+  },
+  "UI_Ttl_T_Continue_Inst": {
+    "speaker": "UI",
+    "text": "Resume your adventure from where you left off."
+  },
+  "UI_Ttl_T_Option_Inst": {
+    "speaker": "UI",
+    "text": "Adjust a variety of game settings."
+  },
+  "UI_Ttl_ItemName_Option_Inst": {
+    "speaker": "UI",
+    "text": "Adjust game settings."
+  },
+  "UI_Ttl_ItemName_KeyConfig_Inst": {
+    "speaker": "UI",
+    "text": "Adjust your button configuration."
+  },
+  "UI_Ttl_ItemName_KeyboardConfig_Inst": {
+    "speaker": "UI",
+    "text": "Adjust your key configuration when using a keyboard."
+  },
+  "UI_Ttl_T_LoadFolder_Inst": {
+    "speaker": "UI",
+    "text": "Resume your adventure using saved data from\nprevious protagonists or playthroughs.\nSaved data can be deleted here as well."
+  },
+  "UI_Ttl_T_ExitGame_Inst": {
+    "speaker": "UI",
+    "text": "Quit the game."
+  },
+  "UI_Ttl_Footer_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Ttl_Footer_Cancel_Inst": {
+    "speaker": "UI",
+    "text": "Return to the previous screen."
+  },
+  "UI_CharaSelect_Footer_Decide": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_CharaSelect_Footer_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_PlayerSelect_Title": {
+    "speaker": "UI",
+    "text": "Select Protagonist"
+  },
+  "UI_PlayerSelect_ClearCount": {
+    "speaker": "UI",
+    "text": "Times Completed"
+  },
+  "UI_DataTransferCaption": {
+    "speaker": "UI",
+    "text": "Categories to Carry Over"
+  },
+  "UI_DataTransfer_BtnOnText": {
+    "speaker": "UI",
+    "text": "On"
+  },
+  "UI_DataTransfer_BtnOffText": {
+    "speaker": "UI",
+    "text": "Off"
+  },
+  "UI_DataTransfer_Decide": {
+    "speaker": "UI",
+    "text": "Proceed"
+  },
+  "UI_DataTransfer_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_DataTransfer_Reset": {
+    "speaker": "UI",
+    "text": "Recommended"
+  },
+  "UI_DataTransfer_Title_Param": {
+    "speaker": "UI",
+    "text": "Attributes"
+  },
+  "UI_DataTransfer_Detail_Param": {
+    "speaker": "UI",
+    "text": "Disable to reset values to their defaults. If your battle rank is high, your starting stats will be too."
+  },
+  "UI_DataTransfer_Title_Arts": {
+    "speaker": "UI",
+    "text": "Techs & Spells"
+  },
+  "UI_DataTransfer_Detail_Arts": {
+    "speaker": "UI",
+    "text": "Carry over your techs and spells (including custom and inherited techs)."
+  },
+  "UI_DataTransfer_Title_Role": {
+    "speaker": "UI",
+    "text": "Roles & Souls"
+  },
+  "UI_DataTransfer_Detail_Role": {
+    "speaker": "UI",
+    "text": "Carry over your roles and souls (including soul ranks)."
+  },
+  "UI_DataTransfer_Title_MonsterArts": {
+    "speaker": "UI",
+    "text": "Monster Absorption Status"
+  },
+  "UI_DataTransfer_Detail_MonsterArts": {
+    "speaker": "UI",
+    "text": "Enable to carry over absorption status from when the game was last completed. Disable to reset values to their defaults."
+  },
+  "UI_DataTransfer_Title_ArtsRank": {
+    "speaker": "UI",
+    "text": "Tech Ranks"
+  },
+  "UI_DataTransfer_Detail_ArtsRank": {
+    "speaker": "UI",
+    "text": "Carry over Tech Ranks."
+  },
+  "UI_DataTransfer_Title_Formation": {
+    "speaker": "UI",
+    "text": "Formations"
+  },
+  "UI_DataTransfer_Detail_Formation": {
+    "speaker": "UI",
+    "text": "Carry over acquired formations."
+  },
+  "UI_DataTransfer_Title_Item": {
+    "speaker": "UI",
+    "text": "Items"
+  },
+  "UI_DataTransfer_Detail_Item": {
+    "speaker": "UI",
+    "text": "Enable to carry over items possessed when the game was last completed. Disable to reset values to their defaults."
+  },
+  "UI_DataTransfer_Title_Trade": {
+    "speaker": "UI",
+    "text": "Trading Rank"
+  },
+  "UI_DataTransfer_Detail_Trade": {
+    "speaker": "UI",
+    "text": "Carry over your Trading Rank."
+  },
+  "UI_DataTransfer_Title_Mission": {
+    "speaker": "UI",
+    "text": "Mr. S's Trials"
+  },
+  "UI_DataTransfer_Detail_Mission": {
+    "speaker": "UI",
+    "text": "Carry over both Mr. S's trials and your Trial Rank."
+  },
+  "UI_DataTransfer_Title_Hp": {
+    "speaker": "UI",
+    "text": "HP"
+  },
+  "UI_DataTransfer_Detail_Hp": {
+    "speaker": "UI",
+    "text": "Disable to reset values to their defaults. If your battle rank is high, your starting stats will be too."
+  },
+  "UI_DataTransfer_Title_SkillLevel": {
+    "speaker": "UI",
+    "text": "Skill Levels"
+  },
+  "UI_DataTransfer_Detail_SkillLevel": {
+    "speaker": "UI",
+    "text": "Disable to reset values to their defaults. If your battle rank is high, your starting stats will be too."
+  },
+  "UI_DataTransfer_Title_BattleRank": {
+    "speaker": "UI",
+    "text": "Battle Rank"
+  },
+  "UI_DataTransfer_Detail_BattleRank": {
+    "speaker": "UI",
+    "text": "Enable to make your foes stronger. Your characters will also start out stronger and grow more easily."
+  },
+  "UI_Ttl_T_CloudSave_Inst": {
+    "speaker": "UI",
+    "text": "Back up save data to the cloud, or restore it to your device."
+  },
+  "UI_Ttl_T_CloudSave": {
+    "speaker": "UI",
+    "text": "Cloud Save Data Management"
+  },
+  "UI_DataTransfer_SelectDialog_Text": {
+    "speaker": "UI",
+    "text": "In this game, data from completed playthroughs can be\ncarried over into future playthroughs. As a general rule,\neach category will be kept updated so its greatest value\nis always recorded. It's possible to choose which categories\ncarry over yourself, but you can also start a new game\nas is and just use the game's recommended categories.\nWould you like to choose which categories carry over?"
+  },
+  "UI_DataTransfer_SelectDialog_Caption": {
+    "speaker": "UI",
+    "text": "Carry Over Confirmation"
+  },
+  "UI_DataTransfer_SelectDialog_Choice01": {
+    "speaker": "UI",
+    "text": "Carry Over Screen"
+  },
+  "UI_DataTransfer_SelectDialog_Choice02": {
+    "speaker": "UI",
+    "text": "Start Like This"
+  },
+  "UI_DataTransfer_SelectDialog_Choice03": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_DataTransfer_CheckDialog_Text": {
+    "speaker": "UI",
+    "text": "Confirm categories to carry over?"
+  },
+  "UI_DataTransfer_CheckDialog_Caption": {
+    "speaker": "UI",
+    "text": "Carry Over Confirmation"
+  },
+  "UI_DataTransfer_CheckDialog_Choice01": {
+    "speaker": "UI",
+    "text": "Start Game"
+  },
+  "UI_DataTransfer_CheckDialog_Choice02": {
+    "speaker": "UI",
+    "text": "Back"
+  }
+}

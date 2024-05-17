@@ -1,0 +1,1042 @@
+{
+  "MissionEmpty_MissionText": {
+    "speaker": "UI",
+    "text": "Try taking on some of my trials.\n\nI'll toss something nice your way\nfor each one you complete."
+  },
+  "MissionNew_MissionText": {
+    "speaker": "UI",
+    "text": "Some new trials have been unlocked.\n\nTake a look through the list\nto see what's available."
+  },
+  "Mission_0001_MissionName": {
+    "speaker": "UI",
+    "text": "Deal Critical Damage"
+  },
+  "Mission_0001_MissionDescription": {
+    "speaker": "UI",
+    "text": "Deal critical damage to an enemy using a type of attack to which they are vulnerable."
+  },
+  "Mission_0001_MissionText": {
+    "speaker": "UI",
+    "text": "The amount of damage you deal to an\nadversary will increase if you use\nattack types to which they are\nvulnerable. Exploit your enemies'\nvulnerabilities!"
+  },
+  "Mission_0011_MissionName": {
+    "speaker": "UI",
+    "text": "Critical Execution"
+  },
+  "Mission_0011_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat an enemy by exploiting their vulnerabilities."
+  },
+  "Mission_0011_MissionText": {
+    "speaker": "UI",
+    "text": "The amount of damage you deal to an\nadversary will increase if you use\nattack types to which they are\nvulnerable. Exploit your enemies'\nvulnerabilities!"
+  },
+  "Mission_0021_MissionName": {
+    "speaker": "UI",
+    "text": "Disrupt a Combo"
+  },
+  "Mission_0021_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use a conditional tech to disrupt an enemy's combo."
+  },
+  "Mission_0031_MissionName": {
+    "speaker": "UI",
+    "text": "Quell a Conditional"
+  },
+  "Mission_0031_MissionDescription": {
+    "speaker": "UI",
+    "text": "Quell an enemy's conditional tech."
+  },
+  "Mission_0031_MissionText": {
+    "speaker": "UI",
+    "text": "When attempting to quell a\nconditional, do all you can\nto not accidentally activate\nan interrupt in the process.\nInterrupts occur in response\nto specific attack types."
+  },
+  "Mission_0041_MissionName": {
+    "speaker": "UI",
+    "text": "Preemptive Execution"
+  },
+  "Mission_0041_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat an enemy before they act."
+  },
+  "Mission_0041_MissionText": {
+    "speaker": "UI",
+    "text": "Some say fortune favors the bold.\nI say fortune favors whoever happens\nto be fastest on the trigger!"
+  },
+  "Mission_0051_MissionName": {
+    "speaker": "UI",
+    "text": "150% Combo Rate"
+  },
+  "Mission_0051_MissionDescription": {
+    "speaker": "UI",
+    "text": "Achieve a combo rate of 150%."
+  },
+  "Mission_0051_MissionText": {
+    "speaker": "UI",
+    "text": "There are many ways to raise your\ncombo rate, but the easiest is to\nget more of your team involved.\nSome formations are better suited\nto setting up United Attacks,\nso try making use of them."
+  },
+  "Mission_0052_MissionName": {
+    "speaker": "UI",
+    "text": "200% Combo Rate"
+  },
+  "Mission_0052_MissionDescription": {
+    "speaker": "UI",
+    "text": "Achieve a combo rate of 200%."
+  },
+  "Mission_0052_MissionText": {
+    "speaker": "UI",
+    "text": "To aim for greater heights,\nyou must first learn all the ways\nyou can raise your combo rate.\nMake good use of additional combo,\nvanquish, vengeance, and capture\nbonuses that can be activated when\nperforming United Attacks."
+  },
+  "Mission_0061_MissionName": {
+    "speaker": "UI",
+    "text": "Clean Sweep"
+  },
+  "Mission_0061_MissionDescription": {
+    "speaker": "UI",
+    "text": "Emerge victorious without anyone in your retinue becoming incapacitated."
+  },
+  "Mission_0061_MissionText": {
+    "speaker": "UI",
+    "text": "If you know the enemy and yourself,\nyou need not fear the result of\na hundred battles."
+  },
+  "Mission_0071_MissionName": {
+    "speaker": "UI",
+    "text": "Double Kill"
+  },
+  "Mission_0071_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat two or more enemies at once."
+  },
+  "Mission_0071_MissionText": {
+    "speaker": "UI",
+    "text": "There is no success to be found\nin attacking enemies at random.\nKeep a close eye on how much\nHP your opponents have left."
+  },
+  "Mission_0072_MissionName": {
+    "speaker": "UI",
+    "text": "Triple Kill"
+  },
+  "Mission_0072_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat three or more enemies at once."
+  },
+  "Mission_0072_MissionText": {
+    "speaker": "UI",
+    "text": "Managing your enemies' HP will be\nmore important now than ever before.\n\nYou'll need to pay close attention\nif you plan to pull this one off."
+  },
+  "Mission_0081_MissionName": {
+    "speaker": "UI",
+    "text": "Combo Range Capture"
+  },
+  "Mission_0081_MissionDescription": {
+    "speaker": "UI",
+    "text": "Capture part of your enemies' combo range to create your own combo."
+  },
+  "Mission_0081_MissionText": {
+    "speaker": "UI",
+    "text": "Only a combo can capture part of\nanother combo's effective range.\nPay close attention to the timeline."
+  },
+  "Mission_0091_MissionName": {
+    "speaker": "UI",
+    "text": "Protect"
+  },
+  "Mission_0091_MissionDescription": {
+    "speaker": "UI",
+    "text": "Successfully perform a protect."
+  },
+  "Mission_0091_MissionText": {
+    "speaker": "UI",
+    "text": "Sometimes the best offense is a good defense.\n\nThere are times when minimizing\ndamage taken is more important\nthan dealing damage yourself."
+  },
+  "Mission_0101_MissionName": {
+    "speaker": "UI",
+    "text": "Disrupt Chanting"
+  },
+  "Mission_0101_MissionDescription": {
+    "speaker": "UI",
+    "text": "Disrupt the chanting of an enemy's spell."
+  },
+  "Mission_0101_MissionText": {
+    "speaker": "UI",
+    "text": "Enemies are defenseless while\nchanting. If you see someone\nattempting to cast a spell,\nfocus on taking them out."
+  },
+  "Mission_0111_MissionName": {
+    "speaker": "UI",
+    "text": "Disrupt Action"
+  },
+  "Mission_0111_MissionDescription": {
+    "speaker": "UI",
+    "text": "Stop an enemy's action with a stun or paralysis effect."
+  },
+  "Mission_0111_MissionText": {
+    "speaker": "UI",
+    "text": "Enemies are more vulnerable to status\nailments when their HP is low.\nRemember that fact well!"
+  },
+  "Mission_0121_MissionName": {
+    "speaker": "UI",
+    "text": "3x Chain Combo"
+  },
+  "Mission_0121_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a 3x combo using a chain."
+  },
+  "Mission_0121_MissionText": {
+    "speaker": "UI",
+    "text": "Chain techs have a combo range\nof <emoji CoopRange05>, but there are clever\nways to work them into combos."
+  },
+  "Mission_0122_MissionName": {
+    "speaker": "UI",
+    "text": "4x Chain Combo"
+  },
+  "Mission_0122_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a 4x combo using a chain."
+  },
+  "Mission_0122_MissionText": {
+    "speaker": "UI",
+    "text": "Chain techs have a combo range\nof <emoji CoopRange05>, but there are clever\nways to work them into combos."
+  },
+  "Mission_0131_MissionName": {
+    "speaker": "UI",
+    "text": "3x Counterattack Combo"
+  },
+  "Mission_0131_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a 3x combo using a counterattack."
+  },
+  "Mission_0131_MissionText": {
+    "speaker": "UI",
+    "text": "Working a counterattack into\na combo is something that\nrequires careful thought."
+  },
+  "Mission_0132_MissionName": {
+    "speaker": "UI",
+    "text": "2x Counterattack Combo"
+  },
+  "Mission_0132_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a 2x combo using a counterattack."
+  },
+  "Mission_0132_MissionText": {
+    "speaker": "UI",
+    "text": "A character who performs a\ncounterattack will be placed\nbehind their target on the\ntimeline. Take a moment to\npredict how things will play\nout on the timeline while\nplanning your strategy."
+  },
+  "Mission_0141_MissionName": {
+    "speaker": "UI",
+    "text": "Showstopper Execution"
+  },
+  "Mission_0141_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use a showstopper to defeat the final enemy in a battle."
+  },
+  "Mission_0141_MissionText": {
+    "speaker": "UI",
+    "text": "Performing a showstopper isn't\ndifficult once you grasp how\nto get one going."
+  },
+  "Mission_0151_MissionName": {
+    "speaker": "UI",
+    "text": "Interrupt Execution"
+  },
+  "Mission_0151_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat an enemy with an interrupt."
+  },
+  "Mission_0151_MissionText": {
+    "speaker": "UI",
+    "text": "All techs possess certain attack types.\nShould you wish to perform a\nsuccessful interrupt, you must\nremain keenly aware of the attack\ntype being used by your foes."
+  },
+  "Mission_0161_MissionName": {
+    "speaker": "UI",
+    "text": "Combo Extravaganza"
+  },
+  "Mission_0161_MissionDescription": {
+    "speaker": "UI",
+    "text": "Activate three allied or enemy combos in a single turn."
+  },
+  "Mission_0161_MissionText": {
+    "speaker": "UI",
+    "text": "The key to this challenge is to set up\nas many small United Attacks as\npossible, be it for yourself or for the\nenemy. Think hard about how to\norganize yourself along the timeline."
+  },
+  "Mission_0162_MissionName": {
+    "speaker": "UI",
+    "text": "Combo Extravaganza"
+  },
+  "Mission_0162_MissionDescription": {
+    "speaker": "UI",
+    "text": "Activate four allied and/or enemy combos in a single turn."
+  },
+  "Mission_0162_MissionText": {
+    "speaker": "UI",
+    "text": "The key to this challenge is to set\nup as many small combos as possible.\nThink hard about how to organize\nyourself along the timeline."
+  },
+  "Mission_0171_MissionName": {
+    "speaker": "UI",
+    "text": "Double-Kill Combo"
+  },
+  "Mission_0171_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat two or more enemies with a single combo."
+  },
+  "Mission_0171_MissionText": {
+    "speaker": "UI",
+    "text": "Start by lowering your enemies' HP,\nthen set up a combo to take them\nout all at once."
+  },
+  "Mission_0172_MissionName": {
+    "speaker": "UI",
+    "text": "Triple-Kill Combo"
+  },
+  "Mission_0172_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat three or more enemies with a single combo."
+  },
+  "Mission_0172_MissionText": {
+    "speaker": "UI",
+    "text": "Succeeding in this trial will require\ndeft management of your enemies' HP."
+  },
+  "Mission_0181_MissionName": {
+    "speaker": "UI",
+    "text": "Double-Kill Showstopper"
+  },
+  "Mission_0181_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat two or more enemies with a single showstopper."
+  },
+  "Mission_0181_MissionText": {
+    "speaker": "UI",
+    "text": "Lower your enemies' HP,\nthen unleash a showstopper\nto remember."
+  },
+  "Mission_0182_MissionName": {
+    "speaker": "UI",
+    "text": "Triple-Kill Showstopper"
+  },
+  "Mission_0182_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat three or more enemies with a single showstopper."
+  },
+  "Mission_0182_MissionText": {
+    "speaker": "UI",
+    "text": "Overcoming this trial will require\ncareful timeline management.\nI look forward to seeing what\nkind of answer you come up with."
+  },
+  "Mission_0191_MissionName": {
+    "speaker": "UI",
+    "text": "Counterattack Execution"
+  },
+  "Mission_0191_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat an enemy with a counterattack."
+  },
+  "Mission_0191_MissionText": {
+    "speaker": "UI",
+    "text": "Being in an enemy's sights can\nactually be the perfect chance\nto put them down. Make your\nfoes do the hard work for you!"
+  },
+  "Mission_0201_MissionName": {
+    "speaker": "UI",
+    "text": "Consecutive Interrupts"
+  },
+  "Mission_0201_MissionDescription": {
+    "speaker": "UI",
+    "text": "Activate two interrupts in a row."
+  },
+  "Mission_0201_MissionText": {
+    "speaker": "UI",
+    "text": "Interrupts can themselves be interrupted.\n\nTake good stock of enemy actions\nwhen plotting your next move."
+  },
+  "Mission_0221_MissionName": {
+    "speaker": "UI",
+    "text": "Death by Poison"
+  },
+  "Mission_0221_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat an enemy with poison damage."
+  },
+  "Mission_0221_MissionText": {
+    "speaker": "UI",
+    "text": "Weaken an enemy you've already\npoisoned and let the toxin take\ncare of the rest."
+  },
+  "Mission_0231_MissionName": {
+    "speaker": "UI",
+    "text": "Discriminatory Execution"
+  },
+  "Mission_0231_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat an enemy with a tech that has race-specific effectiveness."
+  },
+  "Mission_0231_MissionText": {
+    "speaker": "UI",
+    "text": "Not very many techs have increased\neffectiveness against specific races,\nbut combat will be a smoother\nexperience if you learn and use\nthem well."
+  },
+  "Mission_0241_MissionName": {
+    "speaker": "UI",
+    "text": "Follow the Leader"
+  },
+  "Mission_0241_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat all the enemies using just the firstmost character in your lineup."
+  },
+  "Mission_0241_MissionText": {
+    "speaker": "UI",
+    "text": "One plan would be to have your\nretinue soften up the opposition\nand have the firstmost character\nfinish them off."
+  },
+  "Mission_0251_MissionName": {
+    "speaker": "UI",
+    "text": "Bringing Up the Rear"
+  },
+  "Mission_0251_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat all the enemies using just the backmost character in your lineup."
+  },
+  "Mission_0251_MissionText": {
+    "speaker": "UI",
+    "text": "One plan would be to have your\nretinue soften up the opposition\nand have the backmost character\nfinish them off."
+  },
+  "Mission_0261_MissionName": {
+    "speaker": "UI",
+    "text": "Finish with a Bang"
+  },
+  "Mission_0261_MissionDescription": {
+    "speaker": "UI",
+    "text": "End a combo with a spell."
+  },
+  "Mission_0261_MissionText": {
+    "speaker": "UI",
+    "text": "Make sure to keep allies placed\nnear your spellcasters."
+  },
+  "Mission_0271_MissionName": {
+    "speaker": "UI",
+    "text": "Overdrive Finisher"
+  },
+  "Mission_0271_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat the final enemy in a battle with an Overdrive combo."
+  },
+  "Mission_0271_MissionText": {
+    "speaker": "UI",
+    "text": "This shouldn't be all that difficult\nto pull off, provided you can set up\na situation where you're guaranteed\nto enter Overdrive."
+  },
+  "Mission_0281_MissionName": {
+    "speaker": "UI",
+    "text": "Unleash and Absorb"
+  },
+  "Mission_0281_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use Unleash to defeat an enemy monster and then absorb it."
+  },
+  "Mission_0281_MissionText": {
+    "speaker": "UI",
+    "text": "Keep a close eye on your enemies'\nHP and wait for the perfect moment\nto use Unleash."
+  },
+  "Mission_0282_MissionName": {
+    "speaker": "UI",
+    "text": "Unleash and Absorb II"
+  },
+  "Mission_0282_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use Unleash to defeat an enemy monster and then absorb it."
+  },
+  "Mission_0282_MissionText": {
+    "speaker": "UI",
+    "text": "Keep a close eye on your enemies'\nHP and wait for the perfect moment\nto use Unleash."
+  },
+  "Mission_0291_MissionName": {
+    "speaker": "UI",
+    "text": "Mech Disrupt"
+  },
+  "Mission_0291_MissionDescription": {
+    "speaker": "UI",
+    "text": "Stop a mech enemy's action with a mech stun or mech paralysis."
+  },
+  "Mission_0291_MissionText": {
+    "speaker": "UI",
+    "text": "Enemies are more vulnerable to status\nailments when their HP is low.\nRemember this fact well."
+  },
+  "Mission_0901_MissionName": {
+    "speaker": "UI",
+    "text": "With All Your Might"
+  },
+  "Mission_0901_MissionDescription": {
+    "speaker": "UI",
+    "text": "Deal 100 damage or more with a single attack."
+  },
+  "Mission_0901_MissionText": {
+    "speaker": "UI",
+    "text": "Whether you choose to climb this hill\nby conquering many trials or seeking\nanother path is up to you."
+  },
+  "Mission_09011_MissionName": {
+    "speaker": "UI",
+    "text": "With All Your Might II"
+  },
+  "Mission_09011_MissionDescription": {
+    "speaker": "UI",
+    "text": "Deal 200 damage or more with a single attack."
+  },
+  "Mission_09011_MissionText": {
+    "speaker": "UI",
+    "text": "Whether you choose to climb this hill\nby conquering many trials or seeking\nanother path is up to you."
+  },
+  "Mission_09012_MissionName": {
+    "speaker": "UI",
+    "text": "With All Your Might III"
+  },
+  "Mission_09012_MissionDescription": {
+    "speaker": "UI",
+    "text": "Deal 300 damage or more with a single attack."
+  },
+  "Mission_09012_MissionText": {
+    "speaker": "UI",
+    "text": "You must aim for greater heights\nthan ever before."
+  },
+  "Mission_09013_MissionName": {
+    "speaker": "UI",
+    "text": "With All Your Might IV"
+  },
+  "Mission_09013_MissionDescription": {
+    "speaker": "UI",
+    "text": "Deal 400 damage or more with a single attack."
+  },
+  "Mission_09013_MissionText": {
+    "speaker": "UI",
+    "text": "Having come this far, I can't imagine\nthere's much advice you need from me."
+  },
+  "Mission_09014_MissionName": {
+    "speaker": "UI",
+    "text": "With All Your Might V"
+  },
+  "Mission_09014_MissionDescription": {
+    "speaker": "UI",
+    "text": "Deal 500 damage or more with a single attack."
+  },
+  "Mission_09014_MissionText": {
+    "speaker": "UI",
+    "text": "May those who have mastered the art\nof combat receive their just rewards."
+  },
+  "Mission_0902_MissionName": {
+    "speaker": "UI",
+    "text": "Prolonged Chanting"
+  },
+  "Mission_0902_MissionDescription": {
+    "speaker": "UI",
+    "text": "Extend an enemy's chanting time by a total of two turns."
+  },
+  "Mission_0902_MissionText": {
+    "speaker": "UI",
+    "text": "Extending an adversary's chanting\ntime without defeating them will\nrequire careful control of how\nmuch damage you're dishing out."
+  },
+  "Mission_0903_MissionName": {
+    "speaker": "UI",
+    "text": "Complete Shutout"
+  },
+  "Mission_0903_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory without letting your enemies act even once."
+  },
+  "Mission_0903_MissionText": {
+    "speaker": "UI",
+    "text": "Do everything in your power to\nprevent your foes from acting."
+  },
+  "Mission_0904_MissionName": {
+    "speaker": "UI",
+    "text": "Delayed for Days"
+  },
+  "Mission_0904_MissionDescription": {
+    "speaker": "UI",
+    "text": "Push an enemy back ten spaces in a single turn."
+  },
+  "Mission_0904_MissionText": {
+    "speaker": "UI",
+    "text": "An enemy can only be delayed\nso much with a single attack.\n\n...You see what I'm getting at, yes?"
+  },
+  "Mission_0905_MissionName": {
+    "speaker": "UI",
+    "text": "Combos or Nothing"
+  },
+  "Mission_0905_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory using only combos."
+  },
+  "Mission_0905_MissionText": {
+    "speaker": "UI",
+    "text": "You'll need to carefully avoid your adversaries' conditional and delay techs."
+  },
+  "Mission_0906_MissionName": {
+    "speaker": "UI",
+    "text": "Born for the Limelight"
+  },
+  "Mission_0906_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory using only showstoppers."
+  },
+  "Mission_0906_MissionText": {
+    "speaker": "UI",
+    "text": "Try making use of formations\nthat facilitate the activation of\nshowstoppers."
+  },
+  "Mission_0907_MissionName": {
+    "speaker": "UI",
+    "text": "Ten-Space Combo Range"
+  },
+  "Mission_0907_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a combo over a range of ten spaces."
+  },
+  "Mission_0907_MissionText": {
+    "speaker": "UI",
+    "text": "This shouldn't prove too challenging if\nyou make clever use of formations and\ntechs that affect timeline placement.\nNow show me what you're made of!"
+  },
+  "Mission_09071_MissionName": {
+    "speaker": "UI",
+    "text": "Six-Space Combo Range"
+  },
+  "Mission_09071_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a combo over a range of six spaces."
+  },
+  "Mission_09071_MissionText": {
+    "speaker": "UI",
+    "text": "This will require putting together\nan extremely long combo.\nA strong understanding of the\ntimeline is a must for this one."
+  },
+  "Mission_0908_MissionName": {
+    "speaker": "UI",
+    "text": "Together, Yet Parted"
+  },
+  "Mission_0908_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a 5x combo with no allies directly adjacent to each other."
+  },
+  "Mission_0908_MissionText": {
+    "speaker": "UI",
+    "text": "Highly deliberate positioning is one\nway to approach this, but expanding\nthe combo range of your techs could\nbe another tactic."
+  },
+  "Mission_0909_MissionName": {
+    "speaker": "UI",
+    "text": "Consecutive Overdrives"
+  },
+  "Mission_0909_MissionDescription": {
+    "speaker": "UI",
+    "text": "Enter Overdrive two times in a row."
+  },
+  "Mission_0909_MissionText": {
+    "speaker": "UI",
+    "text": "It's difficult to raise your combo rate\nwhile in overdrive, so make ample\nuse of the bonuses—vanquish\nbonuses in particular—that can\nactivate during United Attacks."
+  },
+  "Mission_0910_MissionName": {
+    "speaker": "UI",
+    "text": "Marching into the Future"
+  },
+  "Mission_0910_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a combo with your retinue making up the first five spaces in the timeline."
+  },
+  "Mission_0910_MissionText": {
+    "speaker": "UI",
+    "text": "Techs are not the only way one can\nmanipulate the timeline.\n\nI suggest you take a good look at\nyour formation and roles as well."
+  },
+  "Mission_0911_MissionName": {
+    "speaker": "UI",
+    "text": "Holding On to the Past"
+  },
+  "Mission_0911_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a combo with your retinue making up the last five spaces in the timeline."
+  },
+  "Mission_0911_MissionText": {
+    "speaker": "UI",
+    "text": "Techs are not the only way one\ncan manipulate the timeline.\nI suggest you take a good look at\nyour formation and roles as well,\nand if all else fails, consider\nequipping something heavy."
+  },
+  "Mission_0912_MissionName": {
+    "speaker": "UI",
+    "text": "4x Magical Combo"
+  },
+  "Mission_0912_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a 4x combo using only spells."
+  },
+  "Mission_0912_MissionText": {
+    "speaker": "UI",
+    "text": "This trial requires you to align\nwhen your spells will activate,\nwhile also ensuring no one in the\nprocess of chanting is disturbed."
+  },
+  "Mission_09121_MissionName": {
+    "speaker": "UI",
+    "text": "2x Magical Combo"
+  },
+  "Mission_09121_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a 2x combo using only spells."
+  },
+  "Mission_09121_MissionText": {
+    "speaker": "UI",
+    "text": "This trial cannot be conquered unless\nyou go to great lengths to defend\nany in your retinue that are chanting."
+  },
+  "Mission_09122_MissionName": {
+    "speaker": "UI",
+    "text": "3x Magical Combo"
+  },
+  "Mission_09122_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a 3x combo using only spells."
+  },
+  "Mission_09122_MissionText": {
+    "speaker": "UI",
+    "text": "This trial requires you to align\nwhen your spells will activate,\nwhile also ensuring no one in the\nprocess of chanting is disturbed."
+  },
+  "Mission_0913_MissionName": {
+    "speaker": "UI",
+    "text": "Chill Pill"
+  },
+  "Mission_0913_MissionDescription": {
+    "speaker": "UI",
+    "text": "Remove an enemy's frenzy status."
+  },
+  "Mission_0913_MissionText": {
+    "speaker": "UI",
+    "text": "If only there was some tech\ncapable of removing frenzy..."
+  },
+  "Mission_0914_MissionName": {
+    "speaker": "UI",
+    "text": "Tough on Odors"
+  },
+  "Mission_0914_MissionDescription": {
+    "speaker": "UI",
+    "text": "Perform a United Attack after removing the stench status."
+  },
+  "Mission_0914_MissionText": {
+    "speaker": "UI",
+    "text": "This trial will not be considered\nachieved unless stench is removed\nand a United Attack is performed on\nthe same turn. Consider the situation\nwell before making your move."
+  },
+  "Mission_0915_MissionName": {
+    "speaker": "UI",
+    "text": "Unleash and Absorb III"
+  },
+  "Mission_0915_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use Unleash to defeat an enemy monster and then absorb it."
+  },
+  "Mission_0915_MissionText": {
+    "speaker": "UI",
+    "text": "Keep a close eye on your enemies'\nHP and wait for the perfect moment\nto use Unleash."
+  },
+  "Mission_0916_MissionName": {
+    "speaker": "UI",
+    "text": "Epidemic"
+  },
+  "Mission_0916_MissionDescription": {
+    "speaker": "UI",
+    "text": "Poison all enemies."
+  },
+  "Mission_0916_MissionText": {
+    "speaker": "UI",
+    "text": "Enemies are more vulnerable to status\nailments when their HP is low.\nRemember this fact well."
+  },
+  "Mission_0918_MissionName": {
+    "speaker": "UI",
+    "text": "Smarter, Not Harder"
+  },
+  "Mission_0918_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat all enemies using sudden-death techs."
+  },
+  "Mission_0918_MissionText": {
+    "speaker": "UI",
+    "text": "Enemies are more vulnerable to status\nailments when their HP is low.\nRemember this fact well."
+  },
+  "Mission_0919_MissionName": {
+    "speaker": "UI",
+    "text": "Ailments Upon Ailments"
+  },
+  "Mission_0919_MissionDescription": {
+    "speaker": "UI",
+    "text": "Apply two or more status-ailment icons to an enemy."
+  },
+  "Mission_0919_MissionText": {
+    "speaker": "UI",
+    "text": "This trial requires keeping a foe\nalive long enough to afflict them\nwith multiple status ailments."
+  },
+  "Mission_0923_MissionName": {
+    "speaker": "UI",
+    "text": "Counterattack Master"
+  },
+  "Mission_0923_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat all enemies with counterattacks."
+  },
+  "Mission_0923_MissionText": {
+    "speaker": "UI",
+    "text": "The key to overcoming this trial lies\nin creating situations that force your\nadversaries to target characters of\nyour own choosing."
+  },
+  "Mission_0924_MissionName": {
+    "speaker": "UI",
+    "text": "Battlefield Sprinter"
+  },
+  "Mission_0924_MissionDescription": {
+    "speaker": "UI",
+    "text": "Have an ally move from one end of the timeline to the other."
+  },
+  "Mission_0924_MissionText": {
+    "speaker": "UI",
+    "text": "Only one with a true mastery of\ntimeline placement and movement\ncould hope to become as lightning\ntraveling across the field of battle."
+  },
+  "Mission_0925_MissionName": {
+    "speaker": "UI",
+    "text": "Rainbow Bridge"
+  },
+  "Mission_0925_MissionDescription": {
+    "speaker": "UI",
+    "text": "Have all spaces in the timeline colored at the start of a turn."
+  },
+  "Mission_0925_MissionText": {
+    "speaker": "UI",
+    "text": "The ultimate timeline challenge,\nsuitable for one who has attained\ntrue mastery in all things related\nto the workings of the timeline."
+  },
+  "Mission_0927_MissionName": {
+    "speaker": "UI",
+    "text": "Five-Person Perfect"
+  },
+  "Mission_0927_MissionDescription": {
+    "speaker": "UI",
+    "text": "Emerge victorious with five people having taken no damage."
+  },
+  "Mission_0927_MissionText": {
+    "speaker": "UI",
+    "text": "Haste is all with an objective\nlike this, and defense meaningless.\nThe best way to stay safe is to\nstrike hard and fast."
+  },
+  "Mission_09271_MissionName": {
+    "speaker": "UI",
+    "text": "Two-Person Perfect"
+  },
+  "Mission_09271_MissionDescription": {
+    "speaker": "UI",
+    "text": "Emerge victorious with two people having taken no damage."
+  },
+  "Mission_09271_MissionText": {
+    "speaker": "UI",
+    "text": "Claim victory while keeping\nyour allies safe and sound."
+  },
+  "Mission_09272_MissionName": {
+    "speaker": "UI",
+    "text": "Three-Person Perfect"
+  },
+  "Mission_09272_MissionDescription": {
+    "speaker": "UI",
+    "text": "Emerge victorious with three people having taken no damage."
+  },
+  "Mission_09272_MissionText": {
+    "speaker": "UI",
+    "text": "Claim victory while keeping\nyour allies safe and sound."
+  },
+  "Mission_0928_MissionName": {
+    "speaker": "UI",
+    "text": "Good Sport"
+  },
+  "Mission_0928_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory without performing any actions on the first or second turns."
+  },
+  "Mission_0928_MissionText": {
+    "speaker": "UI",
+    "text": "You'll be giving your opponent a fairly\nhefty advantage, so only do this\nagainst foes you're sure you can handle."
+  },
+  "Mission_0929_MissionName": {
+    "speaker": "UI",
+    "text": "Conditionals Master"
+  },
+  "Mission_0929_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory using only conditional techs."
+  },
+  "Mission_0929_MissionText": {
+    "speaker": "UI",
+    "text": "Only one who demonstrates an\nexceptional understanding of\nconditional techs can hope to\ntriumph over this trial."
+  },
+  "Mission_0930_MissionName": {
+    "speaker": "UI",
+    "text": "Magician Among Magicians"
+  },
+  "Mission_0930_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory using only spells."
+  },
+  "Mission_0930_MissionText": {
+    "speaker": "UI",
+    "text": "Only one who demonstrates an\nexceptional understanding of\nspells can hope to triumph\nover this trial."
+  },
+  "Mission_0931_MissionName": {
+    "speaker": "UI",
+    "text": "The Bare Minimum"
+  },
+  "Mission_0931_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory using only techs that cost 1 BP or less."
+  },
+  "Mission_0931_MissionText": {
+    "speaker": "UI",
+    "text": "Make ample use of every option\nyou have to decrease BP costs."
+  },
+  "Mission_0932_MissionName": {
+    "speaker": "UI",
+    "text": "Four-Star Slugger"
+  },
+  "Mission_0932_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory using only techs that cost 4 or more BP."
+  },
+  "Mission_0932_MissionText": {
+    "speaker": "UI",
+    "text": "Choose your opponents wisely\nfor this particular trial."
+  },
+  "Mission_09321_MissionName": {
+    "speaker": "UI",
+    "text": "Two-Star Slugger"
+  },
+  "Mission_09321_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory using only techs that cost 2 or more BP."
+  },
+  "Mission_09321_MissionText": {
+    "speaker": "UI",
+    "text": "You'll need to find a way to emerge\nvictorious while limiting yourself\nto the most BP-hungry techs in\nyour arsenal."
+  },
+  "Mission_09322_MissionName": {
+    "speaker": "UI",
+    "text": "Three-Star Slugger"
+  },
+  "Mission_09322_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory using only techs that cost 3 or more BP."
+  },
+  "Mission_09322_MissionText": {
+    "speaker": "UI",
+    "text": "You'll need to find a way to emerge\nvictorious while limiting yourself\nto the most BP-hungry techs in\nyour arsenal."
+  },
+  "Mission_0933_MissionName": {
+    "speaker": "UI",
+    "text": "TTK"
+  },
+  "Mission_0933_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory within two turns."
+  },
+  "Mission_0933_MissionText": {
+    "speaker": "UI",
+    "text": "You'll need to think up a strategy\nthat closes things out quickly."
+  },
+  "Mission_09331_MissionName": {
+    "speaker": "UI",
+    "text": "OTK"
+  },
+  "Mission_09331_MissionDescription": {
+    "speaker": "UI",
+    "text": "Claim victory in a single turn."
+  },
+  "Mission_09331_MissionText": {
+    "speaker": "UI",
+    "text": "There are some things that cannot\nbe accomplished on one's own.\nChoose your opponent wisely."
+  },
+  "Mission_0935_MissionName": {
+    "speaker": "UI",
+    "text": "Body of Steel"
+  },
+  "Mission_0935_MissionDescription": {
+    "speaker": "UI",
+    "text": "Emerge from an enemy combo unscathed."
+  },
+  "Mission_0935_MissionText": {
+    "speaker": "UI",
+    "text": "This trial will prove difficult unless\nyour enemies have their sights set\non a single target."
+  },
+  "Mission_0936_MissionName": {
+    "speaker": "UI",
+    "text": "Impenetrable Rampart"
+  },
+  "Mission_0936_MissionDescription": {
+    "speaker": "UI",
+    "text": "Emerge unscathed from an enemy attack that targets your entire party."
+  },
+  "Mission_0936_MissionText": {
+    "speaker": "UI",
+    "text": "I imagine this will be a tall order\nfor those who keep a large number\nof allies in their retinue."
+  },
+  "Mission_0937_MissionName": {
+    "speaker": "UI",
+    "text": "Endless Reinforcements"
+  },
+  "Mission_0937_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat six or more enemies in a single battle."
+  },
+  "Mission_0937_MissionText": {
+    "speaker": "UI",
+    "text": "Summoned enemies act immediately\nupon joining the fight, so you'll\nwant to keep your wits about you."
+  },
+  "Mission_0938_MissionName": {
+    "speaker": "UI",
+    "text": "Kick Back and Relax"
+  },
+  "Mission_0938_MissionDescription": {
+    "speaker": "UI",
+    "text": "Defeat two or more enemies with an enemy's tech."
+  },
+  "Mission_0938_MissionText": {
+    "speaker": "UI",
+    "text": "Rumor has it there exist foes that\ndevour their own allies for nourishment.\nShould you have the good fortune\nto encounter one, do not let that\nrare opportunity pass you by."
+  },
+  "Mission_0917_MissionName": {
+    "speaker": "UI",
+    "text": "Unleash and Absorb IV"
+  },
+  "Mission_0917_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use Unleash to defeat an enemy monster and then absorb it."
+  },
+  "Mission_0920_MissionName": {
+    "speaker": "UI",
+    "text": "Unleash and Absorb V"
+  },
+  "Mission_0920_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use Unleash to defeat an enemy monster and then absorb it."
+  },
+  "Mission_0921_MissionName": {
+    "speaker": "UI",
+    "text": "Unleash and Absorb VI"
+  },
+  "Mission_0921_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use Unleash to defeat an enemy monster and then absorb it."
+  },
+  "Mission_0922_MissionName": {
+    "speaker": "UI",
+    "text": "Unleash and Absorb VII"
+  },
+  "Mission_0922_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use Unleash to defeat an enemy monster and then absorb it."
+  },
+  "Mission_0926_MissionName": {
+    "speaker": "UI",
+    "text": "Unleash and Absorb VIII"
+  },
+  "Mission_0926_MissionDescription": {
+    "speaker": "UI",
+    "text": "Use Unleash to defeat an enemy monster and then absorb it."
+  },
+  "Mission_0021_MissionText": {
+    "speaker": "UI",
+    "text": "There's more than one way to disrupt\nan enemy's United Attack. Consider\nthe properties of conditionals such as\ninterrupts, pursuits, and\ncounterattacks, and make strategic\nuse of them."
+  },
+  "Mission_0917_MissionText": {
+    "speaker": "UI",
+    "text": "Keep a close eye on your enemies'\nHP and wait for the perfect moment\nto use Unleash."
+  },
+  "Mission_0920_MissionText": {
+    "speaker": "UI",
+    "text": "Keep a close eye on your enemies'\nHP and wait for the perfect moment\nto use Unleash."
+  },
+  "Mission_0921_MissionText": {
+    "speaker": "UI",
+    "text": "Keep a close eye on your enemies'\nHP and wait for the perfect moment\nto use Unleash."
+  },
+  "Mission_0922_MissionText": {
+    "speaker": "UI",
+    "text": "Keep a close eye on your enemies'\nHP and wait for the perfect moment\nto use Unleash."
+  },
+  "Mission_0926_MissionText": {
+    "speaker": "UI",
+    "text": "Keep a close eye on your enemies'\nHP and wait for the perfect moment\nto use Unleash."
+  }
+}

@@ -1,0 +1,1158 @@
+{
+  "SUB_W17_WRLD_AMYA_INITIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Something about this world feels strange—\nalmost like there's a bunch of different\npowers mixing. I bet it's got something\nto do with my missing cats."
+  },
+  "SUB_W17_SCAN_AMYA_INITIAL_WAVE_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wowzers, what a castle! Guess I should\nstart by talking to someone there, huh?"
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_000_000": {
+    "speaker": "King_Din",
+    "text": "Be welcome in Brighthome, my new warrior!\nI am Din, the king of this land, and full glad\nam I that you have answered my call. "
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, you called me here?"
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Just so. I have summoned you hence so you\nmight join the battle against the forces\nof Chaos spreading o'er this land."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_000_030": {
+    "speaker": "King_Din",
+    "text": "We are set against them in battle without end,\nand require aid from warriors across the\nConjoined Worlds that we might continue\nour brave endeavor."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "That doesn't make it sound like\nyour war is going especially well."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_000_050": {
+    "speaker": "King_Din",
+    "text": "Our brave allies continue their valorous fight\nacross the land—and while we have seen many\nvictories, so too have we known much of defeat.\nAlas, Chaos is not a foe easily laid low."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_000_060": {
+    "speaker": "King_Din",
+    "text": "I would have you join us as we attempt to\ndrive our foes back unto the Cleft of Chaos,\nlocated to the far north of this castle."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, now that you've got Ameya the Witch\non your side, victory is guaranteed!"
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_000_080": {
+    "speaker": "King_Din",
+    "text": "It seems you truly comprehend\nyour own worth as a warrior."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "The heck just happened?"
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_010_010": {
+    "speaker": "King_Din",
+    "text": "The nearby village and fields were set upon\nby the forces of Chaos, and the battle to\nsee them safe is now underway.\fAnd while I know it unseemly to ask this so\nsoon after your arrival in our world, I would\nhave you lend us your aid, that we might\ndrive our hated foe into obscurity."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "For sure I'll help! Oh, but first,\nI wanted to ask if you've seen any\ncats running around in your world."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_010_030": {
+    "speaker": "King_Din",
+    "text": "Brighthome is awash in cats, stranger—\nbut because they fear the power of Chaos,\nbeholding them will prove most difficult.\fYet if we can weaken Chaos's hold\non the realm, you should be able\nto find the felines you seek."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Heh. I pretty much knew what you were gonna say\nbefore you opened your mouth. And on that note,\nI'll help you fight Chaos so long as it helps me track\ndown the cat I need."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_010_050": {
+    "speaker": "King_Din",
+    "text": "Then I hereby decree you to be our\nnewest warrior, and grant you the\nproud appellation of Seer."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Er, I'd prefer you call me Ameya, actually.\nI'm just here to fight and find my kitty,\nnot create some 'brand-new-me' kind of sitch."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_010_070": {
+    "speaker": "King_Din",
+    "text": "All who find their way to Brighthome\nare granted a name by the king, Seer.\nSuch is the way of things."
+  },
+  "SUB_W17_EVAR_AMYA_CASTLE_TUT_000_CUT_010_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Not a huge fan of that, but whatevs!"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "Oh, you must be King Din's newest warrior.\nI'm President, and I lead the warrior band\nin this village and the surrounding area.\nIt's good to meet you."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Likewise, Chief! Guess the enemy's pushed\npretty far into your territory if they can strike\nthis close to the castle, huh?"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "This war is unfolding across all Brighthome—\nand when things are going poorly for us on the\nother side of the bridges, the forces of Chaos are\nable to harry us as they like on this side."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "That said, they're nowhere near as strong here\nas they are at the positions closest to the\nCleft of Chaos, which is why a man like me\ncan still be of some use.\fMy field is governance, you see.\nNot war."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you're another one of the\npeople King Din called here?"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Indeed. From what I understand, the people\nof this world can't hold their own in the war\nagainst the forces of Chaos, so they call on\nthe power of fighters from other worlds."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "And how's this war going?"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_070": {
+    "speaker": "Chief",
+    "text": "Like I said, it's raging across Brighthome,\nwhich makes it difficult to get an accurate\npicture of the entire situation. That's likely\nwhy King Din is expecting so much from you."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "I mean, I'm glad he believes in me\nand all, but I, like, JUST got here."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_090": {
+    "speaker": "Chief",
+    "text": "You have the power to see unobstructed.\nTo see much. To forecast. To watch. \nThat's why you were given your name."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "So the name actually means something?"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_110": {
+    "speaker": "Chief",
+    "text": "While you'll often find yourself facing\nmany choices, you can only ever aid one\nparticular area at a time.\fAnd while the war will get worse in locations\nwhere you don't help, you can't do anything\nabout that. You're just one woman, after all,\nso try to keep that in mind."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "So the war will shift depending on my\ndecisions? Huh. In that case, I guess\nI should start by checking out how\nthings are looking in the fields."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_010_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "You must be Seer, our new warrior.\nI'm President, and I lead the fighters in this village\nand the surrounding area. Thanks for the help."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Was it bad that I went\nto the fields first?"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_010_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "Honestly, I was a little disappointed when\nyou went there—but it wasn't <i>wrong</i>, per se.\nWhen it comes to where you go, all you can\ndo is make whatever choice you think is best."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_010_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "But as you get deeper into the war and head over\nthe bridges, you need to have a plan in place—\nbecause any locations on this side that you leave\non their own will be targeted by the enemy.\fAnd look, I know our ultimate goal is to\nstrike at the Cleft of Chaos, but if all\nwe think about is advancing the line..."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_010_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then everything on this side of the\nbridges could end up in big trouble."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_010_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Yep. Slow and steady progress is the best\ncourse—or at least that's what I think.\nEveryone else seems to just want big\nflashy results, though, so who knows."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_TUT_010_CUT_000_080": {
+    "speaker": "Chief",
+    "text": "Now, c'mon. Let's work together\nand liberate Brighthome from the\nclutches of Chaos."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Well, you must be King Din's new warrior!\nI'm Manikin—I lead the warrior band that\nprotects these fields. Nice to meet you!"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "The war's unfolding all across Brighthome, and\nwhen things are going bad on the other side of\nthe bridges, the forces of Chaos show up here.\nHell, sometimes they even come to these fields!"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_030": {
+    "speaker": "Doll",
+    "text": "That said, the enemy's pretty weak here\ncompared to their strength near the\nCleft of Chaos, which is how a fellow\nlike me can still be useful.\fSo if you need someone to watch over\na field, I'm your guy."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you're another one of the\npeople King Din called here?"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_050": {
+    "speaker": "Doll",
+    "text": "Sure am! No idea why the king needed a wooden\nthing like me to help out, but here I am—and\nI want to do the best job I can to aid the people\nand fields of this world."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "So how's the war going?"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_070": {
+    "speaker": "Doll",
+    "text": "Lady, I'm basically a glorified scarecrow—\nthings like strategy and warfare and all that\nare beyond my pay grade. I'm guessing that's\nwhy King Din is expecting so much from you."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I'm glad he's got such a high\nopinion of me, but I don't really\nknow what I'm doing."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_090": {
+    "speaker": "Doll",
+    "text": "Yeah, but he named you the Seer, right?\nThat means you've got the power to see\nthings unobstructed—to predict the future,\nwatch what unfolds, and understand it."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_110": {
+    "speaker": "Doll",
+    "text": "But no matter how much you can see, you can still\nonly help one place at a time—so the others will\njust have to figure out some other way to get by.\fI know that sounds rough, but trust me,\nyou'll get used to it. Just remember that\nyou're not fighting alone, so get out\nthere and do the best you can, okay? "
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "So the war will shift depending on my\ndecisions? Huh. In that case, I guess\nI should start by checking out how\nthings are looking in the village."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_010_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Well, you must be King Din's new warrior!\nI'm Manikin—I lead the warrior band that\nprotects these fields."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sorry I didn't get here sooner."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_010_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "Yeah, it wasn't great watching you head\nto the village before us, but I figured\nyou'd make it out this way eventually.\nAnd now look! Here you are."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_010_CUT_000_030": {
+    "speaker": "Doll",
+    "text": "Just remember that the closer you get to\nthe Cleft of Chaos in the hinterlands,\nthe harder it will be for you to come\nback here and help out.\fBasically, while you're off helping at one\nlocation, positions elsewhere might fall to\nthe forces of Chaos. It's a huge bummer,\nbut them's the breaks."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_010_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Meaning I really have to consider\nthe big picture when I'm choosing\nmy next course of action."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_010_CUT_000_050": {
+    "speaker": "Doll",
+    "text": "Yep. As for me, my job is to keep\nan eye on things—and thankfully,\nI am GREAT at standing completely\nmotionless and staring at stuff!"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_TUT_010_CUT_000_080": {
+    "speaker": "Doll",
+    "text": "Now get out there and let's give this\nfight all we've got—for Brighthome's\npeople AND its fields!"
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_000": {
+    "speaker": "Bully",
+    "text": "So you're the newcomer, eh, Seer? Tongues around\nhere are all a'wag about how you're the greatest\nthing since milled bread, which is why the king\nis expecting all these great things from you.\fMe though? I don't trust that kind of talk—\nand folks like you who encourage it really\nchap my cheeks. So I think it's time to knock\nyou around and show you what's what."
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "What!? You gotta be kidding me!"
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_020": {
+    "speaker": "Bully",
+    "text": "Heh. You ain't half bad, Seer.\nThe name's Bully—or at least that's\nwhat people around here call me."
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_030": {
+    "speaker": "Bully",
+    "text": "Yeah, that's what I thought:\nall talk, no fists.\fWell, I'm Bully—leader of the warrior band\nin these parts. Pretty short name, but you\nseem a bit dense, so write it down somewhere\nif it helps you remember."
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "What sort of place is this?"
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_050": {
+    "speaker": "Bully",
+    "text": "I only just got here myself, so I don't\nknow a whole lot more than you.\nBasically, stuff that's dug up here gets\nsent to King Din's castle."
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ah, I see. It's the king's mine, then?"
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's use it to help nearby areas."
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's send more stuff to the king."
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_090": {
+    "speaker": "Bully",
+    "text": "Heh. I like the way you think, Seer—\nsending all this junk off to the king\nalways struck me as a hell of a waste. "
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, but we're good just doing that?\nI mean, won't the king get mad?"
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_110": {
+    "speaker": "Bully",
+    "text": "We couldn't fight the forces of Chaos if we\nwere afraid of what the damn king might do!\nLook, I'll just sock him one if he complains,\nso don't worry that pretty face about it."
+  },
+  "SUB_W17_EVAR_AMYA_MINE_TUT_000_CUT_000_120": {
+    "speaker": "Bully",
+    "text": "So the king's boots ain't been tonguewashed\nenough for your liking, eh? Sure thing, Seer.\nI hear ya loud and clear."
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_TUT_000_CUT_000_000": {
+    "speaker": "Lord",
+    "text": "You must be the new war asset I keep hearing\nabout. I take it you're traveling the world\nlike some commando unit? Ah, but that\nmakes me jealous...\fAnyway, I'm Warden, and it's my job\nto watch over the graveyard."
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_TUT_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, hang on. A bunch of warriors\nare watching over a graveyard?"
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_TUT_000_CUT_000_020": {
+    "speaker": "Lord",
+    "text": "When the dead are pulling themselves out of the\ndirt and roaming the land? You better believe it.\nHell, that's the dictionary definition of Chaos,\nain't it, pal?\fThat's why the enemy's always got\ntheir beady little eyes fixed on\nthe corpses here."
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_TUT_000_CUT_000_030": {
+    "speaker": "Lord",
+    "text": "On top of that, we've got bodies piling up like\ncordwood, and not enough hands to see 'em\nproperly buried. We're pretty much cleaning\nup after the other warrior bands' messes."
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_TUT_000_CUT_000_040": {
+    "speaker": "Lord",
+    "text": "Also, King Din might've named me Warden,\nbut I don't see why I've gotta resign myself\nto watching over some moldering old graves.\fI should be out there saving grand castles,\nsacred temples, and ancient ruins. I mean,\nhell, any idiot can keep an eye on a grave,\nbut I was meant for greater things!"
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_TUT_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sure, but complaining about it won't\ndo any good. Can I help you out?"
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_TUT_000_CUT_000_060": {
+    "speaker": "Lord",
+    "text": "Eh, you're good people for offering,\nbut it's my job, and I'll see it through.\nYou keep yourself alive out there, y'hear?"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_TUT_000_CUT_000_000": {
+    "speaker": "Vacuum",
+    "text": "Hey! You there! I KNOW you're not here\nto steal my prey, right? Riiight!?\fHmm... Now that I look more closely,\nI don't think I've seen your face before.\nWhich warrior band are you with?"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_TUT_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm Ameya! Uh, I mean, Seer."
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_TUT_000_CUT_000_020": {
+    "speaker": "Vacuum",
+    "text": "Ah, right. The new 'reinforcements.'\nI heard a warrior with the power to\nturn the tide of the war was coming—\nthough can't say I'm seeing it in you."
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_TUT_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, YOU can't be much of a warrior if\nyou're judging people on appearances!"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_TUT_000_CUT_000_040": {
+    "speaker": "Vacuum",
+    "text": "Hmph. Well, so long as I get to keep fighting my\nheart out, I don't care what you do or how the\nwar effort's going overall. I chew up fiends and\nspit 'em out, and that's what makes sense to me."
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_TUT_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Seems like there's a lot of warriors with\na lot of different attitudes around here."
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_TUT_000_CUT_000_060": {
+    "speaker": "Vacuum",
+    "text": "I'm just a fighter invited here by King Din.\nIf you wanna know all the whys and hows,\nyou'll have to ask the big man himself."
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_TUT_000_CUT_000_070": {
+    "speaker": "Vacuum",
+    "text": "Now, are you gonna stand here griping\nat me all day, or are you gonna get out\nthere and scope some more positions?"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_TUT_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Fair point. I'll go do that."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_TUT_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Seems the fight with Chaos has left\nthis town battered and crumbling."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_TUT_000_CUT_000_010": {
+    "speaker": "Fiore",
+    "text": "But some people yet live here,\nand we fight to protect them.\fI am Floral. You are Seer, the one\npeople are talking about, yes?"
+  },
+  "SUB_W17_EVAR_AMYA_CITY_TUT_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I guess so—although I hope\nthey're saying good things!"
+  },
+  "SUB_W17_EVAR_AMYA_CITY_TUT_000_CUT_000_030": {
+    "speaker": "Fiore",
+    "text": "Good and bad in equal measure—the good\nbeing that you might be the one who can\nbring an end to this wretched war."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_TUT_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "And the bad? ...Actually, never mind.\nIt won't do me any good to know."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_TUT_000_CUT_000_050": {
+    "speaker": "Fiore",
+    "text": "I put little stock in rumors in any event;\nI seek only to ascertain the truth of you."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_TUT_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well then, just watch what I do next\nand you'll be able to figure it out."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_TUT_000_CUT_000_070": {
+    "speaker": "Fiore",
+    "text": "In that case, test your mettle against the\nforces of Chaos here in town so I might\ndetermine your truth. Epuyke nogonoa kowo!"
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_000_CUT_000_000": {
+    "speaker": "Arsenal",
+    "text": "I am Gunner. You are Seer, yes?\nWe have succeeded in retaking\nthe stronghold, and I thank you\nfor your assistance. "
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "We're near the Cleft of Chaos, which is\nwhy Chaos's forces are so much stronger."
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_000_CUT_000_020": {
+    "speaker": "Arsenal",
+    "text": "Indeed. This fortress was built to deal with\nthe mighty fiends that emerge from the Cleft,\nbut it had fallen into enemy hands long ago."
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well then, it's high time we face off\nagainst our enemies at the Cleft!"
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_000_CUT_000_040": {
+    "speaker": "Arsenal",
+    "text": "No, the time is not yet right. We will better\nour chances at successfully cutting off the\nCleft if we take all the positions around it."
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Good plan—and you can count\non me to see it done!"
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_TUT_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This place looks like some kind of temple.\nWe're super close to the Cleft of Chaos,\nbut there aren't any fiends around.\nAnd I'm also sensing..."
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_TUT_000_CUT_000_010": {
+    "speaker": "Sorceress",
+    "text": "Yes. The power of magic."
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_TUT_000_CUT_000_020": {
+    "speaker": "Sorceress",
+    "text": "I was surprised to see another newcomer here,\nbut then I realized you must be Seer.\nAnd I was even MORE surprised to learn\nthat you are a witch like me."
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_TUT_000_CUT_000_030": {
+    "speaker": "Sorceress",
+    "text": "Ah, what fine timing! The forces of Chaos\nhave come, drawn as they are to your power.\nNow you can show me just what King Din's\nsecret weapon is made of!"
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_TUT_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "How'd you like your front-row seat\nto an Ameya Aisling butt-kicking!?"
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_TUT_000_CUT_000_050": {
+    "speaker": "Sorceress",
+    "text": "You clearly know how to fight, Seer. Perhaps\nyou truly are the one who will bring an end\nto the war with Chaos—not that the prospect\nthrills me, if I'm being honest."
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_000": {
+    "speaker": "Gadget",
+    "text": "Welcome to Hell, Seer. Have you\nfound the cat you're looking for?"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Is this place a mess because of\nthe whole Chaos situation?"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_020": {
+    "speaker": "Gadget",
+    "text": "This place was a ruin well before the\nCleft of Chaos even opened. This is\nwhy it attracts the forces of Chaos,\nand why it has become Hell itself."
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "And so I guess you're its watchman?\nGotta say, you seem really chill\ngiven... Well, everything."
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_040": {
+    "speaker": "Gadget",
+    "text": "You would name me the watchman of Hell?\nYou're a funny thing."
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "You seem different from the other\nwarriors here. I take it King Din\ncalled you to this place, too?"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_060": {
+    "speaker": "Gadget",
+    "text": "I am Gadget. I came here with my own name,\nbut that's the one I use now that I'm working\nfor the king."
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, and so long as I'm Seer and fighting\nfor a warrior band, I need to put victory\nin the war foremost in my mind.\fI'm really glad I came here.\nThanks, Gadget!"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_080": {
+    "speaker": "Gadget",
+    "text": "Ha! I never expected to meet someone expressing\nthanks here in Hell! I certainly don't get such things\nfrom those beasts that flood out of the Cleft of Chaos!\nKyaaa ha ha!"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_TUT_000_CUT_000_090": {
+    "speaker": "Gadget",
+    "text": "And with that, it appears we've enemies\nclosing in. I'll be certain to share a couple\nof them with you!"
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_010_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I went to the temple and the ruins.\nThose other warriors sure are unique!"
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_010_CUT_000_010": {
+    "speaker": "Arsenal",
+    "text": "Those warriors are interested in nothing save\ndemonstrating their own strength—they could\nnot care less about the war or cooperating\nwith our other positions across the land.\fThat said, they are also the only reason\nyou and I are able to continue fighting\nso close to the Cleft."
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_010_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "You could probably get them to cooperate\nwith you here at the stronghold now."
+  },
+  "SUB_W17_EVAR_AMYA_FORT_TUT_010_CUT_000_030": {
+    "speaker": "Arsenal",
+    "text": "I wager this is true—and hope so\nas well. For now is our chance\nto march on the Cleft of Chaos!"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_000_000": {
+    "speaker": "King_Din",
+    "text": "So you have arrived at last.\nWell done, Seer."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yes, but we still haven't gained\ncontrol of the ruins, Your Majesty."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Be that as it may, we cannot let\nslip this opportunity to strike\nat the Cleft of Chaos."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, whatever comes at us,\nwe'll take it down!"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yes, but we still haven't gained\ncontrol of the ruins, Your Majesty."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_020_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Your Majesty? Why are you here?"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_020_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "I would bear witness to the\nfinal battle for myself."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_020_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "In that case, I'll make it a\nfinal battle for the ages!"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_040_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "This legendary treasure is way\nmore useful than I thought!"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_040_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Do not let up! Strike at them\nand seal the Cleft!"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_040_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "You better believe I will!"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_010_000": {
+    "speaker": "King_Din",
+    "text": "And with that, the Cleft is sealed.\nFor a time, at least, peace will\nreign across the land."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, so it's gonna open again?\nCan't you seal it off for good?"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "We have attempted many approaches—such\nas blockading it with soil or water—but ever\ndoes the maw of Chaos yawn wide.\fAll we can do is enjoy a moment's peace\nuntil the time comes when we must\nsummon warriors once more."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "And you're good with that?"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "The Cleft's appearance leads to the arrival of\nwarriors, and we are able to meet their kind\nfrom across the worlds only when it is open."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, I suppose that's true. I mean,\nwithout this fight, we wouldn't have met."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_000_CUT_010_060": {
+    "speaker": "King_Din",
+    "text": "Indeed—and my having met with you is\none of the supreme delights of my life!"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_020_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "'For a time'? So this isn't the end?"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_020_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "The Cleft of Chaos will open again erelong,\nat which point our battle will flare anew.\nWarriors will then arrive in Brighthome once\nmore, for such is the way of things here."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_020_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "So this world is just trapped\nin a forever war?"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_020_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "Correct, Seer. Brighthome is a world locked\nin eternal conflict—but this only makes our\nfleeting moments of peace all the sweeter."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_020_CUT_010_050": {
+    "speaker": "King_Din",
+    "text": "I thank you one and all,\nmy brave warrior bands!"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_030_CUT_010_000": {
+    "speaker": "King_Din",
+    "text": "And thus is the Cleft blocked off.\nYour strength was formidable, Seer—\nrather too formidable, in fact."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_030_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "What does that mean?"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_030_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "I so enjoy watching our warriors do battle that\nI often find myself wishing the war might go on\nforever. Thus did I call you here to shore up\nthe fighting strength of our bands, but now..."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_030_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "The war going on and on might suit YOU better,\nbut we were out there fighting to win,\nso don't give me a hard time about it!"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_030_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "I have no further use for you, Seer.\nBegone from my sight."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_030_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Believe me, I'll be outta here\nthe second I find my cat."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_040_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you can't close up the Cleft for good\neven with a legendary weapon's strength?"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_040_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "Correct. The Cleft of Chaos will open again erelong,\nat which point our battle will flare anew. New warriors\nwill then arrive in Brighthome, making this but a single\npage in our great history."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_040_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Does that mean the legendary relic\nis also going to vanish again?"
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_040_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "A legend must ever remain a legend."
+  },
+  "SUB_W17_EVAR_AMYA_HOLE_040_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hm... I think 'His Majesty'\nis hiding something."
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This place looks like some kind of temple.\nWe're super close to the Cleft of Chaos,\nbut there aren't any fiends around.\nAnd I'm also sensing..."
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_000_CUT_000_010": {
+    "speaker": "Sorceress",
+    "text": "Yes. The power of magic."
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_000_CUT_000_020": {
+    "speaker": "Sorceress",
+    "text": "I was surprised to see another newcomer here,\nbut then I realized you must be Seer.\nAnd I was even MORE surprised to learn\nthat you are a witch like me."
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_000_CUT_000_030": {
+    "speaker": "Sorceress",
+    "text": "Ah, what fine timing! The forces of Chaos\nhave come, drawn as they are to your power.\nNow you can show me just what King Din's\nsecret weapon is made of!"
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "How'd you like your front-row seat\nto an Ameya Aisling butt-kicking!?"
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_000_CUT_000_050": {
+    "speaker": "Sorceress",
+    "text": "Perhaps you truly are the one who will bring\nan end to the battle with Chaos. I pray this\nmight be so, for I have grown weary of war."
+  },
+  "SUB_W17_EVAR_AMYA_TEMPLE_000_CUT_000_060": {
+    "speaker": "Sorceress",
+    "text": "So...you know. Get on that."
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_000_CUT_000_000": {
+    "speaker": "Gadget",
+    "text": "Why would you come to Hell itself?\nIs it really so important that you find a cat?"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "You sure know how to make a lady feel\nwelcome. You in a bad mood or something?"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_000_CUT_000_020": {
+    "speaker": "Gadget",
+    "text": "I've no time for idle chatter,\nwoman. Begone!"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait! Did King Din\ncall you here, too?"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_000_CUT_000_040": {
+    "speaker": "Gadget",
+    "text": "I am Gadget. I came here with my own name,\nbut that's the one I use now that I work for King Din."
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Same deal for me. But hey, since we're both\nwarriors here, why don't we work together\nand help each other out?"
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_000_CUT_000_060": {
+    "speaker": "Gadget",
+    "text": "As though 'help' could even exist in Hell.\nIf you cling to the thread of salvation,\nsooner or later it will snap and send you\nplummeting into the abyss."
+  },
+  "SUB_W17_EVAR_AMYA_RUIN_000_CUT_000_070": {
+    "speaker": "Gadget",
+    "text": "And with that, the enemies close in.\nLet us see how you fare, Seer!"
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_000_CUT_000_000": {
+    "speaker": "Lord",
+    "text": "If you've come for a grave, you can dig your own.\nI don't have enough hands to be digging one for\neverybody who keels over right now."
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ignoring that very upsetting statement,\nwhy do fiends care about a graveyard?"
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_000_CUT_000_020": {
+    "speaker": "Lord",
+    "text": "The bastards come here, dig up corpses,\nand turn 'em into servants of Chaos.\fAnd if they manage to take the place,\nwe'll be up to our armpits in enemies\ntrying to send us into our own graves."
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sounds like a pretty important position\nin the war; you must be super strong\nif you're the one in charge of it."
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_000_CUT_000_040": {
+    "speaker": "Lord",
+    "text": "Hell yeah I'm strong—ask any of the other\nwarriors around here, and they'll all tell ya\nno one holds a candle to the Warden!"
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, keep it up!"
+  },
+  "SUB_W17_EVAR_AMYA_GRAVEYARD_000_CUT_000_060": {
+    "speaker": "Lord",
+    "text": "Don't leave! I've more to say!\n...Bah, she's gone."
+  },
+  "SUB_W17_EVAR_AMYA_FORT_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Man, Chaos is nothing to sneeze at if\nthey're able to build a fortress like this."
+  },
+  "SUB_W17_EVAR_AMYA_FORT_000_CUT_000_010": {
+    "speaker": "Arsenal",
+    "text": "They did not build this stronghold—\nthey stole it from us. This is why\nit's proven so difficult to reclaim."
+  },
+  "SUB_W17_EVAR_AMYA_FORT_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well then, let's do something about that!\nThis position is bound to be important \nto the war against Chaos, right?"
+  },
+  "SUB_W17_EVAR_AMYA_FORT_000_CUT_000_030": {
+    "speaker": "Arsenal",
+    "text": "That is correct. Also, I am Gunner,\nthe leader of the warrior band here.\nThank you for your aid, Seer."
+  },
+  "SUB_W17_EVAR_AMYA_FORT_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "You bet!"
+  },
+  "SUB_W17_EVAR_AMYA_CITY_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Seems the fight with Chaos has left\nthis town battered and crumbling."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_000_CUT_000_010": {
+    "speaker": "Fiore",
+    "text": "It did—and soon, every place in this\nworld will suffer the same fate."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "But that's what we were called here for,\nright? To stop that from happening?"
+  },
+  "SUB_W17_EVAR_AMYA_CITY_000_CUT_000_030": {
+    "speaker": "Fiore",
+    "text": "If the warrior bands were truly so powerful,\nthis war would not have dragged on so long.\nAlas, the reality of the war with Chaos is\nnot so kind as all that."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Eh, I'll sort something out.\nJust you watch!"
+  },
+  "SUB_W17_EVAR_AMYA_CITY_000_CUT_000_050": {
+    "speaker": "Fiore",
+    "text": "Indeed you will, for you are Seer."
+  },
+  "SUB_W17_EVAR_AMYA_CITY_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "You talk like you have a window into\nwhat's gonna happen in the future.\nWho even ARE you?"
+  },
+  "SUB_W17_EVAR_AMYA_CITY_000_CUT_000_070": {
+    "speaker": "Fiore",
+    "text": "I am Floral, and the land tells me all.\nThe forces of Chaos will be upon us soon.\nI pray you might fight them off, Seer!\nEpuyke nogonoa kowo!"
+  },
+  "SUB_W17_EVAR_AMYA_MINE_000_CUT_000_000": {
+    "speaker": "Bully",
+    "text": "Oh, joy. King Din's little plaything\nis back. Not looking all that reliable\nthis time, are you, plaything?"
+  },
+  "SUB_W17_EVAR_AMYA_MINE_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "The king called you here too, man.\nYou're the same as me."
+  },
+  "SUB_W17_EVAR_AMYA_MINE_000_CUT_000_020": {
+    "speaker": "Bully",
+    "text": "The same!? THE SAME!? I'll show you\nhow different we are, plaything!"
+  },
+  "SUB_W17_EVAR_AMYA_MINE_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Guess the only difference between us\nis that I'm standing here and you're lying\non the ground with a kicked butt."
+  },
+  "SUB_W17_EVAR_AMYA_MINE_000_CUT_000_040": {
+    "speaker": "Bully",
+    "text": "Aw, damn it all."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_000_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Thanks a ton for your help out here\nin the fields. I mean, not that we're\ngrowing anything, but still."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then why protect them?"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_000_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "'Cause I'm Manikin, a glorified scarecrow\nwho can't do anything BUT protect fields!"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "C'mon. If King Din called you here,\nthere has to be SOMETHING you can\ndo that no one else can. So what is it?"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_000_CUT_000_040": {
+    "speaker": "Doll",
+    "text": "No idea. Glorified scarecrow, remember?\nBut there WAS something I realized this\none time when I was staring motionlessly\nat the fields..."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, yeah? What's that?"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_000_CUT_000_060": {
+    "speaker": "Doll",
+    "text": "There are no crows in Brighthome!"
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Crows? Like, 'caw caw' crows?\nWell, neat, I guess."
+  },
+  "SUB_W17_EVAR_AMYA_FIELD_000_CUT_000_080": {
+    "speaker": "Doll",
+    "text": "Farewell!"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_000_CUT_000_000": {
+    "speaker": "Vacuum",
+    "text": "Oh, I'm so glad you're here, Seer!\nI've been waiting for you to come\nfor SO LONG!"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "You have? What's wrong?"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_000_CUT_000_020": {
+    "speaker": "Vacuum",
+    "text": "You gotta take me the hell out of here,\nbecause I absolutely cannot STAND\nbeing here one second longer!\fC'mon, you can do that, right? Please!\nI'll do anything! I'm begging you!"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "But won't this place be overrun\nby Chaos if you abandon it?"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_000_CUT_000_040": {
+    "speaker": "Vacuum",
+    "text": "I chew up fiends and spit 'em back out!\nThen I do it again! And again! And AGAIN!\nI can't take it anymore! I CAAAAAAN'T!"
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sorry, but we're here because we were\ncalled by King Din; we don't have any\nchoice but to defeat Chaos."
+  },
+  "SUB_W17_EVAR_AMYA_CHURCH_000_CUT_000_060": {
+    "speaker": "Vacuum",
+    "text": "No! Don't go! Don't leave me here!"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_000_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "If the forces of Chaos are showing up this\nclose to the castle, this war might finally\nbe close to ending...in our defeat.\fOh. Hello there. I'm President."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, if you lose heart like that,\nyou'll lose even the winnable battles.\fSo I'm Ameya the Witch, but the\nname King Din gave me is Seer."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_000_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "So you're Seer. Well, considering you only\njust arrived, I see why you would trust\nin King Din's power.\fBut for the rest of us, it doesn't mean\nsquat. That guy doesn't do a damn thing;\nwhatever we accomplish, we do on our own."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_000_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "I know the warrior bands are doing their best,\nbut there's been no indication that the forces\nof Chaos are weakening—so if you think I'm\nlosing heart, that's why."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I can't give up on the war; I came here\nto do something, and I can't do it until the\nbattle is ended. But I'm gonna figure it out,\nso please just hold on a little longer!"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_000_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Well, you certainly seem confident,\nso...I guess I'll trust you."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, that's the spirit!\nWe'll get through this together!"
+  },
+  "SUB_W17_EVAR_AMYA_REBEL_000_CUT_000_000": {
+    "speaker": "Immunity",
+    "text": "Blargh! It's just as I feared! \nThe rebels have appeared!"
+  },
+  "SUB_W17_EVAR_AMYA_REBEL_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "You expected this?"
+  },
+  "SUB_W17_EVAR_AMYA_REBEL_000_CUT_000_020": {
+    "speaker": "Immunity",
+    "text": "Yes. My name's Immunity, and it's my job to\nkeep the warriors King Din summoned from\nbetraying him and joining up with Chaos."
+  },
+  "SUB_W17_EVAR_AMYA_REBEL_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, there really ARE all types among the\nking's warriors! So I'm guessing that in the\nend, you weren't able to stop them and\nthey all ended up rebelling?"
+  },
+  "SUB_W17_EVAR_AMYA_REBEL_000_CUT_000_040": {
+    "speaker": "Immunity",
+    "text": "YES, ACTUALLY! THAT'S EXACTLY WHAT THEY DID!\nI mean, King Din may have named me Immunity,\nbut I can't immunize people from wanting to\nrebel! Heck, all I really do is carry oxygen..."
+  },
+  "SUB_W17_EVAR_AMYA_REBEL_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then we've gotta stop 'em before they\nattract more people to the cause!"
+  },
+  "SUB_W17_EVAR_AMYA_REBEL_010_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, there really ARE all types among the\nking's warriors! So I'm guessing that in the\nend, you weren't able to stop them and\nthey all ended up rebelling?"
+  },
+  "SUB_W17_EVAR_AMYA_REBEL_010_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, you just leave this\nlittle uprising to me!"
+  },
+  "SUB_W17_EVAR_AMYA_ITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Where in the hells be that legendary treasure,\nby gar!? I searched this blasted castle from\nstem to stern, and I ain't been findin' the\ngods-damned thing anywhere!"
+  },
+  "SUB_W17_EVAR_AMYA_ITEM_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you're another one of the\npeople King Din called here?"
+  },
+  "SUB_W17_EVAR_AMYA_ITEM_000_CUT_000_020": {
+    "speaker": "Buccaneer",
+    "text": "Yar, lass! Announce yerself before ye appear\nand start yer yammerin'! Ye made me jump\noutta me skin, so ye did!\fGar, but I be Pirate. Who be ye?"
+  },
+  "SUB_W17_EVAR_AMYA_ITEM_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "My name's Ameya— Er, Seer."
+  },
+  "SUB_W17_EVAR_AMYA_ITEM_000_CUT_000_040": {
+    "speaker": "Buccaneer",
+    "text": "Gahar har har! King Din's\nlittle trump card!\fSorry to break it to ye, lass, but there\nalready be a treasure hidden here in Brighthome\nthat can turn the tide of the war without ye—\nand I was called here to be sniffin' it out!"
+  },
+  "SUB_W17_EVAR_AMYA_ITEM_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "All I'm sniffing here are lies and some\nserious I've-been-locked-up-in-a-cramped-\nboat-way-too-long body odor."
+  },
+  "SUB_W17_EVAR_AMYA_ITEM_000_CUT_000_060": {
+    "speaker": "Buccaneer",
+    "text": "Yar, what kind of base cutpurse\ndo ye be takin' me for!?\fOh, but it matters little—this\nwhole castle is bare as a pile\nof bleached bones."
+  },
+  "SUB_W17_EVAR_AMYA_ITEM_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "A treasure that could turn the tide of\nthe war, eh? Not an easy thing to do,\neven with magic. I wonder if it's real."
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Gar, curse me bones!\nIt ain't here, neither!"
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I don't think a legendary treasure\nwould be in a village like this."
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Manikin is going to be angry\nif she digs up all his fields."
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "They would've found it a long\ntime ago if it was in the mine."
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "She's not digging up graves, right?"
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Doesn't look like she's doing\nany damage to the building."
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "She's not stealing from\nanyone in town, right?"
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "They'd have found and used\nit by now if it was here."
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "You'd think it'd be in a place\nlike this, but I guess not."
+  },
+  "SUB_W17_EVAR_AMYA_NOTFINDITEM_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Not in the ruins, either? Huh."
+  },
+  "SUB_W17_FUNC_AMYA_FINDITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Gahar har har! I've found it!\nThe legendary treasure!"
+  },
+  "SUB_W17_FUNC_AMYA_FINDITEM_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, it's real! Now let's see you\nuse it and turn the tide of the war!"
+  },
+  "SUB_W17_FUNC_AMYA_FINDITEM_000_CUT_000_020": {
+    "speaker": "Buccaneer",
+    "text": "Gar, ye be followin' me,\nye detestable urchin!\fAnd aye, I'll turn the tide—but I'll\nbe keepin' the treasure afterwards!"
+  },
+  "SUB_W17_FUNC_AMYA_FINDITEM_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Fine by me."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "You pitched in to fight too, Guv?\nMuch appreciated."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_001": {
+    "speaker": "Doll",
+    "text": "Heya, Guv! You helped with the\nfighting? Thanks for that!"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_002": {
+    "speaker": "Bully",
+    "text": "Been a minute and a half, eh, Guv?\nYou and I gotta scrap next time!"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_003": {
+    "speaker": "Lord",
+    "text": "You were out there fighting, Guv?\nMy apologies—I did not realize."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_004": {
+    "speaker": "Vacuum",
+    "text": "Ha ha ha! Been a long time, Guv!\nLet's spar again sometime."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_005": {
+    "speaker": "Fiore",
+    "text": "Why, if it isn't Guv!\nI thank you for joining the fight."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_006": {
+    "speaker": "Arsenal",
+    "text": "Your presence here explains\nour victory, Guv. Thank you."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_007": {
+    "speaker": "Sorceress",
+    "text": "Well, well. If it isn't Guv.\nSurprised you're still out there\nfighting and not retired already."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_008": {
+    "speaker": "Gadget",
+    "text": "You're looking pretty tired there, Guv.\nReady for your trip to Hell so soon?"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Guv! You were saying all that stuff\nabout being worn out and battered,\nbut here you are fighting up a storm!"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_020": {
+    "speaker": "Guv",
+    "text": "You're Seer, yes? Ah, it's no wonder I felt\nthat dazzling radiance; with a warrior like\nyou here, I can finally retire in peace."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_030": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from town. I pray your fight\ngoes well, milady."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_031": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the fields.\nI pray your fight goes well, milady."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_032": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the mine.\nI pray your fight goes well, milady."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_033": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the cemetery.\nI pray your fight goes well, milady."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_034": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the church. I pray your\nfight goes well, milady."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_035": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from town. I pray your fight\ngoes well, milady."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_036": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the stronghold. I pray\nyour fight goes well, milady."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_037": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the temple. I pray your\nfight goes well, milady."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_038": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the ruins. I pray your\nfight goes well, milady."
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_010_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Takes all sorts, I suppose!"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_020_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I don't see Guv or his lady around.\nI wonder how they're doing?"
+  },
+  "SUB_W17_EVAR_AMYA_VILLAGE_020_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm sure they're off living\na happy life somewhere."
+  },
+  "SUB_W17_FUNC_AMYA_HELP_000_CUT_000_000": {
+    "speaker": "Guv",
+    "text": "Ah! You must be the newcomer."
+  },
+  "SUB_W17_FUNC_AMYA_HELP_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's right! Er, how'd you know?"
+  },
+  "SUB_W17_FUNC_AMYA_HELP_000_CUT_000_020": {
+    "speaker": "Guv",
+    "text": "Age isn't a factor for warriors in Brighthome.\nYoung and old, known and unknown—warriors of\nall stripes are called to this place.\fBut no matter their actual age, every newcomer\nhas a certain youthful vitality to them—\na vitality I sense now in you."
+  },
+  "SUB_W17_FUNC_AMYA_HELP_000_CUT_000_030": {
+    "speaker": "Guv",
+    "text": "Alas, such vitality is something a wizened old man\nlike me has lost. I'm a warrior as well, you see—\nthough a worn and battered one. Guv is the name\ngiven to me by the king, and all I'll answer to."
+  },
+  "SUB_W17_FUNC_AMYA_HELP_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, why don't you take a little rest?\nI'll take up the fight from here,\nso you don't have to worry."
+  },
+  "SUB_W17_FUNC_AMYA_HELP_000_CUT_000_050": {
+    "speaker": "Guv",
+    "text": "Ha! You've quite the silver tongue,\nnewcomer! Just make certain you\nfight as well as you flatter."
+  },
+  "SUB_W17_FUNC_AMYA_HELP_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, you can count on it!"
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_000": {
+    "speaker": "Simon",
+    "text": "With the battle ended, we no longer need\nto use the names given to us by the king.\nI am called Simon."
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm Ameya Aisling."
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_020": {
+    "speaker": "Simon",
+    "text": "Did you find the cat you needed?"
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "You bet I did. Speaking of, did you first\ncome to this world because you had\nsomething you wanted to accomplish?"
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_040": {
+    "speaker": "Simon",
+    "text": "The members of my squadron all perished\nin battle—and when I failed to fulfill\nmy objective, I joined them in death.\fThe next thing I knew, I was waking\nhere in Brighthome with a new name."
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "What!? Oh my gosh, am I actually DEAD?\nEeep! I'd better head back to the\nLost Realms and make sure!"
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_060": {
+    "speaker": "Simon",
+    "text": "Is my following you\nout of the question?"
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm happy to have you, but, uh, you're dead.\nDoesn't that mean you'd just disappear\nforever the moment you left Brighthome?"
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_080": {
+    "speaker": "Simon",
+    "text": "I have no intention of fighting for all\neternity in Brighthome. If I disappear,\nthat is simply as it was meant to be."
+  },
+  "SUB_W17_EVAR_AMYA_SIMON_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Can't argue with that logic.\nWell then, c'mon!"
+  },
+  "SUB_W17_EVAR_AMYA_NEKO_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ugh. Digging up the fields means\nbeing COVERED in dirt."
+  }
+}

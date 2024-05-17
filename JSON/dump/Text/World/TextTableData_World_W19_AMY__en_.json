@@ -1,0 +1,22 @@
+{
+  "W19_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Enormous Tree"
+  },
+  "W19_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've come to the Great Tree, a land full of life. Could there be a cat here?"
+  },
+  "W19_EVAR_AMYA_NEKO_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat"
+  },
+  "W19_EVAR_AMYA_NEKO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There should be a cat around here."
+  },
+  "W19_EVAR_AMYA_NEKO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Cat"
+  }
+}

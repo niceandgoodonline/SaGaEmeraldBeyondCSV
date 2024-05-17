@@ -1,0 +1,82 @@
+{
+  "W07_EVAR_BOFO_TEMPLESOUL_000_TITLE": {
+    "speaker": "UI",
+    "text": "After the Ghost"
+  },
+  "W07_EVAR_BOFO_TEMPLESOUL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though there was no triangle in the final temple, the little ghost seems to know something."
+  },
+  "W07_EVAR_BOFO_TEMPLESOUL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Ruins of the Soul Temple"
+  },
+  "W07_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cinq: World of the Four Tribes"
+  },
+  "W07_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found the ruins of what was likely a temple on the other side of the door. Four tribes inhabit this world—but which can best help you track down a triangle?"
+  },
+  "W07_EVAR_BOFO_TEMPLEFIRE_LAST_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Temple"
+  },
+  "W07_EVAR_BOFO_TEMPLEFIRE_LAST_DETAIL": {
+    "speaker": "UI",
+    "text": "Must you also destroy the final temple?"
+  },
+  "W07_EVAR_BOFO_TEMPLEFIRE_LAST_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Flame Temple"
+  },
+  "W07_EVAR_BOFO_TEMPLEWATER_LAST_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Temple"
+  },
+  "W07_EVAR_BOFO_TEMPLEWATER_LAST_DETAIL": {
+    "speaker": "UI",
+    "text": "Must you also destroy the final temple?"
+  },
+  "W07_EVAR_BOFO_TEMPLEWATER_LAST_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Wave Temple"
+  },
+  "W07_EVAR_BOFO_TEMPLEWOOD_LAST_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Temple"
+  },
+  "W07_EVAR_BOFO_TEMPLEWOOD_LAST_DETAIL": {
+    "speaker": "UI",
+    "text": "Must you also destroy the final temple?"
+  },
+  "W07_EVAR_BOFO_TEMPLEWOOD_LAST_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Forest Temple"
+  },
+  "W07_EVAR_BOFO_TEMPLEWIND_LAST_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Temple"
+  },
+  "W07_EVAR_BOFO_TEMPLEWIND_LAST_DETAIL": {
+    "speaker": "UI",
+    "text": "Must you also destroy the final temple?"
+  },
+  "W07_EVAR_BOFO_TEMPLEWIND_LAST_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Gale Temple"
+  },
+  "W07_EVAR_BOFO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Rebuilt Soul Temple"
+  },
+  "W07_EVAR_BOFO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All the temples have been destroyed. Where will you find your triangle?"
+  },
+  "W07_EVAR_BOFO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Soul Temple"
+  }
+}

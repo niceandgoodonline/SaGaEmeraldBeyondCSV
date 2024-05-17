@@ -1,0 +1,6190 @@
+{
+  "CharaName_Tsunanori_Mido": {
+    "speaker": "UI",
+    "text": "Tsunanori Mido"
+  },
+  "Hypocoristic_Tsunanori_Mido": {
+    "speaker": "UI",
+    "text": "Tsunanori"
+  },
+  "Caption_Tsunanori_Mido": {
+    "speaker": "UI",
+    "text": "Miyako Imperial University Student"
+  },
+  "Discription_Tsunanori_Mido": {
+    "speaker": "UI",
+    "text": "Member of a branch family of the famous Mido family and <i>kugutsu</i> puppetmaster."
+  },
+  "CharaSelect_Tsunanori_Mido": {
+    "speaker": "UI",
+    "text": "Member of a branch family of the famous\nMido family of <i>kugutsu</i> puppetmasters."
+  },
+  "CharaName_Lita_Caryx": {
+    "speaker": "UI",
+    "text": "Lita Caryx"
+  },
+  "Hypocoristic_Lita_Caryx": {
+    "speaker": "UI",
+    "text": "Lita"
+  },
+  "Caption_Lita_Caryx": {
+    "speaker": "UI",
+    "text": "Blue Witch"
+  },
+  "Discription_Lita_Caryx": {
+    "speaker": "UI",
+    "text": "Daughter of the Blue Sage."
+  },
+  "CharaName_Musashi_Kugutu": {
+    "speaker": "UI",
+    "text": "Musashi"
+  },
+  "Hypocoristic_Musashi_Kugutu": {
+    "speaker": "UI",
+    "text": "Musashi"
+  },
+  "Caption_Musashi_Kugutu": {
+    "speaker": "UI",
+    "text": "Sword <i>Kugutsu</i>"
+  },
+  "Discription_Musashi_Kugutu": {
+    "speaker": "UI",
+    "text": "A <i>kugutsu</i> imbued with the soul of a swordmaster named Musashi."
+  },
+  "CharaName_Komachi_Kugutu": {
+    "speaker": "UI",
+    "text": "Komachi"
+  },
+  "Hypocoristic_Komachi_Kugutu": {
+    "speaker": "UI",
+    "text": "Komachi"
+  },
+  "Caption_Komachi_Kugutu": {
+    "speaker": "UI",
+    "text": "Spell <i>Kugutsu</i>"
+  },
+  "Discription_Komachi_Kugutu": {
+    "speaker": "UI",
+    "text": "A <i>kugutsu</i> imbued with the soul of a poet named Komachi."
+  },
+  "CharaName_Bou_Kugutu": {
+    "speaker": "UI",
+    "text": "Boh"
+  },
+  "Hypocoristic_Bou_Kugutu": {
+    "speaker": "UI",
+    "text": "Boh"
+  },
+  "Caption_Bou_Kugutu": {
+    "speaker": "UI",
+    "text": "Gun <i>Kugutsu</i>"
+  },
+  "Discription_Bou_Kugutu": {
+    "speaker": "UI",
+    "text": "A <i>kugutsu</i> imbued with the soul of a gunslinger named Boh."
+  },
+  "CharaName_Sukune_Kugutu": {
+    "speaker": "UI",
+    "text": "Sukune"
+  },
+  "Hypocoristic_Sukune_Kugutu": {
+    "speaker": "UI",
+    "text": "Sukune"
+  },
+  "Caption_Sukune_Kugutu": {
+    "speaker": "UI",
+    "text": "Martial Arts <i>Kugutsu</i>"
+  },
+  "Discription_Sukune_Kugutu": {
+    "speaker": "UI",
+    "text": "A <i>kugutsu</i> imbued with the soul of a martial artist named Sukune."
+  },
+  "CharaName_Ameya_Aisling": {
+    "speaker": "UI",
+    "text": "Ameya Aisling"
+  },
+  "Hypocoristic_Ameya_Aisling": {
+    "speaker": "UI",
+    "text": "Ameya"
+  },
+  "Caption_Ameya_Aisling": {
+    "speaker": "UI",
+    "text": "White Witch"
+  },
+  "Discription_Ameya_Aisling": {
+    "speaker": "UI",
+    "text": "Daughter of the White Sage."
+  },
+  "CharaSelect_Ameya_Aisling": {
+    "speaker": "UI",
+    "text": "Daughter of the White Sage.\nCurrently undertaking her Witchterms."
+  },
+  "CharaName_Siugnas_Darkking": {
+    "speaker": "UI",
+    "text": "Siugnas"
+  },
+  "Hypocoristic_Siugnas_Darkking": {
+    "speaker": "UI",
+    "text": "Siugnas"
+  },
+  "Caption_Siugnas_Darkking": {
+    "speaker": "UI",
+    "text": "Dismal King"
+  },
+  "Discription_Siugnas_Darkking": {
+    "speaker": "UI",
+    "text": "A man who was once the Dismal King. Or perhaps he still is?"
+  },
+  "CharaSelect_Siugnas_Darkking": {
+    "speaker": "UI",
+    "text": "An undying vampire lord.\nHas many thralls under his command."
+  },
+  "CharaName_Formina_Franklyn": {
+    "speaker": "UI",
+    "text": "Formina Franklyn"
+  },
+  "Hypocoristic_Formina_Franklyn": {
+    "speaker": "UI",
+    "text": "Formina"
+  },
+  "Caption_Formina_Franklyn": {
+    "speaker": "UI",
+    "text": "CCPD Officer"
+  },
+  "Discription_Formina_Franklyn": {
+    "speaker": "UI",
+    "text": "Officer with the Capitol City Police Department."
+  },
+  "CharaName_Bonnie_Blair": {
+    "speaker": "UI",
+    "text": "Bonnie Blair"
+  },
+  "Hypocoristic_Bonnie_Blair": {
+    "speaker": "UI",
+    "text": "Bonnie"
+  },
+  "Caption_Bonnie_Blair": {
+    "speaker": "UI",
+    "text": "CCPD Officer"
+  },
+  "Discription_Bonnie_Blair": {
+    "speaker": "UI",
+    "text": "Officer with the Capitol City Police Department."
+  },
+  "CharaName_John_Angevin": {
+    "speaker": "UI",
+    "text": "John Angevin"
+  },
+  "Hypocoristic_John_Angevin": {
+    "speaker": "UI",
+    "text": "John"
+  },
+  "Caption_John_Angevin": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_John_Angevin": {
+    "speaker": "UI",
+    "text": "MAG agent."
+  },
+  "CharaName_Diva_No5": {
+    "speaker": "UI",
+    "text": "Diva No. 5"
+  },
+  "Hypocoristic_Diva_No5": {
+    "speaker": "UI",
+    "text": "D5"
+  },
+  "Caption_Diva_No5": {
+    "speaker": "UI",
+    "text": "Songstress"
+  },
+  "Discription_Diva_No5": {
+    "speaker": "UI",
+    "text": "The latest model in the singing and dancing Diva series of mechs. Serial number D0503."
+  },
+  "CharaSelect_Diva_No5": {
+    "speaker": "UI",
+    "text": "The latest model in the Diva series\nof entertainment mechs."
+  },
+  "CharaName_Dolores": {
+    "speaker": "UI",
+    "text": "Dolores"
+  },
+  "Hypocoristic_Dolores": {
+    "speaker": "UI",
+    "text": "Dolores"
+  },
+  "Caption_Dolores": {
+    "speaker": "UI",
+    "text": "Maid"
+  },
+  "Discription_Dolores": {
+    "speaker": "UI",
+    "text": "A maid who is intensely loyal to her master, although it is unclear who that might be."
+  },
+  "CharaName_Boudica": {
+    "speaker": "UI",
+    "text": "Boudica"
+  },
+  "Hypocoristic_Boudica": {
+    "speaker": "UI",
+    "text": "Boudica"
+  },
+  "Caption_Boudica": {
+    "speaker": "UI",
+    "text": "Chief of a Fallen Tribe"
+  },
+  "Discription_Boudica": {
+    "speaker": "UI",
+    "text": "Displayed for Boudica."
+  },
+  "CharaName_Constantine": {
+    "speaker": "UI",
+    "text": "Constantine"
+  },
+  "Hypocoristic_Constantine": {
+    "speaker": "UI",
+    "text": "Constantine"
+  },
+  "Caption_Constantine": {
+    "speaker": "UI",
+    "text": "National Extradimensional Exploratory Task Force Commander"
+  },
+  "Discription_Constantine": {
+    "speaker": "UI",
+    "text": "Displayed for Constantine."
+  },
+  "CharaName_General_Einherjar": {
+    "speaker": "UI",
+    "text": "General"
+  },
+  "Hypocoristic_General_Einherjar": {
+    "speaker": "UI",
+    "text": "General"
+  },
+  "Caption_General_Einherjar": {
+    "speaker": "UI",
+    "text": "Unconquerable"
+  },
+  "Discription_General_Einherjar": {
+    "speaker": "UI",
+    "text": "Commander of a warrior band called the Generals."
+  },
+  "CharaName_Brave_Einherjar": {
+    "speaker": "UI",
+    "text": "Hero"
+  },
+  "Hypocoristic_Brave_Einherjar": {
+    "speaker": "UI",
+    "text": "Hero"
+  },
+  "Caption_Brave_Einherjar": {
+    "speaker": "UI",
+    "text": "Peach Garden Oathsworn"
+  },
+  "Discription_Brave_Einherjar": {
+    "speaker": "UI",
+    "text": "De facto leader of a warrior band called the Generals."
+  },
+  "CharaName_Philosopher_Einherjar": {
+    "speaker": "UI",
+    "text": "Philosopher"
+  },
+  "Hypocoristic_Philosopher_Einherjar": {
+    "speaker": "UI",
+    "text": "Philosopher"
+  },
+  "Caption_Philosopher_Einherjar": {
+    "speaker": "UI",
+    "text": "And Yet, What Exactly <i>Is</i> a Philosopher?"
+  },
+  "Discription_Philosopher_Einherjar": {
+    "speaker": "UI",
+    "text": "Member of the warrior band called the Generals."
+  },
+  "CharaName_Killer_Einherjar": {
+    "speaker": "UI",
+    "text": "Lifetaker"
+  },
+  "Hypocoristic_Killer_Einherjar": {
+    "speaker": "UI",
+    "text": "Lifetaker"
+  },
+  "Caption_Killer_Einherjar": {
+    "speaker": "UI",
+    "text": "Your Life Will Be Mine"
+  },
+  "Discription_Killer_Einherjar": {
+    "speaker": "UI",
+    "text": "Member of the warrior band called the Generals."
+  },
+  "CharaName_Ilmurran_Einherjar": {
+    "speaker": "UI",
+    "text": "Warrior"
+  },
+  "Hypocoristic_Ilmurran_Einherjar": {
+    "speaker": "UI",
+    "text": "Warrior"
+  },
+  "Caption_Ilmurran_Einherjar": {
+    "speaker": "UI",
+    "text": "Am I a Warrior? Well...Yeah?"
+  },
+  "Discription_Ilmurran_Einherjar": {
+    "speaker": "UI",
+    "text": "Member of the warrior band called the Generals."
+  },
+  "CharaName_Champion_Einherjar": {
+    "speaker": "UI",
+    "text": "Champion"
+  },
+  "Hypocoristic_Champion_Einherjar": {
+    "speaker": "UI",
+    "text": "Champion"
+  },
+  "Caption_Champion_Einherjar": {
+    "speaker": "UI",
+    "text": "Train Yourself for Greater Glory"
+  },
+  "Discription_Champion_Einherjar": {
+    "speaker": "UI",
+    "text": "Member of the warrior band called the Generals."
+  },
+  "CharaName_Meow_Cat": {
+    "speaker": "UI",
+    "text": "Meow"
+  },
+  "Hypocoristic_Meow_Cat": {
+    "speaker": "UI",
+    "text": "Meow"
+  },
+  "Caption_Meow_Cat": {
+    "speaker": "UI",
+    "text": "Feline Great Beast"
+  },
+  "Discription_Meow_Cat": {
+    "speaker": "UI",
+    "text": "A wild beast that resembles a cat."
+  },
+  "CharaName_Purr_Cat": {
+    "speaker": "UI",
+    "text": "Purr"
+  },
+  "Hypocoristic_Purr_Cat": {
+    "speaker": "UI",
+    "text": "Purr"
+  },
+  "Caption_Purr_Cat": {
+    "speaker": "UI",
+    "text": "Feline Great Beast"
+  },
+  "Discription_Purr_Cat": {
+    "speaker": "UI",
+    "text": "A wild beast that resembles a cat."
+  },
+  "CharaName_Hiss_Cat": {
+    "speaker": "UI",
+    "text": "Hiss"
+  },
+  "Hypocoristic_Hiss_Cat": {
+    "speaker": "UI",
+    "text": "Hiss"
+  },
+  "Caption_Hiss_Cat": {
+    "speaker": "UI",
+    "text": "Feline Great Beast"
+  },
+  "Discription_Hiss_Cat": {
+    "speaker": "UI",
+    "text": "A wild beast that resembles a cat."
+  },
+  "CharaName_Blath": {
+    "speaker": "UI",
+    "text": "Bláth"
+  },
+  "Hypocoristic_Blath": {
+    "speaker": "UI",
+    "text": "Bláth"
+  },
+  "Caption_Blath": {
+    "speaker": "UI",
+    "text": "Plant-Type Ephemeral"
+  },
+  "Discription_Blath": {
+    "speaker": "UI",
+    "text": "A plant-type ephemeral of unknown origin."
+  },
+  "CharaName_Wednesday": {
+    "speaker": "UI",
+    "text": "Wednesday"
+  },
+  "Hypocoristic_Wednesday": {
+    "speaker": "UI",
+    "text": "Wednesday"
+  },
+  "Caption_Wednesday": {
+    "speaker": "UI",
+    "text": "Armored Warrior"
+  },
+  "Discription_Wednesday": {
+    "speaker": "UI",
+    "text": "A warrior covered from head to toe in battle armor."
+  },
+  "CharaName_BLANK_NAME": {
+    "speaker": "UI",
+    "text": " "
+  },
+  "Hypocoristic_BLANK_NAME": {
+    "speaker": "UI",
+    "text": " "
+  },
+  "Caption_BLANK_NAME": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BLANK_NAME": {
+    "speaker": "UI",
+    "text": "For blank displays."
+  },
+  "CharaName_Unknown_Person": {
+    "speaker": "UI",
+    "text": "Mysterious Person"
+  },
+  "Hypocoristic_Unknown_Person": {
+    "speaker": "UI",
+    "text": "Mysterious Person"
+  },
+  "Caption_Unknown_Person": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Unknown_Person": {
+    "speaker": "UI",
+    "text": "Displayed for Mysterious Person."
+  },
+  "CharaName_Strange_Person": {
+    "speaker": "UI",
+    "text": "Suspicious Person"
+  },
+  "Hypocoristic_Strange_Person": {
+    "speaker": "UI",
+    "text": "Suspicious Person"
+  },
+  "Caption_Strange_Person": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Strange_Person": {
+    "speaker": "UI",
+    "text": "Displayed for Suspicious Person."
+  },
+  "CharaName_Familiar_Voice": {
+    "speaker": "UI",
+    "text": "Familiar Voice"
+  },
+  "Hypocoristic_Familiar_Voice": {
+    "speaker": "UI",
+    "text": "Familiar Voice"
+  },
+  "Caption_Familiar_Voice": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Familiar_Voice": {
+    "speaker": "UI",
+    "text": "Displayed for Familiar Voice."
+  },
+  "CharaName_Memorable_Voice": {
+    "speaker": "UI",
+    "text": "Memorable Voice"
+  },
+  "Hypocoristic_Memorable_Voice": {
+    "speaker": "UI",
+    "text": "Memorable Voice"
+  },
+  "Caption_Memorable_Voice": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Memorable_Voice": {
+    "speaker": "UI",
+    "text": "Displayed for Memorable Voice."
+  },
+  "CharaName_Enemy_Figure": {
+    "speaker": "UI",
+    "text": "Suspicious Figure"
+  },
+  "Hypocoristic_Enemy_Figure": {
+    "speaker": "UI",
+    "text": "Suspicious Figure"
+  },
+  "Caption_Enemy_Figure": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Enemy_Figure": {
+    "speaker": "UI",
+    "text": "Displayed for enemies such as monsters. Please use it as a general name."
+  },
+  "CharaName_Enemy_Figure2": {
+    "speaker": "UI",
+    "text": "Watchful Fiend"
+  },
+  "Hypocoristic_Enemy_Figure2": {
+    "speaker": "UI",
+    "text": "Watchful Fiend"
+  },
+  "Caption_Enemy_Figure2": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Enemy_Figure2": {
+    "speaker": "UI",
+    "text": "Displayed for enemies such as monsters when they're lying in wait."
+  },
+  "CharaName_Information_Staff": {
+    "speaker": "UI",
+    "text": "Receptionist"
+  },
+  "Hypocoristic_Information_Staff": {
+    "speaker": "UI",
+    "text": "Receptionist"
+  },
+  "Caption_Information_Staff": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Information_Staff": {
+    "speaker": "UI",
+    "text": "Receptionist."
+  },
+  "CharaName_Man_Overworld": {
+    "speaker": "UI",
+    "text": "Man from the Heavens"
+  },
+  "Hypocoristic_Man_Overworld": {
+    "speaker": "UI",
+    "text": "Man from the Heavens"
+  },
+  "Caption_Man_Overworld": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Man_Overworld": {
+    "speaker": "UI",
+    "text": "A man met in the Heavens. Clearly a boss character."
+  },
+  "CharaName_Man_Overworld_Cyber": {
+    "speaker": "UI",
+    "text": "Quisstatium"
+  },
+  "Hypocoristic_Man_Overworld_Cyber": {
+    "speaker": "UI",
+    "text": "Man from the Heavens"
+  },
+  "Caption_Man_Overworld_Cyber": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Man_Overworld_Cyber": {
+    "speaker": "UI",
+    "text": "A man met in the Heavens. Clearly a boss character."
+  },
+  "CharaName_CR_Slime": {
+    "speaker": "UI",
+    "text": "Mysterious Creature"
+  },
+  "Hypocoristic_CR_Slime": {
+    "speaker": "UI",
+    "text": "Mysterious Creature"
+  },
+  "Caption_CR_Slime": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_CR_Slime": {
+    "speaker": "UI",
+    "text": "A mysterious being that inhabits a mysterious space."
+  },
+  "CharaName_Cathedral_Officer": {
+    "speaker": "UI",
+    "text": "Administrator"
+  },
+  "Hypocoristic_Cathedral_Officer": {
+    "speaker": "UI",
+    "text": "Administrator"
+  },
+  "Caption_Cathedral_Officer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_Tadamichi_Mido": {
+    "speaker": "UI",
+    "text": "Tadamichi Mido"
+  },
+  "Hypocoristic_Tadamichi_Mido": {
+    "speaker": "UI",
+    "text": "Tadamichi Mido"
+  },
+  "Caption_Tadamichi_Mido": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Tadamichi_Mido": {
+    "speaker": "UI",
+    "text": "Tsunanori's uncle."
+  },
+  "CharaName_Masatsuna_Mido": {
+    "speaker": "UI",
+    "text": "Masatsuna Mido"
+  },
+  "Hypocoristic_Masatsuna_Mido": {
+    "speaker": "UI",
+    "text": "Masatsuna Mido"
+  },
+  "Caption_Masatsuna_Mido": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Masatsuna_Mido": {
+    "speaker": "UI",
+    "text": "Tsunanori's father."
+  },
+  "CharaName_Tadako_Mido": {
+    "speaker": "UI",
+    "text": "Tadako Mido"
+  },
+  "Hypocoristic_Tadako_Mido": {
+    "speaker": "UI",
+    "text": "Tadako Mido"
+  },
+  "Caption_Tadako_Mido": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Tadako_Mido": {
+    "speaker": "UI",
+    "text": "Tsunanori's mother."
+  },
+  "CharaName_Tomoko_Mido": {
+    "speaker": "UI",
+    "text": "Tomoko Mido"
+  },
+  "Hypocoristic_Tomoko_Mido": {
+    "speaker": "UI",
+    "text": "Tomoko Mido"
+  },
+  "Caption_Tomoko_Mido": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Tomoko_Mido": {
+    "speaker": "UI",
+    "text": "Tsunanori's little sister. Currently attending high school."
+  },
+  "CharaName_Friend_Tomoko": {
+    "speaker": "UI",
+    "text": "Tomoko's Friends"
+  },
+  "Hypocoristic_Friend_Tomoko": {
+    "speaker": "UI",
+    "text": "Tomoko's Friends"
+  },
+  "Caption_Friend_Tomoko": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Friend_Tomoko": {
+    "speaker": "UI",
+    "text": "Tomoko Mido's friends."
+  },
+  "CharaName_Child_Neighbor": {
+    "speaker": "UI",
+    "text": "Local Child"
+  },
+  "Hypocoristic_Child_Neighbor": {
+    "speaker": "UI",
+    "text": "Local Child"
+  },
+  "Caption_Child_Neighbor": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Child_Neighbor": {
+    "speaker": "UI",
+    "text": "Displayed for non-specific children."
+  },
+  "CharaName_Yumeha_Izumi": {
+    "speaker": "UI",
+    "text": "Yumeha Izumi"
+  },
+  "Hypocoristic_Yumeha_Izumi": {
+    "speaker": "UI",
+    "text": "Yumeha"
+  },
+  "Caption_Yumeha_Izumi": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Yumeha_Izumi": {
+    "speaker": "UI",
+    "text": "Keihoku Elementary School student."
+  },
+  "CharaName_LoLo": {
+    "speaker": "UI",
+    "text": "LoLo"
+  },
+  "Hypocoristic_LoLo": {
+    "speaker": "UI",
+    "text": "LoLo"
+  },
+  "Caption_LoLo": {
+    "speaker": "UI",
+    "text": "Familiar"
+  },
+  "Discription_LoLo": {
+    "speaker": "UI",
+    "text": "Ameya's cat familiar."
+  },
+  "CharaName_LoLo_Battle": {
+    "speaker": "UI",
+    "text": "LoLo"
+  },
+  "Hypocoristic_LoLo_Battle": {
+    "speaker": "UI",
+    "text": "LoLo"
+  },
+  "Caption_LoLo_Battle": {
+    "speaker": "UI",
+    "text": "Familiar"
+  },
+  "Discription_LoLo_Battle": {
+    "speaker": "UI",
+    "text": "Ameya's cat familiar."
+  },
+  "CharaName_Akane_Erisawa": {
+    "speaker": "UI",
+    "text": "Akane Erisawa"
+  },
+  "Hypocoristic_Akane_Erisawa": {
+    "speaker": "UI",
+    "text": "Ms. Erisawa"
+  },
+  "Caption_Akane_Erisawa": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Akane_Erisawa": {
+    "speaker": "UI",
+    "text": "Teacher at Keihoku Elementary School."
+  },
+  "CharaName_Ren_Tutuki": {
+    "speaker": "UI",
+    "text": "Ren Tsutsuki"
+  },
+  "Hypocoristic_Ren_Tutuki": {
+    "speaker": "UI",
+    "text": "Ren"
+  },
+  "Caption_Ren_Tutuki": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Ren_Tutuki": {
+    "speaker": "UI",
+    "text": "Student at Keihoku Elementary School."
+  },
+  "CharaName_Kentarou_Yanagibi": {
+    "speaker": "UI",
+    "text": "Kentaro Yanagibi"
+  },
+  "Hypocoristic_Kentarou_Yanagibi": {
+    "speaker": "UI",
+    "text": "Kentaro"
+  },
+  "Caption_Kentarou_Yanagibi": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Kentarou_Yanagibi": {
+    "speaker": "UI",
+    "text": "Student at Keihoku Elementary School."
+  },
+  "CharaName_Haruna_Kaneto": {
+    "speaker": "UI",
+    "text": "Haruna Kaneto"
+  },
+  "Hypocoristic_Haruna_Kaneto": {
+    "speaker": "UI",
+    "text": "Haruna"
+  },
+  "Caption_Haruna_Kaneto": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Haruna_Kaneto": {
+    "speaker": "UI",
+    "text": "Student at Keihoku Elementary School. Leader of the girls in her class."
+  },
+  "CharaName_Kotoha_Shimoya": {
+    "speaker": "UI",
+    "text": "Kotoha Shimoya"
+  },
+  "Hypocoristic_Kotoha_Shimoya": {
+    "speaker": "UI",
+    "text": "Kotoha"
+  },
+  "Caption_Kotoha_Shimoya": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Kotoha_Shimoya": {
+    "speaker": "UI",
+    "text": "Student at Keihoku Elementary School."
+  },
+  "CharaName_Yuzuki_Nakatu": {
+    "speaker": "UI",
+    "text": "Yuzuki Nakatsu"
+  },
+  "Hypocoristic_Yuzuki_Nakatu": {
+    "speaker": "UI",
+    "text": "Yuzuki"
+  },
+  "Caption_Yuzuki_Nakatu": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Yuzuki_Nakatu": {
+    "speaker": "UI",
+    "text": "Student at Keihoku Elementary School."
+  },
+  "CharaName_Macha": {
+    "speaker": "UI",
+    "text": "Macha"
+  },
+  "Hypocoristic_Macha": {
+    "speaker": "UI",
+    "text": "Macha"
+  },
+  "Caption_Macha": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Macha": {
+    "speaker": "UI",
+    "text": "A mysterious being who claims to be the Goddess of Sorcery."
+  },
+  "CharaName_Macha_Copy": {
+    "speaker": "UI",
+    "text": "Macha (Copy)"
+  },
+  "Hypocoristic_Macha_Copy": {
+    "speaker": "UI",
+    "text": "Macha (Copy)"
+  },
+  "Caption_Macha_Copy": {
+    "speaker": "UI",
+    "text": "Goddess of Sorcery"
+  },
+  "Discription_Macha_Copy": {
+    "speaker": "UI",
+    "text": "A mysterious being who claims to be a copy of the Goddess of Sorcery."
+  },
+  "CharaName_Shinobu_Kato": {
+    "speaker": "UI",
+    "text": "Shinobu Kato"
+  },
+  "Hypocoristic_Shinobu_Kato": {
+    "speaker": "UI",
+    "text": "Shinobu Kato"
+  },
+  "Caption_Shinobu_Kato": {
+    "speaker": "UI",
+    "text": "Squire of Pulchra"
+  },
+  "Discription_Shinobu_Kato": {
+    "speaker": "UI",
+    "text": "Squire number 15413837. Goes by Shinobu Kato in Miyako City."
+  },
+  "CharaName_Squire15413837": {
+    "speaker": "UI",
+    "text": "Squire 15413837"
+  },
+  "Hypocoristic_Squire15413837": {
+    "speaker": "UI",
+    "text": "Squire 15413837"
+  },
+  "Caption_Squire15413837": {
+    "speaker": "UI",
+    "text": "Squire of Pulchra"
+  },
+  "Discription_Squire15413837": {
+    "speaker": "UI",
+    "text": "Squire number 15413837. Goes by Shinobu Kato in Miyako City."
+  },
+  "CharaName_Kaoruko_Hachijo": {
+    "speaker": "UI",
+    "text": "Kaoruko Hachijo"
+  },
+  "Hypocoristic_Kaoruko_Hachijo": {
+    "speaker": "UI",
+    "text": "Kaoruko Hachijo"
+  },
+  "Caption_Kaoruko_Hachijo": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Kaoruko_Hachijo": {
+    "speaker": "UI",
+    "text": "Student at Rakugaku Academy."
+  },
+  "CharaName_Naomi_Waka": {
+    "speaker": "UI",
+    "text": "Naomi Waka"
+  },
+  "Hypocoristic_Naomi_Waka": {
+    "speaker": "UI",
+    "text": "Naomi"
+  },
+  "Caption_Naomi_Waka": {
+    "speaker": "UI",
+    "text": "Young Lady of Konan"
+  },
+  "Discription_Naomi_Waka": {
+    "speaker": "UI",
+    "text": "Student at Miyako Imperial University. She is one grade beneath Tsunanori."
+  },
+  "CharaName_Asahi_Sayota": {
+    "speaker": "UI",
+    "text": "Asahi Sayota"
+  },
+  "Hypocoristic_Asahi_Sayota": {
+    "speaker": "UI",
+    "text": "Asahi"
+  },
+  "Caption_Asahi_Sayota": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Asahi_Sayota": {
+    "speaker": "UI",
+    "text": "Tsunanori's childhood friend. He is one grade beneath Tsunanori due to failing his entrance exams the first time."
+  },
+  "CharaName_Tourist_Woman": {
+    "speaker": "UI",
+    "text": "Tourist"
+  },
+  "Hypocoristic_Tourist_Woman": {
+    "speaker": "UI",
+    "text": "Tourist"
+  },
+  "Caption_Tourist_Woman": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Tourist_Woman": {
+    "speaker": "UI",
+    "text": "Tourist."
+  },
+  "CharaName_Nigel_Patriot": {
+    "speaker": "UI",
+    "text": "Suspicious Person"
+  },
+  "Hypocoristic_Nigel_Patriot": {
+    "speaker": "UI",
+    "text": "Suspicious Person"
+  },
+  "Caption_Nigel_Patriot": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Nigel_Patriot": {
+    "speaker": "UI",
+    "text": "Nigel Patriot"
+  },
+  "CharaName_Ume_YoungerSister": {
+    "speaker": "UI",
+    "text": "Ume"
+  },
+  "Hypocoristic_Ume_YoungerSister": {
+    "speaker": "UI",
+    "text": "Ume"
+  },
+  "Caption_Ume_YoungerSister": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Ume_YoungerSister": {
+    "speaker": "UI",
+    "text": "One of the Miyako Rail sisters."
+  },
+  "CharaName_Matsu_OlderSister": {
+    "speaker": "UI",
+    "text": "Matsu"
+  },
+  "Hypocoristic_Matsu_OlderSister": {
+    "speaker": "UI",
+    "text": "Matsu"
+  },
+  "Caption_Matsu_OlderSister": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Matsu_OlderSister": {
+    "speaker": "UI",
+    "text": "One of the Miyako Rail sisters."
+  },
+  "CharaName_Take_MiddleSister": {
+    "speaker": "UI",
+    "text": "Take"
+  },
+  "Hypocoristic_Take_MiddleSister": {
+    "speaker": "UI",
+    "text": "Take"
+  },
+  "Caption_Take_MiddleSister": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Take_MiddleSister": {
+    "speaker": "UI",
+    "text": "One of the Miyako Rail sisters."
+  },
+  "CharaName_Ranko_Nitomura": {
+    "speaker": "UI",
+    "text": "Ranko Nitomura"
+  },
+  "Hypocoristic_Ranko_Nitomura": {
+    "speaker": "UI",
+    "text": "Ms. Nitomura"
+  },
+  "Caption_Ranko_Nitomura": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Ranko_Nitomura": {
+    "speaker": "UI",
+    "text": "Receptionist at the Miyako Theater. Was classmates with Akane Erisawa at the Miyako University of Music."
+  },
+  "CharaName_Koutarou_Yanagibi": {
+    "speaker": "UI",
+    "text": "Kind Older Man"
+  },
+  "Hypocoristic_Koutarou_Yanagibi": {
+    "speaker": "UI",
+    "text": "Kotaro Yanagibi"
+  },
+  "Caption_Koutarou_Yanagibi": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Koutarou_Yanagibi": {
+    "speaker": "UI",
+    "text": "The person inside the costume. Kentaro's father."
+  },
+  "CharaName_Mascot_Mall": {
+    "speaker": "UI",
+    "text": "Spendy McBigbucks"
+  },
+  "Hypocoristic_Mascot_Mall": {
+    "speaker": "UI",
+    "text": "Spendy McBigbucks"
+  },
+  "Caption_Mascot_Mall": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Mascot_Mall": {
+    "speaker": "UI",
+    "text": "Sequoia Mall's mascot."
+  },
+  "CharaName_Sophia_Beniike": {
+    "speaker": "UI",
+    "text": "Sophia Beniike"
+  },
+  "Hypocoristic_Sophia_Beniike": {
+    "speaker": "UI",
+    "text": "Sophia"
+  },
+  "Caption_Sophia_Beniike": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Sophia_Beniike": {
+    "speaker": "UI",
+    "text": "Student at Rakugaku Academy."
+  },
+  "CharaName_Friend_Tsunanori": {
+    "speaker": "UI",
+    "text": "Pal"
+  },
+  "Hypocoristic_Friend_Tsunanori": {
+    "speaker": "UI",
+    "text": "Pal"
+  },
+  "Caption_Friend_Tsunanori": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Friend_Tsunanori": {
+    "speaker": "UI",
+    "text": "Character names for friends used a bit in cutscenes."
+  },
+  "CharaName_Interior_Officer": {
+    "speaker": "UI",
+    "text": "Domestic Affairs Officer"
+  },
+  "Hypocoristic_Interior_Officer": {
+    "speaker": "UI",
+    "text": "Officer"
+  },
+  "Caption_Interior_Officer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Interior_Officer": {
+    "speaker": "UI",
+    "text": "Domestic Affairs Officer."
+  },
+  "CharaName_Mother_Izumi": {
+    "speaker": "UI",
+    "text": "Yumeha's Mother"
+  },
+  "Hypocoristic_Mother_Izumi": {
+    "speaker": "UI",
+    "text": "Yumeha's Mother"
+  },
+  "Caption_Mother_Izumi": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Mother_Izumi": {
+    "speaker": "UI",
+    "text": "Yumeha's mother and former apprentice witch."
+  },
+  "CharaName_Stuffed_Bird": {
+    "speaker": "UI",
+    "text": "Taxidermy Bird"
+  },
+  "Hypocoristic_Stuffed_Bird": {
+    "speaker": "UI",
+    "text": "Taxidermy"
+  },
+  "Caption_Stuffed_Bird": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Stuffed_Bird": {
+    "speaker": "UI",
+    "text": "Taxidermy."
+  },
+  "CharaName_Guard_Dog": {
+    "speaker": "UI",
+    "text": "Komainu"
+  },
+  "Hypocoristic_Guard_Dog": {
+    "speaker": "UI",
+    "text": "Komainu"
+  },
+  "Caption_Guard_Dog": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Guard_Dog": {
+    "speaker": "UI",
+    "text": "Komainu."
+  },
+  "CharaName_Ooike_Frog": {
+    "speaker": "UI",
+    "text": "Giant Frog"
+  },
+  "Hypocoristic_Ooike_Frog": {
+    "speaker": "UI",
+    "text": "Giant Frog"
+  },
+  "Caption_Ooike_Frog": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Ooike_Frog": {
+    "speaker": "UI",
+    "text": "Giant Frog."
+  },
+  "CharaName_PetOfRen": {
+    "speaker": "UI",
+    "text": "Ren's Pet"
+  },
+  "Hypocoristic_PetOfRen": {
+    "speaker": "UI",
+    "text": "Ren's Pet"
+  },
+  "Caption_PetOfRen": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_PetOfRen": {
+    "speaker": "UI",
+    "text": "Ren's pet."
+  },
+  "CharaName_MaterOfPollen": {
+    "speaker": "UI",
+    "text": "Pollen Prince"
+  },
+  "Hypocoristic_MaterOfPollen": {
+    "speaker": "UI",
+    "text": "Pollen Prince"
+  },
+  "Caption_MaterOfPollen": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_MaterOfPollen": {
+    "speaker": "UI",
+    "text": "Pollen Prince."
+  },
+  "CharaName_GameOfCat": {
+    "speaker": "UI",
+    "text": "Cat's Prey"
+  },
+  "Hypocoristic_GameOfCat": {
+    "speaker": "UI",
+    "text": "Cat's Prey"
+  },
+  "Caption_GameOfCat": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GameOfCat": {
+    "speaker": "UI",
+    "text": "Cat's prey."
+  },
+  "CharaName_Ameya_Cat": {
+    "speaker": "UI",
+    "text": "Cat"
+  },
+  "Hypocoristic_Ameya_Cat": {
+    "speaker": "UI",
+    "text": "Cat"
+  },
+  "Caption_Ameya_Cat": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Ameya_Cat": {
+    "speaker": "UI",
+    "text": "Cat."
+  },
+  "CharaName_ArchWitch": {
+    "speaker": "UI",
+    "text": "Arch Witch"
+  },
+  "Hypocoristic_ArchWitch": {
+    "speaker": "UI",
+    "text": "Arch Witch"
+  },
+  "Caption_ArchWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_ArchWitch": {
+    "speaker": "UI",
+    "text": "She who stands at the apex of the witching world of Pulchra."
+  },
+  "CharaName_RedWiseWitch": {
+    "speaker": "UI",
+    "text": "Red Sage"
+  },
+  "Hypocoristic_RedWiseWitch": {
+    "speaker": "UI",
+    "text": "Red Sage"
+  },
+  "Caption_RedWiseWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedWiseWitch": {
+    "speaker": "UI",
+    "text": "One of the Five Sages."
+  },
+  "CharaName_BlueWiseWitch": {
+    "speaker": "UI",
+    "text": "Blue Sage"
+  },
+  "Hypocoristic_BlueWiseWitch": {
+    "speaker": "UI",
+    "text": "Blue Sage"
+  },
+  "Caption_BlueWiseWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BlueWiseWitch": {
+    "speaker": "UI",
+    "text": "One of the Five Sages."
+  },
+  "CharaName_YellowWiseWitch": {
+    "speaker": "UI",
+    "text": "Yellow Sage"
+  },
+  "Hypocoristic_YellowWiseWitch": {
+    "speaker": "UI",
+    "text": "Yellow Sage"
+  },
+  "Caption_YellowWiseWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_YellowWiseWitch": {
+    "speaker": "UI",
+    "text": "One of the Five Sages."
+  },
+  "CharaName_WhiteWiseWitch": {
+    "speaker": "UI",
+    "text": "White Sage"
+  },
+  "Hypocoristic_WhiteWiseWitch": {
+    "speaker": "UI",
+    "text": "White Sage"
+  },
+  "Caption_WhiteWiseWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_WhiteWiseWitch": {
+    "speaker": "UI",
+    "text": "One of the Five Sages."
+  },
+  "CharaName_BlackWiseWitch": {
+    "speaker": "UI",
+    "text": "Black Sage"
+  },
+  "Hypocoristic_BlackWiseWitch": {
+    "speaker": "UI",
+    "text": "Black Sage"
+  },
+  "Caption_BlackWiseWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BlackWiseWitch": {
+    "speaker": "UI",
+    "text": "One of the Five Sages."
+  },
+  "CharaName_RedWitchNormal": {
+    "speaker": "UI",
+    "text": "Resolute Red Witch"
+  },
+  "Hypocoristic_RedWitchNormal": {
+    "speaker": "UI",
+    "text": "Red Witch"
+  },
+  "Caption_RedWitchNormal": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedWitchNormal": {
+    "speaker": "UI",
+    "text": "A regular red witch."
+  },
+  "CharaName_BlueWitchNormal": {
+    "speaker": "UI",
+    "text": "Resolute Blue Witch"
+  },
+  "Hypocoristic_BlueWitchNormal": {
+    "speaker": "UI",
+    "text": "Blue Witch"
+  },
+  "Caption_BlueWitchNormal": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BlueWitchNormal": {
+    "speaker": "UI",
+    "text": "A regular blue witch."
+  },
+  "CharaName_YellowWitchNormal": {
+    "speaker": "UI",
+    "text": "Resolute Yellow Witch"
+  },
+  "Hypocoristic_YellowWitchNormal": {
+    "speaker": "UI",
+    "text": "Yellow Witch"
+  },
+  "Caption_YellowWitchNormal": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_YellowWitchNormal": {
+    "speaker": "UI",
+    "text": "A regular yellow witch."
+  },
+  "CharaName_WhiteWitchNormal": {
+    "speaker": "UI",
+    "text": "Resolute White Witch"
+  },
+  "Hypocoristic_WhiteWitchNormal": {
+    "speaker": "UI",
+    "text": "White Witch"
+  },
+  "Caption_WhiteWitchNormal": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_WhiteWitchNormal": {
+    "speaker": "UI",
+    "text": "A regular white witch."
+  },
+  "CharaName_BlackWitchNormal": {
+    "speaker": "UI",
+    "text": "Resolute Black Witch"
+  },
+  "Hypocoristic_BlackWitchNormal": {
+    "speaker": "UI",
+    "text": "Black Witch"
+  },
+  "Caption_BlackWitchNormal": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BlackWitchNormal": {
+    "speaker": "UI",
+    "text": "A regular black witch."
+  },
+  "CharaName_RedWitchOrchid": {
+    "speaker": "UI",
+    "text": "Red Orchid the Witch"
+  },
+  "Hypocoristic_RedWitchOrchid": {
+    "speaker": "UI",
+    "text": "Red Orchid"
+  },
+  "Caption_RedWitchOrchid": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedWitchOrchid": {
+    "speaker": "UI",
+    "text": "Red Orchid."
+  },
+  "CharaName_YellowWitchWillma": {
+    "speaker": "UI",
+    "text": "Willma the Yellow Witch"
+  },
+  "Hypocoristic_YellowWitchWillma": {
+    "speaker": "UI",
+    "text": "Willma"
+  },
+  "Caption_YellowWitchWillma": {
+    "speaker": "UI",
+    "text": "Yellow Witch"
+  },
+  "Discription_YellowWitchWillma": {
+    "speaker": "UI",
+    "text": "Willma."
+  },
+  "CharaName_BlackWitchGrete": {
+    "speaker": "UI",
+    "text": "Grete the Black Witch"
+  },
+  "Hypocoristic_BlackWitchGrete": {
+    "speaker": "UI",
+    "text": "Grete"
+  },
+  "Caption_BlackWitchGrete": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BlackWitchGrete": {
+    "speaker": "UI",
+    "text": "Grete."
+  },
+  "CharaName_Familiar_Pierre": {
+    "speaker": "UI",
+    "text": "Pierre the Familiar"
+  },
+  "Hypocoristic_Familiar_Pierre": {
+    "speaker": "UI",
+    "text": "Pierre"
+  },
+  "Caption_Familiar_Pierre": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Familiar_Pierre": {
+    "speaker": "UI",
+    "text": "Lita's familiar."
+  },
+  "CharaName_SquireAssasin": {
+    "speaker": "UI",
+    "text": "Red Squire"
+  },
+  "Hypocoristic_SquireAssasin": {
+    "speaker": "UI",
+    "text": "Red Squire"
+  },
+  "Caption_SquireAssasin": {
+    "speaker": "UI",
+    "text": "Assassin"
+  },
+  "Discription_SquireAssasin": {
+    "speaker": "UI",
+    "text": "Assassin and squire of the red."
+  },
+  "CharaName_SquireFake1": {
+    "speaker": "UI",
+    "text": "Trustworthy Squire"
+  },
+  "Hypocoristic_SquireFake1": {
+    "speaker": "UI",
+    "text": "Trustworthy Squire"
+  },
+  "Caption_SquireFake1": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SquireFake1": {
+    "speaker": "UI",
+    "text": "A fake squire."
+  },
+  "CharaName_SquireFake2": {
+    "speaker": "UI",
+    "text": "Arrogant Squire"
+  },
+  "Hypocoristic_SquireFake2": {
+    "speaker": "UI",
+    "text": "Arrogant Squire"
+  },
+  "Caption_SquireFake2": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SquireFake2": {
+    "speaker": "UI",
+    "text": "A fake squire."
+  },
+  "CharaName_SquireFake3": {
+    "speaker": "UI",
+    "text": "Resurrected Squire"
+  },
+  "Hypocoristic_SquireFake3": {
+    "speaker": "UI",
+    "text": "Resurrected Squire"
+  },
+  "Caption_SquireFake3": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SquireFake3": {
+    "speaker": "UI",
+    "text": "The fake ghost of a fake squire."
+  },
+  "CharaName_WhiteWitch1": {
+    "speaker": "UI",
+    "text": "Bullish White Witch"
+  },
+  "Hypocoristic_WhiteWitch1": {
+    "speaker": "UI",
+    "text": "Bullish White Witch"
+  },
+  "Caption_WhiteWitch1": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_WhiteWitch1": {
+    "speaker": "UI",
+    "text": "A regular white witch."
+  },
+  "CharaName_WhiteWitch2": {
+    "speaker": "UI",
+    "text": "Cheerful White Witch"
+  },
+  "Hypocoristic_WhiteWitch2": {
+    "speaker": "UI",
+    "text": "Cheerful White Witch"
+  },
+  "Caption_WhiteWitch2": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_WhiteWitch2": {
+    "speaker": "UI",
+    "text": "A regular white witch."
+  },
+  "CharaName_RedWitch": {
+    "speaker": "UI",
+    "text": "Red Witch"
+  },
+  "Hypocoristic_RedWitch": {
+    "speaker": "UI",
+    "text": "Red Witch"
+  },
+  "Caption_RedWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedWitch": {
+    "speaker": "UI",
+    "text": "A red witch."
+  },
+  "CharaName_BlueWitch": {
+    "speaker": "UI",
+    "text": "Blue Witch"
+  },
+  "Hypocoristic_BlueWitch": {
+    "speaker": "UI",
+    "text": "Blue Witch"
+  },
+  "Caption_BlueWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BlueWitch": {
+    "speaker": "UI",
+    "text": "A blue witch."
+  },
+  "CharaName_YellowWitch": {
+    "speaker": "UI",
+    "text": "Yellow Witch"
+  },
+  "Hypocoristic_YellowWitch": {
+    "speaker": "UI",
+    "text": "Yellow Witch"
+  },
+  "Caption_YellowWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_YellowWitch": {
+    "speaker": "UI",
+    "text": "A yellow witch."
+  },
+  "CharaName_WhiteWitch": {
+    "speaker": "UI",
+    "text": "White Witch"
+  },
+  "Hypocoristic_WhiteWitch": {
+    "speaker": "UI",
+    "text": "White Witch"
+  },
+  "Caption_WhiteWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_WhiteWitch": {
+    "speaker": "UI",
+    "text": "A white witch."
+  },
+  "CharaName_BlackWitch": {
+    "speaker": "UI",
+    "text": "Black Witch"
+  },
+  "Hypocoristic_BlackWitch": {
+    "speaker": "UI",
+    "text": "Black Witch"
+  },
+  "Caption_BlackWitch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BlackWitch": {
+    "speaker": "UI",
+    "text": "A black witch."
+  },
+  "CharaName_OldMirror": {
+    "speaker": "UI",
+    "text": "Old Mirror"
+  },
+  "Hypocoristic_OldMirror": {
+    "speaker": "UI",
+    "text": "Old Mirror"
+  },
+  "Caption_OldMirror": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_OldMirror": {
+    "speaker": "UI",
+    "text": "An old mirror."
+  },
+  "CharaName_Lita_Pierre": {
+    "speaker": "UI",
+    "text": "Pierre-Turned-Lita"
+  },
+  "Hypocoristic_Lita_Pierre": {
+    "speaker": "UI",
+    "text": "Pierre-Turned-Lita"
+  },
+  "Caption_Lita_Pierre": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Lita_Pierre": {
+    "speaker": "UI",
+    "text": "Lita's familiar."
+  },
+  "CharaName_Pierre_Lita": {
+    "speaker": "UI",
+    "text": "Lita-Turned-Pierre"
+  },
+  "Hypocoristic_Pierre_Lita": {
+    "speaker": "UI",
+    "text": "Lita-Turned-Pierre"
+  },
+  "Caption_Pierre_Lita": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pierre_Lita": {
+    "speaker": "UI",
+    "text": "Lita's familiar."
+  },
+  "CharaName_Lady_Pride": {
+    "speaker": "UI",
+    "text": "Warden of Pride"
+  },
+  "Hypocoristic_Lady_Pride": {
+    "speaker": "UI",
+    "text": "Warden of Pride"
+  },
+  "Caption_Lady_Pride": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Lady_Pride": {
+    "speaker": "UI",
+    "text": "Lord of the lost Watchtower of Pride."
+  },
+  "CharaName_Lord_Gluttony": {
+    "speaker": "UI",
+    "text": "Warden of Gluttony"
+  },
+  "Hypocoristic_Lord_Gluttony": {
+    "speaker": "UI",
+    "text": "Warden of Gluttony"
+  },
+  "Caption_Lord_Gluttony": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Lord_Gluttony": {
+    "speaker": "UI",
+    "text": "Lord of the Watchtower of Gluttony."
+  },
+  "CharaName_Lord_Lust": {
+    "speaker": "UI",
+    "text": "Warden of Lust"
+  },
+  "Hypocoristic_Lord_Lust": {
+    "speaker": "UI",
+    "text": "Warden of Lust"
+  },
+  "Caption_Lord_Lust": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Lord_Lust": {
+    "speaker": "UI",
+    "text": "Lord of the Watchtower of Lust."
+  },
+  "CharaName_Lord_Sloth": {
+    "speaker": "UI",
+    "text": "Warden of Sloth"
+  },
+  "Hypocoristic_Lord_Sloth": {
+    "speaker": "UI",
+    "text": "Warden of Sloth"
+  },
+  "Caption_Lord_Sloth": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Lord_Sloth": {
+    "speaker": "UI",
+    "text": "Lord of the Watchtower of Sloth."
+  },
+  "CharaName_Lord_Rage": {
+    "speaker": "UI",
+    "text": "Warden of Wrath"
+  },
+  "Hypocoristic_Lord_Rage": {
+    "speaker": "UI",
+    "text": "Warden of Wrath"
+  },
+  "Caption_Lord_Rage": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Lord_Rage": {
+    "speaker": "UI",
+    "text": "Lord of the Watchtower of Wrath."
+  },
+  "CharaName_Henchman_Gluttony": {
+    "speaker": "UI",
+    "text": "Servant of Gluttony"
+  },
+  "Hypocoristic_Henchman_Gluttony": {
+    "speaker": "UI",
+    "text": "Servant of Gluttony"
+  },
+  "Caption_Henchman_Gluttony": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Henchman_Gluttony": {
+    "speaker": "UI",
+    "text": "Servant of Gluttony."
+  },
+  "CharaName_Henchman_Lust": {
+    "speaker": "UI",
+    "text": "Servant of Lust"
+  },
+  "Hypocoristic_Henchman_Lust": {
+    "speaker": "UI",
+    "text": "Servant of Lust"
+  },
+  "Caption_Henchman_Lust": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Henchman_Lust": {
+    "speaker": "UI",
+    "text": "Servant of Lust."
+  },
+  "CharaName_Henchman_Sloth": {
+    "speaker": "UI",
+    "text": "Servant of Sloth"
+  },
+  "Hypocoristic_Henchman_Sloth": {
+    "speaker": "UI",
+    "text": "Servant of Sloth"
+  },
+  "Caption_Henchman_Sloth": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Henchman_Sloth": {
+    "speaker": "UI",
+    "text": "Servant of Sloth."
+  },
+  "CharaName_Henchman_Rage": {
+    "speaker": "UI",
+    "text": "Servant of Wrath"
+  },
+  "Hypocoristic_Henchman_Rage": {
+    "speaker": "UI",
+    "text": "Servant of Wrath"
+  },
+  "Caption_Henchman_Rage": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Henchman_Rage": {
+    "speaker": "UI",
+    "text": "Servant of Wrath."
+  },
+  "CharaName_Apathetic_Sling": {
+    "speaker": "UI",
+    "text": "Spiritless Sling"
+  },
+  "Hypocoristic_Apathetic_Sling": {
+    "speaker": "UI",
+    "text": "Sling"
+  },
+  "Caption_Apathetic_Sling": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Apathetic_Sling": {
+    "speaker": "UI",
+    "text": "Resident of the city of the dead."
+  },
+  "CharaName_Lazy_Crutch": {
+    "speaker": "UI",
+    "text": "Idle Crutch"
+  },
+  "Hypocoristic_Lazy_Crutch": {
+    "speaker": "UI",
+    "text": "Crutch"
+  },
+  "Caption_Lazy_Crutch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Lazy_Crutch": {
+    "speaker": "UI",
+    "text": "Resident of the city of the dead."
+  },
+  "CharaName_Reproach_Aconitu": {
+    "speaker": "UI",
+    "text": "Discontent Aconita"
+  },
+  "Hypocoristic_Reproach_Aconitu": {
+    "speaker": "UI",
+    "text": "Aconita"
+  },
+  "Caption_Reproach_Aconitu": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Reproach_Aconitu": {
+    "speaker": "UI",
+    "text": "Resident of the city of the dead."
+  },
+  "CharaName_Imakoo_Werewolf": {
+    "speaker": "UI",
+    "text": "Imakoo"
+  },
+  "Hypocoristic_Imakoo_Werewolf": {
+    "speaker": "UI",
+    "text": "Imakoo"
+  },
+  "Caption_Imakoo_Werewolf": {
+    "speaker": "UI",
+    "text": "Dark Werewolf"
+  },
+  "Discription_Imakoo_Werewolf": {
+    "speaker": "UI",
+    "text": "A werewolf form Yomi who wishes he could stop being a werewolf."
+  },
+  "CharaName_Hunter": {
+    "speaker": "UI",
+    "text": "Hunter"
+  },
+  "Hypocoristic_Hunter": {
+    "speaker": "UI",
+    "text": "Hunter"
+  },
+  "Caption_Hunter": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Hunter": {
+    "speaker": "UI",
+    "text": "A fiend hunter. There's always someone who has him out on a job hunting fiends."
+  },
+  "CharaName_Baby_King": {
+    "speaker": "UI",
+    "text": "Baby"
+  },
+  "Hypocoristic_Baby_King": {
+    "speaker": "UI",
+    "text": "Baby"
+  },
+  "Caption_Baby_King": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Baby_King": {
+    "speaker": "UI",
+    "text": "The Dismal King's infant form."
+  },
+  "CharaName_Young_King": {
+    "speaker": "UI",
+    "text": "Dismal King"
+  },
+  "Hypocoristic_Young_King": {
+    "speaker": "UI",
+    "text": "Dismal King"
+  },
+  "Caption_Young_King": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Young_King": {
+    "speaker": "UI",
+    "text": "The Dismal King's child form."
+  },
+  "CharaName_Greedy_Man": {
+    "speaker": "UI",
+    "text": "Avaricious Man"
+  },
+  "Hypocoristic_Greedy_Man": {
+    "speaker": "UI",
+    "text": "Avaricious Man"
+  },
+  "Caption_Greedy_Man": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Greedy_Man": {
+    "speaker": "UI",
+    "text": "A thug in Yomi."
+  },
+  "CharaName_Bloodthirsty_Woman": {
+    "speaker": "UI",
+    "text": "Bloodthirsty Woman"
+  },
+  "Hypocoristic_Bloodthirsty_Woman": {
+    "speaker": "UI",
+    "text": "Bloodthirsty Woman"
+  },
+  "Caption_Bloodthirsty_Woman": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Bloodthirsty_Woman": {
+    "speaker": "UI",
+    "text": "A thug in Yomi."
+  },
+  "CharaName_Ivar": {
+    "speaker": "UI",
+    "text": "Ivar"
+  },
+  "Hypocoristic_Ivar": {
+    "speaker": "UI",
+    "text": "Ivar"
+  },
+  "Caption_Ivar": {
+    "speaker": "UI",
+    "text": "A sailor on the Mare Nostrum."
+  },
+  "Discription_Ivar": {
+    "speaker": "UI",
+    "text": "Ivar."
+  },
+  "CharaName_Azure": {
+    "speaker": "UI",
+    "text": "Azure"
+  },
+  "Hypocoristic_Azure": {
+    "speaker": "UI",
+    "text": "Azure"
+  },
+  "Caption_Azure": {
+    "speaker": "UI",
+    "text": "Guardian of Deus Maris"
+  },
+  "Discription_Azure": {
+    "speaker": "UI",
+    "text": "Azure."
+  },
+  "CharaName_Baltasar": {
+    "speaker": "UI",
+    "text": "Baltasar"
+  },
+  "Hypocoristic_Baltasar": {
+    "speaker": "UI",
+    "text": "Baltasar"
+  },
+  "Caption_Baltasar": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Baltasar": {
+    "speaker": "UI",
+    "text": "Baltasar."
+  },
+  "CharaName_Siguld": {
+    "speaker": "UI",
+    "text": "Sigurd"
+  },
+  "Hypocoristic_Siguld": {
+    "speaker": "UI",
+    "text": "Sigurd"
+  },
+  "Caption_Siguld": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Siguld": {
+    "speaker": "UI",
+    "text": "Sigurd."
+  },
+  "CharaName_Carolina": {
+    "speaker": "UI",
+    "text": "Carolina"
+  },
+  "Hypocoristic_Carolina": {
+    "speaker": "UI",
+    "text": "Carolina"
+  },
+  "Caption_Carolina": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Carolina": {
+    "speaker": "UI",
+    "text": "Carolina."
+  },
+  "CharaName_Marine_researcher": {
+    "speaker": "UI",
+    "text": "Marine Researcher"
+  },
+  "Hypocoristic_Marine_researcher": {
+    "speaker": "UI",
+    "text": "Marine Researcher"
+  },
+  "Caption_Marine_researcher": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Marine_researcher": {
+    "speaker": "UI",
+    "text": "A marine researcher."
+  },
+  "CharaName_Architect": {
+    "speaker": "UI",
+    "text": "Architect"
+  },
+  "Hypocoristic_Architect": {
+    "speaker": "UI",
+    "text": "Architect"
+  },
+  "Caption_Architect": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Architect": {
+    "speaker": "UI",
+    "text": "Architect."
+  },
+  "CharaName_Hunny_Architect": {
+    "speaker": "UI",
+    "text": "Babygirl"
+  },
+  "Hypocoristic_Hunny_Architect": {
+    "speaker": "UI",
+    "text": "Babygirl"
+  },
+  "Caption_Hunny_Architect": {
+    "speaker": "UI",
+    "text": "_NOT_SPECIFIED_"
+  },
+  "Discription_Hunny_Architect": {
+    "speaker": "UI",
+    "text": "Babygirl."
+  },
+  "CharaName_Shipyardmaster": {
+    "speaker": "UI",
+    "text": "Shipyard Boss"
+  },
+  "Hypocoristic_Shipyardmaster": {
+    "speaker": "UI",
+    "text": "Shipyard Boss"
+  },
+  "Caption_Shipyardmaster": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Shipyardmaster": {
+    "speaker": "UI",
+    "text": "Shipyard Boss."
+  },
+  "CharaName_SouthHarbourmaster": {
+    "speaker": "UI",
+    "text": "Marena the Southern Harbormaster"
+  },
+  "Hypocoristic_SouthHarbourmaster": {
+    "speaker": "UI",
+    "text": "Marena the Southern Harbormaster"
+  },
+  "Caption_SouthHarbourmaster": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SouthHarbourmaster": {
+    "speaker": "UI",
+    "text": "Marena the southern harbormaster."
+  },
+  "CharaName_NorthHarbourmaster": {
+    "speaker": "UI",
+    "text": "Northern Harbormaster"
+  },
+  "Hypocoristic_NorthHarbourmaster": {
+    "speaker": "UI",
+    "text": "Northern Harbormaster"
+  },
+  "Caption_NorthHarbourmaster": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_NorthHarbourmaster": {
+    "speaker": "UI",
+    "text": "The northern harbormaster."
+  },
+  "CharaName_Pirate_Acke": {
+    "speaker": "UI",
+    "text": "Acke the Pirate"
+  },
+  "Hypocoristic_Pirate_Acke": {
+    "speaker": "UI",
+    "text": "Acke the Pirate"
+  },
+  "Caption_Pirate_Acke": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pirate_Acke": {
+    "speaker": "UI",
+    "text": "A pirate named Acke."
+  },
+  "CharaName_Pirate_Britta": {
+    "speaker": "UI",
+    "text": "Britta the Pirate"
+  },
+  "Hypocoristic_Pirate_Britta": {
+    "speaker": "UI",
+    "text": "Britta the Pirate"
+  },
+  "Caption_Pirate_Britta": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pirate_Britta": {
+    "speaker": "UI",
+    "text": "A pirate named Britta."
+  },
+  "CharaName_Pirate_Dan": {
+    "speaker": "UI",
+    "text": "Dan the Pirate"
+  },
+  "Hypocoristic_Pirate_Dan": {
+    "speaker": "UI",
+    "text": "Dan the Pirate"
+  },
+  "Caption_Pirate_Dan": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pirate_Dan": {
+    "speaker": "UI",
+    "text": "A pirate named Dan."
+  },
+  "CharaName_Pirate_Gerd": {
+    "speaker": "UI",
+    "text": "Gerd the Pirate"
+  },
+  "Hypocoristic_Pirate_Gerd": {
+    "speaker": "UI",
+    "text": "Gerd the Pirate"
+  },
+  "Caption_Pirate_Gerd": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pirate_Gerd": {
+    "speaker": "UI",
+    "text": "A pirate named Gerd."
+  },
+  "CharaName_Pirate_Jorgen": {
+    "speaker": "UI",
+    "text": "Jorgen the Pirate"
+  },
+  "Hypocoristic_Pirate_Jorgen": {
+    "speaker": "UI",
+    "text": "Jorgen the Pirate"
+  },
+  "Caption_Pirate_Jorgen": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pirate_Jorgen": {
+    "speaker": "UI",
+    "text": "A pirate named Jorgen."
+  },
+  "CharaName_Pirate_Leif": {
+    "speaker": "UI",
+    "text": "Leif the Pirate"
+  },
+  "Hypocoristic_Pirate_Leif": {
+    "speaker": "UI",
+    "text": "Leif the Pirate"
+  },
+  "Caption_Pirate_Leif": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pirate_Leif": {
+    "speaker": "UI",
+    "text": "A pirate named Leif."
+  },
+  "CharaName_Pirate_Nanna": {
+    "speaker": "UI",
+    "text": "Nanna the Pirate"
+  },
+  "Hypocoristic_Pirate_Nanna": {
+    "speaker": "UI",
+    "text": "Nanna the Pirate"
+  },
+  "Caption_Pirate_Nanna": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pirate_Nanna": {
+    "speaker": "UI",
+    "text": "A pirate named Nanna."
+  },
+  "CharaName_Pirate_Vivi": {
+    "speaker": "UI",
+    "text": "Vivi the Pirate"
+  },
+  "Hypocoristic_Pirate_Vivi": {
+    "speaker": "UI",
+    "text": "Vivi the Pirate"
+  },
+  "Caption_Pirate_Vivi": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pirate_Vivi": {
+    "speaker": "UI",
+    "text": "A pirate named Vivi."
+  },
+  "CharaName_Scientist": {
+    "speaker": "UI",
+    "text": "Scientist"
+  },
+  "Hypocoristic_Scientist": {
+    "speaker": "UI",
+    "text": "Scientist"
+  },
+  "Caption_Scientist": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Scientist": {
+    "speaker": "UI",
+    "text": "Scientist."
+  },
+  "CharaName_BattleshipCaptain": {
+    "speaker": "UI",
+    "text": "Captain"
+  },
+  "Hypocoristic_BattleshipCaptain": {
+    "speaker": "UI",
+    "text": "Captain"
+  },
+  "Caption_BattleshipCaptain": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BattleshipCaptain": {
+    "speaker": "UI",
+    "text": "Captain."
+  },
+  "CharaName_BattleshipLieutenant": {
+    "speaker": "UI",
+    "text": "Executive Officer"
+  },
+  "Hypocoristic_BattleshipLieutenant": {
+    "speaker": "UI",
+    "text": "Executive Officer"
+  },
+  "Caption_BattleshipLieutenant": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_BattleshipLieutenant": {
+    "speaker": "UI",
+    "text": "Executive Officer."
+  },
+  "CharaName_Dark_Merchant": {
+    "speaker": "UI",
+    "text": "Black Marketeer"
+  },
+  "Hypocoristic_Dark_Merchant": {
+    "speaker": "UI",
+    "text": "Black Marketeer"
+  },
+  "Caption_Dark_Merchant": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Dark_Merchant": {
+    "speaker": "UI",
+    "text": "Black Marketeer."
+  },
+  "CharaName_MerchantShipSailor": {
+    "speaker": "UI",
+    "text": "Crew Member"
+  },
+  "Hypocoristic_MerchantShipSailor": {
+    "speaker": "UI",
+    "text": "Crew Member"
+  },
+  "Caption_MerchantShipSailor": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_MerchantShipSailor": {
+    "speaker": "UI",
+    "text": "Crew Member."
+  },
+  "CharaName_Parrot": {
+    "speaker": "UI",
+    "text": "Parrot"
+  },
+  "Hypocoristic_Parrot": {
+    "speaker": "UI",
+    "text": "Parrot"
+  },
+  "Caption_Parrot": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Parrot": {
+    "speaker": "UI",
+    "text": "Parrot"
+  },
+  "CharaName_Pedro": {
+    "speaker": "UI",
+    "text": "Pedro"
+  },
+  "Hypocoristic_Pedro": {
+    "speaker": "UI",
+    "text": "Pedro"
+  },
+  "Caption_Pedro": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pedro": {
+    "speaker": "UI",
+    "text": "Pedro"
+  },
+  "CharaName_Pirate_Ghost": {
+    "speaker": "UI",
+    "text": "Ghost Pirate"
+  },
+  "Hypocoristic_Pirate_Ghost": {
+    "speaker": "UI",
+    "text": "Ghost Pirate"
+  },
+  "Caption_Pirate_Ghost": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Pirate_Ghost": {
+    "speaker": "UI",
+    "text": "Ghost Pirate."
+  },
+  "CharaName_Shipyardghost": {
+    "speaker": "UI",
+    "text": "Shipyard Ghost"
+  },
+  "Hypocoristic_Shipyardghost": {
+    "speaker": "UI",
+    "text": "Shipyard Ghost"
+  },
+  "Caption_Shipyardghost": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Shipyardghost": {
+    "speaker": "UI",
+    "text": "Shipyard Ghost."
+  },
+  "CharaName_NorthHarbourghost": {
+    "speaker": "UI",
+    "text": "Northern Harbor Ghost"
+  },
+  "Hypocoristic_NorthHarbourghost": {
+    "speaker": "UI",
+    "text": "Northern Harbor Ghost"
+  },
+  "Caption_NorthHarbourghost": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_NorthHarbourghost": {
+    "speaker": "UI",
+    "text": "Northern Harbor Ghost."
+  },
+  "CharaName_Protector": {
+    "speaker": "UI",
+    "text": "Guardian Spirit"
+  },
+  "Hypocoristic_Protector": {
+    "speaker": "UI",
+    "text": "Guardian Spirit"
+  },
+  "Caption_Protector": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Protector": {
+    "speaker": "UI",
+    "text": "Guardian Spirit."
+  },
+  "CharaName_Byaku": {
+    "speaker": "UI",
+    "text": "Byaku"
+  },
+  "Hypocoristic_Byaku": {
+    "speaker": "UI",
+    "text": "Byaku"
+  },
+  "Caption_Byaku": {
+    "speaker": "UI",
+    "text": "Priest of the Kosmos"
+  },
+  "Discription_Byaku": {
+    "speaker": "UI",
+    "text": "Leukocyte."
+  },
+  "CharaName_Bran": {
+    "speaker": "UI",
+    "text": "Blan"
+  },
+  "Hypocoristic_Bran": {
+    "speaker": "UI",
+    "text": "Blan"
+  },
+  "Caption_Bran": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Bran": {
+    "speaker": "UI",
+    "text": "Leukocyte."
+  },
+  "CharaName_Safed": {
+    "speaker": "UI",
+    "text": "Safed"
+  },
+  "Hypocoristic_Safed": {
+    "speaker": "UI",
+    "text": "Safed"
+  },
+  "Caption_Safed": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Safed": {
+    "speaker": "UI",
+    "text": "Leukocyte."
+  },
+  "CharaName_Valkoinen": {
+    "speaker": "UI",
+    "text": "Valkoinen"
+  },
+  "Hypocoristic_Valkoinen": {
+    "speaker": "UI",
+    "text": "Valkoinen"
+  },
+  "Caption_Valkoinen": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Valkoinen": {
+    "speaker": "UI",
+    "text": "Leukocyte."
+  },
+  "CharaName_Erytheia": {
+    "speaker": "UI",
+    "text": "Erytheia"
+  },
+  "Hypocoristic_Erytheia": {
+    "speaker": "UI",
+    "text": "Erytheia"
+  },
+  "Caption_Erytheia": {
+    "speaker": "UI",
+    "text": "Carrier in the Kosmos"
+  },
+  "Discription_Erytheia": {
+    "speaker": "UI",
+    "text": "Erythrocyte."
+  },
+  "CharaName_Evil_Cell": {
+    "speaker": "UI",
+    "text": "Malignancy"
+  },
+  "Hypocoristic_Evil_Cell": {
+    "speaker": "UI",
+    "text": "Malignancy"
+  },
+  "Caption_Evil_Cell": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Evil_Cell": {
+    "speaker": "UI",
+    "text": "A malignancy."
+  },
+  "CharaName_Good_Cell": {
+    "speaker": "UI",
+    "text": "Benignancy"
+  },
+  "Hypocoristic_Good_Cell": {
+    "speaker": "UI",
+    "text": "Benignancy"
+  },
+  "Caption_Good_Cell": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Good_Cell": {
+    "speaker": "UI",
+    "text": "A benignancy."
+  },
+  "CharaName_FirePriest": {
+    "speaker": "UI",
+    "text": "Priest of Flame"
+  },
+  "Hypocoristic_FirePriest": {
+    "speaker": "UI",
+    "text": "Priest of Flame"
+  },
+  "Caption_FirePriest": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_FirePriest": {
+    "speaker": "UI",
+    "text": "Priest of the Flame Temple."
+  },
+  "CharaName_WaterPriest": {
+    "speaker": "UI",
+    "text": "Priest of Wave"
+  },
+  "Hypocoristic_WaterPriest": {
+    "speaker": "UI",
+    "text": "Priest of Wave"
+  },
+  "Caption_WaterPriest": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_WaterPriest": {
+    "speaker": "UI",
+    "text": "Priest of the Wave Temple."
+  },
+  "CharaName_WindPriest": {
+    "speaker": "UI",
+    "text": "Priest of Gale"
+  },
+  "Hypocoristic_WindPriest": {
+    "speaker": "UI",
+    "text": "Priest of Gale"
+  },
+  "Caption_WindPriest": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_WindPriest": {
+    "speaker": "UI",
+    "text": "Priest of the Gale Temple."
+  },
+  "CharaName_WoodsPriest": {
+    "speaker": "UI",
+    "text": "Priest of Forest"
+  },
+  "Hypocoristic_WoodsPriest": {
+    "speaker": "UI",
+    "text": "Priest of Forest"
+  },
+  "Caption_WoodsPriest": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_WoodsPriest": {
+    "speaker": "UI",
+    "text": "Priest of the Forest Temple."
+  },
+  "CharaName_Nitram": {
+    "speaker": "UI",
+    "text": "Nitram"
+  },
+  "Hypocoristic_Nitram": {
+    "speaker": "UI",
+    "text": "Nitram of the Flame"
+  },
+  "Caption_Nitram": {
+    "speaker": "UI",
+    "text": "Cinq's Four Tribes"
+  },
+  "Discription_Nitram": {
+    "speaker": "UI",
+    "text": "Nitram of the Flame Tribe."
+  },
+  "CharaName_Atihana": {
+    "speaker": "UI",
+    "text": "Atihana"
+  },
+  "Hypocoristic_Atihana": {
+    "speaker": "UI",
+    "text": "Atihana of the Wave"
+  },
+  "Caption_Atihana": {
+    "speaker": "UI",
+    "text": "Cinq's Four Tribes"
+  },
+  "Discription_Atihana": {
+    "speaker": "UI",
+    "text": "Atihana of the Wave Tribe."
+  },
+  "CharaName_Nahoj": {
+    "speaker": "UI",
+    "text": "Nahoj"
+  },
+  "Hypocoristic_Nahoj": {
+    "speaker": "UI",
+    "text": "Nahoj of the Gale"
+  },
+  "Caption_Nahoj": {
+    "speaker": "UI",
+    "text": "Cinq's Four Tribes"
+  },
+  "Discription_Nahoj": {
+    "speaker": "UI",
+    "text": "Nahoj of the Gale Tribe."
+  },
+  "CharaName_Irbas": {
+    "speaker": "UI",
+    "text": "Irbas"
+  },
+  "Hypocoristic_Irbas": {
+    "speaker": "UI",
+    "text": "Irbas of the Forest"
+  },
+  "Caption_Irbas": {
+    "speaker": "UI",
+    "text": "Cinq's Four Tribes"
+  },
+  "Discription_Irbas": {
+    "speaker": "UI",
+    "text": "Irbas of the Forest Tribe."
+  },
+  "CharaName_SoulSprite": {
+    "speaker": "UI",
+    "text": "Soul Sprite"
+  },
+  "Hypocoristic_SoulSprite": {
+    "speaker": "UI",
+    "text": "Soul Sprite"
+  },
+  "Caption_SoulSprite": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SoulSprite": {
+    "speaker": "UI",
+    "text": "A soul sprite."
+  },
+  "CharaName_SoulSprite_Mido": {
+    "speaker": "UI",
+    "text": "Bag-Like Thing"
+  },
+  "Hypocoristic_SoulSprite_Mido": {
+    "speaker": "UI",
+    "text": "Paper Bag"
+  },
+  "Caption_SoulSprite_Mido": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SoulSprite_Mido": {
+    "speaker": "UI",
+    "text": "A soul sprite."
+  },
+  "CharaName_SoulSprite_Ameya": {
+    "speaker": "UI",
+    "text": "Faerie Friend"
+  },
+  "Hypocoristic_SoulSprite_Ameya": {
+    "speaker": "UI",
+    "text": "Faerie Friend"
+  },
+  "Caption_SoulSprite_Ameya": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SoulSprite_Ameya": {
+    "speaker": "UI",
+    "text": "A soul sprite."
+  },
+  "CharaName_SoulSprite_Siugnas": {
+    "speaker": "UI",
+    "text": "Lesser Spirit"
+  },
+  "Hypocoristic_SoulSprite_Siugnas": {
+    "speaker": "UI",
+    "text": "Lesser Spirit"
+  },
+  "Caption_SoulSprite_Siugnas": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SoulSprite_Siugnas": {
+    "speaker": "UI",
+    "text": "A soul sprite."
+  },
+  "CharaName_SoulSprite_Diva": {
+    "speaker": "UI",
+    "text": "Incalculable Being"
+  },
+  "Hypocoristic_SoulSprite_Diva": {
+    "speaker": "UI",
+    "text": "Incalculable Being"
+  },
+  "Caption_SoulSprite_Diva": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SoulSprite_Diva": {
+    "speaker": "UI",
+    "text": "A soul sprite."
+  },
+  "CharaName_SoulSprite_BF": {
+    "speaker": "UI",
+    "text": "Little Ghost"
+  },
+  "Hypocoristic_SoulSprite_BF": {
+    "speaker": "UI",
+    "text": "Little Ghost"
+  },
+  "Caption_SoulSprite_BF": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_SoulSprite_BF": {
+    "speaker": "UI",
+    "text": "A soul sprite."
+  },
+  "CharaName_Taupe_Mole": {
+    "speaker": "UI",
+    "text": "Tope"
+  },
+  "Hypocoristic_Taupe_Mole": {
+    "speaker": "UI",
+    "text": "Tope"
+  },
+  "Caption_Taupe_Mole": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Taupe_Mole": {
+    "speaker": "UI",
+    "text": "Mr. Mole."
+  },
+  "CharaName_Koste_Mole": {
+    "speaker": "UI",
+    "text": "Coste"
+  },
+  "Hypocoristic_Koste_Mole": {
+    "speaker": "UI",
+    "text": "Coste"
+  },
+  "Caption_Koste_Mole": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Koste_Mole": {
+    "speaker": "UI",
+    "text": "Mrs. Mole."
+  },
+  "CharaName_Gruman_Mole": {
+    "speaker": "UI",
+    "text": "Gourmand"
+  },
+  "Hypocoristic_Gruman_Mole": {
+    "speaker": "UI",
+    "text": "Gourmand"
+  },
+  "Caption_Gruman_Mole": {
+    "speaker": "UI",
+    "text": "Kuld"
+  },
+  "Discription_Gruman_Mole": {
+    "speaker": "UI",
+    "text": "Mole Jr."
+  },
+  "CharaName_Moguo_Mole": {
+    "speaker": "UI",
+    "text": "Molebert"
+  },
+  "Hypocoristic_Moguo_Mole": {
+    "speaker": "UI",
+    "text": "Molebert"
+  },
+  "Caption_Moguo_Mole": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Moguo_Mole": {
+    "speaker": "UI",
+    "text": "Older mole."
+  },
+  "CharaName_Tikus_Mole": {
+    "speaker": "UI",
+    "text": "Tikus"
+  },
+  "Hypocoristic_Tikus_Mole": {
+    "speaker": "UI",
+    "text": "Tikus"
+  },
+  "Caption_Tikus_Mole": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Tikus_Mole": {
+    "speaker": "UI",
+    "text": "Elder mole."
+  },
+  "CharaName_Cordycep_Frog": {
+    "speaker": "UI",
+    "text": "Dufda"
+  },
+  "Hypocoristic_Cordycep_Frog": {
+    "speaker": "UI",
+    "text": "Dufda"
+  },
+  "Caption_Cordycep_Frog": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Cordycep_Frog": {
+    "speaker": "UI",
+    "text": "Dufda."
+  },
+  "CharaName_Cordycep_Ant": {
+    "speaker": "UI",
+    "text": "Naml"
+  },
+  "Hypocoristic_Cordycep_Ant": {
+    "speaker": "UI",
+    "text": "Naml"
+  },
+  "Caption_Cordycep_Ant": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Cordycep_Ant": {
+    "speaker": "UI",
+    "text": "Naml."
+  },
+  "CharaName_Cordycep_Man": {
+    "speaker": "UI",
+    "text": "Bashar"
+  },
+  "Hypocoristic_Cordycep_Man": {
+    "speaker": "UI",
+    "text": "Bashar"
+  },
+  "Caption_Cordycep_Man": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Cordycep_Man": {
+    "speaker": "UI",
+    "text": "Bashar."
+  },
+  "CharaName_EarthMaster": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Hypocoristic_EarthMaster": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Caption_EarthMaster": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_EarthMaster": {
+    "speaker": "UI",
+    "text": "Lord of the Earth."
+  },
+  "CharaName_King_Albion": {
+    "speaker": "UI",
+    "text": "King of Albion"
+  },
+  "Hypocoristic_King_Albion": {
+    "speaker": "UI",
+    "text": "King of Albion"
+  },
+  "Caption_King_Albion": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_King_Albion": {
+    "speaker": "UI",
+    "text": "The king of Albion."
+  },
+  "CharaName_Queen_Albion": {
+    "speaker": "UI",
+    "text": "Queen of Albion"
+  },
+  "Hypocoristic_Queen_Albion": {
+    "speaker": "UI",
+    "text": "Queen of Albion"
+  },
+  "Caption_Queen_Albion": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Queen_Albion": {
+    "speaker": "UI",
+    "text": "The queen of Albion."
+  },
+  "CharaName_Palace_Guard": {
+    "speaker": "UI",
+    "text": "Royal Guard"
+  },
+  "Hypocoristic_Palace_Guard": {
+    "speaker": "UI",
+    "text": "Royal Guard"
+  },
+  "Caption_Palace_Guard": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Palace_Guard": {
+    "speaker": "UI",
+    "text": "A mech minstrel from Avalon."
+  },
+  "CharaName_Mech_Bard": {
+    "speaker": "UI",
+    "text": "Minstrel"
+  },
+  "Hypocoristic_Mech_Bard": {
+    "speaker": "UI",
+    "text": "Minstrel"
+  },
+  "Caption_Mech_Bard": {
+    "speaker": "UI",
+    "text": "Cylindrical Mech"
+  },
+  "Discription_Mech_Bard": {
+    "speaker": "UI",
+    "text": "A mech minstrel from Avalon."
+  },
+  "CharaName_Train_Conductor": {
+    "speaker": "UI",
+    "text": "Station Staff"
+  },
+  "Hypocoristic_Train_Conductor": {
+    "speaker": "UI",
+    "text": "Station Staff"
+  },
+  "Caption_Train_Conductor": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Train_Conductor": {
+    "speaker": "UI",
+    "text": "Staff at Avalon Station."
+  },
+  "CharaName_Grave_Digger": {
+    "speaker": "UI",
+    "text": "Gravekeeper"
+  },
+  "Hypocoristic_Grave_Digger": {
+    "speaker": "UI",
+    "text": "Gravekeeper"
+  },
+  "Caption_Grave_Digger": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Grave_Digger": {
+    "speaker": "UI",
+    "text": "Gravekeeper in Avalon."
+  },
+  "CharaName_Museum_Director": {
+    "speaker": "UI",
+    "text": "Museum Director"
+  },
+  "Hypocoristic_Museum_Director": {
+    "speaker": "UI",
+    "text": "Museum Director"
+  },
+  "Caption_Museum_Director": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Museum_Director": {
+    "speaker": "UI",
+    "text": "Director of the Royal Museum in Avalon."
+  },
+  "CharaName_Police_Inspector": {
+    "speaker": "UI",
+    "text": "Chief Inspector"
+  },
+  "Hypocoristic_Police_Inspector": {
+    "speaker": "UI",
+    "text": "Chief Inspector"
+  },
+  "Caption_Police_Inspector": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Police_Inspector": {
+    "speaker": "UI",
+    "text": "Chief inspector with Avalon Yard."
+  },
+  "CharaName_Store_Customer": {
+    "speaker": "UI",
+    "text": "Sophisticated Customer"
+  },
+  "Hypocoristic_Store_Customer": {
+    "speaker": "UI",
+    "text": "Sophisticated Customer"
+  },
+  "Caption_Store_Customer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Store_Customer": {
+    "speaker": "UI",
+    "text": "Department store customer."
+  },
+  "CharaName_Avalon_Nurse": {
+    "speaker": "UI",
+    "text": "Nurse"
+  },
+  "Hypocoristic_Avalon_Nurse": {
+    "speaker": "UI",
+    "text": "Nurse"
+  },
+  "Caption_Avalon_Nurse": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Avalon_Nurse": {
+    "speaker": "UI",
+    "text": "Nurse."
+  },
+  "CharaName_Avalon_Gang": {
+    "speaker": "UI",
+    "text": "Yob"
+  },
+  "Hypocoristic_Avalon_Gang": {
+    "speaker": "UI",
+    "text": "Yob"
+  },
+  "Caption_Avalon_Gang": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Avalon_Gang": {
+    "speaker": "UI",
+    "text": "Yob."
+  },
+  "CharaName_Avalon_Shopassistant": {
+    "speaker": "UI",
+    "text": "Deeps Clerk"
+  },
+  "Hypocoristic_Avalon_Shopassistant": {
+    "speaker": "UI",
+    "text": "Deeps Clerk"
+  },
+  "Caption_Avalon_Shopassistant": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Avalon_Shopassistant": {
+    "speaker": "UI",
+    "text": "Clerk at Deeps."
+  },
+  "CharaName_Avalon_Archaeologist": {
+    "speaker": "UI",
+    "text": "Archaeologist"
+  },
+  "Hypocoristic_Avalon_Archaeologist": {
+    "speaker": "UI",
+    "text": "Archaeologist"
+  },
+  "Caption_Avalon_Archaeologist": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Avalon_Archaeologist": {
+    "speaker": "UI",
+    "text": "Archaeologist."
+  },
+  "CharaName_Market_Master": {
+    "speaker": "UI",
+    "text": "Market Man"
+  },
+  "Hypocoristic_Market_Master": {
+    "speaker": "UI",
+    "text": "Market Man"
+  },
+  "Caption_Market_Master": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Market_Master": {
+    "speaker": "UI",
+    "text": "Market Man."
+  },
+  "CharaName_Rich_Noble": {
+    "speaker": "UI",
+    "text": "Wealthy Noble"
+  },
+  "Hypocoristic_Rich_Noble": {
+    "speaker": "UI",
+    "text": "Wealthy Noble"
+  },
+  "Caption_Rich_Noble": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Rich_Noble": {
+    "speaker": "UI",
+    "text": "Wealthy Noble."
+  },
+  "CharaName_Avalon_Doorman": {
+    "speaker": "UI",
+    "text": "Sorries Clerk"
+  },
+  "Hypocoristic_Avalon_Doorman": {
+    "speaker": "UI",
+    "text": "Sorries Clerk"
+  },
+  "Caption_Avalon_Doorman": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Avalon_Doorman": {
+    "speaker": "UI",
+    "text": "Clerk at Sorries."
+  },
+  "CharaName_Clocktowerman": {
+    "speaker": "UI",
+    "text": "Clock Tower Caretaker"
+  },
+  "Hypocoristic_Clocktowerman": {
+    "speaker": "UI",
+    "text": "Clock Tower Caretaker"
+  },
+  "Caption_Clocktowerman": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Clocktowerman": {
+    "speaker": "UI",
+    "text": "Clock Tower Caretaker."
+  },
+  "CharaName_Avalon_Writer": {
+    "speaker": "UI",
+    "text": "Playwright"
+  },
+  "Hypocoristic_Avalon_Writer": {
+    "speaker": "UI",
+    "text": "Playwright"
+  },
+  "Caption_Avalon_Writer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Avalon_Writer": {
+    "speaker": "UI",
+    "text": "Playwright."
+  },
+  "CharaName_Bartender": {
+    "speaker": "UI",
+    "text": "Bartender"
+  },
+  "Hypocoristic_Bartender": {
+    "speaker": "UI",
+    "text": "Bartender"
+  },
+  "Caption_Bartender": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Bartender": {
+    "speaker": "UI",
+    "text": "Bartender."
+  },
+  "CharaName_Sylvester": {
+    "speaker": "UI",
+    "text": "Sylvester"
+  },
+  "Hypocoristic_Sylvester": {
+    "speaker": "UI",
+    "text": "Sylvester"
+  },
+  "Caption_Sylvester": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Sylvester": {
+    "speaker": "UI",
+    "text": "Avalon pickpocket."
+  },
+  "CharaName_Spear": {
+    "speaker": "UI",
+    "text": "Inspector Spear"
+  },
+  "Hypocoristic_Spear": {
+    "speaker": "UI",
+    "text": "Inspector Spear"
+  },
+  "Caption_Spear": {
+    "speaker": "UI",
+    "text": "Avalon Yard"
+  },
+  "Discription_Spear": {
+    "speaker": "UI",
+    "text": "Detective inspector with Avalon Yard."
+  },
+  "CharaName_Lancelot": {
+    "speaker": "UI",
+    "text": "Lancelot"
+  },
+  "Hypocoristic_Lancelot": {
+    "speaker": "UI",
+    "text": "Lancelot"
+  },
+  "Caption_Lancelot": {
+    "speaker": "UI",
+    "text": "Knight of the Round Table"
+  },
+  "Discription_Lancelot": {
+    "speaker": "UI",
+    "text": "Albion royalty."
+  },
+  "CharaName_Guinevere": {
+    "speaker": "UI",
+    "text": "Guinevere"
+  },
+  "Hypocoristic_Guinevere": {
+    "speaker": "UI",
+    "text": "Guinevere"
+  },
+  "Caption_Guinevere": {
+    "speaker": "UI",
+    "text": "Queen"
+  },
+  "Discription_Guinevere": {
+    "speaker": "UI",
+    "text": "Former queen of Albion."
+  },
+  "CharaName_Utahime": {
+    "speaker": "UI",
+    "text": "Songstress"
+  },
+  "Hypocoristic_Utahime": {
+    "speaker": "UI",
+    "text": "Songstress"
+  },
+  "Caption_Utahime": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Utahime": {
+    "speaker": "UI",
+    "text": "Songstress."
+  },
+  "CharaName_Fan_Utahime": {
+    "speaker": "UI",
+    "text": "Songstress's Fan"
+  },
+  "Hypocoristic_Fan_Utahime": {
+    "speaker": "UI",
+    "text": "Songstress's Fan"
+  },
+  "Caption_Fan_Utahime": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Fan_Utahime": {
+    "speaker": "UI",
+    "text": "Fan of the songstress."
+  },
+  "CharaName_Fan_Mother": {
+    "speaker": "UI",
+    "text": "Boy's Mother"
+  },
+  "Hypocoristic_Fan_Mother": {
+    "speaker": "UI",
+    "text": "Boy's Mother"
+  },
+  "Caption_Fan_Mother": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Fan_Mother": {
+    "speaker": "UI",
+    "text": "Fan of the songstress."
+  },
+  "CharaName_Producer": {
+    "speaker": "UI",
+    "text": "Producer"
+  },
+  "Hypocoristic_Producer": {
+    "speaker": "UI",
+    "text": "Producer"
+  },
+  "Caption_Producer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Producer": {
+    "speaker": "UI",
+    "text": "Producer with the Royal Broadcasting Station."
+  },
+  "CharaName_Mech_Junk": {
+    "speaker": "UI",
+    "text": "Broken Mech"
+  },
+  "Hypocoristic_Mech_Junk": {
+    "speaker": "UI",
+    "text": "Broken Mech"
+  },
+  "Caption_Mech_Junk": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Mech_Junk": {
+    "speaker": "UI",
+    "text": "A broken mech."
+  },
+  "CharaName_Chief_Manager": {
+    "speaker": "UI",
+    "text": "Administrative Division Overseer"
+  },
+  "Hypocoristic_Chief_Manager": {
+    "speaker": "UI",
+    "text": "Administrative Division Overseer"
+  },
+  "Caption_Chief_Manager": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Chief_Manager": {
+    "speaker": "UI",
+    "text": "Overseer of the Administrative Division in Delta Base."
+  },
+  "CharaName_Connection_Boss": {
+    "speaker": "UI",
+    "text": "Connectivity Director"
+  },
+  "Hypocoristic_Connection_Boss": {
+    "speaker": "UI",
+    "text": "Connectivity Director"
+  },
+  "Caption_Connection_Boss": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Connection_Boss": {
+    "speaker": "UI",
+    "text": "Director of the team in charge of connectivity hardware in Delta Base."
+  },
+  "CharaName_Connection_Operator": {
+    "speaker": "UI",
+    "text": "Connectivity Technician"
+  },
+  "Hypocoristic_Connection_Operator": {
+    "speaker": "UI",
+    "text": "Connectivity Technician"
+  },
+  "Caption_Connection_Operator": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Connection_Operator": {
+    "speaker": "UI",
+    "text": "Technician in charge of connectivity hardware in Delta Base."
+  },
+  "CharaName_Base_Sheriff": {
+    "speaker": "UI",
+    "text": "Base Security Chief"
+  },
+  "Hypocoristic_Base_Sheriff": {
+    "speaker": "UI",
+    "text": "Base Security Chief"
+  },
+  "Caption_Base_Sheriff": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Base_Sheriff": {
+    "speaker": "UI",
+    "text": "Chief of security in Delta Base."
+  },
+  "CharaName_RedTribe_Chief": {
+    "speaker": "UI",
+    "text": "Red Division Overseer"
+  },
+  "Hypocoristic_RedTribe_Chief": {
+    "speaker": "UI",
+    "text": "Red Division Overseer"
+  },
+  "Caption_RedTribe_Chief": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedTribe_Chief": {
+    "speaker": "UI",
+    "text": "Overseer of Red Division, which researches MAGs in Delta Base."
+  },
+  "CharaName_YellowTribe_Chief": {
+    "speaker": "UI",
+    "text": "Yellow Division Overseer"
+  },
+  "Hypocoristic_YellowTribe_Chief": {
+    "speaker": "UI",
+    "text": "Yellow Division Overseer"
+  },
+  "Caption_YellowTribe_Chief": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_YellowTribe_Chief": {
+    "speaker": "UI",
+    "text": "Overseer of Yellow Division, which researches culture in Delta Base."
+  },
+  "CharaName_GreenTribe_Chief": {
+    "speaker": "UI",
+    "text": "Green Division Overseer"
+  },
+  "Hypocoristic_GreenTribe_Chief": {
+    "speaker": "UI",
+    "text": "Green Division Overseer"
+  },
+  "Caption_GreenTribe_Chief": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreenTribe_Chief": {
+    "speaker": "UI",
+    "text": "Overseer of Green Division, which researches life in Delta Base."
+  },
+  "CharaName_GreenTribe_KuMags": {
+    "speaker": "UI",
+    "text": "Qu Magis"
+  },
+  "Hypocoristic_GreenTribe_KuMags": {
+    "speaker": "UI",
+    "text": "Mags"
+  },
+  "Caption_GreenTribe_KuMags": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreenTribe_KuMags": {
+    "speaker": "UI",
+    "text": "Green Division member. Quite scatterbrained and a bit of a chatterbox."
+  },
+  "CharaName_GreenTribe_ScholarI": {
+    "speaker": "UI",
+    "text": "I Ne the Green Division Researcher"
+  },
+  "Hypocoristic_GreenTribe_ScholarI": {
+    "speaker": "UI",
+    "text": "Ne"
+  },
+  "Caption_GreenTribe_ScholarI": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreenTribe_ScholarI": {
+    "speaker": "UI",
+    "text": "Green Division researcher."
+  },
+  "CharaName_Creature_303": {
+    "speaker": "UI",
+    "text": "Rogue Species 303"
+  },
+  "Hypocoristic_Creature_303": {
+    "speaker": "UI",
+    "text": "Rogue Species 303"
+  },
+  "Caption_Creature_303": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Creature_303": {
+    "speaker": "UI",
+    "text": "An amalgamated life-form created in a Green Division experiment."
+  },
+  "CharaName_RedTribe_ShiKat": {
+    "speaker": "UI",
+    "text": "Shi Kat"
+  },
+  "Hypocoristic_RedTribe_ShiKat": {
+    "speaker": "UI",
+    "text": "Shi Kat"
+  },
+  "Caption_RedTribe_ShiKat": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedTribe_ShiKat": {
+    "speaker": "UI",
+    "text": "Red Division member. It is unclear why an insectoid like him is in Delta Base."
+  },
+  "CharaName_RedTribe_SoldierZ": {
+    "speaker": "UI",
+    "text": "Zoff the Red Division Combatant"
+  },
+  "Hypocoristic_RedTribe_SoldierZ": {
+    "speaker": "UI",
+    "text": "Zoff"
+  },
+  "Caption_RedTribe_SoldierZ": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedTribe_SoldierZ": {
+    "speaker": "UI",
+    "text": "Red Division combatant."
+  },
+  "CharaName_RedTribe_SoldierY": {
+    "speaker": "UI",
+    "text": "Yami the Red Division Combatant"
+  },
+  "Hypocoristic_RedTribe_SoldierY": {
+    "speaker": "UI",
+    "text": "Yami"
+  },
+  "Caption_RedTribe_SoldierY": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedTribe_SoldierY": {
+    "speaker": "UI",
+    "text": "Red Division combatant."
+  },
+  "CharaName_RedTribe_SoldierX": {
+    "speaker": "UI",
+    "text": "Javier the Red Division Combatant"
+  },
+  "Hypocoristic_RedTribe_SoldierX": {
+    "speaker": "UI",
+    "text": "Javier"
+  },
+  "Caption_RedTribe_SoldierX": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedTribe_SoldierX": {
+    "speaker": "UI",
+    "text": "Red Division combatant."
+  },
+  "CharaName_RedTribe_440": {
+    "speaker": "UI",
+    "text": "Beast King"
+  },
+  "Hypocoristic_RedTribe_440": {
+    "speaker": "UI",
+    "text": "Beast King"
+  },
+  "Caption_RedTribe_440": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_RedTribe_440": {
+    "speaker": "UI",
+    "text": "A Red Division combatant known as the Beast King."
+  },
+  "CharaName_YellowTribe_Bean": {
+    "speaker": "UI",
+    "text": "Bean Model-8"
+  },
+  "Hypocoristic_YellowTribe_Bean": {
+    "speaker": "UI",
+    "text": "Bean"
+  },
+  "Caption_YellowTribe_Bean": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_YellowTribe_Bean": {
+    "speaker": "UI",
+    "text": "Yellow Division member on assignment from the Administrative Division."
+  },
+  "CharaName_YellowTribe_FellowC": {
+    "speaker": "UI",
+    "text": "Cooke the Yellow Division Researcher"
+  },
+  "Hypocoristic_YellowTribe_FellowC": {
+    "speaker": "UI",
+    "text": "Cooke"
+  },
+  "Caption_YellowTribe_FellowC": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_YellowTribe_FellowC": {
+    "speaker": "UI",
+    "text": "Yellow Division researcher."
+  },
+  "CharaName_YellowTribe_FellowD": {
+    "speaker": "UI",
+    "text": "Deborah the Yellow Division Researcher"
+  },
+  "Hypocoristic_YellowTribe_FellowD": {
+    "speaker": "UI",
+    "text": "Deborah"
+  },
+  "Caption_YellowTribe_FellowD": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_YellowTribe_FellowD": {
+    "speaker": "UI",
+    "text": "Yellow Division researcher."
+  },
+  "CharaName_YellowTribe_FellowE": {
+    "speaker": "UI",
+    "text": "Edgar the Yellow Division Researcher"
+  },
+  "Hypocoristic_YellowTribe_FellowE": {
+    "speaker": "UI",
+    "text": "Edgar"
+  },
+  "Caption_YellowTribe_FellowE": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_YellowTribe_FellowE": {
+    "speaker": "UI",
+    "text": "Yellow Division researcher."
+  },
+  "CharaName_Orichalcum_Body": {
+    "speaker": "UI",
+    "text": "Orichalcum Skeletal Specimen"
+  },
+  "Hypocoristic_Orichalcum_Body": {
+    "speaker": "UI",
+    "text": "Skeletal Specimen"
+  },
+  "Caption_Orichalcum_Body": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Orichalcum_Body": {
+    "speaker": "UI",
+    "text": "Orichalcum Skeletal Specimen."
+  },
+  "CharaName_Gold_SubManager": {
+    "speaker": "UI",
+    "text": "Administrator Gold"
+  },
+  "Hypocoristic_Gold_SubManager": {
+    "speaker": "UI",
+    "text": "Administrator Gold"
+  },
+  "Caption_Gold_SubManager": {
+    "speaker": "UI",
+    "text": "Vehicular Mech"
+  },
+  "Discription_Gold_SubManager": {
+    "speaker": "UI",
+    "text": "Senior staff in Delta Base's Administrative Division."
+  },
+  "CharaName_Dictyostelium": {
+    "speaker": "UI",
+    "text": "Slime Mold"
+  },
+  "Hypocoristic_Dictyostelium": {
+    "speaker": "UI",
+    "text": "Slime Mold"
+  },
+  "Caption_Dictyostelium": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Dictyostelium": {
+    "speaker": "UI",
+    "text": "Proliferating cells discovered in Delta Base."
+  },
+  "CharaName_Tsuchinoko": {
+    "speaker": "UI",
+    "text": "Tsuchinoko"
+  },
+  "Hypocoristic_Tsuchinoko": {
+    "speaker": "UI",
+    "text": "Tsuchinoko"
+  },
+  "Caption_Tsuchinoko": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Tsuchinoko": {
+    "speaker": "UI",
+    "text": "Au unknown lifeform discovered in Delta Base."
+  },
+  "CharaName_Spriggan": {
+    "speaker": "UI",
+    "text": "Spriggan"
+  },
+  "Hypocoristic_Spriggan": {
+    "speaker": "UI",
+    "text": "Spriggan"
+  },
+  "Caption_Spriggan": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Spriggan": {
+    "speaker": "UI",
+    "text": "A ravenous plant discovered in Delta Base."
+  },
+  "CharaName_Monofido": {
+    "speaker": "UI",
+    "text": "Monophid"
+  },
+  "Hypocoristic_Monofido": {
+    "speaker": "UI",
+    "text": "Monophid"
+  },
+  "Caption_Monofido": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Monofido": {
+    "speaker": "UI",
+    "text": "A screaming plant discovered in Delta Base."
+  },
+  "CharaName_Vagrant": {
+    "speaker": "UI",
+    "text": "Mysterious Person"
+  },
+  "Hypocoristic_Vagrant": {
+    "speaker": "UI",
+    "text": "Mysterious Person"
+  },
+  "Caption_Vagrant": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Vagrant": {
+    "speaker": "UI",
+    "text": "An alien discovered in Delta Base."
+  },
+  "CharaName_Lela": {
+    "speaker": "UI",
+    "text": "Lela"
+  },
+  "Hypocoristic_Lela": {
+    "speaker": "UI",
+    "text": "Lela"
+  },
+  "Caption_Lela": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Lela": {
+    "speaker": "UI",
+    "text": "An Imeru girl chosen to become the Maiden of the Epuyke."
+  },
+  "CharaName_Mother_Lela": {
+    "speaker": "UI",
+    "text": "Lela's Mother"
+  },
+  "Hypocoristic_Mother_Lela": {
+    "speaker": "UI",
+    "text": "Lela's Mother"
+  },
+  "Caption_Mother_Lela": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Mother_Lela": {
+    "speaker": "UI",
+    "text": "Lela's mother."
+  },
+  "CharaName_Tyupu": {
+    "speaker": "UI",
+    "text": "Chup"
+  },
+  "Hypocoristic_Tyupu": {
+    "speaker": "UI",
+    "text": "Chup"
+  },
+  "Caption_Tyupu": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Tyupu": {
+    "speaker": "UI",
+    "text": "An Imeru girl chosen to become the Maiden of the Epuyke."
+  },
+  "CharaName_Kupu": {
+    "speaker": "UI",
+    "text": "Kup"
+  },
+  "Hypocoristic_Kupu": {
+    "speaker": "UI",
+    "text": "Kup"
+  },
+  "Caption_Kupu": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Kupu": {
+    "speaker": "UI",
+    "text": "Chup's younger sister."
+  },
+  "CharaName_Nana": {
+    "speaker": "UI",
+    "text": "Nana"
+  },
+  "Hypocoristic_Nana": {
+    "speaker": "UI",
+    "text": "Nana"
+  },
+  "Caption_Nana": {
+    "speaker": "UI",
+    "text": "Imeru"
+  },
+  "Discription_Nana": {
+    "speaker": "UI",
+    "text": "A not-quite-but-still-Imeru girl chosen to become the Maiden of the Epuyke."
+  },
+  "CharaName_Yuku": {
+    "speaker": "UI",
+    "text": "Yuk"
+  },
+  "Hypocoristic_Yuku": {
+    "speaker": "UI",
+    "text": "Yuk"
+  },
+  "Caption_Yuku": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Yuku": {
+    "speaker": "UI",
+    "text": "Nana's mother."
+  },
+  "CharaName_Hasumi": {
+    "speaker": "UI",
+    "text": "Hasumi"
+  },
+  "Hypocoristic_Hasumi": {
+    "speaker": "UI",
+    "text": "Hasumi"
+  },
+  "Caption_Hasumi": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Hasumi": {
+    "speaker": "UI",
+    "text": "Nana's real mother. Was Nui's Soyay."
+  },
+  "CharaName_Nui": {
+    "speaker": "UI",
+    "text": "Nui"
+  },
+  "Hypocoristic_Nui": {
+    "speaker": "UI",
+    "text": "Nui"
+  },
+  "Caption_Nui": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Nui": {
+    "speaker": "UI",
+    "text": "Yuk's real daughter. Was a previous Maiden of the Epuyke."
+  },
+  "CharaName_YellowTribe_FellowF": {
+    "speaker": "UI",
+    "text": "Feynman the Researcher"
+  },
+  "Hypocoristic_YellowTribe_FellowF": {
+    "speaker": "UI",
+    "text": "Feynman"
+  },
+  "Caption_YellowTribe_FellowF": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_YellowTribe_FellowF": {
+    "speaker": "UI",
+    "text": "Yellow Division researcher."
+  },
+  "CharaName_Priestess_of_Imeru": {
+    "speaker": "UI",
+    "text": "Cleric of the Imeru"
+  },
+  "Hypocoristic_Priestess_of_Imeru": {
+    "speaker": "UI",
+    "text": "Cleric of the Imeru"
+  },
+  "Caption_Priestess_of_Imeru": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Priestess_of_Imeru": {
+    "speaker": "UI",
+    "text": "Cleric of the Imeru."
+  },
+  "CharaName_Ape": {
+    "speaker": "UI",
+    "text": "Ahpe"
+  },
+  "Hypocoristic_Ape": {
+    "speaker": "UI",
+    "text": "Ahpe"
+  },
+  "Caption_Ape": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Ape": {
+    "speaker": "UI",
+    "text": "A girl who was once chosen to become the Maiden of the Epuyke. Lela's friend."
+  },
+  "CharaName_Witness_of_Wisdom": {
+    "speaker": "UI",
+    "text": "Witness to Wisdom"
+  },
+  "Hypocoristic_Witness_of_Wisdom": {
+    "speaker": "UI",
+    "text": "Witness to Wisdom"
+  },
+  "Caption_Witness_of_Wisdom": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Witness_of_Wisdom": {
+    "speaker": "UI",
+    "text": "Witness to Wisdom."
+  },
+  "CharaName_Witness_of_Strength": {
+    "speaker": "UI",
+    "text": "Witness to Strength"
+  },
+  "Hypocoristic_Witness_of_Strength": {
+    "speaker": "UI",
+    "text": "Witness to Strength"
+  },
+  "Caption_Witness_of_Strength": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Witness_of_Strength": {
+    "speaker": "UI",
+    "text": "Witness to Strength."
+  },
+  "CharaName_Witness_of_Love": {
+    "speaker": "UI",
+    "text": "Witness to Love"
+  },
+  "Hypocoristic_Witness_of_Love": {
+    "speaker": "UI",
+    "text": "Witness to Love"
+  },
+  "Caption_Witness_of_Love": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Witness_of_Love": {
+    "speaker": "UI",
+    "text": "Witness to Love."
+  },
+  "CharaName_Summoner_of_Strength": {
+    "speaker": "UI",
+    "text": "Summoner of Strength"
+  },
+  "Hypocoristic_Summoner_of_Strength": {
+    "speaker": "UI",
+    "text": "Summoner of Strength"
+  },
+  "Caption_Summoner_of_Strength": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Summoner_of_Strength": {
+    "speaker": "UI",
+    "text": "Summoner of Strength."
+  },
+  "CharaName_Kikiris": {
+    "speaker": "UI",
+    "text": "Kikir"
+  },
+  "Hypocoristic_Kikiris": {
+    "speaker": "UI",
+    "text": "Kikir"
+  },
+  "Caption_Kikiris": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Kikiris": {
+    "speaker": "UI",
+    "text": "Kikir."
+  },
+  "CharaName_Kina_Kikiri": {
+    "speaker": "UI",
+    "text": "Kina"
+  },
+  "Hypocoristic_Kina_Kikiri": {
+    "speaker": "UI",
+    "text": "Kina"
+  },
+  "Caption_Kina_Kikiri": {
+    "speaker": "UI",
+    "text": "Kikir"
+  },
+  "Discription_Kina_Kikiri": {
+    "speaker": "UI",
+    "text": "Kikir."
+  },
+  "CharaName_Alexandre": {
+    "speaker": "UI",
+    "text": "Alexandre"
+  },
+  "Hypocoristic_Alexandre": {
+    "speaker": "UI",
+    "text": "Alexandre"
+  },
+  "Caption_Alexandre": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Alexandre": {
+    "speaker": "UI",
+    "text": "The only unfrozen person in an otherwise completely frozen world."
+  },
+  "CharaName_Marion": {
+    "speaker": "UI",
+    "text": "Marion"
+  },
+  "Hypocoristic_Marion": {
+    "speaker": "UI",
+    "text": "Marion"
+  },
+  "Caption_Marion": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Marion": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Morgane": {
+    "speaker": "UI",
+    "text": "Morgane"
+  },
+  "Hypocoristic_Morgane": {
+    "speaker": "UI",
+    "text": "Morgane"
+  },
+  "Caption_Morgane": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Morgane": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Eric": {
+    "speaker": "UI",
+    "text": "Eric"
+  },
+  "Hypocoristic_Eric": {
+    "speaker": "UI",
+    "text": "Eric"
+  },
+  "Caption_Eric": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Eric": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Guillaume": {
+    "speaker": "UI",
+    "text": "Guillaume"
+  },
+  "Hypocoristic_Guillaume": {
+    "speaker": "UI",
+    "text": "Guillaume"
+  },
+  "Caption_Guillaume": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Guillaume": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Leia": {
+    "speaker": "UI",
+    "text": "Leia"
+  },
+  "Hypocoristic_Leia": {
+    "speaker": "UI",
+    "text": "Leia"
+  },
+  "Caption_Leia": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Leia": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Virgile": {
+    "speaker": "UI",
+    "text": "Virgile"
+  },
+  "Hypocoristic_Virgile": {
+    "speaker": "UI",
+    "text": "Virgile"
+  },
+  "Caption_Virgile": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Virgile": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Romain": {
+    "speaker": "UI",
+    "text": "Romain"
+  },
+  "Hypocoristic_Romain": {
+    "speaker": "UI",
+    "text": "Romain"
+  },
+  "Caption_Romain": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Romain": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Gabriel": {
+    "speaker": "UI",
+    "text": "Gabriel"
+  },
+  "Hypocoristic_Gabriel": {
+    "speaker": "UI",
+    "text": "Gabriel"
+  },
+  "Caption_Gabriel": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Gabriel": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Remi": {
+    "speaker": "UI",
+    "text": "Remi"
+  },
+  "Hypocoristic_Remi": {
+    "speaker": "UI",
+    "text": "Remi"
+  },
+  "Caption_Remi": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Remi": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Esperance": {
+    "speaker": "UI",
+    "text": "Esperance"
+  },
+  "Hypocoristic_Esperance": {
+    "speaker": "UI",
+    "text": "Esperance"
+  },
+  "Caption_Esperance": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Esperance": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_Sandrine": {
+    "speaker": "UI",
+    "text": "Sandrine"
+  },
+  "Hypocoristic_Sandrine": {
+    "speaker": "UI",
+    "text": "Sandrine"
+  },
+  "Caption_Sandrine": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Sandrine": {
+    "speaker": "UI",
+    "text": "Thawed Person"
+  },
+  "CharaName_LastEmperor": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Hypocoristic_LastEmperor": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Caption_LastEmperor": {
+    "speaker": "UI",
+    "text": "Grelon Royalty"
+  },
+  "Discription_LastEmperor": {
+    "speaker": "UI",
+    "text": "Final ruler of the empire."
+  },
+  "CharaName_Junkman": {
+    "speaker": "UI",
+    "text": "Junkman"
+  },
+  "Hypocoristic_Junkman": {
+    "speaker": "UI",
+    "text": "Junkman"
+  },
+  "Caption_Junkman": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Junkman": {
+    "speaker": "UI",
+    "text": "Junk dealer in the submarine."
+  },
+  "CharaName_Professor": {
+    "speaker": "UI",
+    "text": "Professor"
+  },
+  "Hypocoristic_Professor": {
+    "speaker": "UI",
+    "text": "Professor"
+  },
+  "Caption_Professor": {
+    "speaker": "UI",
+    "text": "Historian"
+  },
+  "Discription_Professor": {
+    "speaker": "UI",
+    "text": "Historian in the airship."
+  },
+  "CharaName_Engineer": {
+    "speaker": "UI",
+    "text": "Engineer"
+  },
+  "Hypocoristic_Engineer": {
+    "speaker": "UI",
+    "text": "Engineer"
+  },
+  "Caption_Engineer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Engineer": {
+    "speaker": "UI",
+    "text": "Engineer in the cruise ship."
+  },
+  "CharaName_Wiseman": {
+    "speaker": "UI",
+    "text": "Wiseman"
+  },
+  "Hypocoristic_Wiseman": {
+    "speaker": "UI",
+    "text": "Wiseman"
+  },
+  "Caption_Wiseman": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Wiseman": {
+    "speaker": "UI",
+    "text": "Mysterious man in the battleship."
+  },
+  "CharaName_Scarecrow": {
+    "speaker": "UI",
+    "text": "Scarecrow"
+  },
+  "Hypocoristic_Scarecrow": {
+    "speaker": "UI",
+    "text": "Scarecrow"
+  },
+  "Caption_Scarecrow": {
+    "speaker": "UI",
+    "text": "Scarecrow"
+  },
+  "Discription_Scarecrow": {
+    "speaker": "UI",
+    "text": "Scarecrow."
+  },
+  "CharaName_Smilecrow": {
+    "speaker": "UI",
+    "text": "Smilecrow"
+  },
+  "Hypocoristic_Smilecrow": {
+    "speaker": "UI",
+    "text": "Smilecrow"
+  },
+  "Caption_Smilecrow": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Smilecrow": {
+    "speaker": "UI",
+    "text": "Smilecrow."
+  },
+  "CharaName_Spookcrow": {
+    "speaker": "UI",
+    "text": "Spookcrow"
+  },
+  "Hypocoristic_Spookcrow": {
+    "speaker": "UI",
+    "text": "Spookcrow"
+  },
+  "Caption_Spookcrow": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Spookcrow": {
+    "speaker": "UI",
+    "text": "Spookcrow."
+  },
+  "CharaName_Sorrowcrow": {
+    "speaker": "UI",
+    "text": "Sorrowcrow"
+  },
+  "Hypocoristic_Sorrowcrow": {
+    "speaker": "UI",
+    "text": "Sorrowcrow"
+  },
+  "Caption_Sorrowcrow": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Sorrowcrow": {
+    "speaker": "UI",
+    "text": "Sorrowcrow."
+  },
+  "CharaName_Sweetcrow": {
+    "speaker": "UI",
+    "text": "Sweetcrow"
+  },
+  "Hypocoristic_Sweetcrow": {
+    "speaker": "UI",
+    "text": "Sweetcrow"
+  },
+  "Caption_Sweetcrow": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Sweetcrow": {
+    "speaker": "UI",
+    "text": "Sweetcrow."
+  },
+  "CharaName_Strangecrow": {
+    "speaker": "UI",
+    "text": "Strangecrow"
+  },
+  "Hypocoristic_Strangecrow": {
+    "speaker": "UI",
+    "text": "Strangecrow"
+  },
+  "Caption_Strangecrow": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Strangecrow": {
+    "speaker": "UI",
+    "text": "Strangecrow."
+  },
+  "CharaName_Sarab": {
+    "speaker": "UI",
+    "text": "Sarab"
+  },
+  "Hypocoristic_Sarab": {
+    "speaker": "UI",
+    "text": "Sarab"
+  },
+  "Caption_Sarab": {
+    "speaker": "UI",
+    "text": "Floating Mech"
+  },
+  "Discription_Sarab": {
+    "speaker": "UI",
+    "text": "A mech that wanders the desert."
+  },
+  "CharaName_ProvidenceWatcher": {
+    "speaker": "UI",
+    "text": "Observer"
+  },
+  "Hypocoristic_ProvidenceWatcher": {
+    "speaker": "UI",
+    "text": "Observer"
+  },
+  "Caption_ProvidenceWatcher": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_ProvidenceWatcher": {
+    "speaker": "UI",
+    "text": "She who keeps watch over Providence."
+  },
+  "CharaName_Detective": {
+    "speaker": "UI",
+    "text": "Detective"
+  },
+  "Hypocoristic_Detective": {
+    "speaker": "UI",
+    "text": "Detective"
+  },
+  "Caption_Detective": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Detective": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Citizen_A": {
+    "speaker": "UI",
+    "text": "Citizen A"
+  },
+  "Hypocoristic_Citizen_A": {
+    "speaker": "UI",
+    "text": "Citizen A"
+  },
+  "Caption_Citizen_A": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Citizen_A": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Citizen_B": {
+    "speaker": "UI",
+    "text": "Citizen B"
+  },
+  "Hypocoristic_Citizen_B": {
+    "speaker": "UI",
+    "text": "Citizen B"
+  },
+  "Caption_Citizen_B": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Citizen_B": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Assassin": {
+    "speaker": "UI",
+    "text": "Assassin"
+  },
+  "Hypocoristic_Assassin": {
+    "speaker": "UI",
+    "text": "Assassin"
+  },
+  "Caption_Assassin": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Assassin": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Explorer": {
+    "speaker": "UI",
+    "text": "Explorer"
+  },
+  "Hypocoristic_Explorer": {
+    "speaker": "UI",
+    "text": "Explorer"
+  },
+  "Caption_Explorer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Explorer": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Swordsmith": {
+    "speaker": "UI",
+    "text": "Swordsmith"
+  },
+  "Hypocoristic_Swordsmith": {
+    "speaker": "UI",
+    "text": "Swordsmith"
+  },
+  "Caption_Swordsmith": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Swordsmith": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Birdwatcher": {
+    "speaker": "UI",
+    "text": "Wild Bird Conservationist"
+  },
+  "Hypocoristic_Birdwatcher": {
+    "speaker": "UI",
+    "text": "Wild Bird Conservationist"
+  },
+  "Caption_Birdwatcher": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Birdwatcher": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Policeman": {
+    "speaker": "UI",
+    "text": "Policeman"
+  },
+  "Hypocoristic_Policeman": {
+    "speaker": "UI",
+    "text": "Policeman"
+  },
+  "Caption_Policeman": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Policeman": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Woman": {
+    "speaker": "UI",
+    "text": "Older Woman"
+  },
+  "Hypocoristic_Woman": {
+    "speaker": "UI",
+    "text": "Older Woman"
+  },
+  "Caption_Woman": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Woman": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Soldier": {
+    "speaker": "UI",
+    "text": "Soldier"
+  },
+  "Hypocoristic_Soldier": {
+    "speaker": "UI",
+    "text": "Soldier"
+  },
+  "Caption_Soldier": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Soldier": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Cat": {
+    "speaker": "UI",
+    "text": "Cat"
+  },
+  "Hypocoristic_Cat": {
+    "speaker": "UI",
+    "text": "Cat"
+  },
+  "Caption_Cat": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Cat": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Girl": {
+    "speaker": "UI",
+    "text": "Girl"
+  },
+  "Hypocoristic_Girl": {
+    "speaker": "UI",
+    "text": "Girl"
+  },
+  "Caption_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Girl": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Boy": {
+    "speaker": "UI",
+    "text": "Boy"
+  },
+  "Hypocoristic_Boy": {
+    "speaker": "UI",
+    "text": "Boy"
+  },
+  "Caption_Boy": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Boy": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Assistant": {
+    "speaker": "UI",
+    "text": "Program Assistant"
+  },
+  "Hypocoristic_Assistant": {
+    "speaker": "UI",
+    "text": "Program Assistant"
+  },
+  "Caption_Assistant": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Assistant": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Doctor": {
+    "speaker": "UI",
+    "text": "Doctor"
+  },
+  "Hypocoristic_Doctor": {
+    "speaker": "UI",
+    "text": "Doctor"
+  },
+  "Caption_Doctor": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Doctor": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_GirdMech": {
+    "speaker": "UI",
+    "text": "Mech Guard"
+  },
+  "Hypocoristic_GirdMech": {
+    "speaker": "UI",
+    "text": "Mech Guard"
+  },
+  "Caption_GirdMech": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GirdMech": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Daughter": {
+    "speaker": "UI",
+    "text": "Young Lady"
+  },
+  "Hypocoristic_Daughter": {
+    "speaker": "UI",
+    "text": "Young Lady"
+  },
+  "Caption_Daughter": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Daughter": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Witch": {
+    "speaker": "UI",
+    "text": "Witch"
+  },
+  "Hypocoristic_Witch": {
+    "speaker": "UI",
+    "text": "Witch"
+  },
+  "Caption_Witch": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Witch": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_MechBoy": {
+    "speaker": "UI",
+    "text": "Child Mech"
+  },
+  "Hypocoristic_MechBoy": {
+    "speaker": "UI",
+    "text": "Child Mech"
+  },
+  "Caption_MechBoy": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_MechBoy": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Showgirl": {
+    "speaker": "UI",
+    "text": "Woman"
+  },
+  "Hypocoristic_Showgirl": {
+    "speaker": "UI",
+    "text": "Woman"
+  },
+  "Caption_Showgirl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Showgirl": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Trader": {
+    "speaker": "UI",
+    "text": "Peddler"
+  },
+  "Hypocoristic_Trader": {
+    "speaker": "UI",
+    "text": "Peddler"
+  },
+  "Caption_Trader": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Trader": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Sailor_A": {
+    "speaker": "UI",
+    "text": "Sailor A"
+  },
+  "Hypocoristic_Sailor_A": {
+    "speaker": "UI",
+    "text": "Sailor A"
+  },
+  "Caption_Sailor_A": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Sailor_A": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Sailor_B": {
+    "speaker": "UI",
+    "text": "Sailor B"
+  },
+  "Hypocoristic_Sailor_B": {
+    "speaker": "UI",
+    "text": "Sailor B"
+  },
+  "Caption_Sailor_B": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Sailor_B": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Archaeologist": {
+    "speaker": "UI",
+    "text": "Archaeologist"
+  },
+  "Hypocoristic_Archaeologist": {
+    "speaker": "UI",
+    "text": "Archaeologist"
+  },
+  "Caption_Archaeologist": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Archaeologist": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Villager": {
+    "speaker": "UI",
+    "text": "Villager"
+  },
+  "Hypocoristic_Villager": {
+    "speaker": "UI",
+    "text": "Villager"
+  },
+  "Caption_Villager": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Villager": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Nomad": {
+    "speaker": "UI",
+    "text": "Wanderer"
+  },
+  "Hypocoristic_Nomad": {
+    "speaker": "UI",
+    "text": "Wanderer"
+  },
+  "Caption_Nomad": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Nomad": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Shinko_People": {
+    "speaker": "UI",
+    "text": "Shinko Citizens"
+  },
+  "Hypocoristic_Shinko_People": {
+    "speaker": "UI",
+    "text": "Shinko Citizens"
+  },
+  "Caption_Shinko_People": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Shinko_People": {
+    "speaker": "UI",
+    "text": "Person within a vision in Providence."
+  },
+  "CharaName_Alessa_Sitrix": {
+    "speaker": "UI",
+    "text": "Dr. Alessa Sitrix"
+  },
+  "Hypocoristic_Alessa_Sitrix": {
+    "speaker": "UI",
+    "text": "Alessa"
+  },
+  "Caption_Alessa_Sitrix": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Alessa_Sitrix": {
+    "speaker": "UI",
+    "text": "Specialist in triangle theory. Corana's older sister."
+  },
+  "CharaName_Corana_Sitrix": {
+    "speaker": "UI",
+    "text": "Dr. Corana Sitrix"
+  },
+  "Hypocoristic_Corana_Sitrix": {
+    "speaker": "UI",
+    "text": "Corana"
+  },
+  "Caption_Corana_Sitrix": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Corana_Sitrix": {
+    "speaker": "UI",
+    "text": "Specialist in triangle theory. Alessa's younger sister."
+  },
+  "CharaName_Fred_Kinlei": {
+    "speaker": "UI",
+    "text": "Fred"
+  },
+  "Hypocoristic_Fred_Kinlei": {
+    "speaker": "UI",
+    "text": "Fred"
+  },
+  "Caption_Fred_Kinlei": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Fred_Kinlei": {
+    "speaker": "UI",
+    "text": "Alessa's former assistant and Corana's ex-husband."
+  },
+  "CharaName_BX10_EX": {
+    "speaker": "UI",
+    "text": "BX10-EX"
+  },
+  "Hypocoristic_BX10_EX": {
+    "speaker": "UI",
+    "text": "BX10"
+  },
+  "Caption_BX10_EX": {
+    "speaker": "UI",
+    "text": "Quadrupedal Mech"
+  },
+  "Discription_BX10_EX": {
+    "speaker": "UI",
+    "text": "Corana's mech assistant."
+  },
+  "CharaName_CEO_TRIGON": {
+    "speaker": "UI",
+    "text": "Director"
+  },
+  "Hypocoristic_CEO_TRIGON": {
+    "speaker": "UI",
+    "text": "Director"
+  },
+  "Caption_CEO_TRIGON": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_CEO_TRIGON": {
+    "speaker": "UI",
+    "text": "Director of the Trigon Corporation."
+  },
+  "CharaName_TRIGON_Stella": {
+    "speaker": "UI",
+    "text": "Stella of Trigon"
+  },
+  "Hypocoristic_TRIGON_Stella": {
+    "speaker": "UI",
+    "text": "Stella"
+  },
+  "Caption_TRIGON_Stella": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_TRIGON_Stella": {
+    "speaker": "UI",
+    "text": "Trigon Employee"
+  },
+  "CharaName_TRIGON_Beppe": {
+    "speaker": "UI",
+    "text": "Beppe of Trigon"
+  },
+  "Hypocoristic_TRIGON_Beppe": {
+    "speaker": "UI",
+    "text": "Beppe"
+  },
+  "Caption_TRIGON_Beppe": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_TRIGON_Beppe": {
+    "speaker": "UI",
+    "text": "Trigon Employee"
+  },
+  "CharaName_TRIGON_Nello": {
+    "speaker": "UI",
+    "text": "Nero of Trigon"
+  },
+  "Hypocoristic_TRIGON_Nello": {
+    "speaker": "UI",
+    "text": "Nero"
+  },
+  "Caption_TRIGON_Nello": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_TRIGON_Nello": {
+    "speaker": "UI",
+    "text": "Trigon Employee"
+  },
+  "CharaName_DamMaster_Teo": {
+    "speaker": "UI",
+    "text": "Dam Manager Teo"
+  },
+  "Hypocoristic_DamMaster_Teo": {
+    "speaker": "UI",
+    "text": "Teo"
+  },
+  "Caption_DamMaster_Teo": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_Michele": {
+    "speaker": "UI",
+    "text": "Michele"
+  },
+  "Hypocoristic_Michele": {
+    "speaker": "UI",
+    "text": "Michele"
+  },
+  "Caption_Michele": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_Teo_Senior": {
+    "speaker": "UI",
+    "text": "Teo Senior"
+  },
+  "Hypocoristic_Teo_Senior": {
+    "speaker": "UI",
+    "text": "Teo Senior"
+  },
+  "Caption_Teo_Senior": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_Lara": {
+    "speaker": "UI",
+    "text": "Lara"
+  },
+  "Hypocoristic_Lara": {
+    "speaker": "UI",
+    "text": "Lara"
+  },
+  "Caption_Lara": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_Silvano": {
+    "speaker": "UI",
+    "text": "Sylvano"
+  },
+  "Hypocoristic_Silvano": {
+    "speaker": "UI",
+    "text": "Sylvano"
+  },
+  "Caption_Silvano": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_Melania": {
+    "speaker": "UI",
+    "text": "Melania"
+  },
+  "Hypocoristic_Melania": {
+    "speaker": "UI",
+    "text": "Melania"
+  },
+  "Caption_Melania": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_Barbara": {
+    "speaker": "UI",
+    "text": "Barbara"
+  },
+  "Hypocoristic_Barbara": {
+    "speaker": "UI",
+    "text": "Barbara"
+  },
+  "Caption_Barbara": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_King_Din": {
+    "speaker": "UI",
+    "text": "King Din"
+  },
+  "Hypocoristic_King_Din": {
+    "speaker": "UI",
+    "text": "King Din"
+  },
+  "Caption_King_Din": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_King_Din": {
+    "speaker": "UI",
+    "text": "King of Brighthome."
+  },
+  "CharaName_Rodrigo": {
+    "speaker": "UI",
+    "text": "Rodrigo"
+  },
+  "Hypocoristic_Rodrigo": {
+    "speaker": "UI",
+    "text": "Rodrigo"
+  },
+  "Caption_Rodrigo": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Rodrigo": {
+    "speaker": "UI",
+    "text": "Guv's real name."
+  },
+  "CharaName_Simon": {
+    "speaker": "UI",
+    "text": "Simon"
+  },
+  "Hypocoristic_Simon": {
+    "speaker": "UI",
+    "text": "Simon"
+  },
+  "Caption_Simon": {
+    "speaker": "UI",
+    "text": "Autonomous Mech"
+  },
+  "Discription_Simon": {
+    "speaker": "UI",
+    "text": "A mech that awoke in Brighthome after his death."
+  },
+  "CharaName_Arsenal": {
+    "speaker": "UI",
+    "text": "Gunner"
+  },
+  "Hypocoristic_Arsenal": {
+    "speaker": "UI",
+    "text": "Gunner"
+  },
+  "Caption_Arsenal": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Arsenal": {
+    "speaker": "UI",
+    "text": "Simon's other name."
+  },
+  "CharaName_Sorceress": {
+    "speaker": "UI",
+    "text": "Sorceress"
+  },
+  "Hypocoristic_Sorceress": {
+    "speaker": "UI",
+    "text": "Sorceress"
+  },
+  "Caption_Sorceress": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Sorceress": {
+    "speaker": "UI",
+    "text": "Another name for a witch."
+  },
+  "CharaName_Vacuum": {
+    "speaker": "UI",
+    "text": "Vacuum"
+  },
+  "Hypocoristic_Vacuum": {
+    "speaker": "UI",
+    "text": "Vacuum"
+  },
+  "Caption_Vacuum": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Vacuum": {
+    "speaker": "UI",
+    "text": "Real name is Victoria."
+  },
+  "CharaName_Gadget": {
+    "speaker": "UI",
+    "text": "Gadget"
+  },
+  "Hypocoristic_Gadget": {
+    "speaker": "UI",
+    "text": "Gadget"
+  },
+  "Caption_Gadget": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Gadget": {
+    "speaker": "UI",
+    "text": "Real name is Masakado."
+  },
+  "CharaName_Doll": {
+    "speaker": "UI",
+    "text": "Manikin"
+  },
+  "Hypocoristic_Doll": {
+    "speaker": "UI",
+    "text": "Manikin"
+  },
+  "Caption_Doll": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Doll": {
+    "speaker": "UI",
+    "text": "Real name is Scarecrow."
+  },
+  "CharaName_Immunity": {
+    "speaker": "UI",
+    "text": "Immunity"
+  },
+  "Hypocoristic_Immunity": {
+    "speaker": "UI",
+    "text": "Immunity"
+  },
+  "Caption_Immunity": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Immunity": {
+    "speaker": "UI",
+    "text": "Real name is Erythrocyte."
+  },
+  "CharaName_Fiore": {
+    "speaker": "UI",
+    "text": "Floral"
+  },
+  "Hypocoristic_Fiore": {
+    "speaker": "UI",
+    "text": "Floral"
+  },
+  "Caption_Fiore": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Fiore": {
+    "speaker": "UI",
+    "text": "Real name is Ahpe."
+  },
+  "CharaName_Buccaneer": {
+    "speaker": "UI",
+    "text": "Pirate"
+  },
+  "Hypocoristic_Buccaneer": {
+    "speaker": "UI",
+    "text": "Pirate"
+  },
+  "Caption_Buccaneer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Buccaneer": {
+    "speaker": "UI",
+    "text": "Real name is Silver."
+  },
+  "CharaName_Lord": {
+    "speaker": "UI",
+    "text": "Warden"
+  },
+  "Hypocoristic_Lord": {
+    "speaker": "UI",
+    "text": "Warden"
+  },
+  "Caption_Lord": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Lord": {
+    "speaker": "UI",
+    "text": "True identity is the Warden of Envy."
+  },
+  "CharaName_Chief": {
+    "speaker": "UI",
+    "text": "President"
+  },
+  "Hypocoristic_Chief": {
+    "speaker": "UI",
+    "text": "President"
+  },
+  "Caption_Chief": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Chief": {
+    "speaker": "UI",
+    "text": "Real name is Abraham."
+  },
+  "CharaName_Bully": {
+    "speaker": "UI",
+    "text": "Bully"
+  },
+  "Hypocoristic_Bully": {
+    "speaker": "UI",
+    "text": "Bully"
+  },
+  "Caption_Bully": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Bully": {
+    "speaker": "UI",
+    "text": "Real name is Leonardo."
+  },
+  "CharaName_Guv": {
+    "speaker": "UI",
+    "text": "Guv"
+  },
+  "Hypocoristic_Guv": {
+    "speaker": "UI",
+    "text": "Guv"
+  },
+  "Caption_Guv": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Guv": {
+    "speaker": "UI",
+    "text": "Real name is Rodrigo."
+  },
+  "CharaName_Village_Girl": {
+    "speaker": "UI",
+    "text": "Village Girl"
+  },
+  "Hypocoristic_Village_Girl": {
+    "speaker": "UI",
+    "text": "Village Girl"
+  },
+  "Caption_Village_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Village_Girl": {
+    "speaker": "UI",
+    "text": "Rodrigo's partner."
+  },
+  "CharaName_Field_Girl": {
+    "speaker": "UI",
+    "text": "Field Girl"
+  },
+  "Hypocoristic_Field_Girl": {
+    "speaker": "UI",
+    "text": "Field Girl"
+  },
+  "Caption_Field_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Field_Girl": {
+    "speaker": "UI",
+    "text": "Rodrigo's partner."
+  },
+  "CharaName_Mine_Girl": {
+    "speaker": "UI",
+    "text": "Mine Girl"
+  },
+  "Hypocoristic_Mine_Girl": {
+    "speaker": "UI",
+    "text": "Mine Girl"
+  },
+  "Caption_Mine_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Mine_Girl": {
+    "speaker": "UI",
+    "text": "Rodrigo's partner."
+  },
+  "CharaName_Graveyard_Girl": {
+    "speaker": "UI",
+    "text": "Cemetery Girl"
+  },
+  "Hypocoristic_Graveyard_Girl": {
+    "speaker": "UI",
+    "text": "Cemetery Girl"
+  },
+  "Caption_Graveyard_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Graveyard_Girl": {
+    "speaker": "UI",
+    "text": "Rodrigo's partner."
+  },
+  "CharaName_Church_Girl": {
+    "speaker": "UI",
+    "text": "Church Girl"
+  },
+  "Hypocoristic_Church_Girl": {
+    "speaker": "UI",
+    "text": "Church Girl"
+  },
+  "Caption_Church_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Church_Girl": {
+    "speaker": "UI",
+    "text": "Rodrigo's partner."
+  },
+  "CharaName_City_Girl": {
+    "speaker": "UI",
+    "text": "City Girl"
+  },
+  "Hypocoristic_City_Girl": {
+    "speaker": "UI",
+    "text": "City Girl"
+  },
+  "Caption_City_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_City_Girl": {
+    "speaker": "UI",
+    "text": "Rodrigo's partner."
+  },
+  "CharaName_Fort_Girl": {
+    "speaker": "UI",
+    "text": "Stronghold Girl"
+  },
+  "Hypocoristic_Fort_Girl": {
+    "speaker": "UI",
+    "text": "Stronghold Girl"
+  },
+  "Caption_Fort_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Fort_Girl": {
+    "speaker": "UI",
+    "text": "Rodrigo's partner."
+  },
+  "CharaName_Temple_Girl": {
+    "speaker": "UI",
+    "text": "Temple Girl"
+  },
+  "Hypocoristic_Temple_Girl": {
+    "speaker": "UI",
+    "text": "Temple Girl"
+  },
+  "Caption_Temple_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Temple_Girl": {
+    "speaker": "UI",
+    "text": "Rodrigo's partner."
+  },
+  "CharaName_Ruin_Girl": {
+    "speaker": "UI",
+    "text": "Ruins Girl"
+  },
+  "Hypocoristic_Ruin_Girl": {
+    "speaker": "UI",
+    "text": "Ruins Girl"
+  },
+  "Caption_Ruin_Girl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Ruin_Girl": {
+    "speaker": "UI",
+    "text": "Rodrigo's partner."
+  },
+  "CharaName_Mr_President": {
+    "speaker": "UI",
+    "text": "Mr. President"
+  },
+  "Hypocoristic_Mr_President": {
+    "speaker": "UI",
+    "text": "Mr. President"
+  },
+  "Caption_Mr_President": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Mr_President": {
+    "speaker": "UI",
+    "text": "President."
+  },
+  "CharaName_Tristan_Hernandes": {
+    "speaker": "UI",
+    "text": "Tristan Hernandez"
+  },
+  "Hypocoristic_Tristan_Hernandes": {
+    "speaker": "UI",
+    "text": "Tristan"
+  },
+  "Caption_Tristan_Hernandes": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Tristan_Hernandes": {
+    "speaker": "UI",
+    "text": "Head of the Presidential Security Office."
+  },
+  "CharaName_James_Allen": {
+    "speaker": "UI",
+    "text": "James Allen"
+  },
+  "Hypocoristic_James_Allen": {
+    "speaker": "UI",
+    "text": "Allen"
+  },
+  "Caption_James_Allen": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_James_Allen": {
+    "speaker": "UI",
+    "text": "Presidential candidate."
+  },
+  "CharaName_Noah_Bailey": {
+    "speaker": "UI",
+    "text": "Noah Bailey"
+  },
+  "Hypocoristic_Noah_Bailey": {
+    "speaker": "UI",
+    "text": "Bailey"
+  },
+  "Caption_Noah_Bailey": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Noah_Bailey": {
+    "speaker": "UI",
+    "text": "Presidential candidate."
+  },
+  "CharaName_Kate_Wang": {
+    "speaker": "UI",
+    "text": "Kate the Reporter"
+  },
+  "Hypocoristic_Kate_Wang": {
+    "speaker": "UI",
+    "text": "Kate"
+  },
+  "Caption_Kate_Wang": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_Researcher_Nishant": {
+    "speaker": "UI",
+    "text": "Nishant the Researcher"
+  },
+  "Hypocoristic_Researcher_Nishant": {
+    "speaker": "UI",
+    "text": "Nishant"
+  },
+  "Caption_Researcher_Nishant": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Researcher_Nishant": {
+    "speaker": "UI",
+    "text": "GOG researcher."
+  },
+  "CharaName_Jessica": {
+    "speaker": "UI",
+    "text": "Jessica"
+  },
+  "Hypocoristic_Jessica": {
+    "speaker": "UI",
+    "text": "Jessica"
+  },
+  "Caption_Jessica": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "CharaName_Detective_John": {
+    "speaker": "UI",
+    "text": "Detective John"
+  },
+  "Hypocoristic_Detective_John": {
+    "speaker": "UI",
+    "text": "John"
+  },
+  "Caption_Detective_John": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Detective_John": {
+    "speaker": "UI",
+    "text": "Criminal investigator with the CCPD."
+  },
+  "CharaName_Violetta_Kim": {
+    "speaker": "UI",
+    "text": "Violetta the Passionate Youth"
+  },
+  "Hypocoristic_Violetta_Kim": {
+    "speaker": "UI",
+    "text": "Violetta"
+  },
+  "Caption_Violetta_Kim": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Violetta_Kim": {
+    "speaker": "UI",
+    "text": "Passionate youngster."
+  },
+  "CharaName_Stephan_Eliasson": {
+    "speaker": "UI",
+    "text": "Steve the Peaceful Youth"
+  },
+  "Hypocoristic_Stephan_Eliasson": {
+    "speaker": "UI",
+    "text": "Steve"
+  },
+  "Caption_Stephan_Eliasson": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Stephan_Eliasson": {
+    "speaker": "UI",
+    "text": "Peaceful youngster."
+  },
+  "CharaName_President_Bodyguard": {
+    "speaker": "UI",
+    "text": "President's Bodyguard"
+  },
+  "Hypocoristic_President_Bodyguard": {
+    "speaker": "UI",
+    "text": "President's Bodyguard"
+  },
+  "Caption_President_Bodyguard": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_President_Bodyguard": {
+    "speaker": "UI",
+    "text": "President's Bodyguard."
+  },
+  "CharaName_Rally_Officer": {
+    "speaker": "UI",
+    "text": "Rally Manager"
+  },
+  "Hypocoristic_Rally_Officer": {
+    "speaker": "UI",
+    "text": "Rally Manager"
+  },
+  "Caption_Rally_Officer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Rally_Officer": {
+    "speaker": "UI",
+    "text": "Rally Manager."
+  },
+  "CharaName_Rally_Interferer": {
+    "speaker": "UI",
+    "text": "Rowdy Person"
+  },
+  "Hypocoristic_Rally_Interferer": {
+    "speaker": "UI",
+    "text": "Rowdy Person"
+  },
+  "Caption_Rally_Interferer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Rally_Interferer": {
+    "speaker": "UI",
+    "text": "Rowdy Person."
+  },
+  "CharaName_Crystal_Person": {
+    "speaker": "UI",
+    "text": "Crystal Thief"
+  },
+  "Hypocoristic_Crystal_Person": {
+    "speaker": "UI",
+    "text": "Crystal Thief"
+  },
+  "Caption_Crystal_Person": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Crystal_Person": {
+    "speaker": "UI",
+    "text": "Crystal Thief."
+  },
+  "CharaName_Laboratory_Person": {
+    "speaker": "UI",
+    "text": "Institute Dubious Person"
+  },
+  "Hypocoristic_Laboratory_Person": {
+    "speaker": "UI",
+    "text": "Institute Dubious Person"
+  },
+  "Caption_Laboratory_Person": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Laboratory_Person": {
+    "speaker": "UI",
+    "text": "Institute Dubious Person."
+  },
+  "CharaName_PollingStation_Person": {
+    "speaker": "UI",
+    "text": "Polling Place Dubious Person"
+  },
+  "Hypocoristic_PollingStation_Person": {
+    "speaker": "UI",
+    "text": "Polling Place Dubious Person"
+  },
+  "Caption_PollingStation_Person": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_PollingStation_Person": {
+    "speaker": "UI",
+    "text": "Polling Place Dubious Person."
+  },
+  "CharaName_Bodyguard_Mech": {
+    "speaker": "UI",
+    "text": "Security Mech"
+  },
+  "Hypocoristic_Bodyguard_Mech": {
+    "speaker": "UI",
+    "text": "Security Mech"
+  },
+  "Caption_Bodyguard_Mech": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Bodyguard_Mech": {
+    "speaker": "UI",
+    "text": "Security Mech."
+  },
+  "CharaName_Newscaster": {
+    "speaker": "UI",
+    "text": "Stacy Bench"
+  },
+  "Hypocoristic_Newscaster": {
+    "speaker": "UI",
+    "text": "Stacy"
+  },
+  "Caption_Newscaster": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Newscaster": {
+    "speaker": "UI",
+    "text": "Newscaster."
+  },
+  "CharaName_News_Comentator": {
+    "speaker": "UI",
+    "text": "Flip Brickley"
+  },
+  "Hypocoristic_News_Comentator": {
+    "speaker": "UI",
+    "text": "Flip"
+  },
+  "Caption_News_Comentator": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_News_Comentator": {
+    "speaker": "UI",
+    "text": "News commentator."
+  },
+  "CharaName_Emily_Bryant": {
+    "speaker": "UI",
+    "text": "Emily Bryant"
+  },
+  "Hypocoristic_Emily_Bryant": {
+    "speaker": "UI",
+    "text": "Emily"
+  },
+  "Caption_Emily_Bryant": {
+    "speaker": "UI",
+    "text": "Singer on the Rise"
+  },
+  "Discription_Emily_Bryant": {
+    "speaker": "UI",
+    "text": "Singer."
+  },
+  "CharaName_Guardian_Eagle": {
+    "speaker": "UI",
+    "text": "Eagle"
+  },
+  "Hypocoristic_Guardian_Eagle": {
+    "speaker": "UI",
+    "text": "Eagle"
+  },
+  "Caption_Guardian_Eagle": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Guardian_Eagle": {
+    "speaker": "UI",
+    "text": "Eagle."
+  },
+  "CharaName_Guardian_Bear": {
+    "speaker": "UI",
+    "text": "Bear"
+  },
+  "Hypocoristic_Guardian_Bear": {
+    "speaker": "UI",
+    "text": "Bear"
+  },
+  "Caption_Guardian_Bear": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Guardian_Bear": {
+    "speaker": "UI",
+    "text": "Bear."
+  },
+  "CharaName_Guardian_Tortoise": {
+    "speaker": "UI",
+    "text": "Turtle"
+  },
+  "Hypocoristic_Guardian_Tortoise": {
+    "speaker": "UI",
+    "text": "Turtle"
+  },
+  "Caption_Guardian_Tortoise": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Guardian_Tortoise": {
+    "speaker": "UI",
+    "text": "Turtle."
+  },
+  "CharaName_Guardian_Bat": {
+    "speaker": "UI",
+    "text": "Bat"
+  },
+  "Hypocoristic_Guardian_Bat": {
+    "speaker": "UI",
+    "text": "Bat"
+  },
+  "Caption_Guardian_Bat": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Guardian_Bat": {
+    "speaker": "UI",
+    "text": "Bat."
+  },
+  "CharaName_Guardian_Squirrel": {
+    "speaker": "UI",
+    "text": "Squirrel"
+  },
+  "Hypocoristic_Guardian_Squirrel": {
+    "speaker": "UI",
+    "text": "Squirrel"
+  },
+  "Caption_Guardian_Squirrel": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Guardian_Squirrel": {
+    "speaker": "UI",
+    "text": "Squirrel."
+  },
+  "CharaName_GreatTree_Wolves": {
+    "speaker": "UI",
+    "text": "Wolves"
+  },
+  "Hypocoristic_GreatTree_Wolves": {
+    "speaker": "UI",
+    "text": "Wolves"
+  },
+  "Caption_GreatTree_Wolves": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Wolves": {
+    "speaker": "UI",
+    "text": "Wolves."
+  },
+  "CharaName_GreatTree_Plant": {
+    "speaker": "UI",
+    "text": "Insectivorous Plant"
+  },
+  "Hypocoristic_GreatTree_Plant": {
+    "speaker": "UI",
+    "text": "Insectivorous Plant"
+  },
+  "Caption_GreatTree_Plant": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Plant": {
+    "speaker": "UI",
+    "text": "Insectivorous Plant."
+  },
+  "CharaName_GreatTree_Owl": {
+    "speaker": "UI",
+    "text": "Owl"
+  },
+  "Hypocoristic_GreatTree_Owl": {
+    "speaker": "UI",
+    "text": "Owl"
+  },
+  "Caption_GreatTree_Owl": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Owl": {
+    "speaker": "UI",
+    "text": "Owl."
+  },
+  "CharaName_GreatTree_Cockoo": {
+    "speaker": "UI",
+    "text": "Cuckoo"
+  },
+  "Hypocoristic_GreatTree_Cockoo": {
+    "speaker": "UI",
+    "text": "Cuckoo"
+  },
+  "Caption_GreatTree_Cockoo": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Cockoo": {
+    "speaker": "UI",
+    "text": "Cuckoo."
+  },
+  "CharaName_GreatTree_Crocodile": {
+    "speaker": "UI",
+    "text": "Crocodile"
+  },
+  "Hypocoristic_GreatTree_Crocodile": {
+    "speaker": "UI",
+    "text": "Crocodile"
+  },
+  "Caption_GreatTree_Crocodile": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Crocodile": {
+    "speaker": "UI",
+    "text": "Crocodile."
+  },
+  "CharaName_GreatTree_Tarantula": {
+    "speaker": "UI",
+    "text": "Tarantula"
+  },
+  "Hypocoristic_GreatTree_Tarantula": {
+    "speaker": "UI",
+    "text": "Tarantula"
+  },
+  "Caption_GreatTree_Tarantula": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Tarantula": {
+    "speaker": "UI",
+    "text": "Tarantula."
+  },
+  "CharaName_GreatTree_Toad": {
+    "speaker": "UI",
+    "text": "Frog"
+  },
+  "Hypocoristic_GreatTree_Toad": {
+    "speaker": "UI",
+    "text": "Frog"
+  },
+  "Caption_GreatTree_Toad": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Toad": {
+    "speaker": "UI",
+    "text": "Frog."
+  },
+  "CharaName_GreatTree_Dragofly": {
+    "speaker": "UI",
+    "text": "Dragonfly"
+  },
+  "Hypocoristic_GreatTree_Dragofly": {
+    "speaker": "UI",
+    "text": "Dragonfly"
+  },
+  "Caption_GreatTree_Dragofly": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Dragofly": {
+    "speaker": "UI",
+    "text": "Dragonfly."
+  },
+  "CharaName_GreatTree_Ant": {
+    "speaker": "UI",
+    "text": "Ant"
+  },
+  "Hypocoristic_GreatTree_Ant": {
+    "speaker": "UI",
+    "text": "Ant"
+  },
+  "Caption_GreatTree_Ant": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Ant": {
+    "speaker": "UI",
+    "text": "Ant."
+  },
+  "CharaName_GreatTree_Deer": {
+    "speaker": "UI",
+    "text": "Deer"
+  },
+  "Hypocoristic_GreatTree_Deer": {
+    "speaker": "UI",
+    "text": "Deer"
+  },
+  "Caption_GreatTree_Deer": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Deer": {
+    "speaker": "UI",
+    "text": "Deer."
+  },
+  "CharaName_GreatTree_Beaver": {
+    "speaker": "UI",
+    "text": "Beaver"
+  },
+  "Hypocoristic_GreatTree_Beaver": {
+    "speaker": "UI",
+    "text": "Beaver"
+  },
+  "Caption_GreatTree_Beaver": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Beaver": {
+    "speaker": "UI",
+    "text": "Beaver."
+  },
+  "CharaName_GreatTree_Snake": {
+    "speaker": "UI",
+    "text": "Snake"
+  },
+  "Hypocoristic_GreatTree_Snake": {
+    "speaker": "UI",
+    "text": "Snake"
+  },
+  "Caption_GreatTree_Snake": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_GreatTree_Snake": {
+    "speaker": "UI",
+    "text": "Snake."
+  },
+  "CharaName_Silver": {
+    "speaker": "UI",
+    "text": "Silver"
+  },
+  "Hypocoristic_Silver": {
+    "speaker": "UI",
+    "text": "Silver"
+  },
+  "Caption_Silver": {
+    "speaker": "UI",
+    "text": "　"
+  },
+  "Discription_Silver": {
+    "speaker": "UI",
+    "text": "The pirate's real name."
+  },
+  "CharaName_Bonnie_and_Formina": {
+    "speaker": "UI",
+    "text": "Bonnie and Formina"
+  },
+  "Hypocoristic_Bonnie_and_Formina": {
+    "speaker": "UI",
+    "text": "Bonnie and Formina"
+  },
+  "Caption_Bonnie_and_Formina": {
+    "speaker": "UI",
+    "text": "CCPD Officers"
+  },
+  "Discription_Bonnie_and_Formina": {
+    "speaker": "UI",
+    "text": "Officers with the Capitol City Police Department."
+  },
+  "CharaSelect_Bonnie_and_Formina": {
+    "speaker": "UI",
+    "text": "A levelheaded sharpshooter and fiery pugilist who serve as officers with the Capitol City Police Department."
+  },
+  "CharaName_GreyWitch": {
+    "speaker": "UI",
+    "text": "Grey Witch"
+  },
+  "Hypocoristic_GreyWitch": {
+    "speaker": "UI",
+    "text": "Grey Witch"
+  },
+  "Caption_GreyWitch": {
+    "speaker": "UI",
+    "text": "Grey Witch"
+  },
+  "Discription_GreyWitch": {
+    "speaker": "UI",
+    "text": "Grey Witch"
+  }
+}

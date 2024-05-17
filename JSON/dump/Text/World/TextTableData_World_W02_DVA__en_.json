@@ -1,0 +1,54 @@
+{
+  "W02_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Pulchra: The Witchdom"
+  },
+  "W02_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "On the other side of the door, you find a world called Pulchra filled with witches of many colors. Their way of life is under threat from a calamity, and you must watch over this conflict."
+  },
+  "W02_EVAR_DIVA_LASTBATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Ending the Calamity"
+  },
+  "W02_EVAR_DIVA_LASTBATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Your final task as the Watcher awaits. Once you enter the Brilliant Tower, you won't be able to turn back."
+  },
+  "W02_EVAR_DIVA_LASTBATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  },
+  "W02_EVAR_DIVA_RETURN_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Calamity Consumes All"
+  },
+  "W02_EVAR_DIVA_RETURN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Calamity has engulfed all, leaving the Witchdom of Pulchra silent as the grave. There is nothing left for you in this world."
+  },
+  "W02_EVAR_DIVA_RETURN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  },
+  "W02_SCAN_DIVA_AMYA_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Watcher's Path"
+  },
+  "W02_SCAN_DIVA_AMYA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Pulchra contains many witches for you to watch over. Areas colored red are in particular danger."
+  },
+  "W02_EVAR_DIVA_LASTBATTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "To End a Calamity"
+  },
+  "W02_EVAR_DIVA_LASTBATTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Your final task as the Watcher awaits, and once you step into the Brilliant Tower, there's no going back."
+  },
+  "W02_EVAR_DIVA_LASTBATTLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  }
+}

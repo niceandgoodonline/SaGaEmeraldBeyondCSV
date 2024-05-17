@@ -1,0 +1,1084 @@
+{
+    "OHS_WL000_A01": {
+        "label": "AxeL000_A01", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Axe", 
+        "Arts": {
+            "OHS_WLAXE_A01": {
+                "Difficulty": 8, 
+                "ProbA": 15, 
+                "ProbB": 15
+            }
+        }
+    }, 
+    "OHS_WL000_A02": {
+        "label": "AxeL000_A02", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Axe", 
+        "Arts": {
+            "OHS_WLAXE_A01": {
+                "Difficulty": 8, 
+                "ProbA": 15, 
+                "ProbB": 15
+            }
+        }
+    }, 
+    "OHS_WL000_A04": {
+        "label": "AxeL000_A04", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Axe", 
+        "Arts": {
+            "OHS_WLAXE_A01": {
+                "Difficulty": 8, 
+                "ProbA": 15, 
+                "ProbB": 15
+            }
+        }
+    }, 
+    "OHS_WLLSW_B01": {
+        "label": "LongSwordLLSW_B01", 
+        "Weapon": "OneHandedSword", 
+        "Route": "LongSword", 
+        "Arts": {
+            "OHS_WLLSW_B02": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "OHS_WLLSW_B03": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "OHS_WLLSW_B02": {
+        "label": "LongSwordLLSW_B02", 
+        "Weapon": "OneHandedSword", 
+        "Route": "LongSword", 
+        "Arts": {
+            "OHS_WLLSW_B03": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }, 
+            "OHS_WLLSW_B04": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "OHS_WLLSW_B03": {
+        "label": "LongSwordLLSW_B03", 
+        "Weapon": "OneHandedSword", 
+        "Route": "LongSword", 
+        "Arts": {
+            "OHS_WLLSW_B02": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "OHS_WLLSW_B04": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "OHS_WLRAP_A01": {
+        "label": "RapierLRAP_A01", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Rapier", 
+        "Arts": {
+            "OHS_WLRAP_A02": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "OHS_WLRAP_B01": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "OHS_WLRAP_A02": {
+        "label": "RapierLRAP_A02", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Rapier", 
+        "Arts": {
+            "OHS_WLRAP_B01": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }, 
+            "OHS_WLRAP_B02": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "OHS_WLRAP_B01": {
+        "label": "RapierLRAP_B01", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Rapier", 
+        "Arts": {
+            "OHS_WLRAP_A02": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "OHS_WLRAP_B02": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "OHS_WLDAG_A01": {
+        "label": "DaggerLDAG_A01", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Dagger", 
+        "Arts": {
+            "OHS_WLDAG_B01": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "OHS_WLDAG_B02": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "OHS_WLDAG_B01": {
+        "label": "DaggerLDAG_B01_2", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Dagger", 
+        "Arts": {
+            "OHS_WLDAG_B03": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "OHS_WLDAG_B02": {
+        "label": "DaggerLDAG_B02", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Dagger", 
+        "Arts": {
+            "OHS_WLDAG_B01": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "OHS_WLDAG_B03": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "OHS_WLAXE_A01": {
+        "label": "AxeLAXE_A01", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Axe", 
+        "Arts": {
+            "OHS_WLAXE_B02": {
+                "Difficulty": 40, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }, 
+            "OHS_WLAXE_B01": {
+                "Difficulty": 21, 
+                "ProbA": 13, 
+                "ProbB": 13
+            }
+        }
+    }, 
+    "OHS_WLAXE_B01": {
+        "label": "AxeLAXE_B01", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Axe", 
+        "Arts": {
+            "OHS_WLAXE_B02": {
+                "Difficulty": 40, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }, 
+            "OHS_WLAXE_B03": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "OHS_WLAXE_B02": {
+        "label": "AxeLAXE_B02", 
+        "Weapon": "OneHandedSword", 
+        "Route": "Axe", 
+        "Arts": {
+            "OHS_WLAXE_B03": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }, 
+            "OHS_WLAXE_B01": {
+                "Difficulty": 21, 
+                "ProbA": 13, 
+                "ProbB": 13
+            }
+        }
+    }, 
+    "OHS_WLTSW_A01": {
+        "label": "TwoSwordStyleLTSW_A01", 
+        "Weapon": "OneHandedSword", 
+        "Route": "TwoSwordStyle", 
+        "Arts": {
+            "OHS_WLTSW_B01": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }, 
+            "OHS_WLTSW_B02": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }
+        }
+    }, 
+    "OHS_WLTSW_B01": {
+        "label": "TwoSwordStyleLTSW_B01", 
+        "Weapon": "OneHandedSword", 
+        "Route": "TwoSwordStyle", 
+        "Arts": {
+            "OHS_WLTSW_B02": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }
+        }
+    }, 
+    "THS_WH000_A01": {
+        "label": "HalberdH000_A01", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "Halberd", 
+        "Arts": {
+            "THS_WHPSW_A01": {
+                "Difficulty": 6, 
+                "ProbA": 16, 
+                "ProbB": 16
+            }
+        }
+    }, 
+    "THS_WH000_A02": {
+        "label": "HalberdH000_A02", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "Halberd", 
+        "Arts": {
+            "THS_WHPSW_A01": {
+                "Difficulty": 6, 
+                "ProbA": 16, 
+                "ProbB": 16
+            }
+        }
+    }, 
+    "THS_WH000_A04": {
+        "label": "HalberdH000_A04", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "Halberd", 
+        "Arts": {
+            "THS_WHPSW_A01": {
+                "Difficulty": 6, 
+                "ProbA": 16, 
+                "ProbB": 16
+            }
+        }
+    }, 
+    "THS_WHGSW_A01": {
+        "label": "GreatSwordHGSW_A01", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "GreatSword", 
+        "Arts": {
+            "THS_WHGSW_B01": {
+                "Difficulty": 21, 
+                "ProbA": 13, 
+                "ProbB": 13
+            }, 
+            "THS_WHGSW_B02": {
+                "Difficulty": 40, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }
+        }
+    }, 
+    "THS_WHGSW_B01": {
+        "label": "GreatSwordHGSW_B01", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "GreatSword", 
+        "Arts": {
+            "THS_WHGSW_B02": {
+                "Difficulty": 40, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }, 
+            "THS_WHGSW_B03": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THS_WHGSW_B02": {
+        "label": "GreatSwordHGSW_B02", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "GreatSword", 
+        "Arts": {
+            "THS_WHGSW_B01": {
+                "Difficulty": 21, 
+                "ProbA": 13, 
+                "ProbB": 13
+            }, 
+            "THS_WHGSW_B04": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }
+        }
+    }, 
+    "THS_WHGSW_B03": {
+        "label": "GreatSwordHGSW_B03", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "GreatSword", 
+        "Arts": {
+            "THS_WHGSW_B04": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }
+        }
+    }, 
+    "THS_WHGSW_B04": {
+        "label": "GreatSwordHGSW_B04", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "GreatSword", 
+        "Arts": {
+            "THS_WHGSW_B03": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THS_WHSSW_A01": {
+        "label": "SmuraiSwordHSSW_A01", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "SmuraiSword", 
+        "Arts": {
+            "THS_WHSSW_B03": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }, 
+            "THS_WHSSW_B02": {
+                "Difficulty": 40, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }
+        }
+    }, 
+    "THS_WHSSW_B02": {
+        "label": "SmuraiSwordHSSW_B02", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "SmuraiSword", 
+        "Arts": {
+            "THS_WHSSW_B04": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }, 
+            "THS_WHSSW_B01": {
+                "Difficulty": 24, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }
+        }
+    }, 
+    "THS_WHSSW_B03": {
+        "label": "SmuraiSwordHSSW_B03", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "SmuraiSword", 
+        "Arts": {
+            "THS_WHSSW_B04": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }, 
+            "THS_WHSSW_B01": {
+                "Difficulty": 24, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }
+        }
+    }, 
+    "THS_WHPSW_A01": {
+        "label": "HalberdHPSW_A01", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "Halberd", 
+        "Arts": {
+            "THS_WHPSW_B01": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "THS_WHPSW_B02": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "THS_WHPSW_B01": {
+        "label": "HalberdHPSW_B01", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "Halberd", 
+        "Arts": {
+            "THS_WHPSW_B02": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }, 
+            "THS_WHPSW_B03": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }, 
+            "THS_WHPSW_B04": {
+                "Difficulty": 95, 
+                "ProbA": 8, 
+                "ProbB": 8
+            }
+        }
+    }, 
+    "THS_WHPSW_B02": {
+        "label": "HalberdHPSW_B02", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "Halberd", 
+        "Arts": {
+            "THS_WHPSW_B01": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "THS_WHPSW_B04": {
+                "Difficulty": 95, 
+                "ProbA": 8, 
+                "ProbB": 8
+            }, 
+            "THS_WHPSW_B03": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "THS_WHPSW_B03": {
+        "label": "HalberdHPSW_B03", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "Halberd", 
+        "Arts": {
+            "THS_WHPSW_B04": {
+                "Difficulty": 95, 
+                "ProbA": 8, 
+                "ProbB": 8
+            }
+        }
+    }, 
+    "THS_WHPSW_B04": {
+        "label": "HalberdHPSW_B04", 
+        "Weapon": "TwoHandedSword", 
+        "Route": "Halberd", 
+        "Arts": {
+            "THS_WHPSW_B03": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "OHG_GL000_A01": {
+        "label": "OneHandedGunL000_A01_2", 
+        "Weapon": "OneHandedGun", 
+        "Route": "OneHandedGun", 
+        "Arts": {
+            "OHG_GL000_A04": {
+                "Difficulty": 7, 
+                "ProbA": 16, 
+                "ProbB": 16
+            }
+        }
+    }, 
+    "OHG_GL000_A02": {
+        "label": "OneHandedGunL000_A02_2", 
+        "Weapon": "OneHandedGun", 
+        "Route": "OneHandedGun", 
+        "Arts": {
+            "OHG_GL000_B01": {
+                "Difficulty": 19, 
+                "ProbA": 15, 
+                "ProbB": 15
+            }
+        }
+    }, 
+    "OHG_GL000_A04": {
+        "label": "OneHandedGunL000_A04_2", 
+        "Weapon": "OneHandedGun", 
+        "Route": "OneHandedGun", 
+        "Arts": {
+            "OHG_GL000_B01": {
+                "Difficulty": 19, 
+                "ProbA": 15, 
+                "ProbB": 15
+            }
+        }
+    }, 
+    "OHG_GL000_A05": {
+        "label": "OneHandedGunL000_A05_2", 
+        "Weapon": "OneHandedGun", 
+        "Route": "OneHandedGun", 
+        "Arts": {
+            "OHG_GL000_B04": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }
+        }
+    }, 
+    "OHG_GL000_B01": {
+        "label": "OneHandedGunL000_B01", 
+        "Weapon": "OneHandedGun", 
+        "Route": "OneHandedGun", 
+        "Arts": {
+            "OHG_GL000_A05": {
+                "Difficulty": 7, 
+                "ProbA": 16, 
+                "ProbB": 16
+            }, 
+            "OHG_GL000_B04": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }
+        }
+    }, 
+    "OHG_GL000_B04": {
+        "label": "OneHandedGunL000_B04", 
+        "Weapon": "OneHandedGun", 
+        "Route": "OneHandedGun", 
+        "Arts": {
+            "OHG_GL000_B05": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "OHG_GL000_B06": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "OHG_GL000_B05": {
+        "label": "OneHandedGunL000_B05", 
+        "Weapon": "OneHandedGun", 
+        "Route": "OneHandedGun", 
+        "Arts": {
+            "OHG_GL000_B06": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }, 
+            "OHG_GL000_B08": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "OHG_GL000_B06": {
+        "label": "OneHandedGunL000_B06", 
+        "Weapon": "OneHandedGun", 
+        "Route": "OneHandedGun", 
+        "Arts": {
+            "OHG_GL000_B05": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "OHG_GL000_B08": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "OHG_GLTWO_A01": {
+        "label": "DualWieldLTWO_A01", 
+        "Weapon": "OneHandedGun", 
+        "Route": "DualWield", 
+        "Arts": {
+            "OHG_GLTWO_A02": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }, 
+            "OHG_GLTWO_B01": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }
+        }
+    }, 
+    "OHG_GLTWO_A02": {
+        "label": "DualWieldLTWO_A02", 
+        "Weapon": "OneHandedGun", 
+        "Route": "DualWield", 
+        "Arts": {
+            "OHG_GLTWO_B01": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }
+        }
+    }, 
+    "OHG_SG000_B01": {
+        "label": "GunAndSwordG000_B01", 
+        "Weapon": "OneHandedGun", 
+        "Route": "GunAndSword", 
+        "Arts": {
+            "OHG_SG000_B02": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }, 
+            "OHG_SG000_B03": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }
+        }
+    }, 
+    "OHG_SG000_B02": {
+        "label": "GunAndSwordG000_B02", 
+        "Weapon": "OneHandedGun", 
+        "Route": "GunAndSword", 
+        "Arts": {
+            "OHG_SG000_B03": {
+                "Difficulty": 97, 
+                "ProbA": 7, 
+                "ProbB": 7
+            }
+        }
+    }, 
+    "THG_GH000_A01": {
+        "label": "GrenadeLauncherH000_A01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "GrenadeLauncher", 
+        "Arts": {
+            "THG_GHCHE_A01": {
+                "Difficulty": 11, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "THG_GHCHE_B01": {
+                "Difficulty": 24, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "THG_GH000_A02": {
+        "label": "GrenadeLauncherH000_A02", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "GrenadeLauncher", 
+        "Arts": {
+            "THG_GHCHE_A01": {
+                "Difficulty": 11, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "THG_GHCHE_B01": {
+                "Difficulty": 24, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "THG_GH000_A03": {
+        "label": "GrenadeLauncherH000_A03", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "GrenadeLauncher", 
+        "Arts": {
+            "THG_GHCHE_A01": {
+                "Difficulty": 11, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "THG_GHCHE_B01": {
+                "Difficulty": 24, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "THG_GH000_A04": {
+        "label": "GrenadeLauncherH000_A04", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "GrenadeLauncher", 
+        "Arts": {
+            "THG_GHCHE_A01": {
+                "Difficulty": 11, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "THG_GHCHE_B01": {
+                "Difficulty": 24, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "THG_GHMAC_A01": {
+        "label": "MachineGunHMAC_A01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "MachineGun", 
+        "Arts": {
+            "THG_GHMAC_B01": {
+                "Difficulty": 24, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }, 
+            "THG_GHMAC_B02": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THG_GHMAC_B01": {
+        "label": "MachineGunHMAC_B01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "MachineGun", 
+        "Arts": {
+            "THG_GHMAC_B02": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THG_GHFLA_A01": {
+        "label": "FlamethrowerHFLA_A01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "Flamethrower", 
+        "Arts": {
+            "THG_GHFLA_B01": {
+                "Difficulty": 24, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }, 
+            "THG_GHFLA_B02": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THG_GHFLA_B01": {
+        "label": "FlamethrowerHFLA_B01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "Flamethrower", 
+        "Arts": {
+            "THG_GHFLA_B02": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THG_GHELE_A01": {
+        "label": "TaserGunHELE_A01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "TaserGun", 
+        "Arts": {
+            "THG_GHELE_A02": {
+                "Difficulty": 24, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }, 
+            "THG_GHELE_B01": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THG_GHELE_A02": {
+        "label": "TaserGunHELE_A02", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "TaserGun", 
+        "Arts": {
+            "THG_GHELE_B01": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THG_GHBOM_A01": {
+        "label": "BazookaHBOM_A01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "Bazooka", 
+        "Arts": {
+            "THG_GHBOM_B01": {
+                "Difficulty": 24, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }, 
+            "THG_GHBOM_B02": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THG_GHBOM_B01": {
+        "label": "BazookaHBOM_B01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "Bazooka", 
+        "Arts": {
+            "THG_GHBOM_B02": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "THG_GHCHE_A01": {
+        "label": "GrenadeLauncherHCHE_A01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "GrenadeLauncher", 
+        "Arts": {
+            "THG_GHCHE_B01": {
+                "Difficulty": 24, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }, 
+            "THG_GHCHE_B02": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "THG_GHCHE_B01": {
+        "label": "GrenadeLauncherHCHE_B01", 
+        "Weapon": "TwoHandedGun", 
+        "Route": "GrenadeLauncher", 
+        "Arts": {
+            "THG_GHCHE_B02": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "MAR_MA000_A01": {
+        "label": "PunchArtsA000_A01_2", 
+        "Weapon": "MartialArts", 
+        "Route": "PunchArts", 
+        "Arts": {
+            "MAR_MA000_A04": {
+                "Difficulty": 1, 
+                "ProbA": 17, 
+                "ProbB": 17
+            }
+        }
+    }, 
+    "MAR_MA000_A07": {
+        "label": "PunchArtsA000_A07", 
+        "Weapon": "MartialArts", 
+        "Route": "PunchArts", 
+        "Arts": {
+            "MAR_MA000_B03": {
+                "Difficulty": 20, 
+                "ProbA": 14, 
+                "ProbB": 14
+            }, 
+            "MAR_MA000_B06": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "MAR_MA000_B03": {
+        "label": "PunchArtsA000_B03", 
+        "Weapon": "MartialArts", 
+        "Route": "PunchArts", 
+        "Arts": {
+            "MAR_MA000_A07": {
+                "Difficulty": 7, 
+                "ProbA": 16, 
+                "ProbB": 16
+            }, 
+            "MAR_MA000_B06": {
+                "Difficulty": 39, 
+                "ProbA": 12, 
+                "ProbB": 12
+            }
+        }
+    }, 
+    "MAR_MA000_B06": {
+        "label": "PunchArtsA000_B06", 
+        "Weapon": "MartialArts", 
+        "Route": "PunchArts", 
+        "Arts": {
+            "MAR_MA000_B08": {
+                "Difficulty": 64, 
+                "ProbA": 10, 
+                "ProbB": 10
+            }
+        }
+    }, 
+    "MAR_MA000_A02": {
+        "label": "KickArtsA000_A02", 
+        "Weapon": "MartialArts", 
+        "Route": "KickArts", 
+        "Arts": {
+            "MAR_MA000_A08": {
+                "Difficulty": 8, 
+                "ProbA": 15, 
+                "ProbB": 15
+            }, 
+            "MAR_MA000_B01": {
+                "Difficulty": 21, 
+                "ProbA": 13, 
+                "ProbB": 13
+            }
+        }
+    }, 
+    "MAR_MA000_A08": {
+        "label": "KickArtsA000_A08", 
+        "Weapon": "MartialArts", 
+        "Route": "KickArts", 
+        "Arts": {
+            "MAR_MA000_B01": {
+                "Difficulty": 21, 
+                "ProbA": 13, 
+                "ProbB": 13
+            }, 
+            "MAR_MA000_B04": {
+                "Difficulty": 40, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }
+        }
+    }, 
+    "MAR_MA000_B01": {
+        "label": "KickArtsA000_B01", 
+        "Weapon": "MartialArts", 
+        "Route": "KickArts", 
+        "Arts": {
+            "MAR_MA000_A08": {
+                "Difficulty": 8, 
+                "ProbA": 15, 
+                "ProbB": 15
+            }, 
+            "MAR_MA000_B04": {
+                "Difficulty": 40, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }
+        }
+    }, 
+    "MAR_MA000_B04": {
+        "label": "KickArtsA000_B04", 
+        "Weapon": "MartialArts", 
+        "Route": "KickArts", 
+        "Arts": {
+            "MAR_MA000_B07": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }, 
+    "MAR_MA000_A04": {
+        "label": "StrikeArtsA000_A04", 
+        "Weapon": "MartialArts", 
+        "Route": "StrikeArts", 
+        "Arts": {
+            "MAR_MA000_A06": {
+                "Difficulty": 8, 
+                "ProbA": 15, 
+                "ProbB": 15
+            }, 
+            "MAR_MA000_A09": {
+                "Difficulty": 21, 
+                "ProbA": 13, 
+                "ProbB": 13
+            }
+        }
+    }, 
+    "MAR_MA000_A06": {
+        "label": "StrikeArtsA000_A06", 
+        "Weapon": "MartialArts", 
+        "Route": "StrikeArts", 
+        "Arts": {
+            "MAR_MA000_A09": {
+                "Difficulty": 21, 
+                "ProbA": 13, 
+                "ProbB": 13
+            }, 
+            "MAR_MA000_B02": {
+                "Difficulty": 40, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }
+        }
+    }, 
+    "MAR_MA000_A09": {
+        "label": "StrikeArtsA000_A09", 
+        "Weapon": "MartialArts", 
+        "Route": "StrikeArts", 
+        "Arts": {
+            "MAR_MA000_A06": {
+                "Difficulty": 8, 
+                "ProbA": 15, 
+                "ProbB": 15
+            }, 
+            "MAR_MA000_B02": {
+                "Difficulty": 40, 
+                "ProbA": 11, 
+                "ProbB": 11
+            }
+        }
+    }, 
+    "MAR_MA000_B02": {
+        "label": "StrikeArtsA000_B02", 
+        "Weapon": "MartialArts", 
+        "Route": "StrikeArts", 
+        "Arts": {
+            "MAR_MA000_B09": {
+                "Difficulty": 66, 
+                "ProbA": 9, 
+                "ProbB": 9
+            }
+        }
+    }
+}

@@ -1,0 +1,382 @@
+{
+  "System_SLED_001_C01": {
+    "speaker": "UI",
+    "text": "Save"
+  },
+  "System_SLED_001_C02": {
+    "speaker": "UI",
+    "text": "Load"
+  },
+  "System_SLED_001_C03": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "System_SLED_001_C04": {
+    "speaker": "UI",
+    "text": "OK"
+  },
+  "System_SLED_001_C05": {
+    "speaker": "UI",
+    "text": "Continue Game"
+  },
+  "System_SLED_Cap01": {
+    "speaker": "UI",
+    "text": "Save Failed"
+  },
+  "System_SLED_Cap02": {
+    "speaker": "UI",
+    "text": "Load Failed"
+  },
+  "System_SLED_Cap03": {
+    "speaker": "UI",
+    "text": "Save Confirmation"
+  },
+  "System_SLED_001": {
+    "speaker": "UI",
+    "text": "The game was unable to save successfully.\nTry again?"
+  },
+  "System_SLED_002": {
+    "speaker": "UI",
+    "text": "The game was unable to load successfully.\nTry again?"
+  },
+  "System_SLED_003": {
+    "speaker": "UI",
+    "text": "The game was unable to load successfully.\nTry again?\n\nIf you choose to cancel, the game will create new system data instead."
+  },
+  "System_SLED_004": {
+    "speaker": "UI",
+    "text": "The game was unable to save successfully.\nAttempting to save again..."
+  },
+  "System_SLED_005": {
+    "speaker": "UI",
+    "text": "The game was unable to save successfully.\nTry again?\n\nIf you choose to cancel, the game will resume without saving."
+  },
+  "System_SLED_006": {
+    "speaker": "UI",
+    "text": "Are you sure you want to continue the game without saving?\n\nOr would you rather save your data?"
+  },
+  "System_SLED_007": {
+    "speaker": "UI",
+    "text": "The game was unable to save successfully.\nGame completion data will not be recorded if this process is unsuccessful.\n\nAttempt to save again? "
+  },
+  "System_SLED_008": {
+    "speaker": "UI",
+    "text": "Are you sure you want to continue the game without saving? Game completion data will not be saved. \n\nOr would you rather save your data?"
+  },
+  "System_CL_Cap01": {
+    "speaker": "UI",
+    "text": "Cloud Save Data"
+  },
+  "System_CL01": {
+    "speaker": "UI",
+    "text": "You can back up save data from your device to the cloud,\nor copy save data from the cloud to your device.\n\nDo you want to view your cloud save data?"
+  },
+  "System_CL_Btn01": {
+    "speaker": "UI",
+    "text": "View"
+  },
+  "System_CL_Btn02": {
+    "speaker": "UI",
+    "text": "Cancel and Return to Title Screen"
+  },
+  "System_CL_Cap02": {
+    "speaker": "UI",
+    "text": "Cloud Save Data Management"
+  },
+  "System_CL02": {
+    "speaker": "UI",
+    "text": "Save data from <arg 0> is backed up on the cloud.\nWhat will you do with this data?"
+  },
+  "System_CL_Btn03": {
+    "speaker": "UI",
+    "text": "Back Up to Cloud"
+  },
+  "System_CL_Btn04": {
+    "speaker": "UI",
+    "text": "Restore to Device"
+  },
+  "System_CL_Cap03": {
+    "speaker": "UI",
+    "text": "Backup Confirmation"
+  },
+  "System_CL03": {
+    "speaker": "UI",
+    "text": "Back up your device's save data to the cloud?"
+  },
+  "System_CL_Btn05": {
+    "speaker": "UI",
+    "text": "Create Backup"
+  },
+  "System_CL_Cap04": {
+    "speaker": "UI",
+    "text": "Restoration"
+  },
+  "System_CL04": {
+    "speaker": "UI",
+    "text": "Restore the save data on the cloud to your device?"
+  },
+  "System_CL_Btn06": {
+    "speaker": "UI",
+    "text": "Restore to Device"
+  },
+  "System_CL_Cap05": {
+    "speaker": "UI",
+    "text": "Backup in Progress..."
+  },
+  "System_CL05": {
+    "speaker": "UI",
+    "text": "Save data back up in progress."
+  },
+  "System_CL_Cap06": {
+    "speaker": "UI",
+    "text": "Restoration in Progress..."
+  },
+  "System_CL06": {
+    "speaker": "UI",
+    "text": "Save data restoration in progress."
+  },
+  "System_CL_Cap07": {
+    "speaker": "UI",
+    "text": "Backup Creation Complete!"
+  },
+  "System_CL07": {
+    "speaker": "UI",
+    "text": "The backup creation process is complete."
+  },
+  "System_CL_Cap08": {
+    "speaker": "UI",
+    "text": "Restoration Complete!"
+  },
+  "System_CL08": {
+    "speaker": "UI",
+    "text": "The save data restoration process is complete."
+  },
+  "System_CL_Cap09": {
+    "speaker": "UI",
+    "text": "Create New Backup"
+  },
+  "System_CL09": {
+    "speaker": "UI",
+    "text": "No save data could be found in the cloud.\nDo you want to back up new save data?"
+  },
+  "System_CL_Cap10": {
+    "speaker": "UI",
+    "text": "Save Data Corrupted"
+  },
+  "System_CL10": {
+    "speaker": "UI",
+    "text": "The save data in the cloud is corrupt.\nDo you want to back up new save data?"
+  },
+  "System_CL_Cap11": {
+    "speaker": "UI",
+    "text": "Backup Failed"
+  },
+  "System_CL11": {
+    "speaker": "UI",
+    "text": "Failed to prepare the backup.\nPlease check your device's remaining storage space."
+  },
+  "System_CL_Cap12": {
+    "speaker": "UI",
+    "text": "Restoration Failed"
+  },
+  "System_CL12": {
+    "speaker": "UI",
+    "text": "Failed to unpack save data.\nPlease check your device's remaining storage space."
+  },
+  "System_CL_Cap13": {
+    "speaker": "UI",
+    "text": "Communication Failed"
+  },
+  "System_CL13": {
+    "speaker": "UI",
+    "text": "Failed to communicate with the cloud.\nPlease check your connection."
+  },
+  "System_CL_Cap14": {
+    "speaker": "UI",
+    "text": "Backup Failed"
+  },
+  "System_CL14": {
+    "speaker": "UI",
+    "text": "Failed to back up save data to the cloud.\nPlease check your connection and remaining cloud storage space."
+  },
+  "System_CL_Cap15": {
+    "speaker": "UI",
+    "text": "Restoration Failed"
+  },
+  "System_CL15": {
+    "speaker": "UI",
+    "text": "Failed to check the save data on the cloud.\nPlease check your connection and remaining cloud storage space."
+  },
+  "System_CL_Cap16": {
+    "speaker": "UI",
+    "text": "iCloud"
+  },
+  "System_CL16": {
+    "speaker": "UI",
+    "text": "iCloud has been disabled and cannot be used.\nPlease check your iCloud settings."
+  },
+  "System_CL17": {
+    "speaker": "UI",
+    "text": "Accessing the cloud requires granting this game access to your contacts so your account information can be accessed."
+  },
+  "System_CL_Btn07": {
+    "speaker": "UI",
+    "text": "Next"
+  },
+  "System_CL18": {
+    "speaker": "UI",
+    "text": "You haven't granted this game access to your contacts. Please open the game's settings, tap permissions, and allow access to contacts."
+  },
+  "System_CL_Btn08": {
+    "speaker": "UI",
+    "text": "Open Settings"
+  },
+  "System_CL_Cap19": {
+    "speaker": "UI",
+    "text": "Access Denied"
+  },
+  "System_CL19": {
+    "speaker": "UI",
+    "text": "Failed to access the cloud."
+  },
+  "System_SLED_Cap04": {
+    "speaker": "UI",
+    "text": "Deletion Failed"
+  },
+  "System_SLED_009": {
+    "speaker": "UI",
+    "text": "Deletion was unsuccessful.\nTry again?"
+  },
+  "System_SLED_001_C06": {
+    "speaker": "UI",
+    "text": "Delete"
+  },
+  "System_Inheriting_Cap01": {
+    "speaker": "UI",
+    "text": "Transfer"
+  },
+  "System_Inheriting01": {
+    "speaker": "UI",
+    "text": "Saved data for the PlayStation®<voffset=0.2em>4</voffset> version of SaGa Emerald Beyond\nexists in your PlayStation®<voffset=0.2em>5</voffset> console storage. Would you like to convert\nthis data so it can be used by the PlayStation®<voffset=0.2em>5</voffset> version of the game?\n\n<#FF8686>All data including options and settings will be converted.\nTrophy progress will not be carried over, but you can earn\ntrophies once more by meeting their conditions again.\nThe saved data for the PlayStation®<voffset=0.2em>4</voffset> version of the game\nwill be kept intact and remain available for use.</color>"
+  },
+  "System_Inheriting_Btn01": {
+    "speaker": "UI",
+    "text": "Transfer"
+  },
+  "System_Inheriting_Cap02": {
+    "speaker": "UI",
+    "text": "Transfer in Progress..."
+  },
+  "System_Inheriting02": {
+    "speaker": "UI",
+    "text": "Saved data transfer in progress.\nPlease don't turn off the power."
+  },
+  "System_Inheriting_Cap03": {
+    "speaker": "UI",
+    "text": "Transfer Complete"
+  },
+  "System_Inheriting03": {
+    "speaker": "UI",
+    "text": "Saved data transfer complete!"
+  },
+  "System_Inheriting_Cap04": {
+    "speaker": "UI",
+    "text": "Transfer Failed"
+  },
+  "System_Inheriting04": {
+    "speaker": "UI",
+    "text": "Failed to carry over saved data.\n\nTry once more to convert your PlayStation®<voffset=0.2em>4</voffset> version of SaGa Emerald Beyond\ndata so it can be used in the PlayStation®<voffset=0.2em>5</voffset> version?\n<#FF8686>All data including options and settings will be converted.\nTrophy progress will not be carried over, but you can earn\ntrophies once more by meeting their conditions again.\nThe saved data for the PlayStation®<voffset=0.2em>4</voffset> version of the game\nwill be kept intact and remain available for use.</color>"
+  },
+  "System_SLED_010": {
+    "speaker": "UI",
+    "text": "You have reached your maximum number of allowed save files.\nPlease free up some space by deleting unnecessary saved data.\nTry accessing the <b>Play Using Other Data</b> menu from the\ntitle screen and deleting unnecessary saved data from there."
+  },
+  "System_SLED_Cap11": {
+    "speaker": "UI",
+    "text": "Autosave Failed"
+  },
+  "System_SLED_011": {
+    "speaker": "UI",
+    "text": "Failed to save game data.\nThe game will continue without saving."
+  },
+  "System_SLED_Cap12": {
+    "speaker": "UI",
+    "text": "Saved Data Corrupted"
+  },
+  "System_SLED_012": {
+    "speaker": "UI",
+    "text": "The saved data was corrupt and has been deleted."
+  },
+  "System_SLED_Cap13": {
+    "speaker": "UI",
+    "text": "Saved Data Limit"
+  },
+  "System_SLED_013": {
+    "speaker": "UI",
+    "text": "You have reached your maximum number of allowed save files.\nPlease free up some space by deleting unnecessary saved data.\nTry accessing the <b>Play Using Other Data</b> menu from the\ntitle screen and deleting unnecessary saved data from there."
+  },
+  "System_SLED_014": {
+    "speaker": "UI",
+    "text": "Failed to load."
+  },
+  "System_Demo_Inheriting_Cap01": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Data Carry Over"
+  },
+  "System_Demo_Inheriting01": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Saved data from the demo version of SaGa Emerald Beyond\nexists in your console storage. Would you like to carry this\ndata over to the full version of SaGa Emerald Beyond?\n\n<#FF8686>All data including options and settings will be carried over.\nThe saved data for the demo version of the game\nwill be kept intact and remain available for use.</color>"
+  },
+  "System_Demo_Inheriting_Btn01": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Carry Over"
+  },
+  "System_Demo_Inheriting_Cap02": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Carrying over..."
+  },
+  "System_Demo_Inheriting02": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Data is currently being carried over.\nDo not close the game."
+  },
+  "System_Demo_Inheriting_Cap03": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Carry Over Complete"
+  },
+  "System_Demo_Inheriting03": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Carrying over successful!"
+  },
+  "System_Demo_Inheriting_Cap04": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Carry Over Failed"
+  },
+  "System_Demo_Inheriting04": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Failed to carry over saved data.\n\nWould you like to try to carry over your data from the\ndemo version of SaGa Emerald Beyond once more?\n\n<#FF8686>All data including options and settings will be carried over.\nThe saved data for the demo version of the game\nwill be kept intact and remain available for use.</color>"
+  },
+  "System_Demo_Inheriting05": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Saved data from the demo version of SaGa Emerald Beyond\non PlayStation®<voffset=0.2em>4</voffset> exists in your PlayStation®<voffset=0.2em>5</voffset> console storage.\nWould you like to carry this PlayStation®<voffset=0.2em>4</voffset> data over to the full\nversion of SaGa Emerald Beyond on PlayStation®<voffset=0.2em>5</voffset>?\n\n<#FF8686>All data including options and settings will be carried over.\nThe saved data for the PlayStation®<voffset=0.2em>4</voffset> version of the game\nwill be kept intact and remain available for use.</color>"
+  },
+  "System_Demo_Inheriting06": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Failed to carry over saved data.\n\nWould you like to try to carry over your PlayStation®<voffset=0.2em>4</voffset> data from\nthe demo version of SaGa Emerald Beyond once more?\n\n<#FF8686>All data including options and settings will be carried over.\nThe saved data for the PlayStation®<voffset=0.2em>4</voffset> version of the game\nwill be kept intact and remain available for use.</color>"
+  },
+  "System_Demo_Inheriting09": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Saved data from the demo version of SaGa Emerald Beyond\nexists in your console storage. Would you like to carry this\ndata over to the full version of SaGa Emerald Beyond?\n\n<#FF8686>All data including options and settings will be carried over.\nThe saved data for the demo version of the game\nwill be kept intact and remain available for use.</color>"
+  },
+  "System_Demo_Inheriting10": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Failed to carry over saved data.\n\nWould you like to try to carry over your data from the\ndemo version of SaGa Emerald Beyond once more?\n\n<#FF8686>All data including options and settings will be carried over.\nThe saved data for the demo version of the game\nwill be kept intact and remain available for use.</color>"
+  },
+  "System_Demo_Inheriting11": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Saved data from the demo version of SaGa Emerald Beyond\nexists in your system memory. Would you like to carry this\ndata over to the full version of SaGa Emerald Beyond?\n\n<#FF8686>All data including options and settings will be carried over.\nThe saved data for the demo version of the game\nwill be kept intact and remain available for use.</color>"
+  },
+  "System_Demo_Inheriting12": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Failed to carry over save data.\n\nWould you like to try to carry over your data from the\ndemo version of SaGa Emerald Beyond once more?\n\n<#FF8686>All data including options and settings will be carried over.\nThe save data for the demo version of the game\nwill be kept intact and remain available for use.</color>"
+  }
+}

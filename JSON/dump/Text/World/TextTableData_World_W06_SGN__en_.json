@@ -1,0 +1,34 @@
+{
+  "W06_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Invading the Kosmos"
+  },
+  "W06_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Junction connected you to a twisty, squirmy world. Will you find anyone captivating here?"
+  },
+  "W06_EVAR_SIUG_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Return via the Expulsitory"
+  },
+  "W06_EVAR_SIUG_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You witnessed captivating darkness in this world, but the time has come to leave."
+  },
+  "W06_EVAR_SIUG_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave the Kosmos"
+  },
+  "W06_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Benignancies in Thymus"
+  },
+  "W06_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this the place you are meant to receive your gift from the Kosmos?"
+  },
+  "W06_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Observe"
+  }
+}

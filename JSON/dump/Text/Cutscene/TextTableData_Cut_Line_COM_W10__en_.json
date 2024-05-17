@@ -1,0 +1,974 @@
+{
+  "SUB_W10_FUNC_COMM_AREA_JOIN_000_CUT_000": {
+    "speaker": "UI",
+    "text": "Platform Movement Control Console"
+  },
+  "SUB_W10_FUNC_COMM_AREA_JOIN_000_CUT_001": {
+    "speaker": "UI",
+    "text": "Adjust Platform Positions:"
+  },
+  "SUB_W10_FUNC_COMM_AREA_JOIN_000_CUT_100": {
+    "speaker": "UI",
+    "text": "Move to ●"
+  },
+  "SUB_W10_FUNC_COMM_AREA_JOIN_000_CUT_101": {
+    "speaker": "UI",
+    "text": "Move to ■"
+  },
+  "SUB_W10_FUNC_COMM_AREA_JOIN_000_CUT_102": {
+    "speaker": "UI",
+    "text": "Move to ▲"
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_000_0150": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_000_0160": {
+    "speaker": "UI",
+    "text": "Control Switch"
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_000_0170": {
+    "speaker": "UI",
+    "text": "Don't do anything."
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_000_0180": {
+    "speaker": "UI",
+    "text": "Go to lower level."
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_000_0190": {
+    "speaker": "UI",
+    "text": "It's not working at the moment."
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_010_0100": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_010_0110": {
+    "speaker": "UI",
+    "text": "Control Switch"
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_010_0120": {
+    "speaker": "UI",
+    "text": "Don't do anything."
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_010_0130": {
+    "speaker": "UI",
+    "text": "Go to upper level."
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_010_0140": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Yellow Section"
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_010_0150": {
+    "speaker": "UI",
+    "text": "Connect Yellow Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_010_0160": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_ELV_NAIN_010_0170": {
+    "speaker": "UI",
+    "text": "Move to abandoned zone."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_01_KYE_000_0240": {
+    "speaker": "UI",
+    "text": "Moving Platform"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_01_KYE_000_0250": {
+    "speaker": "UI",
+    "text": "Control Switch"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_01_KYE_000_0260": {
+    "speaker": "UI",
+    "text": "Return to initial position."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_01_KYE_000_0270": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Yellow Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_01_KYE_000_0280": {
+    "speaker": "UI",
+    "text": "Connect Yellow Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_01_KYE_000_0290": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_01_KYE_000_0300": {
+    "speaker": "UI",
+    "text": "Move to abandoned zone."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_02_KYE_000_0130": {
+    "speaker": "UI",
+    "text": "Moving Platform"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_02_KYE_000_0140": {
+    "speaker": "UI",
+    "text": "Control Switch"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_02_KYE_000_0150": {
+    "speaker": "UI",
+    "text": "Return to initial position."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_02_KYE_000_0160": {
+    "speaker": "UI",
+    "text": "Connect Yellow Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_02_KYE_000_0170": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_02_KYE_000_0180": {
+    "speaker": "UI",
+    "text": "Move to abandoned zone."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_04_KYE_000_0170": {
+    "speaker": "UI",
+    "text": "Moving Platform"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_04_KYE_000_0180": {
+    "speaker": "UI",
+    "text": "Control Switch"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_04_KYE_000_0190": {
+    "speaker": "UI",
+    "text": "Return to initial position."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_04_KYE_000_0200": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Yellow Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_04_KYE_000_0210": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_04_KYE_000_0220": {
+    "speaker": "UI",
+    "text": "Move to abandoned zone."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_05_KYE_000_0140": {
+    "speaker": "UI",
+    "text": "Moving Platform"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_05_KYE_000_0150": {
+    "speaker": "UI",
+    "text": "Control Switch"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_05_KYE_000_0160": {
+    "speaker": "UI",
+    "text": "Return to initial position."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_05_KYE_000_0170": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Yellow Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_05_KYE_000_0180": {
+    "speaker": "UI",
+    "text": "Connect Yellow Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_05_KYE_000_0190": {
+    "speaker": "UI",
+    "text": "Move to abandoned zone."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_06_KYE_000_0140": {
+    "speaker": "UI",
+    "text": "Moving Platform"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_06_KYE_000_0150": {
+    "speaker": "UI",
+    "text": "Control Switch"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_06_KYE_000_0160": {
+    "speaker": "UI",
+    "text": "Return to initial position."
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_06_KYE_000_0170": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Yellow Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_06_KYE_000_0180": {
+    "speaker": "UI",
+    "text": "Connect Yellow Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_EV_ITA_06_KYE_000_0190": {
+    "speaker": "UI",
+    "text": "Connect Green Section ←→ Red Section"
+  },
+  "SUB_W10_FUNC_COMM_KYE_CUT_000_020": {
+    "speaker": "UI",
+    "text": "Central Lift\n'Green Section ←→ Yellow Section'\nconnection is now available on the lower level."
+  },
+  "SUB_W10_FUNC_COMM_KYE_CUT_000_030": {
+    "speaker": "UI",
+    "text": "Central Lift\n'Yellow Section ←→ Red Section'\nconnection is now available on the lower level."
+  },
+  "SUB_W10_FUNC_COMM_KYE_CUT_000_040": {
+    "speaker": "UI",
+    "text": "Central Lift\n'Green Section ←→ Red Section'\nconnection is now available on the lower level."
+  },
+  "SUB_W10_FUNC_COMM_KYE_CUT_000_050": {
+    "speaker": "UI",
+    "text": "Central Lift\nYou can now take the moving\nplatform to the abandoned zone."
+  },
+  "SUB_W10_COMM_LIF_ALERT_01_001_CUT_000": {
+    "speaker": "UI",
+    "text": "An alarm has sounded. It seems\nto be emitting high-frequency\nwaves for repelling vermin."
+  },
+  "SUB_W10_COMM_LIF_ALERT_01_001_CUT_010": {
+    "speaker": "UI",
+    "text": "These seem to be high-frequency\nwaves for repelling vermin."
+  },
+  "SUB_W10_COMM_LIF_ALERT_01_001_CUT_020": {
+    "speaker": "UI",
+    "text": "This could probably cancel out\nthe screams of a monophid."
+  },
+  "SUB_W10_COMM_LIF_ALERT_01_100_CUT_000": {
+    "speaker": "UI",
+    "text": "Alarm Device"
+  },
+  "SUB_W10_COMM_LIF_ALERT_01_100_CUT_010": {
+    "speaker": "UI",
+    "text": "The alarm has stopped."
+  },
+  "SUB_W10_COMM_LIF_ALERT_01_100_CUT_020": {
+    "speaker": "UI",
+    "text": "The high-frequency waves have stopped."
+  },
+  "SUB_W10_COMM_LIF_ALERT_01_200_CUT_000": {
+    "speaker": "UI",
+    "text": "The alarm is already blaring,\nemitting high-frequency waves."
+  },
+  "SUB_W10_COMM_LIF_ALERT_01_200_CUT_010": {
+    "speaker": "UI",
+    "text": "It's emitting high-frequency waves."
+  },
+  "SUB_W10_COMM_LIF_ALERT_01_200_CUT_020": {
+    "speaker": "UI",
+    "text": "There's no need to operate this now."
+  },
+  "SUB_W10_EVAR_COMM_MAG_440_080_CUT_000": {
+    "speaker": "UI",
+    "text": "Electromagnetic Gate Control Panel"
+  },
+  "SUB_W10_EVAR_COMM_MAG_440_080_CUT_010": {
+    "speaker": "UI",
+    "text": "You can use this to deactivate\nthe electromagnetic gates."
+  },
+  "SUB_W10_EVAR_COMM_MAG_440_080_CUT_020": {
+    "speaker": "UI",
+    "text": "Use it."
+  },
+  "SUB_W10_EVAR_COMM_MAG_440_080_CUT_030": {
+    "speaker": "UI",
+    "text": "Never mind."
+  },
+  "SUB_W10_EVAR_COMM_MAG_MISSON_01_000_CUT_030": {
+    "speaker": "HERO",
+    "text": "Open this container?"
+  },
+  "SUB_W10_EVAR_COMM_MAG_MISSON_01_000_CUT_040": {
+    "speaker": "HERO",
+    "text": "Don't open it."
+  },
+  "SUB_W10_EVAR_COMM_MAG_MISSON_01_000_CUT_050": {
+    "speaker": "HERO",
+    "text": "Open it up."
+  },
+  "SUB_W10_EVAR_COMM_MAG_MISSON_01_000_CUT_090": {
+    "speaker": "HERO",
+    "text": "Better bring this to the\nRed Division overseer."
+  },
+  "SUB_W10_EVAR_COMM_MAG_MISSON_01_000_CUT_120": {
+    "speaker": "HERO",
+    "text": "I'll hold on to this.\nIt might come in handy."
+  },
+  "SUB_W10_COMM_HATUMEI_000_CUT_000": {
+    "speaker": "UI",
+    "text": "Welcome to the Department of Inventions."
+  },
+  "SUB_W10_COMM_HATUMEI_000_CUT_010": {
+    "speaker": "UI",
+    "text": "Here you can use gizmo parts and\ncrystals to make other items."
+  },
+  "SUB_W10_COMM_HATUMEI_000_CUT_020": {
+    "speaker": "UI",
+    "text": "Make something."
+  },
+  "SUB_W10_COMM_HATUMEI_000_CUT_030": {
+    "speaker": "UI",
+    "text": "Don't make anything."
+  },
+  "SUB_W10_COMM_HATUMEI_010_CUT_000": {
+    "speaker": "UI",
+    "text": "What would you like to create?"
+  },
+  "SUB_W10_COMM_HATUMEI_010_CUT_001": {
+    "speaker": "UI",
+    "text": "Please make your selection."
+  },
+  "SUB_W10_COMM_HATUMEI_010_CUT_010": {
+    "speaker": "UI",
+    "text": "Egg Incubator: 4 Gizmo Parts"
+  },
+  "SUB_W10_COMM_HATUMEI_010_CUT_020": {
+    "speaker": "UI",
+    "text": "Plant Cultivation Kit: 4 Gizmo Parts"
+  },
+  "SUB_W10_COMM_HATUMEI_010_CUT_030": {
+    "speaker": "UI",
+    "text": "Gizmo Parts Processing: 2 Crystals"
+  },
+  "SUB_W10_COMM_HATUMEI_010_CUT_050": {
+    "speaker": "UI",
+    "text": "Make it."
+  },
+  "SUB_W10_COMM_HATUMEI_010_CUT_060": {
+    "speaker": "UI",
+    "text": "Don't make it."
+  },
+  "SUB_W10_COMM_HATUMEI_010_CUT_070": {
+    "speaker": "UI",
+    "text": "You don't have enough gizmo parts."
+  },
+  "SUB_W10_COMM_HATUMEI_020_CUT_000": {
+    "speaker": "UI",
+    "text": "Egg Incubator: 4 Gizmo Parts"
+  },
+  "SUB_W10_COMM_HATUMEI_020_CUT_010": {
+    "speaker": "UI",
+    "text": "A device that automatically incubates eggs."
+  },
+  "SUB_W10_COMM_HATUMEI_020_CUT_020": {
+    "speaker": "UI",
+    "text": "An egg incubator has been installed."
+  },
+  "SUB_W10_COMM_HATUMEI_030_CUT_000": {
+    "speaker": "UI",
+    "text": "Plant Cultivation Kit: 4 Gizmo Parts"
+  },
+  "SUB_W10_COMM_HATUMEI_030_CUT_010": {
+    "speaker": "UI",
+    "text": "A device for cultivating plants."
+  },
+  "SUB_W10_COMM_HATUMEI_030_CUT_020": {
+    "speaker": "UI",
+    "text": "A plant cultivation kit has been installed."
+  },
+  "SUB_W10_COMM_HATUMEI_100_CUT_000": {
+    "speaker": "UI",
+    "text": "You cannot use this facility,\nas you have no gizmo parts."
+  },
+  "SUB_W10_COMM_HATUMEI_100_CUT_010": {
+    "speaker": "UI",
+    "text": "You don't have enough gizmo parts to make this. (4 needed)"
+  },
+  "SUB_W10_COMM_HATUMEI_100_CUT_020": {
+    "speaker": "UI",
+    "text": "You don't have enough gizmo parts to make this. (4 needed)"
+  },
+  "SUB_W10_COMM_HATUMEI_100_CUT_030": {
+    "speaker": "UI",
+    "text": "You do not have enough crystals to make this. (2 needed)"
+  },
+  "SUB_W10_COMM_EGG_000_CUT_000": {
+    "speaker": "UI",
+    "text": "Egg Incubator: a device that automatically incubates eggs."
+  },
+  "SUB_W10_COMM_EGG_000_CUT_010": {
+    "speaker": "UI",
+    "text": "Will you place a tsuchinoko egg in the incubator?"
+  },
+  "SUB_W10_COMM_EGG_000_CUT_020": {
+    "speaker": "UI",
+    "text": "Place it."
+  },
+  "SUB_W10_COMM_EGG_000_CUT_030": {
+    "speaker": "UI",
+    "text": "Don't place it."
+  },
+  "SUB_W10_COMM_EGG_000_CUT_040": {
+    "speaker": "UI",
+    "text": "You don't have any tsuchinoko eggs."
+  },
+  "SUB_W10_COMM_EGG_010_CUT_000": {
+    "speaker": "UI",
+    "text": "Temperature Setting"
+  },
+  "SUB_W10_COMM_EGG_010_CUT_010": {
+    "speaker": "UI",
+    "text": "Effects vary based on temperature setting."
+  },
+  "SUB_W10_COMM_EGG_010_CUT_020": {
+    "speaker": "UI",
+    "text": "Low"
+  },
+  "SUB_W10_COMM_EGG_010_CUT_021": {
+    "speaker": "UI",
+    "text": "Set temperature to low."
+  },
+  "SUB_W10_COMM_EGG_010_CUT_030": {
+    "speaker": "UI",
+    "text": "Medium"
+  },
+  "SUB_W10_COMM_EGG_010_CUT_031": {
+    "speaker": "UI",
+    "text": "Set temperature to medium."
+  },
+  "SUB_W10_COMM_EGG_010_CUT_040": {
+    "speaker": "UI",
+    "text": "High"
+  },
+  "SUB_W10_COMM_EGG_010_CUT_041": {
+    "speaker": "UI",
+    "text": "Set temperature to high."
+  },
+  "SUB_W10_COMM_EGG_020_CUT_000": {
+    "speaker": "UI",
+    "text": "The egg hasn't hatched yet."
+  },
+  "SUB_W10_COMM_EGG_020_CUT_010": {
+    "speaker": "UI",
+    "text": "It should hatch after more time has passed."
+  },
+  "SUB_W10_COMM_EGG_020_CUT_020": {
+    "speaker": "UI",
+    "text": "Come back later."
+  },
+  "SUB_W10_COMM_EGG_030_CUT_000": {
+    "speaker": "UI",
+    "text": "The egg appears to have hatched. Let's take a look!"
+  },
+  "SUB_W10_COMM_EGG_030_CUT_010": {
+    "speaker": "UI",
+    "text": "Confirm."
+  },
+  "SUB_W10_COMM_EGG_030_CUT_050": {
+    "speaker": "UI",
+    "text": "It's a boiled egg. You might as well eat it."
+  },
+  "SUB_W10_COMM_EGG_030_CUT_060": {
+    "speaker": "UI",
+    "text": "It's a monster. You'll have to fight it."
+  },
+  "SUB_W10_COMM_EGG_030_CUT_070": {
+    "speaker": "UI",
+    "text": "The egg contained a crystal."
+  },
+  "SUB_W10_COMM_EGG_030_CUT_080": {
+    "speaker": "UI",
+    "text": "Failure. The egg broke."
+  },
+  "SUB_W10_COMM_EGG_040_CUT_000": {
+    "speaker": "UI",
+    "text": "Boiled Egg"
+  },
+  "SUB_W10_COMM_EGG_040_CUT_010": {
+    "speaker": "UI",
+    "text": "It's brimming with nourishment!"
+  },
+  "SUB_W10_COMM_EGG_040_CUT_020": {
+    "speaker": "UI",
+    "text": "You recovered 1 LP."
+  },
+  "SUB_W10_COMM_SEED_000_CUT_000": {
+    "speaker": "UI",
+    "text": "Plant Cultivation Kit: A device for cultivating plants."
+  },
+  "SUB_W10_COMM_SEED_000_CUT_010": {
+    "speaker": "UI",
+    "text": "Will you plant an enhanced monophid seed?"
+  },
+  "SUB_W10_COMM_SEED_000_CUT_020": {
+    "speaker": "UI",
+    "text": "Plant it."
+  },
+  "SUB_W10_COMM_SEED_000_CUT_030": {
+    "speaker": "UI",
+    "text": "Don't plant it."
+  },
+  "SUB_W10_COMM_SEED_000_CUT_040": {
+    "speaker": "UI",
+    "text": "You don't have any enhanced monophid seeds."
+  },
+  "SUB_W10_COMM_SEED_010_CUT_000": {
+    "speaker": "UI",
+    "text": "Select the soil to use."
+  },
+  "SUB_W10_COMM_SEED_010_CUT_010": {
+    "speaker": "UI",
+    "text": "The soil affects your harvest."
+  },
+  "SUB_W10_COMM_SEED_010_CUT_020": {
+    "speaker": "UI",
+    "text": "Red Soil"
+  },
+  "SUB_W10_COMM_SEED_010_CUT_021": {
+    "speaker": "UI",
+    "text": "Use red soil."
+  },
+  "SUB_W10_COMM_SEED_010_CUT_030": {
+    "speaker": "UI",
+    "text": "Green Soil"
+  },
+  "SUB_W10_COMM_SEED_010_CUT_031": {
+    "speaker": "UI",
+    "text": "Use green soil."
+  },
+  "SUB_W10_COMM_SEED_010_CUT_040": {
+    "speaker": "UI",
+    "text": "Yellow Soil"
+  },
+  "SUB_W10_COMM_SEED_010_CUT_041": {
+    "speaker": "UI",
+    "text": "Use yellow soil."
+  },
+  "SUB_W10_COMM_SEED_020_CUT_000": {
+    "speaker": "UI",
+    "text": "Nothing has sprouted yet."
+  },
+  "SUB_W10_COMM_SEED_020_CUT_010": {
+    "speaker": "UI",
+    "text": "It should sprout after more time has passed."
+  },
+  "SUB_W10_COMM_SEED_020_CUT_020": {
+    "speaker": "UI",
+    "text": "Come back later."
+  },
+  "SUB_W10_COMM_SEED_030_CUT_000": {
+    "speaker": "UI",
+    "text": "The plant is grown. Let's harvest it."
+  },
+  "SUB_W10_COMM_SEED_030_CUT_030": {
+    "speaker": "UI",
+    "text": "Your harvest is..."
+  },
+  "SUB_W10_COMM_SEED_030_CUT_040": {
+    "speaker": "UI",
+    "text": "It turned into a monster! You have to fight it!"
+  },
+  "SUB_W10_COMM_SEED_030_CUT_050": {
+    "speaker": "UI",
+    "text": "You grew three enhanced monophid seeds."
+  },
+  "SUB_W10_COMM_SEED_030_CUT_060": {
+    "speaker": "UI",
+    "text": "A tsuchinoko egg emerged from the fruit!"
+  },
+  "SUB_W10_COMM_SEED_030_CUT_100": {
+    "speaker": "UI",
+    "text": "A crystal emerged from the fruit!"
+  },
+  "SUB_W10_COMM_SEED_030_CUT_110": {
+    "speaker": "UI",
+    "text": "Failure. The plant withered."
+  },
+  "SUB_W10_COMM_SEED_030_CUT_120": {
+    "speaker": "UI",
+    "text": "You grew an enhanced monophid seed."
+  },
+  "SUB_W10_COMM_ITEM_000_CUT_000": {
+    "speaker": "UI",
+    "text": "Processor"
+  },
+  "SUB_W10_COMM_ITEM_000_CUT_010": {
+    "speaker": "UI",
+    "text": "Turns crystals into gizmo parts."
+  },
+  "SUB_W10_COMM_ITEM_000_CUT_030": {
+    "speaker": "UI",
+    "text": "Process crystals."
+  },
+  "SUB_W10_COMM_ITEM_000_CUT_040": {
+    "speaker": "UI",
+    "text": "Don't process anything."
+  },
+  "SUB_W10_COMM_ITEM_010_CUT_020": {
+    "speaker": "UI",
+    "text": "Turn 2 crystals into 1 gizmo part."
+  },
+  "SUB_W10_COMM_ITEM_020_CUT_000": {
+    "speaker": "UI",
+    "text": "Your crystals have been processed."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_CLT_000_CUT_000": {
+    "speaker": "YellowTribe_FellowC",
+    "text": "Say, that's a crystal!\nOh, just look how it sparkles...\nDon't suppose you'd trade it\nfor an enhanced monophid seed?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_CLT_000_CUT_020": {
+    "speaker": "YellowTribe_FellowC",
+    "text": "How about one crystal for one\nenhanced monophid seed?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_CLT_010_CUT_000": {
+    "speaker": "YellowTribe_FellowC",
+    "text": "If you get any crystals,\nbring them to me and I'll give\nyou enhanced monophid seeds."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_CLT_020_CUT_010": {
+    "speaker": "HERO",
+    "text": "It's a deal."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_CLT_020_CUT_020": {
+    "speaker": "HERO",
+    "text": "No thanks."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_CLT_030_CUT_010": {
+    "speaker": "UI",
+    "text": "You traded a crystal for an\nenhanced monophid seed."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_CLT_030_CUT_020": {
+    "speaker": "UI",
+    "text": "You got an enhanced monophid seed."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_MAG_000_CUT_000": {
+    "speaker": "RedTribe_SoldierZ",
+    "text": "Hey, that's an enhanced monophid seed!\nThose things are delicious."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_MAG_000_CUT_020": {
+    "speaker": "RedTribe_SoldierZ",
+    "text": "Wanna trade for a tsuchinoko egg?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_MAG_010_CUT_000": {
+    "speaker": "RedTribe_SoldierZ",
+    "text": "Bring me enhanced monophid seeds\nand I'll trade 'em for eggs."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_MAG_020_CUT_010": {
+    "speaker": "HERO",
+    "text": "It's a deal."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_MAG_020_CUT_020": {
+    "speaker": "HERO",
+    "text": "No thanks."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_MAG_030_CUT_010": {
+    "speaker": "UI",
+    "text": "You traded an enhanced monophid seed\nfor a tsuchinoko egg."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_MAG_030_CUT_020": {
+    "speaker": "UI",
+    "text": "You got a tsuchinoko egg."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_LIF_000_CUT_000": {
+    "speaker": "GreenTribe_ScholarI",
+    "text": "Oh, that's a tsuchinoko egg!\nI want one of those bad!"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_LIF_000_CUT_020": {
+    "speaker": "GreenTribe_ScholarI",
+    "text": "Would you trade it\nfor a crystal?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_LIF_010_CUT_000": {
+    "speaker": "GreenTribe_ScholarI",
+    "text": "Bring me a tsuchinoko egg and\nI'll trade you a crystal."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_LIF_020_CUT_010": {
+    "speaker": "HERO",
+    "text": "It's a deal."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_LIF_020_CUT_020": {
+    "speaker": "HERO",
+    "text": "No thanks."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_LIF_030_CUT_010": {
+    "speaker": "UI",
+    "text": "You traded a tsuchinoko egg\nfor a crystal."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_LIF_030_CUT_020": {
+    "speaker": "UI",
+    "text": "You got a crystal."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_000_CUT_000": {
+    "speaker": "YellowTribe_FellowC",
+    "text": "Hey, is that a page from a\ncursed tome you got there?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_000_CUT_010": {
+    "speaker": "YellowTribe_FellowC",
+    "text": "I want it! Gimme!"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_000_CUT_020": {
+    "speaker": "YellowTribe_FellowC",
+    "text": "Er, I mean, care to trade it\nfor two crystals?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_010_CUT_010": {
+    "speaker": "HERO",
+    "text": "It's a deal."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_010_CUT_020": {
+    "speaker": "HERO",
+    "text": "You can do better."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_020_CUT_000": {
+    "speaker": "YellowTribe_FellowC",
+    "text": "Okay, fine. Three crystals."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_020_CUT_040": {
+    "speaker": "YellowTribe_FellowC",
+    "text": "Oh, to hell with this!"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_030_CUT_010": {
+    "speaker": "UI",
+    "text": "You traded a cursed scrap\nof paper for crystals."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_030_CUT_020": {
+    "speaker": "UI",
+    "text": "You got two crystals."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_BOOK_030_CUT_021": {
+    "speaker": "UI",
+    "text": "You got three crystals."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_000_CUT_000": {
+    "speaker": "YellowTribe_FellowD",
+    "text": "Oh, is that a piece of the\nphilosopher's stone?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_000_CUT_010": {
+    "speaker": "YellowTribe_FellowD",
+    "text": "I want it!"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_000_CUT_020": {
+    "speaker": "YellowTribe_FellowD",
+    "text": "Would you trade it for\ntwo tsuchinoko eggs?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_010_CUT_010": {
+    "speaker": "HERO",
+    "text": "It's a deal."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_010_CUT_020": {
+    "speaker": "HERO",
+    "text": "You can do better."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_020_CUT_000": {
+    "speaker": "YellowTribe_FellowD",
+    "text": "Okay, fine. Three tsuchinoko eggs."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_020_CUT_040": {
+    "speaker": "YellowTribe_FellowD",
+    "text": "To hell with this!"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_030_CUT_010": {
+    "speaker": "UI",
+    "text": "You traded a philosopher's stone fragment (?)\nfor tsuchinoko eggs."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_030_CUT_020": {
+    "speaker": "UI",
+    "text": "You got two tsuchinoko eggs."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_STONE_030_CUT_021": {
+    "speaker": "UI",
+    "text": "You got three tsuchinoko eggs."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_000_CUT_000": {
+    "speaker": "YellowTribe_FellowE",
+    "text": "Goodness! Is that a fragment\nof a mysterious sword?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_000_CUT_010": {
+    "speaker": "YellowTribe_FellowE",
+    "text": "I must have it!"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_000_CUT_020": {
+    "speaker": "YellowTribe_FellowE",
+    "text": "Would you trade it for two\nenhanced monophid seeds?"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_010_CUT_010": {
+    "speaker": "HERO",
+    "text": "It's a deal."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_010_CUT_020": {
+    "speaker": "HERO",
+    "text": "You can do better."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_020_CUT_000": {
+    "speaker": "YellowTribe_FellowE",
+    "text": "Okay, fine. I'll give you three\nenhanced monophid seeds!"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_020_CUT_040": {
+    "speaker": "YellowTribe_FellowE",
+    "text": "To hell with this!"
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_030_CUT_010": {
+    "speaker": "UI",
+    "text": "You traded a mysterious sword fragment (?)\nfor enhanced monophid seeds."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_030_CUT_020": {
+    "speaker": "UI",
+    "text": "You got two enhanced monophid seeds."
+  },
+  "SUB_W10_EVAR_COMM_TREADE_KATANA_030_CUT_021": {
+    "speaker": "UI",
+    "text": "You got three enhanced monophid seeds."
+  },
+  "SUB_W10_EVAR_COMM_LIF_05_999_CUT_000_000": {
+    "speaker": "UI",
+    "text": "A reward for completing the quest\nof the life sciences group."
+  },
+  "SUB_W10_EVAR_COMM_LIF_05_999_CUT_000_010": {
+    "speaker": "UI",
+    "text": "You received a reward."
+  },
+  "SUB_W10_EVAR_COMM_LIF_05_999_CUT_000_020": {
+    "speaker": "UI",
+    "text": "Enhanced Monophid Seeds"
+  },
+  "SUB_W10_EVAR_COMM_LIF_05_999_CUT_010_010": {
+    "speaker": "UI",
+    "text": "You received a reward."
+  },
+  "SUB_W10_EVAR_COMM_LIF_05_999_CUT_010_020": {
+    "speaker": "UI",
+    "text": "Gizmo Parts"
+  },
+  "SUB_W10_EVAR_COMM_MAG_MISSON_01_000_CUT_000": {
+    "speaker": "UI",
+    "text": "The electromagnetic gates were active!\nYou lost LP from the shock."
+  },
+  "SUB_W10_EVAR_COMM_MAG_MISSON_01_000_CUT_010": {
+    "speaker": "UI",
+    "text": "You were shocked."
+  },
+  "SUB_W10_EVAR_COMM_MAG_MISSON_01_000_CUT_020": {
+    "speaker": "UI",
+    "text": "LP decreased!"
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_000": {
+    "speaker": "RedTribe_Chief",
+    "text": "Ho there, friend! There's something important\nI need to tell you about that sword you're\nsafeguarding. Be a dear and summon the\nacting overseer here, would you?"
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_010": {
+    "speaker": "RedTribe_SoldierX",
+    "text": "The acting overseer is incredibly busy\nat the moment. We're just about to\nbring Specimen 440 under control."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_020": {
+    "speaker": "RedTribe_Chief",
+    "text": "In that case, you must take me to the sword\nat once. Without it, any attempt to stop\nthe Beast King will end in failure!"
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_030": {
+    "speaker": "RedTribe_SoldierX",
+    "text": "......"
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_040": {
+    "speaker": "RedTribe_Chief",
+    "text": "Okay, so the thing is, that sword is\ncursed in a <i>very</i> particular way,\nin that you need a command word to\nunlock its power.\fAs a member of Red Division,\nyou should be familiar with the concept."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_050": {
+    "speaker": "RedTribe_SoldierX",
+    "text": "All right. Then tell me the command word\nso I can inform the acting overseer."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_060": {
+    "speaker": "RedTribe_Chief",
+    "text": "Oh, if only it were so easy as that!\nEr, but it's not. No, no.\fHow about this: I'll unlock the sword's power,\nand then you deliver it to the acting overseer.\nQuickly now! Time is very short!"
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_070": {
+    "speaker": "RedTribe_SoldierX",
+    "text": "I dunno. This seems like a trick."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_080": {
+    "speaker": "RedTribe_Chief",
+    "text": "You're wearing a full combat suit!\nWhat 'trick' could I possibly..."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_090": {
+    "speaker": "RedTribe_SoldierX",
+    "text": "Gyah!"
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_100": {
+    "speaker": "RedTribe_Chief",
+    "text": "Ha! I'm the overseer of Red Division,\nand I know every weakness of those suits!"
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_012_CUT_110": {
+    "speaker": "RedTribe_Chief",
+    "text": "Hold on, Beast King! I'm coming!"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_000_CUT_000": {
+    "speaker": "RedTribe_SoldierY",
+    "text": "Hey there, alien. Wanna play?"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_000_CUT_010": {
+    "speaker": "HERO",
+    "text": "...Play?"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_000_CUT_020": {
+    "speaker": "RedTribe_SoldierY",
+    "text": "You know! Just have a little fight with\nsome of Red Division's choicest monsters?"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_000_CUT_040": {
+    "speaker": "HERO",
+    "text": "Pass."
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_000_CUT_050": {
+    "speaker": "HERO",
+    "text": "Sounds good!"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_001_CUT_070": {
+    "speaker": "RedTribe_SoldierY",
+    "text": "Now you're talking!\nSo what did you have in mind?"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_001_CUT_080": {
+    "speaker": "HERO",
+    "text": "The flying kind!"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_001_CUT_090": {
+    "speaker": "HERO",
+    "text": "The beastly kind!"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_001_CUT_100": {
+    "speaker": "HERO",
+    "text": "The plant kind!"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_001_CUT_110": {
+    "speaker": "RedTribe_SoldierY",
+    "text": "Tsk! Whatever, Captain Buzzkill.\nCome by later if you find your guts!"
+  },
+  "SUB_W10_EVAR_COMM_UDETAMESHI_001_CUT_120": {
+    "speaker": "RedTribe_SoldierY",
+    "text": "All right, here goes!"
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_020_CUT_000_080": {
+    "speaker": "BLANK_NAME",
+    "text": "Red Division Soldier Ni Hill\nCodename: Beast King"
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_020_CUT_000_090": {
+    "speaker": "BLANK_NAME",
+    "text": "Cycle 204,031: Beast King steals\ncursed sword from Yellow Division."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_020_CUT_000_100": {
+    "speaker": "BLANK_NAME",
+    "text": "Cycle 204,045: Beast King lives on despite\nbeing infected in slime mold experiment."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_020_CUT_000_110": {
+    "speaker": "BLANK_NAME",
+    "text": "Cycle 204,137: Beast King goes on violent\nrampage due to effects of curse."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_020_CUT_000_120": {
+    "speaker": "BLANK_NAME",
+    "text": "Cycle 204,140: Beast King is\nsealed away as Specimen 440."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_020_CUT_000_130": {
+    "speaker": "BLANK_NAME",
+    "text": "Count 207,232: Beast King\nseemingly returns to life."
+  },
+  "SUB_W10_EVAR_COMM_MAG_END_020_CUT_000_140": {
+    "speaker": "BLANK_NAME",
+    "text": "Count 207,233: Beast King is sealed\naway once more as Specimen 440A."
+  },
+  "SUB_W10_EVAR_COMM_RETURN_000_CUT_000_110": {
+    "speaker": "Connection_Operator",
+    "text": "Internal door locked...\nSafety device engaged...\nPressurizing..."
+  },
+  "SUB_W10_EVAR_COMM_RETURN_000_CUT_000_120": {
+    "speaker": "Connection_Boss",
+    "text": "Administrator Gold has entered\nthe connectivity chamber.\fUnable to establish a connection.\nThe connectivity chamber is\ncurrently not conjoined."
+  },
+  "SUB_W10_EVAR_COMM_RETURN_000_CUT_000_130": {
+    "speaker": "Connection_Operator",
+    "text": "Opening external door."
+  },
+  "SUB_W10_EVAR_COMM_RETURN_000_CUT_000_140": {
+    "speaker": "Connection_Operator",
+    "text": "Closing external door...\nClosure confirmed...\nPressurizing..."
+  },
+  "SUB_W10_EVAR_COMM_RETURN_000_CUT_000_150": {
+    "speaker": "Chief_Manager",
+    "text": "Administrator Gold has gone 'outside.'\nThis is a gross violation of all\nAdministrative Division policy."
+  },
+  "SUB_W10_EVAR_COMM_RETURN_000_CUT_000_160": {
+    "speaker": "Chief_Manager",
+    "text": "Erase all records of Administrator Gold.\nWe must select a new administrator."
+  }
+}

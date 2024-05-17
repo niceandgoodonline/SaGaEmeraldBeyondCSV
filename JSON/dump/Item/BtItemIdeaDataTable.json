@@ -1,0 +1,268 @@
+{
+    "IDEA_FIGHT": {
+        "name": "IDEA_FIGHT_ItemName", 
+        "description": "IDEA_FIGHT_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 1
+    }, 
+    "IDEA_WILD": {
+        "name": "IDEA_WILD_ItemName", 
+        "description": "IDEA_WILD_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 2
+    }, 
+    "IDEA_FANTASY": {
+        "name": "IDEA_FANTASY_ItemName", 
+        "description": "IDEA_FANTASY_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 3
+    }, 
+    "IDEA_CHAOS": {
+        "name": "IDEA_CHAOS_ItemName", 
+        "description": "IDEA_CHAOS_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 4
+    }, 
+    "IDEA_MODAN": {
+        "name": "IDEA_MODAN_ItemName", 
+        "description": "IDEA_MODAN_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 5
+    }, 
+    "IDEA_NOSTALGY": {
+        "name": "IDEA_NOSTALGY_ItemName", 
+        "description": "IDEA_NOSTALGY_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 6
+    }, 
+    "IDEA_SCIENCE": {
+        "name": "IDEA_SCIENCE_ItemName", 
+        "description": "IDEA_SCIENCE_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 7
+    }, 
+    "IDEA_MAGIC": {
+        "name": "IDEA_MAGIC_ItemName", 
+        "description": "IDEA_MAGIC_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 8
+    }, 
+    "IDEA_GALE": {
+        "name": "IDEA_GALE_ItemName", 
+        "description": "IDEA_GALE_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 9
+    }, 
+    "IDEA_FIRE": {
+        "name": "IDEA_FIRE_ItemName", 
+        "description": "IDEA_FIRE_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 10
+    }, 
+    "IDEA_ICE": {
+        "name": "IDEA_ICE_ItemName", 
+        "description": "IDEA_ICE_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 11
+    }, 
+    "IDEA_LIGHTNING": {
+        "name": "IDEA_LIGHTNING_ItemName", 
+        "description": "IDEA_LIGHTNING_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 12
+    }, 
+    "IDEA_BOMB": {
+        "name": "IDEA_BOMB_ItemName", 
+        "description": "IDEA_BOMB_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 13
+    }, 
+    "IDEA_DEDICATION": {
+        "name": "IDEA_DEDICATION_ItemName", 
+        "description": "IDEA_DEDICATION_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 28
+    }, 
+    "IDEA_IDEAL": {
+        "name": "IDEA_IDEAL_ItemName", 
+        "description": "IDEA_IDEAL_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 25
+    }, 
+    "IDEA_GENIUS": {
+        "name": "IDEA_GENIUS_ItemName", 
+        "description": "IDEA_GENIUS_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 20
+    }, 
+    "IDEA_HONOR": {
+        "name": "IDEA_HONOR_ItemName", 
+        "description": "IDEA_HONOR_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 14
+    }, 
+    "IDEA_GUARD": {
+        "name": "IDEA_GUARD_ItemName", 
+        "description": "IDEA_GUARD_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 18
+    }, 
+    "IDEA_TRADITION": {
+        "name": "IDEA_TRADITION_ItemName", 
+        "description": "IDEA_TRADITION_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 16
+    }, 
+    "IDEA_FREE": {
+        "name": "IDEA_FREE_ItemName", 
+        "description": "IDEA_FREE_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 23
+    }, 
+    "IDEA_DICIPLINE": {
+        "name": "IDEA_DICIPLINE_ItemName", 
+        "description": "IDEA_DICIPLINE_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 27
+    }, 
+    "IDEA_GLITTER": {
+        "name": "IDEA_GLITTER_ItemName", 
+        "description": "IDEA_GLITTER_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 29
+    }, 
+    "IDEA_OBEDIENCE": {
+        "name": "IDEA_OBEDIENCE_ItemName", 
+        "description": "IDEA_OBEDIENCE_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 19
+    }, 
+    "IDEA_VITALITY": {
+        "name": "IDEA_VITALITY_ItemName", 
+        "description": "IDEA_VITALITY_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 30
+    }, 
+    "IDEA_HARMONY": {
+        "name": "IDEA_HARMONY_ItemName", 
+        "description": "IDEA_HARMONY_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 22
+    }, 
+    "IDEA_ORDER": {
+        "name": "IDEA_ORDER_ItemName", 
+        "description": "IDEA_ORDER_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 15
+    }, 
+    "IDEA_AMBITION": {
+        "name": "IDEA_AMBITION_ItemName", 
+        "description": "IDEA_AMBITION_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 24
+    }, 
+    "IDEA_SILENCE": {
+        "name": "IDEA_SILENCE_ItemName", 
+        "description": "IDEA_SILENCE_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 21
+    }, 
+    "IDEA_UPHEABAL": {
+        "name": "IDEA_UPHEABAL_ItemName", 
+        "description": "IDEA_UPHEABAL_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 17
+    }, 
+    "IDEA_AUTHORITY": {
+        "name": "IDEA_AUTHORITY_ItemName", 
+        "description": "IDEA_AUTHORITY_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 26
+    }, 
+    "IDEA_REINCARNATION": {
+        "name": "IDEA_REINCARNATION_ItemName", 
+        "description": "IDEA_REINCARNATION_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 31
+    }, 
+    "IDEA_PRIDE": {
+        "name": "IDEA_PRIDE_ItemName", 
+        "description": "IDEA_PRIDE_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 101
+    }, 
+    "IDEA_GREED": {
+        "name": "IDEA_GREED_ItemName", 
+        "description": "IDEA_GREED_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 102
+    }, 
+    "IDEA_LUST": {
+        "name": "IDEA_LUST_ItemName", 
+        "description": "IDEA_LUST_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 103
+    }, 
+    "IDEA_SLOTH": {
+        "name": "IDEA_SLOTH_ItemName", 
+        "description": "IDEA_SLOTH_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 104
+    }, 
+    "IDEA_WRATH": {
+        "name": "IDEA_WRATH_ItemName", 
+        "description": "IDEA_WRATH_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 105
+    }, 
+    "IDEA_GLUTTONY": {
+        "name": "IDEA_GLUTTONY_ItemName", 
+        "description": "IDEA_GLUTTONY_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 106
+    }, 
+    "IDEA_ENVY": {
+        "name": "IDEA_ENVY_ItemName", 
+        "description": "IDEA_ENVY_ItemExp", 
+        "price": 0, 
+        "keepMax": 1, 
+        "sortindex": 107
+    }
+}

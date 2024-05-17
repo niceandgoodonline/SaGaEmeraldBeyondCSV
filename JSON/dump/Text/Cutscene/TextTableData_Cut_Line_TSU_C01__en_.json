@@ -1,0 +1,822 @@
+{
+  "SUB_C01_GMCK_MIDO_EMERALDRIDE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. Look at this weird little guy.\nFeels like I've seen him somewhere before...\nMaybe he popped up in a movie I saw with Dad?\nOr he's a monster I ran into somewhere?"
+  },
+  "SUB_C01_GMCK_MIDO_EMERALDRIDE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa!"
+  },
+  "SUB_C01_GMCK_MIDO_TRADEDRUM_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now what the cripes is this doing here? I mean,\nit's obviously a washing machine, but this is\nno place for people to be doing chores."
+  },
+  "SUB_C01_GMCK_MIDO_TRADEDRUM_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa!"
+  },
+  "SUB_C01_WRLD_MIDO_SIUGNAS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "At last, I have regained my true form!"
+  },
+  "SUB_C01_WRLD_MIDO_SIUGNAS_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. So you really are the Dismal King.\nEasy to tell that much, 'cause you've\ngot darkness just dripping off you."
+  },
+  "SUB_C01_WRLD_MIDO_SIUGNAS_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So you say. Yet at this point, I have reclaimed\nbut a fraction of my power. Now guard me well,\nfor I am still quite some way from returning\nto my true and complete self."
+  },
+  "SUB_C01_WRLD_MIDO_SIUGNAS_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You got it, boss."
+  },
+  "SUB_C01_WRLD_MIDO_ERYTHEIA_000_CUT_000_000": {
+    "speaker": "Erytheia",
+    "text": "Oh boy. Oooh boy. Is this what\nit's like outside of the Kosmos?\fPlease, Canker! Pinch my cellular wall\nand wake me from this horrid nightmare!\nI don't want to be alone here!"
+  },
+  "SUB_C01_WRLD_MIDO_ERYTHEIA_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, Erytheia. What're you getting\nup to in a place like this? Did you manage\nto get rid of Canker?"
+  },
+  "SUB_C01_WRLD_MIDO_ERYTHEIA_000_CUT_000_020": {
+    "speaker": "Erytheia",
+    "text": "Foreign body detected! Oh, thank goodness!\nWell, I have no use for Canker anymore.\nAaaaaand away you go!"
+  },
+  "SUB_C01_WRLD_MIDO_ERYTHEIA_000_CUT_000_030": {
+    "speaker": "Erytheia",
+    "text": "Now let us sally forth together!\nYou and I will need to get used to\nbeing in the same boat, as it were."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I heard the Heavens were on the other side\nof the stone gate, but I didn't think everyone\nmeant it so...literally."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_000_010": {
+    "speaker": "Familiar_Voice",
+    "text": "Greetings, Tsunanori. If you are hearing\nthis message, it means you managed to\npass through the stone gate."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, that's Uncle Tadamichi! So he left a\nmessage inside one of the <i>kugutsu</i>, eh?\nGuess this means everything's going just\nlike the guy planned."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_000_030": {
+    "speaker": "Tadamichi_Mido",
+    "text": "Long ago, our family supported our country's\nemperor in visiting peace and order upon\nthe land. Since then, however, the world\nhas changed, and our power has been lost."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_000_040": {
+    "speaker": "Tadamichi_Mido",
+    "text": "Wicked forces are taking advantage of that opening\nin an attempt to devour our country...and our world.\fThis is not a matter that can be left to government—\nand as a government official myself, I assure you\nI do not make such a statement lightly."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_000_050": {
+    "speaker": "Tadamichi_Mido",
+    "text": "It is the duty of our family to vanquish evil,\nbut this cannot be achieved without power.\nAs such, we must reclaim what we have lost."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_000_060": {
+    "speaker": "Tadamichi_Mido",
+    "text": "You must scour the Heavens for beings of power,\ntransfer that power into your <i>kugutsu</i>,\nand return it to us. You will need to find\nfour such beings to stem the spread of evil."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_000_070": {
+    "speaker": "Tadamichi_Mido",
+    "text": "To be perfectly frank, I know very little of\nthe Heavens, and we have no way of predicting\nwhat might happen there. But I trust in your\ncapability, Tsunanori. Use your <i>kugutsu</i> well."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, there's a surprise right off the bat.\nSure hope I can use these <i>kugutsu</i> as well\nas Uncle Tadamichi thinks I can."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_010_000": {
+    "speaker": "Tadamichi_Mido",
+    "text": "You have been chosen, Tsunanori.\nChosen to save our country—and our world."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "'Chosen'? The heck with that, guy.\nI chose this path myself."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_000_CUT_010_020": {
+    "speaker": "UI",
+    "text": "Try using your Scan Wave."
+  },
+  "SUB_C01_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So that's our door, eh?"
+  },
+  "SUB_C01_EVAR_MIDO_FIRST_PORTAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Doesn't matter if I push or if I pull.\nThis thing won't budge."
+  },
+  "SUB_C01_EVAR_MIDO_FIRST_PORTAL_000_CUT_000_010": {
+    "speaker": "Musashi_Kugutu",
+    "text": "If I may, I believe that door will not\nopen unless something is done about\nthis contraption first."
+  },
+  "SUB_C01_EVAR_MIDO_FIRST_PORTAL_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey! Look what I just found\nlying on the floor."
+  },
+  "SUB_C01_EVAR_MIDO_FIRST_PORTAL_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You figure pluggin' in this triangular\ndeal here will do the trick?"
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_100_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I thought the Heavens were supposed to be on the other\nside of the stone gate. Doesn't look like I thought it would,\nbut... Eh, who knows? Maybe this is just what the Heavens\nreally looked like all along."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_100_CUT_000_010": {
+    "speaker": "Familiar_Voice",
+    "text": "Hey there, Son. If you're hearing this\nmessage, it means you managed to\nget through the stone gate."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_100_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Dad! Guess he must've left a message\ninside one of the <i>kugutsu</i>.\nBut, uh... Why?"
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_100_CUT_000_030": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Since there wasn't anyone qualified in the generation\nbefore yours, you've been sent to the Heavens by special\nrequest of the Mido family head. Oh, and Uncle Tadamichi\npushed real hard for you, too, so that's nice."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_100_CUT_000_040": {
+    "speaker": "Masatsuna_Mido",
+    "text": "Anyway, this whole deal is happening because of\nwhat went down during the war—and while I know\nit's not right to dump that on you, somebody's\ngotta carry out the family's duty."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_100_CUT_000_050": {
+    "speaker": "Masatsuna_Mido",
+    "text": "I never got a chance to teach you much but\nthe basics, but you've always been a real\nsmart kid—and I bet my left foot you'll be\nbetter than your old man at this by supper."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_100_CUT_000_060": {
+    "speaker": "Masatsuna_Mido",
+    "text": "So here's the deal: beings of power live in the\nHeavens. We need you to transfer their power into\nyour <i>kugutsu</i> and bring 'em home to Miyako City.\nOh, and we need four to save everyone. Okay, bud?"
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_100_CUT_000_070": {
+    "speaker": "Masatsuna_Mido",
+    "text": "I'm sorry as heck to lay all this at your feet,\nbut there it is. Just think of it as doing what\nyou can to save your friends and family, eh?\nNow hang in there, Son...and come home safe."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_100_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Beings of power, eh? Well, heck.\nWonder where I'll find those fellas."
+  },
+  "SUB_C01_SCAN_MIDO_INITIAL_WAVE_100_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The Wave's connected to four different doors.\nGuess I should've expected this, but how is a guy\nsupposed to go about deciding where to go first?"
+  },
+  "SUB_C01_DOOR_MIDO_FIRST_PORTAL_100_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Am I sure this is the door I want?\nIt's a heck of a decision here..."
+  },
+  "SUB_C01_DOOR_MIDO_FIRST_PORTAL_100_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. This is the one."
+  },
+  "SUB_C01_DOOR_MIDO_FIRST_PORTAL_100_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe not. Let's think about this."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So these are the Heavens, eh?\n...Sorta weird, but part of me\nfeels like I've been here before."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_010": {
+    "speaker": "Familiar_Voice",
+    "text": "Greetings, Tsunanori. If you are hearing this,\nit can only mean one thing: you have managed\nto reach the Heavens."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Mother! How in the heck did she manage\nto plant a message inside a <i>kugutsu</i>?\nBoy howdy, things sure got weird fast."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_030": {
+    "speaker": "Tadako_Mido",
+    "text": "Stubbornly stuck in the ancient ways, our country\nlost the war and was left teetering on the brink.\nBut if responsibility for that lies anywhere,\nit lies with men who have since passed."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_040": {
+    "speaker": "Tadako_Mido",
+    "text": "I married into the Mido family from one of the house's branch\nlineages—something that would have been unthinkable before the war.\nIt was eventually allowed out of fear that we would be unable to survive\nunless we discarded the shackles of our timeworn customs."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_050": {
+    "speaker": "Tadako_Mido",
+    "text": "You represent a new stage of the Mido family,\nTsunanori—a Mido family in which the lineages\nhave now been made whole."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_060": {
+    "speaker": "Tadako_Mido",
+    "text": "I need you to search for four spirits—four\nbeings of power said to reside in the Heavens.\nInstill their power in your <i>kugutsu</i>,\nand guide us into a new era."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_070": {
+    "speaker": "Tadako_Mido",
+    "text": "I know not what challenges await you in\nthe Heavens, but I trust you will overcome\nthem and shoulder the burden placed upon\nyou with your typical aplomb."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeesh. It's just like her to roll in\nand lay on the pressure like that.\nIf she held my feet any closer to the\nfire, I could use 'em to roast veggies."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess this is my first challenge.\nSure hope I can pull this off, but I\nguess that depends on my <i>kugutsu</i>."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_200_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "If that's how my adventure's starting,\nI bet the path ahead is gonna be rougher\nthan a back road in winter."
+  },
+  "SUB_C01_SCAN_MIDO_INITIAL_WAVE_200_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Two doors, eh? Wonder which one\nI should go for here."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So these are the Heavens, eh? Well, I can\nbreathe just fine, so I guess I haven't\nwandered into outer space or something."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_010": {
+    "speaker": "Familiar_Voice",
+    "text": "Greetings, Tsunanori. If you are hearing\nthis message, it means you managed to\npass through the stone gate."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, that's Uncle Tadamichi! So he left a\nmessage inside one of the <i>kugutsu</i>, eh?\nGuess this means everything's going just\nlike the guy planned."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_030": {
+    "speaker": "Tadamichi_Mido",
+    "text": "Our country is in peril—a fact one of your\ngeneration surely feels even more keenly\nthan myself. Hope dwindles by the day,\nand the people feel trapped and helpless."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_040": {
+    "speaker": "Tadamichi_Mido",
+    "text": "But I believe in you, Tsunanori. I trust\nyou possess the strength to overcome even\nthe worst of circumstances and take that\nfirst, crucial step toward the future."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_050": {
+    "speaker": "Tadamichi_Mido",
+    "text": "The Heavens are home to four beings of power.\nI want you to find them, acquire their strength,\nand return home. If you do this, their power\nwill become a guiding ray of light for us all."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_060": {
+    "speaker": "Tadamichi_Mido",
+    "text": "I have known you since you were just a baby,\nTsunanori, and when I think of how you now\nhave the courage to charge headlong into\nadversity, it fills me with pride as a Mido."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_070": {
+    "speaker": "Tadamichi_Mido",
+    "text": "I know not what might await you in the Heavens.\nAnd while this may come off as a flippant way\nto sum up the situation ahead...I truly hope\nyou enjoy your adventures in the other worlds."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Flippant doesn't really cover it there, Unc;\nhow's a guy supposed to know if he'll enjoy\nsomething until he gets thrown into it?"
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa! That was fast. Well, here's hopin'\nI find some kind of enjoyment here."
+  },
+  "SUB_C01_WRLD_MIDO_INITIAL_300_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Can't really say I enjoyed that, but it\nwas better than a swift kick in the rear."
+  },
+  "SUB_C01_WRLD_MIDO_1SPIRIT_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So this is my second time coming to the Lost\nRealms, and I can't say I'm excited to be back.\nHonestly, this is the kind of place nobody\nshould ever have to come to."
+  },
+  "SUB_C01_WRLD_MIDO_1SPIRIT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hold on just a second there.\nDid you call this place 'the Lost Realms'?\nI thought these here were the Heavens—\nplace the gods live and all that?"
+  },
+  "SUB_C01_WRLD_MIDO_1SPIRIT_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "We call them the Lost Realms because of\nhow easy it is to lose your way here. Also,\nwitches don't acknowledge the existence of\nsupernatural beings like... Ick. <i>Gods</i>."
+  },
+  "SUB_C01_WRLD_MIDO_1SPIRIT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not really the church-goin' types, eh?\nYeah, I feel you there—heck, it's not\nlike I've ever met any gods myself."
+  },
+  "SUB_C01_WRLD_MIDO_1SPIRIT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Still, this place looks a heck of a lot\ndifferent than it did when I first popped\nover through the Ama-no-Iwato Cave."
+  },
+  "SUB_C01_WRLD_MIDO_1SPIRIT_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "The Lost Realms don't really have a fixed\nappearance—or at least that's the impression\nI got from listening to stories from all the\nwitches who've passed through here."
+  },
+  "SUB_C01_WRLD_MIDO_1SPIRIT_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep, this place is kind of wild, all right.\nAnyway, suppose we better get to figuring\nout which door to go through next."
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, THAT was weird. That pose you did?\nWhat's that about?"
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yowch. I mean, I've always made a point of\nnot doing my pose in front of other folks,\nbut I figured a witch might be a bit more\nunderstanding about the whole deal."
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Eh, everybody's got their quirks. That said,\nI'd definitely avoid letting someone you're\nromantically interested in see you pull off\nsmooth moves like that.\fWhat was that little ritual\neven about, anyway?"
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So not even witches can see\nthe Emerald Wave, huh?"
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "What's that?"
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess you'd say it shows me\nthe path I'm meant to travel.\fSee, when I was a kid, I used to feel like my\nwhole life had already been laid out for me.\nDidn't much care for that to be honest,\nso I'd usually go anywhere but where it told me."
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But now, I feel like it helps keep me grounded\nwhen the stakes are high. Even when I've got\nother folks' hopes and dreams riding on me,\nit lets me stay focused and determined."
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Huh. I think I'm starting to understand why\nthe Arch Witch ordered me to join you...\nWell, don't worry about me—you just keep\nposing like crazy and follow that destiny."
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Much as I'd love to do that, I've actually\ngot <i>three</i> strands of the Emerald Wave\npoppin' out at me right now—the thickest\none being the suggested fate.\fYou got a read on this, maybe?\nWhich one should I go for?"
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Sorry, someone's <i>suggesting</i> a fate?\nUgh. What a contrived mess."
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I'm a road-less-traveled kind of girl,\nso how about we go for whichever one looks\nthe thinnest? That's the fate being pushed\nthe least, right?"
+  },
+  "SUB_C01_SCAN_MIDO_1SPIRIT_WAVE_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Had a feelin' you'd say that, bud.\nI don't much care for doing what I'm\ntold either, so let's make it happen."
+  },
+  "SUB_C01_WRLD_MIDO_2SPIRIT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I still need another two spirits.\nJust gotta repeat the process, I guess."
+  },
+  "SUB_C01_SCAN_MIDO_2SPIRIT_WAVE_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "What's wrong? You seem bothered."
+  },
+  "SUB_C01_SCAN_MIDO_2SPIRIT_WAVE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I was expecting the Emerald Wave to\nshow me two strands, but I'm seeing three.\nThird one's red as all get out, too."
+  },
+  "SUB_C01_SCAN_MIDO_2SPIRIT_WAVE_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Sounds like a warning to me."
+  },
+  "SUB_C01_SCAN_MIDO_2SPIRIT_WAVE_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure does. Where I'm from, red means\nyou should stop because there's something\nbad up ahead."
+  },
+  "SUB_C01_SCAN_MIDO_2SPIRIT_WAVE_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "So I guess you either ignore distractions in \norder to fulfill your mission, or give in to\ncuriosity and explore an unknown door?\fHeh. Fate sure seems to enjoy\nplaying games with you, huh?"
+  },
+  "SUB_C01_SCAN_MIDO_2SPIRIT_WAVE_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, quit pokin' fun. I've seriously\ngot no idea what to do here."
+  },
+  "SUB_C01_WRLD_MIDO_3SPIRIT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We're gettin' close to the end here.\nJust gotta stay the path."
+  },
+  "SUB_C01_WRLD_MIDO_4SPIRIT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All that's left to do is head\nback to Miyako City."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's time to head back to Miyako City,\nand I can't wait. But first things first..."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_000_010": {
+    "speaker": "Unknown_Person",
+    "text": "You've done an admirable job gathering\nthe power of four spirits."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Who the heck are you, fella—and how do\nyou know about the spirits? Seeing as you\nwere waiting for me in a place like this,\nI'm guessing you're not some average Joe."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_000_030": {
+    "speaker": "Unknown_Person",
+    "text": "You have asked a great many questions,\nlittle scion—questions I do not believe\nyou require the answers to."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "Now begone."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fella talked a big game, but he wasn't\nmuch to write home about in the end.\nWonder what his deal was?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Hey, weren't you in the middle\nof saying something before we\ngot pulled into that fight?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoops! Thanks for the reminder."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I can't thank everyone enough for\nhelping me track down spirits. And while\nI really appreciate it, I'm afraid this is where\nwe're gonna have to part ways."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thing is, Miyako City is closed off from\nother worlds—which is why I never would've\nimagined so many worlds were so closely\nconnected before going on this crazy journey."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There'd be trouble if you came to Miyako City. The government\nwould be eager as all get-out to grab you and run a bunch of weird\nexperiments, and my uncle would lead the charge. Can't be havin'\nyou go through that, you know? Better that we split now."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, are you serious right now?\nYou got what you wanted and now\nyou're kicking us to the curb?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It makes me sound like a class-A jerk when you put\nit that way, but yeah, I guess that's about the long\nand short of it. Sorry if it makes you cranky, but I'm\nconfident it's best for us to go our separate ways."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_080": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm kidding, Tsunanori. I'm well aware that you\ncome from an isolated world. Sort of a shame,\nthough—I've always wanted to visit Miyako City."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Sooo... Think we'll meet again?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You can bet on it.\nCan't say when, though."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...Off they go."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_120": {
+    "speaker": "Musashi_Kugutu",
+    "text": "We are with you always, Tsunanori."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks, Musashi."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_010_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now let's get ourselves home.\nMiyako City awaits."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's time to head back to Miyako City,\nand I can't wait. But first things first..."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Hey! Do NOT tell me you're going\nto try and get rid of us here."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Actually, yeah. That was the plan.\nBut now I've got this bad feeling\nI can't seem to shake.\fIt's like some little tickle telling me\nI'm going to need everyone's help to\ntake on whatever's waiting back home."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, we've come this far together,\nand I think I speak for everybody\nwhen I say we'd regret not seeing\nthe thing through to the bitter end."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fair enough. Er, but try not to stand out\ntoo much, all right? Oh, and don't let it\nbother you if folks stare like you just\ngrew a second head, yeah?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_001_010": {
+    "speaker": "Dolores",
+    "text": "Please don't say we will part ways here!\nOh, but I would simply hate that!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_001_030": {
+    "speaker": "Dolores",
+    "text": "I would follow you to the ends of any\nworld, Master! There is no danger great\nenough to drive me from your side!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_002_010": {
+    "speaker": "Gold_SubManager",
+    "text": "Hold it right there, pal. You'd best not\nbe thinking about not taking us to this\nMiyako City of yours."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_002_030": {
+    "speaker": "Gold_SubManager",
+    "text": "I'm here to enjoy life in Outside,\nso don't go ruining my fun!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_003_010": {
+    "speaker": "BX10_EX",
+    "text": "Have you determined that foreign elements\nmust not be introduced to Miyako City?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_003_030": {
+    "speaker": "BX10_EX",
+    "text": "Is this the judgment of the Emerald Wave\nonly you can see? If so, I suggest you do\nas it says, for it has yet to lead you astray."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_004_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Pah! Does your pathetic home truly\nhave no use for the Dismal King?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_004_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Well, you may be at ease, for I've no\nintention of wreaking havoc upon it.\nAll I desire is to reclaim my power\nand return to my own castle."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_005_010": {
+    "speaker": "Imakoo_Werewolf",
+    "text": "......"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_006_010": {
+    "speaker": "Erytheia",
+    "text": "Hm? Wait, are you trying to say\nwe'll be splitting up here?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_007_010": {
+    "speaker": "YellowWitchWillma",
+    "text": "Do you believe it is time for us\nto go our separate ways, Watcher?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_007_030": {
+    "speaker": "YellowWitchWillma",
+    "text": "While you should always pay heed to such \npremonitions, I'd ask you not to worry:\nthe power of the witches of Pulchra\nwill be plenty of help in a pinch!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_008_010": {
+    "speaker": "SquireAssasin",
+    "text": "Has this humble squire's role in your\nadventure come to an end, O Watcher?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_008_030": {
+    "speaker": "SquireAssasin",
+    "text": "Then we must give that hunch the utmost\nconsideration! However, I feel certain\nI would be of tremendous aid in whatever\nordeals may lie ahead."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_110_CUT_000_010": {
+    "speaker": "Musashi_Kugutu",
+    "text": "Is something amiss, Tsunanori?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_110_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Actually, yeah. I've got this bad feeling\nI can't seem to shake—some little tickle\ntelling me I'm going to need everyone's help\nto take on whatever's waiting back home."
+  },
+  "SUB_C01_WRLD_MIDO_REENTER_200_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Where'd that fella get to?\nI won't let him escape!"
+  },
+  "SUB_C01_SCAN_MIDO_REENTER_200_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's our door!"
+  },
+  "SUB_C01_WRLD_MIDO_REENTER_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Who the heck is gettin'\nin my way now, huh?"
+  },
+  "SUB_C01_SCAN_MIDO_REENTER_300_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Having me make the choices\nup to the end, eh?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_000": {
+    "speaker": "Unknown_Person",
+    "text": "I believe I bade you farewell.\nWhat are you doing here?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thing is, I'm not completely convinced that\ncutting Miyako City off from the rest of the\nworlds is such a hot idea, so I swung back by\nto see if I could find some answers."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_020": {
+    "speaker": "Unknown_Person",
+    "text": "Did you now? In any case, the answers you seek exist within Miyako City.\nBut let me ask you this: do you believe Miyako City to be a place of such\ninherent value that it should continue to exist? If the answer is yes,\nit must be separated from the Conjoined Worlds.\nIf no, it must be cut loose so as to not contaminate them."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not really much of a choice there.\nYou're saying it's gotta be cut loose\nno matter what, basically?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "Just so. The path before you is clear: return\nto Miyako City, destroy the stone gate with\na clear conscience, and separate it from the\nConjoined Worlds. This is the answer you seek."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, the Emerald Wave is pointing me toward\nthat door over there, so if what you're saying\nis true, it must lead to Miyako City.\nGuess I'll be off then."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_060": {
+    "speaker": "Unknown_Person",
+    "text": "Hold! Do you truly perceive the Emerald\nWave to be guiding you to that door?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No need to repeat what I just said right\nback at me, bud. Also, I'm guessing you\ndon't want me taking that door?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_080": {
+    "speaker": "Unknown_Person",
+    "text": "...No, perhaps it is fine. I must admit,\nthere is a part of me that wishes to see\nwhat might transpire when you face the true\nnature of the worlds that surround us."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't really care for the creepy look on your face\nright now, fella. Well, whatever. It's pretty clear\nthe answers I'm out here looking for are all on\nthe other side of that door."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_010_000": {
+    "speaker": "Unknown_Person",
+    "text": "You were born of the very laws which govern the worlds\naround us, and sent to Miyako City with the purpose of\nseparating it from the Conjoined Worlds. Only by doing\nso can the purity of all worlds be maintained."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You talk plenty about separation and purity and all that,\nbut Miyako City's ALREADY been influenced by other\nworlds. I mean, it might be changing at a lazy snail's\npace, but it IS changing. And you know what?\nI think that's fine. Change keeps life interesting."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_010_020": {
+    "speaker": "Unknown_Person",
+    "text": "What you call change, we call contamination.\nOther worlds will be infected, and to simply be 'fine'\nwith such is the utmost expression of pure insolence.\nI cannot imagine the laws of our worlds will take kindly to it."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_010_030": {
+    "speaker": "Unknown_Person",
+    "text": "Yet that you might return here was most unexpected indeed,\nfor you are the first child in all history who has managed to\nclimb back into the womb. I greatly look forward to seeing\nhow the worlds will react to this most unusual of situations."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_020_000": {
+    "speaker": "Unknown_Person",
+    "text": "So you mean to reject the very laws\nthat govern our existence!? Madness!\nSurely you don't believe such brazen\ninsolence will go unpunished!?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thought you said you were looking forward to\nseeing how this would turn out, guy. Sorta sad\nto hear you change your tune now that things\naren't working out like you hoped."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_030_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So that thing gave birth to me so I could\nseparate Miyako City from the Heavens, huh?\nI guess me not wanting to cut it loose is\nlike a baby holding onto its umbilical cord."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_030_010": {
+    "speaker": "Musashi_Kugutu",
+    "text": "I disagree, Tsunanori; I believe you\ndid a fine job of severing the cord\nby your own hand."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_030_020": {
+    "speaker": "Komachi_Kugutu",
+    "text": "Indeed, you are the only one\nwho can decide your fate."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_030_030": {
+    "speaker": "Sukune_Kugutu",
+    "text": "We are but <i>kugutsu</i>, and we will\nabide whatever choices you make."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_030_040": {
+    "speaker": "Bou_Kugutu",
+    "text": "C'mon, Tsunanori. Live a little!\nMake whatever choice seems interesting."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_300_CUT_030_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, it'd be a bummer to go through life\nbored out of my skull...so nuts to that!\nLet's jump outta Miyako City and go explore\nall sorts of worlds!"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you're originally from here, huh?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_000_010": {
+    "speaker": "Unknown_Person",
+    "text": "I thought you might return; you are not the type\nto attempt to save your world alone, for you have\nbeen gifted with the power to lead all the worlds\nto a single, unified future."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, that's none of my business—I'm just out here\nfigurin' out what I'm supposed to do, and I came to\nthe Heavens looking for answers. This is where it\nall started, so I figure it's the best place to look."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_000_030": {
+    "speaker": "Unknown_Person",
+    "text": "Just so. You were born here, then sent to\nMiyako City. After growing up, you journeyed\nacross various worlds, became more powerful,\nand finally returned to your point of origin."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "The Conjoined Worlds are one, and one world is enough.\nYou see the beautiful Emerald Wave, yes? The world you've\nchosen lies at the end. Now go forth and guide all the worlds\nbeyond into that emerald glow."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So the answers I'm looking for are on the other side of that door?\nWell, that's fine and dandy for me, but I feel like I shouldn't force\nother folks to come along for the ride. I mean, there are a lot of\ndoors out there, so what's wrong with just lettin' folks go through\nwhichever one they like best?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, the worlds I saw were all so different, I doubt there's\na way to fit 'em all into a single world and make it all work.\nEach world should be free to go its own way. That'd suit me\njust fine too—I've still got my own place I call home anyway."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_000_070": {
+    "speaker": "Unknown_Person",
+    "text": "So you refuse to guide us beyond that door?\nYou would abandon the worlds and their peoples so you\nmight be allowed to simply flit about wherever you please?\nIf such is your answer, then I must deem you a failure—\nand failures cannot be permitted to pass through the door."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_000_080": {
+    "speaker": "Unknown_Person",
+    "text": "It was your purpose to give birth to a new,\nradiant Conjoined Worlds. I know not how\nyou could have failed us so spectacularly,\nbut I intend to end this farce now."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_010_000": {
+    "speaker": "Unknown_Person",
+    "text": "This world of chaos is an utter failure.\nA world cannot be complete unless properly\ngoverned by beautiful rules of order."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Beauty's in the eye of the beholder, guy—\nand the last thing I want is a world based\nentirely around your messed-up values."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_010_020": {
+    "speaker": "Unknown_Person",
+    "text": "And what do YOU intend!? What beauty can there\npossibly be in a world selfishly devised by people so\nlacking in ideals!? What radiance can there be!? What joy!?\fNo, happiness can be found only when you first submit\nto order, and I will not permit one such as you to bring\nthe worlds to ruin!"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, looks like taking that thing out didn't cause\nthe Heavens to fall apart, which'll help me sleep\neasier at night. Also, I guess that means there\nwasn't a god who created the Heavens after all."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_020_010": {
+    "speaker": "Musashi_Kugutu",
+    "text": "Perhaps not. However, it may yet be the\nkind of place that births beings such as\nthe one we encountered. And in that case,\nTsunanori, what will you do?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_020_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't sweat it, guy. Dealing with stuff like\nthat as it comes is why we've got a Mido\nfamily—and why we've got you <i>kugutsu</i>."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now c'mon. We've got a door\nto walk through."
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_020_040": {
+    "speaker": "Komachi_Kugutu",
+    "text": "And where does it lead?"
+  },
+  "SUB_C01_EVNT_MIDO_LASTBATTLE_310_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Where else? The place we're\nmeant to return to."
+  },
+  "SUB_C01_GMCK_MIDO_EMERALDRIDE_000_CUT_000_001": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Again? What is it this time?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_000_CUT_000_011": {
+    "speaker": "Unknown_Person",
+    "text": "I should have expected no less from\nTerra's Scion. In any case, I'll be taking\nthe power of the spirits from you now."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_006_030": {
+    "speaker": "Erytheia",
+    "text": "Come on, lighten up a bit!\nThere's no problem I can't\nsort out for you."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_009_010": {
+    "speaker": "Byaku",
+    "text": "You mean to say we part ways here?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_009_030": {
+    "speaker": "Byaku",
+    "text": "Indeed. Come! We've yet to achieve\nwhat we set out to do."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "Do you not require the strength\nof the Four Tribes, Soul Voyager?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_014_010": {
+    "speaker": "Azure",
+    "text": "Surely you do not mean to say our voyage\nends here, sailor from an outer ocean."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_014_030": {
+    "speaker": "Azure",
+    "text": "Deus Maris's blessing is upon you.\nAbandon fear and press ever onward."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_015_010": {
+    "speaker": "Ivar",
+    "text": "Ye can't mean to say our voyage is\ncomin' to an end here, wee minnow."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_015_030": {
+    "speaker": "Ivar",
+    "text": "Aye, yer instinct is a sharp thing indeed,\nbut I'm sure as the sea is blue that there's\nnothin' we can't handle."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_016_010": {
+    "speaker": "Gruman_Mole",
+    "text": "What!? You're not done feeding\nme yummies, are you!?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_016_030": {
+    "speaker": "Gruman_Mole",
+    "text": "Yaaay! Boy, I hope Miyako City\nhas big, juicy worms!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_017_010": {
+    "speaker": "Guinevere",
+    "text": "You would have us part ways here?\nI cannot yet return to Avalon."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_017_030": {
+    "speaker": "Guinevere",
+    "text": "It's possible that whatever you're up against\nis far greater than you could possibly imagine...\nBut you don't need to hear that from me.\nForget I said anything."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_018_010": {
+    "speaker": "Mech_Bard",
+    "text": "You would leave me here? Woe!\nProfound sadness! I've no choice\nbut to self-detonate in despair!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_018_030": {
+    "speaker": "Mech_Bard",
+    "text": "A 'bad feeling,' is it? Magnificent!\nRejoice and weep tears of gratitude\nat my feet, for I shall make our tale\ninto an epic poem!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_019_010": {
+    "speaker": "Nana",
+    "text": "What? You mean...you're not\ngoing to guide me anymore?"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_019_030": {
+    "speaker": "Nana",
+    "text": "Yeesh, how is it that my Soyay always\nmanages to find their way into trouble?\nAt least things are never boring."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_020_010": {
+    "speaker": "Sarab",
+    "text": "19991999"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_021_010": {
+    "speaker": "Scarecrow",
+    "text": "Then this scarecrow shall\nreturn to the desert!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_021_030": {
+    "speaker": "Scarecrow",
+    "text": "Then this scarecrow shall\nreturn to Miyako City!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_022_010": {
+    "speaker": "Simon",
+    "text": "I suppose it simply wouldn't do to\nhave a machine of war like myself\ncausing a fuss in your homeland."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_022_030": {
+    "speaker": "Simon",
+    "text": "Let's hope your bad feeling doesn't\nturn out to be any more than just\na feeling."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_023_010": {
+    "speaker": "Kina_Kikiri",
+    "text": "You would deny me the pleasure of seeing\nthe former Soyay's homeland!? How cruel!\nI was so looking forward to seeing what kinds\nof fiends inhabited it!"
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_023_030": {
+    "speaker": "Kina_Kikiri",
+    "text": "Hurrah! The thought of seeing the fiends\nthat made the former Soyay as strong as\nthey are gives me chills."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_024_010": {
+    "speaker": "Lancelot",
+    "text": "Perhaps it would be discourteous\nfor me to simply invite myself into\nyour precious homeland."
+  },
+  "SUB_C01_DOOR_MIDO_RETURN_100_CUT_024_030": {
+    "speaker": "Lancelot",
+    "text": "Should you desire assistance,\nI shall answer the call. For such\nis what it means to be a knight."
+  }
+}

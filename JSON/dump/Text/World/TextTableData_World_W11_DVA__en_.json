@@ -1,0 +1,22 @@
+{
+  "W11_EVAR_DIVA_AREA_IN_TITLE": {
+    "speaker": "UI",
+    "text": "Kamala"
+  },
+  "W11_EVAR_DIVA_AREA_IN_DETAIL": {
+    "speaker": "UI",
+    "text": "You find a world full of plants and water on the other side of the door. But will you be able to find your heart?"
+  },
+  "W11_EVAR_DIVA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Temple Entrance"
+  },
+  "W11_EVAR_DIVA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It’s time to visit another world in the search for your heart."
+  },
+  "W11_EVAR_DIVA_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  }
+}

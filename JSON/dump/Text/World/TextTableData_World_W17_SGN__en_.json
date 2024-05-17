@@ -1,0 +1,102 @@
+{
+  "W17_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Brighthome: The Warrior World"
+  },
+  "W17_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After evading the attack of a mysterious assailant, you awaken in an unfamiliar place. Supposedly it is a world to which dead warriors are summoned."
+  },
+  "W17_SCAN_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "A New Ability"
+  },
+  "W17_SCAN_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You now have the ability to scan future possibilities."
+  },
+  "W17_EVAR_SIUG_EINHERJAR_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Generals"
+  },
+  "W17_EVAR_SIUG_EINHERJAR_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You have been assigned to a band of warriors called the Generals—but what is the purpose behind such a group to begin with?"
+  },
+  "W17_EVAR_SIUG_EINHERJAR_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Meeting With the Generals"
+  },
+  "W17_EVAR_SIUG_RUIN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Seizing the Ruins"
+  },
+  "W17_EVAR_SIUG_RUIN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The first phase of General's operation is to seize the ruins and attract the enemy's attention."
+  },
+  "W17_EVAR_SIUG_RUIN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Assault!"
+  },
+  "W17_EVAR_SIUG_TEMPLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Seize the Temple"
+  },
+  "W17_EVAR_SIUG_TEMPLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to head for the temple. The Guvs will protect the ruins in your stead."
+  },
+  "W17_EVAR_SIUG_TEMPLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Assault!"
+  },
+  "W17_EVAR_SIUG_HOLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Cleft of Chaos"
+  },
+  "W17_EVAR_SIUG_HOLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The time has come to march on the Cleft of Chaos, the source of all Brighthome's woes."
+  },
+  "W17_EVAR_SIUG_HOLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Assault!"
+  },
+  "W17_EVAR_SIUG_EINHERJAR_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Retreat"
+  },
+  "W17_EVAR_SIUG_EINHERJAR_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The operation was going so well. How did it end in failure?"
+  },
+  "W17_EVAR_SIUG_EINHERJAR_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Base"
+  },
+  "W17_EVAR_SIUG_CASTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Escape From Brighthome"
+  },
+  "W17_EVAR_SIUG_CASTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to bid farewell to this world of endless conflict."
+  },
+  "W17_EVAR_SIUG_CASTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Time to Depart"
+  },
+  "W17_EVAR_SIUG_EINHERJAR_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Generals"
+  },
+  "W17_EVAR_SIUG_EINHERJAR_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You have been assigned to a group of warriors called the Generals. What fate awaits you as part of this band?"
+  },
+  "W17_EVAR_SIUG_EINHERJAR_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Meeting With the Generals"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "W09_EVAR_AMYA_WORLDEXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Avalon Station"
+  },
+  "W09_EVAR_AMYA_WORLDEXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W09_EVAR_AMYA_WORLDEXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  },
+  "W09_EVAR_AMYA_NEKO_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Cat"
+  },
+  "W09_EVAR_AMYA_NEKO_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Time to find your cat."
+  },
+  "W09_EVAR_AMYA_NEKO_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start the Search"
+  },
+  "W09_EVAR_AMYA_NEKO_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat"
+  },
+  "W09_EVAR_AMYA_NEKO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There should be a cat around here."
+  },
+  "W09_EVAR_AMYA_NEKO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Cat"
+  },
+  "W09_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Avalon, the Capital"
+  },
+  "W09_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A train platform awaited you on the other side of the door. Could there be a cat in this world?"
+  }
+}

@@ -1,0 +1,1822 @@
+{
+  "SUB_W12_WRLD_BOFO_INITIAL_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hoo-ee! It's freezin' here!\nCan see my breath and everything."
+  },
+  "SUB_W12_WRLD_BOFO_INITIAL_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Bonnie, look! There are frozen people\nand even frozen buildings! Will that\nhappen to us if we stay here too long?"
+  },
+  "SUB_W12_WRLD_BOFO_INITIAL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I mean, it's cold, but it ain't <i>that</i> cold.\nSomething's real wrong in this world,\nso let's just find our triangle and go."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Oh wow, you two aren't frozen!\nBoy, am I ever glad to see you."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "You all right there, pardner?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Yes, ma'am, I'm fine. My name's Alexandre.\nAre you travelers?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "We are. I'm Formina Franklyn, and that's\nBonnie Blair. Everyone around here seems\nto be frozen—well, except for you, I guess.\nWhat happened here?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I wish I knew. Everything was normal when I went\ndown into the mine this morning, but when I came\nback up? Boom! Everything was frozen solid.\nI figure it's because of the curse, but..."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Oh, right. You wouldn't know about that, huh?\nSo, there was this emperor a long time ago.\nHe died cursing the people of Grelon, saying he'd\neventually freeze them right down to their hearts."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "I guess 'eventually' turned out\nto be today."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "So if this curse froze your whole world,\nwhy ain't you a popsicle? Were you doin'\nsomething in that mine that saved you?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "What? No! I didn't do anything,\nma'am, I swear!\fAs for why I'm not frozen, the only thing\nI can think of is that it has something to do\nwith these matches I brought into the mine. "
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_090": {
+    "speaker": "Alexandre",
+    "text": "Their light is supposed to ward off evil,\nso maybe they kept me from freezing."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "If those matches really do ward off evil,\nI wonder if they could be used to thaw\nall of these frozen residents."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_110": {
+    "speaker": "Alexandre",
+    "text": "Hey, that's a good idea! Will you come\nwith me while I try to unfreeze people?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "You bet we will, pardner."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "By the way, have you seen any\nstrange triangles around here?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_140": {
+    "speaker": "Alexandre",
+    "text": "Oh, sure! There's a strange triangle\npattern set in the palace gates."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_150": {
+    "speaker": "Bonnie_Blair",
+    "text": "Can you guide us there?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_160": {
+    "speaker": "Alexandre",
+    "text": "Okay, but you have to promise\nto help me unfreeze everyone."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_000_CUT_000_170": {
+    "speaker": "Bonnie_Blair",
+    "text": "You got our word, kid."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "You all right, kid? Not hurt at all?\nOh, and my name's Bonnie Blair,\nand that there is Formina Franklyn."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "My name's Alexandre. Everything was normal\nwhen I went down into the mine this morning,\nbut when I came back up? Boom! Frozen solid."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "So everyone abruptly froze today?\nThat's rather odd. Incidentally,\nhave you seen a triangle anywhere?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "...A triangle? What are you talking about?\nLook, all I care about is unfreezing all these\npeople, and I don't even know where to start!"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Okay, so if this curse froze your whole world,\nwhy ain't YOU frozen? 'Cause when somethin'\nterrible happens and one person is mysteriously\nunaffected, they're usually responsible."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "So you just happened to have some evil-wardin'\nmatches that saved you? Story strikes me as a\nmight outlandish, but I guess I trust you."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_101": {
+    "speaker": "Formina_Franklyn",
+    "text": "Yes, this does all seem rather convenient.\nStill if those matches really do ward off evil,\nmaybe they can be used to thaw the frozen people."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_110": {
+    "speaker": "Alexandre",
+    "text": "So will you two come with me\nand try to help the others?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure thing, kid."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_100_CUT_000_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "But first, I need to repeat my question:\nHave you seen an odd triangle around here?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm gonna need you to retrace the day's events in\nyour mind, pardner. Anything unusual happen?\nDid you do anything out of the ordinary?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "What? No! I didn't do anything, I swear!\nIt has to be because of the curse!\fOh, right. You wouldn't know about that, huh?\nSo there's an emperor from a long time ago who\ndied cursing the people of Grelon, saying he'd\neventually freeze 'em right down to their hearts. "
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I'm guessing this is all happening because\nof the curse—and that the reason I'm not\nfrozen is because of these matches."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "And where did you get these matches?\nDid someone give them to you?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "I... Oh, weird! I don't know who gave them to me!\nI found them in my pocket this morning, which is\nwhy I decided to go into the mine, but everything\nbefore that is a blank."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "So if we find whoever gave Alexandre\nthose matches, I bet we find the feller\nthat's behind this whole freezin' mess."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_091": {
+    "speaker": "Formina_Franklyn",
+    "text": "But for what purpose—and why spare this child\nin particular? Could this all be some sort of hint\nas to the location of our triangle?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Listen here, kid: I bet dollars to donuts\nthose matches of yours could be used\nto unfreeze all the people here."
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "You got the power to save 'em. But at the\nsame time, this could all be part'a some trap\na villain-type set for us—or even for you.\nSo do you still wanna do it?"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_120": {
+    "speaker": "Alexandre",
+    "text": "Yes! I want to save everyone!"
+  },
+  "SUB_W12_EVAR_BOFO_REMNANT_200_CUT_000_130": {
+    "speaker": "Bonnie_Blair",
+    "text": "I like your spirit, kid—and don't you worry,\nwe'll be right there with you. But first,\nhave you seen a triangle like this anywhere?"
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_800_000": {
+    "speaker": "Alexandre",
+    "text": "I've only got eight matches left,\nwhich probably won't be enough\nto save everyone."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_800_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Eight matches left. Gotcha."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_400_000": {
+    "speaker": "Alexandre",
+    "text": "We've already used half the matches.\nThere's only four left."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_400_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, I like to see that as\na matchbook half full."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_100_000": {
+    "speaker": "Alexandre",
+    "text": "We've only got one match left."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_100_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Look on the bright side, kid:\nyou can still save one person!"
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "That was the last match.\nWe can't save anyone else."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "And no one knew jack about our\ntriangle. We've hit a dead end."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Don't say that! We have to find\na way to save everyone!"
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "If we could get into the final emperor's palace,\nwe might be able to solve the mystery of the curse—\nbut that gate's sealed tight by that mysterious triangle."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "But that don't mean it's okay to give up.\nLet's run through all this again."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Okay, Bonnie. You're right."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "Thank you both so much!"
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Don't be too grateful—we're just doing\nwhat we gotta do to get our triangle.\nAnd remember, if you want our help,\nyou gotta work with us on that."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_000_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "I know—and I will."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_100_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "The only thing we know for certain is that\nthe final emperor is involved somehow.\nOutside'a that, we got jack and squat."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_100_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're certainly not getting anywhere\nin terms of the triangle, either.\fWe'll keep investigating, of course, but we\nalso can't dismiss the possibility that\nAlexandre is behind this. Honestly, I'm not\nsure if we should keep working with him."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_100_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, I can't just abandon the kid like that!\nBut I reckon that's all the more reason I need\nyou viewing this through a coldly objective lens."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_100_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'll be honest: I sort of love this\nkindly-big-sister side of you."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_100_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey, I'm a real whip-cracker of a sister!\nAin't that right, Alexandre?\fNow let's go figure out how to bust into the\nfinal emperor's palace. That means going\nthrough this entire world again with a\nfine-tooth comb, so don't fall behind."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_100_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "Okay, ma'am, I won't.\nAnd thank you both."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_200_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "So long as we don't know who's behind\nall of this, I think it's dangerous to leave\nAlexandre alone."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_200_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Our only lead is the final emperor's palace;\nthe triangle's gotta be connected to that\nplace someway, somehow."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_200_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "So let's go figure out how to bust into the\nfinal emperor's palace. That means going\nthrough this entire world again with a\nfine-tooth comb, so don't fall behind."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_999_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's help them out."
+  },
+  "SUB_W12_FUNC_BOFO_MATCHES_999_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's think about this."
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_999_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Hey, that's Leia! Leia! Hey, Leia!\nLEIA, CAN YOU HEAR ME!?"
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_999_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Calm down, kid. You know this gal?"
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_999_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Oh, Leia is wonderful! She's a scholar\non a survey team who knows all sorts\nof fascinating stories about the past."
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_999_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sounds mighty impressive. And if she's\na scholar, she may know what caused\nyour world to freeze."
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_999_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I'm going to use a match to save her.\nAre you ready?"
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_999_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "You bet!"
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_999_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's give it some more thought."
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_000_CUT_000_160": {
+    "speaker": "Bonnie_Blair",
+    "text": "My name's Bonnie, and I'm lookin' for\na special triangle. You found anything\nlike that in all your diggin' around?"
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_000_CUT_000_170": {
+    "speaker": "Leia",
+    "text": "How odd—I'm also looking for a triangle!\nIt's the key to unlocking the final emperor's\npalace, you see, and there's just so much\nwe could learn about his reign in there!"
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_000_CUT_000_180": {
+    "speaker": "Bonnie_Blair",
+    "text": "Then I'm guessin' you\nain't found it yet."
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_000_CUT_000_190": {
+    "speaker": "Leia",
+    "text": "Correct. But it has to be somewhere in\nthis world, so I'm going to keep digging."
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_000_CUT_000_200": {
+    "speaker": "Bonnie_Blair",
+    "text": "Then we'll do the same! Well, maybe not\nso much with the diggin', but we'll sure\nkeep our eyes open. Thanks."
+  },
+  "SUB_W12_EVAR_BOFO_LEIA_000_CUT_000_210": {
+    "speaker": "Leia",
+    "text": "It's I who should be thanking you.\nPlease look after Alexandre for me."
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_000": {
+    "speaker": "Marion",
+    "text": "Hello, Alexandre. What brings you to Duvall?"
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "The library. We're hoping to do\nsome research on ancient symbols."
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_020": {
+    "speaker": "Marion",
+    "text": "How scholarly of you! Well, I know you could\nlearn a great deal about them from Nicolas\nFlamel's <i>Encyclopaedia Alchemica</i>, but I fear\nit is an extremely dangerous book.\fIts most important page is protected by mighty\nguardian beasts charged with keeping its secrets;\neven Leia from the survey team has decided\nnot to attempt it."
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "If it's that important of a book,\nI'd sure like to give it the once-over."
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_040": {
+    "speaker": "Marion",
+    "text": "In that case, I'll go prepare our\nsturdiest room for you. Good luck."
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "This must be the page."
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "The text says not to touch it, Miss Blair.\nSo, um... Are you sure you want to?"
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "The more it tells me not to touch it,\nthe more I want to."
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Is this the symbol for 'melt'?"
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_090": {
+    "speaker": "Alexandre",
+    "text": "I don't think we have enough artifacts\nto make this shape."
+  },
+  "SUB_W12_EVAR_BOFO_MARION_KEYQUEST_000_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Then our work ain't done.\nLet's go find more artifacts. "
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Boy, this slope sure is steep..."
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "What are you gettin' so nervous for? \nOh, lemme guess—you just wanna\nlook real fancy for Morgane."
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "Look, this is all really abrupt, okay?\nI haven't had time to mentally prepare."
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_010_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sorry, I shouldn't tease. Anyway, the whole\npoint of this is to fail, so you ain't got nothin'\nat all to be nervous about!"
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_010_040": {
+    "speaker": "Alexandre",
+    "text": "I know—but I'd still rather do it\nright once and impress Morgane!"
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "This is an artifact, right?"
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_020_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "It's like that ghost wanted\nto show us where it was."
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "I suppose—but I still don't understand\nwhy it would only come out if we failed\nat a skiing challenge."
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_020_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Next time we see the ghost,\nwe'll have to ask."
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_030_000": {
+    "speaker": "Alexandre",
+    "text": "I did it! I actually pulled it off!\nMorgane is going to think I'm SO cool!"
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_030_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "That's some real fine skiing, pardner—\nbut the whole point here was to fail."
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_030_020": {
+    "speaker": "Alexandre",
+    "text": "Whoops! That's right. It felt so good\nto be skiing that I completely forgot!"
+  },
+  "SUB_W12_EVAR_BOFO_MORGANE_KEYQUEST_000_CUT_030_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's try that one more time."
+  },
+  "SUB_W12_EVAR_BOFO_ERIC_KEYQUEST_000_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Dangerous though it may be, we're gonna\nhave to search these old mining tunnels."
+  },
+  "SUB_W12_EVAR_BOFO_ERIC_KEYQUEST_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "I'm counting on you, Miss Blair!"
+  },
+  "SUB_W12_EVAR_BOFO_ERIC_KEYQUEST_000_CUT_020_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "No sign of any artifacts here."
+  },
+  "SUB_W12_EVAR_BOFO_ERIC_KEYQUEST_000_CUT_020_010": {
+    "speaker": "Alexandre",
+    "text": "Could this be one?"
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_000_000": {
+    "speaker": "Guillaume",
+    "text": "Help! Fiends! Fiends appeared out\nof nowhere and tore my fields apart!"
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Wow, that's terrible. Do you think it's\nrelated to the curse of the final emperor?"
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I seriously doubt he cares\nabout that right now."
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_010_000": {
+    "speaker": "Guillaume",
+    "text": "Well, Alexandre! You saved me again."
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We're just glad you ain't hurt."
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_010_020": {
+    "speaker": "Guillaume",
+    "text": "I can't offer much in thanks, but you can\ntake anything you like from the windmill."
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_020_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Whatever we want from all this nothin'?\nMighty generous offer there, friend."
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_020_005": {
+    "speaker": "Alexandre",
+    "text": "All I see are bags of flour."
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_020_010": {
+    "speaker": "Alexandre",
+    "text": "Wait, hold on... Isn't this an artifact?\nWhat's it even doing here?"
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_020_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Now THAT we'll take!"
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_020_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Better show it to Guillaume."
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_020_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey, Guillaume said we could take what we wanted.\nPlus, I'm sure he don't wanna be involved in all this\nartifact business, so we'll just pocket it."
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_020_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "This could be important to Guillaume.\nBest ask before we walk off with it."
+  },
+  "SUB_W12_EVAR_BOFO_GUILLAUME_QUEST_000_CUT_020_060": {
+    "speaker": "Alexandre",
+    "text": "I was thinking the same thing."
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_100_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Have you heard about any ancient artifacts\nbeing found in this mine, Esperance?"
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_100_CUT_000_010": {
+    "speaker": "Esperance",
+    "text": "This is a mine, not an archaeological site.\nAlso, the other mines are still frozen,\nand I have my hands VERY full dealing\nwith all of them at the moment.\fNow perhaps you can go unfreeze those\nother mines and stop pestering me with\nall of these inane questions?"
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_100_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Eeep! Sorry we bothered you."
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_100_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wow, that's some gratitude for you.\nKid unfreezes you, and you give him\nthe business first chance you get."
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_100_CUT_000_040": {
+    "speaker": "Esperance",
+    "text": "Yes, I suppose he did save my life...\fMy apologies, Alexandre. I've been terribly\nbusy trying to find out what's going on in\nthe other mines, and I fear it's left my\ntemper rather frayed."
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "In that case, we'll check them out for you!\nIf I see anything out of the ordinary,\nI'll come let you know right away."
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_100_CUT_000_060": {
+    "speaker": "Esperance",
+    "text": "That would be a huge help.\nThank you."
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_100_CUT_000_070": {
+    "speaker": "Esperance",
+    "text": "Do be careful out there, all right?"
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_110_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "You think maybe we'll wrangle up\nan artifact in this here mine?"
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_110_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "The thought <i>did</i> cross my mind...\nLet's see what we can find!"
+  },
+  "SUB_W12_EVAR_BOFO_ESPERANCE_QUEST_110_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Guess I shouldn't have figured\nit would come so easy."
+  },
+  "SUB_W12_EVAR_BOFO_VIRGILE_QUEST_000_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Why were you so all-fired eager\nto pick up the firewood?"
+  },
+  "SUB_W12_EVAR_BOFO_VIRGILE_QUEST_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "Because this could also be\nconnected to the artifacts!"
+  },
+  "SUB_W12_EVAR_BOFO_VIRGILE_QUEST_000_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I sure hope you're right, kid."
+  },
+  "SUB_W12_EVAR_BOFO_VIRGILE_QUEST_030_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "No sign of any artifacts."
+  },
+  "SUB_W12_EVAR_BOFO_VIRGILE_QUEST_030_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "I know. Also, this wood\nwas <i>really</i> heavy."
+  },
+  "SUB_W12_EVAR_BOFO_VIRGILE_QUEST_030_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, at least we can cross this place\noff the list. That's a positive!"
+  },
+  "SUB_W12_GIMK_BOFO_WOODPILE_ARTEFACT_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Hang on, I think an artifact just fell out!\nSo Virgile really <i>did</i> see one in the woods!"
+  },
+  "SUB_W12_GIMK_BOFO_WOODPILE_ARTEFACT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Finders keepers!"
+  },
+  "SUB_W12_GIMK_BOFO_WOODPILE_ARTEFACT_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's show it to Virgile."
+  },
+  "SUB_W12_GIMK_BOFO_WOODPILE_ARTEFACT_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey, Virgile didn't even remember seeing this.\nPlus, I'm sure he don't wanna be involved in all\nthis artifact business, so we'll just pocket it."
+  },
+  "SUB_W12_GIMK_BOFO_WOODPILE_ARTEFACT_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "This belongs to Virgile, so we probably\nshouldn't just mosey off with it."
+  },
+  "SUB_W12_GIMK_BOFO_WOODPILE_ARTEFACT_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I was thinking the same thing."
+  },
+  "SUB_W12_EVAR_BOFO_SANDRINE_KEYQUEST_000_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "So this is where the inscription is, eh?\nAlso, that is one big rock—I wonder\nwhere they hauled it in from?"
+  },
+  "SUB_W12_EVAR_BOFO_SANDRINE_KEYQUEST_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "Hmm, let me see... 'When the divine sword\nwas sealed in ice by the devil's power,\nGod used the might of spring light to...'\fSorry, Miss Blair, but the word for 'melt'\nhas disappeared from the translation.\nI think someone actually erased it."
+  },
+  "SUB_W12_EVAR_BOFO_SANDRINE_KEYQUEST_000_CUT_010_011": {
+    "speaker": "Formina_Franklyn",
+    "text": "Seems someone really doesn't want us\nmelting the seal on the palace gates.\nWhat should we do?"
+  },
+  "SUB_W12_EVAR_BOFO_SANDRINE_KEYQUEST_000_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wait, what does the translation matter?\nIt's the original inscription what has the\nsymbol, and nothing's erased there."
+  },
+  "SUB_W12_EVAR_BOFO_SANDRINE_KEYQUEST_000_CUT_010_021": {
+    "speaker": "Alexandre",
+    "text": "Oh, right! It looks like the symbol on the\ninscription that corresponds to the erased\nword is...this one! That must be our 'melt.'"
+  },
+  "SUB_W12_EVAR_BOFO_SANDRINE_KEYQUEST_000_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "I don't think we have enough\nartifacts to make this shape."
+  },
+  "SUB_W12_EVAR_BOFO_SANDRINE_KEYQUEST_000_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Then our work ain't done.\nLet's go find us more artifacts. "
+  },
+  "SUB_W12_EVAR_BOFO_THERMAE_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "These must be the bathhouse\nruins we heard about."
+  },
+  "SUB_W12_EVAR_BOFO_THERMAE_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Look, Miss Blair! Graffiti!"
+  },
+  "SUB_W12_EVAR_BOFO_THERMAE_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "That one looks like the seal, don't it?\nCan you read what it says?"
+  },
+  "SUB_W12_EVAR_BOFO_THERMAE_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Hmm... The words being used are really old,\nso I'm not entirely sure, but I think it says\nsomething like, 'These baths should all freeze!'"
+  },
+  "SUB_W12_EVAR_BOFO_THERMAE_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Somebody really hates bein' clean."
+  },
+  "SUB_W12_EVAR_BOFO_THERMAE_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nothin' else here seems\nall that interesting."
+  },
+  "SUB_W12_EVAR_BOFO_TOWER_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "These must be the watchtower\nruins we heard about."
+  },
+  "SUB_W12_EVAR_BOFO_TOWER_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Look, Miss Blair! Graffiti!"
+  },
+  "SUB_W12_EVAR_BOFO_TOWER_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "That one looks like the seal, don't it?\nCan you read what it says?"
+  },
+  "SUB_W12_EVAR_BOFO_TOWER_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Hmm... It's really old language, so I'm not\nentirely sure, but I think it says something\nlike, 'Freeze, you creepy peepers!'"
+  },
+  "SUB_W12_EVAR_BOFO_TOWER_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Guess every world has its peepers."
+  },
+  "SUB_W12_EVAR_BOFO_TOWER_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nothin' else here seems\nall that interesting."
+  },
+  "SUB_W12_EVAR_BOFO_CHAPEL_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "These must be the church\nruins we heard about."
+  },
+  "SUB_W12_EVAR_BOFO_CHAPEL_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Look, Miss Blair! Graffiti!"
+  },
+  "SUB_W12_EVAR_BOFO_CHAPEL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "That one looks like the seal, don't it?\nCan you read what it says?"
+  },
+  "SUB_W12_EVAR_BOFO_CHAPEL_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Hmm... The words being used are really old,\nso I'm not entirely sure, but I think it says\nsomething like, 'Freeze, church!'"
+  },
+  "SUB_W12_EVAR_BOFO_CHAPEL_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "What in tarnation?\nEven the church had enemies!"
+  },
+  "SUB_W12_EVAR_BOFO_CHAPEL_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nothin' else here seems\nall that interesting."
+  },
+  "SUB_W12_EVAR_BOFO_RUINS_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "This is one of those artifacts, isn't it?"
+  },
+  "SUB_W12_EVAR_BOFO_RUINS_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "I think we need a few more artifacts\nbefore we can crack that seal open.\nLet's visit some other locations."
+  },
+  "SUB_W12_EVAR_BOFO_RUINS_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "This should be enough artifacts to open\nthe seal. Let's head back to the palace."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "That triangle on the palace\ngates looks pretty familiar."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "That said, I don't think it's the\nsame triangle we're looking for."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "This is the palace of the final emperor.\nIt was built over a thousand years ago,\nbut everything's still completely intact."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "So this is where the feller behind the curse\nlives? Suppose we should pay him a visit,\nmaybe lift a curse while we're at it."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_000_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "That isn't possible. Those gates won't open,\nand even though those walls look climbable,\nthere are other invisible walls that block you."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I sense great power here—everyone who lives\nnear this place can feel it. That's why we've\nbeen worried all this time that the curse of\nthe final emperor is real."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "And this triangle may be the key to it all.\nThey really do seem to like us lately..."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, we ain't gonna get anywhere till\nwe get more info about all this."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_000_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "Right! Let's unfreeze some people!"
+  },
+  "SUB_W12_EVAR_BOFO_GABRIEL_100_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "My name's Bonnie, and I'm lookin' for\na special triangle. You found anything\nlike that in all your diggin' around?"
+  },
+  "SUB_W12_EVAR_BOFO_GABRIEL_100_CUT_010_010": {
+    "speaker": "Gabriel",
+    "text": "By triangle, are you referring to the symbol\nin the seal upon the final emperor's palace?\nPlease don't tell me you intend to break it."
+  },
+  "SUB_W12_EVAR_BOFO_GABRIEL_100_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm guessin' that means\nyou ain't found it."
+  },
+  "SUB_W12_EVAR_BOFO_GABRIEL_100_CUT_010_050": {
+    "speaker": "Gabriel",
+    "text": "Since times long past, numerous people have\ndevoted their lives to breaking that seal,\nmyself among them.\fThe key to unlocking it exists within\nthis world, but no one knows where.\nThat is all I can tell you."
+  },
+  "SUB_W12_EVAR_BOFO_ROMAIN_100_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "My name's Bonnie, and I'm lookin' for\na special triangle. You found anything\nlike that in all your diggin' around?"
+  },
+  "SUB_W12_EVAR_BOFO_ROMAIN_100_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "You bet, pardner!"
+  },
+  "SUB_W12_EVAR_BOFO_ROMAIN_100_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nah, this ain't my fight."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_010_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Okay, let's open the seal."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_010_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Huh? Why didn't it work?\nWhat are we missing?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_010_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Y'know, we saw a similar symbol to this back in\nthem ruins, but it was being used as part of a\nfreeze curse. Maybe this is a seal of freezin'?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_010_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "So could we maybe melt it?\nIf only I still had some matches..."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_010_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Melt it... Oh! Because if there's a symbol\nfor freezin', then there might be a symbol\nfor meltin', right?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_010_CUT_000_041": {
+    "speaker": "Formina_Franklyn",
+    "text": "You're suggesting that overwriting the\nfreezing symbol with the melting one\nmay open the seal? That's really smart."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_010_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Er, but do either of you even know\nwhat the melting symbol is?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_010_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nah, we ain't wizards—but I reckon\nit's somethin' we can research.\nGot any idea where to start?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_010_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "Absolutely! There's a library in Duvall,\nand a museum in Varsailles."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Now let's break that seal."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "You heard everyone's dreams about the final\nemperor, Miss Blair, so what do you think?\nWhat's your take on him now?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "It's hard to get a real sense of the feller,\nbut people sure seemed haunted by them dreams."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_021": {
+    "speaker": "Bonnie_Blair",
+    "text": "It's hard to get a real sense of the feller,\nbut people sure seemed to enjoy them dreams."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_022": {
+    "speaker": "Bonnie_Blair",
+    "text": "It's hard to get a real sense of the feller;\npeople's dreams were all over the place."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "I know what you mean—which is why I feel\nlike there's something awful waiting for us!"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_031": {
+    "speaker": "Alexandre",
+    "text": "I know what you mean—which is why I feel\nthere's something wonderful waiting for us!"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_032": {
+    "speaker": "Alexandre",
+    "text": "I know what you mean—which is why I feel\nlike things are about to get complicated."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "We've come this far, kid.\nNo reason not to go the distance."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I agree."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "The gate's open..."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "And the triangle is ours!"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "The gates to the palace are open!\nHow did you two do it!?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_010_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "You said this seal was a thousand years old,\nright, Alexandre? That would mean Quisstatium\nhas also been in existence all that time."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_010_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "And this seal was constructed in a way that\ngave us the triangle when it was broken.\nBut why? Was the final emperor an enemy\nof Quisstatium, perhaps?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_010_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "I have no idea—but we got us a triangle,\nwhich means there ain't no need to trouble\nourselves with the hows and whys anymore."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "I must admit I'm surprised at how quickly\nwe acquired the triangle in this world."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_010_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Maybe, but that just means we got no reason to\nproceed any farther. Probably best to leave the\nrest of this in the hands of its people."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_010_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "But Miss Blair, you were the one who\njust said we had to go the distance!"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_POSITIVE_100_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "The final emperor is you, kid. Right?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_POSITIVE_100_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Fair point. Let's keep going."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_POSITIVE_100_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "......"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_POSITIVE_100_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I reckon you can manage the rest all on\nyour lonesome, Alexandre—what with\nyou bein' the final emperor and all."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_POSITIVE_100_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Just make sure you unfreeze the rest of\nthem people, okay? That's all we ask in\nexchange for openin' that gate."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you really believe that Alexandre\nwas the final emperor?"
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's just say I hope I'm wrong.\nI really, REALLY hope I'm wrong."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "You and me both.\nWell, farewell, Grelon."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_000_030": {
+    "speaker": "LastEmperor",
+    "text": "I am reborn! The throne of Grelon\nbelongs to me once more!"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_NEGATIVE_100_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Got a trap ahead."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_NEGATIVE_100_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I dunno what kind of trap,\nbut we don't dare walk into it."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_NEGATIVE_100_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "If we know there's a trap,\ncould we use that somehow?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_NEGATIVE_100_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "That there's rookie thinkin', Formina.\nTurnin' the tables on a well-prepared\nopponent ain't easy. Best we withdraw."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_NEGATIVE_100_CUT_010_050": {
+    "speaker": "Alexandre",
+    "text": "But what about all the people\nwho are still frozen?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_NEGATIVE_100_CUT_010_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "You'll take care of 'em after the survey team has\nstudied the exterior of the palace and prepared\nthemselves to study its interior. There's still\na heck of a lot left for you to do, kid."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_NEGATIVE_100_CUT_010_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "For now, go find the survey team.\nTell them the rest is up to them."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_NEGATIVE_100_CUT_010_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "See you down the trail, kid."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you think Alexandre\nwas a part of the trap?"
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "I don't wanna know the answer to that,\nso please don't be askin'."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "He seemed like such a sweet kid..."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_100_000": {
+    "speaker": "Leia",
+    "text": "A moment, Alexandre."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_100_010": {
+    "speaker": "Alexandre",
+    "text": "Leia? What are you doing here!?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_100_020": {
+    "speaker": "Leia",
+    "text": "I want to go with you to the final emperor's\npalace. As a scholar, I have a great desire\nto be one of the first to see it."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_100_030": {
+    "speaker": "Alexandre",
+    "text": "That's not a problem, is it?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_100_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "We'll leave the rest to you, Leia."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_100_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's go together."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_100_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "I sure am glad you showed up when you did.\nWhatever comes next should be left in the\nhands of the people of Grelon."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_100_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is as far as we go, Alexandre.\nDo as Leia tells you, okay?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_100_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "See you down the trail, kid."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_020_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I was thinking we'd get our triangle\nfrom that Leia person."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_020_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "You might be right, but I expect we'd have\nbeen in for a heck of a dust-up inside the\nfinal emperor's palace."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_020_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Then it's a good thing we didn't."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_020_030": {
+    "speaker": "Leia",
+    "text": "So much...power...\nsurging through me...!"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_200_000": {
+    "speaker": "Gabriel",
+    "text": "Alexandre, wait a moment."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_200_010": {
+    "speaker": "Alexandre",
+    "text": "Gabriel? What are you doing here!?"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_200_020": {
+    "speaker": "Gabriel",
+    "text": "It seems I couldn't put my research behind me\nafter all; I just can't pass up a chance to\nenter the final emperor's palace!"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_200_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "We'll leave the rest to you, Gabriel."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_200_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is as far as we go, Alexandre.\nDo as Gabriel tells you, okay?"
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_030_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I was thinking we'd get our triangle\nfrom that Gabriel person."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_030_030": {
+    "speaker": "Gabriel",
+    "text": "So much...power...\nsurging through me...!"
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_300_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "We'll leave the rest to you, Romain."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_300_051": {
+    "speaker": "Bonnie_Blair",
+    "text": "Looks like we'd better go with 'em."
+  },
+  "SUB_W12_EVAR_BOFO_FENCEGATE_100_CUT_300_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is as far as we go, Alexandre.\nDo as Romain tells you, okay?"
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_040_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "You sure it was a good idea to leave\nall this in the hands of that Romain guy?"
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_040_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "I thought he was the one holdin' the\ntriangle, but turns out I was wrong.\nThat's why I think we can trust him."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_040_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I still can't help but worry..."
+  },
+  "SUB_W12_EVAR_BOFO_RETURN_000_CUT_040_030": {
+    "speaker": "Romain",
+    "text": "Gah!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Alexandre? That you?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "I owe everything to the two of you.\nLong have I sought those who possess\na power such as yours!\fIndeed, I am in awe of how effortlessly\nyou broke the seal that had flummoxed so\nmany for so long. You have my gratitude."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "So this was all part'a your plan, was it?\nWell played, Alexandre—or should I say,\nwell played, Final Emperor?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "For the moment, I remain merely Alexandre.\nBut once I reclaim the power sealed away in\nthe palace, the true emperor shall be reborn!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "So you ain't the emperor just yet."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "Surely you won't attempt\nto stand in my way?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Oh, I don't got an opinion about the rebirth \nof the final emperor. I just want to know what\nyou intend to do with all them frozen folk."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "I fully intend to unfreeze them,\nfor they are valued subjects all.\fBut I have another boon to beg: I would have you\ndestroy the being sealing away the emperor's\npower, for I have not the ability to do so myself—\nand without that, I cannot unfreeze the others."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Not too mighty of an emperor, are you?\nBut hey, if it gets them folk unfrozen,\nI got no reason to refuse."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "I trust you prefer me to express my\ngratitude in the form of Alexandre?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "You really pulled the wool over our eyes.\nQuite the little swindler, ain'tcha?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "This will be the last time I greet you in\nthis form. But should you visit Grelon again,\nknow that you will be most welcome here.\fFarewell to you both. I pray you meet with\ngreat success in the rest of your mission."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_000_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I wonder what this means for the future\nof Grelon, but I suppose that's not really\nany business of ours."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_010_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_010_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Alexandre? Was that you?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_010_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "There never was an 'Alexandre.' The boy you knew\nwas a mere phantom I created to manipulate people\ninto breaking the seal on my palace—a seal which\nhas now been very much sundered."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_010_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Actually, we got here by followin' our own choices.\nI know you think you tricked us, but we ain't above\nmanipulatin' folk ourselves—because what happens\nnext ain't up to you, but us."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_010_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "What happens now is that I will arise again\nto reign forevermore as the eternal emperor.\nDo you truly claim this to be an action of your\nchoosing? That your will alone grants me life?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_010_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wrong, darlin'. What ACTUALLY happens\nnext is that the emperor fails to rise again\nand is sealed away for all eternity."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_010_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "Pathetic fools! You misunderstand the extent\nof my power, and will pay for your hubris by\nbecoming a sacrifice in my resurrection rite!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_010_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "I wonder if that released everyone\nfrom the final emperor's curse?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_010_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "So all along, Alexander was...\nNo. I can't even think about it."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Alexandre? Was that you?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "No. I think it was...Leia."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "No wonder you knew so much about the final\nemperor, Leia—you ARE him. Heck, you even\npretended to be frozen so Alexandre would\nbring you here!\fThat's smart. Real smart.\nSo what happens now?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_040": {
+    "speaker": "Leia",
+    "text": "Nothing at all. Nothing is what happens.\nWhy, did you expect me to make some grand \ncackling proclamation about how the empire\nwill be reborn or the like?\fNo, the legend of the final emperor is long over,\nso I'm simply going to take some time and\nfigure out how to best use this power."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Are you going to unfreeze everyone?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_060": {
+    "speaker": "Leia",
+    "text": "Of course. Well, except for the jerks who pissed\nme off—they can stay frozen forever.\f...Aaah ha ha! Kidding! Oh my god, your faces!\nNo, out of respect for all of Alexandre's\nhard work, I intend to unfreeze everyone.\fThis is all because of you, Alexandre.\nYou should be very proud."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "This is... No. None of this feels right.\nI'm starting to understand why this place was\nsealed away in the first place, and I don't\nthink we should let the emperor's power out."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "You got a good head on your shoulders, kid.\nI was just thinking the exact same thing."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_000_090": {
+    "speaker": "Leia",
+    "text": "*sigh* Do the three of you know what it means\nto 'overstep your bounds'? If not, please allow\nme to teach you right now—but know that the\nfee for the lesson will be <i>your lives.</i>"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Leia, no! Stay with us!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_010_010": {
+    "speaker": "Leia",
+    "text": "...Alexandre? How strange. I was dreaming\nI'd acquired the power of the final emperor."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "It was a dream, Leia. Just a dream."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "Isn't that right, Miss Blair?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yep. Just a dream, all right."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "Is it okay to leave things like this?\nI mean, Leia doesn't remember anything."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_020_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We don't know whether the final emperor is\ntruly gone now or not. Heck, the feller might\neven manage to come back one day."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "And when that happens, someone will\nhave to stand and face him."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_020_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Someone like you, Alexandre."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "Maybe. I don't know if I'm capable of that,\nbut I'd certainly try my best."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_020_CUT_020_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Now you're talkin' like you got hair\non your chest! I reckon you're gonna\ngrow up into one heck of a man."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Alexandre? Was that you?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "No. I think it was...Gabriel."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "No wonder you knew so much about the final\nemperor, Gabriel—you ARE him. Heck, you even\npretended to be frozen so Alexandre would\nbring you here!\fThat's smart. Real smart.\nSo what happens now?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_040": {
+    "speaker": "Gabriel",
+    "text": "Nothing at all. Nothing is what happens.\nWhy, who could possibly believe that the final\nemperor might appear in this day and age?\fBut though the empire is naught but an\nanachronism at this point, the power here\ncan still be wielded in the modern day—\nand in very modern ways."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Are you going to unfreeze everyone?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_060": {
+    "speaker": "Gabriel",
+    "text": "Ah, that's right. There are still people\ntrapped in the ice, aren't there?\fWell, if you wish it, Alexandre, I will restore\nthem all. Otherwise, they will remain as they\nare now. This choice belongs to you alone—\nsuch is the essence of power."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "This is... No. None of this feels right.\nI'm starting to understand why this place was\nsealed away in the first place, and I don't\nthink we should let the emperor's power out."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "You got a good head on your shoulders, kid.\nI was just thinking the exact same thing."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_000_090": {
+    "speaker": "Gabriel",
+    "text": "You people are more clever than I thought.\nOnly a fool would settle for being ruled by\nsuch a power—the wise person chooses\nto rule for themselves!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "I never imagined it would end like this."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "You did great, Alexandre. Ain't no point in\ndwellin' on what's past; you need to focus\non what you can do next. I know Gabriel\nwould've wanted that for you."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "But is the emperor's power really gone?\nOr will it be restored one day?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_020_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Supposin' that it does come back.\nWhat would you do about it?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "I won't be ruled by that kind of thing.\nI'll fight it with everything I have."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_021_CUT_020_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "If that's how you feel,\nthen I reckon Grelon's in good hands."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "So you come to me once more, my new sacrificial\nlamb. You have been chosen; this monster that was\nonce hailed as emperor will now use your flesh to gain\na vast new power.\fAnd indeed, perhaps I will need to remain in\nthis land for the rest of time in order to\nkeep such a monstrous form at bay."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Don't play the victim with me, feller!\nYou're the one who sought that power;\nkeepin' the monster sealed away was\njust the price you had to pay for it."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_020": {
+    "speaker": "LastEmperorDemon",
+    "text": "To protect Grelon, I must eliminate the infernal\nbeings who come here from the Conjoined Worlds.\n<i>This</i> is why I require power—the blame for\nmy actions rests entirely with you and your ilk!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Don't you put that evil on us—we just\ncame here lookin' for a darned triangle!\nHeck, gettin' that was the only reason\nwe even unsealed your palace."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_031": {
+    "speaker": "LastEmperorDemon",
+    "text": "Ah, yes. The triangle. The mighty ever\nseek the triangles, and I was no different.\fBut in the end, it is never about the triangles.\nIt is about seeking power for its own sake—\nand again, I was no different."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_032": {
+    "speaker": "Bonnie_Blair",
+    "text": "Guess this is the point where I'm supposed\nto yell how we ain't never gonna be like you,\nbut we ain't got much credibility there.\nSo what'll it take to convince you?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_040": {
+    "speaker": "LastEmperorDemon",
+    "text": "You can destroy this vile flesh and release\nmy tormented soul from its sealing duties.\nFor I am so very weary..."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "But if the soul of the final emperor has\nbeen protecting Grelon this whole time,\nwho's going to do it when you're gone!?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_060": {
+    "speaker": "LastEmperorDemon",
+    "text": "You have wisdom enough to know\nthe answer to that question."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_000_070": {
+    "speaker": "LastEmperorDemon",
+    "text": "Now, you infernal being!\nShow me the nobility of your soul!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "The soul of the final emperor has been freed.\nNow tell me, Alexandre: Do you know the\nanswer to the riddle he posed at the end?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "I do. All of us who live in Grelon have to\ntake on the responsibility of protecting it.\nIt won't be easy, but it has to be done."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "You really are wise beyond your years, kid.\nCan you believe this plan of his was a\nthousand years in the makin'? I mean,\nI'm sorta surprised we won the day."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_100_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "It was all because of you and Miss Franklyn!\nSo farewell, and thank you for everything."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_000_000": {
+    "speaker": "LastEmperorSoul",
+    "text": "So my new form comes at last. Rejoice, for you\nhave been chosen! Your body has all I require:\ncompatibility with my soul, great magical power,\nand the charm to inspire others.\fAnd now, my vessel, I would have you\noffer unto me your flesh!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We never should've brought you here, kid;\nthis whole thing is one giant trap.\nBetter just let us handle this."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_000_011": {
+    "speaker": "Bonnie_Blair",
+    "text": "Now vamoose, kid! Scram!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_000_020": {
+    "speaker": "LastEmperorSoul",
+    "text": "I'll not let you escape this time!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_000_021": {
+    "speaker": "Alexandre",
+    "text": "BWAAAH!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nope! You're dealing with us now!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_000_040": {
+    "speaker": "LastEmperorSoul",
+    "text": "I will eradicate this filth!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Oh, thank you both!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_020_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Shoot, we're back in the Twilight Area?\nGuess we got ejected from Grelon."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_110_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I sure hope Alexandre is okay—and all the\nother people of Grelon, for that matter."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "Who seeks my power? Who has managed to\novercome the trial and enter my palace?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "So you're the final emperor, huh?\nKinda thought you'd be more of a\nhot tamale, to be honest. Guess this\nexplains why they sealed you away."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_000_019": {
+    "speaker": "Leia",
+    "text": "Your Majesty!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_000_020": {
+    "speaker": "Leia",
+    "text": "Grant me your power! I beg it of you!\nBecome one with me, that I might\nuse your strength to save this world!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "No, Leia! That won't save anything!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_000_040": {
+    "speaker": "Leia",
+    "text": "You mustn't judge a book by its cover,\nAlexandre. Besides, it will be <i>me</i> using\nthis power.... Using it to save the world!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_000_050": {
+    "speaker": "LastEmperorDemon",
+    "text": "I admire your ambition! Now let us see\nif your flesh is as strong as your will."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_000_060": {
+    "speaker": "Leia",
+    "text": "Nngh... So much...power...\nsurging through me!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "We gotta put a stop to this."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Leia, no! Stay with us!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_010_010": {
+    "speaker": "Leia",
+    "text": "I couldn't do it, Alexandre... I couldn't\nhandle the power of the final emperor..."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "Leia! LEIA!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_010_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "All right, Your Emperorness.\nYou ready to settle this?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_010_040": {
+    "speaker": "LastEmperorDemon",
+    "text": "Impudent fools! Do you think that\nwas all of the power I possessed!?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_010_041": {
+    "speaker": "LastEmperorDemon",
+    "text": "Have a taste of my TRUE might!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "So the final emperor is...gone?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I wish I could say you've seen the last of\nthe final emperor, but I have no proof\nof that. He may well return some day."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "No, that's okay. This is our problem now—so\nif he does come back, we'll just defeat him.\nWe can't afford to let anyone be tempted\nby that power ever again."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_020_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "In that case, kid,\nwe'll leave the rest to you."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "I'm going to become strong just like\nthe two of you. Thank you so much."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_120_CUT_020_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heh. I look forward to seeing it.\nCatch you down the trail, kid."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "Who seeks my power? Who has managed to\novercome the trial and enter my palace?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "So you're the final emperor, huh?\nKinda thought you'd be more of a\nhot tamale, to be honest. Guess this\nexplains why they sealed you away."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_000_019": {
+    "speaker": "Gabriel",
+    "text": "Your Majesty!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_000_020": {
+    "speaker": "Gabriel",
+    "text": "Grant me your power! I beg it of you!\nBecome one with me, that I might use\nyour strength to bring order to this world!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Gabriel, no!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_000_040": {
+    "speaker": "Gabriel",
+    "text": "Power is an ugly thing, Alexandre.\nFreedom and kindness are beautiful, yes,\nbut beautiful things cannot maintain order\nin this world. Only force can do that."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_000_050": {
+    "speaker": "LastEmperorDemon",
+    "text": "You believe yourself ready for my power?\nGood. Let us see if that is truly the case."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_000_060": {
+    "speaker": "Gabriel",
+    "text": "Nngh... So much...power...\nsurging through me!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "We gotta put a stop to this!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Gabriel! Stay with us!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_010_010": {
+    "speaker": "Gabriel",
+    "text": "I couldn't handle the power of the\nfinal emperor, Alexandre... But you..."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "GABRIEL!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "So the final emperor is...gone?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I wish I could say you've seen the last of\nthe final emperor, but I have no proof\nof that. He may well return some day."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "The lust for power is what kept the final\nemperor alive for so long. That's something\nwe all have inside us—and something that\nisn't ever going to change."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_020_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Alexandre, don't ever give in to\nthe final emperor's temptations."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "I hope I can resist—it helps that I don't\nlike what it turned the emperor into."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_020_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, we've gotta ride on, kid.\nGood luck to you."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_121_CUT_020_060": {
+    "speaker": "Alexandre",
+    "text": "Thanks for everything, both of you."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_000": {
+    "speaker": "LastEmperorSoul",
+    "text": "So my new form comes at last. Rejoice, for you\nhave been chosen! Your body has all I require:\ncompatibility with my soul, great magical power,\nand the charm to inspire others.\fAnd now, my vessel, I would have you\noffer unto me your flesh!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_010": {
+    "speaker": "Romain",
+    "text": "Remember well the fiend that haunts this\nplace, Alexandre. For when this occurs again\nsomeday, I want you to be the one to save\nthe children of the future."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_020": {
+    "speaker": "Romain",
+    "text": "As for you, demon, the new form you sought\nonce before stands before you now.\nCome and claim it, if you can!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_030": {
+    "speaker": "LastEmperorSoul",
+    "text": "I've no need of senile old fools. Begone! "
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_040": {
+    "speaker": "Romain",
+    "text": "Gah!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Romain!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_060": {
+    "speaker": "LastEmperorSoul",
+    "text": "Do not fear, child.\nSoon, you will be mine."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_070": {
+    "speaker": "LastEmperorSoul",
+    "text": "And as for you, my otherworldly visitor,\nI will brook no interference from your ilk!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Feller, I don't give a damn about your\nnefarious goals. But when you raise hands\nto a kid, you make yourself an enemy!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_000_090": {
+    "speaker": "LastEmperorSoul",
+    "text": "Bwaaa ha ha ha! Bold words indeed!\nBut have you the power to back them up?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "So the final emperor is...gone?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I sure wish I knew. I mean, it feels like it,\nbut I can't say if his power is really gone\nfrom this world or not.\fI know this, though: one day, this world is going to\nfind itself in crisis again. And when that day\ncomes, it will be your battle to fight.\nRomain knew it, and we know it, too."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "But I can't! I'll never be like Romain!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_010_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey now. Don't give up on a battle\nbefore it's even been fought."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_010_040": {
+    "speaker": "Alexandre",
+    "text": "I wish I had your confidence,\nbut...okay. I'll try."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_010_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Now that the curse is lifted, I hope all\nthem frozen folk are feelin' a lot warmer.\nBut our duty here is done, pardner,\nso you take care, all right?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_200_CUT_010_060": {
+    "speaker": "Alexandre",
+    "text": "I couldn't have done any of this without\nyou and Miss Franklyn. Thank you both."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "So you come to me once more, my new sacrificial\nlamb. You have been chosen; this monster that was\nonce hailed as emperor will now use your flesh to gain\na vast new power.\fAnd indeed, perhaps I will need to remain in\nthis land for the rest of time in order to\nkeep such a monstrous form at bay."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_010": {
+    "speaker": "Romain",
+    "text": "I have heard these words before, Alexandre—on\nthe day my father sent me fleeing from this palace.\nAnd I have spent every day since thinking about\nhow to release the emperor from his fate."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_020": {
+    "speaker": "Romain",
+    "text": "It is time to follow in my father's footsteps.\nExpel your exhausted self from that body and\nclaim mine instead! Then empower its flesh so\nI might seize command of this world from you!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_030": {
+    "speaker": "Romain",
+    "text": "Move forward with me, Alexandre."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I don't understand what you're saying,\nRomain! I don't understand at all!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_041": {
+    "speaker": "LastEmperorDemon",
+    "text": "!?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_050": {
+    "speaker": "Romain",
+    "text": "...There. The first phase is complete."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_051": {
+    "speaker": "Romain",
+    "text": "Now it is your turn, Alexandre."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hold it!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "I knew this was some sort of trap,\nbut I never figured YOU'D be the\none who set it, Romain."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_080": {
+    "speaker": "Romain",
+    "text": "There is nothing for you here, travelers;\nyour mission lies elsewhere. There is no\ncause for you to wager your life upon this."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Oh, you ain't wrong about that—\nbut I still can't walk away!"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_010_000": {
+    "speaker": "Romain",
+    "text": "Where did I go wrong? All I ever wanted\nwas to release the final emperor..."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_010_010": {
+    "speaker": "Romain",
+    "text": "I am a sinful man. A horror.\nThere can be no absolution for this."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "Oh, Romain..."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "The final emperor and Romain are both gone.\nDid... Did I do the wrong thing?"
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Not at all, darlin'. Because of you, the fiend\nthat was fused to the emperor is also gone,\nwhich means the curse has been lifted.\fYou did great, Alexandre. You won."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_010_050": {
+    "speaker": "Alexandre",
+    "text": "...I guess I did, huh? I mean, it really does\nfeel like a weight's been lifted off me."
+  },
+  "SUB_W12_EVAR_BOFO_ICECASTLE_210_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm afraid that this is where we\npart ways, Alexandre. Take care."
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "The door's locked. Should we break it down?"
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's bust it open!"
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's hold off."
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Something's here. Hold back, kid."
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "Oh. Okay."
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "A monster hidin' somewhere like this?\nGuess no place is safe around here."
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "The fiends are here because of the curse!\nGrelon's a peaceful place, I swear!"
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "There's still something here."
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_010_050": {
+    "speaker": "Alexandre",
+    "text": "And that does it! Er, right?"
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_010_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yep! We can use the cable car now."
+  },
+  "SUB_W12_EVAR_BOFO_FUNICULARBATTLE_000_CUT_010_070": {
+    "speaker": "Alexandre",
+    "text": "We can use this to get to the ski slope\nor down to the bottom of the hill!"
+  },
+  "SUB_W12_FUNC_BOFO_MELTBATTLE_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "The ice is changing, Miss Blair!"
+  },
+  "SUB_W12_FUNC_BOFO_MELTBATTLE_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "It's turnin' into a fiend!?\nWe're on it!"
+  },
+  "SUB_W12_FUNC_BOFO_MELTBATTLE_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "I've never seen a real-life fiend before!\nPeople said they roam around in caves and mines,\nbut I always thought those were just stories\nmade up to scare children."
+  },
+  "SUB_W12_FUNC_BOFO_MELTBATTLE_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "It's probably connected to the\nemperor's curse somehow."
+  },
+  "SUB_W12_FUNC_BOFO_MELTBATTLE_010_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Huh!? The ice is turning into a fiend again!"
+  },
+  "SUB_W12_FUNC_BOFO_MELTBATTLE_020_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Get a new trick, ice fiend!\nYou can't surprise me anymore!"
+  },
+  "SUB_W12_FUNC_BOFO_MELTBATTLE_020_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "If you let your guard drop,\nyou're as good as dead!"
+  },
+  "SUB_W12_FUNC_BOFO_MELTBATTLE_030_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Enough with this ice fiend business!"
+  },
+  "SUB_W12_FUNC_BOFO_MELTBATTLE_030_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We'll make quick work of 'em."
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Lemme ask you something, pardner:\nYou seen a strange triangle anywhere?"
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_010": {
+    "speaker": "Marion",
+    "text": "They say the emperors of yore wielded\nthe power of triangles. But if I may ask,\nwhat exactly is your purpose here?"
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_020": {
+    "speaker": "Morgane",
+    "text": "They don't make triangular skis.\nThat's all I know."
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_030": {
+    "speaker": "Eric",
+    "text": "We don't run into that\nsorta thing in the mines."
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_040": {
+    "speaker": "Guillaume",
+    "text": "Oh, I wouldn't know."
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_050": {
+    "speaker": "Esperance",
+    "text": "Well, I have some triangle-shaped mints!\nIs that what you're looking for?"
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_060": {
+    "speaker": "Virgile",
+    "text": "All mountains are triangles, if you think\nabout it—and plenty got strange shapes."
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_070": {
+    "speaker": "Romain",
+    "text": "The world is full of triangles,\nbut they have nothing to do with me."
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_090": {
+    "speaker": "Remi",
+    "text": "Can this strange triangle of yours liven up\nthe drudgery of my day-to-day existence?"
+  },
+  "SUB_W12_EVAR_BOFO_MIND_000_CUT_000_110": {
+    "speaker": "Sandrine",
+    "text": "Open your eyes. Triangles are everywhere!"
+  }
+}

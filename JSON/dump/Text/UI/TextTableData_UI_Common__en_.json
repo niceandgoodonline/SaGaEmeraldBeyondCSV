@@ -1,0 +1,570 @@
+{
+  "UI_SceneName_SaveLoad": {
+    "speaker": "UI",
+    "text": "Save / Load"
+  },
+  "UI_SceneName_Load": {
+    "speaker": "UI",
+    "text": "Load"
+  },
+  "UI_Sld_NoData": {
+    "speaker": "UI",
+    "text": "No saved data found."
+  },
+  "UI_Sld_HeaderText_Save": {
+    "speaker": "UI",
+    "text": "Save"
+  },
+  "UI_Sld_HeaderText_Load": {
+    "speaker": "UI",
+    "text": "Load"
+  },
+  "UI_Sld_SlotBtn_NewData": {
+    "speaker": "UI",
+    "text": "Create New Saved Data"
+  },
+  "UI_Sld_SlotBtn_AutoSave": {
+    "speaker": "UI",
+    "text": "Auto\nsave"
+  },
+  "UI_Sld_Decide": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Sld_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Sld_Action": {
+    "speaker": "UI",
+    "text": "Sort"
+  },
+  "UI_Sld_Delete": {
+    "speaker": "UI",
+    "text": "Delete"
+  },
+  "UI_Sld_Sort01": {
+    "speaker": "UI",
+    "text": "Newest"
+  },
+  "UI_Sld_Sort02": {
+    "speaker": "UI",
+    "text": "Oldest"
+  },
+  "UI_Sld_Sort03": {
+    "speaker": "UI",
+    "text": "Numerical"
+  },
+  "UI_Sld_Sort04": {
+    "speaker": "UI",
+    "text": "Numerical"
+  },
+  "UI_Sld_AroundNumText": {
+    "speaker": "UI",
+    "text": "Times Completed"
+  },
+  "UI_Sld_TotalAroundNumText": {
+    "speaker": "UI",
+    "text": "Total Completions"
+  },
+  "UI_Sld_DialogTitle_Save": {
+    "speaker": "UI",
+    "text": "Save Confirmation"
+  },
+  "UI_Sld_DialogTitle_Saving": {
+    "speaker": "UI",
+    "text": "Saving"
+  },
+  "UI_Sld_DialogTitle_Finish": {
+    "speaker": "UI",
+    "text": "Save Complete"
+  },
+  "UI_Sld_DialogTitle_Save_Error": {
+    "speaker": "UI",
+    "text": "Save Failed"
+  },
+  "UI_Sld_DialogTitle_Load": {
+    "speaker": "UI",
+    "text": "Load Confirmation"
+  },
+  "UI_Sld_DialogTitle_Corruption": {
+    "speaker": "UI",
+    "text": "Load Failed"
+  },
+  "UI_Sld_DialogText_Save": {
+    "speaker": "UI",
+    "text": "Create new saved data?"
+  },
+  "UI_Sld_DialogText_OverWrite": {
+    "speaker": "UI",
+    "text": "Overwrite this saved data?"
+  },
+  "UI_Sld_DialogText_Saving": {
+    "speaker": "UI",
+    "text": "Now saving.\nDo not turn off the power."
+  },
+  "UI_Sld_DialogText_Finish": {
+    "speaker": "UI",
+    "text": "Data saved!"
+  },
+  "UI_Sld_DialogText_Save_Error": {
+    "speaker": "UI",
+    "text": "Failed to save data!"
+  },
+  "UI_Sld_DialogText_Load": {
+    "speaker": "UI",
+    "text": "Load this saved data?"
+  },
+  "UI_Sld_DialogText_Corruption": {
+    "speaker": "UI",
+    "text": "Failed to load data!"
+  },
+  "UI_Sld_DialogSelect_Save": {
+    "speaker": "UI",
+    "text": "Save"
+  },
+  "UI_Sld_DialogSelect_OverWrite": {
+    "speaker": "UI",
+    "text": "Overwrite"
+  },
+  "UI_Sld_DialogSelect_Save_Error": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Sld_DialogSelect_Load": {
+    "speaker": "UI",
+    "text": "Load"
+  },
+  "UI_Sld_DialogSelect_Cancel": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Sld_DialogSelect_Corruption": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Sld_List_Data": {
+    "speaker": "UI",
+    "text": "DATA\n<arg 0>"
+  },
+  "UI_Sld_List_Time": {
+    "speaker": "UI",
+    "text": "<arg 0>:<arg 1>"
+  },
+  "UI_Cmn_AutoSave": {
+    "speaker": "UI",
+    "text": "Saving..."
+  },
+  "UI_Cmn_NowLoading": {
+    "speaker": "UI",
+    "text": "Loading..."
+  },
+  "UI_Sld_DialogSelect_Ok": {
+    "speaker": "UI",
+    "text": "OK"
+  },
+  "UI_LF_Btn_ClearCount": {
+    "speaker": "UI",
+    "text": "Times Completed"
+  },
+  "UI_LF_Btn_TotalClearCount": {
+    "speaker": "UI",
+    "text": "Total Completions"
+  },
+  "UI_Save_StoryName": {
+    "speaker": "UI",
+    "text": "<arg 0>'s Tale"
+  },
+  "UI_Sld_LoadFolder_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Sld_DialogTitle_Delete": {
+    "speaker": "UI",
+    "text": "Data Deletion"
+  },
+  "UI_Sld_DialogText_Delete01": {
+    "speaker": "UI",
+    "text": "Delete this saved data?"
+  },
+  "UI_Sld_DialogText_Delete02": {
+    "speaker": "UI",
+    "text": "Are you sure you want to delete this saved data?\nOnce it's gone, it's gone for good."
+  },
+  "UI_Sld_DialogSelect_Delete": {
+    "speaker": "UI",
+    "text": "Delete"
+  },
+  "UI_Sld_DialogSelect_DeleteCancel": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Sld_DialogText_Full": {
+    "speaker": "UI",
+    "text": "Cannot save data as your storage is full.\nPlease delete other data to make room."
+  },
+  "UI_MonsterDialog_Footer_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_MonsterDialog_Check_Caption": {
+    "speaker": "UI",
+    "text": "Confirm Unleashing"
+  },
+  "UI_MonsterDialog_Check_Body": {
+    "speaker": "UI",
+    "text": "Unleash the monster in this relic?"
+  },
+  "UI_MonsterDialog_Check_Button1": {
+    "speaker": "UI",
+    "text": "Unleash"
+  },
+  "UI_MonsterDialog_Check_Button2": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_MonsterDialog_Comp_Caption": {
+    "speaker": "UI",
+    "text": "Unleashing Complete"
+  },
+  "UI_MonsterDialog_Comp_Body": {
+    "speaker": "UI",
+    "text": "Monster unleashed!"
+  },
+  "UI_MonsterDialog_Comp_Button": {
+    "speaker": "UI",
+    "text": "Close"
+  },
+  "UI_MonsterDialog_Battle_Cancel": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_MonsterDialog_MonsterName": {
+    "speaker": "UI",
+    "text": "<arg 0>"
+  },
+  "UI_MonsterDialog_ConsumeHPText": {
+    "speaker": "UI",
+    "text": "Consumes: "
+  },
+  "UI_MonsterDialog_ConsumeHP": {
+    "speaker": "UI",
+    "text": "<arg 0>% HP"
+  },
+  "UI_CmnItemDialog_Caption_Item": {
+    "speaker": "UI",
+    "text": "Item Acquired"
+  },
+  "UI_CmnItemDialog_Caption_Weapon": {
+    "speaker": "UI",
+    "text": "Armament Acquired"
+  },
+  "UI_CmnItemDialog_Caption_Role": {
+    "speaker": "UI",
+    "text": "Role Learned"
+  },
+  "UI_CmnItemDialog_Caption_Skill": {
+    "speaker": "UI",
+    "text": "Tech/Spell Learned"
+  },
+  "UI_CmnItemDialog_Caption_Formation": {
+    "speaker": "UI",
+    "text": "Formation Learned"
+  },
+  "UI_CmnItemDialog_Caption_TangramPiece": {
+    "speaker": "UI",
+    "text": "Ritgram Shard Acquired"
+  },
+  "UI_CmnItemDialog_Caption_KeyItem": {
+    "speaker": "UI",
+    "text": "Key Item Acquired"
+  },
+  "UI_CmnItemDialog_Caption_MechaBody": {
+    "speaker": "UI",
+    "text": "Mech Frame Acquired"
+  },
+  "UI_CmnItemDialog_Caption_Idea": {
+    "speaker": "UI",
+    "text": "Concept Acquired"
+  },
+  "UI_CmnItemDialog_Caption_Sozai": {
+    "speaker": "UI",
+    "text": "Material Acquired"
+  },
+  "UI_CmnItemDialog_Caption_BloodArts": {
+    "speaker": "UI",
+    "text": "Blood Tech Learned"
+  },
+  "UI_CmnGetDialog_PartyMember": {
+    "speaker": "UI",
+    "text": "Your Retinue Has Grown"
+  },
+  "UI_CmnGetDialog_Cat": {
+    "speaker": "UI",
+    "text": "Cat Secured"
+  },
+  "UI_CmnGetDialog_SpecialtySkill": {
+    "speaker": "UI",
+    "text": "Proficient Skill"
+  },
+  "UI_CmnGetDialog_SupportRoll": {
+    "speaker": "UI",
+    "text": "Support Role"
+  },
+  "UI_CmnGetDialog_Formation": {
+    "speaker": "UI",
+    "text": "Formation"
+  },
+  "UI_CmnGetDialog_Mission03": {
+    "speaker": "UI",
+    "text": "New trials have been added."
+  },
+  "UI_CmnMissionGet_Tips": {
+    "speaker": "UI",
+    "text": "Tips"
+  },
+  "UI_CmnBtlDifficulty": {
+    "speaker": "UI",
+    "text": "Combat Difficulty"
+  },
+  "UI_CmnBtlReward": {
+    "speaker": "UI",
+    "text": "Combat Rewards"
+  },
+  "UI_CmnBtlRewardNone": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "UI_CmnBtlEnemy": {
+    "speaker": "UI",
+    "text": "Fiends"
+  },
+  "UI_TanmeiGeneration_02": {
+    "speaker": "UI",
+    "text": " "
+  },
+  "UI_SceneName_Option": {
+    "speaker": "UI",
+    "text": "Options"
+  },
+  "UI_SceneName_BtnConfig": {
+    "speaker": "UI",
+    "text": "Controls"
+  },
+  "UI_SceneName_KeyConfig": {
+    "speaker": "UI",
+    "text": "Keyboard Controls"
+  },
+  "UI_Option_KeyConfig_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Option_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Cut_ToThePast": {
+    "speaker": "UI",
+    "text": "Rewind"
+  },
+  "UI_Cut_Genus_Caption": {
+    "speaker": "UI",
+    "text": "Enthrall"
+  },
+  "UI_Cut_Genus": {
+    "speaker": "UI",
+    "text": "<arg 0> has become a thrall!\n<arg 1>'s maximum LP has increased by <decimal 2 0>."
+  },
+  "UI_Cut_Knight_Caption": {
+    "speaker": "UI",
+    "text": "Make Knight"
+  },
+  "UI_Cut_Knight": {
+    "speaker": "UI",
+    "text": "<arg 0> has become a knight!\nTheir maximum LP has returned to normal."
+  },
+  "UI_Cut_Mecha_Caption": {
+    "speaker": "UI",
+    "text": "Functionality Unlocked!"
+  },
+  "UI_Cut_Mecha": {
+    "speaker": "UI",
+    "text": "<arg 0> has unlocked an additional armament slot!"
+  },
+  "UI_LoadingCaution": {
+    "speaker": "UI",
+    "text": "This game has autosaving functionality.\nThe icon above displays when a save is in progress,\nso don't quit the game or turn off the power when you see it."
+  },
+  "UI_CmnReturnTitleDialog_Text": {
+    "speaker": "UI",
+    "text": "Return to the title screen?\n<color=#FF8686>Any unsaved progress will be lost.</color>"
+  },
+  "UI_CmnReturnTitleDialog_Caption": {
+    "speaker": "UI",
+    "text": "Confirmation"
+  },
+  "UI_CmnReturnTitleDialog_Choice01": {
+    "speaker": "UI",
+    "text": "Return to Title Screen"
+  },
+  "UI_CmnReturnTitleDialog_Choice02": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_CmnEndGameDialog_Text": {
+    "speaker": "UI",
+    "text": "Quit the game?\n<color=#FF8686>Any unsaved progress will be lost.</color>"
+  },
+  "UI_CmnEndGameDialog_Caption": {
+    "speaker": "UI",
+    "text": "Confirmation"
+  },
+  "UI_CmnEndGameDialog_Choice01": {
+    "speaker": "UI",
+    "text": "Quit Game"
+  },
+  "UI_CmnEndGameDialog_Choice02": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Cmn_MonsterArtsName": {
+    "speaker": "UI",
+    "text": "Monster-Specific Techs"
+  },
+  "UI_BtlEffectRefName01": {
+    "speaker": "UI",
+    "text": "Speed Up/Down"
+  },
+  "UI_BtlEffectRefName02": {
+    "speaker": "UI",
+    "text": "Attack Power Up/Down"
+  },
+  "UI_BtlEffectRefName03": {
+    "speaker": "UI",
+    "text": "Defense Up/Down"
+  },
+  "UI_BtlEffectRefName04": {
+    "speaker": "UI",
+    "text": "Spell Power Up/Down"
+  },
+  "UI_BtlEffectRefName05": {
+    "speaker": "UI",
+    "text": "Paralysis"
+  },
+  "UI_BtlEffectRefName06": {
+    "speaker": "UI",
+    "text": "Poison"
+  },
+  "UI_BtlEffectRefName07": {
+    "speaker": "UI",
+    "text": "Confusion"
+  },
+  "UI_BtlEffectRefName08": {
+    "speaker": "UI",
+    "text": "Frenzy"
+  },
+  "UI_BtlEffectRefName09": {
+    "speaker": "UI",
+    "text": "Darkness"
+  },
+  "UI_BtlEffectRefName10": {
+    "speaker": "UI",
+    "text": "Petrification"
+  },
+  "UI_BtlEffectRefName11": {
+    "speaker": "UI",
+    "text": "Stench"
+  },
+  "UI_BtlEffectRefName12": {
+    "speaker": "UI",
+    "text": "BP Cost Up/Down"
+  },
+  "UI_BtlEffectRefName13": {
+    "speaker": "UI",
+    "text": "Damage Immunity"
+  },
+  "UI_BtlEffectRefName14": {
+    "speaker": "UI",
+    "text": "Status Ailment Immunity"
+  },
+  "UI_BtlEffectRefName15": {
+    "speaker": "UI",
+    "text": "Tech Power Up/Down"
+  },
+  "UI_BtlEffectRefName16": {
+    "speaker": "UI",
+    "text": "Expand Combo Range"
+  },
+  "UI_CmnBtlDifficulty01": {
+    "speaker": "UI",
+    "text": "Easy"
+  },
+  "UI_CmnBtlDifficulty02": {
+    "speaker": "UI",
+    "text": "Normal"
+  },
+  "UI_CmnBtlDifficulty03": {
+    "speaker": "UI",
+    "text": "Hard"
+  },
+  "UI_CmnBtlDifficulty04": {
+    "speaker": "UI",
+    "text": "Brutal"
+  },
+  "UI_FormationEffects": {
+    "speaker": "UI",
+    "text": "Formation Effects"
+  },
+  "UI_Sld_DialogSelect_Full": {
+    "speaker": "UI",
+    "text": "Close"
+  },
+  "UI_Sld_TabSwitch_L": {
+    "speaker": "UI",
+    "text": "<button TabPrev>"
+  },
+  "UI_Sld_TabSwitch_R": {
+    "speaker": "UI",
+    "text": "<button TabNext>"
+  },
+  "UI_CmnBtlEnemy_Secret": {
+    "speaker": "UI",
+    "text": "?????"
+  },
+  "UI_CmnBtlEnemyNone": {
+    "speaker": "UI",
+    "text": "???"
+  },
+  "UI_TanmeiGeneration_01": {
+    "speaker": "UI",
+    "text": "Generation <arg 0>"
+  },
+  "UI_CmnChantingTime": {
+    "speaker": "UI",
+    "text": "Chanting Time: "
+  },
+  "UI_Sld_DialogText_Delete03": {
+    "speaker": "UI",
+    "text": "Deleting data.\nDo not turn off the power."
+  },
+  "UI_Sld_DialogTitle_Delete03": {
+    "speaker": "UI",
+    "text": "Deleting..."
+  },
+  "UI_Sld_DialogTitle_Delete04": {
+    "speaker": "UI",
+    "text": "Deletion Complete"
+  },
+  "UI_Sld_DialogText_Delete04": {
+    "speaker": "UI",
+    "text": "Data has been deleted!"
+  },
+  "UI_CmnItemDialog_Caption_PreOrder": {
+    "speaker": "UI",
+    "text": "Acquire Preorder Bonus Items"
+  },
+  "UI_CmnItemDialog_PreOrder": {
+    "speaker": "UI",
+    "text": "Preorder bonus items acquired!"
+  }
+}

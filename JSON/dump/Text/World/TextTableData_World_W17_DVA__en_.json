@@ -1,0 +1,30 @@
+{
+  "W17_EVAR_DIVA_WORLDEXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "King Din's Castle"
+  },
+  "W17_EVAR_DIVA_WORLDEXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You weren't able to find your heart in Brighthome. The time has come to look somewhere else."
+  },
+  "W17_EVAR_DIVA_WORLDEXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  },
+  "W17_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Brighthome: The Warrior World"
+  },
+  "W17_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You stepped through the door to find yourself in a world filled with conflict. Can you really find your heart in a world like this?"
+  },
+  "W17_SCAN_DIVA_INITIAL_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Chalk Citadel"
+  },
+  "W17_SCAN_DIVA_INITIAL_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should start by visiting the citadel."
+  }
+}

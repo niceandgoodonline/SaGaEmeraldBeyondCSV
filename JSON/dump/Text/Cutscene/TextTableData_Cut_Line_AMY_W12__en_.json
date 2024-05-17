@@ -1,0 +1,1830 @@
+{
+  "SUB_W12_WRLD_AMYA_INITIAL_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Holy wow, it is COLD here!\nAnd not just in the temperature\nsense—it's more than that."
+  },
+  "SUB_W12_WRLD_AMYA_INITIAL_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "It's almost like the Calamity had its way\nwith this world, 'cause people are frozen—\nheck, entire TOWNS are frozen!"
+  },
+  "SUB_W12_WRLD_AMYA_INITIAL_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "There's a power filling this world that I'm\nnot familiar with. It isn't magic, exactly,\nbut what IS it?"
+  },
+  "SUB_W12_WRLD_AMYA_INITIAL_100_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "It's almost like the Calamity had its way\nwith this world, 'cause people are frozen—\nheck, entire TOWNS are frozen!\nCould my cat really be here?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Oh wow, lady! You're not frozen!\nBoy, am I ever glad to see you."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "And I'm glad to see YOU!\nAre you from here?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "I sure am, ma'am! My name's Alexandre.\nAre you visiting?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yep! My name's Ameya Aisling.\nSo, uh, how'd everyone get frozen?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I wish I knew. Everything was normal when I went\ndown into the mine this morning, but when I came\nback up? Boom! Everything was frozen solid.\nI figure it's because of the curse, but..."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Oh, right. You wouldn't know about that, huh?\nSo, there was this emperor a long time ago.\nHe died cursing the people of Grelon, saying he'd\neventually freeze them right down to their hearts."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "I guess 'eventually' turned out\nto be today."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "But why today? And why aren't you frozen?\nDid you do something to cause this, Alexandre?\nBe honest with me."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "What? No! I didn't do anything,\nMiss Aisling, I swear!\fAs for why I'm not frozen, the only thing\nI can think of is that it has something to do\nwith these matches I brought into the mine. "
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_090": {
+    "speaker": "Alexandre",
+    "text": "Their light is supposed to ward off evil,\nso maybe they kept me from freezing."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well then, maybe you can also\nuse 'em to thaw people out!"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_110": {
+    "speaker": "Alexandre",
+    "text": "Hey, that's a good idea! Will you come\nwith me while I try to unfreeze people?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_120": {
+    "speaker": "Amaya_Aisling",
+    "text": "Of course!"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_130": {
+    "speaker": "Amaya_Aisling",
+    "text": "Nope. That's YOUR job."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_140": {
+    "speaker": "Amaya_Aisling",
+    "text": "Incidentally, have you seen\na cat around here?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_150": {
+    "speaker": "Alexandre",
+    "text": "No, sorry. But maybe one\nof the frozen people did?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_000_CUT_000_160": {
+    "speaker": "Alexandre",
+    "text": "But I have no idea what I'm doing!"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I was about to say the same to you!\nBut hey, have you seen a cat around here?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "A cat? No, I haven't seen a cat.\nBut I HAVE seen everyone frozen solid!\nEr, you don't think that's strange?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Everyone's frozen, but you're not?\nNot really a hard nut to crack,\nbut it's also not my business.\fSo my name is Ameya Aisling, and I'm a witch.\nI'm here looking for a cat—it's kind of a\nwitch thing—and I'm pretty sure you're\nsupposed to point me in the right direction."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "Gee, lady. At first I was relieved to see\nanother unfrozen person, but it seems like\nyou're out of your mind.\fWhy would I be pointing you to anything\nwhen everyone I know is frozen solid!?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "Don't try to trick me with kid stories!\nI mean, if you're the only one not frozen,\nit's kinda obvious you're behind it."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Matches that drive off evil, huh?\nYou know, with a little help from\nmy magic, you might be able to use\nthose to melt some of this ice."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_110": {
+    "speaker": "Alexandre",
+    "text": "Then we have to try! Oh, and my\nname's Alexandre, by the way.\nWill you help me unfreeze everyone?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_120": {
+    "speaker": "Amaya_Aisling",
+    "text": "Not convinced, but sure."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_130": {
+    "speaker": "Amaya_Aisling",
+    "text": "Leave me out of it, Mr. Freeze!"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_100_CUT_000_140": {
+    "speaker": "Amaya_Aisling",
+    "text": "One thing first, though: have\nyou seen a cat around here?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "My name is Ameya Aisling, and as a witch,\nI see frozen people, like, all the time.\nSo why are you the only one who ISN'T frozen?\nOh, and also, what's your name?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I'm Alexandre. I don't know anything\nabout this, and didn't have anything\nto do with it!\fHonestly, it's probably the curse of the\nfinal emperor; he swore with his dying breath\nthat he'd freeze everyone in Grelon\nright down to their hearts."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I'm guessing this is all happening because\nof the curse—and that the reason I'm not\nfrozen is because of these matches."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "Wowzers, that's some powerful magic.\nAre there magic users on this world?\nAlso, who gave you those matches?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "I... Oh, weird! I don't know who gave them to me!\nI found them in my pocket this morning, which is\nwhy I decided to go into the mine, but everything\nbefore that is a blank."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hmmm. It's pretty clear that someone on\nthis world commands a whole lot of magic—\nand also that they're up to something!\fI should probably just get my cat and go,\nbut I'm worried about Alexandre."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, Alexandre, I bet you could thaw out\nthe people here if you used those matches.\fProblem is, that's probably just what the\nperson who gave you the matches WANTS\nyou to do. 'Cause I mean, they're clearly\nusing you for something."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_110": {
+    "speaker": "Amaya_Aisling",
+    "text": "So knowing that, do you still want to\nunfreeze everyone? It's your choice,\nso don't rush into it."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_120": {
+    "speaker": "Alexandre",
+    "text": "I don't care! I want to save everyone!"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_130": {
+    "speaker": "Alexandre",
+    "text": "I don't want to be used. That's...scary."
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_140": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, since you're being so noble,\nI guess I could help you out.\nBy the way, have you seen a cat?"
+  },
+  "SUB_W12_EVAR_AMYA_REMNANT_200_CUT_000_160": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeah, I know the feeling. If you didn't\nfreeze these people, it's not on you\nto try and fix it."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_800_000": {
+    "speaker": "Alexandre",
+    "text": "I've only got eight matches left, which is\nprobably not enough to save everyone."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_800_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Eight matches left. Got it."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_400_000": {
+    "speaker": "Alexandre",
+    "text": "We've already used half the matches.\nThere's only four left."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_400_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Sounds about right."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_100_000": {
+    "speaker": "Alexandre",
+    "text": "We've only got one match left."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_100_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Think hard about who you\nwant to use it on!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "That was the last match.\nWe can't save anyone else."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "And there isn't anything more I can do,\nso I guess I'll just let the people\nof this world finish the job."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "No, Miss Aisling! Please don't say that!\nI want to find some way to save everyone!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Look, I only came here\nto find a lost cat..."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "But I can't abandon you."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "And I need to find it NOW!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Okay, fine. Let's think here for a second.\nEveryone's weird frozen dreams all had\none thing in common: the final emperor.\nSo tell me about him. What's he like?"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "They say he cast the last rays of light upon\nan empire standing on the brink of collapse.\nHe ended up confined in his palace when his\npeople rebelled, and then the empire crumbled."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Is that his palace right there?"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "If so, we should go check it out! I bet we'll\nfind something in there that could help us\nthaw out the rest of the people here."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_100": {
+    "speaker": "Alexandre",
+    "text": "Thank you so much, Ameya!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_110": {
+    "speaker": "Amaya_Aisling",
+    "text": "Happy to help! I feel like it's important\nthat I save you—for both of us."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_120": {
+    "speaker": "Alexandre",
+    "text": "...Then I guess this is goodbye."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_000_CUT_000_130": {
+    "speaker": "Amaya_Aisling",
+    "text": "Sorry, but this was never really my\nproblem in the first place, y'know?\nAnyway, I've got a cat to find!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_100_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Look, Alexandre. The final emperor was the\ncommon thread in everyone's dreams, so you\nguys just need to get to the bottom of\nthat whole mystery. Good luck!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_100_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "This kid has been my primary suspect from the\nstart, and I'm still not sure he's innocent.\nAlso, I still haven't found any sign of my cat.\nUgh. What a freakin' mess. What to do...?"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_100_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "I'll keep helping Alexandre."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_100_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's find Mr. Kitty!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_100_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "All right, Alexandre. We'll go solve\nthe final emperor's mystery together."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_100_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "Oh, thank you, Miss Aisling!\nSo the palace where he was sealed\naway is at the top of that hill."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_100_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Then let's go check it out!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_200_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "I still don't know who froze this world, \nor who gave Alexandre those matches.\nCan I really just walk away from a\nhumungous mystery like this?"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_200_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "This involves magic. I'm staying."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_200_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Nope. I need my cat and my power."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_200_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "We still don't know why your world was frozen,\nor who gave you those matches. All we know\nis that the answers have something to do with\nthis final emperor guy."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_200_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "Thank you for helping, Miss Aisling,\nThe palace where he was sealed away\nis right at the top of that hill."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "That was the last of the matches.\nWe can't save anyone else."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, if Alexandre's giving up,\nI guess it's time to go look for my cat."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Are you really going to quit, Alexandre?"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "There's no shame in tapping out."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "But there's nothing else I can do!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Okay, so the one thing all the weird dreams\nhad in common was that final emperor guy.\nSo talk to me! What was he like?"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "They say he cast the last rays of light upon\nan empire standing on the brink of collapse.\nHe ended up confined in his palace when his\npeople rebelled, and then the empire crumbled."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "The palace up on the hill?"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well then, let's go check it out! I bet we'll\nfind something in there that could help us\nthaw out the rest of the people here."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_090": {
+    "speaker": "Alexandre",
+    "text": "You're right, I shouldn't give up.\nI'm really sorry."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey, if we let it end here, I'll never find out\nwhat I was supposed to do in this world,\nso I gotta see it through to the end."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_110": {
+    "speaker": "Alexandre",
+    "text": "I'll try not to lose hope like that\nagain, Miss Aisling. I promise."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_120": {
+    "speaker": "Amaya_Aisling",
+    "text": "Aw, you've done great, Alexandre.\nThere's nothing to be ashamed about."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_010_CUT_000_130": {
+    "speaker": "Alexandre",
+    "text": "Thanks. That means a lot."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_110_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "My primary suspect wants to give up?\nMan, was I wrong about him all along?"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_110_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Everyone's dreams involved the final emperor,\nwhich means he holds the key to this thing.\nNow let's get the bottom of the mystery!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_110_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "You're right, Miss Aisling! If we do that,\nwe might be able to unfreeze everyone!\fAnd, um, I'm sorry for giving up.\nI shouldn't have done that."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_110_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "The final emperor's palace is on top\nof that hill. Let's go!"
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_210_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "If Alexandre gives up at this point, what does\nthat mean for whoever gave him those matches?\nI suppose whatever they were planning ends in\nfailure, which might be for the best."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_999_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I should help them out."
+  },
+  "SUB_W12_FUNC_AMYA_MATCHES_999_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Better think through this once..."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_999_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Hey, that's Leia! Leia! Hey, Leia!\nLEIA, CAN YOU HEAR ME!?"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_999_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Whoa, hey! Calm down!\nIs this person a friend of yours?"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_999_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Oh, Leia is wonderful! She's a scholar\non a survey team who knows all sorts\nof fascinating stories about the past."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_999_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Wow, that's impressive. She sounds like a\nreal smart cookie, which means she probably\nknows something about how stuff got frozen."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_999_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I'm going to use a match to save her.\nAre you ready?"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_999_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's do it!"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_999_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's think about this..."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_000_CUT_000_160": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey there! My name's Ameya. Do you know\nanything about how the world got frozen?"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_000_CUT_000_170": {
+    "speaker": "Leia",
+    "text": "I have no idea, though perhaps Alexandre\nwill learn something by thawing the other\nvictims. Will you keep helping him for us?"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_000_CUT_000_180": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oh, you bet! After all, I've got a question\nof my own that I need answered."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_000_CUT_000_190": {
+    "speaker": "Leia",
+    "text": "I don't know if I can answer this question\nof yours, but I'm happy to try."
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_000": {
+    "speaker": "Marion",
+    "text": "Hello, Alexandre. What brings you to Duvall?"
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "The library. We're hoping to do\nsome research on ancient symbols."
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_020": {
+    "speaker": "Marion",
+    "text": "How scholarly of you! Well, I know you could\nlearn a great deal about them from Nicolas\nFlamel's <i>Encyclopaedia Alchemica</i>, but I fear\nit is an extremely dangerous book.\fIts most important page is protected by mighty\nguardian beasts charged with keeping its secrets;\neven Leia from the survey team has decided\nnot to attempt it."
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "That just makes me all the more certain\nthere's useful stuff in there!\nNow gimme that book!"
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_040": {
+    "speaker": "Marion",
+    "text": "In that case, I'll go prepare our\nsturdiest room for you. Good luck."
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oooh, I sense a VERY strong power\nemanating from this page..."
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "Miss Aisling? The text says not to touch.\nSo, um... Are you sure you want to?"
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "Are you kidding? That just makes\nme want to touch it MORE!"
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "This is the symbol for 'thaw.'"
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_090": {
+    "speaker": "Alexandre",
+    "text": "I don't think we have enough artifacts\nto make this shape."
+  },
+  "SUB_W12_EVAR_AMYA_MARION_KEYQUEST_000_CUT_000_100": {
+    "speaker": "Amaya_Aisling",
+    "text": "Then we'll just have to find more!\nLet's go talk to everyone again."
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Boy, this slope sure is steep..."
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_010_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "C'mon, where'd your confidence go?\nMorgane would laugh her butt off\nif she could hear you now!"
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "That's what I DON'T want her to do,\nwhich is why I said it!"
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_010_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Aw, I'm sorry. I didn't mean to tease.\nLook, all you have to do is fail,\nwhich is about the easiest thing ever.\nYou've got nothing to worry about!"
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_010_040": {
+    "speaker": "Alexandre",
+    "text": "I know—but I'd still rather do it\nright once and impress Morgane!"
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "This is an artifact, right?"
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_020_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "This must be what that ghost\nwanted to tell us about."
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "I suppose—but I still don't understand\nwhy it would only come out if we failed\nat a skiing challenge."
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_020_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "I guess the message is that there are some\nthings you only learn through failure.\nEr, or whatever? Let's go with that."
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_030_000": {
+    "speaker": "Alexandre",
+    "text": "I did it! I actually pulled it off!\nMorgane is going to think I'm SO cool!"
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_030_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hooray! Er, I mean, boo, Alexandre! Booooo!\nWe need to FAIL here, remember?"
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_030_020": {
+    "speaker": "Alexandre",
+    "text": "Whoops! That's right. It felt so good\nto be skiing that I completely forgot!"
+  },
+  "SUB_W12_EVAR_AMYA_MORGANE_KEYQUEST_000_CUT_030_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Do it again—and get it right this time!\nEr, I mean, get it wrong?"
+  },
+  "SUB_W12_EVAR_AMYA_ERIC_KEYQUEST_000_CUT_010_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "It may be dangerous, but I think we\nstill have to search this old tunnel."
+  },
+  "SUB_W12_EVAR_AMYA_ERIC_KEYQUEST_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "I'm counting on you, Miss Aisling!"
+  },
+  "SUB_W12_EVAR_AMYA_ERIC_KEYQUEST_000_CUT_020_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Where there's fiends, there's artifacts!\nI mean, right?"
+  },
+  "SUB_W12_EVAR_AMYA_ERIC_KEYQUEST_000_CUT_020_010": {
+    "speaker": "Alexandre",
+    "text": "Could this be one?"
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_000_000": {
+    "speaker": "Guillaume",
+    "text": "Help! Fiends! Fiends appeared out\nof nowhere and tore my fields apart!"
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Wow, that's terrible. Do you think it's\nrelated to the curse of the final emperor?"
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "I have no idea, but we should\nprobably help out regardless."
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_010_000": {
+    "speaker": "Guillaume",
+    "text": "Well, Alexandre! You saved me again."
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_010_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Wait, you think ALEXANDRE saved you?\nThat's an interesting interpretation\nof what just happened."
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_010_020": {
+    "speaker": "Guillaume",
+    "text": "I can't offer much in thanks, but you can\ntake anything you like from the windmill."
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_020_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "I wonder if this place is\nfull of ancient treasure."
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_020_005": {
+    "speaker": "Alexandre",
+    "text": "All I see are bags of flour."
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_020_010": {
+    "speaker": "Alexandre",
+    "text": "Wait, hold on... Isn't this an artifact?\nWhat's it even doing here?"
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_020_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's grab it and go!"
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_020_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's show it to Guillaume."
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_020_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Guillaume said we could take whatever\nwe wanted, so we're all good here!"
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_020_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hmmm. But this might be precious to\nGuillaume—I'd feel bad if we didn't at\nleast ask him first."
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_QUEST_000_CUT_020_060": {
+    "speaker": "Alexandre",
+    "text": "I was thinking the same thing."
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_100_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Have you heard about any ancient artifacts\nbeing found in this mine, Esperance?"
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_100_CUT_000_010": {
+    "speaker": "Esperance",
+    "text": "This is a mine, not an archaeological site.\nAlso, the other mines are still frozen,\nand I have my hands VERY full dealing\nwith all of them at the moment.\fNow perhaps you can go unfreeze those\nother mines and stop pestering me with\nall of these inane questions?"
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_100_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Eeep! Sorry we bothered you."
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_100_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "What are YOU apologizing for!?\nYou're working your butt off to save\nall of these people!\fAnd you! Esperance!\nMaybe cut the attitude a bit!"
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_100_CUT_000_040": {
+    "speaker": "Esperance",
+    "text": "Yes, I suppose he did save my life...\fMy apologies, Alexandre. I've been terribly\nbusy trying to find out what's going on in\nthe other mines, and I fear it's left my\ntemper rather frayed."
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "In that case, we'll check them out for you!\nIf I see anything out of the ordinary,\nI'll come let you know right away."
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_100_CUT_000_060": {
+    "speaker": "Esperance",
+    "text": "That would be a huge help.\nThank you."
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_100_CUT_000_070": {
+    "speaker": "Esperance",
+    "text": "Do be careful out there, all right?"
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_110_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Did you volunteer to do this\nbecause you thought you might\nfind an artifact in here?"
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_110_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "The thought <i>did</i> cross my mind...\nLet's see what we can find!"
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_QUEST_110_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Guess I shouldn't have figured\nit would come so easy."
+  },
+  "SUB_W12_EVAR_AMYA_VIRGILE_QUEST_000_CUT_010_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Why did you agree to help\ngather firewood, Alexandre?"
+  },
+  "SUB_W12_EVAR_AMYA_VIRGILE_QUEST_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "Because this could also be\nconnected to the artifacts!"
+  },
+  "SUB_W12_EVAR_AMYA_VIRGILE_QUEST_000_CUT_010_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "I guess that makes sense.\nOkay then, let's get to it."
+  },
+  "SUB_W12_EVAR_AMYA_VIRGILE_QUEST_030_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, that was a big goose egg as\nfar as artifacts were concerned."
+  },
+  "SUB_W12_EVAR_AMYA_VIRGILE_QUEST_030_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "I know. Also, this wood\nwas <i>really</i> heavy."
+  },
+  "SUB_W12_EVAR_AMYA_VIRGILE_QUEST_030_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "All this hard work for nothing!"
+  },
+  "SUB_W12_GIMK_AMYA_WOODPILE_ARTEFACT_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Hang on, I think an artifact just fell out!\nSo Virgile really <i>did</i> see one in the woods!"
+  },
+  "SUB_W12_GIMK_AMYA_WOODPILE_ARTEFACT_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Let's hang onto it!"
+  },
+  "SUB_W12_GIMK_AMYA_WOODPILE_ARTEFACT_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Shouldn't we ask Virgile first?"
+  },
+  "SUB_W12_GIMK_AMYA_WOODPILE_ARTEFACT_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Virgile didn't even remember finding it!\nAnd besides, we don't want to drag him\ninto this if we don't have to."
+  },
+  "SUB_W12_GIMK_AMYA_WOODPILE_ARTEFACT_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Virgile was the one who found this,\nso we should probably get his\npermission before we just take it."
+  },
+  "SUB_W12_GIMK_AMYA_WOODPILE_ARTEFACT_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I was thinking the same thing."
+  },
+  "SUB_W12_EVAR_AMYA_SANDRINE_KEYQUEST_000_CUT_010_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Wow, this inscription is ancient!\nLooks like this world used magic\nin the past, too."
+  },
+  "SUB_W12_EVAR_AMYA_SANDRINE_KEYQUEST_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "Hmm, let me see... 'When the divine sword\nwas sealed in ice by the devil's power,\nour god used the might of spring light to...'\fSorry, Miss Aisling, but the word for 'melt'\nhas disappeared from the translation.\nI think someone actually erased it."
+  },
+  "SUB_W12_EVAR_AMYA_SANDRINE_KEYQUEST_000_CUT_010_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Good thing it's still preserved in the inscription\nitself. This symbol corresponds to the missing\npart, so this must be their word for 'melt.'"
+  },
+  "SUB_W12_EVAR_AMYA_SANDRINE_KEYQUEST_000_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "I don't think we have enough\nartifacts to make this shape."
+  },
+  "SUB_W12_EVAR_AMYA_SANDRINE_KEYQUEST_000_CUT_010_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Okay, then let's do another loop\nand try to find some more."
+  },
+  "SUB_W12_EVAR_AMYA_THERMAE_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "These must be the bathhouse ruins we\nheard about. I know I could sure use\na good soak right about now!"
+  },
+  "SUB_W12_EVAR_AMYA_THERMAE_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Miss Aisling, look at this graffiti!"
+  },
+  "SUB_W12_EVAR_AMYA_THERMAE_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "That looks like that seal we saw!\nCan you read it?"
+  },
+  "SUB_W12_EVAR_AMYA_THERMAE_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Hmm... It's a really old language, so I'm not\nentirely sure, but I think it says something\nlike, 'These baths should all freeze!'"
+  },
+  "SUB_W12_EVAR_AMYA_THERMAE_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "What sort of lunatic curses a bathhouse?\nCan't even imagine what's going on in\nthe head of whoever wrote that."
+  },
+  "SUB_W12_EVAR_AMYA_THERMAE_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "And sadly, that seems to be the\nonly interesting thing here."
+  },
+  "SUB_W12_EVAR_AMYA_TOWER_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "These must be the watchtower\nruins we heard about."
+  },
+  "SUB_W12_EVAR_AMYA_TOWER_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Miss Aisling, look at this graffiti!"
+  },
+  "SUB_W12_EVAR_AMYA_TOWER_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "That looks like that seal we saw!\nCan you read this?"
+  },
+  "SUB_W12_EVAR_AMYA_TOWER_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Hmm... It's really old language, so I'm not\nentirely sure, but I think it says something\nlike, 'Freeze, you creepy peepers!'"
+  },
+  "SUB_W12_EVAR_AMYA_TOWER_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "I bet someone from the palace wrote it.\nMaybe even the final emperor himself!"
+  },
+  "SUB_W12_EVAR_AMYA_TOWER_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "And sadly, that seems to be the\nonly interesting thing here."
+  },
+  "SUB_W12_EVAR_AMYA_CHAPEL_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "These must be the ruins of the church we\nheard about. Not exactly the greatest\nplace for a witch to visit."
+  },
+  "SUB_W12_EVAR_AMYA_CHAPEL_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Miss Aisling, look at this graffiti!"
+  },
+  "SUB_W12_EVAR_AMYA_CHAPEL_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "That looks like that seal we saw!\nCan you read this?"
+  },
+  "SUB_W12_EVAR_AMYA_CHAPEL_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Hmm... The words being used are really old,\nso I'm not entirely sure, but I think it says\nsomething like, 'Freeze, church!'"
+  },
+  "SUB_W12_EVAR_AMYA_CHAPEL_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "The church must have had a lot of power \nif someone hated it so much that they\nwanted it frozen solid."
+  },
+  "SUB_W12_EVAR_AMYA_CHAPEL_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "And sadly, that seems to be the\nonly interesting thing here."
+  },
+  "SUB_W12_EVAR_AMYA_RUINS_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "This is one of those artifacts, isn't it?"
+  },
+  "SUB_W12_EVAR_AMYA_RUINS_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeah, I don't think we have quite\nenough of these to open the seal.\nLet's go visit some other places."
+  },
+  "SUB_W12_EVAR_AMYA_RUINS_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "That should be enough artifacts to open\nthe seal! Let's head back to the palace."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "So this is the final emperor's palace?\nCan't wait to see what's inside!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Wait, Miss Aisling! Thing is, for as long\nas I can remember, I've heard the palace\nis cursed and that I should never, ever,\n<i>ever</i> go in there."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "C'mon, that's just something people say\nto scare kids! I mean, you don't REALLY\nbelieve in curses, do you?"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Well, um... Yes? Otherwise why\nis everyone frozen?\fWell, whether I believe or not, we're not\ngetting inside. Those gates won't open, and even\nthough those walls look climbable, there are\nother invisible walls that block you off."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_000_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "So the whole area has been sealed off?\nThat makes sense, considering something\nlike a magical seal has been placed\nover the gates here."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I sense great power here—everyone who lives\nnear this place can feel it. That's why we've\nbeen worried all this time that the curse of\nthe final emperor is real."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_000_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Which is all the more reason to solve this\nwhole final emperor mystery! Problem is,\nI can't break this seal with my own magic."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_000_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "Maybe the members of the survey team could\ntell us more about the final emperor."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_000_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Won't know until we ask!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_001_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "It's no good, Miss Aisling—we can't get through.\nThe gates won't open, and there are invisible\nwalls all around. Um, I mean, unless you know\nsomething I don't?"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_001_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "So the whole palace has been sealed off\nby some magical force? Hmm..."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_001_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "But we CAN get inside if we can break the seal,\nso let's ask those people from the survey team\nif they know anything!"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Say, Leia? Do you happen to know how to\nopen the gates to the final emperor's palace?"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_010": {
+    "speaker": "Leia",
+    "text": "You know as well as I that there's no way inside\nthat palace. If there was, I'd already be in there\ngiggling with archaeological delight!"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Is there anything that could help us open\nthat seal? A hint or a riddle or whatever?"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_030": {
+    "speaker": "Leia",
+    "text": "You, Miss Aisling, are no normal traveler\nif you can discern the seal in those gates\nat a mere glance."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey, it's what I do! Er, or what I\n<i>will</i> do when I'm done with my\nWitchterms, at any rate."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_050": {
+    "speaker": "Leia",
+    "text": "Fair enough. That said, we're not exactly\nexperts ourselves. Indeed, the knowledge and\ntechniques involved in commanding this sort of\ninvisible power have long since been lost to us.\fAll we know is that the pieces of the gates'\nseal were scattered and likely discarded."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "So there were a whole lot of 'em?"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_070": {
+    "speaker": "Leia",
+    "text": "We believe the adherents of the final emperor\nspent a great deal of time assembling the pieces\nof that seal. Sadly, this all happened centuries\nago, and the details have been lost to time."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_080": {
+    "speaker": "Leia",
+    "text": "We'd hoped our recent excavation of historical\nsites would turn up the rest of the pieces.\nNot because we're followers of the final emperor,\nmind; it's merely due to scholarly interest."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "Okay, thanks! That's super helpful.\nNow at least we know the pieces\nare out there somewhere."
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_100": {
+    "speaker": "Alexandre",
+    "text": "But those pieces could be anywhere\nin Grelon! We'll never find them all!"
+  },
+  "SUB_W12_EVAR_AMYA_LEIA_100_CUT_000_110": {
+    "speaker": "Amaya_Aisling",
+    "text": "Not with that attitude we won't!\nLook, finding all of them means a lot\nto me, too, which means I KNOW we'll\nsucceed if we put our minds to it!"
+  },
+  "SUB_W12_EVAR_AMYA_GABRIEL_100_CUT_100_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "But someone who isn't from this\ncountry—say, oh, maybe a witch?\nCould she enter the palace?"
+  },
+  "SUB_W12_EVAR_AMYA_GABRIEL_100_CUT_100_140": {
+    "speaker": "Amaya_Aisling",
+    "text": "So there's a key somewhere in this world?\nWell then, let's get out there and find it."
+  },
+  "SUB_W12_EVAR_AMYA_ROMAIN_100_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "I'll do all I can!"
+  },
+  "SUB_W12_EVAR_AMYA_ROMAIN_100_CUT_000_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "Nope. Not my problem."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_010_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Okay, let's open that seal!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_010_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Huh? Why didn't it work?\nWhat are we missing?"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_010_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeah, we saw a symbol like this in the ruins.\nIt's the part of the curse that freezes things,\nand no variation of it will do anything else.\nThis isn't going to open the seal for us."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_010_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Um, could we maybe melt it?\nIf only I still had some matches..."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_010_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oh my gosh, of COURSE! If we use the symbol\nfor 'thaw,' that should break the seal!\nLook at the big brain on Alexandre!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_010_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Er, but do you know the symbol\nfor thaw, Miss Aisling?"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_010_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Nope—but I bet someone who knows\nmore about this stuff would!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_010_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "Oh yeah! Maybe we could find\nsomething at the library in Duvall\nor the museum in Varsailles!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Okay, let's break that seal!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "You heard everyone's dreams about\nthe final emperor, right, Miss Aisling?\nSo what's your sense of him now?"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Those dreams all seemed TERRIBLE!\nAlthough less so for some, I guess."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_021": {
+    "speaker": "Amaya_Aisling",
+    "text": "Those dreams sounded GREAT!\nEr, but not for everybody, I guess."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_022": {
+    "speaker": "Amaya_Aisling",
+    "text": "Those dreams were all over the place.\nI have no idea what to think."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "I know what you mean—which is why I feel\nlike there's something awful waiting for us!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_031": {
+    "speaker": "Alexandre",
+    "text": "I know what you mean—which is why I feel\nthere's something wonderful waiting for us!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_032": {
+    "speaker": "Alexandre",
+    "text": "I know what you mean—which is why I feel\nlike things are about to get complicated."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, whatever's waiting for us in there,\nwe've made our choice."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Yes, you're right."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_100_000": {
+    "speaker": "Leia",
+    "text": "A moment, Alexandre."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_100_010": {
+    "speaker": "Alexandre",
+    "text": "Leia? What are you doing here!?"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_100_020": {
+    "speaker": "Leia",
+    "text": "I want to go with you to the final emperor's\npalace. As a scholar, I have a great desire\nto be one of the first to see it."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_100_030": {
+    "speaker": "Alexandre",
+    "text": "That's fine with me if it's\nokay with Miss Aisling."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_100_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey, you can't ever have too many\nexperts around, am I right?"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_100_050": {
+    "speaker": "Leia",
+    "text": "Wonderful."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_200_000": {
+    "speaker": "Gabriel",
+    "text": "Alexandre, wait a moment."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_200_010": {
+    "speaker": "Alexandre",
+    "text": "Gabriel? What are you doing here!?"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_200_020": {
+    "speaker": "Gabriel",
+    "text": "It seems I couldn't put my research behind me\nafter all; I just can't pass up a chance to\nenter the final emperor's palace!"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_200_030": {
+    "speaker": "Alexandre",
+    "text": "That's fine with me if it's\nokay with Miss Aisling."
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_200_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey, you can't ever have too many\nexperts around, am I right?"
+  },
+  "SUB_W12_EVAR_AMYA_FENCEGATE_100_CUT_200_050": {
+    "speaker": "Gabriel",
+    "text": "You have my thanks."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh, sorry?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Long have I sought one who possesses a power such\nas yours! Indeed, I am in awe of how effortlessly\nyou broke the seal that had flummoxed so many for\nso long. You have my eternal gratitude."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Alexandre, you butt! You could have\nbeen honest with me from the start!\nOr should I call you...the final emperor!?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "For the moment, I remain merely Alexandre.\nBut once I reclaim the power sealed away in\nthe palace, the true emperor shall be reborn!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "So you're saying this isn't set in stone?\nThat the final emperor may not end up\nresurrected after all?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "Would you look to deny me?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, I sure don't appreciate being lied to!\nBut honestly? I don't care. It's the people\nof this world who have everything to gain\nor lose here, so they should make the call.\fI do have to ask one thing, though:\nAre you really gonna thaw everyone out?\nOr was that also a lie?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "It was no lie, Miss Aisling—I fully intend\nto unfreeze them all, for they are His\nmost valued subjects.\fBut I have another boon to beg: I would have you\ndestroy the being sealing away the emperor's\npower, for I have not the ability to do so myself—\nand without that, I cannot unfreeze the others."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_000_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "Wow, look at the stones on you! I mean,\nI was willing to help you out before,\nbut you are REALLY pushing it.\fStill, if that's your last request,\nI'll do it—but let the world know\nit was Ameya Aisling who revived\nthe final emperor!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Thank you, Miss Aisling—I trust you\nprefer me to express my gratitude\nin the form of Alexandre?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_010_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Actually, I don't ever want to\ntalk to that lying liar again."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "Then this will be the last time you shall.\nBut should you visit Grelon again, know that\nyou will be most welcome here.\fFarewell, Miss Aisling. I pray you meet\nwith success in the rest of your mission."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_010_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "I'm almost afraid to find out\nwhat'll happen to Grelon now."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_000_CUT_010_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, nothing to do but find \nthat cat and get out of here!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh, sorry? Was that you, Alexandre?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "There never was an 'Alexandre.' The boy you knew\nwas a mere phantom I created to manipulate people\ninto breaking the seal on my palace—a seal which\nhas now been very much sundered."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "What, you think you were manipulating me? Not even!\nI was obeying my own destiny every step of the way,\nand every choice I made was my own. So what happens\nnow wasn't engineered by you, but by ME!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "What happens now is that I will arise again\nto reign forevermore as the eternal emperor.\nDo you truly claim this to be an action of your\nchoosing? That your will alone grants me life?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_000_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "No, because what <i>actually</i> happens now is that\nthe final emperor's resurrection fails and he\nends up sealed away for all eternity."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "Pathetic fool! You misunderstand the extent\nof my power, and will pay for your hubris by\nbecoming a sacrifice in my resurrection rite!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_010_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, that should take the fight out of the\nfinal emperor for a while—and hopefully\nthaw out everybody who's still frozen!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_010_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I dunno what happened to Alexandre,\nbut maybe I'm happier not knowing."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_010_CUT_010_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Anyway, guess I'd better find\nmy cat and get back home!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh, sorry? Was that you, Alexandre?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "No. I think it was...Leia."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yikes. Well, I guess that explains how you knew\nso much about the final emperor—you <i>are</i> him.\nHeck, you even froze yourself and guided Alex here\nas part of the ruse! Sooo... What happens now?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_040": {
+    "speaker": "Leia",
+    "text": "Nothing at all. Nothing is what happens.\nWhy, did you expect me to make some grand \ncackling proclamation about how the empire\nwill be reborn or the like?\fNo, the legend of the final emperor is long over,\nso I'm simply going to take some time and\nfigure out how to best use this power."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Are you going to unfreeze everyone?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_060": {
+    "speaker": "Leia",
+    "text": "Of course. Well, except for the jerks who pissed\nme off—they can stay frozen forever.\f...Aaah ha ha! Kidding! Oh my god, your faces!\nNo, out of respect for all of Alexandre's\nhard work, I intend to unfreeze everyone.\fThis is all because of you, Alexandre.\nYou should be very proud."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "This is... No. None of this feels right.\nI'm starting to understand why this place was\nsealed away in the first place, and I don't\nthink we should let the emperor's power out."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "If that's what your intuition says,\nI'm guessing it's right!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_000_090": {
+    "speaker": "Leia",
+    "text": "*sigh* Do the two of you know what it means\nto 'overstep your bounds'? If not, please allow\nme to teach you right now—but know that the\nfee for the lesson will be <i>your lives.</i>"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Leia, no! Stay with us!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_010_010": {
+    "speaker": "Leia",
+    "text": "...Alexandre? How strange. I was dreaming\nI'd acquired the power of the final emperor."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "It was a dream, Leia. Just a dream."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "Isn't that right, Miss Aisling?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_010_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yup! All just a dream."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "Is it okay to leave things like this?\nI mean, Leia doesn't remember anything."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_020_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I don't know if the final emperor is gone or not,\nbut I don't think I'm strong enough to have\ndestroyed him outright—which means he could\nvery well come creeping around again."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "And when that happens, someone will\nhave to stand and face him."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_020_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "That someone may need to be you."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "I don't know if I'm capable of that,\nbut I'll certainly try my best."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_020_CUT_020_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "With that attitude, you'll be great!\nI just know it!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Uh, sorry? Was that you, Alexandre?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "No. I think it was...Gabriel."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yikes. Well, I guess that explains how you knew\nso much about the final emperor—you <i>are</i> him.\nHeck, you even froze yourself and guided Alex here\nas part of the ruse! Sooo... What happens now?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_040": {
+    "speaker": "Gabriel",
+    "text": "Nothing at all. Nothing is what happens.\nWhy, who could possibly believe that the final\nemperor might appear in this day and age?\fBut though the empire is naught but an\nanachronism at this point, the power here\ncan still be wielded in the modern day—\nand in very modern ways."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Are you going to unfreeze everyone?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_060": {
+    "speaker": "Gabriel",
+    "text": "Ah, that's right. There are still people\ntrapped in the ice, aren't there?\fWell, if you wish it, Alexandre, I will restore\nthem all. Otherwise, they will remain as they\nare now. This choice belongs to you alone—\nsuch is the essence of power."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "This is... No. None of this feels right.\nI'm starting to understand why this place was\nsealed away in the first place, and I don't\nthink we should let the emperor's power out."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "If that's what your intuition says,\nI'm guessing it's right!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_000_090": {
+    "speaker": "Gabriel",
+    "text": "You two are more clever than I thought.\nOnly a fool would settle for being ruled\nby such a power—the wise person chooses\nto rule for themselves!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "I never imagined it would end like this."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_020_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "You did everything you could, so it's time\nto hold your head high and start thinking\nabout the future. I'm sure that's what\nGabriel would have wanted."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "But is the emperor's power really gone?\nOr will it be restored one day?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_020_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Lemme answer that with a question:\nWhat will you do if he DOES come back?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "I won't be ruled by that kind of thing.\nI'll fight it with everything I have."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_021_CUT_020_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "With that attitude, you'll be great!\nI just know it!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "So you come to me once more, my new sacrificial\nlamb. You have been chosen; this monster that was\nonce hailed as emperor will now use your flesh to gain\na vast new power.\fAnd indeed, perhaps I will need to remain in\nthis land for the rest of time in order to\nkeep such a monstrous form at bay."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Pretty sure your lust for power is the reason\nyou ended up in that form in the first place,\nso that's totally on you.\fAlso, you're the emperor. Keeping nasty\nstuff sealed away is, like, your job."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_000_020": {
+    "speaker": "LastEmperorDemon",
+    "text": "To protect Grelon, I must eliminate the infernal\nbeings who come here from the Conjoined Worlds.\n<i>This</i> is why I require power—the blame for\nmy actions rests entirely with you and your ilk!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Oh, way to jump to conclusions! Look, I admit\nnot every outsider has the best intentions,\nbut could you cut me a break and accept that\n<i>I</i> never meant your world any harm?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_000_040": {
+    "speaker": "LastEmperorDemon",
+    "text": "Then destroy this vile flesh and release my\ntormented soul from its sealing duties.\nFor I am so very weary..."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "But if the soul of the final emperor has\nbeen protecting Grelon this whole time,\nwho's going to do it when you're gone!?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_000_060": {
+    "speaker": "LastEmperorDemon",
+    "text": "You have wisdom enough to know\nthe answer to that question."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_000_070": {
+    "speaker": "LastEmperorDemon",
+    "text": "Now, you infernal being!\nShow me the nobility of your soul!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_010_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "The final emperor's soul has been freed.\nBut do you know the answer to the riddle\nhe asked at the end?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "I do. All of us who live in Grelon have to\ntake on the responsibility of protecting it.\nIt won't be easy, but it has to be done."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_010_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "You really are a great kid, Alexandre.\nThanks for giving me the peace of mind\nto get back to doing what I need to do."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_100_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "Thank you for everything. Truly.\nAnd good luck finding your cat!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_000_000": {
+    "speaker": "LastEmperorSoul",
+    "text": "So my new form comes at last. Rejoice, for you\nhave been chosen! Your body has all I require:\ncompatibility with my soul, great magical power,\nand the charm to inspire others.\fAnd now, my vessel, I would have you\noffer unto me your flesh!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Man, this palace is just one giant trap!\nI knew I shouldn't have brought you here."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_000_011": {
+    "speaker": "Amaya_Aisling",
+    "text": "You get far away from here, okay?\nLet me handle this."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_000_020": {
+    "speaker": "LastEmperorSoul",
+    "text": "I'll not let you escape this time!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_000_021": {
+    "speaker": "Alexandre",
+    "text": "BWAAAH!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey! Jerkface! Over here!\nI'm the one you want!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_000_040": {
+    "speaker": "LastEmperorSoul",
+    "text": "I will eradicate this filth!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Thank you, Miss Aisling!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_020_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey, a cat! So the final emperor was feeding\noff MY magic power!? I guess Macha's guidance\nwas on point this time."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_110_CUT_020_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Seems like being expelled from Grelon was\nalso part of my destiny. I just hope Alexandre\nis okay and that he finds a way to rescue all\nthe other frozen people."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "Who seeks my power? Who has managed to\novercome the trial and enter my palace?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "So you're the true form of the\nfinal emperor, huh? Yikes, man.\nNo wonder they sealed you away."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_000_019": {
+    "speaker": "Leia",
+    "text": "Your Majesty!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_000_020": {
+    "speaker": "Leia",
+    "text": "Grant me your power! I beg it of you!\nBecome one with me, that I might\nuse your strength to save this world!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "No, Leia! That won't save anything!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_000_040": {
+    "speaker": "Leia",
+    "text": "You mustn't judge a book by its cover,\nAlexandre. Besides, it will be <i>me</i> using\nthis power.... Using it to save the world!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_000_050": {
+    "speaker": "LastEmperorDemon",
+    "text": "I admire your ambition! Now let us see\nif your flesh is as strong as your will."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_000_060": {
+    "speaker": "Leia",
+    "text": "Nngh... So much...power...\nsurging through me!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "We can't let any of the emperor's\npower escape this place!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Leia, no! Stay with us!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_010_010": {
+    "speaker": "Leia",
+    "text": "I couldn't do it, Alexandre... I couldn't\nhandle the power of the final emperor..."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "Leia! LEIA!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_010_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, if you need a job done,\nyou better ask a witch. "
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_010_040": {
+    "speaker": "LastEmperorDemon",
+    "text": "Impudent fool! Do you think that was\nall of the power I possessed!?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_010_041": {
+    "speaker": "LastEmperorDemon",
+    "text": "Have a taste of my TRUE might!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "So the final emperor is...gone?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_020_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Sure felt like it. But much as I'd like to\npromise he won't come back one day,\nI can't. Sorry."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "No, that's okay. This is our problem now—so\nif he does come back, we'll just defeat him.\nWe can't afford to let anyone be tempted\nby that power ever again."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_020_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "And as long as you're here,\nI know you won't! But now\nI have a job to get back to."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "Thank you for everything, Miss Aisling.\nI hope I can grow into someone who's\nhalf as strong as you are."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_120_CUT_020_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "No, thank YOU, Alexandre! Can't quite put\nmy finger on it, but I feel like I've learned\none of those valuable life lessons from\nall this. Be good! Byeee!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "Who seeks my power? Who has managed to\novercome the trial and enter my palace?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "So you're the true form of the\nfinal emperor, huh? Yikes, man.\nNo wonder they sealed you away."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_000_019": {
+    "speaker": "Gabriel",
+    "text": "Your Majesty!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_000_020": {
+    "speaker": "Gabriel",
+    "text": "Grant me your power! I beg it of you!\nBecome one with me, that I might use\nyour strength to bring order to this world!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Gabriel, no!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_000_040": {
+    "speaker": "Gabriel",
+    "text": "Power is an ugly thing, Alexandre.\nFreedom and kindness are beautiful, yes,\nbut beautiful things cannot maintain order\nin this world. Only force can do that."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_000_050": {
+    "speaker": "LastEmperorDemon",
+    "text": "You believe yourself ready for my power?\nGood. Let us see if that is truly the case."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_000_060": {
+    "speaker": "Gabriel",
+    "text": "Nngh... So much...power...\nsurging through me!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "We can't let any of the emperor's\npower escape this place!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Gabriel! Stay with us!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_010_010": {
+    "speaker": "Gabriel",
+    "text": "I couldn't handle the power of the\nfinal emperor, Alexandre... But you..."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "GABRIEL!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "So the final emperor is...gone?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_020_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Sure felt like it. But much as I'd like to\npromise he won't come back one day,\nI can't. Sorry."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "The lust for power is what kept the final\nemperor alive for so long. That's something\nwe all have inside us—and something that\nisn't ever going to change."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_020_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "Don't ever give into that, okay?\nYou fight it!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "I hope I can—but it helps I don't like\nwhat it turned the emperor into."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_020_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "Well, that's something all of you in this\nworld will have to wrestle with. But as for\nthis girl, it's time to move on."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_121_CUT_020_060": {
+    "speaker": "Alexandre",
+    "text": "Thank you, Miss Aisling!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_000": {
+    "speaker": "LastEmperorSoul",
+    "text": "So my new form comes at last. Rejoice, for you\nhave been chosen! Your body has all I require:\ncompatibility with my soul, great magical power,\nand the charm to inspire others.\fAnd now, my vessel, I would have you\noffer unto me your flesh!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_010": {
+    "speaker": "Romain",
+    "text": "Remember well the fiend that haunts this\nplace, Alexandre. For when this occurs again\nsomeday, I want you to be the one to save\nthe children of the future."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_020": {
+    "speaker": "Romain",
+    "text": "As for you, demon, the new form you sought\nonce before stands before you now.\nCome and claim it, if you can!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_030": {
+    "speaker": "LastEmperorSoul",
+    "text": "I've no need of senile old fools. Begone! "
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_040": {
+    "speaker": "Romain",
+    "text": "Gah!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Romain!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_060": {
+    "speaker": "LastEmperorSoul",
+    "text": "Do not fear, child.\nSoon, you will be mine."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_070": {
+    "speaker": "LastEmperorSoul",
+    "text": "And as for you, my otherworldly visitor,\nI will brook no interference from your ilk!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_080": {
+    "speaker": "Amaya_Aisling",
+    "text": "Grelon's fate is for its people to decide,\nbut Alexandre's future belongs to him—\nand I won't let you take it away!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_000_090": {
+    "speaker": "LastEmperorSoul",
+    "text": "Bwaaa ha ha ha! Bold words indeed!\nBut have you the power to back them up?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "So the final emperor is...gone?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_010_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I mean, it FEELS like he is,\nbut I can't swear his power\nhas left this world for good.\fThis exact same catastrophe may come back\nto Grelon one day—and if it does, you'll\nneed to resist it just like Romain did."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "But I can't! I'll never be like Romain!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_010_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "I mean, sure. You'll always be Alexandre,\njust like Romain was always Romain.\nBut that just means you'll need to find\nyour own way to stand up to stuff."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_010_040": {
+    "speaker": "Alexandre",
+    "text": "I wish I had your confidence,\nbut...okay. I'll try."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_010_050": {
+    "speaker": "Amaya_Aisling",
+    "text": "I hope everyone got thawed now that the curse\nis lifted, but I can't stick around to see,\n'cause I have my own job to do.\fThis is where our journey ends,\nAlexandre. Thanks for everything."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_200_CUT_010_060": {
+    "speaker": "Alexandre",
+    "text": "I couldn't have done any of this without\nyou, Miss Aisling—and I'll be praying\nthat you find your cat!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "So you come to me once more, my new sacrificial\nlamb. You have been chosen; this monster that was\nonce hailed as emperor will now use your flesh to gain\na vast new power.\fAnd indeed, perhaps I will need to remain in\nthis land for the rest of time in order to\nkeep such a monstrous form at bay."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_010": {
+    "speaker": "Romain",
+    "text": "I have heard these words before, Alexandre—on\nthe day my father sent me fleeing from this palace.\nAnd I have spent every day since thinking about\nhow to release the emperor from his fate."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_020": {
+    "speaker": "Romain",
+    "text": "It is time to follow in my father's footsteps.\nExpel your exhausted self from that body and\nclaim mine instead! Then empower its flesh so\nI might seize command of this world from you!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_030": {
+    "speaker": "Romain",
+    "text": "Move forward with me, Alexandre."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I don't understand what you're saying,\nRomain! I don't understand at all!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_041": {
+    "speaker": "LastEmperorDemon",
+    "text": "!?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_050": {
+    "speaker": "Romain",
+    "text": "...There. The first phase is complete."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_051": {
+    "speaker": "Romain",
+    "text": "Now it is your turn, Alexandre."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "Alexandre, no! Stop!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_070": {
+    "speaker": "Amaya_Aisling",
+    "text": "You said this was a trap, Romain,\nand you were right—because you're\nthe jerk who set it!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_080": {
+    "speaker": "Romain",
+    "text": "There is nothing for you here, traveler;\nyour mission lies elsewhere. There is no\ncause for you to wager your life upon this."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_000_090": {
+    "speaker": "Amaya_Aisling",
+    "text": "Technically true—but there's still no way\nI'm going to let you hurt Alexandre!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_010_000": {
+    "speaker": "Romain",
+    "text": "Where did I go wrong? All I ever wanted\nwas to release the final emperor..."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_010_010": {
+    "speaker": "Romain",
+    "text": "I am a sinful man. A horror.\nThere can be no absolution for this."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "Oh, Romain..."
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "The final emperor and Romain are both gone.\nDid... Did I do the wrong thing?"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_010_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "No way! Because of you, the fiend that\nwas fused to the emperor is gone,\nwhich means the curse has been lifted.\fYou did the exact RIGHT thing,\nAlexandre! You saved everyone!"
+  },
+  "SUB_W12_EVAR_AMYA_ICECASTLE_210_CUT_010_050": {
+    "speaker": "Alexandre",
+    "text": "...I guess I did, huh? I mean, it really does\nfeel like a weight's been lifted off me."
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "The door's locked. Isn't there\nsome way we can get it open?"
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Magic time, baby!"
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_000_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Nope. No ideas here."
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_010_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Something's here, Alexandre.\nGet behind me."
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "Oh. Okay."
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_010_020": {
+    "speaker": "Amaya_Aisling",
+    "text": "Fiends tend to nest in the darkness\nin my world. I wonder if that's true\nin this one as well."
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "The fiends are here because of the curse!\nGrelon's a peaceful place, I swear!"
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_010_040": {
+    "speaker": "Amaya_Aisling",
+    "text": "Yeah, I don't think this\nshack is safe yet."
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_010_050": {
+    "speaker": "Alexandre",
+    "text": "And that does it! ...Er, right?"
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_010_060": {
+    "speaker": "Amaya_Aisling",
+    "text": "I think it does! Now let's get\nthat cable car moving again."
+  },
+  "SUB_W12_EVAR_AMYA_FUNICULARBATTLE_000_CUT_010_070": {
+    "speaker": "Alexandre",
+    "text": "We can use this to get to the ski slope\nor down to the bottom of the hill!"
+  },
+  "SUB_W12_FUNC_AMYA_MELTBATTLE_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Miss Aisling! The ice is changing!"
+  },
+  "SUB_W12_FUNC_AMYA_MELTBATTLE_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Changing into a fiend?\nOkay, buddy. Let's do this!"
+  },
+  "SUB_W12_FUNC_AMYA_MELTBATTLE_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "I've never seen a real-life fiend before!\nPeople said they roam around in caves and mines,\nbut I always thought those were just stories\nmade up to scare children."
+  },
+  "SUB_W12_FUNC_AMYA_MELTBATTLE_000_CUT_000_030": {
+    "speaker": "Amaya_Aisling",
+    "text": "I wonder if this is connected\nto the emperor's curse."
+  },
+  "SUB_W12_FUNC_AMYA_MELTBATTLE_010_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Huh!? The ice is turning into a fiend again!"
+  },
+  "SUB_W12_FUNC_AMYA_MELTBATTLE_020_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Get a new trick, ice fiend!\nYou can't surprise me anymore!"
+  },
+  "SUB_W12_FUNC_AMYA_MELTBATTLE_020_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Hey! Fiendy! I'm right here!"
+  },
+  "SUB_W12_FUNC_AMYA_MELTBATTLE_030_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Enough with this ice fiend business!"
+  },
+  "SUB_W12_FUNC_AMYA_MELTBATTLE_030_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "I know, right? But don't worry,\nI'll make quick work of 'em!"
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "You seen a cat around here?"
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_010": {
+    "speaker": "Marion",
+    "text": "The emperors of yore were said to have\ncherished felines. What do you intend\nto do with one if you find it?"
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_020": {
+    "speaker": "Morgane",
+    "text": "I don't think I've ever seen\na cat around the slopes."
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_030": {
+    "speaker": "Eric",
+    "text": "Well, I guess fiends sometimes appear\nin the mines. Is that what you mean?"
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_040": {
+    "speaker": "Guillaume",
+    "text": "Oh, sure! I have a lot of cats.\nI use them to deal with the mice\nand drive away annoying birds."
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_050": {
+    "speaker": "Esperance",
+    "text": "Um, I was frozen solid until,\nlike, a few seconds ago?"
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_060": {
+    "speaker": "Virgile",
+    "text": "There are all manner of\ncats over thereabouts."
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_070": {
+    "speaker": "Romain",
+    "text": "Cats come in a great many breeds,\nbut they are of no interest to me."
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_080": {
+    "speaker": "Gabriel",
+    "text": "Ah, I used to have a cat.\nBut that was some twenty years ago."
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_090": {
+    "speaker": "Remi",
+    "text": "You're asking me about a cat?\nAre you <i>trying</i> to pick a fight?"
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_100": {
+    "speaker": "Leia",
+    "text": "Some people believe there are\nbeings that cannot be perceived\nby the naked eye."
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_000_CUT_000_110": {
+    "speaker": "Sandrine",
+    "text": "I'm more of a dog person."
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_100_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Here you are! I wonder if\nyou've been frozen too."
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_100_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "C'mon, let's go home."
+  },
+  "SUB_W12_EVAR_AMYA_NEKO_110_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Here you are!"
+  },
+  "SUB_W12_EVAR_AMYA_RETURN_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "I wonder if the incident on this world was\nsomehow connected to the magical balance of\nthe Conjoined Worlds. I mean, could that be\nthe entire reason I was guided here?"
+  },
+  "SUB_W12_EVAR_AMYA_RETURN_000_CUT_000_010": {
+    "speaker": "Amaya_Aisling",
+    "text": "Farewell, Grelon.\nFarewell, Alexandre."
+  },
+  "SUB_W12_EVAR_AMYA_RETURN_010_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "I wonder why I was guided to Alexandre...\nMan, sometimes Macha's magic makes\nzero sense to me."
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Do you want to join me\non my journey, Guillaume?"
+  },
+  "SUB_W12_EVAR_AMYA_GUILLAUME_000_CUT_000_010": {
+    "speaker": "Guillaume",
+    "text": "If you think I could be of assistance,\nI'm happy to come along."
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_000_CUT_000_000": {
+    "speaker": "Amaya_Aisling",
+    "text": "Care to join me on my journey?"
+  },
+  "SUB_W12_EVAR_AMYA_ESPERANCE_000_CUT_000_010": {
+    "speaker": "Esperance",
+    "text": "That sounds lovely, thank you."
+  }
+}

@@ -1,0 +1,1922 @@
+{
+  "SUB_W14_WRLD_AMYA_INITIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa, what's this!? They're like the\nvisions I see at the end of my waves,\nbut there are so MANY!"
+  },
+  "SUB_W14_WRLD_AMYA_INITIAL_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Viewing just one or two visions uses a\nconsiderable amount of magical energy,\nso what sort of person could possibly\nwatch this many at once!?"
+  },
+  "SUB_W14_WRLD_AMYA_SCAN_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I sense power coming from that\nchair. I should take a look."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_100_CUT_000_000": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Why, if it isn't Ameya Aisling.\nWhat brings you to Providence?"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_100_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are all these visions yours?\nAlso, who are you? Also also,\nhow do you know who I am?"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_100_CUT_000_020": {
+    "speaker": "ProvidenceWatcher",
+    "text": "My, but you do enjoy asking questions!\nOr perhaps you merely take some\nspecial interest in me?"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_100_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "I mean, I'm curious about you, sure—\nbut mostly I'm wondering about my cat.\nI'm guessing it has to be inside one\nof these visions, right?"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_100_CUT_000_040": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Perceptive as ever, I see. But of course,\ndiscovering visions is your special power,\nAmeya Aisling."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_100_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hope that's permission to start sifting\nthrough all of these, because that's\nwhat I'm about to do!"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_100_CUT_000_060": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Sift away, young witch—because I cannot\nwait to see if finding the cat you seek\nwill truly be so easy as all that!"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_200_CUT_000_000": {
+    "speaker": "ProvidenceWatcher",
+    "text": "All is as I told you, no? Finding a cat\nis not so simple a matter here—or perhaps\nyou have merely discovered the joys of\nwatching all these visions instead?"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_200_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, so long as I know there's a cat\nin one of these things, I don't mind\ntaking my time with it."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_200_CUT_000_020": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Then please, watch all you desire—\nfor that is surely why you were\nguided to this place. Heh heh."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_200_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Man, what is your deal? I can't read your face,\nand half the time I can't even tell what you're \ntalking about. It's starting to creep me out."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_300_CUT_000_000": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Getting flustered that we still haven't\nfound that cat, are we? Well, don't worry—\nthere should be opportunity soon enough."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_300_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wrong! Not flustered at all! I'm actually\nenjoying this opportunity to experiment\nwith Macha's power and figure out how\nto best make use of the visions here."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_300_CUT_000_020": {
+    "speaker": "ProvidenceWatcher",
+    "text": "I fear I do not know what you mean,\nAmeya Aisling. As someone who merely\nobserves, the concept of 'making use'\nof a vision has never occurred to me."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_300_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you've just been sitting and watching all\nthese visions without <i>doing</i> anything?\nC'mon! What's even the point of that?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Is this a vision?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_000_001": {
+    "speaker": "Ameya_Aisling",
+    "text": "Or is this actually happening?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_000_002": {
+    "speaker": "ProvidenceWatcher",
+    "text": "That is the question, isn't it?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Gyaaa!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_000_011": {
+    "speaker": "ProvidenceWatcher",
+    "text": "This is where you die,\nAmeya Aisling."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_000_020": {
+    "speaker": "ProvidenceWatcher",
+    "text": "You should have departed the moment\nyou found your cat, yet you chose\nto continue watching visions.\fSo now you can bear witness to your\nlast and final vision—for your fate\nhas already been sealed."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "So it would have been smarter to leave?\nWrong! Coming here let me see your visions\nfor the first time—it's what I do AFTER\nthis that's going to change my fate."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_000_040": {
+    "speaker": "ProvidenceWatcher",
+    "text": "How absurd. Your final moments might\nplay out in various ways, but the end\nresult ever remains the same.\fI have watched this vision time and time\nagain, Ameya Aisling; your fate was set\nthe moment you arrived in Providence."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "I guess refusing to defy fate is,\nlike, your thing? That's just sad.\fWell, I'm not the meek little lamb you are,\nso do me a favor and stop trying to decide\nmy destiny for me, 'kay?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Guess that wasn't my fate after all.\nSo sorry to disappoint!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_010_010": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Are you truly claiming you can\nreverse even your own visions?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I mean, yes? They're <i>my</i> visions,\nso why wouldn't I be able to change them?\fLook, if you don't get discouraged, you can\nkeep trying to change something until you get\nit right. At least, that's what I'm choosing\nto do with these visions."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_010_030": {
+    "speaker": "ProvidenceWatcher",
+    "text": "But at some point you <i>will</i> have to confront\nthe fate of the worlds, for the overturning\nof a destiny always comes at great cost.\fSo I will continue watching you, Ameya\nAisling—for I wish to see the surprise on\nyour face when that bill finally comes due."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ew, what a creeper thing to say!\nThat is seriously messed up.\fBut hey, I can't stop you, so watch\nyour little creeper heart out. Byeee!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_010_CUT_010_000": {
+    "speaker": "ProvidenceWatcher",
+    "text": "I envied you, Ameya Aisling—and even\nthought you might finally be the one\nto change the way I live.\fAnd it turns out I was correct: I meddled\nin a vision for the first and last time,\nand used it to guide your wave to\nthis very door."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_010_CUT_010_010": {
+    "speaker": "ProvidenceWatcher",
+    "text": "I have been watching you for ages,\nand know you possess countless futures.\fSo do not worry, Ameya Aisling!\nInstead, believe in your waves\nand keep moving ever forward."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_010_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "You called <i>me</i> here to make <i>you</i> stop?\nEven to the end, you can't stop putting\nyour fate in the hands of others."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_010_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "It's really pathetic."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_020_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Guess this ends with you not having\nto see those visions anymore, eh?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_020_CUT_010_010": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Is this how you've always gone\nabout things, Ameya Aisling?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_020_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Pretty much! I win some and lose some,\nbut I always keep moving forward."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_020_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "You know, this could also change YOUR future—\nbut I'm getting the sense your destiny\ndoesn't belong to you alone."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_020_CUT_010_040": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Perhaps not. I cannot allow myself to\nfollow only your destiny, Ameya Aisling,\nfor the visions I see are legion."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_020_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "So who are you, anyway? I mean,\nyou're not, like, a god or anything, right?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_020_CUT_010_060": {
+    "speaker": "ProvidenceWatcher",
+    "text": "If creating the world makes one a 'god,'\nthen I do not qualify. I simply watch,\nas I shall continue to do until the\nConjoined Worlds meet their end."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_020_CUT_010_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well then, from time to time you can go ahead\nand peek in on your old fave Ameya Aisling\njust for old time's sake. Now byeee!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_AMYA_020_CUT_010_080": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Oh, I will be watching you until\nthe bitter end, Ameya Aisling."
+  },
+  "SUB_W14_EVAR_AMYA_NEKO_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's my cat! Gotcha!"
+  },
+  "SUB_W14_WRLD_AMYA_WQUEST_INITIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Is this Macha's magic? ...Wait, no.\nNone of these visions are connected\nto me by the green lines."
+  },
+  "SUB_W14_WRLD_AMYA_WQUEST_INITIAL_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "So these visions aren't mine at all.\nThey belong to other people."
+  },
+  "SUB_W14_SCAN_AMYA_WQUEST_1ST_SCAN_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh hey, there's a chair here.\nI should take a closer look."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "What is a chair doing\nin a place like this?"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_010": {
+    "speaker": "ProvidenceWatcher",
+    "text": "So you've come, Ameya Aisling."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, what are you supposed to be?"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_030": {
+    "speaker": "ProvidenceWatcher",
+    "text": "I am... Well, you may\ncall me the Observer."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ah, okay. I guess you use these visions\nto look at all sorts of different worlds,\nwhich is how you know who I am."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_050": {
+    "speaker": "ProvidenceWatcher",
+    "text": "My visions can intrude into any world at\nany time, projecting to me those whose\nlives totter in the vicissitudes of fate.\nI behold them without pause. Such is my fate."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, so you just sit here and observe?\nWhat's the point in that?"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_070": {
+    "speaker": "ProvidenceWatcher",
+    "text": "There is no need to bring concepts such\nas meaning into this. None can defy fate—\nnot even those who appear within my visions.\fAnd this is well and good, for the fates\nof strangers have nothing to do with me."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "How can you claim people can't defy fate\nwhen you never even bother to try?\nI mean, your choices could change\na TON of these peoples' fates!"
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_090": {
+    "speaker": "ProvidenceWatcher",
+    "text": "I thought you might say that. So come, then!\nSit in this chair. Doing so will grant you the\nability to meddle in my visions and alter\nall the fates you like."
+  },
+  "SUB_W14_EVAR_AMYA_CHAIR_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Clearly you saw that coming, too—but I\ndon't care, because this is gonna be fun.\fWatch and learn, man! I'm gonna show you\njust how easy it is to change fate!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER_000_CUT_000_000": {
+    "speaker": "Villager",
+    "text": "Oh, damn it all! I can't believe the\nfiends caught up with me when\nI was so close to the village!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER_000_CUT_000_010": {
+    "speaker": "Villager",
+    "text": "Well, everyone in town is on the brink\nof starvation, so I've no choice but to\nprotect this food with my very life."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'll handle these fiends!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER_000_CUT_000_030": {
+    "speaker": "Villager",
+    "text": "I don't know who you are,\nbut I owe you big time!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Never mind him, beasties!\nYou got Ameya to deal with now!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "All right!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER2_000_CUT_000_000": {
+    "speaker": "Villager",
+    "text": "Oh, damn it all! I can't believe the\nfiends caught up with me when\nI was so close to the village!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER2_000_CUT_000_010": {
+    "speaker": "Villager",
+    "text": "I can't die now! I have to get\nthese medicinal plants back to\nmy sick little sister!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER2_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'll handle these fiends!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER2_000_CUT_000_030": {
+    "speaker": "Villager",
+    "text": "Hey, you're the woman who saved me the\nother day! Thank you again! I owe you!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER2_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Bring it on, chumps!\nI'm ready for you!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VILLAGER2_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Heh. Got 'em."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_000": {
+    "speaker": "Policeman",
+    "text": "Where the hell is the bomb disposal unit!?\nThis thing's about to blow, and we'll\nnever get the civvies out in time! "
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_010": {
+    "speaker": "Policeman",
+    "text": "About damn time, bomb lady! Get over\nhere and stop that detonator already!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sure thing! Er, but this is my first time\ndisarming a bomb, so if you have any\ntips or whatever, I'm all ears."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_030": {
+    "speaker": "Policeman",
+    "text": "The detonator has chips of three colors:\nred, blue, and yellow. If you put 'em back\nin their original order, it stops the timer. "
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, that sounds easy enough!\nSo what was the original order?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_050": {
+    "speaker": "Policeman",
+    "text": "I can't remember it clearly, but I don't\nthink any of the chips were in the same\nposition as they are now."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, THAT'S your advice? C'mon!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_070": {
+    "speaker": "Policeman",
+    "text": "Uh, I think the blue chip was somewhere\nto the right of the red chip?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, so to recap..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "There are three chips here: red, blue,\nand yellow, and we need to put them\nback in their original order if we\nwant to disarm the bomb.\fThe original order had all three chips in\ndifferent positions than they're in now,\nand the blue chip was somewhere to the\nright of the red one. Okay, cool."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Right. Here we go..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Better review that again."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's disarm this thing!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "And here we go!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So how'd I do?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_010_010": {
+    "speaker": "Policeman",
+    "text": "You did it! It stopped!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yaaay, ME!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_010_030": {
+    "speaker": "Policeman",
+    "text": "Thank you so much. You have no idea\nhow many lives you saved today."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Awww, it was my pleasure."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_020_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh no! I screwed up!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_020_010": {
+    "speaker": "Policeman",
+    "text": "IT'S GONNA BLOW!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BOMB_000_CUT_020_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "BWAAAAAAH!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_000": {
+    "speaker": "Soldier",
+    "text": "Everyone, please remain calm! There's a whole\nherd of fiends out there, but we'll be safe\nso long as we stay in this shelter."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_010": {
+    "speaker": "Woman",
+    "text": "Excuse me, but has anyone seen my cat!?\nI don't see Lady Purrs-A-Lot anywhere,\nand I'm afraid she may have run outside!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_020": {
+    "speaker": "Soldier",
+    "text": "No, ma'am, I haven't seen your cat,\nand I'm afraid I can't let you outside.\nNow please just sit down and be calm."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_030": {
+    "speaker": "Woman",
+    "text": "Nooo! Lady Purrs-A-Lot!\nI have to go find her!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_040": {
+    "speaker": "Soldier",
+    "text": "Ma'am, what are you doing!?\nDo NOT go outside!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, were you not listening?\nThere's fiends out there."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_060": {
+    "speaker": "Woman",
+    "text": "My sweet little kitty might be outside!\nI have to go find her!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, fine! But I'm going with you!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "I bet she's in here somewhere. Let me help you look."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_090": {
+    "speaker": "Woman",
+    "text": "Oh, thank you, young lady!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_100": {
+    "speaker": "Soldier",
+    "text": "No, you idiot! Don't open the door!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "BWAAAAAAH!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_120": {
+    "speaker": "Woman",
+    "text": "Well, I suppose it's <i>possible</i> that\nshe's still around here, but I've been\nsearching for quite a while now..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_130": {
+    "speaker": "Soldier",
+    "text": "Gah! They've broken down the door!\nWe got fiends incoming, people!\nRun for your lives!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Not on my watch!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Phew! I think that's the last of them.\nNow let's find that cat!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hm? Are you still with me,\nmildly eccentric cat lady?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "...Oh no. She's dead."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_020_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Everybody okay!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_020_010": {
+    "speaker": "Woman",
+    "text": "Lady Purrs-A-Lot! There you are!\nOh, Mama has been so worried!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_020_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, I'm so glad that you found her!\nWish I could find MY cat so easily..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_000_CUT_020_030": {
+    "speaker": "Woman",
+    "text": "Thank you, young lady. Thank you!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_000": {
+    "speaker": "Explorer",
+    "text": "It's been over 10 days since I entered this\nsweltering jungle in search of the legendary\nGreat Beast. My provisions have run out,\nand I've now become thoroughly lost.\fYes, this may well be\nthe place I die..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_010": {
+    "speaker": "Explorer",
+    "text": "Hmm? What was that roar?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_020": {
+    "speaker": "Explorer",
+    "text": "The Great Beast! I've found it at last!\nI must catch it immediately!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "The only thing you'll be catching\nis a lethal blow to the head."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_040": {
+    "speaker": "Explorer",
+    "text": "Heavens, there's someone else out here!?\nWho are you, girl, and why have you...\fNo, that doesn't matter. I have staked my\nvery life on capturing the Great Beast,\nso I suggest you stay out of my way!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "You're asking ME to\nstay out of YOUR way?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "No way! I'm helping!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sure thing, hero. All yours."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_080": {
+    "speaker": "Explorer",
+    "text": "You are mine, mighty creature!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_090": {
+    "speaker": "Explorer",
+    "text": "GYAAAAAAAAAH!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yup. Saw that coming."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "You see? There's no way you can take a\npowerhouse of a beast like that alive."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_010_010": {
+    "speaker": "Explorer",
+    "text": "You fool! You thrice-damned fool!\nI came here to CAPTURE the beast,\nand you've gone and SLAIN it!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "And I ALSO saved you from\nending up a bloody footprint!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BEAST_000_CUT_010_030": {
+    "speaker": "Explorer",
+    "text": "My beast... Give me back\nmy precious beast!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_000": {
+    "speaker": "Archaeologist",
+    "text": "I feel quite certain the lost treasure of the\nEmpire is concealed deep within these tunnels,\nbut I've no idea which fork to take."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_010": {
+    "speaker": "Archaeologist",
+    "text": "You there! You look like quite\nthe intuitive young lady!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, do you mean me?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_030": {
+    "speaker": "Archaeologist",
+    "text": "Which fork would you choose?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hmm. Let's see..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Gotta be the left fork."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Definitely the middle one."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Right fork for sure!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_080": {
+    "speaker": "Archaeologist",
+    "text": "Then I shall defer to your\ngreat wisdom. Tally-ho!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "And a big tally-ho to you, too."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_010_000": {
+    "speaker": "Archaeologist",
+    "text": "Another fork. Which way this time,\nmy fine adventuring friend!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hmm. Let's see..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "The left fork is calling out to me!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "LOVE the vibes from the middle fork."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "The right fork feels right."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_010_050": {
+    "speaker": "Archaeologist",
+    "text": "Very well. We shall proceed thusly."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Does he not understand that\n<i>he's</i> the professional here?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, look! Three treasure chests!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_010": {
+    "speaker": "Archaeologist",
+    "text": "Eureka! This is, without a doubt,\nthe lost treasure of the Empire!\fBut according to the literature,\nonly one chest holds what we seek,\nwhile the others are but fiendish traps."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_020": {
+    "speaker": "Archaeologist",
+    "text": "Hmm? What's this written on the wall?\n'The untrodden path will guide you\nto the treasure.'"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_030": {
+    "speaker": "Archaeologist",
+    "text": "Hmm? What's this written on the wall?\n'The untrodden paths hide traps.'"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_040": {
+    "speaker": "Archaeologist",
+    "text": "Well, friend? Which do you believe\nto be the real treasure?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "You sure you want to ask me? "
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "'The untrodden path will guide\nyou to the treasure,' eh...?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "'The untrodden paths hide\ntraps,' eh...?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm feeling that chest on the left."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Gotta go for that middle chest."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm all about that chest on the right."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_020_110": {
+    "speaker": "Archaeologist",
+    "text": "Huzzah! Nothing to\ndo now but open it!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_030_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh yeah! NAILED it!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_030_010": {
+    "speaker": "Archaeologist",
+    "text": "The lost treasure of the Empire\nis mine at last!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_030_020": {
+    "speaker": "Archaeologist",
+    "text": "Your judgment has served me well,\nmy good lady. Thank you so much!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_030_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Glad I could help!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_040_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, boo! It's empty!\fEr, but what's this written\non the bottom here?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_040_010": {
+    "speaker": "Archaeologist",
+    "text": "'The punishment for thievery is death'?\n...Oh boy, that's not good."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_040_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Earthquake!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_040_030": {
+    "speaker": "Archaeologist",
+    "text": "It's a trap—the tunnels are collapsing!\nRun for it!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_040_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "You'll never make it in time!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_TREASURE_000_CUT_040_050": {
+    "speaker": "Archaeologist",
+    "text": "BWAAAAAAH!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD_000_CUT_000_000": {
+    "speaker": "Birdwatcher",
+    "text": "257... 258..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whatcha doing there?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD_000_CUT_000_020": {
+    "speaker": "Birdwatcher",
+    "text": "I'm involved in the preservation of the\nwild bird population, and am currently\ninvestigating how many have returned\nto these woods due to our efforts."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD_000_CUT_000_030": {
+    "speaker": "Birdwatcher",
+    "text": "272... 273..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, there's a real big one flying\nthis way! Guess that makes 274?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD_000_CUT_000_050": {
+    "speaker": "Birdwatcher",
+    "text": "Sweet feathers, that's no bird!\nIt's a fiend!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD_000_CUT_010_000": {
+    "speaker": "Birdwatcher",
+    "text": "With that fiend gone, even more wild birds\nwill now return to our magnificent forests.\nYou've done a great service to all of our\nwinged friends this day!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD_000_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Neat!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_000": {
+    "speaker": "Birdwatcher",
+    "text": "946... 947..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Still counting birds, huh?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_020": {
+    "speaker": "Birdwatcher",
+    "text": "I am indeed, for an accurate survey of the\nbird population is a necessary component\nof our environmental-protection efforts."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_030": {
+    "speaker": "Birdwatcher",
+    "text": "964... 965..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh. Who knew?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_050": {
+    "speaker": "Birdwatcher",
+    "text": "966. ...No, wait. That was a fiend.\nIt doesn't count."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_055": {
+    "speaker": "Birdwatcher",
+    "text": "Ah, and the one before that was a fiend\nas well, so let's exclude that."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_060": {
+    "speaker": "Birdwatcher",
+    "text": "Ah, and there are four\nmore birds over there."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_065": {
+    "speaker": "Birdwatcher",
+    "text": "Oh! I see six birds there!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_070": {
+    "speaker": "Birdwatcher",
+    "text": "And that makes... Goodness, I've lost\ntrack. Where is the count at now?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "966."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "967."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "968."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "969."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "970."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_130": {
+    "speaker": "Birdwatcher",
+    "text": "Ah, yes. Thank you. One must always\nhave an accurate count, after all!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_140": {
+    "speaker": "Birdwatcher",
+    "text": "986... 987..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, looks like the fiends scattered,\nso I think Birdman here should be okay."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_160": {
+    "speaker": "Birdwatcher",
+    "text": "Er, are you certain? Because I thought...\nAaargh! Talking to you has made me lose\ntrack of the count completely!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_170": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm sorry."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_180": {
+    "speaker": "Birdwatcher",
+    "text": "Enough! Do not speak to me again.\nNow farewell."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_190": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait! There's a huge cliff right—"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_200": {
+    "speaker": "Birdwatcher",
+    "text": "GAAAAAAAAAaaaaaaaaa..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BIRD2_000_CUT_000_210": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh wow. I did NOT see that coming."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_000": {
+    "speaker": "Swordsmith",
+    "text": "It's finished! It's finally complete!\nA blade with the perfect combination of\nflexibility and strength, and a temper\npattern that simply ripples with life!\fAs a swordsmith, this blade will\nsurely be my masterpiece!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_010": {
+    "speaker": "Swordsmith",
+    "text": "All that remains is to give it\na name worthy of its majesty.\fI hereby dub thee...<b>Darkblayde</b>!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "You sure that's a good name?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Darkblayde, huh? I like it."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_040": {
+    "speaker": "Swordsmith",
+    "text": "You there! What is your problem?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Naming something is like granting it a soul.\nI think you should take that responsibility\na little more seriously."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_060": {
+    "speaker": "Swordsmith",
+    "text": "You think I don't know that!?\fOh, but fine. I'll try again.\nI hereby dub thee...<b>Deathblayde</b>!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "You sure that's a good name?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Deathblayde, huh? I like it."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_090": {
+    "speaker": "Swordsmith",
+    "text": "NOW what's your problem?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "I mean, if it's supposed to be an EVIL sword,\nthen I guess that's fine in, like, a generic\nsort of way. But I really think you could\ndo better if you tried."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_110": {
+    "speaker": "Swordsmith",
+    "text": "Oh? Hmm. Perhaps so. In that case,\nI hereby dub thee...<b>Dreadblayde</b>!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "You sure that's a good name?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Dreadblayde, huh? I like it."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are you even putting any thought into this?\nBecause it sounds like you're just flipping\nthrough a really cheap thesaurus."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_150": {
+    "speaker": "Swordsmith",
+    "text": "Shut up, shut up, SHUT UUUUUUP!\nI don't even care anymore!\nI'm done thinking of names!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_160": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw! He smashed it!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_170": {
+    "speaker": "Swordsmith",
+    "text": "This was supposed to be my masterpiece,\nand now I can't even stand to look at it!\nGet out of my sight, damn you!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_180": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, sounds good to me.\nBetter luck next time."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_190": {
+    "speaker": "Swordsmith",
+    "text": "Then you will be forevermore\nknown as <b>Darkblayde Hideyoshi</b>!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_200": {
+    "speaker": "Ameya_Aisling",
+    "text": "Darkblayde it is, then! Also,\nI might be overthinking this, but..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_210": {
+    "speaker": "Swordsmith",
+    "text": "Then you will be forevermore\nknown as <b>Deathblayde Ieyasu</b>!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_220": {
+    "speaker": "Ameya_Aisling",
+    "text": "Deathblayde it is, then! Also,\nI might be overthinking this, but..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_230": {
+    "speaker": "Swordsmith",
+    "text": "Then you will be forevermore\nknown as <b>Dreadblayde Nobunaga</b>!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_240": {
+    "speaker": "Ameya_Aisling",
+    "text": "Dreadblayde it is, then! Also,\nI might be overthinking this, but..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_250": {
+    "speaker": "Swordsmith",
+    "text": "I am suddenly overcome with an urge\nto put this sword's edge to the test...\nAnd your ripe flesh will do nicely!\nBwa ha! Bwaaa ha ha ha!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_000_260": {
+    "speaker": "Ameya_Aisling",
+    "text": "Mm-hm. I had a feeling this\nis where we were headed."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_010_000": {
+    "speaker": "Swordsmith",
+    "text": "What... What have I done!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_BLACKSMITH_000_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "How about I hold on to that sword for you,\nokay? Don't worry, I'm sure your next one\nwill be your REAL masterpiece!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh man, where the heck am I?\n...Huh? There's someone here."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_010": {
+    "speaker": "MechBoy",
+    "text": "Waaaaaah! Waaaaaah!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "What's wrong?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_030": {
+    "speaker": "MechBoy",
+    "text": "I fell into the sea and was swallowed\nby a giant fish and I wanna get out\nof here... Waaah!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, we're inside a FISH!?\nGross! I'm getting outta here!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's burn stuff to make smoke!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's bash whatever we can!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's just stay calm and patient."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's a bunch of stuff over there that\nlooks flammable. What do you say we\ngrill this fish from the inside?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_090": {
+    "speaker": "MechBoy",
+    "text": "And when the fish coughs out the smoke,\nwe take the opportunity to get away!\nGee, ma'am! You sure are smart!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'll light the fire with magic."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh man, it's really burning!\nNow we just need to bide our time."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_120": {
+    "speaker": "MechBoy",
+    "text": "Oh no, ma'am! Look over there!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "I've got no idea what that is,\nbut it sure looks dangerous.\nNew plan! Douse the blaze!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_140": {
+    "speaker": "MechBoy",
+    "text": "I can't, ma'am! It's too big!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "BWAAAAAAH!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_160": {
+    "speaker": "Ameya_Aisling",
+    "text": "If we just start bashing whatever we can,\nthe fish'll spit us out to be rid of us.\nAttack the walls, the floor, whatever!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_170": {
+    "speaker": "MechBoy",
+    "text": "Gee, ma'am! You sure are smart!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_180": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's get nuts!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_190": {
+    "speaker": "MechBoy",
+    "text": "Is it working, ma'am?\nDid the fish open its mouth?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_200": {
+    "speaker": "Ameya_Aisling",
+    "text": "Not yet! Man, this dumb fish\nis way tougher than it looks..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_210": {
+    "speaker": "MechBoy",
+    "text": "Oh no, ma'am! There are fiends\ncoming at us from further down!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_220": {
+    "speaker": "Ameya_Aisling",
+    "text": "So this fish swallowed\na bunch of fiends, too?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_230": {
+    "speaker": "Ameya_Aisling",
+    "text": "This thing has to open its mouth\nat some point, so let's just sit back\nand wait for nature to happen."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_240": {
+    "speaker": "MechBoy",
+    "text": "You want to SIT, ma'am?\nGee, I dunno..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_250": {
+    "speaker": "Ameya_Aisling",
+    "text": "*yawn* I'm getting a little drowsy."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_260": {
+    "speaker": "MechBoy",
+    "text": "I guess it wouldn't hurt\nto rest for a bit..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_270": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa! I think I dozed off there.\nI hope we didn't miss an opportunity."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_280": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, wake up, sleepyhead!\nKnock knock, anyone home?\n...Huh? He's not moving."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_290": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh my gosh, he MELTED!\nHis whole body MELTED!\nHe must have been digested\nwhile we were sleeping!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_300": {
+    "speaker": "Ameya_Aisling",
+    "text": "Speaking of, I'm feeling a little\nitchy and uncomfortable myself..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_000_310": {
+    "speaker": "Ameya_Aisling",
+    "text": "BWAAAAAAH! I'M MELTING TOOOOOO!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_010_000": {
+    "speaker": "MechBoy",
+    "text": "Look at that! The fish\nopened its mouth!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "That brawl must have been too\nmuch for it. Quick, let's escape!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_FISH_000_CUT_010_020": {
+    "speaker": "MechBoy",
+    "text": "Yaaay!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_000": {
+    "speaker": "Doctor",
+    "text": "Perfection! Now that our new security\nmech is ready, the city will be safe."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_010": {
+    "speaker": "Doctor",
+    "text": "You there! Madam! I'm sorry, but could you\nhelp me activate this mech? I don't happen\nto have a free hand at the moment."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "What do you want me to do?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_030": {
+    "speaker": "Doctor",
+    "text": "Do you see a lever and switch?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sure, they're right here."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_050": {
+    "speaker": "Doctor",
+    "text": "First, pull the lever down.\nNext, press the switch three times.\nFinally, raise the lever again.\nThis will activate the mech."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_055": {
+    "speaker": "Doctor",
+    "text": "First, press the switch two times.\nNext, lower the lever and press the switch once.\nFinally, raise the lever again.\nThis will activate the mech."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Lever, switch three times, lever.\nGot it."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_065": {
+    "speaker": "Ameya_Aisling",
+    "text": "Switch twice, lever, switch once, lever.\nGot it."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_070": {
+    "speaker": "Doctor",
+    "text": "Incidentally, as a safety precaution,\nany error in the start-up sequence\nwill cause the unit to self-destruct.\nSo do be careful, yes?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Why would you design it like that?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_090": {
+    "speaker": "Doctor",
+    "text": "When you have three doctorates, you can\ndesign whatever mech you like. Now begin."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, let's see..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Next..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "Pull the lever."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Push the switch."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_140": {
+    "speaker": "Doctor",
+    "text": "Success! It's starting up!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "Not sure what that was all about,\nbut I guess I did good?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_160": {
+    "speaker": "Doctor",
+    "text": "Egads, you feckless oaf!\nYou've just activated the\nself-destruct mechanism!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_170": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, whoopsie?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_180": {
+    "speaker": "Doctor",
+    "text": "WE'RE ALL GOING TO DIIIE!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DOCTOR_000_CUT_000_190": {
+    "speaker": "Ameya_Aisling",
+    "text": "WHOOPSIE!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_000_000": {
+    "speaker": "Showgirl",
+    "text": "Attention, everyone! If you visit our\ndepartment store today, you'll get\na chance to meet our popular new\nmascot, Spendy McBigbucks!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_000_010": {
+    "speaker": "Showgirl",
+    "text": "Come on! Let's give our customers\na warm welcome, Spendy!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_000_020": {
+    "speaker": "Showgirl",
+    "text": "Er, Spendy? Is something wrong?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_000_030": {
+    "speaker": "Showgirl",
+    "text": "...Spendy?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_000_040": {
+    "speaker": "Mascot_Mall",
+    "text": "GRAAAAAAGH!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_000_050": {
+    "speaker": "Showgirl",
+    "text": "EEEEEEK!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's no costume—that's a fiend!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "How did a fiend get in here?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_010_010": {
+    "speaker": "Showgirl",
+    "text": "I'm sorry, who are you?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, uh, no one. Never mind me!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIGURUMI_000_CUT_010_030": {
+    "speaker": "Showgirl",
+    "text": "Huh."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_000": {
+    "speaker": "Assistant",
+    "text": "Oh my gosh, you're late! Don't tell\nme you forgot that <i>Capitol Cuisine!</i>\nis airing live today!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sorry, what's happening?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_020": {
+    "speaker": "Assistant",
+    "text": "We don't have time for this, chef!\nJust get in the studio!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Chef? Now wait just one—"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_040": {
+    "speaker": "Assistant",
+    "text": "And we're live in three...two..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_050": {
+    "speaker": "Assistant",
+    "text": "Ah, there's nothing better than creating\nyour own meals from scratch. Welcome, friends,\nto a special live edition of...<i>Capitol Cuisine!</i>"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_060": {
+    "speaker": "Assistant",
+    "text": "Today we're making margherita pizza!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_065": {
+    "speaker": "Assistant",
+    "text": "Today we're making homemade flan!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_070": {
+    "speaker": "Assistant",
+    "text": "We'll begin with the dough.\nWhat are the ingredients, chef?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_075": {
+    "speaker": "Assistant",
+    "text": "We'll begin with a caramel sauce.\nWhat are the ingredients, chef?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_076": {
+    "speaker": "Ameya_Aisling",
+    "text": "The names of the ingredients are all there.\nJust gotta combine them properly and we're off!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Buckwheat flour and butter."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_085": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sugar and water."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Flour and yeast."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_095": {
+    "speaker": "Ameya_Aisling",
+    "text": "Salt and water."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wheat flour and eggs."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_105": {
+    "speaker": "Ameya_Aisling",
+    "text": "Soy sauce."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_110": {
+    "speaker": "Assistant",
+    "text": "Next, we add the toppings.\nWhat are the ingredients, chef?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_115": {
+    "speaker": "Assistant",
+    "text": "Next, we make the custard.\nWhat are the ingredients, chef?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "Tomato sauce, cheese, and basil."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_125": {
+    "speaker": "Ameya_Aisling",
+    "text": "Flour and water."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Chicken and peppers."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_135": {
+    "speaker": "Ameya_Aisling",
+    "text": "Buckwheat flour and bonito."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Mayo. Like, ALL the mayo."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_145": {
+    "speaker": "Ameya_Aisling",
+    "text": "Eggs and milk."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_150": {
+    "speaker": "Assistant",
+    "text": "And now we pop it in the oven."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_160": {
+    "speaker": "Assistant",
+    "text": "Oooh, I can't wait to try it!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_170": {
+    "speaker": "Assistant",
+    "text": "Oh my, that cooked up nicely!\nLet's try a little, shall we?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_180": {
+    "speaker": "Assistant",
+    "text": "Down the hatch!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_190": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hurk! Oh man, I'm gonna blow chunks!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_200": {
+    "speaker": "Assistant",
+    "text": "Kill the feed! KILL THE FEEEEEED!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_210": {
+    "speaker": "Ameya_Aisling",
+    "text": "Mmm! Yummy!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_220": {
+    "speaker": "Assistant",
+    "text": "Yes, it's absolutely wonderful!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_COOK_000_CUT_000_230": {
+    "speaker": "Assistant",
+    "text": "We'll see you all next week\non <i>Capitol Cuisine!</i>"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_000": {
+    "speaker": "Boy",
+    "text": "Are there really ghosts\nin this abandoned house?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_010": {
+    "speaker": "Girl",
+    "text": "Yeah! My brother totally saw one!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, what are you guys doing?\nCan I play too?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_030": {
+    "speaker": "Boy",
+    "text": "BWAAAH! G-G-G-GHOOOOOOST!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, rude! I'm not a ghost!\nI'm a lady—and a cute one, at that."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_050": {
+    "speaker": "Boy",
+    "text": "Hey, don't scare us like that!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_060": {
+    "speaker": "Girl",
+    "text": "BWAAAH! G-G-G-GHOOOOOOST!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh!? Where!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_080": {
+    "speaker": "Boy",
+    "text": "Behind you! Behind you!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, that? That's just a fiend."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, coast is clear.\nThe fiend's gone now."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_010_010": {
+    "speaker": "Girl",
+    "text": "See? I told you there\nwere ghosts here!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_010_020": {
+    "speaker": "Boy",
+    "text": "I'm sorry. I believe you now."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_KIMODAMESHI_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "You two better run on home.\nBut be careful!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_000": {
+    "speaker": "Citizen_A",
+    "text": "Don't shoot! I'm the real one!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_010": {
+    "speaker": "Citizen_B",
+    "text": "Don't listen to her!\n<i>I'm</i> the real one!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh man, look! Twins!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_030": {
+    "speaker": "Detective",
+    "text": "They ain't twins! I was chasin' a dangerous\nalien, but I took my eye off it for a second\nand it shapeshifted into a goddamn civilian!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_040": {
+    "speaker": "Detective",
+    "text": "Now I can't tell 'em apart!\nWhich one do I shoot?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "What!? Don't ask ME!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Um... Maybe shoot 'em both?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_070": {
+    "speaker": "Detective",
+    "text": "Damn it! I was so close to\ngettin' the dirtbag—AND\nto my retirement!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_080": {
+    "speaker": "Citizen_A",
+    "text": "How dare you point your gun\nat a civilian!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_090": {
+    "speaker": "Citizen_B",
+    "text": "I'm filing an official complaint!\nI'll have your badge!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, that's a shame."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_110": {
+    "speaker": "Detective",
+    "text": "The hell did you say!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm saying it doesn't really matter.\nIf you shoot 'em both, then boom!\nYou got your alien."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_130": {
+    "speaker": "Detective",
+    "text": "Are you out of your goddamn mind!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, if you're squeamish or something,\nI'll just kill 'em with my magic."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_150": {
+    "speaker": "Citizen_A",
+    "text": "No, stop! I'm human, I swear!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_160": {
+    "speaker": "Citizen_B",
+    "text": "Is this some kind of joke!?\nYou can't be serious!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_170": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm <i>always</i> serious."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_180": {
+    "speaker": "Citizen_B",
+    "text": "This chick is out of her mind...\nWell, there's no way I'm\ngoing down without a fight!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_000_190": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's the culprit!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm glad you were able to\napprehend the real alien."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_010_010": {
+    "speaker": "Detective",
+    "text": "Damn, lady! You sure had me going\nwith that ruse of yours!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ALIEN_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ruse...? Oh, riiight! Yeah, that was\nall a ruse. Ha ha ha! Got you good!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_000": {
+    "speaker": "Girl",
+    "text": "Maru! Maruuu!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "What's wrong?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_020": {
+    "speaker": "Girl",
+    "text": "I can't find Maru!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh yeah? Who's Maru?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_040": {
+    "speaker": "Girl",
+    "text": "Maru's my kitty! But I accidently left\na window open and he ran away."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, I'm so sorry to hear— Wait.\nThere's a cat right over there!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_060": {
+    "speaker": "Girl",
+    "text": "Maru!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hold on! Maru looks scared.\nHe must be terrified to be\noutside for the first time."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_080": {
+    "speaker": "Girl",
+    "text": "So what do we do?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Run right up to him!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Approach him slowly."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_110": {
+    "speaker": "Girl",
+    "text": "Okay!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_120": {
+    "speaker": "Girl",
+    "text": "Oh no, he ran away!\nYou're a LIAR, lady!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm sorry! I didn't mean for\nthat to happen, I swear!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_140": {
+    "speaker": "Girl",
+    "text": "Okay!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "Just like that. Niiice and slooow."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_160": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, we're in close, but Maru\nstill looks pretty spooked."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_170": {
+    "speaker": "Girl",
+    "text": "What now?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_180": {
+    "speaker": "Ameya_Aisling",
+    "text": "Lock eyes with him."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_190": {
+    "speaker": "Ameya_Aisling",
+    "text": "Don't make eye contact."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_200": {
+    "speaker": "Girl",
+    "text": "Okay! ...I see you, Maru!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_210": {
+    "speaker": "Girl",
+    "text": "Oh no, he ran away!\nYou're a LIAR, lady!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_220": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm sorry! I didn't mean for\nthat to happen, I swear!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_230": {
+    "speaker": "Girl",
+    "text": "Okay, I won't look."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_240": {
+    "speaker": "Ameya_Aisling",
+    "text": "See? He's a lot more relaxed."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_250": {
+    "speaker": "Ameya_Aisling",
+    "text": "You can pick him up now."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_260": {
+    "speaker": "Girl",
+    "text": "Okay."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_261": {
+    "speaker": "Girl",
+    "text": "Gotcha!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_270": {
+    "speaker": "Girl",
+    "text": "Yay, Maru! You're back!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_280": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, what a relief."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_CAT_CAPT_000_CUT_000_290": {
+    "speaker": "Girl",
+    "text": "Thanks a lot, ma'am!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ASSASSIN_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, am I inside someone's body?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ASSASSIN_000_CUT_000_010": {
+    "speaker": "Assassin",
+    "text": "Red Panther here: I've arrived at the\nheart. Moving to eliminate the target."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ASSASSIN_000_CUT_000_020": {
+    "speaker": "Assassin",
+    "text": "Sorry, pal. It's just business.\nNothing personal."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ASSASSIN_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are you seriously planning\nto attack that heart?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ASSASSIN_000_CUT_000_040": {
+    "speaker": "Assassin",
+    "text": "My briefing didn't say anything about another\nagent. Unless... Aw, hell! Don't tell me the\npresident's people caught wind of our plans!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ASSASSIN_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "I have zero idea what\nyou're talking about."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ASSASSIN_000_CUT_000_060": {
+    "speaker": "Assassin",
+    "text": "Doesn't matter! Get out of the way\nunless you wanna be put on ice!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_ASSASSIN_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I still don't know what any of that was about,\nbut at least I was able to protect...\nEr, whoever this is."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MERCHANT_000_CUT_000_000": {
+    "speaker": "Trader",
+    "text": "HEEELP! SOMEBODY HELP ME!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MERCHANT_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "What's wrong!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MERCHANT_000_CUT_010_000": {
+    "speaker": "Trader",
+    "text": "Thank you. When I stumbled across those\nfiends, I thought I was a dead man."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MERCHANT_000_CUT_010_010": {
+    "speaker": "Trader",
+    "text": "As a merchant, allow me to repay your\nkindness with a reward of your choice."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MERCHANT_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "How about a restorative potion?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MERCHANT_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "New gear, please!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MERCHANT_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Water sounds nice, actually."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MERCHANT_000_CUT_010_050": {
+    "speaker": "System",
+    "text": "You recovered 1 LP."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WATER_000_CUT_000_000": {
+    "speaker": "Nomad",
+    "text": "My throat...so parched..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WATER_000_CUT_000_010": {
+    "speaker": "Nomad",
+    "text": "Y-you there... Please...\nI need...water..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WATER_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "You want me to get water?\nBut how!? From where!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WATER_000_CUT_000_030": {
+    "speaker": "Nomad",
+    "text": "Uuurgh..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WATER_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "I guess I was too late.\nOh, that's terrible."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WATER_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I just got some water from\nthat merchant, so here you go!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WATER_000_CUT_000_060": {
+    "speaker": "Nomad",
+    "text": "You... You saved my life!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WATER_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Any time!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MESSENGER_000_CUT_000_000": {
+    "speaker": "Soldier",
+    "text": "Impede me not, vile fiends! I must deliver \nthis message from the king forthwith,\nand my duty shall not be denied!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MESSENGER_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then I'll cover you!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MESSENGER_000_CUT_000_020": {
+    "speaker": "Soldier",
+    "text": "My heartiest thanks, blessed angel!\nI am ever in your debt!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MESSENGER_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sure hope that messenger makes it\nto wherever he was going."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MESSENGER2_000_CUT_000_000": {
+    "speaker": "Soldier",
+    "text": "Fie! To think I might be ensnared by more\nfell fiends with the castle near in sight! \nBut the peril is no matter; this warning\nmust reach the king at any cost!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MESSENGER2_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then I'll cover you!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MESSENGER2_000_CUT_000_020": {
+    "speaker": "Soldier",
+    "text": "Again!? My debt to you deepens\nall the more, my glorious angel!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_MESSENGER2_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "That oughta do it."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm pretty deep in the woods here."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_000_010": {
+    "speaker": "Witch",
+    "text": "Ah, you there. What auspicious timing.\nGo hunt that fiend over there for me;\nI need its claws for various potions."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then why don't YOU hunt it?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_000_030": {
+    "speaker": "Witch",
+    "text": "So that's how it is, hm?\nThen you leave me no choice."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_000_040": {
+    "speaker": "Witch",
+    "text": "Get him, my pretties!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Seriously? You're siccing\nsome fiends on me!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_010_000": {
+    "speaker": "Witch",
+    "text": "Excellent work, young lady."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "You're a jerk!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_010_020": {
+    "speaker": "Witch",
+    "text": "Oh, don't be so cross! Look, I'll even\ngive you a potion to compensate.\nWhich would you like, mmm?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "A health potion."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "An antidote."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_WITCH_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Actually, you got any gear?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_000": {
+    "speaker": "Daughter",
+    "text": "Help! Someone help me!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh my gosh, what happened!?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_020": {
+    "speaker": "Daughter",
+    "text": "I was bitten by this horrid snake earlier!\nI didn't think it was serious, but the\nthing turned out to be venomous,\nand now I'm going to DIE!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, you don't look so good.\nOof! And you're burning up!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_040": {
+    "speaker": "Daughter",
+    "text": "Nooo! I'm too pretty to die!\nYou have to run and get a doctor!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, don't worry! It's a cinch to cure\nthis sort of thing with magic!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_060": {
+    "speaker": "Daughter",
+    "text": "N-need...doctor...\nGetting...woozy..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh? Why isn't my magic working?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_080": {
+    "speaker": "Daughter",
+    "text": "H-hurry..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm really sorry."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, don't worry! It's a cinch to cure\nthis sort of thing with magic!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "How's that?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_120": {
+    "speaker": "Daughter",
+    "text": "Nggh... N-need...doctor."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whaaat!? It didn't work at all!?\nWell, looks like I'll have to use\nthat antidote I got earlier."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_131": {
+    "speaker": "Daughter",
+    "text": "I was in such pain but...it's like it never happened!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_132": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well no wonder my magic didn't work!\nI don't think that was the bite of a\nsnake at all!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_VIPER_000_CUT_000_140": {
+    "speaker": "Daughter",
+    "text": "Oh, thank you so much!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, that's quite a storm.\nBad night to be on the deck of a ship."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_010": {
+    "speaker": "Sailor_A",
+    "text": "Ho there, landlubber!\nLend a hand!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "What's wrong?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_030": {
+    "speaker": "Sailor_A",
+    "text": "The ship took a real hit from the storm,\nand we've lost both a sailor and a\ntreasure chest overboard!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_040": {
+    "speaker": "Sailor_B",
+    "text": "Help meeeeee!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_050": {
+    "speaker": "Sailor_A",
+    "text": "If we don't pull 'em both up fast,\nthey'll be at the bottom of the sea!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yikes! Well, in that case..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Start with the treasure!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Start with the sailor!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, we pulled up the treasure.\nSo next we should..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh? Where'd the sailor go?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_110": {
+    "speaker": "Sailor_A",
+    "text": "Damn the waves! We're too late!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh no..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, we've got him!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_140": {
+    "speaker": "Sailor_B",
+    "text": "Thank you... You saved my life..."
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "And now for the treasure!\nUh... Where'd it go?"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_160": {
+    "speaker": "Sailor_A",
+    "text": "Damn the waves! It took the treasure!"
+  },
+  "SUB_W14_EVAR_AMYA_VISION_DROWN_000_CUT_000_170": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, at least your friend's okay.\nLet's call that a win!"
+  }
+}

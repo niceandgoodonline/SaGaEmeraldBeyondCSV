@@ -1,0 +1,270 @@
+{
+    "SOZAI_SPIRIT_STONE": {
+        "name": "SOZAI_SPIRIT_STONE_ItemName", 
+        "description": "SOZAI_SPIRIT_STONE_ItemExp"
+    }, 
+    "SOZAI_FE_MOKU": {
+        "name": "SOZAI_FE_MOKU_ItemName", 
+        "description": "SOZAI_FE_MOKU_ItemExp"
+    }, 
+    "SOZAI_FE_KA": {
+        "name": "SOZAI_FE_KA_ItemName", 
+        "description": "SOZAI_FE_KA_ItemExp"
+    }, 
+    "SOZAI_FE_DO": {
+        "name": "SOZAI_FE_DO_ItemName", 
+        "description": "SOZAI_FE_DO_ItemExp"
+    }, 
+    "SOZAI_FE_KIN": {
+        "name": "SOZAI_FE_KIN_ItemName", 
+        "description": "SOZAI_FE_KIN_ItemExp"
+    }, 
+    "SOZAI_FE_SUI": {
+        "name": "SOZAI_FE_SUI_ItemName", 
+        "description": "SOZAI_FE_SUI_ItemExp"
+    }, 
+    "SOZAI_CRYSTAL_MOKU": {
+        "name": "SOZAI_CRYSTAL_MOKU_ItemName", 
+        "description": "SOZAI_CRYSTAL_MOKU_ItemExp"
+    }, 
+    "SOZAI_CRYSTAL_KA": {
+        "name": "SOZAI_CRYSTAL_KA_ItemName", 
+        "description": "SOZAI_CRYSTAL_KA_ItemExp"
+    }, 
+    "SOZAI_CRYSTAL_DO": {
+        "name": "SOZAI_CRYSTAL_DO_ItemName", 
+        "description": "SOZAI_CRYSTAL_DO_ItemExp"
+    }, 
+    "SOZAI_CRYSTAL_KIN": {
+        "name": "SOZAI_CRYSTAL_KIN_ItemName", 
+        "description": "SOZAI_CRYSTAL_KIN_ItemExp"
+    }, 
+    "SOZAI_CRYSTAL_SUI": {
+        "name": "SOZAI_CRYSTAL_SUI_ItemName", 
+        "description": "SOZAI_CRYSTAL_SUI_ItemExp"
+    }, 
+    "SOZAI_MULLOCK": {
+        "name": "SOZAI_MULLOCK_ItemName", 
+        "description": "SOZAI_MULLOCK_ItemExp"
+    }, 
+    "SOZAI_IRON_ORE": {
+        "name": "SOZAI_IRON_ORE_ItemName", 
+        "description": "SOZAI_IRON_ORE_ItemExp"
+    }, 
+    "SOZAI_MAGIC_STONE": {
+        "name": "SOZAI_MAGIC_STONE_ItemName", 
+        "description": "SOZAI_MAGIC_STONE_ItemExp"
+    }, 
+    "SOZAI_OBSIDIAN": {
+        "name": "SOZAI_OBSIDIAN_ItemName", 
+        "description": "SOZAI_OBSIDIAN_ItemExp"
+    }, 
+    "SOZAI_NATIVE_SILVER": {
+        "name": "SOZAI_NATIVE_SILVER_ItemName", 
+        "description": "SOZAI_NATIVE_SILVER_ItemExp"
+    }, 
+    "SOZAI_METEORITE": {
+        "name": "SOZAI_METEORITE_ItemName", 
+        "description": "SOZAI_METEORITE_ItemExp"
+    }, 
+    "SOZAI_SUPERALLOY": {
+        "name": "SOZAI_SUPERALLOY_ItemName", 
+        "description": "SOZAI_SUPERALLOY_ItemExp"
+    }, 
+    "SOZAI_FUR": {
+        "name": "SOZAI_FUR_ItemName", 
+        "description": "SOZAI_FUR_ItemExp"
+    }, 
+    "SOZAI_MAGICAL_BEAST_FUR": {
+        "name": "SOZAI_MAGICAL_BEAST_FUR_ItemName", 
+        "description": "SOZAI_MAGICAL_BEAST_FUR_ItemExp"
+    }, 
+    "SOZAI_BIG_BEAST_FUR": {
+        "name": "SOZAI_BIG_BEAST_FUR_ItemName", 
+        "description": "SOZAI_BIG_BEAST_FUR_ItemExp"
+    }, 
+    "SOZAI_INSECT_SHELL": {
+        "name": "SOZAI_INSECT_SHELL_ItemName", 
+        "description": "SOZAI_INSECT_SHELL_ItemExp"
+    }, 
+    "SOZAI_BEAST_BONE": {
+        "name": "SOZAI_BEAST_BONE_ItemName", 
+        "description": "SOZAI_BEAST_BONE_ItemExp"
+    }, 
+    "SOZAI_MAGICAL_BEAST_BONE": {
+        "name": "SOZAI_MAGICAL_BEAST_BONE_ItemName", 
+        "description": "SOZAI_MAGICAL_BEAST_BONE_ItemExp"
+    }, 
+    "SOZAI_BIG_BEAST_BONE": {
+        "name": "SOZAI_BIG_BEAST_BONE_ItemName", 
+        "description": "SOZAI_BIG_BEAST_BONE_ItemExp"
+    }, 
+    "SOZAI_BEAST_FANG": {
+        "name": "SOZAI_BEAST_FANG_ItemName", 
+        "description": "SOZAI_BEAST_FANG_ItemExp"
+    }, 
+    "SOZAI_MAGICAL_BEAST_FANG": {
+        "name": "SOZAI_MAGICAL_BEAST_FANG_ItemName", 
+        "description": "SOZAI_MAGICAL_BEAST_FANG_ItemExp"
+    }, 
+    "SOZAI_BIG_BEAST_FANG": {
+        "name": "SOZAI_BIG_BEAST_FANG_ItemName", 
+        "description": "SOZAI_BIG_BEAST_FANG_ItemExp"
+    }, 
+    "SOZAI_BEAST_CLAW": {
+        "name": "SOZAI_BEAST_CLAW_ItemName", 
+        "description": "SOZAI_BEAST_CLAW_ItemExp"
+    }, 
+    "SOZAI_MAGICAL_BEAST_CLAW": {
+        "name": "SOZAI_MAGICAL_BEAST_CLAW_ItemName", 
+        "description": "SOZAI_MAGICAL_BEAST_CLAW_ItemExp"
+    }, 
+    "SOZAI_BIG_BEAST_CLAW": {
+        "name": "SOZAI_BIG_BEAST_CLAW_ItemName", 
+        "description": "SOZAI_BIG_BEAST_CLAW_ItemExp"
+    }, 
+    "SOZAI_FIBER": {
+        "name": "SOZAI_FIBER_ItemName", 
+        "description": "SOZAI_FIBER_ItemExp"
+    }, 
+    "SOZAI_SCRUB": {
+        "name": "SOZAI_SCRUB_ItemName", 
+        "description": "SOZAI_SCRUB_ItemExp"
+    }, 
+    "SOZAI_HINOKI": {
+        "name": "SOZAI_HINOKI_ItemName", 
+        "description": "SOZAI_HINOKI_ItemExp"
+    }, 
+    "SOZAI_OAK": {
+        "name": "SOZAI_OAK_ItemName", 
+        "description": "SOZAI_OAK_ItemExp"
+    }, 
+    "SOZAI_COCONUT": {
+        "name": "SOZAI_COCONUT_ItemName", 
+        "description": "SOZAI_COCONUT_ItemExp"
+    }, 
+    "SOZAI_GELATIN": {
+        "name": "SOZAI_GELATIN_ItemName", 
+        "description": "SOZAI_GELATIN_ItemExp"
+    }, 
+    "SOZAI_LIGULATE_FLOWER": {
+        "name": "SOZAI_LIGULATE_FLOWER_ItemName", 
+        "description": "SOZAI_LIGULATE_FLOWER_ItemExp"
+    }, 
+    "SOZAI_DISK_FLOWER": {
+        "name": "SOZAI_DISK_FLOWER_ItemName", 
+        "description": "SOZAI_DISK_FLOWER_ItemExp"
+    }, 
+    "SOZAI_SNAKESKIN": {
+        "name": "SOZAI_SNAKESKIN_ItemName", 
+        "description": "SOZAI_SNAKESKIN_ItemExp"
+    }, 
+    "SOZAI_FEATHER": {
+        "name": "SOZAI_FEATHER_ItemName", 
+        "description": "SOZAI_FEATHER_ItemExp"
+    }, 
+    "SOZAI_ALURA": {
+        "name": "SOZAI_ALURA_ItemName", 
+        "description": "SOZAI_ALURA_ItemExp"
+    }, 
+    "SOZAI_SCREAM_ROOT": {
+        "name": "SOZAI_SCREAM_ROOT_ItemName", 
+        "description": "SOZAI_SCREAM_ROOT_ItemExp"
+    }, 
+    "SOZAI_DEMON_BLOOD": {
+        "name": "SOZAI_DEMON_BLOOD_ItemName", 
+        "description": "SOZAI_DEMON_BLOOD_ItemExp"
+    }, 
+    "SOZAI_ORB": {
+        "name": "SOZAI_ORB_ItemName", 
+        "description": "SOZAI_ORB_ItemExp"
+    }, 
+    "SOZAI_SQUID_FIN": {
+        "name": "SOZAI_SQUID_FIN_ItemName", 
+        "description": "SOZAI_SQUID_FIN_ItemExp"
+    }, 
+    "SOZAI_DRAGON_SCALE": {
+        "name": "SOZAI_DRAGON_SCALE_ItemName", 
+        "description": "SOZAI_DRAGON_SCALE_ItemExp"
+    }, 
+    "SOZAI_001": {
+        "name": "SOZAI_001_ItemName", 
+        "description": "SOZAI_001_ItemExp"
+    }, 
+    "SOZAI_002": {
+        "name": "SOZAI_002_ItemName", 
+        "description": "SOZAI_002_ItemExp"
+    }, 
+    "SOZAI_003": {
+        "name": "SOZAI_003_ItemName", 
+        "description": "SOZAI_003_ItemExp"
+    }, 
+    "SOZAI_004": {
+        "name": "SOZAI_004_ItemName", 
+        "description": "SOZAI_004_ItemExp"
+    }, 
+    "SOZAI_005": {
+        "name": "SOZAI_005_ItemName", 
+        "description": "SOZAI_005_ItemExp"
+    }, 
+    "SOZAI_006": {
+        "name": "SOZAI_006_ItemName", 
+        "description": "SOZAI_006_ItemExp"
+    }, 
+    "SOZAI_007": {
+        "name": "SOZAI_007_ItemName", 
+        "description": "SOZAI_007_ItemExp"
+    }, 
+    "SOZAI_008": {
+        "name": "SOZAI_008_ItemName", 
+        "description": "SOZAI_008_ItemExp"
+    }, 
+    "SOZAI_009": {
+        "name": "SOZAI_009_ItemName", 
+        "description": "SOZAI_009_ItemExp"
+    }, 
+    "SOZAI_010": {
+        "name": "SOZAI_010_ItemName", 
+        "description": "SOZAI_010_ItemExp"
+    }, 
+    "SOZAI_011": {
+        "name": "SOZAI_011_ItemName", 
+        "description": "SOZAI_011_ItemExp"
+    }, 
+    "SOZAI_012": {
+        "name": "SOZAI_012_ItemName", 
+        "description": "SOZAI_012_ItemExp"
+    }, 
+    "SOZAI_013": {
+        "name": "SOZAI_013_ItemName", 
+        "description": "SOZAI_013_ItemExp"
+    }, 
+    "SOZAI_014": {
+        "name": "SOZAI_014_ItemName", 
+        "description": "SOZAI_014_ItemExp"
+    }, 
+    "SOZAI_015": {
+        "name": "SOZAI_015_ItemName", 
+        "description": "SOZAI_015_ItemExp"
+    }, 
+    "SOZAI_016": {
+        "name": "SOZAI_016_ItemName", 
+        "description": "SOZAI_016_ItemExp"
+    }, 
+    "SOZAI_017": {
+        "name": "SOZAI_017_ItemName", 
+        "description": "SOZAI_017_ItemExp"
+    }, 
+    "SOZAI_018": {
+        "name": "SOZAI_018_ItemName", 
+        "description": "SOZAI_018_ItemExp"
+    }, 
+    "SOZAI_019": {
+        "name": "SOZAI_019_ItemName", 
+        "description": "SOZAI_019_ItemExp"
+    }, 
+    "SOZAI_020": {
+        "name": "SOZAI_020_ItemName", 
+        "description": "SOZAI_020_ItemExp"
+    }
+}

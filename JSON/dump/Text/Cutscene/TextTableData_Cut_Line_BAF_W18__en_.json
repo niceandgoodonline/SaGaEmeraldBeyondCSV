@@ -1,0 +1,1322 @@
+{
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "Attention all units: A suspect in\nthe attempt on the president's life\nis currently on the run."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is Officer Franklyn. I've located an\nindividual that matches the suspect's\ndescription. Pursuing on foot."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "This here's official police business,\ndarlin', so I'm gonna need you to\nfind a safe place to hide."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm Officer Franklyn.\nAnd who are you, exactly?"
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "A fellow officer? Heck, is my face ever red!\nI'm Officer Bonnie Blair—and that feller\nthere looks to be our suspect!"
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Why is he dressed so conspicuously?\nWas he <i>trying</i> to stand out after\ncausing an incident?"
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Reckon we'll have to ask him."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Capitol City Police Department! Freeze!\nWe have some questions for you!"
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Huh!? He up and vanished!"
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "He must have slipped away\nthrough this manhole."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yeah, I don't see no other option,\nbut I got no idea how he done it."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "Now let's get after him!"
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_000_CUT_000_120": {
+    "speaker": "Formina_Franklyn",
+    "text": "Wait, seriously?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "We've returned to Capitol City."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "And pretty high up, by the looks of it.\nI mean, this sure ain't no manhole."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_020": {
+    "speaker": "Tristan_Hernandes",
+    "text": "You there! What are you doing!?\nThis is a restricted... Hold on.\nIs that you, Miss Franklyn?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Hello, Mr. Chairman."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_040": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Mind telling me why you're roaming\naround the presidential grounds?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_050": {
+    "speaker": "Tristan_Hernandes",
+    "text": "...A most interesting story."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_060": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I'm Tristan Hernandez, head of the Presidential Security\nOffice. I've put in a request for a temporary transfer for you\nfrom the CCPD, so you'll be reporting directly to me now."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "It's an honor to work for a hero of the\nChannel War, sir! My daddy always said\nthere'd be no Bonnie Blair if it weren't\nfor the actions of Major Tristan Hernandez."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_080": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Your father was a first-rate marine—and the\nreal heroes of that war were him and all the\nother boots on the ground. Do I understand you\nserved with the marines as well, Sergeant?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yessir. Three years' active duty\nin the Grenil Archipelago before\njoinin' up with the CCPD."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_100": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Three years in the Green Hells, eh?\nPeople like you form the foundation of\nour country, Sergeant, and I thank you\nfor your faithful service."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_110": {
+    "speaker": "Tristan_Hernandes",
+    "text": "And you, Miss Franklyn.\nI wasn't aware you'd joined the CCPD."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "You know the Major?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_130": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I'm the Chairman of the National Marksmanship\nCompetition Committee, and Miss Franklyn here\nis a former university champion."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_140": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, I'll be switched! Who knew?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_000_150": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Indeed. Now then, I want you two to focus\non getting yourselves relocated ASAP.\nYou'll have your orders after that."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Somebody pinch me, 'cause I ain't never\nlived in such a swanky place before!"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Two bedrooms, no less. It's certainly\ndifferent from the university dorms.\nIt makes me wonder what the Presidential\nSecurity Office is going to ask of us."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Time for some girl talk, darlin'!\nYou got a squeeze or what?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I, er..."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Always assume folks are seein' and hearin'\neverything we say, 'cause this place is\ngonna have more bugs than moldy corn."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "All right, just hold on.\nYou can't spring that on me and—"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Why, I bet you're just as good at stealin'\nhearts as ya are at shootin' targets!"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Just act natural; it'll look suspicious\nif we're bein' overly cautious."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_080": {
+    "speaker": "Meow_Cat",
+    "text": "Meow."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, hey there, fuzzy! I didn't know\nya had yourself a kitty, Formina."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "Me? I thought it was yours."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "You're tellin' me some stray just\nfollowed us here? Sorry, THREE strays?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_120": {
+    "speaker": "Formina_Franklyn",
+    "text": "Can we keep them? \nIs that all right?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_020_130": {
+    "speaker": "Bonnie_Blair",
+    "text": "Always better to ask forgiveness instead'a\npermission! Also, I doubt we got a choice,\n'cause these fellers don't seem interested\nin leavin' anytime soon."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_030_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you think we can use that power\nhere in Capitol City, Bonnie?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_030_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Only one way to find out."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_030_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I, uh, might feel a touch self-conscious doing\nit right in the middle of the street, though?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_030_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well then, just skedaddle off to\nthe side where folks can't see ya."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_030_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "I can't tell if that's a serious suggestion\nor a way to poke fun, but fine. I'll do it."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_000_CUT_030_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Go get 'em, tiger."
+  },
+  "SUB_W18_SCAN_BOFO_RETURN_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well? You see anything?"
+  },
+  "SUB_W18_SCAN_BOFO_RETURN_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Look for yourself."
+  },
+  "SUB_W18_SCAN_BOFO_RETURN_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Looks like it leads to the elevator—\nwhich means it wants us to head up\nto the president's office, I guess?"
+  },
+  "SUB_W18_SCAN_BOFO_RETURN_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I have a bad feeling about this.\nMaybe we shouldn't."
+  },
+  "SUB_W18_SCAN_BOFO_RETURN_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, we ain't gettin' to the president's\noffice if we don't—and it'd be a real\nstain on our record if we cut and run\non our first dang day."
+  },
+  "SUB_W18_SCAN_BOFO_RETURN_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "No, you're right. I just...\nWell, maybe I'm overthinking it."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_100_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you think we're really\nbeing monitored, Bonnie?"
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_100_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure do. I also bet we got this transfer 'cause\nit's easier to keep eyes on us around here.\nI mean, what else could they want with\na couple'a rookie officers like us?"
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_100_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Mmm. Agreed."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_100_CUT_000_030": {
+    "speaker": "UI",
+    "text": "Bonnie & Formina"
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_100_CUT_000_040": {
+    "speaker": "UI",
+    "text": "Bonnie and Formina are police officers pursuing\ninformation on the attempted assassination of\nthe President of the Union States.\nIn the course of their investigation, the pair find\nthemselves in another world, where they obtain\na mysterious triangular object before returning home.\nFollowing this, the head of the Presidential Security Office\nreassigns the two to work under his direct command."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_100_CUT_000_050": {
+    "speaker": "UI",
+    "text": "Continue from this point."
+  },
+  "SUB_W18_WRLD_BOFO_INITIAL_100_CUT_000_060": {
+    "speaker": "UI",
+    "text": "Retrace the case from the start."
+  },
+  "SUB_W18_SCAN_BOFO_INITIAL_100_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "It seems our only choice is to follow this\ngreen line—although I don't much care for\nthe way all of this seems to have already\nbeen decided <i>for</i> us."
+  },
+  "SUB_W18_SCAN_BOFO_INITIAL_100_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, that's every day on the battlefield.\nDon't get to decide nothin' for yourself,\nand all a body can do is accept it and do\nwhat ya can to keep everyone alive."
+  },
+  "SUB_W18_SCAN_BOFO_INITIAL_100_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey, I'm ain't tryin' to lecture ya here.\nHeck, I wish things were different, but all\nwe can do is play that hand we got dealt,\nwhich means seein' where that elevator goes."
+  },
+  "SUB_W18_SCAN_BOFO_INITIAL_100_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I don't think I've ever met anyone as\ntough as you, Bonnie. So if you say this\nis the best way, I'll be right behind you."
+  },
+  "SUB_W18_SCAN_BOFO_INITIAL_100_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well now, I seem to recall a certain someone \nsayin' she didn't like everything bein' decided\nfor her! This here partnership ain't gonna work\nif ya don't think for yourself, girl."
+  },
+  "SUB_W18_SCAN_BOFO_INITIAL_100_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "I know—and I will. Thanks."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_100_CUT_000_000": {
+    "speaker": "Tristan_Hernandes",
+    "text": "First the triangle piece, and now a pedestal?\nWe're solving an honest-to-goodness puzzle\nhere, and it makes me curious as to what\nthe true nature of this Quisstatium is."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_100_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "That man didn't strike me as a liar,\nyet I'm also not sure we can trust\nhim completely in this matter."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_100_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I can't say boo about why them fellers want us\nto gather up these little triangle thingamajigs,\nbut I also got a feelin' the president's life is\ngonna be safer while we're doin' it."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_100_CUT_000_030": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Assuming they have a plan, I agree that's\nlikely—not that I intend to relax our guard.\nSo for the time being, I want the two of you\nto focus on finding these puzzle pieces. "
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_100_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Understood. If I may ask, sir, has the\npresident been apprised of this?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_100_CUT_000_050": {
+    "speaker": "Tristan_Hernandes",
+    "text": "He is, of course, aware there was an attempt\non his life, but I've not yet disclosed the series\nof events involving these artifacts."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_100_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Bit hard to walk up to the big man and\nask if he's a dang traitor, I guess."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_100_CUT_000_070": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Indeed. Right now, we lack the information\nto make a judgment on the matter one way\nor the other—so I'll be relying on the two\nof you to secure it for us."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_100_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "We won't let you down, sir."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_110_CUT_000_000": {
+    "speaker": "Tristan_Hernandes",
+    "text": "We'd considered the existence of worlds beyond\nour own, but had no idea there was a group like\nthat waiting for us. It makes me curious as to how\nQuisstatium might be linked to the president."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_110_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Why not ask him directly?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_110_CUT_000_020": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I considered it—and given our history,\nI might be able to get a straight answer.\nBut he could just as easily laugh me off—\nand if he does that, the matter is closed."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_110_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Meanin' we gotta round up more intel so\nyou can come at him knowin' everything."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_110_CUT_000_040": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Exactly so, Sergeant."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_110_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "We won't let you down, sir."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_300_CUT_000_000": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I investigated every angle that might possibly\ntie the president to that triangle and came up\nempty. I thought I'd at least find signs of a\nhigh-level cover-up, but...nothing."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_300_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "And this World Heritage Site...\nAh, right. The large triangle."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_300_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Did Kuis Statiam build that? 'Cause it sure\nlooks like somethin' an alien would make."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_300_CUT_000_030": {
+    "speaker": "Tristan_Hernandes",
+    "text": "While it may seem far-fetched, we've kept the possibility that\nit may be alien in origin in mind when analyzing it. But even\nif aliens DID make a giant triangle for some reason, there's\nno reason that would connect to the president somehow."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_300_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "We'll continue our search for\nthe triangular artifacts, then."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_400_CUT_000_000": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I went back to look for the triangle shape and\nfound a secret society that used a similar symbol,\nbut I can't be sure it was Quisstatium and there\nare no active associations that fit the bill either."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_400_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "That may be, but this group wouldn't\nbe much of a secret society if we\ncould find them so easily."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_400_CUT_000_020": {
+    "speaker": "Tristan_Hernandes",
+    "text": "You underestimate the intelligence capabilities\nof the Union States, Officer Formina. No group\nor individual can conceal their activities from\nus once we turn our eye on them."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_400_CUT_000_030": {
+    "speaker": "Tristan_Hernandes",
+    "text": "That said, we aren't always doing that;\neven the most robust intelligence groups\ncan't monitor ten billion people at once."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_400_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "This place is becoming more\nfrightening by the day."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_500_CUT_000_000": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Are you obtaining these triangular\nartifacts from individuals who are\nagents of Quisstatium?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_500_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "None were active agents so far as I could\ntell, but I did get the sense they were\nrelated somehow—members of the\nsame society, perhaps."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_500_CUT_000_020": {
+    "speaker": "Tristan_Hernandes",
+    "text": "And do you believe they're acting under\norders to give you the pieces?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_500_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Most of the time we just stumble onto 'em.\nThat said, I ain't a gal who believes in\ncoincidence—so if I had to guess, I'd say\nthere's some feller pullin' the strings."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_500_CUT_000_040": {
+    "speaker": "Tristan_Hernandes",
+    "text": "This group clearly wants you to find these things\nfor some reason. I'm launching an investigation\nthat includes the pair of you; it's possible you\nhad contact with Quisstatium without realizing it."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_500_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Whatever you need, Major."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_700_CUT_000_000": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Good work. Just one piece to go."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_700_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Thank you, sir. So long as the rules don't\nsuddenly change, we should be able to fit\nall the pieces together once we track down\nthe last artifact."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_700_CUT_000_020": {
+    "speaker": "Tristan_Hernandes",
+    "text": "At which point, anything could happen.\nBe careful, both of you."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_700_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "We sure will be, sir. Also, what are your\norders for how to deal with Kuis Statiam\nif they try to interfere?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_700_CUT_000_040": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I'll leave that to you. Just prioritize a return\nto Capitol City so we can respond as necessary.\nAnd whatever you do, don't take needless risks—\nI want the both of you back here alive."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_700_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sir, yes, sir!"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just one piece to go. So long as the rules\ndon't suddenly change, we should be able\nto fit all the pieces together once we\ntrack down the last artifact."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Only one more strange world to explore?\nSorta brings a tear to your eye."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_020": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Actually, your adventure is over."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's a triangle artifact!"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "What the heck's going on here, Major!?\nDon't tell me you're the one behind the\nassassination attempt on the president!"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_050": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Actually, I'm a member of Quisstatium—\nas is the president himself."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_060": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I was surprised by the artifact—but when you got\nthe pedestal, I knew Quisstatium was involved.\nI informed the president, and we decided to wait\nand watch while you collected the other pieces."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Letting us seemingly roam free while\nclosely monitoring our actions the\nentire time, in other words."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_080": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Ultimately this is about Quisstatium, not you.\nRight now, things are quiet—but if anything\nis going to happen, it will be when the final\npiece is put in place."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "If we stick the last piece in now,\nI reckon it'll catch 'em all unawares."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "But we have no idea if the chief\nis telling us the truth or not.\nThis could ALL be a Quisstatium plot."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_110": {
+    "speaker": "Tristan_Hernandes",
+    "text": "They may be aiming to make allies out of you, so you\ndispatch myself and the president. It would keep their\nexistence secret, and since the election is soon,\nthe power vacuum would be minimal."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'd rather muck out a stable than\njoin them Kuis Statiam fellers!"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_130": {
+    "speaker": "Tristan_Hernandes",
+    "text": "These people are careful above all else.\nThey must have an ace up their sleeve\nthey've yet to play."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_140": {
+    "speaker": "Formina_Franklyn",
+    "text": "Then why not leave the puzzle unfinished?\nWouldn't that buy us time?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_150": {
+    "speaker": "Tristan_Hernandes",
+    "text": "If a new president is elected and comes under\ntheir control, nothing will change from how it\nis now. We need to eliminate their influence\nwhile the current president remains in office."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_160": {
+    "speaker": "Bonnie_Blair",
+    "text": "Which is why you agreed to join 'em."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_170": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you think this will work, Bonnie?"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_180": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, it's sure reckless as all get-out!\nBut we can't just be leavin' this to chance;\nwe gotta stop 'em before they pull off\nwhatever it is they're tryin' to pull."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_190": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, my mind's made up.\nI know where I stand on this one."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_200": {
+    "speaker": "Bonnie_Blair",
+    "text": "You're strong as anything, Formina, but right\nnow I'm plumb scared. Sure, I survived the\nGreen Hells, but the thought of throwin' myself\ninto danger again makes me weak in the knees."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_210": {
+    "speaker": "Bonnie_Blair",
+    "text": "But I can't let ya take on this whole crazy\nfight by yourself, so let's you and me go\ntake down a secret society!"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_220": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I will support you as best as I can,\nbecause that's the only way to ensure\nthe president's safety."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_230": {
+    "speaker": "Bonnie_Blair",
+    "text": "The Major got my daddy through all\nsorts of scraps, and I know the man'll\ndo the same for us."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_710_CUT_000_240": {
+    "speaker": "Formina_Franklyn",
+    "text": "Then let's finish the puzzle."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_800_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Officers Blair and Franklyn reporting, sir.\nWe've acquired all the pieces."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_800_CUT_000_010": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Then it's time to solve the puzzle."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_800_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Yes. Let's go to work."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_800_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Dangit! This thing's got me more twisted\nup than a roll of barbed wire!"
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_800_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "We have to remain calm\nand think this through."
+  },
+  "SUB_W18_WRLD_BOFO_RETURN_800_CUT_010_020": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I don't mean to doubt your abilities, but do\nyou mind if I take a crack at it? It drives me\nup the wall to see people struggle with\nthings like puzzles and crosswords.\n"
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_000": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "This is...Capitol City? Ah. The fact you have\ninvited us of Quisstatium here suggests you\nseek discussions aimed at rebuilding our\ncooperative relationship."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm gonna need ya to explain\nwhat ya mean by that, pardner."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "You promised to tell us everything,\nso let's start there."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_030": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "Very well—but let us keep this short.\nQuisstatium has collaborators on a great\nmany worlds, a fact even you should\nhave figured out by now."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_040": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "Your past presidents have also been members.\nIn fact, it might be more accurate to say\nthat your Union States were formed in\ncollaboration with our society."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_050": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "Your nation has acquired technology from us that\nled to it becoming the most powerful country in\nyour world. So though you name us as the enemy,\nyou've been benefiting from us all along."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_060": {
+    "speaker": "Tristan_Hernandes",
+    "text": "An overblown assessment of your own value;\nthis nation is built on its citizens. So while the\npresident recognizes the value you provide,\nwe will not tolerate excessive interference."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Did you know about this, sir?"
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_080": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I did—and I also used you to get a better\nhandle on what Quisstatium was plotting,\nan action for which I apologize."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_090": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "Your presidential election is imminent, so we will\nleave it to the winner to make the determination.\nFor such is the point of the democracy to which\nyour people cling, is it not?"
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "That ain't gonna happen, sweetie. The president\nmade his decision, so we're gonna stop you here\nand now. It'll be a cold day in hell before you people\ninfluence the election!"
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_110": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "How very belligerent of you! Though\nI suppose such things are one of the \nvirtues of your nation and its people,\nwhich is why you're worth using."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_000_CUT_000_111": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "But we are Quisstatium, and we will see\nyour president's decision reversed!"
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_100_CUT_000_000": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "Capitol City...? What's going on!?\nHas the plan gone awry!?"
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_100_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We're onto you, darlin'. Better just\nreach for the sky and give it up now."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_100_CUT_000_020": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "Ah, I see! Either the president or Hernandez\nhas placed some devilish ideas in your heads.\nThose men have been deceiving you for years;\nwhy would you trust anything they say?"
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_100_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "We'll decide who we trust, thanks.\nIn the meantime, I think it's time for\nyou Quisstatium people to leave our\nworld for good."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_100_CUT_000_040": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "Ah, but if we leave, only the two of you will\never know the truth! You can easily imagine\nthe fate which awaits you in that case, yes?"
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_100_CUT_000_050": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "So rather than suffering that cruel fate, why not\nbecome our points of contact for the incoming\npresident? We have observed you in action,\nand know you possess the skills to do so."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_100_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Be the deceivers rather than the deceived?\nIs that really the extent of your philosophy?\nWhat a pity. I was really hoping to hear\nsomething more high-minded from you."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_100_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Formina, I just love you to pieces.\nYa said exactly what I wanted to say,\nonly with a buncha fancy-soundin' words."
+  },
+  "SUB_W18_WRLD_BOFO_LASTBATTLE_100_CUT_000_080": {
+    "speaker": "Man_Overworld_Cyber",
+    "text": "Clearly we have no choice but to parley with\nyour next president directly—which makes the\nentire lot of you completely expendable!"
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_000": {
+    "speaker": "Tristan_Hernandes",
+    "text": "I owe the two of you an apology: We used\nyou and put you through no end of trouble,\nwhich makes us no better than Quisstatium."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, Major, we just did what we had to.\nAin't that right, Formina?"
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I still don't know why this fell to us,\nbut maybe we can just chalk it up to fate.\nAt any rate, we managed to get through it,\nwhich means our mission is complete."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_030": {
+    "speaker": "Mr_President",
+    "text": "Ah. And this must be\nOfficers Blair and Franklyn."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Mr. President!"
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_050": {
+    "speaker": "Mr_President",
+    "text": "People like you are the bedrock of our nation's\nstrength and the sole reason for its happiness.\nBut because we cannot make your deeds public,\npermit me to thank you on behalf of the people."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, guess that means we're back\nto bein' plain old officers tomorrow."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "What's wrong there, darlin'?\nYou look troubled."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "...I'm not going back to the job, Bonnie.\nI'm going back to university."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "You anglin' to become president?"
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "I was never interested in government or\npolitics, but this has made me think about\nwhat responsibility really means—so I'm going\nto dedicate myself to figuring that out."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'd love to try goin' to university, but I ain't got\nthe money. Guess I could just go back to the\nservice, but the last thing I wanna do is get\nsent off to some other Green Hell."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_120": {
+    "speaker": "Formina_Franklyn",
+    "text": "Oh, Bonnie..."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_130": {
+    "speaker": "Bonnie_Blair",
+    "text": "But hey, the president needs a chief\nof staff to keep things runnin', right?\nSo how about ya just keep that seat\nwarm for little ol' me?"
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_140": {
+    "speaker": "Formina_Franklyn",
+    "text": "I absolutely will."
+  },
+  "SUB_W18_WRLD_BOFO_END_000_CUT_000_150": {
+    "speaker": "Bonnie_Blair",
+    "text": "Glad to hear it!"
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "So why were we chosen?"
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_010": {
+    "speaker": "Mr_President",
+    "text": "Is that not obvious?"
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Mr. President!"
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_030": {
+    "speaker": "Mr_President",
+    "text": "They knew of your strength, and so chose you\nto replace us—but the thing they didn't count\non was the power of your spirits."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, that makes two of us! Heck,\nthe thought of us ever makin'\na decision like this..."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_041": {
+    "speaker": "Bonnie_Blair",
+    "text": "Still, I was able to walk the same path\nas my daddy and fight just like he did,\nso maybe that's enough."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "And I was able to fight because I had\nyou with me, Bonnie—so thank you."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, you're gonna make me blush."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_070": {
+    "speaker": "Mr_President",
+    "text": "So long as we have people like you,\nthe Union States's future will be\nsecure no matter who is elected\nas our next president."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "You praise us too much, Mr. President."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "Would you mind if I took\na little time off, sir?"
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_100": {
+    "speaker": "Tristan_Hernandes",
+    "text": "Of course. You've earned it."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "Thank you."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "This is where it all started."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "Wait, you're not seriously suggesting\nthat we go in again, are you?"
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_140": {
+    "speaker": "Bonnie_Blair",
+    "text": "I sure am! Now let's hop in there and find\nus a nice ocean to relax on, 'cause I can't\nwait to see what you look like in a cute\nlittle swimsuit!"
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_150": {
+    "speaker": "Formina_Franklyn",
+    "text": "I think I'd prefer a nice meal at a classy\nrestaurant—plus I'd love to see what you\nlook like in a nice dress!"
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_160": {
+    "speaker": "Bonnie_Blair",
+    "text": "Either way, it sounds like we\ngot us a vacation to enjoy."
+  },
+  "SUB_W18_WRLD_BOFO_END_100_CUT_000_170": {
+    "speaker": "Formina_Franklyn",
+    "text": "Indeed we do."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_000": {
+    "speaker": "Researcher_Nishant",
+    "text": "Ah, good! There you are! Officers Bonnie Blair\nand Formina Franklyn, yes? I am Dr. Nishant,\ndirector of the anti-alien research and\ndevelopment laboratory."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Darlin', I've got so many questions,\nI don't even know where to start."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's start here: how do you know about us,\nand how did you know we were coming here?\nAlso, I'd appreciate an overview of the\nresearch you're conducting here."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_030": {
+    "speaker": "Researcher_Nishant",
+    "text": "I heard of you from your boss, Tristan Hernandez.\nSeems the man's finally gotten off his duff and\nstarted taking our anti-alien measures seriously,\nwhich means we're about to be VERY busy."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Anti-alien what now?"
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "What <i>exactly</i> are you doin' here, doc?"
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Bonnie, no. We don't have time to\nlisten to this man's nonsense."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_070": {
+    "speaker": "Researcher_Nishant",
+    "text": "The first reported contact with aliens was in 1953.\nLocals gave food and water to a UFO that crashed\nin the desert. Several years later, a mysterious\nillness took hold of them, and then—"
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Like I said. Nonsense."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sorry, girl. I don't actually give a hoot\nabout all this alien stuff, but he mentioned\nthe Major's name, which got me curious."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_100": {
+    "speaker": "Researcher_Nishant",
+    "text": "Another report involved the mutilation of over 300\ncattle on a local ranch. Despite the wide variety of\nparts removed, only a few of the animals were\nthought to have died instantly, and—"
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "......"
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "......"
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_130": {
+    "speaker": "Researcher_Nishant",
+    "text": "Yes, well! In any event, this research facility\nwas established to conduct research and\ndevelopment on equipment that might be\nused as countermeasures against the aliens."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_140": {
+    "speaker": "Researcher_Nishant",
+    "text": "To that end, we devised a simulator\nwhere you can battle aliens in\na virtual environment."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_150": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wait, so y'all have fought enough\naliens that you can simulate 'em?"
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_160": {
+    "speaker": "Researcher_Nishant",
+    "text": "We have this because we CAN'T fight them,\nOfficer Blair. The simulation is culled from\ndata such as eyewitness reports and unusual\nphenomena. Care to give it a try?"
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_170": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure, let's fight some weak ones."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_180": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure, let's fight some average ones."
+  },
+  "SUB_W18_EVAR_BOFO_BATTLE_SIM_000_CUT_000_190": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure, and make 'em real mean!"
+  },
+  "SUB_W18_EVAR_BOFO_SINGER_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "All right, what's with this big ol' crowd?\nDo they even got the proper permissions\nand all that to be usin' the plaza?"
+  },
+  "SUB_W18_EVAR_BOFO_SINGER_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Bonnie, look! It's Emily!\nEmily Bryant is putting on a show!"
+  },
+  "SUB_W18_EVAR_BOFO_SINGER_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Who's doin' what now?"
+  },
+  "SUB_W18_EVAR_BOFO_SINGER_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Emily Bryant! <i>Please</i> don't tell me\nyou've never heard her music."
+  },
+  "SUB_W18_EVAR_BOFO_SINGER_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "If it ain't country, hon, I ain't heard it.\nGuess I might'a caught something of hers\npassin' a shop or something, though."
+  },
+  "SUB_W18_EVAR_BOFO_SINGER_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Look, just make sure you remember the name\nEmily Bryant, because she's about to become\nyour new favorite artist!"
+  },
+  "SUB_W18_EVAR_BOFO_SINGER_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "So this here's some kinda corporate tie-in\nevent, huh? ...Also guess I am sorta takin'\na likin' to her tunes, now that I think on it."
+  },
+  "SUB_W18_EVAR_BOFO_SINGER_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's just how good she is."
+  },
+  "SUB_W18_EVAR_BOFO_SINGER_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "A'yup. Must be somethin' like that."
+  },
+  "SUB_W18_EVAR_BOFO_CRYSTAL_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Say, Formina? Is it just me, or does\nthat crystal in the Capitol building\nlook like a big ol' Calamity Shard?"
+  },
+  "SUB_W18_EVAR_BOFO_CRYSTAL_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I can't say. I haven't seen it."
+  },
+  "SUB_W18_EVAR_BOFO_CRYSTAL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, I'm curious as a hungry mouse,\nand I wanna get an up-close look."
+  },
+  "SUB_W18_EVAR_BOFO_CRYSTAL_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Then why not apply for a permit from the\nCongressional Secretariat? Just say it's\nfor academic research or something."
+  },
+  "SUB_W18_EVAR_BOFO_CRYSTAL_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Me doing academic research? Ha! It'd be\na fair sight easier to just waltz in there\nand steal the durn thing."
+  },
+  "SUB_W18_EVAR_BOFO_CRYSTAL_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's quite enough of that talk, Officer!\nI'll just assume the Calamity Shard is\nhaving some kind of influence on you."
+  },
+  "SUB_W18_EVAR_BOFO_DISCUSSION_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "None here hold appealing darkness;\nthe light in this city is far too strong for such."
+  },
+  "SUB_W18_EVAR_BOFO_DISCUSSION_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Just a minute now, cowboy. You best not\ngo causin' any trouble here in Capitol City,\nunless you've got a hankerin' to be on the\nwrong end of a CCPD boot."
+  },
+  "SUB_W18_EVAR_BOFO_DISCUSSION_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "You stand out enough as it is, Dismal King.\nAlso, don't think you can get away with\ndoing whatever you want around here\nsimply because you're royalty."
+  },
+  "SUB_W18_EVAR_BOFO_DISCUSSION_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I should like to visit this place again\none day—without the both of you."
+  },
+  "SUB_W18_EVAR_BOFO_FORUM_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "The International Peace Forum, hmm?\nPersonally, I don't know how a bunch\nof folks chatterin' away in a room is\nsupposed to keep anything peaceful."
+  },
+  "SUB_W18_EVAR_BOFO_FORUM_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Perhaps not, but have to keep trying.\nWe only have one chance at this world;\nwe don't have the luxury of starting\nover if something goes wrong."
+  },
+  "SUB_W18_EVAR_BOFO_FORUM_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yeah, it'd sure be great if folks could refrain\nfrom pullin' the proverbial trigger for\nreasons that don't make a lick of sense."
+  },
+  "SUB_W18_EVAR_BOFO_FORUM_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I just hope our current mission to track\ndown the triangle pieces comes to fruition;\nI don't care much for the idea of dancing\nin the palm of someone else's hand."
+  },
+  "SUB_W18_EVAR_BOFO_FORUM_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Can't say I'm all that upset about dancin'\nwith you, girl—but if I see anyone givin'\nus a smirk, I ain't gonna be happy until\nI lay 'em out on the ballroom floor."
+  },
+  "SUB_W18_EVAR_BOFO_FORUM_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just save some for me, because I have\nthe feeling you're the type to knock\nsomeone senseless with a single blow."
+  },
+  "SUB_W18_EVAR_BOFO_MANHALL_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Some weird critter made a nest down here,\nand now it's tryin' to turn the good folks\nof Capitol City into mushrooms!"
+  },
+  "SUB_W18_EVAR_BOFO_MANHALL_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "That sounds like a tale I've heard before.\nOh, I DO love dramas with tawdry setups!"
+  },
+  "SUB_W18_EVAR_BOFO_MANHALL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Can't reckon Tope would've cared to hear\nhis life story called a 'tawdry drama.'"
+  },
+  "SUB_W18_EVAR_BOFO_MANHALL_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "But if this manhole really\nconnects to that world..."
+  },
+  "SUB_W18_EVAR_BOFO_MANHALL_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wouldn't be our responsibility\neven if it did."
+  },
+  "SUB_W18_EVAR_BOFO_LIFT_000_CUT_000_000": {
+    "speaker": "Gold_SubManager",
+    "text": "Riding this reminds me of Delta Base."
+  },
+  "SUB_W18_EVAR_BOFO_LIFT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Feelin' homesick there, cowboy?"
+  },
+  "SUB_W18_EVAR_BOFO_LIFT_000_CUT_000_020": {
+    "speaker": "Gold_SubManager",
+    "text": "I possess no such flaw—indeed, I seek only\nto experience more fun in the Outside.\nWhere will you be taking me next?"
+  },
+  "SUB_W18_EVAR_BOFO_LIFT_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're not tour guides. And if you want\nto know where we'll be going next,\nask the triangle pieces."
+  },
+  "SUB_W18_EVAR_BOFO_LIFT_000_CUT_000_040": {
+    "speaker": "Gold_SubManager",
+    "text": "Oh, but this is exciting! The mystery\nof the triangles is truly a big,\nimportant mission!"
+  },
+  "SUB_W18_EVAR_BOFO_LIFT_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm just glad this ain't an\nepisode of Mission: Unlikely."
+  },
+  "SUB_W18_EVAR_BOFO_VIP_HOTEL_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure is nice and cool here. I like that\nCapitol City's a dry heat, but hoo-whee\ndoes Mister Sun love to shine down!"
+  },
+  "SUB_W18_EVAR_BOFO_VIP_HOTEL_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "We'd have no reason to come to a nice\nhotel like this if we weren't on patrol."
+  },
+  "SUB_W18_EVAR_BOFO_VIP_HOTEL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, I reckon your highfalutin parents\ncould swing a place like this. Didn't they\nstay here when they came to Capitol City?"
+  },
+  "SUB_W18_EVAR_BOFO_VIP_HOTEL_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "My parents never wanted to come to Capitol City\nfor some reason—and they never told me why.\nI always assumed something must have happened\nto them here when they were young."
+  },
+  "SUB_W18_EVAR_BOFO_VIP_HOTEL_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, ain't that just a mystery. By the way,\nthat big ol' tree in the middle of the lobby\nis the real deal, if you're curious."
+  },
+  "SUB_W18_EVAR_BOFO_VIP_HOTEL_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "I know. Apparently it's been a symbol for\nthe hotel since long before it was rebuilt.\nThe vitality plants are able to show really\nis incredible, don't you think?"
+  },
+  "SUB_W18_EVAR_BOFO_VIP_HOTEL_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure is. You can almost feel the soul\ninside it—it's like a stubborn old granny\nwho keeps on livin' no matter what."
+  },
+  "SUB_W18_EVAR_BOFO_VIP_HOTEL_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "A fine way to phrase it. Do take\ngood care of yourself, Granny."
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_000": {
+    "speaker": "Cathedral_Officer",
+    "text": "I only just arrived here and can't find the\nResearch Institute. The way the place is built\nwith all the layers? Ugh! Who <i>does</i> that?\nWhere in the world am— Huh?"
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "The Research Institute's over there!\nAnd here! And also there!"
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_020": {
+    "speaker": "Cathedral_Officer",
+    "text": "EEEEEK!"
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_030": {
+    "speaker": "Take_MiddleSister",
+    "text": "Say there, young fella! Know where I can\nfind the president's office, maybe?"
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_040": {
+    "speaker": "Scarecrow",
+    "text": "President's office is over there!\nAnd here! And also there!"
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_050": {
+    "speaker": "Take_MiddleSister",
+    "text": "If you wanna waste my time, young man,\nI'm gonna need you to buy something.\nHow about this hemp seed here, hmm?\nIt's a specialty of Miyako City!"
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I can't afford anything."
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_070": {
+    "speaker": "Take_MiddleSister",
+    "text": "You're broke!? Cripes."
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "I can't believe I thought he'd make\na good Capitol City tour guide."
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "You're gonna have to explain how ya\ngot to that conclusion, darlin'."
+  },
+  "SUB_W18_EVAR_BOFO_STATION_000_CUT_000_100": {
+    "speaker": "Scarecrow",
+    "text": "Explain it to me too!"
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_000": {
+    "speaker": "Jessica",
+    "text": "Oh, just look at those beautiful\nlittle kitties! Are they yours?"
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Sort of? It's less that they're 'ours,'\nand more that we cohabitate with them."
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_020": {
+    "speaker": "Jessica",
+    "text": "Equal members of the family, then?\nOh, but that's just wonderful."
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "More like their colleagues, I reckon.\nThey scratch our backs and we scratch\ntheirs—the usual deal."
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_040": {
+    "speaker": "Jessica",
+    "text": "That sounds like a wonderful relationship.\nAnd you're with the CCPD!\nEr, or I suppose you're actually working\nfor the office of the president right now."
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Wait, how do you know that?"
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_060": {
+    "speaker": "Jessica",
+    "text": "Oh, I hear all sorts of things while\nI'm out here cleaning every morning.\nYou two keep up the good work now!"
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_070": {
+    "speaker": "Jessica",
+    "text": "And you two have a lovely day as well.\nWhat good little kitties you are!"
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Ain't we met her somewhere before?"
+  },
+  "SUB_W18_EVAR_BOFO_CATS_000_CUT_000_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "It definitely feels like it,\nbut I can't remember where."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_000": {
+    "speaker": "Detective_John",
+    "text": "Well, if it isn't our rookie officers!\nOr I guess you're actually employees\nof the president right now, eh?"
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Hello, Detective. It's been a while.\nI'm still really grateful for how you\nhelped me while I was in training."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_020": {
+    "speaker": "Detective_John",
+    "text": "Well, you were a natural talent—just a shame\ntalented people always end up getting poached!\nStill, not much you can do when the Presidential\nSecurity Office comes knocking at your door."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_030": {
+    "speaker": "Detective_John",
+    "text": "How's Tristan doing, anyway?\nStill cracking the whip?"
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "You know the Major?"
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_050": {
+    "speaker": "Detective_John",
+    "text": "He was an instructor at the military academy—\nwhich is why I dropped out and became a cop!\nIf I'd stuck around and been sent into combat,\nI'd be six feet under the dirt right now."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_060": {
+    "speaker": "Detective_John",
+    "text": "He's a good man, the kind who does whatever it\ntakes to achieve his goals—including laying down\nhis own life. But I suppose you two will see that\nfor yourselves. Anyway, be good."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_070": {
+    "speaker": "BX10_EX",
+    "text": "Have you obtained new information\nregarding Tristan Hernandez?"
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "You were listening, Master?"
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_090": {
+    "speaker": "BX10_EX",
+    "text": "I analyzed the detective's background data\nand can affirm everything he said as true.\nHe withdrew from the military academy\nat his own discretion."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Guess the Union States' IT security\nwas no match for you!"
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_110": {
+    "speaker": "BX10_EX",
+    "text": "Indeed, the information may as well\nhave been publicly available."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_120": {
+    "speaker": "BX10_EX",
+    "text": "But can you trust him?\nTristan Hernandez, that is."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "I wouldn't have taken on this mission\nif I didn't trust his feelings on both\nthe president and the Union States."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_140": {
+    "speaker": "BX10_EX",
+    "text": "Then I will continue my analyses."
+  },
+  "SUB_W18_EVAR_BOFO_MEETING_000_CUT_000_150": {
+    "speaker": "Bonnie_Blair",
+    "text": "Thanks, darlin'."
+  },
+  "SUB_W18_WRLD_BOFO_AZURE_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "You sighed when we returned to the\napartment, Azure. Why was that?"
+  },
+  "SUB_W18_WRLD_BOFO_AZURE_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yeah, what's wrong, darlin'?"
+  },
+  "SUB_W18_WRLD_BOFO_AZURE_000_CUT_000_020": {
+    "speaker": "Azure",
+    "text": "No...sea..."
+  },
+  "SUB_W18_WRLD_BOFO_AZURE_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yeah, it's all sand and grit 'round these parts.\nBut if we hop in a plane and fly for an hour,\nyou'll be right by the ocean—which is a darn\nsight closer to the sea than my hometown."
+  },
+  "SUB_W18_WRLD_BOFO_AZURE_000_CUT_000_040": {
+    "speaker": "Azure",
+    "text": "The sun shines brightly. The air is dry.\nThe salt absent. Truly, this is another\nof Deus Maris's trials."
+  },
+  "SUB_W18_WRLD_BOFO_AZURE_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "No, it's simply the basic characteristics\nof the climate in this area. You'll just\nhave to get used to it."
+  },
+  "SUB_W18_WRLD_BOFO_AZURE_000_CUT_000_060": {
+    "speaker": "Azure",
+    "text": "Mmm? And what do you want?"
+  },
+  "SUB_W18_WRLD_BOFO_AZURE_000_CUT_000_070": {
+    "speaker": "Azure",
+    "text": "Ah. You desire attention."
+  },
+  "SUB_W18_WRLD_BOFO_AZURE_000_CUT_000_080": {
+    "speaker": "Eh_Cat",
+    "text": "*purr*"
+  },
+  "SUB_W18_WRLD_BOFO_BYAKU_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Ahhh... Nothin' beats your own\nspread for a little R&R."
+  },
+  "SUB_W18_WRLD_BOFO_BYAKU_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "What is it, Byaku?"
+  },
+  "SUB_W18_WRLD_BOFO_BYAKU_000_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "Your base of operations is rather narrow,\nand I fear I burden you. Apologies."
+  },
+  "SUB_W18_WRLD_BOFO_BYAKU_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Aw, don't you worry your li'l head about it!\nI already asked the Major to get us another\napartment, so everything's gonna be fine."
+  },
+  "SUB_W18_WRLD_BOFO_BYAKU_000_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "I... I see. Well, please let me know if\nthere is aught I can do for you—for\nI remain a priest, after all."
+  },
+  "SUB_W18_WRLD_BOFO_BYAKU_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "We'll be counting on you, Byaku."
+  },
+  "SUB_W18_WRLD_BOFO_BYAKU_000_CUT_000_060": {
+    "speaker": "Byaku",
+    "text": "Hmm? What do you need, animals?"
+  },
+  "SUB_W18_WRLD_BOFO_BYAKU_000_CUT_000_070": {
+    "speaker": "Byaku",
+    "text": "No! Stop! Do not lick me!"
+  },
+  "SUB_W18_WRLD_BOFO_BYAKU_000_CUT_000_080": {
+    "speaker": "Byaku",
+    "text": "Uwargh!"
+  },
+  "SUB_W18_WRLD_BOFO_ALEXANDRE_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure glad that's done!"
+  },
+  "SUB_W18_WRLD_BOFO_ALEXANDRE_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you think Alexandre had\nanything to do with Quisstatium?"
+  },
+  "SUB_W18_WRLD_BOFO_ALEXANDRE_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "You sayin' the fact we happened to visit Grelon,\nhappened to meet Alexandre, and then happened\nto get our hands on a triangle piece means it's all\nconnected somehow?"
+  },
+  "SUB_W18_WRLD_BOFO_ALEXANDRE_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm just asking the question, Bonnie.\nYou seemed to view him as a little\nbrother of sorts, so I was concerned."
+  },
+  "SUB_W18_WRLD_BOFO_ALEXANDRE_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "The Twilight Area's connected to infinite worlds,\nwhich means there's an infinite number where them\ntriangle doohickies might crop up. Our green line\njust happened to be one of 'em. That's all."
+  },
+  "SUB_W18_WRLD_BOFO_ALEXANDRE_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just a coincidence, then? Hmm.\nI find that rather sad."
+  },
+  "SUB_W18_WRLD_BOFO_ALEXANDRE_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "What about you fellers?\nY'all siblings?"
+  },
+  "SUB_W18_WRLD_BOFO_ALEXANDRE_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "I got no idea."
+  },
+  "SUB_W18_WRLD_BOFO_ALEXANDRE_000_CUT_000_080": {
+    "speaker": "Heh_Cat",
+    "text": "Hisss!"
+  },
+  "SUB_W18_WRLD_BOFO_GUV_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're alive and back in our apartment."
+  },
+  "SUB_W18_WRLD_BOFO_GUV_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Be somethin' of a relief to know for sure\nthere's a world waitin' for us after we\npass on, though. Don't ya think?"
+  },
+  "SUB_W18_WRLD_BOFO_GUV_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "There's no guarantee King Din\nwill summon us."
+  },
+  "SUB_W18_WRLD_BOFO_GUV_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "And I don't WANT him to! Fightin' forever,\ngettin' worn out and ground into dust?\nNo thanks. Not for this cowgirl."
+  },
+  "SUB_W18_WRLD_BOFO_GUV_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Guv seemed happy enough, I suppose.\nPerhaps there are just some people\nwho are able to live like that."
+  },
+  "SUB_W18_WRLD_BOFO_GUV_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure, but those people ain't livin'.\nFolks in Brighthome are all dead."
+  },
+  "SUB_W18_WRLD_BOFO_GUV_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "What would happiness look\nlike for you little ones?"
+  },
+  "SUB_W18_WRLD_BOFO_GUV_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Neck scritches are where your\nhappiness can be found? Hee hee!"
+  },
+  "SUB_W18_WRLD_BOFO_GUV_000_CUT_000_080": {
+    "speaker": "Beh_Cat",
+    "text": "Meow!"
+  }
+}

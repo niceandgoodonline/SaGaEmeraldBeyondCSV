@@ -1,0 +1,810 @@
+{
+  "SUB_W19_WRLD_DIVA_INITIAL_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "This is called the Great Tree because an\nentire world is spread among its branches.\nSadly, no one knows the world's proper name."
+  },
+  "SUB_W19_WRLD_DIVA_INITIAL_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I cannae detect the presence of civilization.\nIs this a world of nature, then? Do ye truly\nthink I can find my heart here when there\nisn't a single person about?"
+  },
+  "SUB_W19_WRLD_DIVA_INITIAL_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "I think that could be the very reason\nyou <i>will</i> find your heart here."
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh, what a giant eagle! And it's not taking\nits eyes off me, either. Probably best I\ndon't avert my gaze in this situation."
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It lowered its head.\nDo ye wanna be friends, love?"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Ye want me to hop on? Well, I'm a fair\nbit heavier than I look, but hup!"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Ach! Best hold on tight!"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "This is incredible, eagle!\nI've never been so high before."
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Well, would ye look at that?\nSomeone made a statue of a bear."
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh, and now I see statues of all sorts\nof furry creatures. Dearie me, maybe\nthese aren't statues at all?"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "So ye want me to save your\npetrified friends, love?"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_020_020": {
+    "speaker": "Diva_No5",
+    "text": "Ye want me to take seeds and bugs\nand a flute? Oh, but this is mad."
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_020_040": {
+    "speaker": "Diva_No5",
+    "text": "Well, I bet the flute is for calling ye,\nbut what about the bugs and seeds?"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_020_050": {
+    "speaker": "Diva_No5",
+    "text": "I need no explanation."
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_020_060": {
+    "speaker": "Diva_No5",
+    "text": "Please explain!"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_000_CUT_020_080": {
+    "speaker": "Diva_No5",
+    "text": "Ye wish me to visit that viney place?\nOff we go, then!"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Well, let's crack on, then."
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I can use these vines to go up."
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "This seems safe as anything to me.\nSo I guess when I want to go up,\nI just look for vines."
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "But what if I want to go down?\nIs jumping my only option?"
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "The bugs are eating the vines!\nWee fellows sure are hungry..."
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_030_000": {
+    "speaker": "Diva_No5",
+    "text": "The vines turned into a waterfall!"
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "Now I can slide down a waterfall without\ndamaging myself by jumping! That's grand."
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_030_020": {
+    "speaker": "Diva_No5",
+    "text": "When I want to turn vines into a waterfall,\nthese bugs will do it for me. But I don't\nhave many, so I need to use them carefully."
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_030_030": {
+    "speaker": "Diva_No5",
+    "text": "Well, I see how vines and waterfalls work,\nbut what are these seeds for, then?"
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_030_040": {
+    "speaker": "Diva_No5",
+    "text": "Maybe they turn waterfalls into vines?\nAye, I should give that a try."
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_030_050": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "MISSION"
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_030_060": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Take a stick from the beaver's lodge!"
+  },
+  "SUB_W19_GIMK_DIVA_IVY_000_CUT_030_070": {
+    "speaker": "Diva_No5",
+    "text": "New objective registered. Initiating."
+  },
+  "SUB_W19_GIMK_DIVA_IVY_099_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is not what I need\nto be doing right now."
+  },
+  "SUB_W19_EVAR_DIVA_BEAVER_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "A beaver."
+  },
+  "SUB_W19_EVAR_DIVA_BEAVER_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "One stick acquired.\nIs this all I needed to do?"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_020_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I brought a stick back from the beaver's lodge,\nso that's one objective completed. Was it ye\nwho gave me that task in the first place, then?"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_020_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "With this, I should be able to more fully\nexplore this world. But what could I\npossibly do to save all the creatures?"
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_020_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Will ye go with me, eagle?\nI may need your wings to find my heart."
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_020_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "I guess that's a nae? Aye, I'm sure ye have\nbetter things to do than go questing with\na dafty little thing like me."
+  },
+  "SUB_W19_EVAR_DIVA_EAGLE_020_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "So I've a heart to find, and these creatures\nhave been petrified to boot. Can my heart\nreally be found in a place like this? Also,\ndo these creatures even have hearts?"
+  },
+  "SUB_W19_EVAR_DIVA_TURTLE_PUSHES_TREE_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Ever since I saved the wee turtle,\nmy output seems to have risen."
+  },
+  "SUB_W19_EVAR_DIVA_TURTLE_PUSHES_TREE_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I might be able to topple that withered\ntree now, so let's give it a go!"
+  },
+  "SUB_W19_EVAR_DIVA_BEAVER_CUTS_TREE_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if there's some way I could knock\ndown that tree. Pushing with all my might\ncould do it, but I don't think it's a good idea\nto expend as much energy as all that."
+  },
+  "SUB_W19_EVAR_DIVA_BEAVER_CUTS_TREE_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh, the beaver's gnawing at the trunk!\nIt's really weakening the tree!"
+  },
+  "SUB_W19_EVAR_DIVA_BEAVER_CUTS_TREE_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "It shouldn't take much strength to\npush it over now, so here we go!"
+  },
+  "SUB_W19_FUNC_DIVA_CHANGE_CASCADE_TO_IVY_CUT_001_000": {
+    "speaker": "Diva_No5",
+    "text": "This is the last of my seeds."
+  },
+  "SUB_W19_FUNC_DIVA_CHANGE_CASCADE_TO_IVY_CUT_001_010": {
+    "speaker": "Diva_No5",
+    "text": "Let's turn this waterfall into vines."
+  },
+  "SUB_W19_FUNC_DIVA_CHANGE_CASCADE_TO_IVY_CUT_001_020": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I should think it over."
+  },
+  "SUB_W19_FUNC_DIVA_CHANGE_IVY_TO_CASCADE_CUT_001_000": {
+    "speaker": "Diva_No5",
+    "text": "This is the last of my bugs."
+  },
+  "SUB_W19_FUNC_DIVA_CHANGE_IVY_TO_CASCADE_CUT_001_010": {
+    "speaker": "Diva_No5",
+    "text": "Let's turn these vines into a waterfall."
+  },
+  "SUB_W19_WRLD_DIVA_EAGLE_WHISTLE_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "So that's what I'm dealing with..."
+  },
+  "SUB_W19_WRLD_DIVA_EAGLE_WHISTLE_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Best crack on, then!"
+  },
+  "SUB_W19_WRLD_DIVA_EAGLE_WHISTLE_GAMEEND_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I rescued all the petrified creatures."
+  },
+  "SUB_W19_WRLD_DIVA_EAGLE_WHISTLE_GAMEEND_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Maybe I'll explore just\na wee bit more, though."
+  },
+  "SUB_W19_FUNC_DIVA_ALL_GUARDIANS_SAVED_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I saved all the petrified creatures."
+  },
+  "SUB_W19_FUNC_DIVA_ALL_GUARDIANS_SAVED_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I should go inform the eagle."
+  },
+  "SUB_W19_EVAR_DIVA_WORLDEXIT_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Well, have you found that heart of yours?\nIf you think you've done all you can,\nwe'd best be moving on."
+  },
+  "SUB_W19_EVAR_DIVA_WORLDEXIT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "There are still some petrified creatures,\nbut I think I'm ready to go."
+  },
+  "SUB_W19_EVAR_DIVA_WORLDEXIT_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm not leaving until everyone\nis safe as houses!"
+  },
+  "SUB_W19_EVAR_DIVA_WORLDEXIT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Even saving petrified creatures hasn't led\nto my heart, which means there's no point\nremaining on this world."
+  },
+  "SUB_W19_EVAR_DIVA_WORLDEXIT_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Let's go home, then."
+  },
+  "SUB_W19_EVAR_DIVA_WORLDEXIT_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "A cheery bye to ye, eagle.\nSorry I cannae help more."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I unpetrified all the creatures."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm glad I was able to help others,\neven being as I am."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "A cheery bye to ye, eagle. "
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_000_CUT_000_041": {
+    "speaker": "Constantine",
+    "text": "Well? Were you able to sense\nthe hearts of the animals?"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Aye, they all had good hearts—but it\ndinnae help clarify whether a robot\nlike me has one of my own."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_100_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Warning! Threat level rising!\nWhat's this then, love!?"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_100_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "The eagle's been turned to stone!"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_100_CUT_010_001": {
+    "speaker": "Constantine",
+    "text": "So this is the secret behind the\npetrification! Must be one of the\nrules underpinning this world."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_100_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "I've got to save the eagle!"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_100_CUT_010_020": {
+    "speaker": "Constantine",
+    "text": "That duty falls not upon you, but rather the\nnext visitor here. It is imperative that the\nNational Extradimensional Exploratory\nTask Force gets a move on."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_100_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Farewell, everyone. I'm so sorry\nI dinnae do more for ye."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_200_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "What's the matter, bear?"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_200_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Why are ye so peeved\nwith me, squirrel?"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_200_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Your screech is reverberating\nright through me, bat!"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_200_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Even ye are cross with me, turtle?"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_200_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "What's going on here, eagle?"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_200_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "The animals turned to stone! Why!?"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_200_CUT_010_010": {
+    "speaker": "Constantine",
+    "text": "Because it is the way of this world that the\ndefeated are petrified. It's nothing you need\ntrouble yourself over, though, so let's cease\nour explorations here and move it."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_200_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Then ta to ye all, then.\nAnd ta to ye, Great Tree."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_300_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "What are ye all so cross about?\nAch, ye leave me no choice but\nto launch a counterattack!"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_300_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Everyone turned to stone, and it's\nall my fault. I just dinnae know\nwhat I was supposed to do!"
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_300_CUT_010_001": {
+    "speaker": "Constantine",
+    "text": "You did all you could; this was\nan important step on the search\nfor your heart."
+  },
+  "SUB_W19_EVAR_DIVA_GAMEEND_300_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "I'm sorry I cannae reverse your\npetrification. Goodbye to ye all."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_04_STONE_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Ah, this wee creature is a squirrel."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_04_STONE_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I cannae help but notice that gap\nbetween its hands and mouth.\nIt looks ready to eat!"
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_04_STONE_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "According to my database, squirrels eat a\nvariety of foods including seeds, fruits,\nand insects. I wonder which it was."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_04_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh, brilliant! Looks like the\nwalnut was the right choice."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_07_STONE_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "A bear. If it's been petrified,\nI should be able to gather data\nfrom the area around it."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_07_STONE_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Its petrification is total;\nno further data can be gathered.\nOh, but that's a shame."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_07_STONE_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Ach! Its fangs are missing! It seems\nto have had them when it was alive,\nso I should try to find them."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_07_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Crivens, that roar reverberated\nthroughout my whole body."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_07_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm glad I saved it, though,\n'cause it seems to be in good health."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_07_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "And high spirits, too!"
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_NEST_02_STONE_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "From its anatomical features, I conjecture\nthis is a bat missing its wings."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_NEST_02_STONE_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Hm? It appears to have a walnut in its mouth.\nWell, that's proper odd; according to my data,\nbats are not known to eat walnuts."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_NEST_02_STONE_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "The walnut has been petrified as well, so I'd\nonly break something if I tried to force it.\nBest find some other way, then."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_NEST_02_STONE_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I'd best find a way to reverse\nthis poor bat's petrification."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_NEST_02_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "There, two wings—now it's back to a\nproper bat shape. How lovely for you!"
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_NEST_02_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh, ye want me to have this walnut?\nCheers, love!"
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_NEST_02_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if the squirrel\nwould fancy this."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_SWAMP_06_STONE_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Poor petrified turtle."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_SWAMP_06_STONE_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It appears to have lost part of its shell.\nI cannae tell if that was before or after\nit was petrified, but if I can find it,\nI'll be sure to bring it back here."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_SWAMP_06_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Resumption of normal behavior confirmed.\nAll parameters are within normal range."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_SWAMP_06_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Your petrification has been lifted.\nYe should be fine now, ye wee turtle!"
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_SWAMP_06_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "I should move on to the next one."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_01_ROUTE2_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This frog is eating something."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_01_ROUTE2_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Ach! It's a bat wing!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_01_ROUTE2_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I retrieved the bat wing before the frog\ncould swallow it, but it was a close thing!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_SWAMP_01_ROUTE2_AUTO_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I cannae recall ever seeing\nsuch a massive frog before!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_SWAMP_01_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It's got its eyes on the dragonfly!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_SWAMP_01_ROUTE2_AUTO_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "This fellow seems happy to eat anything;\nthat must be the secret to its growth."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_02_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh, look—animal bones. I bet the fangs\nwould fit the bear nicely, so I'll just be\ntaking these along with me."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_02_EARLY_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I'll take these animal bones; I may gain\nsome useful data by analyzing them."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_03_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach! Forgive me for getting so close!\nIt was not my intention to harm ye,\nlove—just passing through is all."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_03_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Hm? Those eggs in your nest...\nThose aren't snake eggs!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_03_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "As I suspected, these are bird eggs.\nPerhaps the snake was keeping them\nto eat later?"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_03_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Well, I cannae leave them here to be eaten,\nso I'll just pack them along."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_04_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This crocodile is eating something."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_04_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Ach! It's a bat wing!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_04_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I retrieved the bat wing before the croc\ncould swallow it, but it was a close thing!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_05_ROUTE2_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "A beaver. I've never had the chance\nto see one make a lodge before."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_05_ROUTE2_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Danger! The beaver is being targeted!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_05_ROUTE2_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I protected the beaver, but don't know\nif my actions were morally correct."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_05_ROUTE2_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aw, the beaver's trying to reassure me!\nThat's proper kind of ye, love."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_06_ROUTE2_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "A dragonfly—but its large size places it\noutside the expected range of its species."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_06_ROUTE2_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Since dragonflies are carnivores,\nthis one should be capable of snapping up\nany lesser insects that come this way."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_06_ROUTE2_END_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Is this an acquaintance of yours?\nWhat do ye think, then?"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_SWAMP_06_ROUTE2_END_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh, and off they go.\nCheers to ye both!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_NEST_01_AUTO_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This spider is considerably larger than\nthe varieties I'm familiar with."
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_NEST_01_AUTO_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Danger imminent!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_NEST_01_AUTO_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Eating the likes of me would only get\nye a mouthful of metal, spider.\nBut to each their own, I suppose."
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_NEST_01_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Danger imminent!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_03_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Welcome home, ant."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_03_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "A cheery bye to ye, then."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_03_ROUTE2_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "There's a walnut inside the anthill.\nPerhaps they brought it here from\nthe place I found the squirrel?"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_03_ROUTE2_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I'll take that. Cheers!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_03_ROUTE2_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear, they appear quite cross about\nmy intrusion. Sorry, ants, but I must\nreturn this to the squirrel."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_04_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "An ant—and it appears to be\nstaring at me rather intently."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_04_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "This is no safe place\nto be climbing, ant."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_04_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I dinnae see others of your kind around here.\nWhere have ye come from, then? Let's see if\nwe can find your anthill together."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_04_ROUTE2_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Jinks, that's a massive ant!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_04_ROUTE2_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It appears to be carrying some sort of seed.\nIf I can find its anthill, there may be\nsomething there for the squirrel to eat."
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_NEST_05_AUTO_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I estimate a great many bees\nlive inside this hive."
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_NEST_05_AUTO_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Ach! Bees! All of the bees!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_NEST_05_AUTO_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "They're so angry with me, though!\nWhat did I ever do to ye!?"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_05_ROUTE2_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh! A dragonfly just came\nflying out of that beehive!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_05_ROUTE2_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "This way, dragonfly!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_05_ROUTE2_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I thought I saw another dragonfly friend\nin the swamp. Let's go see, then."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_06_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "There's a bat wing caught\non that spiderweb!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_NEST_06_ROUTE2_AUTO_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "A dragonfly's caught in that spiderweb!\nI've got to save it before it's eaten!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_NEST_06_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Goodness, that was close! I apologize\nfor not detecting it sooner, love—\nlet's be more careful going forward."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_01_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "These are juvenile wolves.\nHello there."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_01_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh, is that a piece of shell?\nThe pups must have brought it\nback here as a plaything."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_01_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Apologies, pups, but I need that."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_01_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Hopefully this will let me lift the\npetrification from the wee turtle."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I suspect I can find something good\nin this cave. Let's go and see."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "This is some creature's den!\nOh, and it's a proper mess, too."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Let's see. According to my sensors,\nthere's something right about there..."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Bear fangs detected! I'll take those."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_EARLY_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "There doesn't seem to be anything\nof interest in this cave."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_EARLY_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I'll search elsewhere."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_EARLY_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'll go inside anyway."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_EARLY_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "My sensors are only detecting\nthe presence of fiends here."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_EARLY_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Time to turn back."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_EARLY_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "I'll search a wee bit further."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_EARLY_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "My sensors aren't detecting anything."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_02_ROUTE2_EARLY_CUT_030_000": {
+    "speaker": "Diva_No5",
+    "text": "A dead end. As I suspected,\nthere's nothing here."
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_FOREST_03_AUTO_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This carnivorous plant could likely\nconsume a small animal, but I expect\nit primarily feeds on insects."
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_FOREST_03_AUTO_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "The ant is in danger!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_FOREST_03_AUTO_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "My friend here was nearly eaten!"
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_FOREST_03_AUTO_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "I'd best be more careful when passing\nthrough here with an insect friend."
+  },
+  "SUB_W19_FUNC_DIVA_PLAT_FOREST_03_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "The dragonfly is in danger!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_03_ROUTE2_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This carnivorous plant\nposes no risk to me."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_03_ROUTE2_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh? There's something in its mouth.\nLet's take a closer look, then!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_03_ROUTE2_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Ach! Even if ye could eat me,\nI assure you I taste wretched!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_03_ROUTE2_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "I should bring this bit of shell\nback to the wee turtle."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_03_ROUTE2_EARLY_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "A piece of shell—from a turtle,\nmostlike. It must have fallen here."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This bird's nest has brown\nfeathers strewn about."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Hmm? There's a shed snakeskin here.\nPerhaps a snake ate the bird or was\nstaking out its nest?"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_EGGS_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I returned the stolen eggs,\nbut what happened to the parent bird?"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_EGGS_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "There's no evidence it was eaten\nby the snake, so it should be nearby."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_CUCKOO_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "You're returned to your nest, love—\nand your eggs are right there!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_CUCKOO_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Ach! The eggs!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_CUCKOO_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Ye threw the eggs out of the nest!\nI guess it wasn't your nest after all."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_CUCKOO_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "So sorry... That was my own fault."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_OWL_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It's begun warming the eggs.\nClearly this is the parent."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_04_OWL_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm so glad ye were able to reunite with\nyour eggs, love. A cheery bye to ye!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_05_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Ye must be the mother of those eggs."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_05_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Ye seem to be in quite the tizzy,\nbut it wasn't me who nicked your eggs."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_05_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "This bird's plumage is grey and white."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_05_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Should I lead it to the nest?"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_05_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Aye, let's take it there."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_05_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Nae, let's consider this."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_06_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "That poor bird seems terribly sad. \nMaybe because it lost its eggs?"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_06_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "It has brown and beige plumage."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_07_ROUTE2_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but that deer looks terribly excited.\nJust look at it swing those antlers around!"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_07_ROUTE2_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Ach! There's a bat wing stuck on the tip\nof an antler! Poor thing must be trying\nto shake it free."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_07_ROUTE2_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "It's all right now, love.\nI got that wing off ye."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_07_ROUTE2_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "But bats have two wings,\nso I still need one more."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_FOREST_07_ROUTE2_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "That's both of the wings!\nNow to take them back to the bat."
+  },
+  "SUB_W19_EVAR_DIVA_GUARDIAN_FOREST_04_EARLY_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Perhaps it wants one of the seeds I found?"
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_03_ROUTE2_EARLY_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Would ye look at that: a walnut. Perhaps one of the animal friends here would like it."
+  },
+  "SUB_W19_EVAR_DIVA_PLAT_NEST_04_ROUTE2_EARLY_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It appears to be carry a wee bit of seeds. Likely many more to be found at their colony."
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "BF_001_FormationName": {
+    "speaker": "UI",
+    "text": "Free For All"
+  },
+  "BF_001_FormationExp": {
+    "speaker": "UI",
+    "text": "Prevents enemies from focusing on a single ally.\nAction order increases after defending.\nBP increases by 1 each turn."
+  },
+  "BF_002_FormationName": {
+    "speaker": "UI",
+    "text": "Coalescence"
+  },
+  "BF_002_FormationExp": {
+    "speaker": "UI",
+    "text": "A combo-oriented formation.\nBP cost -1 after a combo.\nBP increases by 1 each turn."
+  },
+  "BF_003_FormationName": {
+    "speaker": "UI",
+    "text": "Succession"
+  },
+  "BF_003_FormationExp": {
+    "speaker": "UI",
+    "text": "A combo-oriented formation.\nBP cost -3 after defeating a foe.\nBP increases by 1 after combos."
+  },
+  "BF_004_FormationName": {
+    "speaker": "UI",
+    "text": "Scramble"
+  },
+  "BF_004_FormationExp": {
+    "speaker": "UI",
+    "text": "Avoid those combos! Increases all allies' attack.\nBP cost -3 after defeating a foe.\nBP increases by 3 each turn. Resets after combos."
+  },
+  "BF_005_FormationName": {
+    "speaker": "UI",
+    "text": "Tiger's Den"
+  },
+  "BF_005_FormationExp": {
+    "speaker": "UI",
+    "text": "A defensive formation. BP cost -1 after defending.\nSacrifices all allies' attack for defense.\nBP increases by 1 each turn."
+  },
+  "BF_006_FormationName": {
+    "speaker": "UI",
+    "text": "Imperial Cross"
+  },
+  "BF_006_FormationExp": {
+    "speaker": "UI",
+    "text": "Excels at both offense and defense.\n1st position targeted more; 5th targeted less.\nBP increases by 1 each turn."
+  },
+  "BF_007_FormationName": {
+    "speaker": "UI",
+    "text": "Desert Lance"
+  },
+  "BF_007_FormationExp": {
+    "speaker": "UI",
+    "text": "Ally in 1st position acts as a decoy.\n1st position defense up; 2nd–5th down.\nBP increases by 1 each turn."
+  },
+  "BF_008_FormationName": {
+    "speaker": "UI",
+    "text": "Dragon Stance"
+  },
+  "BF_008_FormationExp": {
+    "speaker": "UI",
+    "text": "Acts swiftly in ascending position order.\nTech BP cost -1 in the 1st position.\nBP increases by 1 each turn. Resistant to paralysis. "
+  },
+  "BF_009_FormationName": {
+    "speaker": "UI",
+    "text": "Procession"
+  },
+  "BF_009_FormationExp": {
+    "speaker": "UI",
+    "text": "A formation where allies act slowly but in sequence.\nAction order increases upon defending.\nBP increases by 1 each turn."
+  },
+  "BF_010_FormationName": {
+    "speaker": "UI",
+    "text": "Sword and Scale"
+  },
+  "BF_010_FormationExp": {
+    "speaker": "UI",
+    "text": "Tech BP cost -1 in 1st position.\nResistant to darkness.\nBP increases by 1 each turn."
+  },
+  "BF_011_FormationName": {
+    "speaker": "UI",
+    "text": "War Cry"
+  },
+  "BF_011_FormationExp": {
+    "speaker": "UI",
+    "text": "Tech BP cost -1 in 1st position.\nResistant to stun.\nBP increases by 1 each turn."
+  },
+  "BF_012_FormationName": {
+    "speaker": "UI",
+    "text": "Hunter's Gambit"
+  },
+  "BF_012_FormationExp": {
+    "speaker": "UI",
+    "text": "Tech BP cost -1 in 5th position.\nResistant to poison.\nBP increases by 1 each turn."
+  },
+  "BF_013_FormationName": {
+    "speaker": "UI",
+    "text": "Blast Tempest"
+  },
+  "BF_013_FormationExp": {
+    "speaker": "UI",
+    "text": "Tech BP cost -1 in 5th position.\nResistant to stench.\nBP increases by 1 each turn."
+  },
+  "BF_014_FormationName": {
+    "speaker": "UI",
+    "text": "Retainers' League"
+  },
+  "BF_014_FormationExp": {
+    "speaker": "UI",
+    "text": "Used by squires to protect spellcasters.\n1st position conditional BP -1. 2nd position spell BP -1\nand increased attack. BP increases by 1 each turn."
+  },
+  "BF_015_FormationName": {
+    "speaker": "UI",
+    "text": "Rising Power"
+  },
+  "BF_015_FormationExp": {
+    "speaker": "UI",
+    "text": "Facilitates the casting of powerful spells.\nSpell BP cost -2, increased attack, and increased defense\nin 5th position. BP increases by 1 each turn."
+  },
+  "BF_016_FormationName": {
+    "speaker": "UI",
+    "text": "Fully Flanked"
+  },
+  "BF_016_FormationExp": {
+    "speaker": "UI",
+    "text": "Effective against flying foes.\nGathers allies to either end of the timeline.\nBP increases by 1 after combos."
+  },
+  "BF_017_FormationName": {
+    "speaker": "UI",
+    "text": "Last Stand"
+  },
+  "BF_017_FormationExp": {
+    "speaker": "UI",
+    "text": "Yield initiative in favor of conditionals and combos.\nSacrifices all allies' attack for defense.\nBP increases by 1 after combos."
+  },
+  "BF_018_FormationName": {
+    "speaker": "UI",
+    "text": "Wild Gemini"
+  },
+  "BF_018_FormationExp": {
+    "speaker": "UI",
+    "text": "Allows for easy 2x combos.\nBP cost -1 after performing combos.\nBP increases by 1 after combos."
+  },
+  "BF_019_FormationName": {
+    "speaker": "UI",
+    "text": "Nimble Pegasus"
+  },
+  "BF_019_FormationExp": {
+    "speaker": "UI",
+    "text": "1st position acts swiftly.\nResistant to petrification.\nBP increases by 1 each turn."
+  },
+  "BF_020_FormationName": {
+    "speaker": "UI",
+    "text": "Rear Guard"
+  },
+  "BF_020_FormationExp": {
+    "speaker": "UI",
+    "text": "Firms up defenses at the end of the line.\nIncreased defense in the 5th position.\nBP increases by 1 each turn."
+  },
+  "BF_021_FormationName": {
+    "speaker": "UI",
+    "text": "Phoenix Dance"
+  },
+  "BF_021_FormationExp": {
+    "speaker": "UI",
+    "text": "Ally in 3rd position draws enemy attacks.\nAttack down and defense up in 3rd position.\nBP increases by 1 each turn."
+  },
+  "BF_022_FormationName": {
+    "speaker": "UI",
+    "text": "Puissance"
+  },
+  "BF_022_FormationExp": {
+    "speaker": "UI",
+    "text": "Facilitates spellcasting and effective against airborne foes.\nSpell BP cost -1, increased attack, and increased defense\nin 4th and 5th positions. BP increases by 1 each turn."
+  },
+  "BF_023_FormationName": {
+    "speaker": "UI",
+    "text": "Limelight"
+  },
+  "BF_023_FormationExp": {
+    "speaker": "UI",
+    "text": "Puts 1st position in the spotlight.\nBP increases by 1 each turn."
+  },
+  "BF_024_FormationName": {
+    "speaker": "UI",
+    "text": "Speculation"
+  },
+  "BF_024_FormationExp": {
+    "speaker": "UI",
+    "text": "2nd, 3rd, and 4th positions have increased attack. All allies have decreased defense.\nBP increases by 1 after defeating foes by means other than poison or enemy actions."
+  },
+  "BF_025_FormationName": {
+    "speaker": "UI",
+    "text": "Elemental Salvo"
+  },
+  "BF_025_FormationExp": {
+    "speaker": "UI",
+    "text": "Overwhelming spiritual power grants high starting BP,\nbut decreases all allies' attack and defense.\nBP does not change."
+  },
+  "BF_026_FormationName": {
+    "speaker": "UI",
+    "text": "Momentum"
+  },
+  "BF_026_FormationExp": {
+    "speaker": "UI",
+    "text": "1st and 2nd positions focus on finishing off foes.\nBP cost -1 in 3rd position.\nBP increases by 2 after defeating foes by means other than poison or enemy actions."
+  },
+  "BF_027_FormationName": {
+    "speaker": "UI",
+    "text": "Trickster"
+  },
+  "BF_027_FormationExp": {
+    "speaker": "UI",
+    "text": "Facilitates the use of counterattacks and interrupts.\n1st and 2nd positions are more easily targeted.\nBP increases by 1 after using counterattacks or interrupts."
+  },
+  "BF_028_FormationName": {
+    "speaker": "UI",
+    "text": "Tercio"
+  },
+  "BF_028_FormationExp": {
+    "speaker": "UI",
+    "text": "Allies act slowly and sacrifice attack for defense.\nBP cost -1 in the 1st and 2nd positions.\nBP increases by 1 each turn."
+  },
+  "BF_029_FormationName": {
+    "speaker": "UI",
+    "text": "Insulation"
+  },
+  "BF_029_FormationExp": {
+    "speaker": "UI",
+    "text": "Easy to disrupt enemy combos in 1st and 2nd positions.\nResistant to confusion.\nBP increases by 1 each turn."
+  },
+  "BF_099_FormationName": {
+    "speaker": "UI",
+    "text": "Bound Formation"
+  },
+  "BF_099_FormationExp": {
+    "speaker": "UI",
+    "text": "This formation cannot be changed.\nBP increases by 1 each turn."
+  },
+  "BF_TUTORIAL_FormationName": {
+    "speaker": "UI",
+    "text": "Bound Formation"
+  },
+  "BF_TUTORIAL_FormationExp": {
+    "speaker": "UI",
+    "text": "This formation cannot be changed.\nBP increases by 1 each turn."
+  },
+  "BF_TUTORIAL_BF_FormationName": {
+    "speaker": "UI",
+    "text": "Bound Formation"
+  },
+  "BF_TUTORIAL_BF_FormationExp": {
+    "speaker": "UI",
+    "text": "This formation cannot be changed.\nBP increases by 1 each turn."
+  },
+  "BF_W14_1_FormationName": {
+    "speaker": "UI",
+    "text": "Bound Formation"
+  },
+  "BF_W14_1_FormationExp": {
+    "speaker": "UI",
+    "text": "This formation cannot be changed.\nBP increases by 1 each turn."
+  },
+  "BF_W14_2_FormationName": {
+    "speaker": "UI",
+    "text": "Bound Formation"
+  },
+  "BF_W14_2_FormationExp": {
+    "speaker": "UI",
+    "text": "This formation cannot be changed.\nBP increases by 1 each turn."
+  },
+  "BF_ENEMY_FRONT_FormationName": {
+    "speaker": "UI",
+    "text": "Bound Formation (Enemies in Front)"
+  },
+  "BF_ENEMY_FRONT_FormationExp": {
+    "speaker": "UI",
+    "text": "This formation cannot be changed.\nBP increases by 1 each turn."
+  },
+  "BF_ENEMY_BACK_FormationName": {
+    "speaker": "UI",
+    "text": "Bound Formation (Enemies in Back)"
+  },
+  "BF_ENEMY_BACK_FormationExp": {
+    "speaker": "UI",
+    "text": "This formation cannot be changed.\nBP increases by 1 each turn."
+  }
+}

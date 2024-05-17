@@ -1,0 +1,90 @@
+{
+  "W17_EVAR_MIDO_WORLDEXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "King Din's Castle"
+  },
+  "W17_EVAR_MIDO_WORLDEXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Return to the Heavens and search for your next destination."
+  },
+  "W17_EVAR_MIDO_WORLDEXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W17_EVAR_MIDO_WORLDEXIT_100_TITLE": {
+    "speaker": "UI",
+    "text": "King Din's Castle"
+  },
+  "W17_EVAR_MIDO_WORLDEXIT_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Head to the Heavens, then return to Miyako City."
+  },
+  "W17_EVAR_MIDO_WORLDEXIT_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Water Spirit"
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The spirit here seems quite weak."
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_100_TITLE": {
+    "speaker": "UI",
+    "text": "Water Spirit"
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The spirit here seems reasonably powerful."
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_200_TITLE": {
+    "speaker": "UI",
+    "text": "Water Spirit"
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The spirit here seems quite strong."
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_300_TITLE": {
+    "speaker": "UI",
+    "text": "Water Spirit"
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_300_DETAIL": {
+    "speaker": "UI",
+    "text": "A sinister spirit awaits. You'd best be prepared before making your move."
+  },
+  "W17_EVAR_MIDO_SPIRIT_SUI_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W17_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Brighthome: The Warrior World"
+  },
+  "W17_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world teeming with the energy of evil spirits on the other side of the door. If you want to acquire a spirit's power, you'll need to purge the world of evil first."
+  },
+  "W17_SCAN_MIDO_INITIAL_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Chalk Citadel"
+  },
+  "W17_SCAN_MIDO_INITIAL_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Emerald Wave connects to the citadel."
+  }
+}

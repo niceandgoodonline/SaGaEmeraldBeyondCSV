@@ -1,0 +1,166 @@
+{
+  "TSU_SUB_W11_COMM_FLOWER_001": {
+    "speaker": "UI",
+    "text": "The Epuyke has changed."
+  },
+  "TSU_SUB_W11_COMM_FLOWER_002": {
+    "speaker": "UI",
+    "text": "Seeds planted."
+  },
+  "TSU_SUB_W11_COMM_FLOWER_003": {
+    "speaker": "UI",
+    "text": "It's sprouting."
+  },
+  "TSU_SUB_W11_COMM_FLOWER_004": {
+    "speaker": "UI",
+    "text": "It's budding."
+  },
+  "TSU_SUB_W11_COMM_FLOWER_005": {
+    "speaker": "UI",
+    "text": "It's blooming."
+  },
+  "TSU_SUB_W11_COMM_FLOWER_006": {
+    "speaker": "UI",
+    "text": "It wilted."
+  },
+  "TSU_SUB_W11_COMM_FLOWER_007": {
+    "speaker": "UI",
+    "text": "The flower bloomed, but something is off."
+  },
+  "TSU_SUB_W11_COMM_FLOWER_008": {
+    "speaker": "UI",
+    "text": "There's nothing here."
+  },
+  "TSU_SUB_W11_COMM_AREATYPE_000_000": {
+    "speaker": "UI",
+    "text": "The hour of drought has arrived."
+  },
+  "TSU_SUB_W11_COMM_AREATYPE_000_003": {
+    "speaker": "UI",
+    "text": "The hour of flood has arrived."
+  },
+  "SUB_W11_EVAR_COMM_TIPS_000_CUT_000_000": {
+    "speaker": "Priestess of Imeru L",
+    "text": "Hail, Soyay the Pollinator,\nsummoned from another world!\nThe maiden's trials are complete."
+  },
+  "SUB_W11_EVAR_COMM_TIPS_000_CUT_000_010": {
+    "speaker": "Priestess of Imeru L",
+    "text": "All that remains is to make the flower bloom.\nDefeat Ancikar's fiends and turn Ancikar's\ndreams into nutrients for the Epuyke."
+  },
+  "SUB_W11_EVAR_COMM_TIPS_000_CUT_000_020": {
+    "speaker": "Priestess of Imeru L",
+    "text": "Hail, Soyay the Pollinator,\nsummoned from another world!\fThe festival of the Epuyke is complete,\nand we are now preparing for the next\nMaiden of the Epuyke."
+  },
+  "SUB_W11_EVAR_COMM_TIPS_000_CUT_000_030": {
+    "speaker": "Priestess of Imeru L",
+    "text": "But while the flower blooms, the seed of the\nnext Epuyke cannot be returned to the earth.\nBring down Ancikar's fiends and prepare\nto welcome the next Epuyke."
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_000_CUT_000_000": {
+    "speaker": "Kikiris",
+    "text": "These are the testing fields,\nand I am Kina the summoner."
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_000_CUT_000_010": {
+    "speaker": "Kikiris",
+    "text": "You should battle the fiends I summon,\nSoyay, for they bear no influence upon \nAncikar. What say you?"
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_000_CUT_000_030": {
+    "speaker": "Kikiris",
+    "text": "Would you like to battle\na summoned fiend?"
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_000_CUT_000_040": {
+    "speaker": "HERO",
+    "text": "Yes."
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_000_CUT_000_050": {
+    "speaker": "HERO",
+    "text": "No."
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_000_CUT_000_060": {
+    "speaker": "Kikiris",
+    "text": "Very well. Here I go."
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_000_CUT_000_070": {
+    "speaker": "Kikiris",
+    "text": "Ma, Soyay tako! Ma, Soyay tako!"
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_000_CUT_000_080": {
+    "speaker": "Kikiris",
+    "text": "If ever you change your mind,\nyou know where to find me."
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_000_CUT_000_090": {
+    "speaker": "Kikiris",
+    "text": "Epuyke nogonoa kowo!"
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_100_CUT_000_010": {
+    "speaker": "Kikiris",
+    "text": "You should battle the fiends I summon,\nformer Soyay, for they bear no influence\nupon Ancikar. What say you?"
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_100_CUT_000_080": {
+    "speaker": "Kikiris",
+    "text": "Ah. That is too bad."
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_100_CUT_010_000": {
+    "speaker": "Kikiris",
+    "text": "Where do the summoned fiends come from?\nWhat sort of beings are they originally?\nI am simply dying to know."
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_100_CUT_010_010": {
+    "speaker": "Kikiris",
+    "text": "You will be returning to your world now,\nyes, former Soyay? If so, I have decided\nI am coming with you."
+  },
+  "SUB_W11_EVAR_COMM_BATTLE_100_CUT_010_020": {
+    "speaker": "Kikiris",
+    "text": "Epuyke nogonoa kowo!"
+  },
+  "SUB_W11_EVAR_COMM_EPUIKE_340_CUT_010_030": {
+    "speaker": "Nana",
+    "text": "Epuyke nogonoa kowo!"
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_060": {
+    "speaker": "Hasumi",
+    "text": "'For reasons unclear, I have been summoned to\nthis world by some sort of magic. I am apparently\nmeant to walk with someone labeled a 'maiden'\nand aid her in a series of trials."
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_070": {
+    "speaker": "Hasumi",
+    "text": "But I have only a few days supply\nof both diapers and milk remaining,\nand I don't know what to do.'"
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_100": {
+    "speaker": "Hasumi",
+    "text": "'I thought I might awake to find this had\nall been a dream, but it was not to be.\nTime is...strange here—fluid—which is why\nI have decided to write all of this down."
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_110": {
+    "speaker": "Hasumi",
+    "text": "The easiest way to return to my world is to abandon\nthe maiden, but I am torn as to whether or not that's\nan ethical choice. I have no one I can talk to,\nand I cannot leave Nana alone either.'"
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_130": {
+    "speaker": "Hasumi",
+    "text": "'May 9th..."
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_140": {
+    "speaker": "Hasumi",
+    "text": "I spoke to the clerics; the maiden's mother will look\nafter Nana while I'm off helping her daughter on the trials.\nI know Nuy will not return home if I am successful,\nand yet I still feel this is something I must do.'"
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_180": {
+    "speaker": "Hasumi",
+    "text": "'May 12th..."
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_190": {
+    "speaker": "Hasumi",
+    "text": "Today, I set out on my trials with the maiden, Nuy.\nHer mother, Yuk, will be taking care of Nana while I'm\naway—and even though Yuk's own daughter is going to\nbecome the Epuyke, all she does is fuss over me and Nana."
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_200": {
+    "speaker": "Hasumi",
+    "text": "I don't know much about this world,\nbut I do know this: Yuk is a good person—\nI would lose my mind if someone told me\nNana had to become this Epuyke thing."
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_210": {
+    "speaker": "Hasumi",
+    "text": "When these trials are over—when we return to our world and\nNana grows up—I'll tell her about what happened here. She'll probably think\nI'm making it up, and I won't be able to blame her. Perhaps I'll even write a\nbook about this place one day—I imagine it would sell quite well."
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_220": {
+    "speaker": "Hasumi",
+    "text": "Oh, one last thing: I learned to say 'Epuyke nogonoa\nkowo' in the local language. People say this to me\nconstantly, and it roughly means, 'May the blossoms\nof the Epuyke watch over you.'"
+  },
+  "SUB_W11_EVAR_COMM_KIERU_310_CUT_010_230": {
+    "speaker": "Hasumi",
+    "text": "Well, it's time for me to go.\nEpuyke nogonoa kowo, my precious Nana.'"
+  }
+}

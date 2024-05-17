@@ -1,0 +1,226 @@
+{
+  "CHARA_DEX_01_Text": {
+    "speaker": "UI",
+    "text": "Remember to relax, yeah? Loosen those shoulders."
+  },
+  "CHARA_DEX_02_Text": {
+    "speaker": "UI",
+    "text": "Magic's a ton of fun. Being a witch is the best!"
+  },
+  "CHARA_DEX_03_Text": {
+    "speaker": "UI",
+    "text": "I am the Dismal King. Serve me well."
+  },
+  "CHARA_DEX_04_Text": {
+    "speaker": "UI",
+    "text": "Honing one's focus is easier said than done."
+  },
+  "CHARA_DEX_05_Text": {
+    "speaker": "UI",
+    "text": "I've been real into martial arts lately—workin' on my kicks!"
+  },
+  "CHARA_DEX_06_Text": {
+    "speaker": "UI",
+    "text": "Am I really capable of singing and dancing and such?"
+  },
+  "CHARA_DEX_07_Text": {
+    "speaker": "UI",
+    "text": "A true warrior's path lies in the pursuit of dual-wielding."
+  },
+  "CHARA_DEX_08_Text": {
+    "speaker": "UI",
+    "text": "Stomp heavy and assuage the spirits!"
+  },
+  "CHARA_DEX_09_Text": {
+    "speaker": "UI",
+    "text": "I see my heart's desire as I sleep, yet wake when I know it to be a dream."
+  },
+  "CHARA_DEX_10_Text": {
+    "speaker": "UI",
+    "text": "If you're gonna take your shot, you better not miss!"
+  },
+  "CHARA_DEX_11_Text": {
+    "speaker": "UI",
+    "text": "It would be a shame not to make the most of having a familiar around."
+  },
+  "CHARA_DEX_12_Text": {
+    "speaker": "UI",
+    "text": "I am a squire. To serve a witch is my duty."
+  },
+  "CHARA_DEX_13_Text": {
+    "speaker": "UI",
+    "text": "Goddesses have it tough. It's way easier being a copy!"
+  },
+  "CHARA_DEX_14_Text": {
+    "speaker": "UI",
+    "text": "Just do as I command and you'll win!"
+  },
+  "CHARA_DEX_15_Text": {
+    "speaker": "UI",
+    "text": "May the heavens above bear witness to our honor!"
+  },
+  "CHARA_DEX_16_Text": {
+    "speaker": "UI",
+    "text": "I must say, you are quite the interesting individual."
+  },
+  "CHARA_DEX_17_Text": {
+    "speaker": "UI",
+    "text": "What do you want? I'll kill you."
+  },
+  "CHARA_DEX_18_Text": {
+    "speaker": "UI",
+    "text": "Runnin' wild, runnin' free; this is the life for you and me!"
+  },
+  "CHARA_DEX_19_Text": {
+    "speaker": "UI",
+    "text": "A little screwin' around is fine so long as you keep training!"
+  },
+  "CHARA_DEX_20_Text": {
+    "speaker": "UI",
+    "text": "Meow."
+  },
+  "CHARA_DEX_21_Text": {
+    "speaker": "UI",
+    "text": "Mrooow."
+  },
+  "CHARA_DEX_22_Text": {
+    "speaker": "UI",
+    "text": "Hiss!"
+  },
+  "CHARA_DEX_23_Text": {
+    "speaker": "UI",
+    "text": "Don't let me down, chums!"
+  },
+  "CHARA_DEX_24_Text": {
+    "speaker": "UI",
+    "text": "Arooo!"
+  },
+  "CHARA_DEX_25_Text": {
+    "speaker": "UI",
+    "text": "Iiit's Wednesday! ...Er, or I'M Wednesday, I mean. I don't know what day it is."
+  },
+  "CHARA_DEX_26_Text": {
+    "speaker": "UI",
+    "text": "Don't get disappointed if I wither."
+  },
+  "CHARA_DEX_27_Text": {
+    "speaker": "UI",
+    "text": "Reclaiming what I have lost is a matter of pride."
+  },
+  "CHARA_DEX_28_Text": {
+    "speaker": "UI",
+    "text": "The fun's just getting started!"
+  },
+  "CHARA_DEX_29_Text": {
+    "speaker": "UI",
+    "text": "I want to discover my potential!"
+  },
+  "CHARA_DEX_30_Text": {
+    "speaker": "UI",
+    "text": "Being a golem isn't so bad!"
+  },
+  "CHARA_DEX_31_Text": {
+    "speaker": "UI",
+    "text": "Let me show you what I'm truly capable of."
+  },
+  "CHARA_DEX_32_Text": {
+    "speaker": "UI",
+    "text": "Master!"
+  },
+  "CHARA_DEX_33_Text": {
+    "speaker": "UI",
+    "text": "Have ye anything weird to eat?"
+  },
+  "CHARA_DEX_34_Text": {
+    "speaker": "UI",
+    "text": "Can I truly survive away from the sea?"
+  },
+  "CHARA_DEX_35_Text": {
+    "speaker": "UI",
+    "text": "I'm a priest—I'm ALWAYS right."
+  },
+  "CHARA_DEX_36_Text": {
+    "speaker": "UI",
+    "text": "Need me to carry something for you?"
+  },
+  "CHARA_DEX_37_Text": {
+    "speaker": "UI",
+    "text": "Anyone else feel cold?"
+  },
+  "CHARA_DEX_38_Text": {
+    "speaker": "UI",
+    "text": "My throat and skin are both so dry..."
+  },
+  "CHARA_DEX_39_Text": {
+    "speaker": "UI",
+    "text": "The air quality here is simply terrible."
+  },
+  "CHARA_DEX_40_Text": {
+    "speaker": "UI",
+    "text": "I miss my life in the forest."
+  },
+  "CHARA_DEX_41_Text": {
+    "speaker": "UI",
+    "text": "Yaaay! I can't wait to stuff myself!"
+  },
+  "CHARA_DEX_42_Text": {
+    "speaker": "UI",
+    "text": "I thought you were going to take me somewhere interesting."
+  },
+  "CHARA_DEX_43_Text": {
+    "speaker": "UI",
+    "text": "Hold my calls! This scarecrow's taking another day off!"
+  },
+  "CHARA_DEX_44_Text": {
+    "speaker": "UI",
+    "text": "So there are worlds like this too, mmm?"
+  },
+  "CHARA_DEX_45_Text": {
+    "speaker": "UI",
+    "text": "Have we analyzed the enemy's combat potential?"
+  },
+  "CHARA_DEX_46_Text": {
+    "speaker": "UI",
+    "text": "Our legend begins! Let us sally forth!"
+  },
+  "CHARA_DEX_47_Text": {
+    "speaker": "UI",
+    "text": "208208"
+  },
+  "CHARA_DEX_48_Text": {
+    "speaker": "UI",
+    "text": "The best offense is a strong defense!"
+  },
+  "CHARA_DEX_49_Text": {
+    "speaker": "UI",
+    "text": "Go on, then! There's not been nearly enough fighting!"
+  },
+  "CHARA_DEX_50_Text": {
+    "speaker": "UI",
+    "text": "Demonstrate now your pride as a warrior!"
+  },
+  "CHARA_DEX_51_Text": {
+    "speaker": "UI",
+    "text": "Let's take it easy, yeah?"
+  },
+  "CHARA_DEX_52_Text": {
+    "speaker": "UI",
+    "text": "I will do all I can to live up to your trust."
+  },
+  "CHARA_DEX_53_Text": {
+    "speaker": "UI",
+    "text": "All ends with me."
+  },
+  "CHARA_DEX_54_Text": {
+    "speaker": "UI",
+    "text": "I don't always wear the same clothes—I just own multiple copies of this outfit."
+  },
+  "CHARA_DEX_55_Text": {
+    "speaker": "UI",
+    "text": "Reality's always one step ahead of me."
+  },
+  "CHARA_DEX_56_Text": {
+    "speaker": "UI",
+    "text": "Singing can bring people happiness. I truly believe that!"
+  }
+}

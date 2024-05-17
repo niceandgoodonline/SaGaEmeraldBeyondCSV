@@ -1,0 +1,442 @@
+{
+  "UI_OptionLang01_ItemName": {
+    "speaker": "UI",
+    "text": "Text"
+  },
+  "UI_OptionLang01_Description": {
+    "speaker": "UI",
+    "text": "Choose a language for menus and subtitles."
+  },
+  "UI_OptionLang01_Choice01": {
+    "speaker": "UI",
+    "text": "Japanese"
+  },
+  "UI_OptionLang01_Choice02": {
+    "speaker": "UI",
+    "text": "English"
+  },
+  "UI_OptionLang02_ItemName": {
+    "speaker": "UI",
+    "text": "Voice"
+  },
+  "UI_OptionLang02_Description": {
+    "speaker": "UI",
+    "text": "Choose a language for spoken voices."
+  },
+  "UI_OptionLang02_Choice01": {
+    "speaker": "UI",
+    "text": "Japanese"
+  },
+  "UI_OptionLang02_Choice02": {
+    "speaker": "UI",
+    "text": "English"
+  },
+  "UI_OptionBasic01_ItemName": {
+    "speaker": "UI",
+    "text": "Vibration"
+  },
+  "UI_OptionBasic01_Description": {
+    "speaker": "UI",
+    "text": "Enable or disable controller vibration."
+  },
+  "UI_OptionBasic01_Choice01": {
+    "speaker": "UI",
+    "text": "On"
+  },
+  "UI_OptionBasic01_Choice02": {
+    "speaker": "UI",
+    "text": "Off"
+  },
+  "UI_OptionBasic02_ItemName": {
+    "speaker": "UI",
+    "text": "Cutscene Subtitles"
+  },
+  "UI_OptionBasic02_Description": {
+    "speaker": "UI",
+    "text": "Choose what information is displayed during cutscenes."
+  },
+  "UI_OptionBasic02_Choice01": {
+    "speaker": "UI",
+    "text": "Subtitles & Speaker Names"
+  },
+  "UI_OptionBasic02_Choice02": {
+    "speaker": "UI",
+    "text": "Subtitles Only"
+  },
+  "UI_OptionBasic02_Choice03": {
+    "speaker": "UI",
+    "text": "Disable"
+  },
+  "UI_OptionBasic03_ItemName": {
+    "speaker": "UI",
+    "text": "Combat Subtitles"
+  },
+  "UI_OptionBasic03_Description": {
+    "speaker": "UI",
+    "text": "Choose what information is displayed during combat."
+  },
+  "UI_OptionBasic03_Choice01": {
+    "speaker": "UI",
+    "text": "Subtitles & Speaker Names"
+  },
+  "UI_OptionBasic03_Choice02": {
+    "speaker": "UI",
+    "text": "Subtitles Only"
+  },
+  "UI_OptionBasic03_Choice03": {
+    "speaker": "UI",
+    "text": "Disable"
+  },
+  "UI_OptionBasic04_ItemName": {
+    "speaker": "UI",
+    "text": "Rendering Quality"
+  },
+  "UI_OptionBasic04_Description": {
+    "speaker": "UI",
+    "text": "Choose whether to prioritize performance or graphic quality."
+  },
+  "UI_OptionBasic04_Choice01": {
+    "speaker": "UI",
+    "text": "Performance"
+  },
+  "UI_OptionBasic04_Choice02": {
+    "speaker": "UI",
+    "text": "Graphics"
+  },
+  "UI_OptionBasic06_ItemName": {
+    "speaker": "UI",
+    "text": "Performance Settings"
+  },
+  "UI_OptionBasic06_Description": {
+    "speaker": "UI",
+    "text": "Choose whether to prioritize performance or battery life."
+  },
+  "UI_OptionBasic06_Choice01": {
+    "speaker": "UI",
+    "text": "Battery Mode"
+  },
+  "UI_OptionBasic06_Choice02": {
+    "speaker": "UI",
+    "text": "Performance Mode"
+  },
+  "UI_OptionSound01_ItemName": {
+    "speaker": "UI",
+    "text": "Background Music Volume"
+  },
+  "UI_OptionSound01_Description": {
+    "speaker": "UI",
+    "text": "Adjust the volume of background music."
+  },
+  "UI_OptionSound02_ItemName": {
+    "speaker": "UI",
+    "text": "Sound Effect Volume"
+  },
+  "UI_OptionSound02_Description": {
+    "speaker": "UI",
+    "text": "Adjust the volume of sound effects."
+  },
+  "UI_OptionSound03_ItemName": {
+    "speaker": "UI",
+    "text": "Voice Volume"
+  },
+  "UI_OptionSound03_Description": {
+    "speaker": "UI",
+    "text": "Adjust the volume of voices."
+  },
+  "UI_OptionOperation01_ItemName": {
+    "speaker": "UI",
+    "text": "Horizontal Camera Controls"
+  },
+  "UI_OptionOperation01_Description": {
+    "speaker": "UI",
+    "text": "Choose between normal or inverted horizontal camera control when in the Junction."
+  },
+  "UI_OptionOperation01_Choice01": {
+    "speaker": "UI",
+    "text": "Normal"
+  },
+  "UI_OptionOperation01_Choice02": {
+    "speaker": "UI",
+    "text": "Inverted"
+  },
+  "UI_OptionOperation02_ItemName": {
+    "speaker": "UI",
+    "text": "Vertical Camera Controls"
+  },
+  "UI_OptionOperation02_Description": {
+    "speaker": "UI",
+    "text": "Choose between normal or inverted vertical camera control when in the Junction."
+  },
+  "UI_OptionOperation02_Choice01": {
+    "speaker": "UI",
+    "text": "Normal"
+  },
+  "UI_OptionOperation02_Choice02": {
+    "speaker": "UI",
+    "text": "Inverted"
+  },
+  "UI_OptionOperation03_ItemName": {
+    "speaker": "UI",
+    "text": "World Traversal Method"
+  },
+  "UI_OptionOperation03_Description": {
+    "speaker": "UI",
+    "text": "Choose how to move your character about the world."
+  },
+  "UI_OptionOperation03_Choice01": {
+    "speaker": "UI",
+    "text": "Stick"
+  },
+  "UI_OptionOperation03_Choice02": {
+    "speaker": "UI",
+    "text": "Drag"
+  },
+  "UI_OptionOperation04_ItemName": {
+    "speaker": "UI",
+    "text": "Confirm Anywhere"
+  },
+  "UI_OptionOperation04_Description": {
+    "speaker": "UI",
+    "text": "Adjust tap-confirmation controls."
+  },
+  "UI_OptionOperation04_Choice01": {
+    "speaker": "UI",
+    "text": "Off"
+  },
+  "UI_OptionOperation04_Choice02": {
+    "speaker": "UI",
+    "text": "Double Tap"
+  },
+  "UI_OptionOperation04_Choice03": {
+    "speaker": "UI",
+    "text": "Single Tap"
+  },
+  "UI_OptionWindow01_ItemName": {
+    "speaker": "UI",
+    "text": "Window Mode"
+  },
+  "UI_OptionWindow01_Description": {
+    "speaker": "UI",
+    "text": "Select a window mode."
+  },
+  "UI_OptionWindow01_Choice01": {
+    "speaker": "UI",
+    "text": "Window"
+  },
+  "UI_OptionWindow01_Choice02": {
+    "speaker": "UI",
+    "text": "Borderless"
+  },
+  "UI_OptionWindow01_Choice03": {
+    "speaker": "UI",
+    "text": "Fullscreen"
+  },
+  "UI_OptionWindow02_ItemName": {
+    "speaker": "UI",
+    "text": "Window Size"
+  },
+  "UI_OptionWindow02_Description": {
+    "speaker": "UI",
+    "text": "Choose a window size."
+  },
+  "UI_OptionWindow03_ItemName": {
+    "speaker": "UI",
+    "text": "V-Sync"
+  },
+  "UI_OptionWindow03_Description": {
+    "speaker": "UI",
+    "text": "Adjust v-sync settings."
+  },
+  "UI_OptionWindow03_Choice01": {
+    "speaker": "UI",
+    "text": "On"
+  },
+  "UI_OptionWindow03_Choice02": {
+    "speaker": "UI",
+    "text": "Off"
+  },
+  "UI_OptionWindow04_ItemName": {
+    "speaker": "UI",
+    "text": "Mouse Settings"
+  },
+  "UI_OptionWindow04_Description": {
+    "speaker": "UI",
+    "text": "Adjust whether your mouse cursor remains in the game window."
+  },
+  "UI_OptionWindow04_Choice01": {
+    "speaker": "UI",
+    "text": "On"
+  },
+  "UI_OptionWindow04_Choice02": {
+    "speaker": "UI",
+    "text": "Off"
+  },
+  "UI_OptionWindow05_ItemName": {
+    "speaker": "UI",
+    "text": "FPS Settings"
+  },
+  "UI_OptionWindow05_Description": {
+    "speaker": "UI",
+    "text": "Choose a frame rate. This cannot be changed when v-sync is turned on."
+  },
+  "UI_OptionWindow05_Choice01": {
+    "speaker": "UI",
+    "text": "30"
+  },
+  "UI_OptionWindow05_Choice02": {
+    "speaker": "UI",
+    "text": "60"
+  },
+  "UI_OptionWindow05_Choice03": {
+    "speaker": "UI",
+    "text": "120"
+  },
+  "UI_OptionPCGraphic01_ItemName": {
+    "speaker": "UI",
+    "text": "Rendering Presets"
+  },
+  "UI_OptionPCGraphic01_Description": {
+    "speaker": "UI",
+    "text": "Choose your rendering preset."
+  },
+  "UI_OptionPCGraphic01_Choice01": {
+    "speaker": "UI",
+    "text": "Low"
+  },
+  "UI_OptionPCGraphic01_Choice02": {
+    "speaker": "UI",
+    "text": "Medium"
+  },
+  "UI_OptionPCGraphic01_Choice03": {
+    "speaker": "UI",
+    "text": "High"
+  },
+  "UI_OptionPCGraphic01_Choice04": {
+    "speaker": "UI",
+    "text": "Best"
+  },
+  "UI_OptionPCGraphic01_Choice05": {
+    "speaker": "UI",
+    "text": "-"
+  },
+  "UI_OptionPCGraphic02_ItemName": {
+    "speaker": "UI",
+    "text": "Brightness"
+  },
+  "UI_OptionPCGraphic02_Description": {
+    "speaker": "UI",
+    "text": "Adjust this so the mark on the left is visible."
+  },
+  "UI_OptionPCGraphic03_ItemName": {
+    "speaker": "UI",
+    "text": "Anti-Aliasing"
+  },
+  "UI_OptionPCGraphic03_Description": {
+    "speaker": "UI",
+    "text": "Adjust anti-aliasing settings."
+  },
+  "UI_OptionPCGraphic03_Choice01": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "UI_OptionPCGraphic03_Choice02": {
+    "speaker": "UI",
+    "text": "Low"
+  },
+  "UI_OptionPCGraphic03_Choice03": {
+    "speaker": "UI",
+    "text": "High"
+  },
+  "UI_OptionPCGraphic04_ItemName": {
+    "speaker": "UI",
+    "text": "Texture Filtering"
+  },
+  "UI_OptionPCGraphic04_Description": {
+    "speaker": "UI",
+    "text": "Adjust texture-filtering settings."
+  },
+  "UI_OptionPCGraphic04_Choice01": {
+    "speaker": "UI",
+    "text": "Low"
+  },
+  "UI_OptionPCGraphic04_Choice02": {
+    "speaker": "UI",
+    "text": "Medium"
+  },
+  "UI_OptionPCGraphic04_Choice03": {
+    "speaker": "UI",
+    "text": "High"
+  },
+  "UI_OptionPCGraphic05_ItemName": {
+    "speaker": "UI",
+    "text": "Shadow Quality"
+  },
+  "UI_OptionPCGraphic05_Description": {
+    "speaker": "UI",
+    "text": "Adjust shadow quality."
+  },
+  "UI_OptionPCGraphic05_Choice01": {
+    "speaker": "UI",
+    "text": "Low"
+  },
+  "UI_OptionPCGraphic05_Choice02": {
+    "speaker": "UI",
+    "text": "High"
+  },
+  "UI_OptionPCGraphic06_ItemName": {
+    "speaker": "UI",
+    "text": "Texture Detail"
+  },
+  "UI_OptionPCGraphic06_Description": {
+    "speaker": "UI",
+    "text": "Adjust texture resolution."
+  },
+  "UI_OptionPCGraphic06_Choice01": {
+    "speaker": "UI",
+    "text": "Full"
+  },
+  "UI_OptionPCGraphic06_Choice02": {
+    "speaker": "UI",
+    "text": "1/2"
+  },
+  "UI_OptionPCGraphic06_Choice03": {
+    "speaker": "UI",
+    "text": "1/4"
+  },
+  "UI_OptionPCGraphic06_Choice04": {
+    "speaker": "UI",
+    "text": "1/8"
+  },
+  "UI_OptionBasic01_ps_ItemName": {
+    "speaker": "UI",
+    "text": "Vibration"
+  },
+  "UI_OptionBasic01_ps_Description": {
+    "speaker": "UI",
+    "text": "Enable or disable wireless controller vibration."
+  },
+  "UI_OptionBasic01_ps_Choice01": {
+    "speaker": "UI",
+    "text": "On"
+  },
+  "UI_OptionBasic01_ps_Choice02": {
+    "speaker": "UI",
+    "text": "Off"
+  },
+  "UI_OptionBasic01_sw_ItemName": {
+    "speaker": "UI",
+    "text": "Rumble"
+  },
+  "UI_OptionBasic01_sw_Description": {
+    "speaker": "UI",
+    "text": "Enable or disable rumble."
+  },
+  "UI_OptionBasic01_sw_Choice01": {
+    "speaker": "UI",
+    "text": "On"
+  },
+  "UI_OptionBasic01_sw_Choice02": {
+    "speaker": "UI",
+    "text": "Off"
+  }
+}

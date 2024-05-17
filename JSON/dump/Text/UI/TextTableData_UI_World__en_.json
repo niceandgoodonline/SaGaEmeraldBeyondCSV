@@ -1,0 +1,70 @@
+{
+  "UI_World_ScanWave": {
+    "speaker": "UI",
+    "text": "Scan"
+  },
+  "UI_WrdScanWaveInfo_TubName01": {
+    "speaker": "UI",
+    "text": "Emerald Vision"
+  },
+  "UI_WrdScanWaveInfo_TubName02": {
+    "speaker": "UI",
+    "text": "Direct Warp"
+  },
+  "UI_WrdScanWaveInfo_MarkOn": {
+    "speaker": "UI",
+    "text": "Mark"
+  },
+  "UI_WrdScanWaveInfo_MarkOff": {
+    "speaker": "UI",
+    "text": "Unmark"
+  },
+  "UI_WrdScanWaveInfo_Jump": {
+    "speaker": "UI",
+    "text": "Warp"
+  },
+  "UI_WrdScanWaveInfo_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_WrdScanWaveInfo_T_SmallInfo": {
+    "speaker": "UI",
+    "text": "You can't warp to that world right now."
+  },
+  "UI_World_ScanWaveUpFloor": {
+    "speaker": "UI",
+    "text": "Go Up"
+  },
+  "UI_World_ScanWaveDownFloor": {
+    "speaker": "UI",
+    "text": "Go Down"
+  },
+  "UI_World_ScanWaveHoldBtn": {
+    "speaker": "UI",
+    "text": "<button ScanWave>"
+  },
+  "UI_WrdBtnText_SaveLoad": {
+    "speaker": "UI",
+    "text": "<button SaveLoad>"
+  },
+  "UI_WrdBtnText_MainMenu": {
+    "speaker": "UI",
+    "text": "<button Menu>"
+  },
+  "UI_WrdBtnText_Ride": {
+    "speaker": "UI",
+    "text": "<button Ride>"
+  },
+  "UI_WrdScanWaveInfo_TubSwitch01": {
+    "speaker": "UI",
+    "text": "<button TabPrev>"
+  },
+  "UI_WrdScanWaveInfo_TubSwitch02": {
+    "speaker": "UI",
+    "text": "<button TabNext>"
+  },
+  "UI_WrdScanWaveInfo_Title": {
+    "speaker": "UI",
+    "text": "Scan Results"
+  }
+}

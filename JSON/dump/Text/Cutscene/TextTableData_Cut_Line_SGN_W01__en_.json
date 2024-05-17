@@ -1,0 +1,2066 @@
+{
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "So the door to this world is a boulder?\nMmm. I understand now what it is the\ndenizens of this place fear."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_000_010": {
+    "speaker": "Killer_Einherjar",
+    "text": "I feel I have seen this door before,\nyet it seems somehow...different."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_000_020": {
+    "speaker": "Siugnas",
+    "text": "Is this your world, Lifetaker?"
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_000_030": {
+    "speaker": "Killer_Einherjar",
+    "text": "There is no telling yet."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_000": {
+    "speaker": "Killer_Einherjar",
+    "text": "That's Rakusuiro Tower. It feels different\nwith all these stone fortresses, but this\nis most certainly Miyako."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_010": {
+    "speaker": "Siugnas",
+    "text": "I wager you perished here and awoke in\nBrighthome, Lifetaker. What did you do\nin this land—and how did you die?\nThe questions are endless."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_020": {
+    "speaker": "Killer_Einherjar",
+    "text": "......"
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "To walk through that gate means\nyou are no ordinary people."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_040": {
+    "speaker": "Siugnas",
+    "text": "Name yourself, stranger."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_050": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Lend me your power, O mighty ones!\nIf you do not, I may be forced to deem\nyou my enemies."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_060": {
+    "speaker": "Siugnas",
+    "text": "This is how you would greet a liege?\nI am the Dismal King, and I take no\norders from the likes of you."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_070": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "You will regret this."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_080": {
+    "speaker": "Siugnas",
+    "text": "It seems we will be encountering obstacles\non our journey to retrace your past."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_090": {
+    "speaker": "Killer_Einherjar",
+    "text": "Miyako has always been like this:\na bottomless abyss that draws in\nthe darkness."
+  },
+  "SUB_W01_WRLD_SIUG_INITIAL_000_CUT_010_100": {
+    "speaker": "Siugnas",
+    "text": "It sounds simply delightful."
+  },
+  "SUB_W01_WRLD_SIUG_BATTLE_000_CUT_000_000": {
+    "speaker": "Killer_Einherjar",
+    "text": "Stay on your guard!\nI sense the fae."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, guy. You seen a strange fella\nwandering around these parts, maybe?\nHe's wearing a fancy suit, but tends to\nact real shady once he gets talking."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "Such a man spoke to us the moment we\narrived. He asked that we either lend him\nour power or become his enemy."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pretty rude to say that to a guy on his first\nday in a place. So what'd you say? You gonna\nlend the power or be an enemy?"
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "The Dismal King does not respond\nto absurdities. And yet, I suppose\nthis makes you his enemy. "
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "How you figure that?"
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_050": {
+    "speaker": "Siugnas",
+    "text": "Only those with enemies think of others\nin terms of alliances. Therefore, you are his\nenemy. Indeed, perhaps the man thought\nto pit me against you here."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You're thinking about this whole deal\npretty calmly considering the stakes;\nI'm startin' to see why this other fella\nwanted you on his side."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_070": {
+    "speaker": "Siugnas",
+    "text": "I am but a traveler who seeks to\nenjoy what this world has to offer."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well then, why not join up with me?\nSee, 'cause that shady fella's trying\nto destroy the barrier that protects\nthe city, and I'm not about to let him."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_090": {
+    "speaker": "Siugnas",
+    "text": "I will travel with this man."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_100": {
+    "speaker": "Siugnas",
+    "text": "No. I must trace Lifetaker's past."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_110": {
+    "speaker": "Siugnas",
+    "text": "I am currently in the process of learning\nabout a member of my warrior band."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_120": {
+    "speaker": "Siugnas",
+    "text": "That said, it would be easier to strike\nat the heart of this world if I traveled\nwith one who knew it well."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I got you, bud—and heck, I know tons about\nold stories and all that. So the name's\nTsunanori Mido, and I'm a student over\nat Miyako Imperial University."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_140": {
+    "speaker": "Siugnas",
+    "text": "I am Siugnas, the Dismal King."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_150": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Didn't really take you for the joking sort,\nfella, but can't say I mind the energy.\nSo sure, 'Dismal King' it is."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_160": {
+    "speaker": "Siugnas",
+    "text": "I have more important things to do than\ntraveling with you and becoming ensnared\nin that dreadful man's schemes."
+  },
+  "SUB_W01_EVAR_SIUG_MEETING_TSUNA_000_CUT_000_170": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fair enough. I'll manage on my own. I mean, heck,\nthat's what I was gonna do to begin with, anyway. \nAnyway it's been a deal chattin' with you—hope\nto meet again somewhere down the road."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_000_000": {
+    "speaker": "Killer_Einherjar",
+    "text": "A castle? Here?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "Though it stands grand as King Din's castle,\nit is clearly not meant for battle: see you\nhow joyous the people appear as they\ncome and go without a care."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_000_020": {
+    "speaker": "Killer_Einherjar",
+    "text": "I sense the man we encountered earlier.\nHis is a powerful aura, unlike yours or\nthat of the fae."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "Mmm. I thought this might happen.\nThis means your past is connected\nto that man's actions—and as such,\nwe've no choice but to go inside."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "It doesn't appear you've come to offer\nyour cooperation. But if it's trouble you\nseek, I will not hold back."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_010": {
+    "speaker": "Siugnas",
+    "text": "While I hold a bit of curiosity as to your plan,\nI've no intentions of working with you.\nThat said, I also do not plan to hinder your\nefforts—you may carry on as you will."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_020": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "A surprisingly fair offer."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Hear me, mascot! I intend to rend asunder\nthe evil-spirit talisman on this shrine!\fFor if I do not, calamity will come to\nthis shopping mall! You will be fired,\nand your family will face great hardship!"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_040": {
+    "speaker": "Mascot_Mall",
+    "text": "I... I will obey..."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_050": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Now tear that talisman apart, mascot!\nSave those engaged in their custom at\nthis mall, as well as yourself and all\nyou hold dear!"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_060": {
+    "speaker": "Killer_Einherjar",
+    "text": "Stop. That talisman protects the castle;\nthis man is speaking falsehoods in an\nattempt to deceive you."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_070": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "What!?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_080": {
+    "speaker": "Killer_Einherjar",
+    "text": "Speak again, and I will mount\nyour head on my wall."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_010_090": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "I don't know who you are, but I doubt\nyou're capable of such a feat!"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_020_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "What power you have! But very well.\nI will step aside for now—but know\nthat the real fight begins soon!"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_020_010": {
+    "speaker": "Siugnas",
+    "text": "Flight is a suitable strategy for one so weak.\nBut does this talisman truly hold that sort\nof power, Lifetaker?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_020_020": {
+    "speaker": "Killer_Einherjar",
+    "text": "I sense a power opposite that\nof the fae from this talisman.\nI must protect the seal."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_020_030": {
+    "speaker": "Mascot_Mall",
+    "text": "H-huh...? The heck's going on?\nWhat am I doing here?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_020_040": {
+    "speaker": "Siugnas",
+    "text": "That man was controlling you in an\nattempt to have you destroy the\ntalisman that protects this building.\fAnd how was he hoping to control a plant\nfiend with mere words, mmm? Did he perhaps\nengage you with mistletoe?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_020_050": {
+    "speaker": "Mascot_Mall",
+    "text": "Mistletoe? Heck, guy, some customer just\nasked me about the shrine on the roof.\nI told him the area's off limits,\nand then everything went fuzzy. "
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_020_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a barrier shrine on the roof of\nSequoia Mall? Cripes, I KNEW that fella\nwas trying to destroy the barrier that\nprotects Miyako City. "
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_030_000": {
+    "speaker": "Siugnas",
+    "text": "I see. That was no fiend, but a costume.\nIn what manner of ceremony is this used?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_030_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Are you being serious right now, guy?\nThat shady guy's gonna go after some\nother barrier next, so how about you\nforget the mascot and help me, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_030_020": {
+    "speaker": "Siugnas",
+    "text": "I sense a fixation from Lifetaker on\nprotecting those talismans, but I did\nnot come here to fight that man."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_020_CUT_030_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I shoulda seen that coming.\nWell, hope to run into you again\nsomewhere down the road."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_000_000": {
+    "speaker": "Killer_Einherjar",
+    "text": "This is Sangen-in Temple. It's not much\ndifferent from the Sangen-in Temple I know,\nalthough they prettied up the footing,\nwhich makes it easier to walk."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "Do you sense that man here?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_000_020": {
+    "speaker": "Tourist_Woman",
+    "text": "To think the waterfall wouldn't be flowing\nTODAY of all days! Someone really should\nhave put up a sign or something before\nI wasted my valuable time."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "Is that meant to be a waterfall?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_000_040": {
+    "speaker": "Killer_Einherjar",
+    "text": "I've never seen such a thing before,\nbut there is said to be a spring\nat the heart of the temple."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_000_050": {
+    "speaker": "Siugnas",
+    "text": "If something happened to the spring,\nI wager that man is responsible.\nShall we?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_010_000": {
+    "speaker": "Siugnas",
+    "text": "What do you intend to do\nwith the spring?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_010_010": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "You again? Why are you here?\nIs this a skill of those with power?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_010_020": {
+    "speaker": "Siugnas",
+    "text": "You led me here, churl.\nNow identify yourself."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_010_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "You are outside of my jurisdiction,\npowerful one—and I will not permit\nyou to get in my way!"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_020_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Curse you for standing\nin the way of my plans!"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I just saw that shady fella leave.\nWhat happened to Sangen-in Temple?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_020_020": {
+    "speaker": "Siugnas",
+    "text": "He attempted to dry the spring,\nbut it did not go as he wanted,\nand the waterfall is flowing again."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, fella, I really appreciate your stepping\ninto this. Sangen-in Temple is the water barrier\nof the north, which means we managed to\nsquash one of his little plots."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_020_040": {
+    "speaker": "Siugnas",
+    "text": "I have no idea why I keep being led to\nwherever this character happens to appear,\nbut I am enjoying the journey nonetheless. \nNow take me to the next place."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You're a pretty easygoing traveler, huh?\nAlso gonna assume you're still not keen\non helping me out here?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_020_060": {
+    "speaker": "Siugnas",
+    "text": "Easy is the best sort of travel;\nI've no interest in your complications."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_020_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fair enough, bud. Hope to run into you\nsomewhere down the road, maybe."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_000_000": {
+    "speaker": "Killer_Einherjar",
+    "text": "While Miyako has changed,\nRakusuiro Tower has not."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "Has something changed\nabout you, Lifetaker?"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_000_020": {
+    "speaker": "Killer_Einherjar",
+    "text": "I know not. Who was I? Who did I kill\nin this city? Was it people? Or fae?\nMuch lies hidden from me."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "Mmm. Perhaps the price for revival\nat Brighthome is the loss of all else.\nAnd yet, you have at least some fragment\nof your memories remaining to you."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_000_040": {
+    "speaker": "Killer_Einherjar",
+    "text": "You assume too much.\nI'm sure my memory fails me simply\nbecause too much time has passed."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_010_000": {
+    "speaker": "Killer_Einherjar",
+    "text": "There's a fae here—a big one!"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_000": {
+    "speaker": "Siugnas",
+    "text": "That man pitted us against a spider\nand fled like a craven."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_010": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "The magatama... Scattered...\nCracked and shattered... "
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_020": {
+    "speaker": "Siugnas",
+    "text": "That girl is still under his sway."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_030": {
+    "speaker": "Killer_Einherjar",
+    "text": "The Hachijo are not human,\nand thus must be killed."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_040": {
+    "speaker": "Siugnas",
+    "text": "Fie, Lifetaker! Have you fallen under\nthat man's fell sway as well?"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw, cripes! What're you doing!?"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_060": {
+    "speaker": "Siugnas",
+    "text": "Wait! This place has awakened Lifetaker's\nmemories. Return that girl to normal,\nand it will undo the spell over him."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'll go ahead and do that, guy,\nbut you gotta promise to hold him back!"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_080": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "*gasp* Tsunanori? I was...\nThere was a man at Rakusuiro Tower..."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_090": {
+    "speaker": "Killer_Einherjar",
+    "text": "Aaagh! What was that black arm? \nIt crushed my head, just like when\nI cut down Hachijo..."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hachijo? Are you talkin' about Prince\nYoshiaki Hachijo, maybe? What cripin'\ntime period is your head at, fella—\nand who even ARE you?"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_110": {
+    "speaker": "Siugnas",
+    "text": "That is a long tale for another time.\nDon't you need to be chasing after\nthat man right now?"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, guess I should. Sorry for putting you\nin this kinda trouble, Kaoruko, but I gotta\ncatch that shady fella.\fIf that guy's headed anywhere, it's gonna\nbe the metal barrier over to the west.\nI'm gonna get after him, so I'll send\nTomoko to check up on you later."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So long, buds."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_140": {
+    "speaker": "Siugnas",
+    "text": "This place and girl awakened Lifetaker's\nmemories. We cannot linger here."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_020_CUT_020_150": {
+    "speaker": "Tomoko_Mido",
+    "text": "Kaoruko! You okay there?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_000_000": {
+    "speaker": "Ren_Tutuki",
+    "text": "You bring your Game Kid, Kentaro?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_000_010": {
+    "speaker": "Kentarou_Yanagibi",
+    "text": "You bet, guy—and there's no way\nin heck I'm gonna lose this time!"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_000_020": {
+    "speaker": "Siugnas",
+    "text": "This is a place for children;\nI imagine you came here to frolic\nwhen you were yet small?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_000_030": {
+    "speaker": "Killer_Einherjar",
+    "text": "Everyone has a childhood. But though I played\nto my heart's content, I could not be contained\nto a place so small."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_000_040": {
+    "speaker": "Siugnas",
+    "text": "Ah, I see. This place is enclosed to ensure\nthey have no freedom. Does this mean it\nis equally as dangerous on the outside?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_000_050": {
+    "speaker": "Killer_Einherjar",
+    "text": "Nothing is safe—not even within\nthis enclosure. I sense that man."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_010_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Why do you stalk me so!?\nWhat is the benefit to you!?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_010_010": {
+    "speaker": "Siugnas",
+    "text": "You think the Dismal King follows you?\nA fine jest! I think of you as my tour guide,\nand nothing more."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_010_020": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "Grrr! Enough! You won't\nget in my way this time!"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_000": {
+    "speaker": "Siugnas",
+    "text": "I suppose that means one of the\nbarriers he was seeking is here."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_010": {
+    "speaker": "Killer_Einherjar",
+    "text": "That jizo statue, perhaps? I've never\nseen one quite like that before,\nbut I know it is a jizo."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_020": {
+    "speaker": "Siugnas",
+    "text": "Mmm. If you say so."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thought things were a bit wild over here,\nbut you beat me to it. How'd you even find\na barrier when I didn't know it existed?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_040": {
+    "speaker": "Siugnas",
+    "text": "It appears that man is acting as\na tour guide in our little jaunt\nacross your world."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, really!?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_060": {
+    "speaker": "Siugnas",
+    "text": "He left after the fight, no doubt to\ncontinue plotting his various schemes.\nHow many of these barriers are left?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "None, bud. You protected all of 'em.\nSo if he's gonna go anywhere next it's... \nAw, heck! He's going to Gokakudo Temple,\nthe center of the barrier!"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_080": {
+    "speaker": "Siugnas",
+    "text": "Perhaps he left his winning hand for last.\nStill, what an ingenious way of showing\nus around the city!\fNow then, let us head for our\nfinal destination: Gokakudo Temple."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_020_CUT_020_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Just follow me."
+  },
+  "SUB_W01_EVAR_SIUG_GOKAKUDO_020_CUT_000_000": {
+    "speaker": "Killer_Einherjar",
+    "text": "Gokakudo Temple will reveal the truth\nbehind the fae, for here I cut down many\nwho had taken the guise of humans."
+  },
+  "SUB_W01_EVAR_SIUG_GOKAKUDO_020_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "Then perhaps we had best think of this final\ntest as something our guide arranged for\nyour benefit, Lifetaker."
+  },
+  "SUB_W01_EVAR_SIUG_GOKAKUDO_020_CUT_000_020": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "I knew you would come, powerful ones—\nand for our final scene, I'm going to use\nyour power for my own purposes!"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_010_000": {
+    "speaker": "Siugnas",
+    "text": "What happened?"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_010_010": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "This barrier has recognized you as alien.\nSo go on—fight to your heart's content.\nEither you die, or the barrier shatters.\nI emerge victorious either way."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_010_020": {
+    "speaker": "Siugnas",
+    "text": "So this is his final way of turning\nthe tables? Mmm. I'm impressed.\nYet I remain the Dismal King,\nand no barrier can contain me!"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Stop, guy! That'd just destroy the barrier!\nI know a way we can get the temple back\nto normal, so just help me out, yeah?"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_010_040": {
+    "speaker": "Siugnas",
+    "text": "What would you have me do?"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fight it. Damage it. Then as the\nseasons pass, I'll pray at each one\nand calm the temple down!"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_020_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "This cannot be!"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_020_010": {
+    "speaker": "Siugnas",
+    "text": "I see you failed to both exact your\nrevenge on me and shatter the barrier."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_020_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We saved the city AND we caught the\nshady guy! Can't thank you enough."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_020_030": {
+    "speaker": "Siugnas",
+    "text": "Which means I can no longer rely on\nhim to guide us on our further journey.\nThis is unfortunate, for we are not\nfinished traveling this world."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_020_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, guy. Just lemme know if\nthere's something I can do."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_020_050": {
+    "speaker": "Siugnas",
+    "text": "Then we shall turn to you\nif we ever become lost."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_020_060": {
+    "speaker": "Siugnas",
+    "text": "And with the nuisances dealt with,\nlet us return to tracing your past."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_020_CUT_020_070": {
+    "speaker": "Killer_Einherjar",
+    "text": "......"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_000": {
+    "speaker": "Killer_Einherjar",
+    "text": "Osugi, no! Stay out!\nDon't go into the Yomi hollow!"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_010": {
+    "speaker": "Yumeha_Izumi",
+    "text": "Sorry, who? My name's Yumeha."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_020": {
+    "speaker": "Killer_Einherjar",
+    "text": "You are not Osugi? In any case, if you pass\nthrough this hollow, you will venture into\nthe underworld and never return."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_030": {
+    "speaker": "Yumeha_Izumi",
+    "text": "But my cat went in there!"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_040": {
+    "speaker": "Killer_Einherjar",
+    "text": "I will find your cat.\nRemain here."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_050": {
+    "speaker": "Siugnas",
+    "text": "And who is this Osugi?"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_060": {
+    "speaker": "Killer_Einherjar",
+    "text": "The daughter of a relative. She could also see\nspirits, and so often stood before this hollow.\nBut one day, a spirit dragged her inside—\nand when I found her, she drew no breath."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_070": {
+    "speaker": "Siugnas",
+    "text": "So she died."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_080": {
+    "speaker": "Killer_Einherjar",
+    "text": "I ventured in and slew the spirit,\nat which point life returned to Osugi.\fShe was a girl without friends, so instead she\nplayed with spirits. Sadly, she was afraid of\nthem hating her, and as a result often found\nherself possessed by evil beings."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_090": {
+    "speaker": "Killer_Einherjar",
+    "text": "I... I wanted to protect her."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_100": {
+    "speaker": "Siugnas",
+    "text": "I think I understand now why you became\na killer—and perhaps even why you were\ncalled to Brighthome."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_110": {
+    "speaker": "Killer_Einherjar",
+    "text": "There's the cat. It must have\nbeen drawn in by the spirit."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_000_120": {
+    "speaker": "Siugnas",
+    "text": "You seem to have a tendency to\ntarget powerful foes, Lifetaker."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_000": {
+    "speaker": "Yumeha_Izumi",
+    "text": "My kitty!"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_001": {
+    "speaker": "Yumeha_Izumi",
+    "text": "Oh, thank you so much!"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_010": {
+    "speaker": "Killer_Einherjar",
+    "text": "It's hungry."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_020": {
+    "speaker": "Yumeha_Izumi",
+    "text": "Aw, you wanted something to eat,\nkitty? I'm so sorry!"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_030": {
+    "speaker": "Siugnas",
+    "text": "Is that the kind of girl Osugi was?"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_040": {
+    "speaker": "Killer_Einherjar",
+    "text": "No. They're nothing alike."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_050": {
+    "speaker": "Yumeha_Izumi",
+    "text": "Here you go, Ichizo.\nThis is your <i>sarubobo</i>, isn't it?"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_060": {
+    "speaker": "Killer_Einherjar",
+    "text": "Osugi..."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_070": {
+    "speaker": "Siugnas",
+    "text": "Mmm. That doll is called a <i>sarubobo</i>?\nHow did it cross time and space to get here?\nIs this the power of a Brighthome warrior?"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_080": {
+    "speaker": "Killer_Einherjar",
+    "text": "I have regained my soul, and no longer\nwill cut down people without purpose!\nI give to you this power I have regained,\nDismal King. Use it well."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_090": {
+    "speaker": "Siugnas",
+    "text": "Then you shall have the brand."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_100": {
+    "speaker": "Siugnas",
+    "text": "Perhaps another time."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_110": {
+    "speaker": "Siugnas",
+    "text": "I welcome you into my thrall, Lifetaker.\nI now have you in my gaze at all times."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_111": {
+    "speaker": "Siugnas",
+    "text": "Your blood will become a part of me,\nand will make me the Dismal King.\nTogether into eternity shall we live."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_CAVE_000_CUT_010_120": {
+    "speaker": "Siugnas",
+    "text": "For now, I appreciate the sentiment."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "What are you doing here?"
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Just banishing that shady fella\nfrom Miyako City."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_020": {
+    "speaker": "Siugnas",
+    "text": "Why send him hence alive when you know\nhe will only repeat his misdeeds?"
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like something a Dismal King might say.\nBut this is just how I do things, fella.\nI mean, heck, if I were to kill that guy,\nsomeone else would just take his place."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_040": {
+    "speaker": "Siugnas",
+    "text": "I suppose it is not terrible\nto do things your own way."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So, uh, your bud there seems a\nlittle different from last time."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_060": {
+    "speaker": "Siugnas",
+    "text": "It means only that our trip has ended—\nand that we gained something on the way.\nAnd now...farewell!"
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, you say that, but where do you think\nyou're going to go from here? This is a temple,\nbud, not Miyako Station."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_080": {
+    "speaker": "Siugnas",
+    "text": "We came from this gate and will leave through\nthe same. You banished that man through here,\nso you should know well what sort of purpose\nit actually serves."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I know this door leads to the Heavens,\nbut I couldn't tell you what kind of place\nthe Heavens are."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_100": {
+    "speaker": "Siugnas",
+    "text": "Then come see with your own eyes!"
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_110": {
+    "speaker": "Siugnas",
+    "text": "And best you keep it that way."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Become the Dismal King's travel buddy?\nYeah, I dunno... No, wait. I do.\nI definitely wanna go with you!"
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_130": {
+    "speaker": "Siugnas",
+    "text": "Then let us walk together,\nTsunanori Mido."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_020_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That carries a lot of weight coming from\nthe Dismal King, so I'll keep it in mind.\nSo long there, fella."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_000_000": {
+    "speaker": "Tourist_Woman",
+    "text": "To think the waterfall wouldn't be flowing\nTODAY of all days! Someone really should\nhave put up a sign or something before I\nwasted my time coming all the way here."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "If I may, madam, what is a waterfall?\nIs there something unusual about it?\nWhat sort of being is it?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_000_020": {
+    "speaker": "Tourist_Woman",
+    "text": "Uh... Wow. Okay. I'm talking about Sangen-in\nTemple's three waterfalls, which give you\ngood luck in the areas of health, money,\nand love if you drink from them.\fBut the water's not flowing right now,\nwhich means I can't drink it—and I\nREALLY need some better luck in the\nol' romance department, let me tell you!"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Something must've happened at the source.\nI mean, heck, it's a knot in the barrier, after all."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_000_040": {
+    "speaker": "Siugnas",
+    "text": "You believe that man did this?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Won't know until we check\nand see for ourselves, bud."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_000_060": {
+    "speaker": "Siugnas",
+    "text": "We will meet again, madam."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_000_070": {
+    "speaker": "Tourist_Woman",
+    "text": "Huh? Why do I feel this\nsensation of...loss?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw, cripes! That evil wood spirit's\nsucking up all the spring water!"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_020_000": {
+    "speaker": "Siugnas",
+    "text": "It was that man's doing, yes?"
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure was, guy. Sangen-in Temple is the\nnorthern land of water—no way an evil\nspirit from the eastern land of wood\nwould show its ugly mug up here."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_020_020": {
+    "speaker": "Siugnas",
+    "text": "Mmm. Then he must have brought the spirit\nhere from wherever you said it came from."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_SPRING_000_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "East, bud. You know? Cardinal direction?\nLook, let's just head that way."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "A crowded building does not seem to\nbe a suitable place for an evil spirit."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, I'm with you there—but I'm sure\nthe shady fella brought that thing out\nfrom inside this place."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_020": {
+    "speaker": "Siugnas",
+    "text": "I have a feeling this will be a\nconsiderably less enjoyable stop\non our journey than the others."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, I never thought going around\nto every store would be so tiring."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_040": {
+    "speaker": "Siugnas",
+    "text": "And yet, what a delightful little place!\nAll of the trading posts are collected in one\narea and arranged in a way to extract the\nmost greed possible from the customers.\fIndeed, I wager there is some manner\nof fiend here that draws strength\nfrom said greed."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, but the barrier's supposed to keep\nfiends like that OUT of Miyako City!\nHeck, that's how we keep the peace here."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_060": {
+    "speaker": "Naomi_Waka",
+    "text": "Hi, Tsunanori! Out shopping with a friend?\nBoy, that hat is WILD. I love it!"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_070": {
+    "speaker": "Siugnas",
+    "text": "I fear the unearthly energy of this place\nis causing greed to rise in me as well...\fLive into eternity with me, madam!\nAs I keep my gaze locked upon you,\nyour blood will become my blood and\ntransform me into the Dismal King!"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_080": {
+    "speaker": "Naomi_Waka",
+    "text": "Wh-what are you...?\nC-can't look away..."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Say there, Naomi! You know about any weird \nplaces in the mall? Somewhere with a bunch\nof old decorations, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_100": {
+    "speaker": "Naomi_Waka",
+    "text": "Tsunanori...? On the roof...\nthere's this old shrine...\nOooh, why do I feel like this?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks, Naomi. C'mon, you.\nLet's head for the roof."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So was that some kinda hypnotism technique\nyou were using there, fella? Or is that just sorta\nhow the Dismal King rolls?"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_130": {
+    "speaker": "Siugnas",
+    "text": "Was she an associate of yours? My apologies.\nTo me, she was but an attractive woman who\ndrew forth my own greed, for I am not the sort\nwho can turn from the charms of another."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's a heck of an explanation\nfor trying to get with a lady.\nAnyway, here's the roof."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_000_150": {
+    "speaker": "Siugnas",
+    "text": "And the shrine. Alas, someone has forced\nit asunder and scattered the contents."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_010_000": {
+    "speaker": "Siugnas",
+    "text": "This is no ordinary item—these scraps\nof paper have formed into a talisman."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pretty quick on the uptake there, guy.\nYeah, we just copied the ceremonial talisman\nthat was keeping that evil spirit sealed up.\nThis should put it back into the shrine."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_010_020": {
+    "speaker": "Mascot_Mall",
+    "text": "Excuse me, gentlemen,\nbut the roof is off-limits."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_010_030": {
+    "speaker": "Siugnas",
+    "text": "Fie, what manner of fiend is this!?\nAway with you, cretin!"
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_010_040": {
+    "speaker": "Mascot_Mall",
+    "text": "Gya! Owww..."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry about that, bud!\nC'mon, Your Majesty, let's get\noutta here before the cops show."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_020_000": {
+    "speaker": "Siugnas",
+    "text": "I suppose there is no way to restore\nshredded paper to its original glory."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess we'll just leave it\nlike this for now."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "May I assume this tower is the\nnext knot in the barrier?"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. The north-south line that connects\nSangen-in Temple and Rakusuiro Tower\nplays a real important role here."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_000_020": {
+    "speaker": "Siugnas",
+    "text": "In my world, there are seven towers that\nprotect the Dark Castle in the center.\nPerhaps this is the reason this place feels\nso very comfortable to me."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Kaoruko! What's wrong!?"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_010_010": {
+    "speaker": "Siugnas",
+    "text": "Her consciousness has been taken from her—\nbut such party tricks are nothing when set\nagainst my charm. Madam, look into my eyes!"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_010_020": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "The magatama...\nCracked and shattered... "
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_010_030": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "Ah! Your eyes drew my soul back!"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What happened, Kaoruko?"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_010_050": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "It's a trap, Tsunanori! That man placed\nthis web here to ensnare someone!"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_020_000": {
+    "speaker": "Siugnas",
+    "text": "It seems he was after us, but his web\nis now broken. How fares the barrier?"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_020_010": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "You saved me, which means the\nmagatama remains unharmed."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_020_020": {
+    "speaker": "Siugnas",
+    "text": "Who are you, woman? You looked me\nfull in the eyes, which means you are\nno ordinary human."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_020_030": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "I have a spell over me that protects my mind,\nbut that man came here and attacked in the\nbriefest moment of opening. It is...shameful."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_020_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He wanted us to kill the spider and make you\ndestroy the magatama? That's dirty pool,\nbut we got the better of him thanks to the\nDismal King fella here."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_020_050": {
+    "speaker": "Siugnas",
+    "text": "...Er, yes. Apologies, but I am currently\nexperiencing shock in the face of an\nindividual who is immune to my power.\nGive me a moment to collect myself."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_020_060": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "I believe you are perfectly attractive\neven without your powers of darkness."
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_020_070": {
+    "speaker": "Siugnas",
+    "text": "She grinds the heel while I'm down!\nOh, but this is a formidable woman!\nPlease, you must away me from this\nplace before she beats me to a pulp!"
+  },
+  "SUB_W01_EVAR_SIUG_PAGODA_000_CUT_020_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck's gotten into you, bud?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "The next barrier is here?\nIn a place for children?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Directionally, this place is in Miyako City's\nunlucky southwest. It's opposite the mall,\nso yeah, we should find a barrier."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_000_020": {
+    "speaker": "Siugnas",
+    "text": "You are quite conscious of what direction\nthings are in relation to one another.\nTell me why this is."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The sun rises in the east and sets in the west—\nso if you put your left hand to the east and\nyour right to the west, you'll be facing south\nand have your back to the north.\fNot really that tough, but folks with\nno sense of direction just don't get it."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Anyway, northeast is an unlucky direction,\nwhich means it's easy for evil spirits to\ncome sneaking in that way.\fAnd its opposite is the southwest,\nwhich means that's another direction\nwe need to keep our eyes on."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_000_050": {
+    "speaker": "Siugnas",
+    "text": "Mmm. So that's some mannner of rule\ninherent to this world, is it?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You don't really seem so great when\nit comes to cardinal directions, guy.\nYou slack off in school, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The komainu jizo, huh? This jizo should be\nthe key to the barrier, but I don't sense\nanything coming from it."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_010": {
+    "speaker": "Siugnas",
+    "text": "Either the barrier has already been\ndestroyed, or it is entirely unrelated."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_020": {
+    "speaker": "Siugnas",
+    "text": "You there! Child! Have you noticed\nanything strange about this statue?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_030": {
+    "speaker": "Ren_Tutuki",
+    "text": "No, but I notice something strange\nabout the way you bark questions\nat folks, gramps!\fHm? Hang on. That tile on its chest is a\ndifferent color. Guess that other gramps\ncame by and messed with it earlier."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_040": {
+    "speaker": "Kentarou_Yanagibi",
+    "text": "Heck, I saw that! These sparkle deals\nflew off of it every which way!"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Be more specific there, kiddo.\nWhich direction did they go?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_060": {
+    "speaker": "Kentarou_Yanagibi",
+    "text": "I dunno."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_070": {
+    "speaker": "Siugnas",
+    "text": "Then I suppose we must find each piece\nindividually. How many were there?"
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looking at the indents, probably five?\nBut Miyako City's a real big place—\nsure hope we can track 'em all down."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_090": {
+    "speaker": "Siugnas",
+    "text": "What a perfect opportunity explore\nthis world! Let us get to it, then."
+  },
+  "SUB_W01_EVAR_SIUG_JIZO_000_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You sure are calm about all this, guy.\nJust make sure you don't get us lost."
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Lots of tourists who come to Miyako City\nstay in this hotel, so I bet one of 'em saw\nwhat happ—"
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_010": {
+    "speaker": "Tourist_Woman",
+    "text": "Yessssss! I knew it! My luck in\nromance really DID get better!"
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_020": {
+    "speaker": "Siugnas",
+    "text": "I've another question for you, madam:\nHave you seen anything in recent memory\nthat sparkled? I apologize for the rather\nvague question, but do try to remember."
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_030": {
+    "speaker": "Tourist_Woman",
+    "text": "I sure have! I almost forgot about it,\nbut your question brought it all back.\nYour speech is like magic—did you cast\na spell on me, you little trickster!?"
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nope! No spells here, bud!\nNow where'd you see the sparkly deals?"
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_050": {
+    "speaker": "Tourist_Woman",
+    "text": "Ex-CUSE me, can you not interrupt?\nI don't have time for children."
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_060": {
+    "speaker": "Siugnas",
+    "text": "I would ask the same of you, madam:\nWhere did you see these items?"
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_070": {
+    "speaker": "Tourist_Woman",
+    "text": "I saw one around the big pond. I was like,\n'Oh hey, something shiny fell into the water!'\nwhen a big creature jumped up and ATE it!\nI think it was some kind of fish."
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_080": {
+    "speaker": "Tourist_Woman",
+    "text": "The second one was stuck to the...\nUm, you know that theater on the way\nto the mall? It was on its window."
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_090": {
+    "speaker": "Tourist_Woman",
+    "text": "The third one was, um... Uhhh...\nGeez, I swear I saw another one\nsomewhere, but..."
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_100": {
+    "speaker": "Tourist_Woman",
+    "text": "Oh no... I caaan't..."
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa! She fainted!\nCripes, guy, you're no joke."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Someone must've seen something\nhere at the universi—"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_010": {
+    "speaker": "Naomi_Waka",
+    "text": "Oh! Hi there, Tsunanori!\nAnd hi, strange guest!"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't look at him, Naomi—he'll steal your soul.\nBut listen, have you seen any sparkling things\nflying through the sky lately?"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_030": {
+    "speaker": "Naomi_Waka",
+    "text": "Um, you're gonna have to be a touch\nmore specific, because I have no idea\nwhat you're talking about there."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_040": {
+    "speaker": "Siugnas",
+    "text": "The sight of its gleam is burned in the\ndeep of your mind. Awaken your memories!\nPeer into the recesses of your heart!"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_050": {
+    "speaker": "Naomi_Waka",
+    "text": "Errr... Asahi said he saw something shiny\nand ran off towards the abandoned village,\nand then I saw a sparkly thing cut across\nthe corner of my vision..."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_060": {
+    "speaker": "Naomi_Waka",
+    "text": "There was also a little kid looking for her cat—\nbut while I helped her look, she ran off toward\nKeihoku Elementary. And in that moment, I saw\nanother sparkly thing fly towards the school..."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_070": {
+    "speaker": "Naomi_Waka",
+    "text": "But I saw another one...\nI swear I saw another one..."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's enough there! Don't go\ntrying to remember any more."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_090": {
+    "speaker": "Naomi_Waka",
+    "text": "...Tsunanori? What was I doing?"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nothing you need to worry about.\nAlso, you should go home early today."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, guy, I'm gonna need you to stop it with\nall the peering into folks' minds. Naomi dang\nnear conked out there, and who knows what\nwoulda happened if you'd kept going?"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_120": {
+    "speaker": "Siugnas",
+    "text": "Worry not; she and I would\nprove a fine match."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, now I'm worried MORE."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The girls at Rakugaku are the real deal\nwhen it comes to rumors and gossip,\nso we just gotta ask Tomoko."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_010": {
+    "speaker": "Tomoko_Mido",
+    "text": "Tsuna? What're you doing here!?\nMy friends are gonna come wink\nat you again if you keep this up."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Need to know if you saw something\nshiny fly past this way."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_030": {
+    "speaker": "Tomoko_Mido",
+    "text": "Shiny? Nope."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_040": {
+    "speaker": "Siugnas",
+    "text": "You must have seen something.\nRemember it now. Delve. Delve!"
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_050": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "Oh, if it isn't the Dismal King!\nThank you for helping at the tower.\nDid you need to speak with my friend?"
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_060": {
+    "speaker": "Siugnas",
+    "text": "Er, uh... No. We were merely asking\nafter sparkling items in the sky."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_070": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "Oh? In that case, you should ask the\nshopkeeper at Rakunan Station—she's\nwell-known for being a very good\nsource of information."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_080": {
+    "speaker": "Siugnas",
+    "text": "I shall. Thank you."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Weren't you gonna use your powers?"
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_000_CUT_000_100": {
+    "speaker": "Siugnas",
+    "text": "They don't work on that girl.\nI never want to see her again."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This has to be where she\nsaw that sparkly thing."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "And how do you intend to\ncatch a fish from this pond?"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, since there's no fishing allowed,\nwe'll just have to wait til night."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_000_030": {
+    "speaker": "Nigel_Patriot",
+    "text": "Ah, hello there! Did either of you\nneed something from me?"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, bud! You ain't allowed\nto swim in the pond!"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_000_050": {
+    "speaker": "Nigel_Patriot",
+    "text": "Oh, but I wasn't swimming! I was just\nsurveying the organisms in the pond."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_000_060": {
+    "speaker": "Nigel_Patriot",
+    "text": "And here it is! Eureka!"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Geez, what was with that huge frog!?\nSome kind of evil spirit, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_010_010": {
+    "speaker": "Nigel_Patriot",
+    "text": "Nooo! My research samples!"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_010_020": {
+    "speaker": "Siugnas",
+    "text": "What a noisy man.\nNow then, what is this?"
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's one of the sparkly things we were\nlooking for, remember? It's the same\nsize as the indents on the jizo statue."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_010_040": {
+    "speaker": "Siugnas",
+    "text": "Ah. Yes. It must have attached\nitself to that frog."
+  },
+  "SUB_W01_EVAR_SIUG_DANGEROUS_FLOG_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Probably why the sucker got so big."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That tourist lady called it the theater,\nbut I think she meant the community hall.\nYou see any sparkly things on the windows?"
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "No. The woman either saw incorrectly or\nhad flaws in her memory, but whatever\nsparkled here was something else."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You pulled those memories out with your\nweirdo powers, slugger—whatever sparkled\nhere HAS HAS to be related to the jizo statue."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "You have much faith in my ability."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look, I still think you're joking with\nthe whole 'Dismal King' deal, but that\npower of yours is legit.\fNow c'mon, let's ask around inside.\nMaybe the janitor cleaned it up."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pardon me, fella, but we think there was\nsomething sparkling stuck to the window.\nDo you know anything about that, maybe?\nGot a lot of sentimental value to me."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_010_010": {
+    "speaker": "Ranko_Nitomura",
+    "text": "Heck, that was yours!?"
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So it <i>was</i> here? That's swell! \nThink I could have it back, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_010_030": {
+    "speaker": "Ranko_Nitomura",
+    "text": "Sure you can, fella. Sure.\nBut if I have to go back in that room..."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_010_040": {
+    "speaker": "Siugnas",
+    "text": "All is well. You have me.\nYou need not worry."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_010_050": {
+    "speaker": "Ranko_Nitomura",
+    "text": "Huh. I feel a lot better all of\na sudden. Follow me, boys!"
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_020_000": {
+    "speaker": "Ranko_Nitomura",
+    "text": "The custodian gave me a shiny object\nthat I kept on me when I went to put\nthe piano away."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_020_010": {
+    "speaker": "Ranko_Nitomura",
+    "text": "But then the piano started playing\nby itself! Swear to shoot!"
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_020_020": {
+    "speaker": "Ranko_Nitomura",
+    "text": "I felt this real strong urge to sing along,\nbut the moment I opened my mouth,\nsome crazy monster showed up!"
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_030_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The tile made your piano ghost stronger,\nwhich is how it manifested. Poor fella\njust wanted to sing along with you."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_030_010": {
+    "speaker": "Ranko_Nitomura",
+    "text": "Ghosts are real? Heck..."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_030_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You'll see 'em if you wear your spirit out—\nalthough you probably shouldn't suppress\nyour desire to sing that much."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_030_030": {
+    "speaker": "Siugnas",
+    "text": "You have a delightful voice, madam.\nDo let us hear it again someday."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_030_040": {
+    "speaker": "Ranko_Nitomura",
+    "text": "Uh, okay! I will. I'll keep practicing\nand find an opportunity to perform."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_030_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You didn't brute force your way\nthrough it this time, guy."
+  },
+  "SUB_W01_EVAR_SIUG_PRIMA_DONNA_000_CUT_030_060": {
+    "speaker": "Siugnas",
+    "text": "I like all that is enchanting, and her\nvoice was more than enough for me."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Classic Asahi, running off on another\nwild adventure. I swear, that fella hasn't\nchanged since elementary school."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "There is a strange air\nabout this place."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This village has been sitting untouched for\na hundred years. You'd think nature would've\ntaken the thing over, but for some reason\nI can't figure, the place is mostly intact."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "There is a will to this land that\nrefuses to crumble away."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And because of that, kids—and adults who're\nway too old for this sorta thing—come here,\npoke around lookin' for 'will,' get spooked,\nand run off. Hope that's all it is this time."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_000_050": {
+    "speaker": "Asahi_Sayota",
+    "text": "Cripes! I can't do this!"
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Asahi! You okay, fella!?"
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_000_070": {
+    "speaker": "Asahi_Sayota",
+    "text": "Tsunanori? Aw, heck—I KNEW this\nhad something to do with you!\fSee, I saw a tree with something shiny\npokin' out of it, but when I got closer,\nthe thing started walking around!\nI'm one dead fella if it gets me!"
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_000_080": {
+    "speaker": "Siugnas",
+    "text": "It has awoken a treant—\na fiend most terrible!"
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_000": {
+    "speaker": "Siugnas",
+    "text": "Now that we have retrieved the tile, the evil\nspirit vanished of its own accord, and the tree\nhas returned to being a simple tree."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Your power was a big help\nagain, fella. Thanks."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_020": {
+    "speaker": "Siugnas",
+    "text": "I'd say this was below-average\nin terms of travel entertainment."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_030": {
+    "speaker": "Asahi_Sayota",
+    "text": "Say, who's this guy, Tsunanori?\nDon't really see a lot of folks\ndressed like that around here."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_040": {
+    "speaker": "Siugnas",
+    "text": "I am the Dismal King, and your curiosity\nis too immature for me to take you into\nmy thrall. Learn from your experiences.\nLet your curiosity mature."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_050": {
+    "speaker": "Asahi_Sayota",
+    "text": "You sound like the counselor at\nuniversity, fella! But hey, I get it."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He's right, guy. You gotta quit\nacting like some grade-school kid."
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_070": {
+    "speaker": "Asahi_Sayota",
+    "text": "Well, shoot. Guess I'll be more careful.\nAnyway, I've got work, so see ya!"
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_080": {
+    "speaker": "Siugnas",
+    "text": "A friend of yours?"
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We grew up together. Our houses were\nclose, so we played together, got in fights,\nall that kid stuff.\fBut Asahi there's a true friend—\nkind I can rely on for anything.\nYou got any pals like that, guy?"
+  },
+  "SUB_W01_EVAR_SIUG_MOVINGTREE_000_CUT_010_100": {
+    "speaker": "Siugnas",
+    "text": "I am a solitary being. I have no\nfriends, nor do I require them."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So one of those sparkly deals apparently\nflew to Keihoku Elementary. Let's hope\nnothing weird's going on there."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_010": {
+    "speaker": "Akane_Erisawa",
+    "text": "Do you have business at this school?\nAre you parents, perhaps?\nWhat is your child's name?"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw, geez. Well, we're—"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_030": {
+    "speaker": "Ren_Tutuki",
+    "text": "Miss Erisawa! Miss Erisawa! \nThe taxidermy bird flew away!"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_040": {
+    "speaker": "Akane_Erisawa",
+    "text": "What are you talking about, Ren?\nTaxidermy animals do not move."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_050": {
+    "speaker": "Ren_Tutuki",
+    "text": "You don't trust us, Miss Erisawa?\nI said the stuffed bird flew off,\nand that's just what I meant! "
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_060": {
+    "speaker": "Siugnas",
+    "text": "This is likely the tile's doing."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yup—but we still can't just waltz on\ninto the school without permission."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_080": {
+    "speaker": "Ren_Tutuki",
+    "text": "Oh, hey there, fellas! Wanna help\nme look for that missing bird?\nMiss Erisawa, these are my uncles."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_090": {
+    "speaker": "Akane_Erisawa",
+    "text": "Well, if you are his guardians, then might\nI ask you to please humor him in regards\nto this runaway stuffed bird?"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_100": {
+    "speaker": "Ren_Tutuki",
+    "text": "Gosh, she doesn't believe me at all.\nC'mon, uncles! Let's go!"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, guy, I'm not THAT old.\nCan't I be your brother, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_010_000": {
+    "speaker": "Ren_Tutuki",
+    "text": "Where'd the bird go, Izumi!?"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_010_010": {
+    "speaker": "Yumeha_Izumi",
+    "text": "The dump behind the gym.\nI wonder if it's looking for food."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_010_020": {
+    "speaker": "Ren_Tutuki",
+    "text": "Look, the bird's right there!\nIt DID fly off!"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_010_030": {
+    "speaker": "Siugnas",
+    "text": "Explain the workings of this 'taxidermy.'\nThat animal clearly has no life, yet it moves."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Taxidermy's when you take a dead\nanimal and make it look alive."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_010_050": {
+    "speaker": "Siugnas",
+    "text": "And thus it moves. Mmm.\nThen why all the fuss?"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Taxidermied animals don't move, guy. They...\nCripes, how do I even explain this to you?\nLook, all you need to know is that this bird\nis related to the shiny deal."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_010_070": {
+    "speaker": "Ren_Tutuki",
+    "text": "Dangit, Uncle One and Uncle Two!\nIf you just stand there yakkin'\nit's gonna get away again!"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_010_080": {
+    "speaker": "Siugnas",
+    "text": "Then let us capture it, after which you\nwill explain taxidermy to me at length."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_020_000": {
+    "speaker": "Siugnas",
+    "text": "We have retrieved the tile,\nand the taxidermied bird is still.\nIs it broken?"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nope! All good here, bud.\nThing's back to normal."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_020_020": {
+    "speaker": "Siugnas",
+    "text": "I cannot say I have entirely made sense\nof this situation... What of you, child?"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_020_030": {
+    "speaker": "Ren_Tutuki",
+    "text": "Well, crud. We've got no evidence the\nstuffed bird was moving, which means\nMiss Erisawa's gonna give me the total\nstink eye when we get back."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_020_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, even if she doesn't buy it,\n<i>you</i> know you did the right thing."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_020_050": {
+    "speaker": "Ren_Tutuki",
+    "text": "Hey, that's right—and fighting without \nrecognition makes you an ally of justice!\nSmell ya later, uncles."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_020_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "An ally of justice, eh?"
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_020_070": {
+    "speaker": "Siugnas",
+    "text": "No, I am a king of darkness."
+  },
+  "SUB_W01_EVAR_SIUG_SCHOOL_GHOST_000_CUT_020_080": {
+    "speaker": "Yumeha_Izumi",
+    "text": "Thank you for believing Ren.\nHere, you can have this."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Kaoruko said we should talk\nto the gal at this store."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "I've a question for you, madam:\nHave you seen something bright\nand shining fly past—"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_020": {
+    "speaker": "Ume",
+    "text": "Welcome, young fellas!\nHow can I help today?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "Er, madam?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_040": {
+    "speaker": "Ume",
+    "text": "I'm Ume, top beaut of the shops here\nat Rakunan Station. Don't think I've\nseen you boys around here before."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_050": {
+    "speaker": "Siugnas",
+    "text": "Speak, madam. Have you seen something\nbright and shining fly past this place?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_060": {
+    "speaker": "Ume",
+    "text": "I did indeed—sure was a curious sight! \nMy big sister ran off after it. I wonder\nif she found anything."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_070": {
+    "speaker": "Siugnas",
+    "text": "I would not think a woman older\nthan this one to be capable of\nrunning after anything."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Normally I'd agree with you, bud,\nbut your power drew those words out,\nso it's gotta be true."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_090": {
+    "speaker": "Siugnas",
+    "text": "Even I am not entirely certain my\npowers worked on that crone."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess that means she's\nno ordinary lady, maybe."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "Wherever did this missing\nsister run off to?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "She must have a great set of legs on her—\nwhich means there's no way we're dealing\nwith a normal old lady here."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_020": {
+    "speaker": "Siugnas",
+    "text": "You there! Have you seen an\nold woman running around these—"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_030": {
+    "speaker": "Take",
+    "text": "What do you want, young man? Newspaper?\nMagazine? I don't sell smokes anymore."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, ma'am. Would you happen\nto be the big sister to the lady down at\nRakunan Station, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_050": {
+    "speaker": "Take",
+    "text": "Ume? Oh yes, she's my little sister.\nNow are you gonna buy something or\njust stand there wasting my time?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_060": {
+    "speaker": "Siugnas",
+    "text": "Speak, madam. Have you seen something\nbright and shining fly this way?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_070": {
+    "speaker": "Take",
+    "text": "Oh, I sure did—but I'm not telling\nyou squat until you buy something!"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh, then we'll take two bottles\nof tea, please and thank you."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_090": {
+    "speaker": "Take",
+    "text": "Right, so, it was an odd sight, believe you me!\nMy big sister ran off after it. I wonder if she\nfound anything."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_100": {
+    "speaker": "Siugnas",
+    "text": "Another sister? They may as well\nbe fiends at this point."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_010_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Dunno about that, fella,\nbut they're definitely not normal."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Never thought we'd wander \nthis far outside the city."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "I do enjoy a fine stroll through mountains\nand trees—this has proved to be a worthy\nstop on our little excursion."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_020": {
+    "speaker": "Matsu",
+    "text": "Eh!? You there! Why's a whippersnapper\nlike you talking like an old-timer!?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "Speak, madam. Have you seen something\nbright and shining fly across the sky?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_040": {
+    "speaker": "Matsu",
+    "text": "Sure as shoot did, young man! I chased\nit all this way, but lost sight of it.\fAt first, I was chasing the light, but then\nit stuck itself to a parked motorcycle and\nzoomed off with no rider or anything!\nFast as anything, I tell you what."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You must be in great shape to\ngo chasin' after motorcycles."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_060": {
+    "speaker": "Matsu",
+    "text": "Is that head of yours empty? I was ridin' some\nwheels of my own! Live long enough in this city\nand you'll see all sorts of oddities—so have a care\nif you're going to chase down that shiny!"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This riderless motorcycle's gotta\nbe one of the Jizo tiles."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_080": {
+    "speaker": "Siugnas",
+    "text": "I am surprised the woman was no fiend.\nStill, how are we to find this vehicle?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_020_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I just hope it's hiding nearby,\nbecause my poor legs are dyin'."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_030_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "That contraption does not\nseem to belong here."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_030_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, that's the motorcycle!\nSo where's that triangle?"
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_030_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hang on. I don't think the manufacturer's\nlogo is supposed to look like this."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_030_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "This triangle must be the tile."
+  },
+  "SUB_W01_EVAR_SIUG_GHOST_BIKE_030_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We finally found it!\nCripes, I'm exhausted."
+  },
+  "SUB_W01_FUNC_SIUG_TILE_COMP_000_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "Does this not mean we have\nsecured all the wayward tiles?"
+  },
+  "SUB_W01_FUNC_SIUG_TILE_COMP_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure does, guy. Now let's go back\nto the statues in the park."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "These tiles are all different colors, yet they share\na shape. Is there a significance to the order in\nwhich they go? Do you remember how these\ncolors are meant to fit together?"
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You serious there, guy? Heck, a fella\ncould see stuff like this every day\nand still forget how it goes."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, kiddo. You got any idea\nhow the tiles are supposed to go\non this Jizo statue, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_030": {
+    "speaker": "Yumeha_Izumi",
+    "text": "Sorry, I just transferred here.\nOh, but I bet Ren would know!"
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_040": {
+    "speaker": "Ren_Tutuki",
+    "text": "Hey, you're those two fellas from the\nother day! Need my help, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_050": {
+    "speaker": "Siugnas",
+    "text": "Speak, child. Tell us what color\nbelongs in which place."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_080": {
+    "speaker": "Ren_Tutuki",
+    "text": "You got all that?"
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_090": {
+    "speaker": "Siugnas",
+    "text": "Again!"
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_100": {
+    "speaker": "Siugnas",
+    "text": "I have it."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_110": {
+    "speaker": "Ren_Tutuki",
+    "text": "Fine, I'll tell you again—\nbut this is the last dang time!"
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_000_130": {
+    "speaker": "Ren_Tutuki",
+    "text": "Swell. Well, good luck."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, fella, can't believe you put that back\ntogether with so little info—guess this\nDismal King deal comes with perks.\fBut boy, it sure looks like the statue's\ncalmed down—I even feel a warm sort\nof energy coming from it."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This means we've guarded\nall four barriers."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_010_020": {
+    "speaker": "Siugnas",
+    "text": "Then my journey with you is at an end.\nYet while I saw many sights in this world,\nI was unable to retrace Lifetaker's past,\nand so will continue searching alone."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well now, hold on just a second there.\nI think there's one more place that\nshady fella's targeting: the center\nof the barriers at Gokakudo Temple.\fAnd since I've got no idea what he's\nplanning for the end, I hope you don't\nmind if I tag along for this last bit."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_000_CUT_010_040": {
+    "speaker": "Siugnas",
+    "text": "Gokakudo Temple? Mmm. Sounds important.\nI suppose there's a chance that man is expecting\nthe Dismal King's presence there."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_010_CUT_010_010": {
+    "speaker": "Siugnas",
+    "text": "That should be the end."
+  },
+  "SUB_W01_EVAR_SIUG_KOMAINU_JIZO_010_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw, cripes! We forgot about the talismans\nback at the shrine in Sequoia Mall!\nWe gotta go put 'em together."
+  },
+  "SUB_W01_EVAR_SIUG_SEQUOIA_HOKORA_FAILED_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now everything's back to normal."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, swell. Gokakudo Temple's safe—\nI don't think the shady guy's here yet."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "Wrong. He's over there."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_000_020": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "I see I cannot slip by unnoticed by those\nwith power. But little matter, for I was\nplanning to reveal myself to you eventually."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_000_030": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "You enclose your world in a barrier,\nyet why not make it open instead?\fYou there. The one with power. You have seen\nmany things, and surely understand what is\nso wonderful about the Conjoined Worlds.\nWill you not inform that fool beside you?"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_000_040": {
+    "speaker": "Siugnas",
+    "text": "Would you name yourself a god and push\nthe ways of another on these people?\fEach world does things in their own way.\nIf a world prefers to be open or closed,\nthat is their right to decide."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_000_050": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "There is but one set of laws among the\nConjoined Worlds—and if you will not\naccept that, I will force it upon you!"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_000_060": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "I have already ensured that the spirits\nof this land follow the law to the letter,\nso let me demonstrate its power now!"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_010_000": {
+    "speaker": "Man_Overworld_Suit",
+    "text": "This... This cannot be!"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_010_010": {
+    "speaker": "Siugnas",
+    "text": "My power is victorious over your law,\nfor I am the Dismal King."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Can't thank you enough for helping us\nthrow that fella in the slammer, King."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_010_030": {
+    "speaker": "Killer_Einherjar",
+    "text": "Gokakudo Temple is the place that will\nreveal the truth behind the fae; I have cut\ndown countless of their number here\nwho had taken the guise of humans."
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_010_040": {
+    "speaker": "Siugnas",
+    "text": "Ah, I see you've remembered a bit.\nShall we continue our journey, then?"
+  },
+  "SUB_W01_EVAR_SIUG_CONSPIRACY_000_CUT_010_050": {
+    "speaker": "Killer_Einherjar",
+    "text": "No. I am Lifetaker. That will not\nchange, but it is also enough."
+  },
+  "SUB_W01_EVAR_SIUG_AMANO_IWATO_000_CUT_000_040": {
+    "speaker": "Siugnas",
+    "text": "I suppose that's one way of looking at it;\nit's not terrible to do things your own way.\nI rather enjoyed traveling with you. Farewell."
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_010_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "While I cannot take you with me, a portion\nof you will remain with me for eternity."
+  },
+  "SUB_W01_EVAR_SIUG_HOTEL_INFO_010_CUT_000_010": {
+    "speaker": "Tourist_Woman",
+    "text": "May a part of me forever stay \nwith you, Your Dismal Majesty..."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_010_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "Hail, charming madam!\nI have come to retrieve you!"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOUNIV_INFO_010_CUT_000_010": {
+    "speaker": "Naomi_Waka",
+    "text": "You have!? Er, I mean, yes!\nI'd be delighted to go with you."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_010_CUT_000_000": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "Well, if it isn't the Dismal King.\nHave you been enjoying your little\nsightseeing tour of Miyako City?"
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_010_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "I have—but the time has come\nfor me to abandon this place."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_010_CUT_000_020": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "You came all this way to say goodbye?\nAw, that's sweet."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_010_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "Indeed. Farewell."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_010_CUT_000_040": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "Wait! Know that I will not allow any harm\nto come to the good people of Miyako City."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_010_CUT_000_050": {
+    "speaker": "Siugnas",
+    "text": "Mmm. I see."
+  },
+  "SUB_W01_EVAR_SIUG_RAKUGAKU_010_CUT_000_060": {
+    "speaker": "Kaoruko_Hachijo",
+    "text": "I am delighted to see how reasonable\nyou are, Your Majesty. Now, farewell."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_FALL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This waterfall is one of Miyako City's \nbest sightseeing spots. Folks say you'll\nhave a long life if you drink from it."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_FALL_000_CUT_000_010": {
+    "speaker": "Siugnas",
+    "text": "I am immortal. I need no longer life."
+  },
+  "SUB_W01_EVAR_SIUG_SANGENIN_FALL_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Immortal, eh? So people like that <i>do</i> exist."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOTHEATRE_000_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "Is this large building the\nfortress of some local lord?"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOTHEATRE_000_CUT_000_010": {
+    "speaker": "Information_Staff",
+    "text": "This is Miyako Theater—guess you could\ncall it a fortress of art, maybe."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOTHEATRE_000_CUT_000_020": {
+    "speaker": "Siugnas",
+    "text": "Art? Mmm. Fascinating."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOTHEATRE_000_CUT_000_030": {
+    "speaker": "Information_Staff",
+    "text": "Yes indeed! Our schedule's jam-packed with\nfascinating performances, so please check\nour home page and pick up tickets to\nwhatever strikes your fancy!"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOTHEATRE_000_CUT_000_040": {
+    "speaker": "Killer_Einherjar",
+    "text": "The people of Miyako have\never enjoyed the theater."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOTHEATRE_000_CUT_000_050": {
+    "speaker": "Siugnas",
+    "text": "Did you watch such things\nas well, Lifetaker?"
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOTHEATRE_000_CUT_000_060": {
+    "speaker": "Killer_Einherjar",
+    "text": "The best I ever saw were three-sentence\nplays at the riverside; I lacked the funds\nto see famous actors at the playhouses."
+  },
+  "SUB_W01_EVAR_SIUG_MIYAKOTHEATRE_000_CUT_000_070": {
+    "speaker": "Siugnas",
+    "text": "I doubt I have ever heard your\nvoice filled with such joy."
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "There are naught but children here.\nAn educational facility, perhaps?"
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_010": {
+    "speaker": "Killer_Einherjar",
+    "text": "A school, I believe—a place where\nchildren are taught to read and write.\nI myself have never been."
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_020": {
+    "speaker": "Akane_Erisawa",
+    "text": "Welcome to Keihoku Elementary School.\nDo you have business here?"
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_030": {
+    "speaker": "Siugnas",
+    "text": "No. We are simply stopping by\nduring our travels."
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_040": {
+    "speaker": "Akane_Erisawa",
+    "text": "Oh, you're traveling!? My apologies."
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_050": {
+    "speaker": "Kentarou_Yanagibi",
+    "text": "Miss Erisawa! Miss Erisawa! I...\nHuh? Sorry. Didn't see that you\nwere talkin' to someone."
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_060": {
+    "speaker": "Siugnas",
+    "text": "Do you enjoy being taught\nyour letters, child?"
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_070": {
+    "speaker": "Kentarou_Yanagibi",
+    "text": "Naw, studying's a pain.\nBut I like lunch!"
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_080": {
+    "speaker": "Akane_Erisawa",
+    "text": "Kentaro!"
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_090": {
+    "speaker": "Siugnas",
+    "text": "Did you ever want to go\nto a place like this?"
+  },
+  "SUB_W01_EVAR_SIUG_EREMENTARY_SCHOOL_000_CUT_000_100": {
+    "speaker": "Killer_Einherjar",
+    "text": "I know not; I never had the\ndesire to read or write."
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_000": {
+    "speaker": "Siugnas",
+    "text": "Is this an educational facility\nfor young women alone?"
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_010": {
+    "speaker": "Sophia_Beniike",
+    "text": "Boy, that fella's a real hottie!\nGo talk to him, Tomoko!"
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_020": {
+    "speaker": "Tomoko_Mido",
+    "text": "What!? Why me!? Also, he looks\nway more suspicious than hot."
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_030": {
+    "speaker": "Sophia_Beniike",
+    "text": "But you're all about suspicious!\nHeck, just look at your brother—\nthat fella's weird as all get out."
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_040": {
+    "speaker": "Tomoko_Mido",
+    "text": "What are you <i>talking</i> about!?"
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_050": {
+    "speaker": "Tomoko_Mido",
+    "text": "Umm... Hi there. Are you filming\na movie or something, maybe?"
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_060": {
+    "speaker": "Siugnas",
+    "text": "A...movie?"
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_070": {
+    "speaker": "Tomoko_Mido",
+    "text": "See, 'cause I was thinking, 'Wow, those\nfellas really stand out!' which made me\nwonder if you were in the entertainment\nbusiness or something."
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_080": {
+    "speaker": "Siugnas",
+    "text": "We are travelers."
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_090": {
+    "speaker": "Tomoko_Mido",
+    "text": "Uh? Oh. Well, okay then!\nHave fun in Miyako City!"
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_100": {
+    "speaker": "Tomoko_Mido",
+    "text": "Cripes, I was SUPER nervous."
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_110": {
+    "speaker": "Sophia_Beniike",
+    "text": "But you did it, Tomoko!"
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_120": {
+    "speaker": "Tomoko_Mido",
+    "text": "Okay, don't act like you\nhad no part in this!"
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_130": {
+    "speaker": "Siugnas",
+    "text": "What manner of place\nis this, Lifetaker?"
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_140": {
+    "speaker": "Killer_Einherjar",
+    "text": "I do not know. Some places forbade women,\nand likewise some allowed only women.\nBut I know nothing of this place."
+  },
+  "SUB_W01_EVAR_SIUG_GIRLS_SCHOOLLIFE_000_CUT_000_150": {
+    "speaker": "Siugnas",
+    "text": "What a strange world this is."
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Excuse me, fella! You dropped this."
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_010": {
+    "speaker": "Koutarou_Yanagibi",
+    "text": "Oh gosh, thanks so much!\n...Wait, what!? Nooo!"
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_020": {
+    "speaker": "Koutarou_Yanagibi",
+    "text": "This is the charm I bought to pray for my\nson's success in his exams. He's studying\nto get into middle school, don't you know,\nso I came here just to get this."
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, so that's why you're panicked!\nWell, no worries, guy—all you saw\nwas some evil spirits getting purified!"
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_040": {
+    "speaker": "Koutarou_Yanagibi",
+    "text": "Uh, is that really what it was?\nI mean, gosh, if you say so..."
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_050": {
+    "speaker": "Koutarou_Yanagibi",
+    "text": "Wait! Now hold on just a second there!\nAre you the folks I saw on the roof of\nSequoia Mall?"
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The roof? Sorry, bud, but the only\nperson I ever saw on the roof was...\nNo way, are you the mall mascot!?\fEr, sorry about that, fella—didn't mean\nto yell. Just shocked, is all."
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_070": {
+    "speaker": "Koutarou_Yanagibi",
+    "text": "Yeah no, I'm surprised by the coincidence\nas well. Anyway, I need to be getting home.\nThanks again for finding this!"
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_080": {
+    "speaker": "Siugnas",
+    "text": "So that man transformed by wearing a\ncostume? And that little charm is of\nvital import to him somehow?"
+  },
+  "SUB_W01_EVAR_SIUG_FATHER_THOUGHT_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, it's not really related to anything\nwe've got going on here, but it's sure\nimportant to that fella's family."
+  },
+  "SUB_W01_LTXT_SIUG_RAKUHOKUSTA_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Rakuto Station is close to Sequoia Mall,\nand Rakunan Station is close to Keihoku\nElementary School. Where should I go?"
+  },
+  "SUB_W01_LTXT_SIUG_RAKUHOKUSTA_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Rakuto Station."
+  },
+  "SUB_W01_LTXT_SIUG_RAKUHOKUSTA_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Rakunan Station."
+  },
+  "SUB_W01_LTXT_SIUG_RAKUHOKUSTA_000_CUT_000_030": {
+    "speaker": "HERO",
+    "text": "Never mind."
+  },
+  "SUB_W01_LTXT_SIUG_RAKUTOSTA_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Rakuhoku Station is close to Miyako Imperial\nUniversity, and Rakunan Station is close to\nKeihoku Elementary School. Where should I go?"
+  },
+  "SUB_W01_LTXT_SIUG_RAKUTOSTA_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Rakuhoku Station."
+  },
+  "SUB_W01_LTXT_SIUG_RAKUTOSTA_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Rakunan Station."
+  },
+  "SUB_W01_LTXT_SIUG_RAKUTOSTA_000_CUT_000_030": {
+    "speaker": "HERO",
+    "text": "Never mind."
+  },
+  "SUB_W01_LTXT_SIUG_RAKUNANSTA_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Rakuhoku Station is close to Miyako Imperial\nUniversity, and Rakuto Station is close to\nSequioa Mall. Where should I go?"
+  },
+  "SUB_W01_LTXT_SIUG_RAKUNANSTA_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Rakuhoku Station."
+  },
+  "SUB_W01_LTXT_SIUG_RAKUNANSTA_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Rakuto Station."
+  },
+  "SUB_W01_LTXT_SIUG_RAKUNANSTA_000_CUT_000_030": {
+    "speaker": "HERO",
+    "text": "Never mind."
+  }
+}

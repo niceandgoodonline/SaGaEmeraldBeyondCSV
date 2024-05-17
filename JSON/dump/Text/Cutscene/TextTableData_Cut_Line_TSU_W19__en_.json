@@ -1,0 +1,822 @@
+{
+  "SUB_W19_WRLD_MIDO_INITIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Holy moly, look at all the life in this place!\nI'm gonna find plenty of spirit power here,\nbelieve you me."
+  },
+  "SUB_W19_WRLD_MIDO_INITIAL_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Vines... Waterfalls... Yep, this place is\nreally something. Wonder if I can find\nsomebody to show me around, maybe."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a big old bird starin' right at me!\nI bet it'll come after me the moment\nI decide to look away."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, now it's lowering its head...\nThat means it's not gonna eat me?"
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, seems like it wants me to climb\nup on its back. ...Eh, what the heck.\nLet's give it a shot!"
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa!"
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Who'd have thought there'd be such\na huge world on top of a single tree?"
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a big ol' bear statue over there.\nWonder who made it?"
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Also got a turtle, a bat, a squirrel...\nOh, I get it now! These aren't statues,\nthey're petrified animals! THAT'S what\nthe bird wanted me to see."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I should try to save\nthose petrified critters, eh?"
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_020_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whatcha got for me there, fella?\nLooks like...seeds, bugs, and a flute?\nGuessin' I use the flute to call\nwhen I need you, yeah?"
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_020_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "As for the seeds and bugs..."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'll figure it out."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_020_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I better think about this..."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_000_CUT_020_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe I should head to\nthat viny area over there."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't worry, I'll work this out."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Bet I can climb those vines."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okey-dokey. Now I know I can\nclimb up using vines."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not sure about the whole 'down' bit,\nbut I'll figure it out."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Holy smokes, look at that!\nThose bugs I got earlier are\nchewing through the vines."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_030_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The vines turned into a waterfall\nand I slid down it."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_030_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess that means I can use waterfalls\nto move from above to below."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_030_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So the bug can turn vines into a waterfall?\nThat's one wild critter right there!\nBut I don't have unlimited bugs,\nso better save 'em for when I need 'em."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_030_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So if vines go up and waterfalls\ngo down, what are the seeds for?"
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_030_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe they turn waterfalls into vines?\nLet's give it a shot."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_030_050": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "MISSION"
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_030_060": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Take a stick from the beaver's lodge!"
+  },
+  "SUB_W19_GIMK_MIDO_IVY_000_CUT_030_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Holy heck, it's like a voice calling\ndown from on high! I know better\nthan to ignore that kind of thing."
+  },
+  "SUB_W19_GIMK_MIDO_IVY_099_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, I don't think this is where\nI oughta be right now."
+  },
+  "SUB_W19_EVAR_MIDO_BEAVER_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, Mr. Beaver."
+  },
+  "SUB_W19_EVAR_MIDO_BEAVER_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Mind lending me one of your\nsticks here? Appreciate it, bud."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_020_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, brought back a stick from Mr. Beaver.\nI'm guessing that shows you I've figured out\nhow to get around with vines and waterfalls,\nand also how to use bugs and seeds."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_020_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now those petrified animals are a whole\nother...uh, animal, but I'll sure as heck\ndo whatever I can."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_020_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Say, now that I think about it, wouldn't\nit be a lot faster just to fly me around\non your back while I do all this stuff?"
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_020_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...No dice, eh? Can't say it makes much\nsense to me, but this isn't my first\nrodeo—I know every world's got its\nrules, and I'm gonna make this work."
+  },
+  "SUB_W19_EVAR_MIDO_EAGLE_020_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But lemme ask you something here fella:\nyou know about any spirits in this world?\n'Cause that's why I came here."
+  },
+  "SUB_W19_EVAR_MIDO_TURTLE_PUSHES_TREE_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "When I saved Mr. Turtle, he said\nhe'd lend me some of his strength."
+  },
+  "SUB_W19_EVAR_MIDO_TURTLE_PUSHES_TREE_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe I'm strong enough to knock\na tree down now? Let's see!"
+  },
+  "SUB_W19_EVAR_MIDO_BEAVER_CUTS_TREE_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "If only I had some way\nto bring this tree down..."
+  },
+  "SUB_W19_EVAR_MIDO_BEAVER_CUTS_TREE_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What's that, Mr. Beaver? You're gonna\ngnaw that trunk down for me? Well heck,\nthat oughta do the trick."
+  },
+  "SUB_W19_EVAR_MIDO_BEAVER_CUTS_TREE_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now I just need to give\nit one good shove!"
+  },
+  "SUB_W19_FUNC_MIDO_CHANGE_CASCADE_TO_IVY_CUT_001_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Ah geez, I'm down to my last seed."
+  },
+  "SUB_W19_FUNC_MIDO_CHANGE_CASCADE_TO_IVY_CUT_001_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's turn this waterfall into vines."
+  },
+  "SUB_W19_FUNC_MIDO_CHANGE_CASCADE_TO_IVY_CUT_001_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better think about this here..."
+  },
+  "SUB_W19_FUNC_MIDO_CHANGE_IVY_TO_CASCADE_CUT_001_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Ah geez, I'm down to my last bug."
+  },
+  "SUB_W19_FUNC_MIDO_CHANGE_IVY_TO_CASCADE_CUT_001_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's turn these vines into a waterfall."
+  },
+  "SUB_W19_WRLD_MIDO_EAGLE_WHISTLE_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Here's where we're at."
+  },
+  "SUB_W19_WRLD_MIDO_EAGLE_WHISTLE_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, let's go."
+  },
+  "SUB_W19_WRLD_MIDO_EAGLE_WHISTLE_GAMEEND_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I got all the petrified critters\nun-petrified, so that's good."
+  },
+  "SUB_W19_WRLD_MIDO_EAGLE_WHISTLE_GAMEEND_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe I should look\naround a little more."
+  },
+  "SUB_W19_FUNC_MIDO_ALL_GUARDIANS_SAVED_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like I was able to save\nall the petrified critters."
+  },
+  "SUB_W19_FUNC_MIDO_ALL_GUARDIANS_SAVED_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I oughta head on\nback to Mr. Eagle?"
+  },
+  "SUB_W19_FUNC_MIDO_ALL_GUARDIANS_SAVED_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All that's left is to pick up\nsome spirit power."
+  },
+  "SUB_W19_EVAR_MIDO_WORLDEXIT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now that I've got my spirit power sorted,\nso I guess it's time to head back. But there\nare still some petrified animals left, so..."
+  },
+  "SUB_W19_EVAR_MIDO_WORLDEXIT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whatever, I'm outta here."
+  },
+  "SUB_W19_EVAR_MIDO_WORLDEXIT_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Leave no stone critter behind!"
+  },
+  "SUB_W19_EVAR_MIDO_WORLDEXIT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry guy, but I got what I came\nfor and I'm heading back."
+  },
+  "SUB_W19_EVAR_MIDO_WORLDEXIT_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm out. I mean it."
+  },
+  "SUB_W19_EVAR_MIDO_WORLDEXIT_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So long, bud! It's been fun!"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I somehow managed to\nsave all the critters."
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Kinda strange that they only got saved\nbecause some guy from another world\ncame here. Really goes to show that\nno world stands completely apart."
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this is goodbye.\nHave a good life, Mr. Eagle!"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, I never did figure out how those\nanimals got petrified in the first place.\nI mean, who the heck would do that?"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_100_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that's a scary voice you're\nputtin' on right there, Mr. Eagle.\nWhat seems to be the trouble?"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_100_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yikes! Mr. Eagle turned to stone!\nIs this what's going on with the\nwhole petrification deal?"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_100_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And I can't save him, neither...\nGuess that's a job for someone else?"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_100_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Things turn to stone, things turn from stone...\nThe cycle this world shares with others is\npushing it forward little by little—or at\nleast that's what I'd like to believe."
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_100_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw, everyone came down to see me off.\nSo long, folks! Be well!"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_200_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, hey there, Mr. Bear!\nYou sure do look scary today."
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_200_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You hungry or something there,\nMrs. Squirrel?"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_200_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeowch! Those piercing shrieks of yours\nare hurtin' my ears, Mr. Bat!"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_200_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, shoot. Even Mr. Turtle\nhere's angry?"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_200_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And last is you, Mr. Eagle. "
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_200_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All the defeated animals have turned\nto stone. Gotta say, I don't get the\npoint of fighting like this at all."
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_200_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "'Course, just because I don't understand it\ndoesn't mean it's not serving an important\npurpose in this here world."
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_200_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I guess this is goodbye.\nGood luck, everybody."
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_300_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hold on just a minute! What's everyone\nall so hot and bothered about? I mean,\nall I did was save your shootin' lives!"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_300_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And now they've all turned back to stone—\nincluding Mr. Eagle. So what's that mean for\nthe future of this world? I mean, heck, was\neverything I did here completely pointless?"
+  },
+  "SUB_W19_EVAR_MIDO_GAMEEND_300_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I could spin on this until I turn blue, but it's\nnever gonna make sense. Guess all you poor\nfolks will have to wait until someone else\nswings by to unpetrify you again."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_04_STONE_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The pose of Mrs. Squirrel here..."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_04_STONE_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like she's about to chow down\non something. A seed? A walnut?\nSome kind of fruit, maybe?"
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_04_STONE_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I wonder if she'll go back to normal\nif I bring it the right food?"
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_04_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. It was a walnut, all right."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_07_STONE_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, this is a big fella right here!\nFirst thing that grabbed my attention\nwhen I was looking down from the sky."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_07_STONE_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But even though he's stone, the way his\nmouth is wide open gives me the willies.\nAm I sure I wanna save this fella?"
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_07_STONE_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hm? This poor guy's missing some teeth.\nMaybe that's what I ought to be looking\nfor here."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_07_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes! He's strong, all right!"
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_07_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Still, seeing as it didn't attack me,\nI guess he knows I saved him."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_07_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Still, maybe ease back on all the\nshoutin' there, fella. You're gonna\ngive me a heart attack over here."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_NEST_02_STONE_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I guess this is a bat—but without wings,\nthe fella looks pretty sad. Better see\nif I can get out there and find 'em."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_NEST_02_STONE_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, is that a walnut in its mouth?\nPretty sure bats don't eat those."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_NEST_02_STONE_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, shoot! Even the walnut's stone.\nI can't get it outta there."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_NEST_02_STONE_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I'll have to rescue\nthis poor bat fella first."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_NEST_02_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There we go! One set of wings,\njust like nature intended."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_NEST_02_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Think you can give me that\nwalnut now, bud? Thanks."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_NEST_02_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now I can go save Mrs. Squirrel."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_SWAMP_06_STONE_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Mr. Turtle here's been turned to stone.\nUnless he was like this all along?"
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_SWAMP_06_STONE_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like he's missing a piece of shell.\nMaybe it broke after it was turned to stone?\n...Or did he turn to stone AFTER it broke?\fWell, I won't solve anything just\nstanding around here like a dope.\nTime to find the missing piece."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_SWAMP_06_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You're not made of stone anymore, right,\nMr. Turtle? You're a pretty slow fella,\nso it's a bit hard to tell."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_SWAMP_06_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There we are!\nNot stone. Swell."
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_SWAMP_06_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...How's that? You wanna thank me by helping\nme out? Well, that's kind of you to offer.\nReally appreciate it there, guy."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_01_ROUTE2_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, look at the huge frog. Looks like\nit's trying to eat something, maybe?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_01_ROUTE2_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, lookee there! A bat wing!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_01_ROUTE2_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That was a real close shave,\nbut I managed to get the bat wing\nbefore Mr. Frog there could eat it."
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_SWAMP_01_ROUTE2_AUTO_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That giant frog looks hungry\nas anything, believe you me."
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_SWAMP_01_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "He spotted the dragonfly!"
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_SWAMP_01_ROUTE2_AUTO_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You sure are a scary one,\nMr. Frog."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_02_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "These look like the bones of an animal—\noh, and some of the teeth fell out!\nI wonder if these might fit Mr. Bear."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_02_EARLY_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "These look like the bones of an animal—\ngot some real nice teeth here, too.\nMaybe I'll just hang onto 'em."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_03_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yikes, but it was a bad idea to\nget close to a snake like that.\nNow it's in full-on attack mode!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_03_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Seems to be guarding some eggs,\nbut I don't think that's a thing\nsnakes usually do."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_03_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck! Those were birds' eggs!\nWeren't babies at all—they were lunch!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_03_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I didn't come here to steal those eggs\nfrom you, bud, but at this point,\nI might as well do it."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_04_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yikes! That's a real scary-looking\ncroc there—and it looks like I\ninterrupted his lunch."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_04_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, that's a bat wing!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_04_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Phew! Sure glad I was able to get that\nbat wing away from Mr. Croc before\nit went down the hatch."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_05_ROUTE2_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That beaver's building himself a house!\nFella probably wouldn't mind if I just\nstopped and watch him work, eh?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_05_ROUTE2_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, something's got Mr. Beaver in\nits sights! Well, nothing for it but to sit\nback and let nature take its course."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_05_ROUTE2_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I know that poor fella was just looking\nto score its first meal in who knows\nhow long, but I couldn't help myself."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_05_ROUTE2_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...What's that, Mr. Beaver?\nYou got something to thank me with?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_06_ROUTE2_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, even the dragonflies are huge.\nOne of the fruits of all the spirit\npower here, I suppose."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_06_ROUTE2_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Doesn't look like it'll come after me,\nbut to a little bug, that thing must seem\nlike one ferocious hunter. I mean, heck,\neven I'm scared of those eyes!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_06_ROUTE2_END_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I wonder if dragonflies are territorial?\nSure'd be nice if they could all manage\nto get along, but..."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_SWAMP_06_ROUTE2_END_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh! Looks like they're getting along\n<i>plenty</i> well. Must be a male and female.\n...Kinda jealous, if I'm bein' honest."
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_NEST_01_AUTO_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes almighty, that is one huge spider!\nLet's see if I can just slip past here..."
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_NEST_01_AUTO_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Dang it! Thing spotted me!\nI gotta protect the ant."
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_NEST_01_AUTO_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy, that was close. So the spider\nwas after <i>us</i>, huh? Scary."
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_NEST_01_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The jig's up!\nGotta protect the dragonfly!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_03_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, we finally made it to the anthill.\nWhy were you journeying so far from home,\nfella? I mean, I enjoy an adventure as much\nas the next guy, but safety first, eh?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_03_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You take care now."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_03_ROUTE2_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a walnut in that anthill.\nThat's gotta be Mrs. Squirrel's chow."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_03_ROUTE2_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's see if I can take it without\ngetting these ants all feisty."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_03_ROUTE2_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Time to get the heck outta here;\nI don't think I got it in me to\nhandle this many ants!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_04_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What's going on there, Mr. Ant?\nSomething I can help you with?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_04_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You must've climbed up here, yeah?\n'Cause you sure don't look like\nyou're from around here."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_04_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I can't promise we'll find your hill,\nbut maybe we get lucky if we stick together.\nUs travelers all gotta look out for each\nother, after all!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_04_ROUTE2_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now that is one big ant.\nThought you were a spider there, guy!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_04_ROUTE2_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh hey, looks like it's carrying some kind\nof seed. Wonder if I can find food for that\nsquirrel in its anthill, maybe?"
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_NEST_05_AUTO_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Think those bees would mind\nme borrowing a little honey\nfrom their hive?"
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_NEST_05_AUTO_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gya! They're coming straight for me!\nThe bees here can read minds!"
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_NEST_05_AUTO_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that's enough of that.\nTime to head on outta here."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_05_ROUTE2_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "A dragonfly just came soaring\nfrom that beehive!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_05_ROUTE2_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's get outta here, fella!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_05_ROUTE2_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Say, I seem to remember seeing a big\ndragonfly back in that swamp area.\nWhat say we swing by and check it out?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_06_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a bat wing caught\nin that spiderweb there!"
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_NEST_06_ROUTE2_AUTO_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a dragonfly in that web!\nBetter save him before he's lunch."
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_NEST_06_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You all right there, Mr. Dragonfly?\nYou got a whole lot of eyes, so I'd\nexpect you to be more careful."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_01_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw, look at those wolf pups playing!\nLittle fellas sure are cute...although\nMom and Dad look plenty scary."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_01_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's a piece of the turtle's shell.\nGuess it ended up as a wolf toy."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_01_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'd better grab it."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_01_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This shell piece might be just what\nI need to unpetrify ol' Mr. Turtle.\nLemme just run it over there once quick."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Might be something good in this cave.\nI'll just take a quick peek around."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's all sorts of stuff stashed\naway in this cave. Guess I know\nwho's been living here, eh? "
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey now, these are shiny!\nWonder what they are."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's Mr. Bear's missing teeth!\nTalk about your lucky finds right there.\nI'll just take 'em to their rightful owner."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_EARLY_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Could be treasure inside this cave,\nor could be a whole lot of nothin'."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_EARLY_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It probably isn't worth it."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_EARLY_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's poke around inside."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_EARLY_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like a pretty dangerous critter made\na home here. I could keep going, but it's\nhard to imagine I'll find anything good."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_EARLY_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I better back off."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_EARLY_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's keep going."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_EARLY_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. Whole lot of nothin'.\nNo point going any further."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_02_ROUTE2_EARLY_CUT_030_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All that just for a dead end, eh?\nTalk about your wastes of time!"
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_FOREST_03_AUTO_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this sure is one strange-looking\nplant. Could be carnivorous, maybe?\nI've heard these—"
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_FOREST_03_AUTO_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yikes! Mr. Ant's in trouble!"
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_FOREST_03_AUTO_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I know that plant didn't mean nothing by it,\nbut nobody enjoys being attacked straight\nout of left field like that."
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_FOREST_03_AUTO_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I gotta take extra care,\nespecially if I'm traveling with a bug."
+  },
+  "SUB_W19_FUNC_MIDO_PLAT_FOREST_03_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The dragonfly's in trouble!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_03_ROUTE2_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I know that thing's a plant, but it's got\na real gluttonous gleam in its...petals?\nBest I keep a respectful distance."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_03_ROUTE2_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, looks like there's something in\nits mouth already. Gonna have to get\ncloser if I want to grab it, though."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_03_ROUTE2_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Just take it easy there, slugger!\nI'm not your dinner."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_03_ROUTE2_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh hey, a piece of shell!\nBetter take this back to Mr. Turtle."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_03_ROUTE2_EARLY_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now what the heck is this? A piece of\nturtle shell? Well, considering what I\nrisked for it, I'm not putting it back."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "An empty bird's nest, eh? Oh, and we've\ngot some brown feathers scattered about.\nGuess the chicks all flew away, maybe?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gosh, what's a snake skin doing in\na place like this? I hear it's good luck\nto put these fellas in your wallet,\nso maybe I'll just give that a shot."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_EGGS_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All right, that should do the trick.\n'Course, the snake'll probably just\ncome after you again."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_EGGS_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I better find your parents."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_CUCKOO_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this is your nest, yeah?\nOh, and look! Your eggs are back!"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_CUCKOO_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gah! The heck are you doing!?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_CUCKOO_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Kicked all the eggs outta the nest, eh?\nI guess this wasn't your nest and\nthose weren't your eggs."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_CUCKOO_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy howdy, I messed that up good."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_OWL_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure looks like I made someone happy."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_04_OWL_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better give everybody a little family\ntime and sneak on outta here..."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_05_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe that nest I found and those lost\neggs both belong to Mrs. Bird here?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_05_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "She seems awfully worked up, which would\nmake sense if her eggs got stolen."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_05_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like her plumage\nis grey and white."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_05_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. Should I lead this\nbird back to that nest?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_05_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's do it."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_05_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better hold on a second..."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_06_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This fella has a bit of a gloomy vibe,\nbut maybe owls are just like that?"
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_06_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like it's got brown\nand beige plumage."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_07_ROUTE2_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look at the way that fella is brandishing\nhis antlers. Yeah, probably best not\nto get too close here."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_07_ROUTE2_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hold on though—we got a bat wing\nhanging off the tip of that antler!\nI better get it..."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_07_ROUTE2_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Phew! Managed to pluck that bat wing\noff the deer without getting gored."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_07_ROUTE2_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But Mr. Bat was missing two wings,\nso I'll need one more."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_FOREST_07_ROUTE2_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's both the missing wings!\nLet's get these back to Mr. Bat."
+  },
+  "SUB_W19_EVAR_MIDO_SPIRIT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a weak wood spirit here.\nIs that power good enough?"
+  },
+  "SUB_W19_EVAR_MIDO_SPIRIT_000_CUT_000_011": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a moderately powerful\nwood spirit here. Probably about\nall I can handle, honestly."
+  },
+  "SUB_W19_EVAR_MIDO_SPIRIT_000_CUT_000_012": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a strong wood spirit here.\nThis'll be a real tough fight..."
+  },
+  "SUB_W19_EVAR_MIDO_SPIRIT_000_CUT_000_013": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Man alive, there's a crazy amount of power\ncoming from the wood spirit here!\nI might not even have a chance..."
+  },
+  "SUB_W19_EVAR_MIDO_SPIRIT_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better leave it be."
+  },
+  "SUB_W19_EVAR_MIDO_SPIRIT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Time to fight!"
+  },
+  "SUB_W19_EVAR_MIDO_GUARDIAN_FOREST_04_EARLY_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe I oughta give 'em this nut."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_03_ROUTE2_EARLY_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a nut here. Can't believe someone would just go around wasting food like that."
+  },
+  "SUB_W19_EVAR_MIDO_PLAT_NEST_04_ROUTE2_EARLY_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, it's carrying a seed. Maybe I can get a buncha seeds if I find its colony."
+  }
+}

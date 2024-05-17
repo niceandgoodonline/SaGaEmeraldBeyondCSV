@@ -1,0 +1,54 @@
+{
+  "SUB_W17_FUNC_COMM_CHECK_POSITION_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "Allies have taken this location!"
+  },
+  "SUB_W17_FUNC_COMM_CHECK_POSITION_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The enemy has taken this location!"
+  },
+  "SUB_W17_FUNC_COMM_CHECK_POSITION_000_PLN_000_020": {
+    "speaker": "UI",
+    "text": "This location is now neutral!"
+  },
+  "SUB_W17_FUNC_COMM_LOSE_EVENT_TUT_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The castle has dispatched reinforcements!\nThe situation was resolved without incident."
+  },
+  "SUB_W17_FUNC_COMM_REBEL_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The rebel army has appeared!\nTrouble awaits if they aren't dealt with."
+  },
+  "SUB_W17_FUNC_COMM_GAMEOVER_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The castle has fallen to the rebels!"
+  },
+  "SUB_W17_FUNC_COMM_RESTART_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "Reattempt"
+  },
+  "SUB_W17_FUNC_COMM_RESTART_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "Choose the rebel army's difficulty level."
+  },
+  "SUB_W17_FUNC_COMM_RESTART_000_PLN_000_020": {
+    "speaker": "UI",
+    "text": "Normal"
+  },
+  "SUB_W17_FUNC_COMM_RESTART_000_PLN_000_030": {
+    "speaker": "UI",
+    "text": "Tough"
+  },
+  "SUB_W17_FUNC_COMM_RESTART_000_PLN_000_040": {
+    "speaker": "UI",
+    "text": "Attempt"
+  },
+  "SUB_W17_FUNC_COMM_RESTART_000_PLN_000_050": {
+    "speaker": "UI",
+    "text": "- Triumph over chaos before the rebels take the castle.\n- Do not leave the rebels to their own devices.\n- Use the legendary weapon if you don't think you can win."
+  },
+  "SUB_W17_FUNC_COMM_RESTART_000_PLN_000_060": {
+    "speaker": "UI",
+    "text": "Resume War"
+  }
+}

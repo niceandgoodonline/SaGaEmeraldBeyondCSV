@@ -1,0 +1,286 @@
+{
+  "C01_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Mysterious Space"
+  },
+  "C01_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The door in King Din's castle led to a strange space. You don't know where you are, but it's clear the path you must follow lies beyond."
+  },
+  "C01_SCAN_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Revealed Door"
+  },
+  "C01_SCAN_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Emerald Wave points in the direction of several doors—which one you use is up to you."
+  },
+  "C01_WRLD_COMM_EINHERJAR_BRAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Hero's Darkness"
+  },
+  "C01_WRLD_COMM_EINHERJAR_BRAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Hero was no hero after all. When one attempts to transcend themselves, it gives birth to darkness. "
+  },
+  "C01_WRLD_COMM_ICECASTLE_NEGATIVE_110_TITLE": {
+    "speaker": "UI",
+    "text": "General's Darkness"
+  },
+  "C01_WRLD_COMM_ICECASTLE_NEGATIVE_110_DETAIL": {
+    "speaker": "UI",
+    "text": "You fought the final emperor to protect Alexandre, but were cast out of Grelon as a result. However, you were able to draw the darkness out of General."
+  },
+  "C01_WRLD_SIUG_EINHERJAR_600_TITLE": {
+    "speaker": "UI",
+    "text": "A Mysterious Space"
+  },
+  "C01_WRLD_SIUG_EINHERJAR_600_DETAIL": {
+    "speaker": "UI",
+    "text": "You now have the Generals at your beck and call—and they are a powerful asset indeed! The time has come for you to recover your throne."
+  },
+  "C01_WRLD_SIUG_EINHERJAR_610_TITLE": {
+    "speaker": "UI",
+    "text": "A Mysterious Space"
+  },
+  "C01_WRLD_SIUG_EINHERJAR_610_DETAIL": {
+    "speaker": "UI",
+    "text": "You now have the Generals at your beck and call—and they are a powerful asset indeed!  With their help, you could surely recover your throne...but is it worth being so fixated on power?"
+  },
+  "C01_DOOR_SIUG_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to Yomi"
+  },
+  "C01_DOOR_SIUG_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The armored man is doubtless waiting for you in the Dark Castle."
+  },
+  "C01_DOOR_SIUG_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Yomi"
+  },
+  "C01_DOOR_SIUG_RETURN_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to Yomi"
+  },
+  "C01_DOOR_SIUG_RETURN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Your chance to once more rule as the Dismal King awaits on the other side of this door."
+  },
+  "C01_DOOR_SIUG_RETURN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Yomi"
+  },
+  "C01_EVNT_SIUG_LASTBATTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Armored Man Awaits"
+  },
+  "C01_EVNT_SIUG_LASTBATTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The armored man who infiltrated the Dark Castle awaits you here—but what is his ultimate goal?"
+  },
+  "C01_EVNT_SIUG_LASTBATTLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Settling the Score"
+  },
+  "C01_DOOR_SIUG_LASTBATTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "A New and Final Door"
+  },
+  "C01_DOOR_SIUG_LASTBATTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "A new door has been revealed, one that leads to the climax of your tale."
+  },
+  "C01_DOOR_SIUG_W01_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to Lifetaker's darkness."
+  },
+  "C01_DOOR_SIUG_W01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W02_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to bright light and deep darkness."
+  },
+  "C01_DOOR_SIUG_W02_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W04_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to Hero's darkness."
+  },
+  "C01_DOOR_SIUG_W04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W06_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to a world on the verge of being consumed by darkness."
+  },
+  "C01_DOOR_SIUG_W06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W07_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to a world that is about to lose harmony and fall to darkness."
+  },
+  "C01_DOOR_SIUG_W07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W08_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W08_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to darkness alone."
+  },
+  "C01_DOOR_SIUG_W08_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W09_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W09_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to Champion's darkness."
+  },
+  "C01_DOOR_SIUG_W09_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W10_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W10_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to Philosopher's darkness."
+  },
+  "C01_DOOR_SIUG_W10_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W11_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W11_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to a darkness produced by living beings."
+  },
+  "C01_DOOR_SIUG_W11_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W12_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W12_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to General's darkness."
+  },
+  "C01_DOOR_SIUG_W12_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W13_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W13_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to Warrior's darkness."
+  },
+  "C01_DOOR_SIUG_W13_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W14_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W14_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to a world where everything is clear—and yet, that leads only to darkness."
+  },
+  "C01_DOOR_SIUG_W14_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W15_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W15_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to a darkness produced by endless desire."
+  },
+  "C01_DOOR_SIUG_W15_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W18_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W18_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to a conflict producing darkness."
+  },
+  "C01_DOOR_SIUG_W18_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_W19_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door to a New World"
+  },
+  "C01_DOOR_SIUG_W19_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense no darkness on the other side of this door."
+  },
+  "C01_DOOR_SIUG_W19_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_SIUG_BATTLE_VH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of Combat"
+  },
+  "C01_DOOR_SIUG_BATTLE_VH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A truly grueling battle awaits beyond this door."
+  },
+  "C01_DOOR_SIUG_BATTLE_VH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  }
+}

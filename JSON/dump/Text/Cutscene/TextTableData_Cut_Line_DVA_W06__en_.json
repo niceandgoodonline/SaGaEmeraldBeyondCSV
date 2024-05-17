@@ -1,0 +1,2270 @@
+{
+  "SUB_W06_WRLD_DIVA_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "This world is known as the Kosmos;\nI imagine one could say each living\nbeing is a universe unto itself."
+  },
+  "SUB_W06_WRLD_DIVA_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "In searching my database, I've learned that\naspects of what we consider 'the heart' are\nlocated in both our hearts <i>and</i> our brains.\fDo you think that means my heart could\nalso be somewhere in this world?"
+  },
+  "SUB_W06_WRLD_DIVA_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "I suspect, my dear, you will find your\nheart in the place you least expect it."
+  },
+  "SUB_W06_EVAR_DIVA_SCAN_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh, there's someone here.\nWe should chat with 'em."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Beg pardon, sir?"
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Blurp! There it is! The foreign body that's\nthrown the entire Kosmos into turmoil!"
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Me? Oh no, you're mistaken: I'm just\na traveler in search of my heart.\nI dinnae intend your world any harm."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "Don't play dumb with me! You are clearly\na foreign body, and that heart story\nsmells like a pile of excreta.\fNow prepare to be excised like\nthe malignant growth you are!"
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear, this is a proper mess;\nI dinnae even understand enough\nabout myself to argue with ye!"
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_050": {
+    "speaker": "Byaku",
+    "text": "Hmm... I'll grant that you don't resemble a\ntypical malignancy, but you're also not\nanything I've seen before.\fYes, of course. Perhaps you're some sort\nof benign growth, or even a—"
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "I am D05-72314, commonly known\nas Songstress Diva No. 5—but ye\ncan simply call me Diva."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_070": {
+    "speaker": "Byaku",
+    "text": "A benign songstress growth? Fascinating!\nYes, well, while benignancies are not subject\nto excision, if this is an attempt at deception,\nyou will pay for it in blood and bile!"
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_080": {
+    "speaker": "Byaku",
+    "text": "I am Byaku, a priest that protects\nthe integrity of the Kosmos."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Do ye know anything about\nmy heart, Byaku?"
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_100": {
+    "speaker": "Byaku",
+    "text": "It is said there is heart within all the Kosmos,\nand yet nowhere within the Kosmos. But I am\nnot among those who say so, for I have never\nseen anything of the sort."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_110": {
+    "speaker": "Byaku",
+    "text": "That said, you clearly appear set on searching\nfor your heart no matter what I say. I am willing\nto help you in this, but as I am in the midst of\nmy rounds, it must wait until I complete them."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "Oh, that'd be grand. I'll just wait here\nuntil your rounds are complete, then."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_130": {
+    "speaker": "Byaku",
+    "text": "No, I'd prefer you to help me.\nCome along, Diva."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_140": {
+    "speaker": "Diva_No5",
+    "text": "I just hope I can be of some\nuse to ye in all this."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_150": {
+    "speaker": "Byaku",
+    "text": "Excellent! Now then, my rounds often take me\nto dangerous places. As my forte is defense,\nI would be pleased if you could assume a more\noffensive role."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_160": {
+    "speaker": "Diva_No5",
+    "text": "I'm to be in charge of combat?\nAye, I can handle that."
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_000_CUT_000_170": {
+    "speaker": "Byaku",
+    "text": "Our first destination is over there,\nso let us be off. Locomotion, ho!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "This is the Digestica, one of our four great\ntemples. At this holy site, substances from\nthe outer worlds are processed and broken\ndown to provide energy to the Kosmos."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "So the Digestica functions\nas a stomach."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "Defending these temples is the primary\nduty for those in the Order of Leukos."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Dear me, this Digestica appears to be\nfunctioning poorly. Color is a bit off,\ndon't you think?"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "Yes, I noticed this as well; an abnormality\nseems to have emerged for some reason.\nWe will need to investigate at once."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "I see something over there."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_000_060": {
+    "speaker": "Byaku",
+    "text": "A foreign body—and the malignant kind!\nYou must excise it at once!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "The malignancies that infiltrate the body\nhide in all manner of places, and seek nothing\nless than the destruction of the Kosmos."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "The malignancies and the poor condition of\nthe Digestica dinnae seem to be related.\nI'm afraid the real problem is elsewhere."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_010_020": {
+    "speaker": "Byaku",
+    "text": "Mmm, yes. You may be right.\nHave you noticed anything else?"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Just those wee oily clumps stuck to\nthe pillars around the Digestica."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_020_000": {
+    "speaker": "Byaku",
+    "text": "Ah, yes! Those are fat globules. While the Kosmos\nrequires them to function, I doubt the Digestica\nwould be able to process so many at once.\nThis may indeed be the anomaly we seek."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "Too many greasy chips\nfor this poor tum."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_020_020": {
+    "speaker": "Byaku",
+    "text": "We must destroy the fats. Let us break them\ninto smaller pieces so they will be easier\nfor the Digestica to process and unload."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_000_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, we'll smash 'em up good!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_005_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "First, we destroy the fats!"
+  },
+  "SUB_W06_GIMK_DIVA_FATCELLXX_010_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "To think that malignancies have infested\neven this most sacred of lands...\nWe must be ever vigilant!"
+  },
+  "SUB_W06_GIMK_DIVA_FATCELLXX_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, let's be proper careful."
+  },
+  "SUB_W06_GIMK_DIVA_FATCELLXX_010_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "That was the last of the fats.\nIf we repair the Digestica now,\nit should resume its normal function."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is the end of your rounds, then?"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_010_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "The end? By the Kosmos, no!\nNow we head to the other temples."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_010_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Then I'll continue my combat duties."
+  },
+  "SUB_W06_EVAR_DIVA_VEINS07_000_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "The flow in this passage has been restored.\nWe can use it to reach our destination."
+  },
+  "SUB_W06_EVAR_DIVA_VEINS07_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "This is a blood vessel then, I believe?\nAnd I'm to traverse it as if I were a\nblood cell? That's magic, it is!"
+  },
+  "SUB_W06_EVAR_DIVA_VEINS07_000_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "Pray cease flapping your mandible\nand come with me."
+  },
+  "SUB_W06_EVAR_DIVA_VEINS07_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "I've not had the experience of swimming\nthrough a vein before; I'm gathering\nheaps of precious data here!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "This is the Respiquary—the temple that\ncontrols the atmosphere of the Kosmos."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "So lungs, then. Oh, but these are\nin rather sad shape as well."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_020": {
+    "speaker": "Bran",
+    "text": "Byaku! How are you today, sir?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "Ah, that's Blan, one of the junior priests.\nHe's been assigned to the Respiquary guard."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "How fares the Respiquary, Blan?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_050": {
+    "speaker": "Bran",
+    "text": "All clear, sir!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "That cannae be true. According to my analysis,\nthese lungs are functioning abnormally. \nJust look at the wind blowing out of them\nif ye need proof of that."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_070": {
+    "speaker": "Byaku",
+    "text": "Of course there's a wind blowing out of it!\nDo you not remember me telling you how the\nRespiquary controls the atmosphere?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_080": {
+    "speaker": "Bran",
+    "text": "Is that weird foreign body\nbothering you, sir!?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Well, that's not very kind."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_100": {
+    "speaker": "Byaku",
+    "text": "That's the diva. Please treat her as\nyou would any of my subordinates."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "Wasn't aware I was\nsubordinate to you, love."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_120": {
+    "speaker": "Byaku",
+    "text": "Also, now that you mention it, the wind\n<i>is</i> blowing a bit more strongly than usual.\nI wonder what that's about."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Ach! We're getting blown away!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "The strength of that wind\nis surely an anomaly."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_010_010": {
+    "speaker": "Bran",
+    "text": "Anomaly, sir! We have an anomaly!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_000_CUT_010_020": {
+    "speaker": "Byaku",
+    "text": "We must investigate this at once.\nTo the Respiquary! "
+  },
+  "SUB_W06_GIMK_DIVA_WIND_STORM01_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "The wind's too strong for us to approach\ndirectly. Best come at it from the sides."
+  },
+  "SUB_W06_GIMK_DIVA_WIND_STORM03_000_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Blast! The wind's too strong to\napproach it from this direction."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_000_000": {
+    "speaker": "Bran",
+    "text": "The Respiquary's condition is irregular.\nIt must be repaired at once."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Perhaps the Kosmos has a cold?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_000_020": {
+    "speaker": "Bran",
+    "text": "Malignancy! We have a malignancy!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "It must have blown in on the wind."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "Let us repair the Respiquary at once.\nGive us a hand, Blan."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_010_010": {
+    "speaker": "Bran",
+    "text": "Sir, yes, sir!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_020_000": {
+    "speaker": "Byaku",
+    "text": "We merely slapped a bandage over the problem,\nbut that should keep it working for a while."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "Is your function restorative\nin nature then, love?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_020_020": {
+    "speaker": "Byaku",
+    "text": "Those born into the priesthood have a sacred\nduty to protect the Kosmos, and have been\nblessed with the power to repair the temples.\fOne could say we are the chosen elite,\nbeings selected by the very Kosmos itself!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_020_030": {
+    "speaker": "Bran",
+    "text": "Thank you for the assistance, sir!\nI can take it from here!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_010_CUT_020_040": {
+    "speaker": "Byaku",
+    "text": "Good, because I must return to my rounds—\nand between the events at the Digestica\nand this, I fear some evil is afoot."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh, a brain! But here's a bit of an odd thing:\nits functions include those popularly applied\nto the 'heart' by most folks."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "This is the Cognitheon—the center of the Kosmos,\nand the place that controls all other holy sites.\nAs I feared, there is an anomaly here.\fWe must find and excise it with all speed,\nfor if the Cognitheon were to shut down\nthe entire Kosmos would descend into chaos. "
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Shouldn't there be a guard here?\n'Cause I dinnae see one."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "This is the territory of a contemporary\nof mine in the priesthood named Safed.\nBut as for where he is..."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Repairing the Cognitheon should be\nour top priority. The heart I seek is\nlikely to be found here."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_050": {
+    "speaker": "Byaku",
+    "text": "Indeed. Whatever this anomaly is, it appears\nto have severed the Cognitheon's connection\nto the circuits which supply its power."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "A loss of brain function is a proper issue\nfor living things! We'd best get a move\non repair it at once."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_070": {
+    "speaker": "Byaku",
+    "text": "Oh dear. I have never seen such a thing.\nI'm not even sure how to approach this..."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "There tend to be patterns to errors in\nelectrical transmissions. Let's see if\nyou and me can figure it out, then."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Right then, I assume those objects surrounding\nthe Cognitheon are electrical circuits—and the\ncircuits across from us look different."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "While a small amount of electricity\nis flowing over there, its range is\ninsufficient to reach the Cognitheon."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, so we should try to link those circuits\nto each other and create a flow of electricity\nback to the Cognitheon!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_000_CUT_010_020": {
+    "speaker": "Byaku",
+    "text": "Interesting. Yes, that just might work."
+  },
+  "SUB_W06_DECO_DIVA_NEURONHEALTHY_ALONE0_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Let's join this circuit to\nthe adjacent one, then."
+  },
+  "SUB_W06_DECO_DIVA_NEURONHEALTHY_ALONE0_000_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "A fine idea. But first, we must excise\nthe malignancies in the area."
+  },
+  "SUB_W06_DECO_DIVA_NEURONHEALTHY_ALONE0_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Excision complete.\nNow on to those circuits!"
+  },
+  "SUB_W06_DECO_DIVA_NEURONHEALTHY_ALONE0_000_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "Not all of the circuits are operating.\nSelect the ones that electricity seems\nable to flow through, then link them."
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_ALONE1A_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach, we've got no juice—I dinnae\nthink this circuit is functional.\nBest we start again."
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_ALONE1B_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "The electricity is flowing! Now we\njust need to do this over and over\nuntil we reach the Cognitheon."
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_ALONE2A_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach, we've got no juice—I dinnae\nthink this circuit is functional.\nBest we start again."
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_ALONE3A_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach, we've got no juice—I dinnae\nthink this circuit is functional.\nBest we start again."
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_ALONE3B_000_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "All right, we have electricity flowing all\nthe way to the Cognitheon. Now to restore\npower to the main part itself."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_005_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "We should link circuits together until\nelectricity reaches the Cognitheon."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Can ye fix it now?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "That should be no problem."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Aye, then I'll get to\nexcising the malignancies."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "My thanks."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Repairs complete, love."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "I could not have done it without you,\nDiva. You have my thanks."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh my days! Someone's lying\non the ground over there!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "Safed!?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_040": {
+    "speaker": "Safed",
+    "text": "Is th-that you, Byaku...?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_050": {
+    "speaker": "Byaku",
+    "text": "Heavens, man! You're hurt!\nWhat happened to you!?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Dear me, his life signs are weakening.\nPlease try to hold on, Mr. Safed!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_070": {
+    "speaker": "Safed",
+    "text": "I'm sorry... I failed to defend the\nCognitheon, and now...I'm done for...\nI leave the Cognitheon...in your hands..."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_080": {
+    "speaker": "Byaku",
+    "text": "Safed, no! Safeeed!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_090": {
+    "speaker": "Diva_No5",
+    "text": "That wound must have been\ninflicted by a malignancy."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_100": {
+    "speaker": "Byaku",
+    "text": "Safed was the most powerful member of the\npriesthood; no mere malignancy could have\never laid him so low."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_110": {
+    "speaker": "Diva_No5",
+    "text": "Then who could have harmed him so?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_120": {
+    "speaker": "Byaku",
+    "text": "......"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_130": {
+    "speaker": "Byaku",
+    "text": "We must visit the next temple."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_010_CUT_010_140": {
+    "speaker": "Diva_No5",
+    "text": "Aye, of course."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "A heart, is it? Perhaps my own\ncan be found here, then?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_000_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "The Circuleum has completely stopped!\nIf we don't do something, all activity\nin the Kosmos will soon cease—but I\nhave absolutely no idea WHAT to do!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "All hope's not lost, love. If the Circuleum\nfunctions as a heart, then perhaps it will\nrespond to treatments like cardiac massage."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Basically, if we ram into the Circuleum,\nthe shockwaves may restart it. Can't say\nI've ever done anything like this before,\nbut I've got no better ideas, sadly."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_000_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "That sounds like a rather fanciful idea,\nbut even a thin hope is better than none."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "We've nae time for discussion.\nLet's hurry!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_DASH_ATTACK_POS1_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "We build up momentum from here\nand ram into the Circuleum!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_DASH_ATTACK_POS1_000_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Understood."
+  },
+  "SUB_W06_GIMK_DIVA_HEART_HIT_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "That shockwave wasn't strong enough.\nBest start from farther away."
+  },
+  "SUB_W06_GIMK_DIVA_HEART_HIT_000_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Curses! The malignancies have found us!"
+  },
+  "SUB_W06_GIMK_DIVA_HEART_HIT_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "And again!"
+  },
+  "SUB_W06_GIMK_DIVA_HEART_HIT_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "We did it, love!\nThe Circuleum's beating again!"
+  },
+  "SUB_W06_GIMK_DIVA_HEART_HIT_010_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Good. Now stand back while I mend it."
+  },
+  "SUB_W06_GIMK_DIVA_HEART_HIT_020_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "That shockwave may have been a wee bit\ntoo strong, but at least the Circuleum is\nbeating again."
+  },
+  "SUB_W06_GIMK_DIVA_HEART_HIT_020_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Good. Now stand back while I mend it."
+  },
+  "SUB_W06_GIMK_DIVA_HEART_HIT_020_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear! Malignancies!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Can you mend it, love?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "I believe so, yes."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_000": {
+    "speaker": "Valkoinen",
+    "text": "Fine work on your rounds today, Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "Thank you, High Priest Valkoinen."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Look there! That’s the high priest.\nByaku reports to him, I think."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "May I ask where you've been, Your Eminence?\nI thought the Circuleum was your post."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_040": {
+    "speaker": "Valkoinen",
+    "text": "I had urgent business elsewhere.\nHow are the other temples looking?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_050": {
+    "speaker": "Byaku",
+    "text": "There were anomalies in all of them.\nWe took emergency measures in each case,\nbut the situation remains terribly unstable.\nAnd I fear there is even worse news..."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_060": {
+    "speaker": "Byaku",
+    "text": "Safed is dead. Murdered in cold blood\nby an unknown assailant."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_070": {
+    "speaker": "Valkoinen",
+    "text": "Mmm. I'm sorry to hear it."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_080": {
+    "speaker": "Byaku",
+    "text": "......"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_090": {
+    "speaker": "Byaku",
+    "text": "May I ask a question, sir?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_100": {
+    "speaker": "Valkoinen",
+    "text": "If you must."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_110": {
+    "speaker": "Byaku",
+    "text": "Why did you try to destroy the temples?\nAnd why did you take Safed's life!?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "What are ye asking him for?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_130": {
+    "speaker": "Valkoinen",
+    "text": "That is a dangerous accusation to be\nbandying about without proof, Byaku.\nMost dangerous indeed."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_140": {
+    "speaker": "Byaku",
+    "text": "But I do have proof, Your Eminence.\nFor while malignancies caused the anomalies\nat the temples, it is obvious the damage\nwas inflicted with great purpose."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_150": {
+    "speaker": "Byaku",
+    "text": "Additionally, Safed's wounds were\nclearly not the work of a malignancy,\nbut of a fellow priest."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_160": {
+    "speaker": "Byaku",
+    "text": "And the only one who would have had the\nopportunity to lay him low was you,\nHigh Priest Valkoinen!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_170": {
+    "speaker": "Valkoinen",
+    "text": "Hmph! A fine deduction, Byaku. But what you\nfail to grasp is that all I have done was in\naccordance with the will of the Kosmos."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_180": {
+    "speaker": "Byaku",
+    "text": "How can you possibly claim such!?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_190": {
+    "speaker": "Byaku",
+    "text": "...A malignancy? By the Kosmos!\nThe high priest has become malignant!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_200": {
+    "speaker": "Valkoinen",
+    "text": "And now, Byaku, it is the will of the\nKosmos that you join Safed in death."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_010_210": {
+    "speaker": "Diva_No5",
+    "text": "I cannae allow that!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_000": {
+    "speaker": "Valkoinen",
+    "text": "The Kosmos has begun to initiate its own\nruination. Now let us see if you can resist\nwhen your new destiny is bestowed upon\nyou by the universe itself!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "I dinnae understand what\nis happening here."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_020": {
+    "speaker": "Byaku",
+    "text": "I've never heard of a benignancy turning into\na malignancy, nor of the Kosmos initiating its\nown ruination. But I also cannot dismiss such\nclaims as mere tomfoolery."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_030": {
+    "speaker": "Byaku",
+    "text": "My rounds are now finished, Diva.\nI am deeply grateful for your help,\nand sorry to have imposed upon you."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_040": {
+    "speaker": "Diva_No5",
+    "text": "So what'll ye do now, love?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_050": {
+    "speaker": "Byaku",
+    "text": "Maintaining peace within the Kosmos is my\nsacred duty. Even if I must do it alone,\nI will never cease my vigil."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_060": {
+    "speaker": "Diva_No5",
+    "text": "In that case, I'm coming with ye;\nmore malignancies could strike at\nany moment, and ye'll need the help."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_080": {
+    "speaker": "Byaku",
+    "text": "Are you certain? Though I cannot begin\nto imagine what will happen next, I fear\nyou will be placing your life in danger."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_090": {
+    "speaker": "Diva_No5",
+    "text": "Oh, it's no problem for a mechanical\nlass like me. Now then, where to?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_100": {
+    "speaker": "Byaku",
+    "text": "We go to the place where priests are\nborn in search of further information."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_010_CUT_020_110": {
+    "speaker": "Diva_No5",
+    "text": "Understood."
+  },
+  "SUB_SUB_W06_EVAR_DIVA_TRACHEA_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Aye, it appears I could exit\nthis world through here."
+  },
+  "SUB_SUB_W06_EVAR_DIVA_TRACHEA_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I've got more yet to do here."
+  },
+  "SUB_SUB_W06_EVAR_DIVA_TRACHEA_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Time to be off, then!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Behold Thymus, the place from which we\npriests hail. Most of the benignancies\nthat live in the Kosmos were born here."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "As many benignancies still live here now,\none may know more about what's happening."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I cannae see this large population\nof benignancies, though."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "Something is wrong here.\nBe on guard, Diva."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Threat level elevated!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_000_050": {
+    "speaker": "Byaku",
+    "text": "Malignancies... And so many!\nHow did they manage to break in here?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "I'm afraid they have suffered the\nsame fate as your high priest:\ntransforming into malignancies!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_000_070": {
+    "speaker": "Byaku",
+    "text": "They're attacking!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "What can this mean? Could there possibly be\nan abnormality within the Kosmos <i>itself</i>?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "There's still a malignancy\nover there, love."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_020": {
+    "speaker": "Erytheia",
+    "text": "No, wait! I'm not malignant!\nAre you two still normal?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "Yes, we remain benign."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_040": {
+    "speaker": "Erytheia",
+    "text": "You're a priest, right? Thank the Kosmos!\nNot sure about the weird growth standing\nnext to you there, but..."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Dinnae realize I was such a\nstrange sight around here..."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_060": {
+    "speaker": "Byaku",
+    "text": "You there. You're a carrier, yes?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "What's a carrier?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_080": {
+    "speaker": "Byaku",
+    "text": "Skittish cowards who run about dodging\nmalignancies as they transport things\nfrom one place to another."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_090": {
+    "speaker": "Erytheia",
+    "text": "Oh, that's charming, especially coming from the\nmouth of someone whose high priest was just killed.\nAlso, if you two are all that stands between chaos\nand the Kosmos, I think we're all screwed."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_100": {
+    "speaker": "Byaku",
+    "text": "How dare you!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_110": {
+    "speaker": "Diva_No5",
+    "text": "I've not heard your name yet,\nMs. Carrier, ma'am."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_120": {
+    "speaker": "Erytheia",
+    "text": "Erytheia."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_130": {
+    "speaker": "Diva_No5",
+    "text": "This is Byaku. He's a priest."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_140": {
+    "speaker": "Erytheia",
+    "text": "Do you even know what you were fighting\nwhen you battled those malignancies earlier?\nThey used to be benign!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_150": {
+    "speaker": "Byaku",
+    "text": "Oh, we are very much aware; when the\nhigh priest turned malignant earlier,\nwe were forced to end his life."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_160": {
+    "speaker": "Erytheia",
+    "text": "When the... Oh. Oh wow."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_170": {
+    "speaker": "Byaku",
+    "text": "It would seem they all began to change after\nhearing a divine message from the Kosmos."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_180": {
+    "speaker": "Byaku",
+    "text": "The high priest also told us that the Kosmos\nhad initiated its own ruination. Do you know\nanything about that, Carrier?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_190": {
+    "speaker": "Erytheia",
+    "text": "No, but it wouldn't surprise me if the Kosmos\ndecided to destroy itself. I mean, just take\na look around. Things are <i>bad</i>."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_200": {
+    "speaker": "Diva_No5",
+    "text": "You're saying the Kosmos is transforming\nbenignancies into malignancies in order\nto destroy itself from within, then?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_210": {
+    "speaker": "Erytheia",
+    "text": "Pretty much—but I'm not sure the Kosmos\nactually knows that's what it's doing."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_220": {
+    "speaker": "Diva_No5",
+    "text": "So it's being controlled\nby something else?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_230": {
+    "speaker": "Byaku",
+    "text": "It seems someone has interfered with\nthe sacred will of the Kosmos and is\nnow pulling the strings, as it were."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_240": {
+    "speaker": "Diva_No5",
+    "text": "I dinnae think it possible to override\nthe will of an entire world.\nWho could do such a thing?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_250": {
+    "speaker": "Erytheia",
+    "text": "...Canker."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_260": {
+    "speaker": "Byaku",
+    "text": "The legendary malignancy that deceived God,\ntook control of the masses, and destroyed\nthe world? That's a fairy tale for zygotes!\nCanker doesn't actually exist!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_270": {
+    "speaker": "Erytheia",
+    "text": "Ah, but all folklore has foundation in fact.\nWhy can't it actually be a real event\nthat occurred in the long-distant past?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_280": {
+    "speaker": "Byaku",
+    "text": "If we assume for the moment that you are\ncorrect, I suppose the return of Canker would\nbe enough to explain these abnormalities..."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_290": {
+    "speaker": "Diva_No5",
+    "text": "Then let's get out there and give\nthis Canker a proper thrashing!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_300": {
+    "speaker": "Byaku",
+    "text": "You do not understand. Canker is immortal.\nIf he truly has returned to this world,\nthere is nothing we can do to stop him."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_310": {
+    "speaker": "Erytheia",
+    "text": "Actually, there might be one way—although\nit would involve a priest like you working\nvery closely with a carrier like me."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_320": {
+    "speaker": "Byaku",
+    "text": "Absurd! No priest would ever join forces\nwith a mere carrier!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_330": {
+    "speaker": "Erytheia",
+    "text": "Figured you'd say that. Well, good luck\nhandling things by yourself, then!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_340": {
+    "speaker": "Byaku",
+    "text": "W-wait!\fIt is my sworn duty to protect this world.\nSo for the sake of that duty, I will—just this\nonce—debase myself to a level where I cooperate\nwith your lowly self."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_350": {
+    "speaker": "Erytheia",
+    "text": "No. Please. Stop, I can't take\nso much flattery all at once."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_360": {
+    "speaker": "Erytheia",
+    "text": "Anyway, I'll take that as a yes and go on\nahead. When you're ready, come outside\nso I can explain the details."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_370": {
+    "speaker": "Diva_No5",
+    "text": "You seem to be in a proper snit with Erytheia,\nlove—but don't we need her to get this whole\nproblem sorted?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_000_CUT_010_380": {
+    "speaker": "Byaku",
+    "text": "Spare me your chiding! I trust Erytheia like\nI trust a cyst, yet we have no other leads.\nBut the moment she does anything strange...\nyou know what to do."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_000_000": {
+    "speaker": "Erytheia",
+    "text": "Do you understand what this clump is?"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "What!? That wasn't here before!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear. This one is showing all the\nvisual characteristics of a tumor—\nAND I get energy readings from it."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_000_030": {
+    "speaker": "Erytheia",
+    "text": "This is one of Canker's roots. He uses these\nto suck the life force of the Kosmos from its\ntemples, which is what allows him to grow."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "Wait... Something's amiss at the temples!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_000": {
+    "speaker": "Erytheia",
+    "text": "Because of Canker, the balance of the\nentire Kosmos has begun to collapse.\nWe don't have much time."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "So what do we do, then?"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_020": {
+    "speaker": "Erytheia",
+    "text": "We destroy Canker with antibodies."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_050": {
+    "speaker": "Byaku",
+    "text": "Antibodies? What are those?"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_060": {
+    "speaker": "Erytheia",
+    "text": "Holy powers that have been sealed within\nthe four great temples—ones said to be\neffective against even the power of Canker."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_070": {
+    "speaker": "Erytheia",
+    "text": "Also, I find it very odd that you—a priest—\nare unaware of this. I thought it was a secret\nthat was passed down through your order."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_080": {
+    "speaker": "Byaku",
+    "text": "Not nearly as odd as the fact that it's\nknown by a base carrier such as yourself!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_090": {
+    "speaker": "Erytheia",
+    "text": "Transmitting info is a carrier's job;\nwe tend to pick up whispers along the way."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_100": {
+    "speaker": "Byaku",
+    "text": "Yes, well, how do you intend to use these\nantibodies against Canker when we don't\neven know where the creature is?"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_110": {
+    "speaker": "Erytheia",
+    "text": "Easy! We pump 'em into his roots\nat the sides of the temples."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "Turning the lug's own roots against him!\nOh, but that's brilliant."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_130": {
+    "speaker": "Erytheia",
+    "text": "You two can choose which temple to start with,\nbut we need to do this thing fast."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_140": {
+    "speaker": "Erytheia",
+    "text": "Oh, and one more thing: we need the power\nof prayer to unseal the antibodies,\nwhich is where Byaku comes in."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_000_CUT_010_150": {
+    "speaker": "Byaku",
+    "text": "Ah, er, yes. Very well."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_000": {
+    "speaker": "Erytheia",
+    "text": "It's time to extract the antibodies.\nGet to praying, Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Leave it to me."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "......"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "O ye who seek the antibodies...\nI am the Circuleum."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_040": {
+    "speaker": "Erytheia",
+    "text": "That's the voice of the Circuleum.\nIt's controlling Byaku now."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_050": {
+    "speaker": "Byaku",
+    "text": "Why do you seek this power?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "I need more power."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "I want to defeat Canker."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I want to save the Kosmos."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_090": {
+    "speaker": "Byaku",
+    "text": "Thy request is granted."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_020_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Wonderful! Let's pump these\nantibodies into Canker's root."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Now we pump in\nthe antibodies."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_010_CUT_000_010": {
+    "speaker": "Erytheia",
+    "text": "We've been spotted by malignancies!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_010_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "Diva? If you please?"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Leave it to me!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_010_CUT_020_000": {
+    "speaker": "Erytheia",
+    "text": "Canker's root is shriveling."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_HEART_010_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "Then let's pop off to the next\ntemple quick as anything!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_000": {
+    "speaker": "Erytheia",
+    "text": "It's time to extract the antibodies.\nGet to praying, Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Leave it to me."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "......"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "O ye who seek the antibodies...\nI am the Digestica."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_040": {
+    "speaker": "Erytheia",
+    "text": "We're now hearing the voice of the\nDigestica speaking through Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_050": {
+    "speaker": "Byaku",
+    "text": "Display to me thine wisdom so I might\ndeem you worthy of my antibodies."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Right then! Bring it on!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_070": {
+    "speaker": "Byaku",
+    "text": "Full is truth, and hungry is false.\nFull, hungry, full, hungry expresses 10.\nYou supplicants must now express 100."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_080": {
+    "speaker": "Erytheia",
+    "text": "I think it wants us to figure out what\ncombination of the words 'full' and 'hungry'\nwill combine to express the number 100."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "If full, hungry, full, hungry is 10,\nthen 100 would be..."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Hungry, full, hungry, full."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "Full, hungry, full, hungry, hungry."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "Full, full, hungry, hungry, full, hungry, hungry."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Full, hungry, full."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_140": {
+    "speaker": "Byaku",
+    "text": "Thou art lacking in wisdom."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_150": {
+    "speaker": "Diva_No5",
+    "text": "Oh, what a shame. I was mistaken."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_160": {
+    "speaker": "Erytheia",
+    "text": "Happens to the best of us!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_170": {
+    "speaker": "Byaku",
+    "text": "O ye who are bereft of wisdom,\nshow me instead thine might!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_180": {
+    "speaker": "Diva_No5",
+    "text": "Can do, love!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_190": {
+    "speaker": "Byaku",
+    "text": "You possess great wisdom."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_200": {
+    "speaker": "Diva_No5",
+    "text": "My calculations were correct."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_210": {
+    "speaker": "Erytheia",
+    "text": "Boy, you really know your stuff!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_220": {
+    "speaker": "Byaku",
+    "text": "Thy request is granted.\nThe antibodies are yours."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_000_230": {
+    "speaker": "Diva_No5",
+    "text": "Now let's pump these antibodies\ninto Canker's root."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "Your might is impressive, supplicant.\nThe antibodies are yours."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_020_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Now let's pump these antibodies\ninto Canker's root."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_STOMACH_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Let's pump in the antibodies."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_STOMACH_010_CUT_010_000": {
+    "speaker": "Erytheia",
+    "text": "Canker's root has withered!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_STOMACH_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "On to the next temple."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Blan!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_000_010": {
+    "speaker": "Bran",
+    "text": "S-save me, sir! It huuurts!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "I am sorry, Blan, but those who have become\nmalignancies can never again be benign."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_000_030": {
+    "speaker": "Bran",
+    "text": "Y-yes, of course... Forgive me, sir.\nI...I won't cause you any trouble."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "Blan, no! What are you doing!?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_000_050": {
+    "speaker": "Bran",
+    "text": "Farewell, Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_000_060": {
+    "speaker": "Byaku",
+    "text": "BLAAAN!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Was that a bit of cellular apoptosis?\nIt felt...different, somehow."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_010_000": {
+    "speaker": "Erytheia",
+    "text": "It's time to extract the antibodies.\nGet to praying, Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "Leave it to me."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_010_020": {
+    "speaker": "Byaku",
+    "text": "......"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "O ye who seek the antibodies...\nI am the Respiquary."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_010_040": {
+    "speaker": "Erytheia",
+    "text": "We're now hearing the voice of the\nRespiquary speaking through Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_010_050": {
+    "speaker": "Byaku",
+    "text": "To ye I bestow the antibodies."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_020_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Let's bring these antibodies\nto Canker's root."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_LUNGS_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I'm pumping in the antibodies."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_LUNGS_010_CUT_000_010": {
+    "speaker": "Erytheia",
+    "text": "The malignancies will get in the way.\nDeal with them first!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_LUNGS_010_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "Now's our chance."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_LUNGS_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I'm on it!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_LUNGS_010_CUT_020_000": {
+    "speaker": "Erytheia",
+    "text": "Canker is weakening... It's working!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_LUNGS_010_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "On to the next temple."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Safed! You're alive!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "That's not Safed. It's a malignancy."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_000_020": {
+    "speaker": "Safed",
+    "text": "Kill... Destroy..."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "Alas, poor Safed. He deserves to be at peace.\nMight I ask you to grant him that?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Aye. I can do that."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_010_000": {
+    "speaker": "Erytheia",
+    "text": "It's time to extract the antibodies.\nGet to praying, Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "Leave it to me."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_010_020": {
+    "speaker": "Byaku",
+    "text": "......"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "O ye who seek the antibodies...\nI am the Cognitheon."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_010_040": {
+    "speaker": "Erytheia",
+    "text": "We're now hearing the voice of the\nCognitheon speaking through Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_010_050": {
+    "speaker": "Byaku",
+    "text": "To ye I bestow the antibodies."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_020_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Let's take these antibodies\nto Canker's root."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_BRAIN_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Let's pump these antibodies\ninto Canker's root."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_BRAIN_010_CUT_010_000": {
+    "speaker": "Erytheia",
+    "text": "The root withered! It's working!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_BRAIN_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "On to the next temple."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_BRAIN_020_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "That was the last of the antibodies."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_BRAIN_020_CUT_000_010": {
+    "speaker": "Erytheia",
+    "text": "I no longer sense the presence of Canker."
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_BRAIN_020_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "We have done it! Huzzah!"
+  },
+  "SUB_W06_EVAR_DIVA_CANCER_BRAIN_020_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Something's not right. Look!"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I thought we mended this temple.\nWhy is it so unhealthy, then?"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "And something is emerging\nfrom the inside!"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "Canker!? But we defeated him!"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_000_030": {
+    "speaker": "Erytheia",
+    "text": "He's metastasized; his physical form\nhas already found refuge here."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Ach, and we've no more antibodies\nwith which to fight it!"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_000_050": {
+    "speaker": "Erytheia",
+    "text": "Yes, but the antibodies have weakened him;\nyou should be able to destroy him now."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Aye, then I'll give this thing\na proper throwing down!"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "It's done."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_010": {
+    "speaker": "Erytheia",
+    "text": "No. It's not."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Nae, Canker's dead as a doornail, love.\nI'm detecting no life signs."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_030": {
+    "speaker": "Erytheia",
+    "text": "Oh, he's dead all right...for the moment."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_040": {
+    "speaker": "Byaku",
+    "text": "Don't get all cryptic on me!\nWhat's going on here!?"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_050": {
+    "speaker": "Erytheia",
+    "text": "Canker is an immortal malignancy that\nalways returns to life eventually."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Then this was all for nothing?"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_070": {
+    "speaker": "Erytheia",
+    "text": "No. The corpse must be removed from\nthe Kosmos so it can never again return."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_080": {
+    "speaker": "Byaku",
+    "text": "Madness! If we leave the Kosmos, we may never\nbe able to return! And even if we wanted to\ntake the risk, how can we possibly transport\nso large a corpse!?"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_090": {
+    "speaker": "Erytheia",
+    "text": "You? You won't do anything.\nBut me? Well, I'm a carrier."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "Nae, Erytheia!"
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_110": {
+    "speaker": "Erytheia",
+    "text": "Needless to say, this will be my final task.\nI'll head out right away."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_120": {
+    "speaker": "Byaku",
+    "text": "Carri... Nay, Erytheia. Thank you.\nAnd please know that I am sorry."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_130": {
+    "speaker": "Erytheia",
+    "text": "What's gotten into you, Byaku?\nThis isn't like you at all."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_140": {
+    "speaker": "Erytheia",
+    "text": "Thanks for all your help as well,\nDiva. Be well...and goodbye."
+  },
+  "SUB_W06_EVAR_DIVA_ORGAN_LAST_PART_000_CUT_010_150": {
+    "speaker": "Diva_No5",
+    "text": "Farewell to ye, Erytheia—\nand cheers for everything."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_010_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Might we please hurry this along?"
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_010_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Is it time for you to go?"
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_010_CUT_000_011": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I'm afraid so.\nCheers to ye, Byaku."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_010_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "A part of me wishes I could go with you,\nbut alas, my priestly duties require me\nto remain here and protect the Kosmos."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Thanks to ye and your order preserving the\nintegrity of this immune system, I was able\nto gather a great deal of lovely data."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_010_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "I understood very little of that,\nbut I hope it somehow helps you\nfind your missing heart."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_010_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Be well, Byaku. Ta!"
+  },
+  "SUB_W06_EVAR_DIVA_FIRST_CONTACT_100_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Then let's be off."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "What are those things growing\naround the temple, then?"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_020_000": {
+    "speaker": "Byaku",
+    "text": "Those are the mucolisks. It is their duty to absorb\nthings which have been drawn into the Kosmos\nand transport them to the Digestica."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "Ah, mucous membranes. Also,\nthe mucolisks there seem to be\noperating a wee bit abnormally."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_020_020": {
+    "speaker": "Byaku",
+    "text": "Yes, something certainly seems to be amiss.\nPerhaps they have been overloaded by excessive\nactivity? This would also explain why the\nDigestica is in such poor condition."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear, the Kosmos is having a spot of\nindigestion. How are we to mend this?"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_020_040": {
+    "speaker": "Byaku",
+    "text": "Fortunately, some of the mucolisks seem to\nbe functioning normally. Let us attempt to\nharvest a bit of healthy mucus from them."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_030_000": {
+    "speaker": "Diva_No5",
+    "text": "Those mucolisks seem to be functioning\nproperly. So we harvest their mucus,\nand then what happens?"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_030_010": {
+    "speaker": "Byaku",
+    "text": "We culture the harvested mucus in the Digestica,\nwhich will send it back out to the mucolisks.\nAbsorbing this new healthy mucus should bring\nthem back to their normal selves. "
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_030_020": {
+    "speaker": "Diva_No5",
+    "text": "Ah, I see. Right then!\nLet's start gathering healthy mucus."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_030_030": {
+    "speaker": "Byaku",
+    "text": "Just watch for the overloaded mucolisks!\nThey'll absorb you if you get too close."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_100_CUT_030_040": {
+    "speaker": "Diva_No5",
+    "text": "That sounds terrible, it does!"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_105_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Go harvest mucus from the functioning mucolisks,\nbut watch out for the overloaded ones!\nThey'll absorb you if you get too close."
+  },
+  "SUB_W06_GIMK_DIVA_DAMAGE_PILLAR_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This here's the last."
+  },
+  "SUB_W06_GIMK_DIVA_DAMAGE_PILLAR_010_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Look out! A malignancy!"
+  },
+  "SUB_W06_GIMK_DIVA_DAMAGE_PILLAR_010_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I've got it!"
+  },
+  "SUB_W06_GIMK_DIVA_DAMAGE_PILLAR_010_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "We should have enough mucus now."
+  },
+  "SUB_W06_GIMK_DIVA_DAMAGE_PILLAR_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Then let's get back\nto the Digestica."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_110_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Now the power of the Digestica will cultivate\nthe mucus and send it out to the mucolisks.\nThat should be enough to restore them."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_110_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "With the mucolisks functioning normally,\nthe Digestica is quite healthy again.\nBut what overloaded those mucolisks\nto begin with?"
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_110_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "I imagine they were reacting to an excessive—\nand unknown—stimulus. We will need to perform\na full investigation at a later time."
+  },
+  "SUB_W06_EVAR_DIVA_STOMACH_110_CUT_010_020": {
+    "speaker": "Byaku",
+    "text": "For now, we continue our rounds."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "The Respiquary is the temple that regulates\nthe atmosphere of the Kosmos. We should find\nmy subordinate Blan somewhere around here."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh! These are lungs, then."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_000_020": {
+    "speaker": "Bran",
+    "text": "We have a serious problem here, sir!\nA malignancy lurks in the alveoli!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "What!? Which one!? Where!?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_000_040": {
+    "speaker": "Bran",
+    "text": "I'm not entirely sure, sir!\nProbably one of the unhealthy ones?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "The alveoli must be these air cells\nthat surround the temple."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "The darker alveoli are operating abnormally,\nlikely due to a malignancy in their midst."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "I should investigate them one by one\nand see what I'm able to find."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_010_020": {
+    "speaker": "Bran",
+    "text": "Look at this foreign body strolling around\nlike she owns the place! Should I take her\nout with extreme prejudice, sir!?"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "Easy, Blan. She is my guardian—and while\nshe may be a foreign body, I trust she knows\nabout that of which she speaks."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_100_CUT_010_040": {
+    "speaker": "Bran",
+    "text": "Understood, sir. Let's get started!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_105_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "If we check each alveoli in turn,\nwe'll find the malignancy."
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "I don't see any around here.\nAny luck with you, Blan?"
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_010": {
+    "speaker": "Bran",
+    "text": "It must be closer to the Respiquary."
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_020": {
+    "speaker": "Bran",
+    "text": "It might be further from the Respiquary."
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_030": {
+    "speaker": "Bran",
+    "text": "It has to be somewhere on the side\ncloser to the Cognitheon."
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_040": {
+    "speaker": "Bran",
+    "text": "It could be somewhere on the side\ncloser to the Digestica."
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_050": {
+    "speaker": "Bran",
+    "text": "I found the malignancy, sir!"
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Time to excise it!"
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "We're done now, aye?"
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_080": {
+    "speaker": "Bran",
+    "text": "Hang on... Oh yeah, I think there's\nstill a malignancy around here, sir."
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Jinks! We've got to find it."
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_100": {
+    "speaker": "Bran",
+    "text": "I sense no more malignancies, sir.\nI think we excised them all."
+  },
+  "SUB_W06_DECO_DIVA_HIDE_ENEMY_000_CUT_000_110": {
+    "speaker": "Byaku",
+    "text": "Then all that's left to do is\nrestore the Respiquary itself."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_110_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "I will revive the Respiquary.\nLend me your aid, Blan."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_110_CUT_000_010": {
+    "speaker": "Bran",
+    "text": "Of course, sir!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_110_CUT_010_000": {
+    "speaker": "Bran",
+    "text": "Everything should be fine now, sir!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_110_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "Still, it's unusual for malignancies to\nattack <i>around</i> the Respiquary instead\nof simply assaulting it directly."
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_110_CUT_010_020": {
+    "speaker": "Bran",
+    "text": "It's almost like they're learning, sir!\nWhich is VERY disturbing!"
+  },
+  "SUB_W06_EVAR_DIVA_LUNGS_110_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, that sounds proper frightening.\nLet's get to the next temple, then."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh, the heart! How lovely."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "This is the Circuleum—that which maintains the\nvery life of the Kosmos. It is a temple guarded\nby our High Priest Valkoinen himself."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "Your Eminence! Are you here!?\nIt's Byaku, I've come on my rounds!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Got someone over there, love."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "Gah! Malignancies!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_010_000": {
+    "speaker": "Valkoinen",
+    "text": "Byaku, are you all right?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "High Priest Valkoinen!\nWh-what happened here?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_010_020": {
+    "speaker": "Valkoinen",
+    "text": "We were attacked by a pack of malignancies.\nI'm excising them as fast as I am able,\nbut there are simply too many to deal with.\nYou must lend me your aid!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "I'll take care of them, sir!\n...Diva? Take care of them."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Right away, love!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "Excision complete."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_020_010": {
+    "speaker": "Valkoinen",
+    "text": "You are quite the potent warrior, friend.\nBut who are you, exactly?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_020_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm Songstress Diva No. 5,\nand I'm Byaku's guardian."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_020_030": {
+    "speaker": "Valkoinen",
+    "text": "Well then, Diva, I think I could make\nuse of your particular brand of help.\nWill you hear my request? "
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_020_040": {
+    "speaker": "Diva_No5",
+    "text": "I'll do my best to sort it, sir."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_020_050": {
+    "speaker": "Valkoinen",
+    "text": "As you have no doubt observed, there is an\nabnormality in the Circuleum. I would like\nto stop nibbling around the edges and deal\nwith the problem at its source."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_020_060": {
+    "speaker": "Diva_No5",
+    "text": "So those malignancies we fought\nweren't the problem, then?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_020_070": {
+    "speaker": "Valkoinen",
+    "text": "No, the abnormality has a different source.\nLook there, if you would."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_000": {
+    "speaker": "Byaku",
+    "text": "Thymus is enveloped in a wall of fat!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "Thymus, is it? Named after the\nlymphoid organ, I suspect."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_020": {
+    "speaker": "Byaku",
+    "text": "Thymus is the homeland of all\nwho dwell within the Kosmos. "
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_030": {
+    "speaker": "Valkoinen",
+    "text": "Every day, new citizens are born in Thymus.\nThe work they do serves as a major power\nsource for the Circuleum."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_040": {
+    "speaker": "Valkoinen",
+    "text": "Sadly, the sudden appearance of that wall\nis interfering with their activities. "
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_050": {
+    "speaker": "Diva_No5",
+    "text": "I cannae see through that wall of fat,\nbut your comrades are trapped inside it?\nWee bit gross, that. How do I free them?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_060": {
+    "speaker": "Valkoinen",
+    "text": "With these."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_070": {
+    "speaker": "Diva_No5",
+    "text": "Mitochondria?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_080": {
+    "speaker": "Valkoinen",
+    "text": "You seem to know a great deal about\nthe inner workings of the Kosmos, Diva!\fBut yes, if you smear these mitochondria\nclockwise around the entire wall,\nthat should take care of the matter."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_090": {
+    "speaker": "Diva_No5",
+    "text": "Then I'll go do just that."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_100_CUT_030_100": {
+    "speaker": "Valkoinen",
+    "text": "As I cannot abandon my post, I'm trusting\nthe two of you to deal with this in my stead."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_105_CUT_000_000": {
+    "speaker": "Valkoinen",
+    "text": "You will need to circle around the wall\nclockwise in order to smear the mitochondria\nonto it and release those trapped within."
+  },
+  "SUB_W06_GIMK_DIVA_FATWALLCIRCLE_010_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Ah, excellent! The wall is gone."
+  },
+  "SUB_W06_GIMK_DIVA_FATWALLCIRCLE_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "The mitochondria burned the fat off\nthe wall—though I've still no idea\nwhy we had to do the thing clockwise."
+  },
+  "SUB_W06_GIMK_DIVA_FATWALLCIRCLE_010_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "Regardless, we should report our success\nto the high priest at once."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_110_CUT_000_000": {
+    "speaker": "Valkoinen",
+    "text": "My thanks for your efforts. The Circuleum\nshould be up and running again in no time."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_110_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Beg pardon, sir, but why did we\nhave to do all that clockwise?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_110_CUT_000_020": {
+    "speaker": "Valkoinen",
+    "text": "Ah, I'm afraid that...is <i>secret</i>."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_110_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "A mystery, is it?\nAye, I can respect that."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_110_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "If I may, Your Eminence, what made\nthat wall appear in the first place?"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_110_CUT_010_010": {
+    "speaker": "Valkoinen",
+    "text": "I don't know. Perhaps it was malignancies—or\nperhaps not. Such a thing has not happened before,\nand I intend to perform a full investigation."
+  },
+  "SUB_W06_EVAR_DIVA_HEART_110_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Then on to the next temple!"
+  },
+  "SUB_W06_EVAR_DIVA_HEART_110_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "Indeed."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "That is the brain, then?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "That is the Cognitheon—the command center which\ncontrols the other holy sites. A contemporary of mine\nnamed Safed is in charge of its defense."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_000_020": {
+    "speaker": "Safed",
+    "text": "Doing your rounds, Byaku?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "Ah, Safed. Any irregularities\nhere at the Cognitheon?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_000_040": {
+    "speaker": "Safed",
+    "text": "Something is definitely wrong here:\nthe electrical flow from the circuits\nis unstable, which leaves the Cognitheon\nrunning at a diminished capacity."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "The circuits are the cranial nerves\naround the temple, aye? They appear\nto be functioning abnormally."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "There's something rather strange\nabout the circuits over that way."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Stress, perhaps? The nerves do\nseem a wee bit oversensitive."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_020": {
+    "speaker": "Safed",
+    "text": "Uh, Byaku? What is...<i>that</i>?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "That is the diva.\nShe's protecting me."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Aren't you going to the\nmend the circuits, love?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_050": {
+    "speaker": "Safed",
+    "text": "Much as I'd love to do that, keeping the\nCognitheon running is a full-time job."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Then I will do it."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_070": {
+    "speaker": "Byaku",
+    "text": "Do not overstep, Diva; you are\nstrictly here to protect me."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_080": {
+    "speaker": "Safed",
+    "text": "Seems like quite a protector!\nI know I'd appreciate her help."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_090": {
+    "speaker": "Byaku",
+    "text": "Hold, Diva! You won't be able to repair\nthem alone, so I'll come with you."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "Cheers, Byaku!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_110": {
+    "speaker": "Byaku",
+    "text": "Despite my insistence on accompanying you,\nI don't actually have the faintest idea\n<i>how</i> to go about repairing them."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "There appears to be a pattern\nto the blinking of the circuits."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_130": {
+    "speaker": "Byaku",
+    "text": "Of course! The order in which they're flickering\nis the way the electricity flows, which means\nwe should fix them in the same order."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_100_CUT_010_140": {
+    "speaker": "Diva_No5",
+    "text": "Aye, let's try it."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_105_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "They're flickering in the same order as the\nflow of electricity, which means we need to\nfix them in the order of the flickers."
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_100_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear, I misunderstood that.\nSo sorry, love."
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_100_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Then we start over from the beginning."
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_110_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "All circuits repaired."
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_110_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Let us return to the Cognitheon\nand report our success to Safed."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_110_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "We finished mending\nthe circuits, Safed."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_110_CUT_000_010": {
+    "speaker": "Safed",
+    "text": "Wonderful! In that case, the Cognitheon\nshould return to normal capacity soon."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_110_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "Except... Oh no! It's being infiltrated\nby malignancies! Please, Diva!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_110_CUT_010_000": {
+    "speaker": "Safed",
+    "text": "The Cognitheon has been restored.\nThank you both for your help."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_110_CUT_020_000": {
+    "speaker": "Byaku",
+    "text": "I still don't understand why the circuits\nfailed in the first place, but I suppose\nwe'll have to accept this as good enough."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_110_CUT_020_010": {
+    "speaker": "Byaku",
+    "text": "Now then, on with my rounds!"
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "That completes my rounds. You were\nquite a big help, Diva—my apologies\nat having kept you for so long."
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "We traversed much of the Kosmos,\nbut I dinnae see my heart anywhere.\nI wonder where it could be..."
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "It is said that there is heart everywhere\nwithin the Kosmos, and nowhere within\nthe Kosmos, and you are free to go see\nthe truth of this for yourself.\fAs for me, I fear I've other duties\nwhich must be attended to."
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Then let me help, love!"
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "So sorry, but I cannae aid ye."
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_050": {
+    "speaker": "Byaku",
+    "text": "Of course. Farewell."
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_051": {
+    "speaker": "Constantine",
+    "text": "Now we can finally move on\nto the next world."
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_060": {
+    "speaker": "Byaku",
+    "text": "You're a strange one, but I <i>am</i>\nhappy to have the protection."
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "I will not let harm come to ye.\nNow where to next?"
+  },
+  "SUB_W06_EVAR_DIVA_PATROL_END_CUT_000_080": {
+    "speaker": "Byaku",
+    "text": "I have business in Thymus. Let us be off!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Erytheia! Where are you!?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_010": {
+    "speaker": "Erytheia",
+    "text": "I had a feeling you'd come once I heard\nthe news, Byaku. Er, but who's this?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm Byaku's bodyguard,\nSongstress Diva No. 5."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_030": {
+    "speaker": "Erytheia",
+    "text": "Fair enough. Well, I'm Erytheia,\nand I'm a carrier."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "Carriers risk their lives transporting both\nobjects and information from place to place."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Do we require something\nto be transported, then?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_060": {
+    "speaker": "Byaku",
+    "text": "No. We are here to access her vast knowledge.\nErytheia, do you have any insights into this\nstrange string of recent incidents?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_070": {
+    "speaker": "Erytheia",
+    "text": "Well, it's certainly different from the\nmalignancies' usual routine. It's almost like\nthey're observing how we go about our work."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_080": {
+    "speaker": "Byaku",
+    "text": "So their goal is not to destroy the Kosmos,\nbut to learn more about it?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_090": {
+    "speaker": "Erytheia",
+    "text": "That tracks with what I've seen.\nThe question is, why?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_000_100": {
+    "speaker": "RedBloodCell",
+    "text": "Halp! Haaalp! A giant foreign body has\nappeared outside—one we've never seen!"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Is that not a malignancy? Er, though\nit does look a wee bit different\nfrom the ones we fought previously."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_010_010": {
+    "speaker": "Erytheia",
+    "text": "That's not a malignancy—it's a parasite.\nI never imagined I'd see one with my\nown eye, but here we are."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_010_020": {
+    "speaker": "Byaku",
+    "text": "I've heard of parasites: they're bothersome\nforeign bodies that suck the life from\nother, better creatures."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_010_030": {
+    "speaker": "Erytheia",
+    "text": "Parasites possess the ability to control\nmalignancies; I think it's safe to conclude\nthat all of this is their doing."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "What do these parasites\nmean to do, then?"
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_010_050": {
+    "speaker": "Erytheia",
+    "text": "Probably take over the Kosmos, though\nI have no idea how they intend to do it."
+  },
+  "SUB_W06_EVAR_DIVA_THYMUS_100_CUT_010_060": {
+    "speaker": "Byaku",
+    "text": "I will never permit that to happen.\nExcise them, Diva!"
+  },
+  "SUB_W06_EVAR_DIVA_PARASITE_HEART_100_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Excise them all! Let none survive!"
+  },
+  "SUB_W06_EVAR_DIVA_PARASITE_STOMACH_100_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Face me, ye wretches!"
+  },
+  "SUB_W06_EVAR_DIVA_PARASITE_LUNGS_100_CUT_000_000": {
+    "speaker": "Erytheia",
+    "text": "Your devious schemes end here,\nfoul parasite!"
+  },
+  "SUB_W06_EVAR_DIVA_PARASITE_BRAIN_100_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "I will never let you take the Kosmos!"
+  },
+  "SUB_W06_EVAR_DIVA_PARASITE_LAST_100_CUT_000_000": {
+    "speaker": "Erytheia",
+    "text": "That should be the last of the parasites."
+  },
+  "SUB_W06_EVAR_DIVA_PARASITE_LAST_100_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "Wait! Something's amiss at the Cognitheon!"
+  },
+  "SUB_W06_EVAR_DIVA_PARASITE_LAST_100_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "I sense abnormalities...\nAch! Something's happening!"
+  },
+  "SUB_W06_EVAR_DIVA_PARASITE_LAST_100_CUT_010_010": {
+    "speaker": "Byaku",
+    "text": "To the Cognitheon!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "There's something here!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Those are the remnants\nof the parasites!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_000_020": {
+    "speaker": "Erytheia",
+    "text": "The Cognitheon is the brain of the Kosmos.\nIf the parasite can establish itself there,\nit can usurp its will and <i>become</i> the Kosmos!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_000_030": {
+    "speaker": "Byaku",
+    "text": "Perhaps that was the plan all along and\nthe other parasites were but distractions."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_000_040": {
+    "speaker": "Erytheia",
+    "text": "And we completely fell for it.\nA massive miscalculation!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_000_050": {
+    "speaker": "Byaku",
+    "text": "The parasite has already begun to fuse!\nIt's sucking power out of the Cognitheon\nin order to strengthen itself!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "There must be something we can do."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_000_070": {
+    "speaker": "Erytheia",
+    "text": "Wait, look at the circuits over there...\nThey're still operating—though barely."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "Those are the circuits we repaired earlier."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "What if we repaired these circuits again and\nrestored the flow of electricity to the Cognitheon?\nWould that not stop the fusion?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_010_020": {
+    "speaker": "Erytheia",
+    "text": "It's certainly worth a try.\nEr, do you know <i>how</i> to do that?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "We fix them in the order they're\nblinking, just like before."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_120_CUT_010_040": {
+    "speaker": "Byaku",
+    "text": "We'll only have one chance at this.\nGo, Songstress! For the Kosmos!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_125_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "We need to repair the circuits\nin the order they're blinking."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_125_CUT_000_010": {
+    "speaker": "Byaku",
+    "text": "We have but one chance! Hurry!"
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_120_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Alas, we failed!"
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_120_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Nothing for it now but to\nknuckle up and face them!"
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_130_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Did that work, then?"
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_130_CUT_000_010": {
+    "speaker": "Erytheia",
+    "text": "Your repairs stopped the parasite from\nseizing control, and also gave the\nCognitheon the power to fight it off. "
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_130_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "That gives us a chance to excise\nthe parasite for good!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_130_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Time to excise some wee beasties!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_130_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "It's stopped moving. Did we kill it?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_130_CUT_010_010": {
+    "speaker": "Erytheia",
+    "text": "No, it's still alive. Blast,\nbut it's a tenacious one!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_130_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Look! The circuits!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_130_CUT_020_000": {
+    "speaker": "Byaku",
+    "text": "With the flow of electricity severed,\nit will attempt to take over again."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_130_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "We need to repair the circuits again!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_130_CUT_020_020": {
+    "speaker": "Byaku",
+    "text": "Hurry! Time grows short!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_131_CUT_010_000": {
+    "speaker": "Byaku",
+    "text": "It's stopped moving. Did we kill it?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_131_CUT_010_010": {
+    "speaker": "Erytheia",
+    "text": "No, it's still alive. Blast,\nbut it's a tenacious one!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_131_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "We need to repair those\ncircuits while we can!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_131_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "Hurry! Time grows short!"
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_140_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "Alas, we failed!"
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_140_CUT_000_010": {
+    "speaker": "Erytheia",
+    "text": "The parasite's on the move again!\nGet back to the Cognitheon!"
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_150_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Did that work, then?"
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_150_CUT_000_010": {
+    "speaker": "Erytheia",
+    "text": "The parasite's been repelled!\nNow's our chance!"
+  },
+  "SUB_W06_DECO_DIVA_NEURONSICK_150_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "Excise it while we can!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_140_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Finish it off!"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_140_CUT_010_000": {
+    "speaker": "Constantine",
+    "text": "It seems the threat posed by those nasty parasites\nhas passed. Still, I can't really think of any special\nmeaning this might hold for us, so let's just move\non to the next world."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_140_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Excision complete. The Kosmos\nis at peace once more."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_140_CUT_010_011": {
+    "speaker": "Byaku",
+    "text": "Thank you for your help, Diva.\nWe couldn't have done it without you."
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_140_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Yet in the end, I found nothing that\nresembled my heart. Where could it be?"
+  },
+  "SUB_W06_EVAR_DIVA_BRAIN_140_CUT_010_030": {
+    "speaker": "Byaku",
+    "text": "It is said there is heart everywhere within\nthe Kosmos and nowhere within the\nKosmos—yet I have seen no sign of it."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_110_CUT_000_000": {
+    "speaker": "Byaku",
+    "text": "And here is the way out."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_110_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Farewell to ye Byaku.\nAnd ye, Erytheia."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_110_CUT_000_020": {
+    "speaker": "Byaku",
+    "text": "Wait, Diva. Take me with you."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_110_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye want to help search for my heart?\nAre ye sure?"
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_110_CUT_000_040": {
+    "speaker": "Byaku",
+    "text": "Deadly so. In fact, I'm going with you\nwhether you want me to or not!"
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_110_CUT_000_050": {
+    "speaker": "Erytheia",
+    "text": "Ha ha ha! Just take him already."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_110_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Cheers, love—and welcome to the team."
+  },
+  "SUB_W06_EVAR_DIVA_TRACHEA_110_CUT_000_080": {
+    "speaker": "Erytheia",
+    "text": "Goodbye, old friend!\nSee you again someday."
+  }
+}

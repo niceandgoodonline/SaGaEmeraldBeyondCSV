@@ -1,0 +1,634 @@
+{
+  "SUB_W18_FUNC_COMM_ELECTION_NEWS_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "Allen currently enjoys a commanding lead\nover his opponent, making it quite clear\nthe people of the Union States have high\nexpectations for him."
+  },
+  "SUB_W18_FUNC_COMM_ELECTION_NEWS_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "Allen currently holds the lead, making\nit clear the people of the Union States\nplace a good deal of trust in him."
+  },
+  "SUB_W18_FUNC_COMM_ELECTION_NEWS_000_CUT_000_020": {
+    "speaker": "Newscaster",
+    "text": "Bailey currently enjoys\na commanding lead."
+  },
+  "SUB_W18_FUNC_COMM_ELECTION_NEWS_000_CUT_000_030": {
+    "speaker": "Newscaster",
+    "text": "While Bailey was initially considered to be\nat something of a disadvantage, it appears\nthe increased efforts of his campaign are\nnow beginning to pay off."
+  },
+  "SUB_W18_FUNC_COMM_ELECTION_NEWS_000_CUT_000_040": {
+    "speaker": "Newscaster",
+    "text": "Bailey currently holds a solid lead."
+  },
+  "SUB_W18_FUNC_COMM_ELECTION_NEWS_000_CUT_000_050": {
+    "speaker": "Newscaster",
+    "text": "The candidates are virtually tied in\nterms of approval ratings, meaning it's\nanyone's race to win. One thing is certain:\na single vote could be the deciding factor."
+  },
+  "SUB_W18_EVAR_COMM_ABOUT_HERE_000_CUT_010_000": {
+    "speaker": "Newscaster",
+    "text": "This is your Capitol City evening news.\nToday, an incident occurred on the elevator\nthat connects the General and Lower Layers,\ncausing a sudden cessation of service."
+  },
+  "SUB_W18_EVAR_COMM_ABOUT_HERE_000_CUT_010_010": {
+    "speaker": "Newscaster",
+    "text": "Though the manufacturer is conducting a full\ninvestigation, the cause remains unknown.\nHowever, normal service has largely resumed\nwith no major problems being encountered."
+  },
+  "SUB_W18_EVAR_COMM_ABOUT_HERE_000_CUT_010_020": {
+    "speaker": "Newscaster",
+    "text": "In other news, voting for the upcoming\npresidential election is slated to occur next\nweek, and we're seeing unprecedented\nlevels of excitement for the event."
+  },
+  "SUB_W18_EVAR_COMM_ABOUT_HERE_000_CUT_010_030": {
+    "speaker": "Newscaster",
+    "text": "Allen continues to outpace Bailey in pre-\nelection polling, and it's expected to be\nan uphill battle for the latter candidate."
+  },
+  "SUB_W18_EVAR_COMM_ABOUT_HERE_000_CUT_040_000": {
+    "speaker": "Newscaster",
+    "text": "Good morning, Capitol City. We're now just\nsix short days away from the presidential\nelection. But now, the morning news."
+  },
+  "SUB_W18_EVAR_COMM_ABOUT_HERE_000_CUT_040_010": {
+    "speaker": "Newscaster",
+    "text": "A conceptual design for a new commercial\nfacility has been released to the media."
+  },
+  "SUB_W18_EVAR_COMM_ABOUT_HERE_000_CUT_040_020": {
+    "speaker": "Newscaster",
+    "text": "This facility is expected to have a large\nimpact on the economy, and is attracting\ngreat attention both nationally and abroad."
+  },
+  "SUB_W18_EVAR_COMM_ABOUT_HERE_000_CUT_040_030": {
+    "speaker": "Newscaster",
+    "text": "And now, the weather. Parts of the western\nUnion States should expect some rain, but\nother areas can look forward to clear skies."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_010_000": {
+    "speaker": "Newscaster",
+    "text": "Good evening, Capitol City. Our first story\ntonight involves the latest polling numbers\nfor the upcoming presidential election."
+  },
+  "SUB_W18_FUNC_COMM_LOSTCRYSTAL_NEWS_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "In other news, there was an incident today\nin which an unknown thief stole the crystal\nwhich was on display in the Capitol."
+  },
+  "SUB_W18_FUNC_COMM_LOSTCRYSTAL_NEWS_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "According to eyewitnesses, the suspect was\nable to leap from the Upper Layer where the\nCapitol is located down to the General Layer."
+  },
+  "SUB_W18_FUNC_COMM_LOSTCRYSTAL_NEWS_000_CUT_000_020": {
+    "speaker": "Newscaster",
+    "text": "The suspect was later apprehended by\nconcerned citizens in the Lower Layer\nand turned over to the police."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_000": {
+    "speaker": "Newscaster",
+    "text": "Next up: Allen has made innovation in\nscience and tech a key part of his campaign,\nand is now proposing a major increase in the\nbudget for the National Research Institute."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_010": {
+    "speaker": "Newscaster",
+    "text": "Allen made the following\nclaims earlier today:"
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_020": {
+    "speaker": "James_Allen",
+    "text": "As you all know, innovation in science and\ntechnology is critical for growing our nation,\nand we cannot hope to produce workable results\nin these fields without adequate research."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_030": {
+    "speaker": "James_Allen",
+    "text": "That said, I understand research and\nexperimentation are costly, and some\nmay wonder what benefits such pursuits\nmight provide for our future."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_040": {
+    "speaker": "James_Allen",
+    "text": "To them I say this: science IS the future,\nand we must not be reluctant to spend!\fThis is why I am calling for a massive budget\nincrease across the board in the sciences.\nIt is time to rectify woefully insufficient\nspending that has gone on for far too long!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_050": {
+    "speaker": "Newscaster",
+    "text": "Allen's provided no specifics in terms of where\nthe new money will come from, leading to fierce\ndissent in Parliament. Here with some thoughts\nis our commentator, Flip Brickley."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_060": {
+    "speaker": "News_Comentator",
+    "text": "This is just more of Allen's politics as usual!\nOnce again, he makes a surprise pronouncement\nto whip up a controversy and steal the public's\nattention from other matters!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_070": {
+    "speaker": "News_Comentator",
+    "text": "And the fact he provided no details for\nhow he intends to fund this little plan\nis laughably transparent!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_080": {
+    "speaker": "Newscaster",
+    "text": "So the fact he's not mentioning the\nsource of his funding creates a\ngreater buzz among the public?"
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_090": {
+    "speaker": "News_Comentator",
+    "text": "Exactly! Allen's no fool. He knows that by\npromising a bunch of pie-in-the-sky innovations,\nhe can grab the public's attention and lead\nthem around by the nose!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_100": {
+    "speaker": "News_Comentator",
+    "text": "But what do we REALLY know about what those\nNational Research Institute people are up to?\nNo, I don't like it. I don't like it at ALL."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_110": {
+    "speaker": "Newscaster",
+    "text": "Thank you, Flip. In this newscaster's opinion,\nthere would be more support for Allen's plan\nif he could provide further details as to what\nresearch might actually be funded."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_020_120": {
+    "speaker": "Newscaster",
+    "text": "And that's the news for tonight.\nThank you for watching."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_050_000": {
+    "speaker": "Newscaster",
+    "text": "Good morning, Capitol City. We're now just\nfive short days away from the presidential\nelection. But first, today's news."
+  },
+  "SUB_W18_FUNC_COMM_SECRETMTG_NEWS_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "We open with a breaking story. Late last night,\nthe owner of a promising new commercial facility\nwas witnessed wining and dining a supporter of\npresidential candidate James Allen."
+  },
+  "SUB_W18_FUNC_COMM_SECRETMTG_NEWS_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "There has been a flood of calls for Allen\nto share his views on this matter, placing\nhis once-solid campaign on shaky footing."
+  },
+  "SUB_W18_FUNC_COMM_SECRETMTG_NEWS_000_CUT_000_020": {
+    "speaker": "Newscaster",
+    "text": "Allen's response was to release a statement\nclaiming the supporter undertook his actions\nwithout the candidate's consent, but this has\ndone little to assuage citizen concerns."
+  },
+  "SUB_W18_FUNC_COMM_KAMAITACHI_INFO_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "Moving on. In the past week, there have been\nmultiple incidents of individuals sustaining\nwounds while walking the streets at night."
+  },
+  "SUB_W18_FUNC_COMM_KAMAITACHI_INFO_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "The victims all claim to have been inflicted\nwith sudden, deep cuts, yet no perpetrators\ncan ever be found in the area."
+  },
+  "SUB_W18_FUNC_COMM_KAMAITACHI_INFO_000_CUT_000_020": {
+    "speaker": "Newscaster",
+    "text": "Police are currently investigating,\nbut have no promising leads."
+  },
+  "SUB_W18_FUNC_COMM_FORUM_INFO_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "Let's delve into the planned schedules\nfor the presidential candidates today."
+  },
+  "SUB_W18_FUNC_COMM_FORUM_INFO_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "Allen and Bailey are scheduled to hold\na debate which will be broadcast across\nthe Union States."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_060_000": {
+    "speaker": "Newscaster",
+    "text": "That's all for today's news.\nAnd now, the weather."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_060_010": {
+    "speaker": "Newscaster",
+    "text": "The eastern Union States can expect\nscattered heavy showers, with humidity\nand temperatures rising by midday.\fIn the suburbs of the Capitol area, we expect\nmostly clear skies throughout the day."
+  },
+  "SUB_W18_FUNC_COMM_NEWS01_000_CUT_060_020": {
+    "speaker": "Newscaster",
+    "text": "And that's the news for this morning.\nHave a great day, Capitol City."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_010_000": {
+    "speaker": "Newscaster",
+    "text": "Good evening, Capitol City. Our lead story\ninvolves the latest polling numbers for\nthe upcoming presidential election."
+  },
+  "SUB_W18_FUNC_COMM_FORUM_NEWS_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "Our next story involves suspicions that\nhave been raised about the moderator\nat today's presidential debate."
+  },
+  "SUB_W18_FUNC_COMM_FORUM_NEWS_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "A source close to the situation tells this\nstation that his inherent bias could even\ninfluence the upcoming election."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_000": {
+    "speaker": "Newscaster",
+    "text": "Next up..."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_010": {
+    "speaker": "Newscaster",
+    "text": "After the debate, our reporter asked Bailey\nfor a comment on Allen's recent proposal\nto significantly increase the budget of\nthe National Research Institute."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_020": {
+    "speaker": "Noah_Bailey",
+    "text": "While I share Allen's belief that science and\ntechnology are of paramount importance, such\nthings cannot come at the expense of public-\nsafety measures and other basic legislation."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_030": {
+    "speaker": "Noah_Bailey",
+    "text": "Indeed, if the sciences are not properly\nregulated—or worse, misused—it poses\na grave threat to our very livelihoods."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_040": {
+    "speaker": "Noah_Bailey",
+    "text": "Our financial resources are limited; we cannot\nneglect social-welfare programs by redirecting\nuncountable sums of money to vague research.\nThe people's safety and security must come first!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_050": {
+    "speaker": "Newscaster",
+    "text": "It's clear the candidates are in direct\nopposition on this hot-button issue."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_060": {
+    "speaker": "News_Comentator",
+    "text": "As you know, Bailey has pledged from\nthe start to strengthen the foundations\nof the Union States."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_070": {
+    "speaker": "News_Comentator",
+    "text": "It's a claim that goes along with his stance\nof wanting to slow down and solidify our\nnational footing—but some of us see a rather\ntroubling pattern in his remarks!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_080": {
+    "speaker": "News_Comentator",
+    "text": "Oh sure, Bailey's a conservative candidate\nwho gives off a moderate impression—but what\nhappens if he's elected, huh? What changes?"
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_090": {
+    "speaker": "Newscaster",
+    "text": "Thank you, Flip. Clearly, as Election Day\ndraws near, we will see even more direct\nopposition between the two candidates."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_020_100": {
+    "speaker": "Newscaster",
+    "text": "And that's the news for tonight.\nThank you for watching."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_050_000": {
+    "speaker": "Newscaster",
+    "text": "Good morning, Capitol City. There are four\ndays left until the presidential election.\nAnd now, the top stories."
+  },
+  "SUB_W18_FUNC_COMM_SINGER_INFO_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "Today, new singing sensation Emily Bryant\nwill make her major-label debut in a free\nconcert to be held at Metro Square."
+  },
+  "SUB_W18_FUNC_COMM_SINGER_INFO_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "The venue and the area around it are\nexpecting to see unprecedented crowds\nfor this highly anticipated event."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_060_000": {
+    "speaker": "Newscaster",
+    "text": "Moving on to the weather. The capital suburbs\nshould expect cloudy conditions throughout\nthe day, but no rain."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_060_010": {
+    "speaker": "Newscaster",
+    "text": "The southern states could be looking at\nperiodic strong winds, so be careful\nif you're planning to be out and about."
+  },
+  "SUB_W18_FUNC_COMM_NEWS02_000_CUT_060_020": {
+    "speaker": "Newscaster",
+    "text": "And that's the news for this morning.\nHave a great day, Capitol City."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_010_000": {
+    "speaker": "Newscaster",
+    "text": "Good evening, Capitol City. Our top story\ninvolves the latest polling numbers in\nthe upcoming election."
+  },
+  "SUB_W18_FUNC_COMM_ELEMENT_NEWS_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "In our next story, a strange event\nwas reported to have occurred at\nthe National Research Institute."
+  },
+  "SUB_W18_FUNC_COMM_ELEMENT_NEWS_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "While there were a number of inquiries from\nconcerned citizens around the neighborhood,\nthe NRI denies that any major issue occurred."
+  },
+  "SUB_W18_FUNC_COMM_ELEMENT_NEWS_000_CUT_000_020": {
+    "speaker": "Newscaster",
+    "text": "The director of the Institute told reporters\nthat the public should rest easy, and gave\nhis personal guarantee that everything is\nsafe and stable at the laboratory."
+  },
+  "SUB_W18_FUNC_COMM_SINGER_NEWS_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "In other news, the singing sensation\nEmily Bryant held a free concert today\nin Metro Square."
+  },
+  "SUB_W18_FUNC_COMM_SINGER_NEWS_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "While there were a large number of people in\nattendance, the Capitol City Police Department\nensured everything stayed orderly and calm."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_000": {
+    "speaker": "Newscaster",
+    "text": "And now, this. Today, the president attended\na practice for the Union States National\nBasketball Team as they trained for an\nupcoming international tournament."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_010": {
+    "speaker": "Newscaster",
+    "text": "The president offered words of encouragement \nto the players, who responded by voicing\ntheir delight on social media."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_020": {
+    "speaker": "Newscaster",
+    "text": "While this concludes our top stories for today,\nwith the election fast approaching,\nexcitement is reaching a fever pitch."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_030": {
+    "speaker": "Newscaster",
+    "text": "Presidential candidate Allen made waves with a\nsocial media post that took aim at Noah Bailey,\nstating, 'I will protect national safety and stability\nwith the development of new technology.'"
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_040": {
+    "speaker": "Newscaster",
+    "text": "The competition between the candidates\nis clearly reaching a new level—\nand here with an opinion is our\ncommentator, Flip Brickley."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_050": {
+    "speaker": "News_Comentator",
+    "text": "What resonates most with voters isn't\ninterviews or media appearances, but\ncommunicating with them in real-time\nthrough social media!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_060": {
+    "speaker": "News_Comentator",
+    "text": "Allen's remarks were a clear shot at Bailey,\nand a stern repudiation of the claim that\nAllen will somehow neglect public safety."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_070": {
+    "speaker": "Newscaster",
+    "text": "But due to the brief nature of social media,\nAllen didn't actually give any details on how\nhe plans to accomplish this, which makes\nhis claims pretty suspect!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_080": {
+    "speaker": "News_Comentator",
+    "text": "If you ask me, he only released this\nmessage in an attempt to shoot down\nBailey's current line of attack!\nIt's just pathetic!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_020_090": {
+    "speaker": "Newscaster",
+    "text": "Fascinating stuff. I'm sure we all look\nforward to more substantive comments\non this matter from Allen in the future."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_050_000": {
+    "speaker": "Newscaster",
+    "text": "Good morning, Capitol City. We have three\ndays until the presidential election.\nAnd now, let's jump into the news."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_050_010": {
+    "speaker": "Newscaster",
+    "text": "Fresh off the heels of yesterday's debut,\nsinger Emily Bryant has been selected to\nserve as the brand ambassador for a new\nline of high-end cosmetics."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_050_020": {
+    "speaker": "Newscaster",
+    "text": "Following the announcement of her debut single,\nthe Union States will be eagerly watching her\ncareer progress in the future."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_050_030": {
+    "speaker": "Newscaster",
+    "text": "And now, the weather. Snowfall is expected\nin the northern states, with the possibility\nof flurries in some areas."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_050_040": {
+    "speaker": "Newscaster",
+    "text": "If you're in any of the affected areas,\nbe sure to watch your step when you're\nout and about."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_050_050": {
+    "speaker": "Newscaster",
+    "text": "In other news, we have a moment of calm in\nthe otherwise-heated presidential contest,\nwith no events scheduled by either candidate.\fThis could provide citizens a window of time\nto catch up on the candidates' previous\ncomments and social media posts."
+  },
+  "SUB_W18_FUNC_COMM_NEWS03_000_CUT_050_060": {
+    "speaker": "Newscaster",
+    "text": "And that's the news for this morning.\nHave a great day, Capitol City."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_010_000": {
+    "speaker": "Newscaster",
+    "text": "Good evening, Capitol City. Our first story\ntonight involves the latest polling numbers\nfor the upcoming presidential election."
+  },
+  "SUB_W18_FUNC_COMM_RAID_NEWS_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "Breaking news: an attack on presidential\ncandidate James Allen's campaign office\noccurred a short time ago."
+  },
+  "SUB_W18_FUNC_COMM_RAID_NEWS_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "The staff member who reported the attack\nwas unhurt, and said that they witnessed\nsomeone break a window before fleeing."
+  },
+  "SUB_W18_FUNC_COMM_RAID_NEWS_000_CUT_000_020": {
+    "speaker": "Newscaster",
+    "text": "The suspect is believed to be on the run,\nand police are investigating the incident."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_000": {
+    "speaker": "Newscaster",
+    "text": "While this concludes our top stories for today,\nwith the election fast approaching,\nexcitement is reaching a fever pitch."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_010": {
+    "speaker": "Newscaster",
+    "text": "Presidential candidate Noah Bailey made a post\non social media reiterating his position, stating\nthat 'Now is the time to strive for stability in\nthe Union States.' "
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_020": {
+    "speaker": "Newscaster",
+    "text": "The comment drew reactions from\nsupporters of both Allen and Bailey."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_030": {
+    "speaker": "Newscaster",
+    "text": "Some voiced concern that all the progress\nwhich has been made in science and tech\ndevelopment might grind to a halt.\fWith his thoughts on the matter\nis our commentator, Flip Brickley."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_040": {
+    "speaker": "News_Comentator",
+    "text": "As I was saying the other day, Bailey's\nclaiming that it's time to shore up the\nfoundations that the Union States have\nbuilt up over the years."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_050": {
+    "speaker": "News_Comentator",
+    "text": "And sure, that COULD mean progress will be\nslow compared to how it was in the past—\nbut the idea it might grind to a complete\nhalt is utterly laughable!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_060": {
+    "speaker": "Newscaster",
+    "text": "Bailey himself has also firmly\ndenied that possibility."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_070": {
+    "speaker": "News_Comentator",
+    "text": "Exactly! Still, it could serve as a de facto\nstop from the perspective of innovators,\nand might even give other countries a chance\nto catch up or even surpass us! Ugh!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_080": {
+    "speaker": "News_Comentator",
+    "text": "Still, I think Bailey's right not to make the nation\na house of cards built on quicksand. Whether or\nnot he possesses the ability to strike that balance,\nhowever, is anyone's guess."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_020_090": {
+    "speaker": "Newscaster",
+    "text": "One thing is certain: this will be\na difficult choice for the voters."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_050_000": {
+    "speaker": "Newscaster",
+    "text": "Good morning, Capitol City. We have two\ndays until the presidential election.\nAnd now, our top stories."
+  },
+  "SUB_W18_FUNC_COMM_RAID_NEWS_000_CUT_010_000": {
+    "speaker": "Newscaster",
+    "text": "Investigations have concluded that the attack\non presidential candidate James Allen's campaign\noffice last night was in fact conducted by one\nof Allen's own supporters."
+  },
+  "SUB_W18_FUNC_COMM_RAID_NEWS_000_CUT_010_010": {
+    "speaker": "Newscaster",
+    "text": "The suspect broke a window in the office\nafter ransacking it, making it appear as\nthough he had escaped that way."
+  },
+  "SUB_W18_FUNC_COMM_RAID_NEWS_000_CUT_010_020": {
+    "speaker": "Newscaster",
+    "text": "But a reporter who happened to be at the\nscene of the incident took a number of\nphotos proving this to be untrue."
+  },
+  "SUB_W18_FUNC_COMM_RAID_NEWS_000_CUT_010_030": {
+    "speaker": "Newscaster",
+    "text": "The police are investigating this as a\ncontemptible act undertaken to harm\nthe image of Allen's political opponent."
+  },
+  "SUB_W18_FUNC_COMM_RAID_NEWS_000_CUT_020_000": {
+    "speaker": "Newscaster",
+    "text": "The police are still investigating the attack\nthat occurred on presidential candidate James\nAllen's campaign office last night."
+  },
+  "SUB_W18_FUNC_COMM_RAID_NEWS_000_CUT_020_010": {
+    "speaker": "Newscaster",
+    "text": "Although the office was ransacked, there\nwas no sign of anything having been stolen.\nAs such, it's believed the motive could have\ninvolved some manner of harassment."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_060_000": {
+    "speaker": "Newscaster",
+    "text": "And now, the weather. Expect heavy\nshowers and thunder throughout much\nof the southern Union States."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_060_010": {
+    "speaker": "Newscaster",
+    "text": "Be sure to keep a close eye on\nthese developing weather conditions,\nparticularly in areas of heavy rainfall."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_060_020": {
+    "speaker": "Newscaster",
+    "text": "Temperatures in the capital suburbs are\nexpected to rise sharply during the day,\nso we recommend layered clothing or\nperhaps even a second outfit."
+  },
+  "SUB_W18_FUNC_COMM_NEWS04_000_CUT_060_030": {
+    "speaker": "Newscaster",
+    "text": "And that's the news for this morning.\nHave a great day, Capitol City."
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_010_000": {
+    "speaker": "Newscaster",
+    "text": "Good evening, Capitol City. Our first story\ntonight involves the latest polling numbers\nfor the upcoming presidential election."
+  },
+  "SUB_W18_FUNC_COMM_PLANE_NEWS_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "Up next, an incident occurred in which a\npassenger plane that landed at Capitol City\nInternational Airport overshot its runway."
+  },
+  "SUB_W18_FUNC_COMM_PLANE_NEWS_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "Thankfully, no one was injured, but flights\narriving afterwards experienced significant\ndelays as a result."
+  },
+  "SUB_W18_FUNC_COMM_PLANE_NEWS_000_CUT_000_020": {
+    "speaker": "Newscaster",
+    "text": "Following the accident, presidential candidate\nJames Allen posted the following on his social\nmedia, 'Passenger planes should all use the\nVertical Take-off and Landing system.'"
+  },
+  "SUB_W18_FUNC_COMM_PLANE_NEWS_000_CUT_000_030": {
+    "speaker": "Newscaster",
+    "text": "The comment about VTOL is likely designed to\nincrease expectations for Allen, whose platform\nhas called for dramatic improvements in the\nareas of science and technology."
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_020_000": {
+    "speaker": "Newscaster",
+    "text": "Here to comment on today's airport\nincident is our own Flip Brickley."
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_020_010": {
+    "speaker": "Newscaster",
+    "text": "While it's fortunate no one was injured\nin the incident, Flip, it was certainly\nfrightening for all involved."
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_020_020": {
+    "speaker": "News_Comentator",
+    "text": "Oh, you better believe it was!\nStill, while rare, this kind of thing\ndoes happen from time to time."
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_020_030": {
+    "speaker": "Newscaster",
+    "text": "Do you think Allen's social media comment\nwas in response to this incident?"
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_020_040": {
+    "speaker": "News_Comentator",
+    "text": "Oh, without a doubt! I mean, just look at the\ntiming of the post. I tell you, Allen's never\nbeen one to let an opportunity pass him by!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_020_050": {
+    "speaker": "News_Comentator",
+    "text": "And while no one was hurt in the incident, it's\nstill a risky strategy. If he came across as crass,\npeople would be all over him for attempting to\nscore some cheap political points.\fAlthough knowing Allen, stirring up\nthat kind of trouble might have been\nhis goal all along!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_050_000": {
+    "speaker": "Newscaster",
+    "text": "Good morning, Capitol City. With tomorrow's\npresidential election nearly upon us, let's jump\nstraight to the day's news."
+  },
+  "SUB_W18_FUNC_COMM_MEETING_INFO_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "A campaign rally for Noah Bailey\nwill be held today at Metro Square."
+  },
+  "SUB_W18_FUNC_COMM_MEETING_INFO_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "Attendees will have the opportunity to speak\ndirectly with the candidate. Give yourself extra\ntime if you're planning to attend, because it's\nsure to be quite crowded."
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_060_000": {
+    "speaker": "Newscaster",
+    "text": "And now, the weather. It will be mostly\nsunny across the Union States today,\nwith scattered rain showers."
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_060_010": {
+    "speaker": "Newscaster",
+    "text": "So don't forget that raincoat!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS05_000_CUT_060_020": {
+    "speaker": "Newscaster",
+    "text": "And that's the news for this morning.\nHave a great day, Capitol City."
+  },
+  "SUB_W18_FUNC_COMM_NEWS06_000_CUT_010_000": {
+    "speaker": "Newscaster",
+    "text": "Good evening, Capitol City."
+  },
+  "SUB_W18_FUNC_COMM_NEWS06_000_CUT_010_010": {
+    "speaker": "Newscaster",
+    "text": "We face a pivotal presidential election tomorrow,\none in which we the people will decide who should\nguide us into the future—so make sure to get\nout there and vote!"
+  },
+  "SUB_W18_FUNC_COMM_MEETING_NEWS_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "Our top story today is the campaign\nrally held today by Noah Bailey."
+  },
+  "SUB_W18_FUNC_COMM_MEETING_NEWS_000_CUT_000_010": {
+    "speaker": "Newscaster",
+    "text": "While some supporters exchanged words,\nthere was no major trouble beyond that,\nand the event ended as a success."
+  },
+  "SUB_W18_FUNC_COMM_MEETING_NEWS_000_CUT_000_020": {
+    "speaker": "Newscaster",
+    "text": "One supporter at the event claimed that seeing\nand hearing Bailey's passion made them feel\nstrongly they wanted him to be president."
+  },
+  "SUB_W18_FUNC_COMM_MEETING_NEWS_000_CUT_010_000": {
+    "speaker": "Newscaster",
+    "text": "Our top story tonight: the campaign\nrally planned to be held for candidate\nNoah Bailey was canceled."
+  },
+  "SUB_W18_FUNC_COMM_MEETING_NEWS_000_CUT_010_010": {
+    "speaker": "Newscaster",
+    "text": "The cause was a dispute between supporters\nof the candidate, with eyewitnesses claiming\nthe issue began as a small verbal altercation."
+  },
+  "SUB_W18_FUNC_COMM_MEETING_NEWS_000_CUT_010_020": {
+    "speaker": "Newscaster",
+    "text": "As the unrest spread, the organizers\nfelt it prudent to cancel the event\nout of an abundance of caution."
+  },
+  "SUB_W18_FUNC_COMM_MEETING_NEWS_000_CUT_010_030": {
+    "speaker": "Newscaster",
+    "text": "Unfortunately, many believe this creates\nconcerns over tomorrow's election."
+  },
+  "SUB_W18_FUNC_COMM_NEWS06_000_CUT_020_000": {
+    "speaker": "Newscaster",
+    "text": "Here to speak on the incident at the\nrally is our commentator, Flip Brickley."
+  },
+  "SUB_W18_FUNC_COMM_NEWS06_000_CUT_020_010": {
+    "speaker": "Newscaster",
+    "text": "Flip, will today's incident\naffect the vote totals?"
+  },
+  "SUB_W18_FUNC_COMM_NEWS06_000_CUT_020_020": {
+    "speaker": "News_Comentator",
+    "text": "Good question. While there's been a heavy\nstretch of early voting already, even a small\nshift in the numbers could change the\noutcome dramatically!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS06_000_CUT_020_030": {
+    "speaker": "News_Comentator",
+    "text": "What we have here are two candidates\nwith vastly different outlooks."
+  },
+  "SUB_W18_FUNC_COMM_NEWS06_000_CUT_020_040": {
+    "speaker": "News_Comentator",
+    "text": "The future of the Union States will be\nforever altered depending on which one\nbecomes our next president—and I can't\nWAIT to watch it all unfold!"
+  },
+  "SUB_W18_FUNC_COMM_NEWS06_000_CUT_020_050": {
+    "speaker": "Newscaster",
+    "text": "While this election is indeed heated,\nwe won't know the outcome until every\nlast vote is counted."
+  },
+  "SUB_W18_FUNC_COMM_NEWS06_000_CUT_020_060": {
+    "speaker": "Newscaster",
+    "text": "We'll have a special election report airing\ntomorrow, and plan to announce the results\nas soon as they're available."
+  },
+  "SUB_W18_FUNC_COMM_RESULT_NEWS_A_WIN_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "We're here with breaking news: we can now\nreport that James Allen will be the next\npresident of the Union States."
+  },
+  "SUB_W18_FUNC_COMM_RESULT_NEWS_B_WIN_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "We're here with breaking news: we can now\nreport that Noah Bailey will be the next\npresident of the Union States."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_A_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "The current president has already sent\ncongratulations to President-elect Allen."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_A_000_CUT_000_010": {
+    "speaker": "Mr_President",
+    "text": "I applaud you on your election\nvictory today, Mr. Allen."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_A_000_CUT_000_020": {
+    "speaker": "Mr_President",
+    "text": "I have high expectations that your support\nfor science and technology will further\nenrich the lives of all our citizens."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_A_000_CUT_000_030": {
+    "speaker": "Newscaster",
+    "text": "With these words, the president\nexpressed the hopes of us all."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_A_000_CUT_000_040": {
+    "speaker": "Newscaster",
+    "text": "This concludes our coverage.\nHave a great day, Capitol City."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_B_000_CUT_000_000": {
+    "speaker": "Newscaster",
+    "text": "The current president has already sent\ncongratulations to President-elect Bailey."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_B_000_CUT_000_010": {
+    "speaker": "Mr_President",
+    "text": "I applaud you on your election\nvictory today, Mr. Bailey."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_B_000_CUT_000_020": {
+    "speaker": "Mr_President",
+    "text": "I have high expectations that your support\nfor social services will further enrich the\nsafety and stability of all our citizens."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_B_000_CUT_000_030": {
+    "speaker": "Newscaster",
+    "text": "With these words, the president\nexpressed the hopes of us all."
+  },
+  "SUB_W18_FUNC_COMM_CELEBRATION_B_000_CUT_000_040": {
+    "speaker": "Newscaster",
+    "text": "This concludes our coverage.\nHave a great day, Capitol City."
+  },
+  "SUB_W18_EVAR_COMM_WQBOSS_MON_010_CUT_010_011": {
+    "speaker": "Mr_President",
+    "text": "You plan to switch places with me?\nIs that it, you filthy alien?"
+  },
+  "SUB_W18_EVAR_COMM_WQBOSS_MON_010_CUT_010_012": {
+    "speaker": "Mr_President",
+    "text": "I could accuse you of the same thing,\nyou alien scum."
+  }
+}

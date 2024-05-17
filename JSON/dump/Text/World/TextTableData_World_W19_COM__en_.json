@@ -1,0 +1,1086 @@
+{
+  "W19_LTXT_COMM_SWAMP01_INTRO_RIGHT_IVY_TITLE": {
+    "speaker": "UI",
+    "text": "Vines"
+  },
+  "W19_LTXT_COMM_SWAMP01_INTRO_RIGHT_IVY_DETAIL": {
+    "speaker": "UI",
+    "text": "Vines stretch all the way up the cliff."
+  },
+  "W19_LTXT_COMM_SWAMP01_INTRO_LEFT_CASCADE_TITLE": {
+    "speaker": "UI",
+    "text": "Waterfall"
+  },
+  "W19_LTXT_COMM_SWAMP01_INTRO_LEFT_CASCADE_DETAIL": {
+    "speaker": "UI",
+    "text": "Water is pouring from the top of the cliff."
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_05_TUTO_TITLE": {
+    "speaker": "UI",
+    "text": "Finding a Branch"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_05_TUTO_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a beaver in a lodge made from branches. Perhaps you could take one with you?"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_05_TUTO_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Beaver"
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_01_TUTO_DONE_TITLE": {
+    "speaker": "UI",
+    "text": "Waiting Eagle"
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_01_TUTO_DONE_DETAIL": {
+    "speaker": "UI",
+    "text": "You should take the branch you found in the beaver's lodge to the eagle."
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_01_TUTO_DONE_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Eagle"
+  },
+  "W19_EVAR_COMM_IVY_TITLE": {
+    "speaker": "UI",
+    "text": "Vines"
+  },
+  "W19_EVAR_COMM_IVY_DETAIL": {
+    "speaker": "UI",
+    "text": "Vines stretch all the way up the cliff. You should be able to climb them."
+  },
+  "W19_EVAR_COMM_IVY_BUTTON": {
+    "speaker": "UI",
+    "text": "Climb the Vines"
+  },
+  "W19_EVAR_COMM_CASCADE_TITLE": {
+    "speaker": "UI",
+    "text": "Waterfall"
+  },
+  "W19_EVAR_COMM_CASCADE_DETAIL": {
+    "speaker": "UI",
+    "text": "Water is pouring from the top of the cliff. You should be able to ride the current down."
+  },
+  "W19_EVAR_COMM_CASCADE_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Waterfall"
+  },
+  "W19_EVAR_COMM_BRIDGE_UP_TITLE": {
+    "speaker": "UI",
+    "text": "Make a Bridge"
+  },
+  "W19_EVAR_COMM_BRIDGE_UP_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a dead tree here. If you could push it over, it would form a bridge to the next platform."
+  },
+  "W19_EVAR_COMM_BRIDGE_UP_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Dead Tree"
+  },
+  "W19_LTXT_COMM_SWAMP_06_BRIDGE_UP_TITLE": {
+    "speaker": "UI",
+    "text": "Dead Tree"
+  },
+  "W19_LTXT_COMM_SWAMP_06_BRIDGE_UP_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a dead tree here. If you could push it over, it would form a bridge to the next platform. Sadly, you're not sure how to go about that."
+  },
+  "W19_LTXT_COMM_FOREST_02_BRIDGE_UP_TITLE": {
+    "speaker": "UI",
+    "text": "Dead Tree"
+  },
+  "W19_LTXT_COMM_FOREST_02_BRIDGE_UP_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a dead tree here. If you could push it over, it would form a bridge to the next platform. Sadly, you're not sure how to go about that."
+  },
+  "W19_LTXT_COMM_FOREST_05_BRIDGE_UP_TITLE": {
+    "speaker": "UI",
+    "text": "Dead Tree"
+  },
+  "W19_LTXT_COMM_FOREST_05_BRIDGE_UP_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a dead tree here. If you could push it over, it would form a bridge to the next platform. Sadly, you're not sure how to go about that."
+  },
+  "W19_LTXT_COMM_FOREST_07_BRIDGE_UP_TITLE": {
+    "speaker": "UI",
+    "text": "Dead Tree"
+  },
+  "W19_LTXT_COMM_FOREST_07_BRIDGE_UP_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a dead tree here. If you could push it over, it would form a bridge to the next platform. Sadly, you're not sure how to go about that."
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_3_TITLE": {
+    "speaker": "UI",
+    "text": "Waterfall"
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_3_DETAIL": {
+    "speaker": "UI",
+    "text": "Water is pouring down the cliff. If you plant a seed and grow some vines, you can reach the top. You currently have three seeds left."
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_3_BUTTON": {
+    "speaker": "UI",
+    "text": "Plant a Seed"
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_2_TITLE": {
+    "speaker": "UI",
+    "text": "Waterfall"
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_2_DETAIL": {
+    "speaker": "UI",
+    "text": "Water is pouring down the cliff. If you plant a seed and grow some vines, you can reach the top. You currently have two seeds left."
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_2_BUTTON": {
+    "speaker": "UI",
+    "text": "Plant a Seed"
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_1_TITLE": {
+    "speaker": "UI",
+    "text": "Waterfall"
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_1_DETAIL": {
+    "speaker": "UI",
+    "text": "Water is pouring down the cliff. If you plant a seed and grow some vines, you can reach the top. You currently have one seed left."
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_1_BUTTON": {
+    "speaker": "UI",
+    "text": "Plant a Seed"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_3_TITLE": {
+    "speaker": "UI",
+    "text": "Vines"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_3_DETAIL": {
+    "speaker": "UI",
+    "text": "Vines stretch down the cliff. If you have a bug eat them, it will create a waterfall you can ride to the bottom. You have three bugs remaining."
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_3_BUTTON": {
+    "speaker": "UI",
+    "text": "Use a Bug"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_2_TITLE": {
+    "speaker": "UI",
+    "text": "Vines"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_2_DETAIL": {
+    "speaker": "UI",
+    "text": "Vines stretch down the cliff. If you have a bug eat them, it will create a waterfall you can ride to the bottom. You have two bugs remaining."
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_2_BUTTON": {
+    "speaker": "UI",
+    "text": "Use a Bug"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_1_TITLE": {
+    "speaker": "UI",
+    "text": "Vines"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_1_DETAIL": {
+    "speaker": "UI",
+    "text": "Vines stretch down the cliff. If you have a bug eat them, it will create a waterfall you can ride to the bottom. You have one bug remaining."
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_1_BUTTON": {
+    "speaker": "UI",
+    "text": "Use a Bug"
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_TITLE": {
+    "speaker": "UI",
+    "text": "Waterfall"
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_DETAIL": {
+    "speaker": "UI",
+    "text": "Water is pouring down the cliff. If you plant a seed and grow some vines, you can reach the top."
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_BUTTON": {
+    "speaker": "UI",
+    "text": "Plant a Seed"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_TITLE": {
+    "speaker": "UI",
+    "text": "Vines"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_DETAIL": {
+    "speaker": "UI",
+    "text": "Vines stretch down the cliff. If you have a bug eat them, it will create a waterfall you can ride to the bottom."
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_BUTTON": {
+    "speaker": "UI",
+    "text": "Use a Bug"
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_NONE_LEFT_TITLE": {
+    "speaker": "UI",
+    "text": "Waterfall"
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_NONE_LEFT_DETAIL": {
+    "speaker": "UI",
+    "text": "Water is pouring down the cliff. If you plant a seed and grow some vines, you can reach the top. Sadly, you have no seeds."
+  },
+  "W19_EVAR_COMM_CHANGE_CASCADE_TO_IVY_NONE_LEFT_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Waterfall"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_NONE_LEFT_TITLE": {
+    "speaker": "UI",
+    "text": "Vines"
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_NONE_LEFT_DETAIL": {
+    "speaker": "UI",
+    "text": "Vines stretch down the cliff. If you have a bug eat them, it will create a waterfall you can ride to the bottom. Sadly, you have no bugs."
+  },
+  "W19_EVAR_COMM_CHANGE_IVY_TO_CASCADE_NONE_LEFT_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Vines"
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_01_TITLE": {
+    "speaker": "UI",
+    "text": "Frogs"
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_01_DETAIL": {
+    "speaker": "UI",
+    "text": "A group of frogs are croaking in the marsh, forming a chorus of sorts."
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_02_TITLE": {
+    "speaker": "UI",
+    "text": "Corpse"
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_02_DETAIL": {
+    "speaker": "UI",
+    "text": "Animal bones are scattered around the area. What could have happened here?"
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_03_TITLE": {
+    "speaker": "UI",
+    "text": "Snake"
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_03_DETAIL": {
+    "speaker": "UI",
+    "text": "A snake is coiled in the grass. It's not going to attack you, is it?"
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_04_TITLE": {
+    "speaker": "UI",
+    "text": "Crocodile"
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_04_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a crocodile lurking in the marsh. It would be dangerous to get too close."
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_05_TITLE": {
+    "speaker": "UI",
+    "text": "Beaver"
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_05_DETAIL": {
+    "speaker": "UI",
+    "text": "A beaver has made a lodge of branches here."
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_06_TITLE": {
+    "speaker": "UI",
+    "text": "Dragonfly"
+  },
+  "W19_LTXT_COMM_PLAT_SWAMP_06_DETAIL": {
+    "speaker": "UI",
+    "text": "A dragonfly is soaring happily through the sky. The wind here feels good."
+  },
+  "W19_LTXT_COMM_PLAT_NEST_01_TITLE": {
+    "speaker": "UI",
+    "text": "Spider"
+  },
+  "W19_LTXT_COMM_PLAT_NEST_01_DETAIL": {
+    "speaker": "UI",
+    "text": "A spider is crawling around. These fearsome creatures eat anything that comes too close."
+  },
+  "W19_LTXT_COMM_PLAT_NEST_02_TITLE": {
+    "speaker": "UI",
+    "text": "The Cavernous Burrow"
+  },
+  "W19_LTXT_COMM_PLAT_NEST_02_DETAIL": {
+    "speaker": "UI",
+    "text": "This burrow is like a cave. Could something be lurking inside?"
+  },
+  "W19_LTXT_COMM_PLAT_NEST_03_TITLE": {
+    "speaker": "UI",
+    "text": "Ant Nest"
+  },
+  "W19_LTXT_COMM_PLAT_NEST_03_DETAIL": {
+    "speaker": "UI",
+    "text": "Ants are gathering around their nest. Try not to step on them as you walk by!"
+  },
+  "W19_LTXT_COMM_PLAT_NEST_04_TITLE": {
+    "speaker": "UI",
+    "text": "Ants"
+  },
+  "W19_LTXT_COMM_PLAT_NEST_04_DETAIL": {
+    "speaker": "UI",
+    "text": "Ants are crawling on the ground. Try not to step on them as you walk by!"
+  },
+  "W19_LTXT_COMM_PLAT_NEST_05_TITLE": {
+    "speaker": "UI",
+    "text": "Bee Hive"
+  },
+  "W19_LTXT_COMM_PLAT_NEST_05_DETAIL": {
+    "speaker": "UI",
+    "text": "Bees are flying around their hive. Probably best to keep your distance."
+  },
+  "W19_LTXT_COMM_PLAT_NEST_06_TITLE": {
+    "speaker": "UI",
+    "text": "Spiderweb"
+  },
+  "W19_LTXT_COMM_PLAT_NEST_06_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a very large spiderweb between the branches here."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_01_TITLE": {
+    "speaker": "UI",
+    "text": "Pack of Wolves"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_01_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a pack of wolves here. You wonder if it's a good idea to get any closer."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_02_TITLE": {
+    "speaker": "UI",
+    "text": "Cave within the Tree"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_02_DETAIL": {
+    "speaker": "UI",
+    "text": "The cavity in this tree forms a cave. Could something be lurking inside?"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_03_TITLE": {
+    "speaker": "UI",
+    "text": "Insectivorous Plant"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_03_DETAIL": {
+    "speaker": "UI",
+    "text": "There's an insectivorous plant here. It's not going to attack you, is it?"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_TITLE": {
+    "speaker": "UI",
+    "text": "Bird's Nest"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_DETAIL": {
+    "speaker": "UI",
+    "text": "This bird's nest is currently empty."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_DONE_TITLE": {
+    "speaker": "UI",
+    "text": "Abandoned Bird's Nest"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_DONE_DETAIL": {
+    "speaker": "UI",
+    "text": "The eggs you rescued from the snake are now in the nest. The nest is littered with brown feathers, but where is the bird they came from?"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_CUCKOO_TITLE": {
+    "speaker": "UI",
+    "text": "Ruined Bird's Nest"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_CUCKOO_DETAIL": {
+    "speaker": "UI",
+    "text": "This was once the nest of an owl, but it's since been destroyed by a cuckoo. The eggs within have been smashed."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_CUCKOO_DONE_TITLE": {
+    "speaker": "UI",
+    "text": "Ruined Bird's Nest"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_CUCKOO_DONE_DETAIL": {
+    "speaker": "UI",
+    "text": "This was once the nest of an owl, but it's since been destroyed by a cuckoo. The eggs within have been smashed."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_OWL_TITLE": {
+    "speaker": "UI",
+    "text": "Happy Bird's Nest"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_OWL_DETAIL": {
+    "speaker": "UI",
+    "text": "It turns out this nest belongs to an owl. The owl has returned, and the eggs are unharmed."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_OWL_DONE_TITLE": {
+    "speaker": "UI",
+    "text": "Happy Bird's Nest"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_04_OWL_DONE_DETAIL": {
+    "speaker": "UI",
+    "text": "It turns out this nest belongs to an owl. The owl has returned, and the eggs are unharmed."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_05_TITLE": {
+    "speaker": "UI",
+    "text": "Cuckoo"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_05_DETAIL": {
+    "speaker": "UI",
+    "text": "A cuckoo is soaring through the sky. Perhaps it's on its way back to its nest."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_05_OWL_TITLE": {
+    "speaker": "UI",
+    "text": "Cuckoo"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_05_OWL_DETAIL": {
+    "speaker": "UI",
+    "text": "A cuckoo is soaring through the sky. It looks bored."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_06_TITLE": {
+    "speaker": "UI",
+    "text": "Owl"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_06_DETAIL": {
+    "speaker": "UI",
+    "text": "An owl is sitting in a tree. It looks troubled."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_06_CUCKOO_TITLE": {
+    "speaker": "UI",
+    "text": "Owl"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_06_CUCKOO_DETAIL": {
+    "speaker": "UI",
+    "text": "An owl is sitting in a tree. It looks sad."
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_07_TITLE": {
+    "speaker": "UI",
+    "text": "Deer"
+  },
+  "W19_LTXT_COMM_PLAT_FOREST_07_DETAIL": {
+    "speaker": "UI",
+    "text": "The deer is looking at you as if it wishes to convey something."
+  },
+  "W19_LTXT_COMM_GUARDIAN_SWAMP_06_OFF_TITLE": {
+    "speaker": "UI",
+    "text": "Turtle"
+  },
+  "W19_LTXT_COMM_GUARDIAN_SWAMP_06_OFF_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant turtle has been turned to stone. Is there a way to bring it back to life?"
+  },
+  "W19_LTXT_COMM_GUARDIAN_NEST_02_OFF_TITLE": {
+    "speaker": "UI",
+    "text": "Bat"
+  },
+  "W19_LTXT_COMM_GUARDIAN_NEST_02_OFF_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant bat has been turned to stone. Is there a way to bring it back to life?"
+  },
+  "W19_LTXT_COMM_GUARDIAN_FOREST_04_OFF_TITLE": {
+    "speaker": "UI",
+    "text": "Squirrel"
+  },
+  "W19_LTXT_COMM_GUARDIAN_FOREST_04_OFF_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant squirrel has been turned to stone. Is there a way to bring it back to life?"
+  },
+  "W19_LTXT_COMM_GUARDIAN_FOREST_07_OFF_TITLE": {
+    "speaker": "UI",
+    "text": "Bear"
+  },
+  "W19_LTXT_COMM_GUARDIAN_FOREST_07_OFF_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant bear has been turned to stone. Is there a way to bring it back to life?"
+  },
+  "W19_LTXT_COMM_GUARDIAN_SWAMP_01_TITLE": {
+    "speaker": "UI",
+    "text": "Eagle"
+  },
+  "W19_LTXT_COMM_GUARDIAN_SWAMP_01_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant eagle has a divine presence."
+  },
+  "W19_LTXT_COMM_GUARDIAN_SWAMP_06_TITLE": {
+    "speaker": "UI",
+    "text": "Turtle"
+  },
+  "W19_LTXT_COMM_GUARDIAN_SWAMP_06_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant turtle has a divine presence."
+  },
+  "W19_LTXT_COMM_GUARDIAN_NEST_02_TITLE": {
+    "speaker": "UI",
+    "text": "Bat"
+  },
+  "W19_LTXT_COMM_GUARDIAN_NEST_02_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant bat has a divine presence."
+  },
+  "W19_LTXT_COMM_GUARDIAN_FOREST_04_TITLE": {
+    "speaker": "UI",
+    "text": "Squirrel"
+  },
+  "W19_LTXT_COMM_GUARDIAN_FOREST_04_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant squirrel has a divine presence."
+  },
+  "W19_LTXT_COMM_GUARDIAN_FOREST_07_TITLE": {
+    "speaker": "UI",
+    "text": "Bear"
+  },
+  "W19_LTXT_COMM_GUARDIAN_FOREST_07_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant bear has a divine presence."
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_02_TITLE": {
+    "speaker": "UI",
+    "text": "Amongst the Bones"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_02_DETAIL": {
+    "speaker": "UI",
+    "text": "These look to be the bones of an animal. Perhaps you'll find something here."
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_02_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Bones"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_03_TITLE": {
+    "speaker": "UI",
+    "text": "Snake and Eggs"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_03_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a snake coiled around eggs. It seems to be trying to protect them."
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_03_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Snake"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_04_TITLE": {
+    "speaker": "UI",
+    "text": "Hungry Crocodile"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_04_DETAIL": {
+    "speaker": "UI",
+    "text": "This crocodile looks to be feeding. You wonder what it's eating."
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_04_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Crocodile"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_03_TITLE": {
+    "speaker": "UI",
+    "text": "Ants Heading Home"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_03_DETAIL": {
+    "speaker": "UI",
+    "text": "A swarm of ants is gathering around their nest. Perhaps the ant you have came from here?"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_03_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Ant Nest"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_04_TITLE": {
+    "speaker": "UI",
+    "text": "Lost Ant"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_04_DETAIL": {
+    "speaker": "UI",
+    "text": "An ant is crawling on the ground. It doesn't seem to be able to find its way back to its nest."
+  },
+  "W19_EVAR_COMM_PLAT_NEST_04_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Ant"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_06_TITLE": {
+    "speaker": "UI",
+    "text": "Caught in the Web"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_06_DETAIL": {
+    "speaker": "UI",
+    "text": "Something is caught in the spiderweb."
+  },
+  "W19_EVAR_COMM_PLAT_NEST_06_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Spiderweb"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_01_TITLE": {
+    "speaker": "UI",
+    "text": "The Wolf Pups' Toy"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_01_DETAIL": {
+    "speaker": "UI",
+    "text": "The wolves here have formed a pack. Their pups are playing with something."
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_01_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Pack of Wolves"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_01_EARLY_TITLE": {
+    "speaker": "UI",
+    "text": "The Wolf Pups' Toy"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_01_EARLY_DETAIL": {
+    "speaker": "UI",
+    "text": "The wolves here have formed a pack. Their pups are playing with something."
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_01_EARLY_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Pack of Wolves"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_TITLE": {
+    "speaker": "UI",
+    "text": "Leaving the Nest"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_DETAIL": {
+    "speaker": "UI",
+    "text": "This is an empty bird's nest. Perhaps the youngsters within have already flown away?"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Bird's Nest"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_EGGS_TITLE": {
+    "speaker": "UI",
+    "text": "Returning the Eggs to the Nest"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_EGGS_DETAIL": {
+    "speaker": "UI",
+    "text": "This is a bird's nest. Perhaps the eggs you obtained from the snake came from here? You should try putting them back."
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_EGGS_BUTTON": {
+    "speaker": "UI",
+    "text": "Return the Eggs to the Nest"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_CUCKOO_TITLE": {
+    "speaker": "UI",
+    "text": "Whose Nest is This?"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_CUCKOO_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a bird's nest with eggs inside. Perhaps it belongs to the cuckoo you have with you?"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_CUCKOO_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Bird Nest"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_OWL_TITLE": {
+    "speaker": "UI",
+    "text": "Whose Nest is This?"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_OWL_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a bird's nest with eggs inside. Perhaps it belongs to the owl you have with you?"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_04_OWL_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Bird's Nest"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_05_TITLE": {
+    "speaker": "UI",
+    "text": "Excited Cuckoo"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_05_DETAIL": {
+    "speaker": "UI",
+    "text": "A cuckoo is soaring through the skies. Perhaps it's on its way back to its nest."
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_05_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Cuckoo"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_06_TITLE": {
+    "speaker": "UI",
+    "text": "Troubled Owl"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_06_DETAIL": {
+    "speaker": "UI",
+    "text": "An owl in sitting in a tree. It doesn't seem to be able to fly. Perhaps you should try to help?"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_06_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Owl"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_01_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Feeding Frog"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_01_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "The frog is letting out a cry. Looks like it's about to eat something."
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_01_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Frog"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_05_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Busy Beaver"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_05_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "A beaver is hard at work making a lodge out of branches. It's so focused on its work, it has no time to pay attention to anything else."
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_05_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Beaver"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_06_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Flapping Dragonfly"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_06_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "A dragonfly is flapping sadly through the sky. While quite large, it doesn't seem to have any interest in attacking you."
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_06_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Dragonfly"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_06_ROUTE2_END_TITLE": {
+    "speaker": "UI",
+    "text": "Lonely Dragonfly"
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_06_ROUTE2_END_DETAIL": {
+    "speaker": "UI",
+    "text": "A dragonfly is soaring through the sky. Perhaps you should release the one you caught here."
+  },
+  "W19_EVAR_COMM_PLAT_SWAMP_06_ROUTE2_END_BUTTON": {
+    "speaker": "UI",
+    "text": "Release the Dragonfly"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_02_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Into the Burrow"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_02_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "The giant insect's burrow is like a cave inside. It will take great courage to enter this place."
+  },
+  "W19_EVAR_COMM_PLAT_NEST_02_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Cave"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_02_ROUTE2_EARLY_TITLE": {
+    "speaker": "UI",
+    "text": "Into the Burrow"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_02_ROUTE2_EARLY_DETAIL": {
+    "speaker": "UI",
+    "text": "The giant insect's burrow is like a cave inside. It will take great courage to enter this place."
+  },
+  "W19_EVAR_COMM_PLAT_NEST_02_ROUTE2_EARLY_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Cave"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_03_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Secret of the Ant Nest"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_03_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "A swarm of ants is gathering around this nest. Perhaps whatever the squirrel was eating can be found inside."
+  },
+  "W19_EVAR_COMM_PLAT_NEST_03_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Ant Nest"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_03_ROUTE2_EARLY_TITLE": {
+    "speaker": "UI",
+    "text": "Secret of the Ant Nest"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_03_ROUTE2_EARLY_DETAIL": {
+    "speaker": "UI",
+    "text": "A swarm of ants is gathering around this nest. Something looks to be inside."
+  },
+  "W19_EVAR_COMM_PLAT_NEST_03_ROUTE2_EARLY_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Ant Nest"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_04_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Ants with Cargo"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_04_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "You spy a swarm of ants on the move. They seem to be carrying something."
+  },
+  "W19_EVAR_COMM_PLAT_NEST_04_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Observe the Ants"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_04_ROUTE2_EARLY_TITLE": {
+    "speaker": "UI",
+    "text": "Ants with Cargo"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_04_ROUTE2_EARLY_DETAIL": {
+    "speaker": "UI",
+    "text": "You spy a swarm of ants on the move. They seem to be carrying something."
+  },
+  "W19_EVAR_COMM_PLAT_NEST_04_ROUTE2_EARLY_BUTTON": {
+    "speaker": "UI",
+    "text": "Observe the Ants"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_05_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Not a Bee"
+  },
+  "W19_EVAR_COMM_PLAT_NEST_05_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "Bees are flying around their hive, but you sense something else among them."
+  },
+  "W19_EVAR_COMM_PLAT_NEST_05_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Beehive"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_02_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Cave within the Tree"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_02_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "The cavity within this tree forms a cave. It will take great courage to enter this place."
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_02_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Cave"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_02_ROUTE2_EARLY_TITLE": {
+    "speaker": "UI",
+    "text": "Cave within the Tree"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_02_ROUTE2_EARLY_DETAIL": {
+    "speaker": "UI",
+    "text": "The cavity within this tree forms a cave. It will take great courage to enter this place."
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_02_ROUTE2_EARLY_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Cave"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_03_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Hungry Insectivore Plant"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_03_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "There's an insectivorous plant here. It's currently dissolving its prey with digestive juices, but what did it manage to catch?"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_03_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Insectivore Plant"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_03_ROUTE2_EARLY_TITLE": {
+    "speaker": "UI",
+    "text": "Hungry Insectivore Plant"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_03_ROUTE2_EARLY_DETAIL": {
+    "speaker": "UI",
+    "text": "There's an insectivorous plant here. It's currently dissolving its prey with digestive juices, but what did it manage to catch?"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_03_ROUTE2_EARLY_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Insectivore Plant"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_07_ROUTE2_TITLE": {
+    "speaker": "UI",
+    "text": "Unruly Deer"
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_07_ROUTE2_DETAIL": {
+    "speaker": "UI",
+    "text": "The deer is brandishing its horns. Something seems to be stuck on them."
+  },
+  "W19_EVAR_COMM_PLAT_FOREST_07_ROUTE2_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Deer"
+  },
+  "W19_EVAR_COMM_EAGLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watching Eagle"
+  },
+  "W19_EVAR_COMM_EAGLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A large eagle is looking at you. It seems to be asking you to come over."
+  },
+  "W19_EVAR_COMM_EAGLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Eagle"
+  },
+  "W19_EVAR_COMM_EAGLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Expectant Eagle"
+  },
+  "W19_EVAR_COMM_EAGLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "An eagle is looking at you with a mix of unease and expectation."
+  },
+  "W19_EVAR_COMM_EAGLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Eagle"
+  },
+  "W19_EVAR_COMM_EAGLE_020_TITLE": {
+    "speaker": "UI",
+    "text": "Waiting Eagle"
+  },
+  "W19_EVAR_COMM_EAGLE_020_DETAIL": {
+    "speaker": "UI",
+    "text": "You should take the branch you found in the beaver's lodge to the eagle."
+  },
+  "W19_EVAR_COMM_EAGLE_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Eagle"
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_06_STONE_TITLE": {
+    "speaker": "UI",
+    "text": "Petrified Turtle"
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_06_STONE_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant stone turtle has a cracked shell. You should take a closer look."
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_06_STONE_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Turtle"
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_06_TITLE": {
+    "speaker": "UI",
+    "text": "Turtle's Shell"
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_06_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you can use your turtle shell fragment to bring the turtle back to life."
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_06_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Turtle"
+  },
+  "W19_EVAR_COMM_GUARDIAN_NEST_02_STONE_TITLE": {
+    "speaker": "UI",
+    "text": "Petrified Bat"
+  },
+  "W19_EVAR_COMM_GUARDIAN_NEST_02_STONE_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant stone bat seems to be missing its wings. You should take a closer look."
+  },
+  "W19_EVAR_COMM_GUARDIAN_NEST_02_STONE_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Bat"
+  },
+  "W19_EVAR_COMM_GUARDIAN_NEST_02_TITLE": {
+    "speaker": "UI",
+    "text": "Bat's Wings"
+  },
+  "W19_EVAR_COMM_GUARDIAN_NEST_02_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you can use your two bat wings to bring the bat back to life."
+  },
+  "W19_EVAR_COMM_GUARDIAN_NEST_02_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Bat"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_STONE_TITLE": {
+    "speaker": "UI",
+    "text": "Petrified Squirrel"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_STONE_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant stone squirrel looks like it was about to eat something when it was petrified. You should take a closer look."
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_STONE_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Squirrel"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_TITLE": {
+    "speaker": "UI",
+    "text": "Squirrel's Walnut"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you can use your walnut to bring the squirrel back to life."
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Squirrel"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_EARLY_TITLE": {
+    "speaker": "UI",
+    "text": "Squirrel's Walnut"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_EARLY_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you can use your walnut to bring the squirrel back to life."
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_EARLY_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Squirrel"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_UNREACHABLE_TITLE": {
+    "speaker": "UI",
+    "text": "Petrified Squirrel"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_UNREACHABLE_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant stone squirrel looks like it was about to eat something when it was petrified. You should take a closer look."
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_UNREACHABLE_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Squirrel"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_07_STONE_TITLE": {
+    "speaker": "UI",
+    "text": "Petrified Bear"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_07_STONE_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant bear has been turned to stone. It doesn't appear to have any teeth. You should try getting closer."
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_07_STONE_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Bear"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_07_TITLE": {
+    "speaker": "UI",
+    "text": "Bear Teeth"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_07_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps these teeth will let you bring the bear back to life."
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_07_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Bear"
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_06_STONE_001_TITLE": {
+    "speaker": "UI",
+    "text": "Turtle with a Cracked Shell"
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_06_STONE_001_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant turtle has been turned to stone. You must repair its shell if you want to bring it back to life."
+  },
+  "W19_EVAR_COMM_GUARDIAN_SWAMP_06_STONE_001_BUTTON": {
+    "speaker": "UI",
+    "text": "You Can't Do Anything Right Now"
+  },
+  "W19_EVAR_COMM_GUARDIAN_NEST_02_STONE_001_TITLE": {
+    "speaker": "UI",
+    "text": "Wingless Bat"
+  },
+  "W19_EVAR_COMM_GUARDIAN_NEST_02_STONE_001_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant bat has been turned to stone. You must recover both of its wings if you want to bring it back to life."
+  },
+  "W19_EVAR_COMM_GUARDIAN_NEST_02_STONE_001_BUTTON": {
+    "speaker": "UI",
+    "text": "You Can't Do Anything Right Now"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_STONE_001_TITLE": {
+    "speaker": "UI",
+    "text": "Dining Squirrel"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_STONE_001_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant squirrel has been turned to stone. You need some food if you want to bring it back to life."
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_04_STONE_001_BUTTON": {
+    "speaker": "UI",
+    "text": "You Can't Do Anything Right Now"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_07_STONE_001_TITLE": {
+    "speaker": "UI",
+    "text": "Toothless Bear"
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_07_STONE_001_DETAIL": {
+    "speaker": "UI",
+    "text": "This giant bear has been turned to stone. You'll need to recover its teeth if you want to bring it back to life."
+  },
+  "W19_EVAR_COMM_GUARDIAN_FOREST_07_STONE_001_BUTTON": {
+    "speaker": "UI",
+    "text": "You Can't Do Anything Right Now"
+  },
+  "W19_EVAR_COMM_GAMEEND_000_TITLE": {
+    "speaker": "UI",
+    "text": "The End of Everything"
+  },
+  "W19_EVAR_COMM_GAMEEND_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've brought all the petrified animals back to life. There's nothing more for you to do here."
+  },
+  "W19_EVAR_COMM_GAMEEND_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  }
+}

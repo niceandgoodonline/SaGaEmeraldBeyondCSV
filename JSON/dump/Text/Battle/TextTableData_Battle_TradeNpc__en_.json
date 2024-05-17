@@ -1,0 +1,170 @@
+{
+  "TRADE_NPC_LEO_Name": {
+    "speaker": "UI",
+    "text": "Leonardo"
+  },
+  "TRADE_NPC_LEO_Exp": {
+    "speaker": "UI",
+    "text": "Better get it together and grow up fast."
+  },
+  "TRADE_NPC_ELI_Name": {
+    "speaker": "UI",
+    "text": "Elissy"
+  },
+  "TRADE_NPC_ELI_Exp": {
+    "speaker": "UI",
+    "text": "I'll take whatever fancy brands ya got!"
+  },
+  "TRADE_NPC_ASA_Name": {
+    "speaker": "UI",
+    "text": "Artho"
+  },
+  "TRADE_NPC_ASA_Exp": {
+    "speaker": "UI",
+    "text": "I make only trades of the finest quality."
+  },
+  "TRADE_NPC_MON_Name": {
+    "speaker": "UI",
+    "text": "Monty"
+  },
+  "TRADE_NPC_MON_Exp": {
+    "speaker": "UI",
+    "text": "See you now the true significance of the barter!?"
+  },
+  "TRADE_NPC_W01_Name": {
+    "speaker": "UI",
+    "text": "Beautiful Sisters"
+  },
+  "TRADE_NPC_W01_Exp": {
+    "speaker": "UI",
+    "text": "We're the talk of the town, so stop by any time."
+  },
+  "TRADE_NPC_W02_Name": {
+    "speaker": "UI",
+    "text": "Apprentice Witch"
+  },
+  "TRADE_NPC_W02_Exp": {
+    "speaker": "UI",
+    "text": "I might be an apprentice, but my skills are the real deal!"
+  },
+  "TRADE_NPC_W03_Name": {
+    "speaker": "UI",
+    "text": "Biceps Brachii"
+  },
+  "TRADE_NPC_W03_Exp": {
+    "speaker": "UI",
+    "text": "Life is beautiful...when you're RIPPED!"
+  },
+  "TRADE_NPC_W04_Name": {
+    "speaker": "UI",
+    "text": "Dolphin"
+  },
+  "TRADE_NPC_W04_Exp": {
+    "speaker": "UI",
+    "text": "If you want the sea's bounty, I've got the freshest stuff around!"
+  },
+  "TRADE_NPC_W06_Name": {
+    "speaker": "UI",
+    "text": "Cardinal"
+  },
+  "TRADE_NPC_W06_Exp": {
+    "speaker": "UI",
+    "text": "No world can be without order."
+  },
+  "TRADE_NPC_W07_Name": {
+    "speaker": "UI",
+    "text": "SaGa Spirits"
+  },
+  "TRADE_NPC_W07_Exp": {
+    "speaker": "UI",
+    "text": "We'll show ya the strength of our spirits!"
+  },
+  "TRADE_NPC_W08_Name": {
+    "speaker": "UI",
+    "text": "Emergency Lamp"
+  },
+  "TRADE_NPC_W08_Exp": {
+    "speaker": "UI",
+    "text": "Alert! Alert! Caution! Caution!"
+  },
+  "TRADE_NPC_W09_Name": {
+    "speaker": "UI",
+    "text": "Ticketing Master"
+  },
+  "TRADE_NPC_W09_Exp": {
+    "speaker": "UI",
+    "text": "I also deal in non-ticket items. No scalping allowed!"
+  },
+  "TRADE_NPC_W10_Name": {
+    "speaker": "UI",
+    "text": "Professional Househusband"
+  },
+  "TRADE_NPC_W10_Exp": {
+    "speaker": "UI",
+    "text": "Supporting my family has worn me out... I need pampering!"
+  },
+  "TRADE_NPC_W11_Name": {
+    "speaker": "UI",
+    "text": "Flower Faerie"
+  },
+  "TRADE_NPC_W11_Exp": {
+    "speaker": "UI",
+    "text": "Boy, do I love pollen! I wish I was covered in the stuff!"
+  },
+  "TRADE_NPC_W12_Name": {
+    "speaker": "UI",
+    "text": "First Emperor"
+  },
+  "TRADE_NPC_W12_Exp": {
+    "speaker": "UI",
+    "text": "We are the origin of all emperors, and you may trade with us."
+  },
+  "TRADE_NPC_W13_Name": {
+    "speaker": "UI",
+    "text": "Generalist"
+  },
+  "TRADE_NPC_W13_Exp": {
+    "speaker": "UI",
+    "text": "Don't try to sell me any knock-offs—there's no foolin' this guy."
+  },
+  "TRADE_NPC_W14_Name": {
+    "speaker": "UI",
+    "text": "Just Looking"
+  },
+  "TRADE_NPC_W14_Exp": {
+    "speaker": "UI",
+    "text": "I'm just window shopping! I'm not here to make deals."
+  },
+  "TRADE_NPC_W15_Name": {
+    "speaker": "UI",
+    "text": "Tropical Rainforest"
+  },
+  "TRADE_NPC_W15_Exp": {
+    "speaker": "UI",
+    "text": "We have deals just for you, delivered right to your door!"
+  },
+  "TRADE_NPC_W17_Name": {
+    "speaker": "UI",
+    "text": "Cyclops"
+  },
+  "TRADE_NPC_W17_Exp": {
+    "speaker": "UI",
+    "text": "I may only have one eye, but nothing gets past it."
+  },
+  "TRADE_NPC_W18_Name": {
+    "speaker": "UI",
+    "text": "Star of the Spar"
+  },
+  "TRADE_NPC_W18_Exp": {
+    "speaker": "UI",
+    "text": "Who wants an autograph? C'mon, let's see those hands!"
+  },
+  "TRADE_NPC_W19_Name": {
+    "speaker": "UI",
+    "text": "F15"
+  },
+  "TRADE_NPC_W19_Exp": {
+    "speaker": "UI",
+    "text": "Swooosh! Boom! Vroooooom!"
+  }
+}

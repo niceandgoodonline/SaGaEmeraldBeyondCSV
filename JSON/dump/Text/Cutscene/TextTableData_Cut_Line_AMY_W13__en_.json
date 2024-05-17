@@ -1,0 +1,2262 @@
+{
+  "SUB_W13_EVAR_AMYA_DIG_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's something here!\nLet's dig it up."
+  },
+  "SUB_W13_EVAR_AMYA_DIG_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Leave it to me!"
+  },
+  "SUB_W13_EVAR_AMYA_DIG_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "What's this?"
+  },
+  "SUB_W13_EVAR_AMYA_DIG_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Guess it's useful somehow, so wooo!"
+  },
+  "SUB_W13_EVAR_AMYA_DIG_000_CUT_010_040": {
+    "speaker": "Sarab",
+    "text": "19141914"
+  },
+  "SUB_W13_EVAR_AMYA_DIG_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "Except that it's broken."
+  },
+  "SUB_W13_EVAR_AMYA_DIG_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aww, boo. No way."
+  },
+  "SUB_W13_EVAR_AMYA_DIG06_SUCCESS_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "10711071"
+  },
+  "SUB_W13_EVAR_AMYA_DIG06_SUCCESS_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "It's saying something or other\nabout the sand's energy."
+  },
+  "SUB_W13_EVAR_AMYA_DIG04_SUCCESS_WARSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "18631863"
+  },
+  "SUB_W13_EVAR_AMYA_DIG04_SUCCESS_WARSHIP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Apparently it'll keep the sand\nfrom falling apart?"
+  },
+  "SUB_W13_EVAR_AMYA_DIG00_SUCCESS_DIVING_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "16031603"
+  },
+  "SUB_W13_EVAR_AMYA_DIG00_SUCCESS_DIVING_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Sounds like it'll keep the sand\nfrom clumping together."
+  },
+  "SUB_W13_EVAR_AMYA_DIG02_SUCCESS_FERRY_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "12411241"
+  },
+  "SUB_W13_EVAR_AMYA_DIG02_SUCCESS_FERRY_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "It's talking about the sand's\nshifting ability."
+  },
+  "SUB_W13_EVAR_AMYA_DIG_MISS_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, this could come in handy."
+  },
+  "SUB_W13_EVAR_AMYA_DIG_MISS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I'm pretty handy too, you know!"
+  },
+  "SUB_W13_EVAR_AMYA_WORLDEXIT_000_CUT_000_000": {
+    "speaker": "カカシ",
+    "text": "Leave this world?"
+  },
+  "SUB_W13_EVAR_AMYA_WORLDEXIT_000_CUT_000_010": {
+    "speaker": "アメイヤ",
+    "text": "No."
+  },
+  "SUB_W13_EVAR_AMYA_WORLDEXIT_000_CUT_000_020": {
+    "speaker": "アメイヤ",
+    "text": "Yes."
+  },
+  "SUB_W13_WRLD_AMYA_INITIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, wow, a desert. Not a place that works\nin my favor, but I guess I can't complain.\fWell, first things first, I should find\nsomebody who knows about this world."
+  },
+  "SUB_W13_WRLD_AMYA_INITIAL_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Man, there is just sand EVERYWHERE!\nAlso, I can't seem to fly here,\nso I guess I'm hoofing it.\fPfth! AND I've got sand\nin my mouth! Blech."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Hmm? Someone's coming."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Man, that ship is HUGE! Also, old.\nI guess that means this desert\nused to be an ocean."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I wonder what happened here...\nDid the water spirits' power wane,\nor did other spirits get stronger?\nAlso, what do we have here!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "You can talk?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Sure can! I haven't seen a human out this way\nin days and days. Where exactly did you come\nfrom, anyway? The airship? The cruise ship?\nThe submarine?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Actually, my name's Ameya Aisling,\nand I'm a witch from Pulchra.\nUm, have you seen a cat anywhere?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "A cat? No, I don't know any cats.\nThe humans might know something, though,\nso you should head over to the airship."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, so I just got here, which means I\ndon't really know boo about this world.\nThink you take me to the airship?\nAlso, what's your name?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_WARSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "I'm Scarecrow—although why I'm a scarecrow,\nI have no earthly idea. But I'd be delighted\nto guide you! I'm bored to tears with all\nthis standing around. Follow me!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne airship, just as promised."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh. I can't go any further—the flow of\nsand is way too strong. Maybe a little\nmagic will get things going...?\fNope. That didn't work."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Where's that?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Didn't think there'd be machines here.\nDoes this thing even work?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Spookcrow",
+    "text": "YO, SCARECROW! BEEN A HOT MINUTE, BUDDY!\nALSO, WHY ARE YOU WANDERING ALL OVER FROM\nHELL TO BREAKFAST WITH THIS HUMAN, HUH!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "You can change the flow of sand?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "ME? NAH! I CAN'T DO SQUAT, BUDDY!\nBUT THE ROBOT CAN!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "OKAY, BUT I'M RIGHT HERE,\nSO MAYBE STOP YELLING!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Spookcrow",
+    "text": "SORRY ABOUT THAT! THIS IS JUST THE NATURAL\nVOLUME FOR ME! NOW HANG ON AND I'LL GET\nTHAT SAND CHANGED FOR YOU, BUDDY!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_010_000": {
+    "speaker": "Spookcrow",
+    "text": "HOW'S THAT STRIKE YA, BUDDY!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TWOLEGS_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Thanks, Spookcrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Not much of an airship considering\nit's stuck on the ground like this.\nDo people really live here?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of 'em!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, it's a lot more spacious in here than\nI thought! Also no sand? I think a witch\ncould get used to this."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm Ameya Aisling, a witch from Pulchra.\nSounds like you don't usually get visitors\nfrom the outside, huh?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Actually, we <i>never</i> get such visitors.\nBut as you are clearly standing here now,\nit could mean the legend of Pandora is real!\fYou must tell me everything you know\nabout Pandora! Speak, I beg you!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Only if you slow your roll\na little bit first!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "Yes, do slow your roll."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "Shut up, strawman! ...AHEM! Yes, well,\nI suppose it's possible I got a smidge\nexcited there. Apologies."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Professor",
+    "text": "I'm the Professor, and I'm researching the history\nof the Crowrealm. Though a desert now, this land\nonce had something called an 'ocean,' and this\nvery airship once soared through the skies."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Professor",
+    "text": "Alas, now the world has turned to sand,\nand the airships lie in pieces on the ground.\nAnd what is the cause of this misery, you ask?\nThe answer to that...is said to be Pandora!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Feels like I've heard that word before.\nMaybe something about a box?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_100": {
+    "speaker": "Professor",
+    "text": "Indeed, legend claims a human from the outside\nopened the box and brought great misfortune to\nthe world—and it goes on to say the one to close\nthe box will be <i>another</i> human from the outside."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_110": {
+    "speaker": "Professor",
+    "text": "Oh, how I hope the legend is a lie. If it's true,\nit means our world is held sway by the whims\nof outsiders! And in that case, what are the\nrest of us even worth?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Right? What's my worth?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "I don't really know if this legend\ninvolves me, but I'm super curious!\nSo where can I find this thing?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_140": {
+    "speaker": "Professor",
+    "text": "It's just a legend, my dear. Nothing more.\nDo you truly intend to follow it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "Legends aren't for following—I follow my heart.\nAlso, I have a feeling my green lines are telling\nme look for Pandora, 'cause I think that's where\nI'm going to find my missing cat."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_160": {
+    "speaker": "Professor",
+    "text": "I don't know if I should call you an oddity\nor a nosy parker... Are <i>all</i> people from\nthe outside like you?\fEr, anyway. Be that all as it may,\nI sadly have no idea where Pandora is.\nYou'll just have to find it yourself."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_170": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, oooh! I know where it is!\nIt could be here. Or there.\nOr way out there someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_180": {
+    "speaker": "Professor",
+    "text": "Let me leave you with this warning:\nDo not make friends with the scarecrows.\nThey're all irresponsible oafs to the last,\njust like this straw-headed ninny here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_190": {
+    "speaker": "Ameya_Aisling",
+    "text": "Did you guys make them?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_AIRSHIP_000_CUT_010_200": {
+    "speaker": "Professor",
+    "text": "Perish the thought! If I had to guess,\nI imagine they came from Pandora itself."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's another humongous machine!\nI sure hope Pandora isn't in here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I sure hope not!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "So there are fiends in this world, too?\nDoes the legend claim that the fiends\ncame from Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are YOU older than Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you know nothing. Great.\nWell, guess it's time to peek inside."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's nothing in here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nope! Absolutely nothing!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Guess I'm glad there was no Pandora.\nLet's go!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "And I hope you'll help us out if the\nshifting sands block us again!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We'll be counting on you!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TANK_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Another machine? You're not going to\ntell me <i>this</i> is Pandora, are you?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Nope!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TANK_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hi there. Hey. This metal hunk\nisn't Pandora, is it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TANK_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, so it is? Or not?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_TANK_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I suppose someone would have noticed\nalready if Pandora was just sitting here,\nso let's check somewhere else."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This robot doesn't look like Pandora,\nbut it DOES look like it could change\nthe flow of sand for us."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure does!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "If I had more of my magic power, I could've\ndone it myself. Still, how can these machines\npossibly change something so far away?\fEr, rhetorical question, by the way.\nYou don't have to answer it."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Why is there a machine here\nin the first place?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, then could you tell me why there's\nalways a scarecrow next to a machine?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Grrr!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This robot doesn't look like Pandora,\nbut it DOES look like it could change\nthe flow of sand for us."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure does!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hi, Sweetcrow! Nice to see you."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "In that case, could you find my cat?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Cats live in the ♥s of all scarecrows—\nand you're totally welcome to take\nmy ♥ home, lover girl! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hee hee! Don't mind if I do!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Pass."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Sweetcrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_HUMANOID_000_CUT_000_100": {
+    "speaker": "Sweetcrow",
+    "text": "Aww, don't be shy! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "Don't think I know you, friend.\nAre you another junker?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Nope! I'm Ameya Aisling,\nand I'm looking for my cat."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "She sure is!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Well now, that's some unusual treasure\nyou're out for. I mostly look for gears and\nengine parts and showerheads and... Well,\nyou know. Things people want."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_000_040": {
+    "speaker": "Junkman",
+    "text": "This place is a veritable mountain of treasure,\nbut because of that, I have a bunch of scoundrels\nin here bugging me. ...See?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "They've been fighting a war ever since\nPandora opened up—even though the\nworld's like it is and no one has any\nclue what the war is for anymore.\fHell, I don't even know if we're supposed\nto destroy this place or protect it."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "This is a submarine:\nprotector of the ocean."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "But there's no ocean anymore, right?\nSo maybe we should tell these things\nthey're fighting over nothing."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "And why would <i>you</i> do that? I don't see\nwhat you're getting out of all this, friend."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "A cat! ...Probably."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "See, you get it! It's the not-knowing that\nmakes it a real treasure hunt; can't search\nfor something if you know it's guaranteed.\nAnyway, good luck to you, friend."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Hey, thanks!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This is the last place we haven't searched,\nso I'm thinking Pandora might be here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_000_020": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hi. I'm Ameya Aisling, and I'm looking\nfor my cat. Oh, and also Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_000_040": {
+    "speaker": "Engineer",
+    "text": "Pandora, eh? Yes, I've heard the rumors:\nClose the box and poof! The war is over.\nHonestly, I have doubts that something\nso convenient actually exists."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_000_050": {
+    "speaker": "Engineer",
+    "text": "Still, war robots continue to be produced\nin this place, as you've no doubt seen.\nSo if Pandora is anywhere, it's likely here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "I wonder if someone's inside? Like maybe\nwhoever opened Pandora to begin with?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_000_070": {
+    "speaker": "Engineer",
+    "text": "Well, if they went in as a human and\nare still alive, no doubt they're some\nkind of monster in their own right."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Then let's go hunt a monster!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Seems they were making machines in here,\nbut nothing works anymore. I guess the one\nwe just saw was the last."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "No, listen. <i>Something</i> is still\noperational around here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Hey, look! Monsters over that way."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, this one is working.\nWhat's it making?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "Sand. It's making sand."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "You scarecrows are all the same:\nliars to the last."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Actually, it LOOKS like sand, but it's just\nmore machines! Wait, does that mean ALL\nthe sand in this world is little machines!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "...Pretty sure it's just sand.\nBut even if it <i>was</i> robots,\nwhat good would that do us?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "I THOUGHT it was weird that machines standing\naround in the desert could change the flow\nof sand so far away, and this explains how!\fIt's a system that controls this entire\nworld by covering it with sand—and I\nthink Pandora is in charge of it all."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "Okay, let's say you're correct, and the robots\ncovered the world in sand to win the war.\nThe war is over now, but the sand remains.\nSo how are we supposed to remove it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, first we should close Pandora \nand stop the sand production."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ugh! No matter how many sand fiends we kill,\nthey just keep coming back. Who started\ntelling everyone that an outsider would\nbe the one to close Pandora, huh!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_010": {
+    "speaker": "Engineer",
+    "text": "Well, we won't solve this problem with\ntired brains. How about I keep watch\nfor a bit while you rest?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_020": {
+    "speaker": "Junkman",
+    "text": "Ho, friend! Find any treasure?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_030": {
+    "speaker": "Scarecrow",
+    "text": "Nope!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_040": {
+    "speaker": "Junkman",
+    "text": "Well, everything good is buried beneath\nthe sand, so all you need to find it is\na little luck...and a secret weapon."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_050": {
+    "speaker": "Junkman",
+    "text": "My little friend here can find all sorts\nof things buried in the sand.\fPoor thing managed to survive the war,\nbut can't seem to put it behind him.\nHoping this little treasure hunt of yours\ncan help him move past it for good."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "So long as it'll help with Pandora,\nI'll take pretty much anyone with me.\nWhat's your name, little guy?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_070": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, Sarab! I need you to find something\nthat'll help in our fight against Pandora!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "We believe in you, Sarab!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_END_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Did you figure out a way\nto fight the sand yet?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_END_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I think we just have to\nthrow ourselves in there."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Yep!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_END_000_CUT_010_000": {
+    "speaker": "Engineer",
+    "text": "And where's that?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_END_000_CUT_010_020": {
+    "speaker": "Junkman",
+    "text": "Hey, looks like you found some\ntreasure. Good for you."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_END_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Well done! Now it's our turn to show\nour worth: we're going to turn the\nCrowrealm into a world of sky and\nwater and green once more!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "So what's that mean for me?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_END_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wanna come with?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE0_FERRY_END_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "You're perfect as you are."
+  },
+  "SUB_W13_WRLD_AMYA_INITIAL_010_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, a desert? I wonder if people\nreally live in places like this.\nWell, let's get to exploring!"
+  },
+  "SUB_W13_WRLD_AMYA_INITIAL_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Pppbh! Blech! I got sand in my mouth!\nAnd it tastes kinda...funky."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, someone's coming!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa, this ship is huge! Also looks ancient.\nSorta weird that people just left it here;\nI wonder what happened to this world?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Heh. This doll has a pretty weird face,\nbut it still looks nicer than the ship.\nI wonder why it's here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa! You talk!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'm a talker, all right!\nHaven't seen a human out this way\nin quite a few days, though.\fSo where'd you come from?\nCruise ship? Battleship? Submarine?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Actually, my name's Ameya Aisling,\nand I'm a witch from Pulchra.\nHave you seen a cat around?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Oh! Okay, so my name is Scarecrow—\ner, not that you asked. But as for <i>why</i>\nI'm a scarecrow, I have no earthly idea.\fAlso, I don't know any cats.\nHumans might know something though,\nso why not head over to the submarine?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, so I just got here, which means I\ndon't really know boo about this world.\nThink you can take me to the submarine?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_AIRSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne submarine, just as promised."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh. I can't go any further—the flow of\nsand is way too strong. Maybe a little\nmagic will get things going...?\fNope. That didn't work."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Where's that?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_HUMANOID_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa, that machine's huge!\nDoes it work?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_HUMANOID_000_CUT_000_010": {
+    "speaker": "Sweetcrow",
+    "text": "Sure doesn't, sweet thing! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_HUMANOID_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_HUMANOID_000_CUT_000_030": {
+    "speaker": "Sweetcrow",
+    "text": "Scarecrow, baby! Good to see you! ♥\nAnd sure, that's an easy ask. ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_HUMANOID_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "You can change the flow of sand?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_HUMANOID_000_CUT_000_050": {
+    "speaker": "Sweetcrow",
+    "text": "Not me, hot stuff. But the robot can! ♥\nGo on now, big guy! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_HUMANOID_000_CUT_010_000": {
+    "speaker": "Sweetcrow",
+    "text": "How's that, boo? ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_HUMANOID_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_HUMANOID_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Thanks, Sweetcrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So this is the submarine? I wonder when\nit was last...y'know? Sub-marining?\nAlso, do people really live in this thing?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of them."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ooo, it's cool in here! Also no sand.\nA witch could get used to this."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "Well, well! Not often we see outsiders\naround these parts. Who might you be?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm Ameya Aisling, a witch of Pulchra.\nI came here looking for my cat."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Oh, joy. Another weirdo. Well, as you can see,\nthe Crowrealm has been devastated by war.\nIf there's something so nice as cats here,\nI certainly don't know about it."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "It's okay, my cat isn't like that at all.\nIt'll be around somewhere! I know it!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "Oh, a cat worshipper. Joy and joy again.\nWell, whatever. Feel free to look around\nand see what you find; maybe you'll even\nget lucky and locate a wayward feline."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Any idea where they might hang out?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_070": {
+    "speaker": "Junkman",
+    "text": "If you're asking me for a special place\nout here in the desert, there's only\none option: Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Pandora? I feel like I've heard that\nname from the Arch Witch before...\nSomething about misfortune sealed\naway in a box in a distant world?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_090": {
+    "speaker": "Junkman",
+    "text": "And a scholar on top of everything.\nIf you know about Pandora, that means\nit's likely infected your world as well.\nYet here you are, lookin' for cats."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_100": {
+    "speaker": "Junkman",
+    "text": "Well, it can't be long now until this whole\nworld is devoured by Pandora, so I very\nmuch hope you're able to locate it."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you don't know where it is?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, but <i>I</i> know where it is! It could be here.\nOr there. Or way out that way someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_DIVING_000_CUT_010_130": {
+    "speaker": "Junkman",
+    "text": "Wiser words were never spoken. Look,\njust have Scarecrow take you where\nyou want to go; that's his job."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TANK_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Another machine? You're not going to\ntell me this is Pandora, are you?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Nope!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TANK_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hi there. Hey. This metal hunk\nisn't Pandora, is it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TANK_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, so it is? Or not?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TANK_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I suppose someone would have noticed\nalready if Pandora was just sitting here,\nso let's check somewhere else."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's another humongous machine!\nI sure hope Pandora isn't in here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Hope's a beautiful thing!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "So there are fiends in this world, too?\nDoes the legend claim that the fiends\ncame from Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are YOU older than Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you know nothing. Great.\nWell, guess it's time to peek inside."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's nothing in here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nope! Absolutely nothing!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Guess I'm glad there was no Pandora.\nLet's go!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "And I hope you'll help us out if the\nshifting sands block us again!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We'll be counting on you!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This robot doesn't look like Pandora,\nbut it DOES look like it could change\nthe flow of sand for us."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure does!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "If I had more of my magic power, I could've\ndone it myself. Still, how can these machines\npossibly change something so far away?\fEr, rhetorical question, by the way.\nYou don't have to answer it."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Why is there a machine here\nin the first place?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, then could you tell me why there's\nalways a scarecrow next to a machine?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Grrrrrr!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This robot doesn't look like Pandora,\nbut it DOES look like it could change\nthe flow of sand for us."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure does!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "If you can do anything,\nhow about finding my cat?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "THE CATS ARE THE SCARECROWS!\n<I>I'M</I> THE CAT, BUDDY!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then c'mere, kitty-kitty!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Quit joking around!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Spookcrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_TWOLEGS_000_CUT_000_090": {
+    "speaker": "Spookcrow",
+    "text": "I'M NOT JOKING, BUDDY!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm Ameya Aisling, and I'm looking\nfor my cat. Oh, and also Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "What she said."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_000_030": {
+    "speaker": "Engineer",
+    "text": "Well, war robots continue to be produced\nin this place, so if Pandora is real,\nthis makes as much sense as anywhere."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_000_040": {
+    "speaker": "Scarecrow",
+    "text": "Speaking of which, we've got\na war robot incoming!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Was that Pandora? That was nothing.\nCertainly not the kind of calamity\nwe're used to in the Witchdom."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Yes, I suppose it was a little pathetic\nfor an immortal war machine. You'll likely\nhave to keep searching somewhere else."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "<i>So</i> pathetic."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "We'll look around and see what we find.\nIf nothing turns up, we'll be back."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "We'll be back."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This looks like the place."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Could be Pandora, yep!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "This <i>is</i> Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, you know about this place?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, then couldn't you have closed\nPandora and put an end to this mess?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_000_060": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. Knowledge alone\nis satisfaction enough."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, knowledge isn't enough for me,\nso I'm going inside."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "In we go!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "The inside is totally broken."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Totally."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "And yet, I hear a sound."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, you followed me? I thought you\nwere happy just knowing things!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_040": {
+    "speaker": "Wiseman",
+    "text": "I do not know what lies inside.\nTherefore, I must learn."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then maybe also tell me whatever\nelse it is you know about Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "Pandora is sand. Pandora creates the sand.\nIt buries this world in mountains of sand,\ncausing it to suffocate."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "So we just need to stop it from\ncreating sand? Why do I feel like\nthat's not going to be easy?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_080": {
+    "speaker": "Wiseman",
+    "text": "That I do not know."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then we should figure it out!\nLet's go!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_010_100": {
+    "speaker": "Scarecrow",
+    "text": "Let's go!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "The sand is fiends.\nThe fiends are sand."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's not normal sand...\nAnd it doesn't seem connected to\nstuff like spirits in any way either."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_020": {
+    "speaker": "Wiseman",
+    "text": "Pandora controls the sand. Every grain is\na perfect miniature recreation of Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, NOW I get it! We can change the flow of\nsand because we're manipulating every grain!\nBut my power isn't enough now to control\nthat much sand, so we need another option."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_040": {
+    "speaker": "Engineer",
+    "text": "Sounds like you found Pandora.\nSo what happens now?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, Pandora <i>does</i> look like a literal\ndisaster, so I'm thinking about how\nI might be able to fight it."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_060": {
+    "speaker": "Engineer",
+    "text": "Why not try this thing?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_070": {
+    "speaker": "Engineer",
+    "text": "I went ahead and fixed it up earlier.\nI think it's some kind of search mech?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, if this thing helps me fight Pandora,\nI'm happy to give it a spin."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "And we're off."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_END_000_CUT_000_000": {
+    "speaker": "Wiseman",
+    "text": "The time to battle Pandora has come."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_END_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, you really do know everything.\nThat's exactly what I'm going to do!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Aaand we're off!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_END_000_CUT_010_000": {
+    "speaker": "Wiseman",
+    "text": "The sand has stopped.\nPandora has been sealed."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_END_000_CUT_010_020": {
+    "speaker": "Engineer",
+    "text": "Can't believe you managed to find Pandora\nand close it... Who <i>are</i> you, anyway?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_END_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Just some weirdo who worships cats—\nbut it takes all kinds to save the world.\nSpeaking of which, it's time for you to\nget back and save your <i>own</i> world, yes?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I want to save worlds too!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_END_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then let's save 'em together!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE1_WARSHIP_END_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "You can save them from here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, someone's coming!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "This is a ship, which means this desert\nprobably used to be an ocean. I wonder\nwhat the heck happened here..."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hmm? Okay, that's a weird doll.\nStill, I guess its being here means\nthere are people nearby."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Welcome!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa! Er, I mean, hello! I'm Ameya Aisling,\nand it's super nice to meet you!\nAlso, I'm looking for my cat."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Wonderful to meet you as well! I'm Scarecrow,\nand I've been standing here for three thousand\ndays waiting for someone like you to come by.\nOh, but this is a glorious moment!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's, like, a REALLY long time.\nWhy is it that you're so happy to\nhave somebody come along?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "See, I'm a talker—I <i>love</i> talking.\nSo where are you from, Ameya Aisling?\nThe airship? The battleship? The cruise ship?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, so I just got here, which means I\ndon't really know boo about this world.\nThink you can show me around?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_DIVING_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne cruise ship, just as promised."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh. I can't go any further—the flow of\nsand is way too strong. Maybe a little\nmagic will get things going...?\fNope. That didn't work."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Where's that?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This machine has SO many cannon thingies!\nEr, it's not going to start suddenly attacking\nif we get too close, is it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Strangecrow! I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "You can change the flow of sand?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Do you ever give real answers?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "In that case, I'll assume he can change\nthe flow of the sand. Thanks!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_010_000": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TANK_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Thanks, Strangecrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, this cruise ship doesn't look ready\nto do much cruising now—although I don't\nreally understand how people here think.\nAlso, is my cat in here someplace?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Cat? No idea. But people? Yes."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So this is what it's like inside, huh?\nGotta say, I LOVE the no-sand thing."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Well? What have you brought me?\nPlease say you have copper wire;\nI desperately need it for my motors."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hi! I'm Ameya Aisling, and I just came here\nto find my cat. Also, I didn't bring wire or\nanything like that. Sorry."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "Ah, I see. I thought you were a junker.\nWell, I'm the Engineer, and I'm not\nparticularly interested in cats since\nthey don't make for good motive power. "
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Would you happen to know where cats\nhang out in this world, then?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "In this sand-blighted hellhole? Hmmm...\nWell, I suppose a place like that\nwould have to be Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Pandora? I know a myth from some world\nwith that name! It's how all calamities\nwere set free or something, right?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "In this world, Pandora is real. It is Pandora\nthat plunged this place into war and ruin,\nand the horror of that continues to this day.\fSo if we hope to free ourselves from all of\nthis someday, we must find a way to survive\nand close Pandora once and for all."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ah, gotcha. I think I know what\nI'm supposed to do now."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "You're going to close it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "I won't know until I get there.\nDo you have any clue as to where it is?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_110": {
+    "speaker": "Engineer",
+    "text": "I have no idea where Pandora is.\nI suggest you ask a scarecrow."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "Do <i>you</i> know where Pandora is?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_130": {
+    "speaker": "Scarecrow",
+    "text": "Of course! You simply go this way,\nthen that way, then some way!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Lead the way, then!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FERRY_000_CUT_010_150": {
+    "speaker": "Scarecrow",
+    "text": "Delighted to help. To Pandora!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Another machine? You're not going to\ntell me THIS is Pandora, are you?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Nope!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Is this four-legged mech Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "So where IS Pandora, then?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then what ISN'T a silly thing\nto ask a scarecrow?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Grrr!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This robot doesn't look like Pandora,\nbut it DOES look like it could change\nthe flow of sand for us."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure does!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "If you can do anything,\ntell me where my cat is."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "CAN'T DO THAT, BUDDY!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "That's another humongous machine!\nI sure hope Pandora isn't in here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I sure hope not!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "So there are fiends in this world, too?\nDoes the legend claim that the fiends\ncame from Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are YOU older than Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you know nothing. Anyway,\nguess it's time to peek inside."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's nothing in here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Absolutely nothing!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I'm glad there was\nno Pandora. Let's go!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas! Misery! A cat has come to reside\nwithin me now that the fiends are gone!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "A cat? Gimme!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Can't take it right now."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Sorrowcrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_INDUSTRIAL_000_CUT_010_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Thank you. Oh, the agony!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_HUMANOID_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This robot doesn't look like Pandora,\nbut it DOES look like it could change\nthe flow of sand for us."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure does!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_HUMANOID_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then can you tell me\nwhere my cat is!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Sure thing, sweet cheeks! ♥ Just ask\nyourself this: what's the most special-est\nplace in the entire Crowrealm, hmm? ♥\nHere's a hint: it's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_HUMANOID_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "The most special-est place?\nUhhh, I have no idea."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_HUMANOID_000_CUT_000_080": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This looks like the place."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Yep! This could be Pandora!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "No. This is not Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "You know about Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Whoopsie! War robot incoming!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This isn't Pandora; this isn't\nthe kind of calamity I know."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "Did I not just tell you\nthis is not Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, so where is it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I don't know."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "I thought you knew everything!\nUgh. Fine. I'll find it myself."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "I'll help!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "And just what do you plan to do\nonce you actually find Pandora!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, if it's going to be anywhere,\nit's gotta be here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hiya. I'm Ameya Aisling, a witch from\nPulchra, and I'm looking for Pandora.\nIs this the right place?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So the legends are true—an outsider will\nopen Pandora, and an outsider will close it!\nIs this prophecy? An accurate prediction?\nA cleverly executed program?\fWhatever it may be, one thing is certain:\nhistory will now begin to move."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Professor",
+    "text": "Yes, well, introductions! I'm the Professor,\nand I'm researching the Crowrealm's history.\nI've spent hour after endless hour in this place,\nbut today, you will put an end to that!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, I feel like things are blowing up\nreal fast here. Is Pandora really going\nto close up that easily?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Professor",
+    "text": "I haven't the faintest idea; no one has\never seen Pandora for themselves.\nEven if it were inside this airship, I doubt\nyou'd gain access to it so easily."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, seems like I can just walk in,\nso I guess I'll go check!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Let's go check!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, there's security here, but I don't\nsee anything that could be Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "Pandora's secrets lie deeper within.\nLet's go, so I might witness history!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Deeper within!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Moving sand... So <i>this</i> is the truth of Pandora?\nIt's just digging up sand from somewhere and\nscattering it all across our world?\fAbsurd! Ridiculous! Complete and utter rot!\nI can't believe we let all time come to a\nstandstill because we were afraid of <i>this</i>!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "This isn't sand—it's robots!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, I get it now! It was never sand to begin\nwith—it was MACHINES! That's why we could\ncontrol how it was flowing!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "I fear I don't understand."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "So every grain of sand is actually a little\nmachine, which means we're standing in\nmillions of 'em! This is NOT good!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Scarecrow",
+    "text": "Not good!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "We made it!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, we got out somehow—but what should\nwe do now? I mean, how are we supposed\nto take out THAT many machines!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_020": {
+    "speaker": "Professor",
+    "text": "You can do it, girl! That's why the legend\nsays you will be the one to close Pandora!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "But I still don't know what I...\fOkay, stop it! You're Ameya, Witch of Pulchra,\nand you won't let a bunch of little gadgets\nbeat you, no matter HOW many there are!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_040": {
+    "speaker": "Scarecrow",
+    "text": "No sir!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_050": {
+    "speaker": "Wiseman",
+    "text": "You will need power equal to Pandora's\nown if you wish to fight it and win."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Please tell me if you know\nsomething, oh wise Wiseman!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_070": {
+    "speaker": "Wiseman",
+    "text": "Use this. It hates Pandora, and may prove\na great aid in your upcoming fight."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_080": {
+    "speaker": "Wiseman",
+    "text": "Hate begets nothing!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "He is a REALLY weird dude."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_100": {
+    "speaker": "Sarab",
+    "text": "Sarab will kill Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, thanks, Sarab!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, where are you going!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_000_CUT_020_130": {
+    "speaker": "Scarecrow",
+    "text": "Where <i>are</i> you going!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_END_000_CUT_000_000": {
+    "speaker": "Professor",
+    "text": "The time has come at last... Oh, to think\nI might witness a turning point in history\nwith my own eyes."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_END_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm going in. I'm gonna show this\nthing what Ameya the Witch can do!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "She sure is!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_END_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Can you believe it!? I was actually\nable to experience the moment\na legend became reality!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_END_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "Hate really does beget nothing."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_END_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "You did it! You actually closed Pandora!\nHa ha haaa... Hey, wait. What the heck are\nwe supposed to do with the rest of our lives?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, what should I do with my life?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_END_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "You'll come with me, Scarecrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE2_AIRSHIP_END_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Just keep on keepin' on."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FERRY_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Human incoming!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FERRY_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, that's a massive ship! Also old.\nI guess it's been sitting here for a\npretty long time."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FERRY_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Aw, that doll staring at it\nlooks kinda sad."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FERRY_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Actually, this place was already\na ruin when I got here!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FERRY_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Gyaaa! You can talk!\fI mean, uh, hi! My name's Ameya Aisling,\nand I just came to this world."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FERRY_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "I'm Scarecrow. Call me Scarecrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FERRY_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Heya, Scarecrow, I'm looking for my cat.\nHave you seen any around?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FERRY_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Nope. But I know who we can ask.\nFollow me!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne battleship, just as promised."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh. I can't go any further—the flow of\nsand is way too strong. Maybe a little\nmagic will get things going...?\fNope. That didn't work."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Where's that?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's a machine all the way\nout here? Huh. Does it work?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Smilecrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FOURLEGS_000_CUT_000_030": {
+    "speaker": "綱紀",
+    "text": "Aha ha ha ha ha! Scarecrow?\nAha ha ha ha ha! The flow of sand?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "You can change the flow of sand?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FOURLEGS_000_CUT_010_000": {
+    "speaker": "Smilecrow",
+    "text": "The flow of sand! Aha ha ha ha!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FOURLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_FOURLEGS_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Thanks, Smilecrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Man, that battleship looks super old.\nAre there really people in here?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "People, yes. Cats, no."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I was a little worried about what it was\ngoing to be like inside, but it's a\nperfectly suitable place to live."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "The arrival of souls from the\noutside world is an omen."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "How'd you know I'm from the outside?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh my gosh, really!?\nSo you know where my cat is!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_050": {
+    "speaker": "Wiseman",
+    "text": "What is a cat?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Liar!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_070": {
+    "speaker": "Wiseman",
+    "text": "You name others liars, outsider,\nand find only disappointment\nin your own expectations.\fBut very well! I shall reveal your fate:\nyou will find Pandora within the submarine.\nAll else must be decided by you."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Do you know where the\nsubmarine is, Scarecrow?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_090": {
+    "speaker": "Scarecrow",
+    "text": "Yes. I will take you there."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "I wonder what Pandora is."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_WARSHIP_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "I wonder..."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "This machine's got nothing\nto do with my cat, huh?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Do you know where my cat is?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Spookcrow",
+    "text": "I KNOW NOTHING, BUDDY!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "It's another machine.\nI wonder if my cat's inside?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure, maybe!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "So there are fiends in this world, too?\nDoes the legend claim that the fiends\ncame from Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are YOU older than Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you know nothing. Guess that\nmeans it's time to peek inside."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's nothing in here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Absolutely nothing!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, and that includes my cat.\nLet's look somewhere else."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hope you're up for the job when\nshifting sands cut us off again."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We'll be counting on you!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_HUMANOID_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "It isn't like the machine absorbed\nthe cat's powers, right?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Probably not."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Nope! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "What's the most special-est place in the\nentire Crowrealm, hmm? ♥ Here's a hint:\nit's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_HUMANOID_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "The most special-est place?\nUhhh, I have no idea."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I don't think my cat's\ngonna be here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, it is?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey! Is it here or not!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "My cat must be here!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "No way my cat's here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Strangecrow!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_TANK_000_CUT_000_100": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, that's a massive ship! Also old.\nI guess it's been sitting here for a pretty\nlong time—makes me wonder what\nthe heck happened to this world."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sure did! I'm looking for my cat."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So you're not here to close Pandora? Blast!\nWell, I am the Professor, a researcher of\nthe Crowrealm's history who is also seeking\na way to seal Pandora for good."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "The last guy also mentioned Pandora.\nHe said I'd find it in the submarine."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Professor",
+    "text": "That must have been Wiseman. In that case,\nyou must go to the submarine at once!\nThis place holds nothing for you!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "But we have an enemy incoming..."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Now go! Find the Junkman in the submarine,\nand get his help to close Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Please?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, but I have no idea\nwhat Pandora even is."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, fine! I'll go to the submarine."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "If this is a submarine, I guess this means\nthere used to be an ocean here. I wonder if\nI'll actually find this Pandora thing inside."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_000_010": {
+    "speaker": "Junkman",
+    "text": "Ah! An outsider has arrived, just as the\nWiseman foretold. He also claimed that the\nclosing of Pandora was all in your hands.\nSo then...will you close it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm just here looking for my cat;\nit's got nothing to do with Pandora.\nAlso, what even <i>is</i> Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Pandora is the cause of all desolation in\nthis world. It brought calamity to the land\nand launched a war that rages to this day.\fAnd if we hope to right these most\nterrible wrongs, we must close Pandora."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "And you want me to do that?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_000_050": {
+    "speaker": "Junkman",
+    "text": "It is a job meant for you.\nYou will do it. For us."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "For us!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "This is all kinda fishy, but I also have a\nfeeling I need to find Pandora in order to\nfind my cat, so I guess I'll take a look."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hm... Yeah, I don't really see\nanything of interest here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "Not as of yet, but the path goes on.\nNow come. I know we will find it."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "We'll find it!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "And that's just sand. Look, does this Pandora\nthing even EXIST, or are you just shoving all\nof your responsibilities off onto a thing you\nmade up and called Pandora?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_010_040": {
+    "speaker": "Junkman",
+    "text": "The sand... Of course! The <i>sand</i> is the\ncause of all this! The <i>sand</i> is Pandora!\fIt was created here in this place,\nand once it spread across the Crowrealm,\nit sent the entire world to ruin."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "First Pandora, and now the sand?\nBoy, you people really are good at\nblaming others for your problems."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_020_000": {
+    "speaker": "Professor",
+    "text": "I hear you found Pandora!\nDid you manage to close it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_020_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yep! But also, Pandora doesn't exist.\nThat's the real meaning of what\nthe Wiseman said."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_020_020": {
+    "speaker": "Professor",
+    "text": "Is this true, Junkman?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_020_030": {
+    "speaker": "Junkman",
+    "text": "Seems so. If this world is going to be saved,\nit will be done not by an outsider, but by\nthe sweat and toil of those who live here."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_020_040": {
+    "speaker": "Professor",
+    "text": "Well, I suppose that's not so bad;\nthe Crowrealm is our home, after all,\nso it's only fitting that we should\nbe the main characters in its story.\fYou have my thanks—and I swear to\nyou now, we <i>will</i> take our world\nback! We cannot thank you enough."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_020_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, I'm happy to help,\nbut I still need my cat."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_020_060": {
+    "speaker": "Scarecrow",
+    "text": "Then <i>I'll</i> be your cat!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_020_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Muh?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of your\nbest pal Scarecrow, okay!?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So Pandora is really all this sand, huh?\nBut in that case, how am I supposed\nto close it up?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_010": {
+    "speaker": "Junkman",
+    "text": "You can do it. You <i>will</i>.\nThe prophecy says as much."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, but how?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_030": {
+    "speaker": "Professor",
+    "text": "I hear you found Pandora!\nDid you manage to close it?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Found it? It's been here all along!\nAll of this sand is Pandora, and I\nhonestly have no idea what I'm\nsupposed to do about it."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_050": {
+    "speaker": "Professor",
+    "text": "The sand is...? But no, that can't be!\nThe sand isn't attacking us!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh my gosh, you're RIGHT! Without orders,\nPandora is just plain old sand!\fWe need to find a way to\ncut off Pandora's orders!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_070": {
+    "speaker": "Professor",
+    "text": "Wonderful! Now here, take this.\nHe's my little helper and a good,\nfine boy, and I know he'll aid you."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hello, helper! You got a name?"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_090": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "All right then, Sarab!\nLet's find a way to fight Pandora!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_010_CUT_020_110": {
+    "speaker": "Scarecrow",
+    "text": "Let's!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_END_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "You can do it. You <i>will</i>.\nThe prophecy says as much."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_END_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I appreciate that, even if you're\njust trying to make me feel better."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Feel better! Feel better!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_END_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "The prophecy has been fulfilled,\nand Pandora is closed at last."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_END_000_CUT_010_020": {
+    "speaker": "Professor",
+    "text": "The Crowrealm has finally been returned to us,\nand from this day forward, we shall restore it\nto its former glory with our own hands!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_END_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I foresaw all!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I'm going to stay here and help\nwith the restoration."
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_END_000_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Good luck!"
+  },
+  "SUB_W13_EVAR_AMYA_ROUTE3_DIVING_END_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Actually, you should come with me."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "W12_EVAR_DIVA_REMNANT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Unfrozen Person"
+  },
+  "W12_EVAR_DIVA_REMNANT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found someone who isn't frozen."
+  },
+  "W12_EVAR_DIVA_REMNANT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_DIVA_RETURN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Grelon's Exit"
+  },
+  "W12_EVAR_DIVA_RETURN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Could the thing inside you be your heart? You aren't sure, so all you can do is make your way to the next world."
+  },
+  "W12_EVAR_DIVA_RETURN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Grelon"
+  },
+  "W12_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Grelon: The Frozen World"
+  },
+  "W12_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After walking through the door, you find yourself in a world where everything is frozen. You should seek out an unfrozen soul and see if they can help you find your heart."
+  }
+}

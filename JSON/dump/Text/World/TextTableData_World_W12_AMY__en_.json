@@ -1,0 +1,34 @@
+{
+  "W12_EVAR_AMYA_NEKO_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat"
+  },
+  "W12_EVAR_AMYA_NEKO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There should be a cat around here."
+  },
+  "W12_EVAR_AMYA_NEKO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Cat"
+  },
+  "W12_EVAR_AMYA_RETURN_010_TITLE": {
+    "speaker": "UI",
+    "text": "To the Lost Realms"
+  },
+  "W12_EVAR_AMYA_RETURN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W12_EVAR_AMYA_RETURN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Miyako City"
+  },
+  "W12_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Grelon, the Frozen Realms"
+  },
+  "W12_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A world where everything is encased in ice awaited you on the other side of the door, but you don't feel particularly cold. Find someone who isn't frozen and get information about your cat."
+  }
+}

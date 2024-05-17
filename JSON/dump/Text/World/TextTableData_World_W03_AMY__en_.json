@@ -1,0 +1,70 @@
+{
+  "W03_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yomi, Land of Darkness"
+  },
+  "W03_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "On the other side of the door lies a land shrouded in darkness. Perhaps Dolores can lead you to the cat you seek."
+  },
+  "W03_EVAR_AMYA_CAT_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat"
+  },
+  "W03_EVAR_AMYA_CAT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is here!"
+  },
+  "W03_EVAR_AMYA_CAT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W03_EVAR_AMYA_GRAVE_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Grave"
+  },
+  "W03_EVAR_AMYA_GRAVE_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W03_EVAR_AMYA_GRAVE_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Lost Realms"
+  },
+  "W03_EVAR_AMYA_RUIN_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Ruins"
+  },
+  "W03_EVAR_AMYA_RUIN_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W03_EVAR_AMYA_RUIN_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Lost Realms"
+  },
+  "W03_EVAR_AMYA_WELL_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Well"
+  },
+  "W03_EVAR_AMYA_WELL_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W03_EVAR_AMYA_WELL_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Lost Realms"
+  },
+  "W03_EVAR_AMYA_CASTLE_FINAL_PRIDE_110_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Cat"
+  },
+  "W03_EVAR_AMYA_CASTLE_FINAL_PRIDE_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Dolores has become the ruler of Yomi. She says you can find a cat if you defeat her in battle. Could that really be the case?"
+  },
+  "W03_EVAR_AMYA_CASTLE_FINAL_PRIDE_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "W06_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Invading the Kosmos"
+  },
+  "W06_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a twisty, squirmy world on the other side of the door. What kind of spirits could possibly be in a place like this?"
+  },
+  "W06_EVAR_MIDO_SPIRIT_KA_100_TITLE": {
+    "speaker": "UI",
+    "text": "A Fire Spirit Awaits"
+  },
+  "W06_EVAR_MIDO_SPIRIT_KA_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Rumors claim the Cognitheon houses a fire spirit."
+  },
+  "W06_EVAR_MIDO_SPIRIT_KA_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Cognitheon"
+  },
+  "W06_EVAR_MIDO_SPIRIT_SUI_100_TITLE": {
+    "speaker": "UI",
+    "text": "A Water Spirit Awaits"
+  },
+  "W06_EVAR_MIDO_SPIRIT_SUI_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Rumors claim the Respiquary houses a water spirit."
+  },
+  "W06_EVAR_MIDO_SPIRIT_SUI_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Respiquary"
+  },
+  "W06_EVAR_MIDO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Return via the Expulsitory"
+  },
+  "W06_EVAR_MIDO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Time to return to the Heavens."
+  },
+  "W06_EVAR_MIDO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave the Kosmos"
+  },
+  "W06_EVAR_MIDO_RETURN_040_TITLE": {
+    "speaker": "UI",
+    "text": "Return via the Expulsitory"
+  },
+  "W06_EVAR_MIDO_RETURN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired power from all the spirits. Time to head back to the Heavens and search for the door to Miyako City."
+  },
+  "W06_EVAR_MIDO_RETURN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave the Kosmos"
+  }
+}

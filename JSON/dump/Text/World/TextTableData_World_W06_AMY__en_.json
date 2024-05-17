@@ -1,0 +1,34 @@
+{
+  "W06_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Entering the Kosmos"
+  },
+  "W06_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "On the other side of the door was a world that is very much alive. Will you find a cat here?"
+  },
+  "W06_EVAR_AMYA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Returning via the Expulsitory"
+  },
+  "W06_EVAR_AMYA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've found your cat. Time to head back to Miyako City."
+  },
+  "W06_EVAR_AMYA_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leaving the Kosmos"
+  },
+  "W06_EVAR_AMYA_NEKO_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat"
+  },
+  "W06_EVAR_AMYA_NEKO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat must be around here somewhere."
+  },
+  "W06_EVAR_AMYA_NEKO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Look for the Cat"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "UI_Tangram_Piece_Back": {
+    "speaker": "UI",
+    "text": "Put Shard Away"
+  },
+  "UI_Tangram_Pause_Menu": {
+    "speaker": "UI",
+    "text": "Menu"
+  },
+  "UI_Tangram_Pause_Decide": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Tangram_Pause_Back": {
+    "speaker": "UI",
+    "text": "Return"
+  },
+  "UI_Tangram_Pause_Menu01": {
+    "speaker": "UI",
+    "text": "Retry"
+  },
+  "UI_Tangram_Pause_Menu02": {
+    "speaker": "UI",
+    "text": "Quit"
+  },
+  "UI_Tangram_Pause_Menu03": {
+    "speaker": "UI",
+    "text": "Return"
+  },
+  "UI_Tangram_Pause_Menu04": {
+    "speaker": "UI",
+    "text": "Tips"
+  },
+  "UI_Tangram_PieceLabel": {
+    "speaker": "UI",
+    "text": "Necessary Shard"
+  },
+  "UI_Tangram_Localgoods": {
+    "speaker": "UI",
+    "text": "Held"
+  },
+  "UI_Tangram_NoRequired": {
+    "speaker": "UI",
+    "text": "Required"
+  },
+  "UI_Tangram_CompText": {
+    "speaker": "UI",
+    "text": "Complete!"
+  },
+  "UI_Tangram_StyleName": {
+    "speaker": "UI",
+    "text": "Designated Placements"
+  },
+  "UI_Tangram_Piece_ListOpen": {
+    "speaker": "UI",
+    "text": "Shard List"
+  },
+  "UI_Tangram_Game_Back": {
+    "speaker": "UI",
+    "text": "Return to Puzzle"
+  },
+  "UI_Tangram_PieceInfo01": {
+    "speaker": "UI",
+    "text": "<emoji Element_Moku> Wood Shard"
+  },
+  "UI_Tangram_PieceInfo02": {
+    "speaker": "UI",
+    "text": "<emoji Element_Ka> Fire Shard"
+  },
+  "UI_Tangram_PieceInfo03": {
+    "speaker": "UI",
+    "text": "<emoji Element_Do> Earth Shard"
+  },
+  "UI_Tangram_PieceInfo04": {
+    "speaker": "UI",
+    "text": "<emoji Element_Gon> Metal Shard"
+  },
+  "UI_Tangram_PieceInfo05": {
+    "speaker": "UI",
+    "text": "<emoji Element_Sui> Water Shard"
+  },
+  "UI_Tangram_LeftRot": {
+    "speaker": "UI",
+    "text": "<button TGM_LEFTROT>"
+  },
+  "UI_Tangram_RightRot": {
+    "speaker": "UI",
+    "text": "<button TGM_RIGHTROT>"
+  },
+  "UI_Tangram_HorisontalRot": {
+    "speaker": "UI",
+    "text": "<button TGM_INVERSION>"
+  },
+  "UI_Tangram_Button_Next": {
+    "speaker": "UI",
+    "text": "Next"
+  },
+  "UI_TangramBook_Button_Cancel": {
+    "speaker": "UI",
+    "text": "Back"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "UI_Training_MenuText11": {
+    "speaker": "UI",
+    "text": "Dual-Wield Master"
+  },
+  "UI_Training_MenuText12": {
+    "speaker": "UI",
+    "text": "Guns Akimbo Wielder"
+  },
+  "UI_Training_MenuText13": {
+    "speaker": "UI",
+    "text": "Sword & Gun Wielder"
+  },
+  "UI_Training_EmptyText": {
+    "speaker": "UI",
+    "text": "Tutelage Possible"
+  },
+  "UI_Taining_TrainingProgressText01": {
+    "speaker": "UI",
+    "text": "Tutelage Commenced"
+  },
+  "UI_Taining_TrainingProgressText02": {
+    "speaker": "UI",
+    "text": "<arg 0> battle(s) until role acquisition."
+  },
+  "UI_Taining_TrainingProgressText03": {
+    "speaker": "UI",
+    "text": "Role acquired!"
+  },
+  "UI_Taining_TrainingProgressText04": {
+    "speaker": "UI",
+    "text": "Skills improved! +<arg 0>"
+  },
+  "UI_Training_UnableText": {
+    "speaker": "UI",
+    "text": "Recruit <arg 0> more for license acquisition."
+  },
+  "UI_Taining_SkillCountValueText": {
+    "speaker": "UI",
+    "text": "<arg 0> battle(s) until license acquisition."
+  },
+  "UI_Taining_FooterTex01": {
+    "speaker": "UI",
+    "text": "Commence Tutelage"
+  },
+  "UI_Taining_FooterText02": {
+    "speaker": "UI",
+    "text": "End Training"
+  },
+  "UI_Taining_FooterText03": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Taining_Dialog01_Caption": {
+    "speaker": "UI",
+    "text": "End Tutelage"
+  },
+  "UI_Taining_Dialog01_Text": {
+    "speaker": "UI",
+    "text": "End tutelage?"
+  },
+  "UI_Taining_Dialog01_Btn01": {
+    "speaker": "UI",
+    "text": "End"
+  },
+  "UI_Taining_Dialog01_Btn02": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Taining_Menu": {
+    "speaker": "UI",
+    "text": "Tutelage Regimen"
+  },
+  "UI_Training_MenuText01": {
+    "speaker": "UI",
+    "text": "HP"
+  },
+  "UI_Training_MenuText02": {
+    "speaker": "UI",
+    "text": "One-Handed Sword Tech Skill"
+  },
+  "UI_Training_MenuText03": {
+    "speaker": "UI",
+    "text": "Two-Handed Sword Tech Skill"
+  },
+  "UI_Training_MenuText04": {
+    "speaker": "UI",
+    "text": "One-Handed Gun Tech Skill"
+  },
+  "UI_Training_MenuText05": {
+    "speaker": "UI",
+    "text": "Two-Handed Gun Tech Skill"
+  },
+  "UI_Training_MenuText06": {
+    "speaker": "UI",
+    "text": "Martial Arts Tech Skill"
+  },
+  "UI_Training_MenuText07": {
+    "speaker": "UI",
+    "text": "Spell Skill"
+  },
+  "UI_Training_MenuText08": {
+    "speaker": "UI",
+    "text": "Mech Melee Tech Skill"
+  },
+  "UI_Training_MenuText09": {
+    "speaker": "UI",
+    "text": "Mech Shooting Tech Skill"
+  },
+  "UI_Training_MenuText10": {
+    "speaker": "UI",
+    "text": "Monster Tech Skill"
+  },
+  "UI_Training_FormationMenu_Dialog01_Caption": {
+    "speaker": "UI",
+    "text": "Combat Retinue"
+  },
+  "UI_Training_FormationMenu_Dialog01_Text": {
+    "speaker": "UI",
+    "text": "End Mr. S's tutelage and organize\nyour combat retinue?"
+  },
+  "UI_Training_FormationMenu_Dialog01_Btn01": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Training_FormationMenu_Dialog01_Btn02": {
+    "speaker": "UI",
+    "text": "Continue"
+  },
+  "UI_TrainingCount": {
+    "speaker": "UI",
+    "text": "Tutoring sessions in progress: <arg 0>"
+  },
+  "UI_Training_Label01": {
+    "speaker": "UI",
+    "text": "Tutor"
+  },
+  "UI_Training_Label02": {
+    "speaker": "UI",
+    "text": "Pupil"
+  },
+  "UI_Training_SlotLabel": {
+    "speaker": "UI",
+    "text": "Tutelage Status"
+  },
+  "UI_Training_SenseiName": {
+    "speaker": "UI",
+    "text": "Mr. S"
+  }
+}

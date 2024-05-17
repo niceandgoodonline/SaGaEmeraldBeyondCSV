@@ -1,0 +1,286 @@
+{
+  "C01_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Pursuing the Enigma"
+  },
+  "C01_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The enigmatic individual you encountered passed through this door."
+  },
+  "C01_WRLD_BOFO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Strange Space"
+  },
+  "C01_WRLD_BOFO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You find yourself in a place filled with countless floating doors. Will one of them lead you back to Capitol City?"
+  },
+  "C01_WRLD_BOFO_1STMISSION_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Illuminated Path"
+  },
+  "C01_WRLD_BOFO_1STMISSION_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Upon riding the elevator, you found yourself in the space with many doors once more."
+  },
+  "C01_WRLD_BOFO_RETURN_100_TITLE": {
+    "speaker": "UI",
+    "text": "To Capitol City"
+  },
+  "C01_WRLD_BOFO_RETURN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You should report your encounter with the mysterious organization Quisstatium to section chief Hernandez."
+  },
+  "C01_WRLD_BOFO_RETURN_800_TITLE": {
+    "speaker": "UI",
+    "text": "The Eighth Triangle"
+  },
+  "C01_WRLD_BOFO_RETURN_800_DETAIL": {
+    "speaker": "UI",
+    "text": "You've finally gathered all of the triangles. It's time to find a door to take you back to Capitol City."
+  },
+  "C01_DOOR_BOFO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door Beyond the Green Line"
+  },
+  "C01_DOOR_BOFO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Will this door lead you back to Capitol City?"
+  },
+  "C01_DOOR_BOFO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_1STMISSION_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Door Behind Which Something Waits"
+  },
+  "C01_DOOR_BOFO_1STMISSION_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there another jungle on the other side of this door? Or does it lead elsewhere?"
+  },
+  "C01_DOOR_BOFO_1STMISSION_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_RETURN_800_TITLE": {
+    "speaker": "UI",
+    "text": "A Place to Return"
+  },
+  "C01_DOOR_BOFO_RETURN_800_DETAIL": {
+    "speaker": "UI",
+    "text": "Capitol City awaits you on the other side of this door. It's time to take all the triangles home."
+  },
+  "C01_DOOR_BOFO_RETURN_800_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_SCAN_BOFO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Power to Open the Way"
+  },
+  "C01_SCAN_BOFO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The path you must follow has been illuminated for you. Is this the triangle's power?"
+  },
+  "C01_SCAN_BOFO_1STMISSION_000_TITLE": {
+    "speaker": "UI",
+    "text": "Following the Green Line"
+  },
+  "C01_SCAN_BOFO_1STMISSION_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Will following this line lead you to the truth about the triangles and the president's betrayal?"
+  },
+  "C01_DOOR_BOFO_W01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all these doors look the same, the enigma of an ancient city awaits on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, a magical enigma awaits on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W02_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, a dark enigma awaits on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W03_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W04_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, an ocean-bound enigma awaits on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W06_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, an enigma within a mysterious world awaits on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W07_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, temples will solve the enigma on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W08_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W08_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, solving the enigma on the other side of this one will require some digging."
+  },
+  "C01_DOOR_BOFO_W08_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W10_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W10_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, there is an enigma to be pursued on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W10_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W11_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W11_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, an enigma will blossom on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W11_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W12_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W12_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, the world on the other side of this one is cold enough to freeze even an enigma."
+  },
+  "C01_DOOR_BOFO_W12_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W13_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W13_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, an enigma is buried under the sand on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W13_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W14_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W14_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, a place to observe enigmas is on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W14_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W15_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W15_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, a great enigma is at the core of everything that's happened on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W15_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_W17_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W17_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, the answer to an enigma can be earned through battle on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W17_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_BOFO_BATTLE_VH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of Combat"
+  },
+  "C01_DOOR_BOFO_BATTLE_VH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A truly grueling battle awaits beyond this door."
+  },
+  "C01_DOOR_BOFO_BATTLE_VH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "C01_DOOR_BOFO_W18_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "C01_DOOR_BOFO_W18_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, all the answers you desire are on the other side of this one."
+  },
+  "C01_DOOR_BOFO_W18_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  }
+}

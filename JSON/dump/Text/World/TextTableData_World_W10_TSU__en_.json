@@ -1,0 +1,118 @@
+{
+  "W10_EVAR_MIDO_CENTERLIFT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_EVAR_MIDO_CENTERLIFT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Spirits are said to dwell on the lower level, which can be reached by this lift."
+  },
+  "W10_EVAR_MIDO_CENTERLIFT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Lift"
+  },
+  "W10_EVAR_MIDO_KIN_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Weak Spirit's Presence"
+  },
+  "W10_EVAR_MIDO_KIN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "So there are spirits in Delta Base after all..."
+  },
+  "W10_EVAR_MIDO_KIN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Spirit"
+  },
+  "W10_EVAR_MIDO_KIN_100_TITLE": {
+    "speaker": "UI",
+    "text": "A Strong Spirit's Presence"
+  },
+  "W10_EVAR_MIDO_KIN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "So there are spirits in Delta Base after all..."
+  },
+  "W10_EVAR_MIDO_KIN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Spirit"
+  },
+  "W10_EVAR_MIDO_KIN_200_TITLE": {
+    "speaker": "UI",
+    "text": "A Dangerous Spirit's Presence"
+  },
+  "W10_EVAR_MIDO_KIN_200_DETAIL": {
+    "speaker": "UI",
+    "text": "So there are spirits in Delta Base after all..."
+  },
+  "W10_EVAR_MIDO_KIN_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Spirit"
+  },
+  "W10_EVAR_MIDO_RETURN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Connectivity Room Door"
+  },
+  "W10_EVAR_MIDO_RETURN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Head back to the Heavens and search for the next one."
+  },
+  "W10_EVAR_MIDO_RETURN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Heavens"
+  },
+  "W10_EVAR_MIDO_RETURN_040_TITLE": {
+    "speaker": "UI",
+    "text": "Connectivity Room Door"
+  },
+  "W10_EVAR_MIDO_RETURN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired power from all the spirits. Time to head back to the Heavens and search for the door to Miyako City."
+  },
+  "W10_EVAR_MIDO_RETURN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Heavens"
+  },
+  "W10_EVAR_MIDO_CLT_06_120_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Yellow Tribe's Civilization Inquiry"
+  },
+  "W10_EVAR_MIDO_CLT_06_120_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Probably about time they help you search for spirits."
+  },
+  "W10_EVAR_MIDO_CLT_06_120_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Check In"
+  },
+  "W10_GIMK_MIDO_CLT_06_MON_01_TITLE": {
+    "speaker": "UI",
+    "text": "The Spirit-Like Fiend"
+  },
+  "W10_GIMK_MIDO_CLT_06_MON_01_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this the spirit-like fiend that supposedly dwells on the lower level?"
+  },
+  "W10_GIMK_MIDO_CLT_06_MON_01_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W10_GIMK_MIDO_CLT_06_MON_04_TITLE": {
+    "speaker": "UI",
+    "text": "The Spirit-Like Fiend"
+  },
+  "W10_GIMK_MIDO_CLT_06_MON_04_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this the spirit-like fiend that supposedly dwells on the lower level?"
+  },
+  "W10_GIMK_MIDO_CLT_06_MON_04_BUTTON": {
+    "speaker": "UI",
+    "text": "Take It On?"
+  },
+  "W10_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Delta Base"
+  },
+  "W10_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a space station like something from a sci-fi movie on the other side of the door. Are there really spirits in a place like this?"
+  }
+}

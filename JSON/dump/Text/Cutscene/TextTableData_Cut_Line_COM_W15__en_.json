@@ -1,0 +1,182 @@
+{
+  "SUB_W15_FUNC_COMM_VAPORCHECK_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The world is completely polluted."
+  },
+  "SUB_W15_FUNC_COMM_VAPORCHECK_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The world is slightly purified."
+  },
+  "SUB_W15_FUNC_COMM_VAPORCHECK_000_PLN_000_020": {
+    "speaker": "UI",
+    "text": "The world is somewhat purified."
+  },
+  "SUB_W15_FUNC_COMM_VAPORCHECK_000_PLN_000_030": {
+    "speaker": "UI",
+    "text": "The world is extremely purified."
+  },
+  "SUB_W15_FUNC_COMM_VAPORCHECK_000_PLN_000_040": {
+    "speaker": "UI",
+    "text": "The world is completely purified."
+  },
+  "SUB_W15_FUNC_COMM_ANTIATTACK_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The three nearby triangle engines have\nbeen contaminated by the Anti-Triangle!"
+  },
+  "SUB_W15_FUNC_COMM_ANTIATTACK_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The Anti-Triangle's contamination\nhas been thwarted!"
+  },
+  "SUB_W15_FUNC_COMM_CAVE_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The cave has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_CAVE_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The cave has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_DAM_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The dam has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_DAM_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The dam has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_FOREST_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The forest has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_FOREST_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The forest has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_INDUSTRIAL_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The Industrial Ward has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_INDUSTRIAL_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The Industrial Ward has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_LAB_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The research laboratory has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_LAB_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The research laboratory has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_MINE_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The mine has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_MINE_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The mine has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_PARK_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The amusement park has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_PARK_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The amusement park has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_PORT_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The port has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_PORT_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The port has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_RANCH_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The livestock farm has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_RANCH_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The livestock farm has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_SETTLEMENT_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The Residential Ward has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_SETTLEMENT_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The Residential Ward has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_TERMINAL_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The terminal has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_TERMINAL_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The terminal has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_TOWER_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The tower has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_TOWER_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The tower has been purified again!"
+  },
+  "SUB_W15_FUNC_COMM_TRADE_CLEAN_000_PLN_000_000": {
+    "speaker": "UI",
+    "text": "The Commercial Ward has been purified!"
+  },
+  "SUB_W15_FUNC_COMM_TRADE_CLEAN_000_PLN_000_010": {
+    "speaker": "UI",
+    "text": "The Commercial Ward has been purified again!"
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_031": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Hraaah!"
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_032": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Unnngh..."
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_033": {
+    "speaker": "Corana_Sitrix",
+    "text": "Alessa, stop! It's too much!"
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_034": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Cor...ana..."
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_040": {
+    "speaker": "Corana_Sitrix",
+    "text": "Alessa... Alessa, look!\nIt's the Vermillion Bird!"
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_041": {
+    "speaker": "Alessa_Sitrix",
+    "text": "The...Vermillion Bird..."
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_042": {
+    "speaker": "Corana_Sitrix",
+    "text": "Alessa!"
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_043": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Corana... I was able to come back...\nto this side...?"
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_050": {
+    "speaker": "Alessa_Sitrix",
+    "text": "The Vermillion Bird is soaring through\nthe sky...just like it did then..."
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_060": {
+    "speaker": "Corana_Sitrix",
+    "text": "I think the Vermillion Bird has given you\nlife—which means we weren't wrong.\nIt found us worthy."
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_070": {
+    "speaker": "Alessa_Sitrix",
+    "text": "Does this mean it has...forgiven me?\nOh, thank you, Corana—all of this is\nhappening because of you."
+  },
+  "SUB_W15_EVAR_COMM_BOSS_030_CUT_030_080": {
+    "speaker": "Corana_Sitrix",
+    "text": "Happy to help, Sis..."
+  }
+}

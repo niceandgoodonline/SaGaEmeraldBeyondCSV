@@ -1,0 +1,94 @@
+{
+  "W10_EVAR_DIVA_RETURN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Connectivity Room Door"
+  },
+  "W10_EVAR_DIVA_RETURN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Though you didn't find your heart, you still feel your time in this world was well-spent. That said, you're ready to depart Delta Base."
+  },
+  "W10_EVAR_DIVA_RETURN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Junction"
+  },
+  "W10_EVAR_DIVA_CLT_06_120_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division: Civilization Research"
+  },
+  "W10_EVAR_DIVA_CLT_06_120_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps the time has come to enlist their help with finding your heart."
+  },
+  "W10_EVAR_DIVA_CLT_06_120_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Pay Them a Visit"
+  },
+  "W10_GIMK_DIVA_CLT_06_MON_01_TITLE": {
+    "speaker": "UI",
+    "text": "Something Fascinating"
+  },
+  "W10_GIMK_DIVA_CLT_06_MON_01_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this the unidentified being on the lower levels that you've heard about? Perhaps it will lead to your heart."
+  },
+  "W10_GIMK_DIVA_CLT_06_MON_01_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W10_GIMK_DIVA_CLT_06_MON_04_TITLE": {
+    "speaker": "UI",
+    "text": "Something Fascinating"
+  },
+  "W10_GIMK_DIVA_CLT_06_MON_04_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this the unidentified being on the lower levels that you've heard about? Perhaps it will lead to your heart."
+  },
+  "W10_GIMK_DIVA_CLT_06_MON_04_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out?"
+  },
+  "W10_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Delta Base"
+  },
+  "W10_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You find a world that reminds you of yourself on the other side of the door."
+  },
+  "A00_EVAR_DIVA_BATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Battle Training"
+  },
+  "A00_EVAR_DIVA_BATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Albion's National Extradimensional Exploratory Task Force needs to become stronger."
+  },
+  "A00_EVAR_DIVA_BATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Train"
+  },
+  "A00_EVAR_DIVA_BATTLE_001_TITLE": {
+    "speaker": "UI",
+    "text": "Training, Part Two"
+  },
+  "A00_EVAR_DIVA_BATTLE_001_DETAIL": {
+    "speaker": "UI",
+    "text": "You feel as though you've improved your battle prowess slightly."
+  },
+  "A00_EVAR_DIVA_BATTLE_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Train"
+  },
+  "A00_EVAR_DIVA_BATTLE_002_TITLE": {
+    "speaker": "UI",
+    "text": "Training, Part Three"
+  },
+  "A00_EVAR_DIVA_BATTLE_002_DETAIL": {
+    "speaker": "UI",
+    "text": "You feel as though your training is just about over."
+  },
+  "A00_EVAR_DIVA_BATTLE_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Train"
+  }
+}

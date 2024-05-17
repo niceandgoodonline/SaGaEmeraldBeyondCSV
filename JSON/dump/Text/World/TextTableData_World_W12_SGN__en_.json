@@ -1,0 +1,214 @@
+{
+  "W12_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Grelon: The Frozen World"
+  },
+  "W12_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Beyond the door was a world where everything is frozen. Could General's darkness have something to do with this cold? Either way, you should begin searching for captivating darkness."
+  },
+  "W12_EVAR_SIUG_ICECASTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Emperor's Truth and General's Darkness"
+  },
+  "W12_EVAR_SIUG_ICECASTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the palace where the final emperor is sealed. All of the darkness enveloping Grelon originated here, as did General's own. Something exciting is waiting for you here—and you're eager to discover it."
+  },
+  "W12_EVAR_SIUG_ICECASTLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Palace"
+  },
+  "W12_EVAR_SIUG_ICECASTLE_200_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Emperor's Truth and General's Darkness"
+  },
+  "W12_EVAR_SIUG_ICECASTLE_200_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the palace where the final emperor is sealed. All of the darkness enveloping Grelon originated here, as did General's own. You find yourself hoping some evil is waiting for you."
+  },
+  "W12_EVAR_SIUG_ICECASTLE_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Palace"
+  },
+  "W12_EVAR_SIUG_ICECASTLE_210_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Emperor's Truth"
+  },
+  "W12_EVAR_SIUG_ICECASTLE_210_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the palace where the final emperor is sealed. All of the darkness enveloping Grelon originated here, as did General's own. You find yourself hoping some evil is waiting for you."
+  },
+  "W12_EVAR_SIUG_ICECASTLE_210_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Palace"
+  },
+  "W12_EVAR_SIUG_ICECASTLE_300_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Emperor's Truth and General's Darkness"
+  },
+  "W12_EVAR_SIUG_ICECASTLE_300_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the palace where the final emperor is sealed. All of the darkness enveloping Grelon originated here, as did General's own. You cannot wait to see what you will find here."
+  },
+  "W12_EVAR_SIUG_ICECASTLE_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Palace"
+  },
+  "W12_EVAR_SIUG_RETURN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Departing Grelon"
+  },
+  "W12_EVAR_SIUG_RETURN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You have done what you set out to do in Grelon. The time has come to leave."
+  },
+  "W12_EVAR_SIUG_RETURN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Grelon"
+  },
+  "W12_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "W12_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_KENZOKU_010_TITLE": {
+    "speaker": "UI",
+    "text": "Sandrine"
+  },
+  "W12_EVAR_SIUG_KENZOKU_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_KENZOKU_020_TITLE": {
+    "speaker": "UI",
+    "text": "Marion"
+  },
+  "W12_EVAR_SIUG_KENZOKU_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_KENZOKU_030_TITLE": {
+    "speaker": "UI",
+    "text": "Morgane"
+  },
+  "W12_EVAR_SIUG_KENZOKU_030_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_KENZOKU_040_TITLE": {
+    "speaker": "UI",
+    "text": "Eric"
+  },
+  "W12_EVAR_SIUG_KENZOKU_040_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_KENZOKU_050_TITLE": {
+    "speaker": "UI",
+    "text": "Virgile"
+  },
+  "W12_EVAR_SIUG_KENZOKU_050_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_050_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_KENZOKU_060_TITLE": {
+    "speaker": "UI",
+    "text": "Gabriel"
+  },
+  "W12_EVAR_SIUG_KENZOKU_060_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_060_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_KENZOKU_070_TITLE": {
+    "speaker": "UI",
+    "text": "Romain"
+  },
+  "W12_EVAR_SIUG_KENZOKU_070_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_070_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_KENZOKU_080_TITLE": {
+    "speaker": "UI",
+    "text": "Remi"
+  },
+  "W12_EVAR_SIUG_KENZOKU_080_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_080_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_KENZOKU_090_TITLE": {
+    "speaker": "UI",
+    "text": "Leia"
+  },
+  "W12_EVAR_SIUG_KENZOKU_090_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_KENZOKU_090_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_GUILLAUME_100_TITLE": {
+    "speaker": "UI",
+    "text": "Guillaume"
+  },
+  "W12_EVAR_SIUG_GUILLAUME_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_GUILLAUME_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W12_EVAR_SIUG_ESPERANCE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Esperance"
+  },
+  "W12_EVAR_SIUG_ESPERANCE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W12_EVAR_SIUG_ESPERANCE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "UI_Trade_TopBtn01": {
+    "speaker": "UI",
+    "text": "Make a Trade by Shipping"
+  },
+  "UI_Trade_TopBtn02": {
+    "speaker": "UI",
+    "text": "Make a Trade by Bidding"
+  },
+  "UI_Trade_Rank": {
+    "speaker": "UI",
+    "text": "Trading Rank"
+  },
+  "UI_Trade_EmptySlot": {
+    "speaker": "UI",
+    "text": "Add Item"
+  },
+  "UI_Trade_SlotNameText": {
+    "speaker": "UI",
+    "text": "Shipped Items"
+  },
+  "UI_Trade_NpcBidItem": {
+    "speaker": "UI",
+    "text": "Items Put Up as Bids"
+  },
+  "UI_Trade_PutUpItem": {
+    "speaker": "UI",
+    "text": "Items Put Up for Sale"
+  },
+  "UI_Trade_BidItem": {
+    "speaker": "UI",
+    "text": "Bid Items"
+  },
+  "UI_Trade_ProfileText": {
+    "speaker": "UI",
+    "text": "Seller Details"
+  },
+  "UI_Trade_ProfileTex02": {
+    "speaker": "UI",
+    "text": "Buyer Details"
+  },
+  "UI_Trade_TradeItem": {
+    "speaker": "UI",
+    "text": "Items Required"
+  },
+  "UI_Trade_UnableText01": {
+    "speaker": "UI",
+    "text": "You have no shippable items."
+  },
+  "UI_Trade_UnableText02": {
+    "speaker": "UI",
+    "text": "This item cannot be shipped."
+  },
+  "UI_Trade_UnableText03": {
+    "speaker": "UI",
+    "text": "You do not have the required items to make this trade."
+  },
+  "UI_Trade_UnableText04": {
+    "speaker": "UI",
+    "text": "There are no bidders."
+  },
+  "UI_Trade_Dialog01_Caption": {
+    "speaker": "UI",
+    "text": "Trading Drum Bonus"
+  },
+  "UI_Trade_Dialog01_1": {
+    "speaker": "UI",
+    "text": "You received a bonus for\nusing the trading drum!"
+  },
+  "UI_Trade_Dialog02_Caption": {
+    "speaker": "UI",
+    "text": "Shipment Details"
+  },
+  "UI_Trade_Dialog02_1": {
+    "speaker": "UI",
+    "text": "Ship the above?\n<#FF8686>Shipments cannot be canceled once made.</color>"
+  },
+  "UI_Trade_Dialog02_Btn": {
+    "speaker": "UI",
+    "text": "Ship"
+  },
+  "UI_Trade_Dialog03_Caption": {
+    "speaker": "UI",
+    "text": "Shipment complete."
+  },
+  "UI_Trade_Dialog03_1": {
+    "speaker": "UI",
+    "text": "You made the above shipment."
+  },
+  "UI_Trade_Dialog04_Caption": {
+    "speaker": "UI",
+    "text": "Trade Details"
+  },
+  "UI_Trade_Dialog04_1": {
+    "speaker": "UI",
+    "text": "Make this trade?"
+  },
+  "UI_Trade_Dialog04_Btn": {
+    "speaker": "UI",
+    "text": "Trade"
+  },
+  "UI_Trade_Dialog05_Caption": {
+    "speaker": "UI",
+    "text": "Trade Complete"
+  },
+  "UI_Trade_Dialog05_1": {
+    "speaker": "UI",
+    "text": "You made a trade!\nYou earned <arg 0> trade experience."
+  },
+  "UI_Trade_Dialog05_2": {
+    "speaker": "UI",
+    "text": "You made a trade!\nYou earned <arg 0> trade experience.\nYour Trading Rank has increased."
+  },
+  "UI_Trade_Dialog06_Caption": {
+    "speaker": "UI",
+    "text": "Received Bonus Items"
+  },
+  "UI_Trade_Dialog06_1": {
+    "speaker": "UI",
+    "text": "The bidder threw in some extra items as a bonus!"
+  },
+  "UI_Trade_FooterText01": {
+    "speaker": "UI",
+    "text": "Trade"
+  },
+  "UI_Trade_FooterText02": {
+    "speaker": "UI",
+    "text": "Select Items to Ship"
+  },
+  "UI_Trade_FooterText03": {
+    "speaker": "UI",
+    "text": "Check Bids"
+  },
+  "UI_Trade_FooterText04": {
+    "speaker": "UI",
+    "text": "Ship"
+  },
+  "UI_Trade_FooterText05": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Trade_SlotUnopenedText": {
+    "speaker": "UI",
+    "text": "Reach Trading Rank <arg 0> to unlock."
+  },
+  "UI_Trade_Dialog01_Btn": {
+    "speaker": "UI",
+    "text": "OK"
+  },
+  "UI_Trade_Dialog02_Btn_2": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Trade_TopInfo01": {
+    "speaker": "UI",
+    "text": "New bids have arrived."
+  },
+  "UI_Trade_TopInfo02": {
+    "speaker": "UI",
+    "text": "There are no sellers."
+  },
+  "UI_Trade_TopInfo03": {
+    "speaker": "UI",
+    "text": "New items have arrived."
+  }
+}

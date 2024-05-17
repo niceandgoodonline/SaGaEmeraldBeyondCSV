@@ -1,0 +1,34 @@
+{
+  "W13_EVAR_MIDO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Heading Back"
+  },
+  "W13_EVAR_MIDO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Head back to the Heavens and search for the next spirit."
+  },
+  "W13_EVAR_MIDO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W13_EVAR_MIDO_RETURN_040_TITLE": {
+    "speaker": "UI",
+    "text": "Heading Back"
+  },
+  "W13_EVAR_MIDO_RETURN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired power from all the spirits. Time to head back to the Heavens and search for the door to Miyako City."
+  },
+  "W13_EVAR_MIDO_RETURN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W13_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Crowrealm: The World of Sand"
+  },
+  "W13_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world covered in sand on the other side of the door. Could there really be spirits in a world like this? Or people, for that matter?"
+  }
+}

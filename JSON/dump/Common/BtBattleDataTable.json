@@ -1,0 +1,142 @@
+{
+  "BATTLE_00": {
+    "Name": "連戦テスト",
+    "Battle": "['BS_GUR_ZAKO5','BS_GUR_ZAKO6','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "LASTBATTLETEST_00": {
+    "Name": "ラスボス戦テスト",
+    "Battle": "['BS_LastBattleTest_00','BS_LastBattleTest_01','BS_LastBattleTest_02','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "LASTBATTLETEST_10": {
+    "Name": "ラスボス戦テスト",
+    "Battle": "['BS_LastBattleTest_10','BS_LastBattleTest_11','BS_LastBattleTest_12','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W02_OLDCASTLE_00": {
+    "Name": "【魔女世界】古城での足止めザコバトル　リタ版",
+    "Battle": "['BS_W02_OLDCASTLE_00','BS_W02_OLDCASTLE_00_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W02_OLDCASTLE_01": {
+    "Name": "【魔女世界】古城での足止めザコバトル　アメイヤ版",
+    "Battle": "['BS_W02_OLDCASTLE_01','BS_W02_OLDCASTLE_01_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W07_EVAR_MISSION301_00": {
+    "Name": "【元素世界】風のテンプルミッション風力発電所",
+    "Battle": "['BS_W07_EVAR_MISSION301_00','BS_W07_EVAR_MISSION301_00_1','BS_W07_EVAR_MISSION301_00_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W07_EVAR_MISSION402_00": {
+    "Name": "【元素世界】水のテンプルミッション造船所",
+    "Battle": "['BS_W07_EVAR_MISSION402_00','BS_W07_EVAR_MISSION402_00_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W07_EVAR_MISSION402_00_2": {
+    "Name": "【元素世界】水のテンプルミッション造船所",
+    "Battle": "['BS_W07_EVAR_MISSION402_00_2','BS_W07_EVAR_MISSION402_00_3','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W15_EVAR_BOSS_20": {
+    "Name": "【三角世界】メカ進化フレッド、ハイパーアレサ連戦 ",
+    "Battle": "['BS_W15_EVAR_BOSS_20','BS_W15_EVAR_BOSS_20_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W15_EVAR_BOSS_21": {
+    "Name": "【三角世界】ハイパーアレサ、メカ進化フレッド連戦",
+    "Battle": "['BS_W15_EVAR_BOSS_21','BS_W15_EVAR_BOSS_21_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W04_PIRATES_00": {
+    "Name": "【海洋世界】基本展開　海賊のアジト　天秤のタングラム失敗時のバトル",
+    "Battle": "['BS_W04_PIRATES_00','BS_W04_PIRATES_00_1','BS_W04_PIRATES_00_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W04_BALTASAR_11": {
+    "Name": "【海洋世界】基本展開 バルタサールバトル２",
+    "Battle": "['BS_W04_BALTASAR_11','BS_W04_BALTASAR_11_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_MIDO_LASTABATTLE_00_1": {
+    "Name": "【連接領域】御堂編4周目ラストバトルA",
+    "Battle": "['BS_C01_MIDO_LASTABATTLE_00_1','BS_C01_MIDO_LASTABATTLE_00_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_MIDO_LASTABATTLE_01_1": {
+    "Name": "【連接領域】御堂編4周目ラストバトルB",
+    "Battle": "['BS_C01_MIDO_LASTABATTLE_01_1','BS_C01_MIDO_LASTABATTLE_01_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_BS_C01_AMYA_LASTBATTLE_00_1": {
+    "Name": "【連接領域】アメイヤ編ラストバトルA世界を一つにするもの",
+    "Battle": "['BS_C01_AMYA_LASTBATTLE_00_1','BS_C01_AMYA_LASTBATTLE_00_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_BS_C01_AMYA_LASTBATTLE_01_1": {
+    "Name": "【連接領域】アメイヤ編ラストバトルB",
+    "Battle": "['BS_C01_AMYA_LASTBATTLE_01_1','BS_C01_AMYA_LASTBATTLE_01_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_BS_W19_BOSSALL_00": {
+    "Name": "【大樹世界】守護神のしもべとのバトル全部　連戦",
+    "Battle": "['BS_W19_BOSSALL_00','BS_W19_BOSSALL_01','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W17_SIUG_RUIN_00": {
+    "Name": "【戦士世界】シウグナス編遺跡攻略戦",
+    "Battle": "['BS_W17_SIUG_RUIN_00','BS_W17_SIUG_RUIN_00_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W17_SIUG_TEMPLE_00": {
+    "Name": "【戦士世界】シウグナス編神殿攻略戦",
+    "Battle": "['BS_W17_SIUG_TEMPLE_00','BS_W17_SIUG_TEMPLE_00_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W03_SIUG_LASTBATTLE_00": {
+    "Name": "【闇夜世界】シウグナス編闇の城ラスボス戦",
+    "Battle": "['BS_W03_SIUG_LASTBATTLE_00','BS_W03_SIUG_LASTBATTLE_00_1','BS_W03_SIUG_LASTBATTLE_00_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_SIUG_LASTABATTLE_01": {
+    "Name": "【連接領域】シウグナス編ラストバトル",
+    "Battle": "['BS_C01_SIUG_LASTABATTLE_01','BS_C01_SIUG_LASTABATTLE_01_1','BS_C01_SIUG_LASTABATTLE_01_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W06_EP1_THYMUS_00": {
+    "Name": "【体内世界】カン＝ケルゥ展開：キョウセン悪性種に襲われる　３戦目",
+    "Battle": "['BS_W06_EP1_THYMUS_00','BS_W99_027','BS_W99_028','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W12_FARMER_01": {
+    "Name": "【凍結世界】農場バトル連戦",
+    "Battle": "['BS_W12_FARMER_01','BS_W12_FARMER_02','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_BAF_LASTABATTLE_00": {
+    "Name": "【連接領域】ボーニー＆フォルミナ編ラストバトルA世界を一つにするもの",
+    "Battle": "['BS_C01_BAF_LASTABATTLE_00','BS_C01_BAF_LASTABATTLE_00_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W18_BAF_LASTABATTLE_00": {
+    "Name": "【首都世界】ボーニー＆フォルミナ編ラストバトルA世界を一つにするもの",
+    "Battle": "['BS_W18_BAF_LASTABATTLE_00','BS_W18_BAF_LASTABATTLE_00_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W18_BAF_LASTABATTLE_01": {
+    "Name": "【首都世界】ボーニー＆フォルミナ編ラストバトルB世界をバラバラにするもの",
+    "Battle": "['BS_W18_BAF_LASTABATTLE_01','BS_W18_BAF_LASTABATTLE_01_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_AMYA_LASTBATTLE_SIN_00_1": {
+    "Name": "【連接領域★】アメイヤ編ラストバトルA世界を一つにするもの2戦目",
+    "Battle": "['BS_C01_AMYA_LASTBATTLE_SIN_00_1','BS_C01_AMYA_LASTBATTLE_SIN_00_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_AMYA_LASTBATTLE_SIN_01_1": {
+    "Name": "【連接領域★】アメイヤ編ラストバトルB2戦目",
+    "Battle": "['BS_C01_AMYA_LASTBATTLE_SIN_01_1','BS_C01_AMYA_LASTBATTLE_SIN_01_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_BAF_LASTABATTLE_SIN_00": {
+    "Name": "【連接領域★】ボーニー＆フォルミナ編ラストバトルA世界を一つにするもの1戦目",
+    "Battle": "['BS_C01_BAF_LASTABATTLE_SIN_00','BS_C01_BAF_LASTABATTLE_SIN_00_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_MIDO_LASTABATTLE_SIN_00_1": {
+    "Name": "【連接領域★】御堂編ラストバトルA世界をバラバラにするもの2戦目",
+    "Battle": "['BS_C01_MIDO_LASTABATTLE_SIN_00_1','BS_C01_MIDO_LASTABATTLE_SIN_00_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_MIDO_LASTABATTLE_SIN_01_1": {
+    "Name": "【連接領域★】御堂編ラストバトルB世界を一つにするもの2戦目",
+    "Battle": "['BS_C01_MIDO_LASTABATTLE_SIN_01_1','BS_C01_MIDO_LASTABATTLE_SIN_01_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_C01_SIUG_LASTABATTLE_SIN_01": {
+    "Name": "【連接領域★】シウグナス編ラストバトル",
+    "Battle": "['BS_C01_SIUG_LASTABATTLE_SIN_01','BS_C01_SIUG_LASTABATTLE_SIN_01_1','BS_C01_SIUG_LASTABATTLE_SIN_01_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W03_SIUG_LASTBATTLE_SIN_00": {
+    "Name": "【闇夜世界★】シウグナス編闇の城ラスボス戦",
+    "Battle": "['BS_W03_SIUG_LASTBATTLE_SIN_00','BS_W03_SIUG_LASTBATTLE_SIN_00_1','BS_W03_SIUG_LASTBATTLE_SIN_00_2','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W18_BAF_LASTABATTLE_SIN_00": {
+    "Name": "【首都世界★】ボーニー＆フォルミナ編ラストバトルA世界を一つにするもの1戦目",
+    "Battle": "['BS_W18_BAF_LASTABATTLE_SIN_00','BS_W18_BAF_LASTABATTLE_SIN_00_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  },
+  "MBS_W18_BAF_LASTABATTLE_SIN_01": {
+    "Name": "【首都世界★】ボーニー＆フォルミナ編ラストバトルB世界をバラバラにするもの1戦目",
+    "Battle": "['BS_W18_BAF_LASTABATTLE_SIN_01','BS_W18_BAF_LASTABATTLE_SIN_01_1','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']"
+  }
+}

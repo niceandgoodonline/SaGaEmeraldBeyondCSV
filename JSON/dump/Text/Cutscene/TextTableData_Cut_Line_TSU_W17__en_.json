@@ -1,0 +1,1182 @@
+{
+  "SUB_W17_WRLD_MIDO_INITIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy howdy, I'm picking up enough evil mojo\nin this world to make my dang hair stand on\nend. Or else this place is just filled with\nthat kind of vibe, maybe?\fBut I'm gonna have to purify the world either\nway if I want to find spirits, so better just\nknuckle down and get after it."
+  },
+  "SUB_W17_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's one heck of a castle, you betcha.\nBet whoever lives in it will know if there's\nevil spirits mucking things up around here."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_000_000": {
+    "speaker": "King_Din",
+    "text": "Be welcome in Brighthome, my new warrior!\nI am Din, the king of this land, and full glad\nam I that you have answered my call. "
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you called me here, guy?\nEr, or Your Majesty, I guess?"
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Just so. I have summoned you hence so you\nmight join the battle against the forces\nof Chaos spreading o'er this land."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_000_030": {
+    "speaker": "King_Din",
+    "text": "We are set against them in battle without end,\nand require aid from warriors across the\nConjoined Worlds that we might continue\nour brave endeavor."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like this war of yours\nain't going so hot, then."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_000_050": {
+    "speaker": "King_Din",
+    "text": "Our brave allies continue their valorous fight\nacross the land—and while we have seen many\nvictories, so too have we known much of defeat.\nAlas, Chaos is not a foe easily laid low."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_000_060": {
+    "speaker": "King_Din",
+    "text": "I would have you join us as we attempt to\ndrive our foes back unto the Cleft of Chaos,\nlocated to the far north of this castle."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I like that confidence, slugger,\nbut do you really think we can\nmake that much of a difference?"
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_000_080": {
+    "speaker": "King_Din",
+    "text": "Be this false vanity, or do you truly not\ncomprehend your own worth as a warrior?"
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck just happened?"
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_010_010": {
+    "speaker": "King_Din",
+    "text": "The nearby village and fields were set upon\nby the forces of Chaos, and the battle to\nsee them safe is now underway.\fAnd while I know it unseemly to ask this so\nsoon after your arrival in our world, I would\nhave you lend us your aid, that we might\ndrive our hated foe into obscurity."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Always glad to help a fella out, but I've\ngot a question first: You know anything\nabout spirits around here, maybe?"
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_010_030": {
+    "speaker": "King_Din",
+    "text": "Brighthome is awash in spirits, stranger—\nbut as we are presently ensnared by the\npower of Chaos, I fear beholding them\nwill prove most difficult.\fYet if we can weaken Chaos's hold\non the realm, you should be able\nto find the spirits you seek."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Figured it'd be something like that.\nWell then, bud? Lead the way.\nLet's go thump some Chaos."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_010_050": {
+    "speaker": "King_Din",
+    "text": "Then I hereby decree you to be our\nnewest warrior, and grant you the\nproud appellation of Seer."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I've actually already got a name, guy—\nTsunanori Mido by the way, hi there—\nso I don't need a new one."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_010_070": {
+    "speaker": "King_Din",
+    "text": "All who find their way to Brighthome\nare granted a name by the king, Seer.\nThis is the way of things."
+  },
+  "SUB_W17_EVAR_MIDO_CASTLE_TUT_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, if that's the rule, that's the rule—\nthough 'Seer' doesn't strike me as a real\ncatchy nickname, if I'm being honest."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "Oh, you must be King Din's newest warrior.\nI'm President, and I lead the warrior band\nin this village and the surrounding area.\nIt's good to meet you."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Right back at you, guy. Also, tough break\nthat your enemy's strong enough to muck\naround this close to the castle."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "This war is unfolding across all Brighthome—\nand when things are going poorly for us on the\nother side of the bridges, the forces of Chaos are\nable to harry us as they like on this side."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "That said, they're nowhere near as strong here\nas they are at the positions closest to the\nCleft of Chaos, which is why a man like me\ncan still be of some use.\fMy field is governance, you see.\nNot war."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you're another one of the\nfolks King Din called here?"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Indeed. From what I understand, the people\nof this world can't hold their own in the war\nagainst the forces of Chaos, so they call on\nthe power of fighters from other worlds."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And how's that war going, eh?"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_070": {
+    "speaker": "Chief",
+    "text": "Like I said, it's raging across Brighthome,\nwhich makes it difficult to get an accurate\npicture of the entire situation. That's likely\nwhy King Din is expecting so much from you."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I wonder what all he's hopin' to get out\nof me. I only just got here, after all."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_090": {
+    "speaker": "Chief",
+    "text": "You have the power to see unobstructed.\nTo see much. To forecast. To watch. \nThat's why you were given your name."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes. I had no idea my\nnew name meant all that."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_110": {
+    "speaker": "Chief",
+    "text": "While you'll often find yourself facing\nmany choices, you can only ever aid one\nparticular area at a time.\fAnd while the war will get worse in locations\nwhere you don't help, you can't do anything\nabout that. You're just one man, after all,\nso try to keep that in mind."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So choosing where I go\nis a big deal. Got it.\fIn that case, I should probably check\nout the fields and see how things are\ngoing over there."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_010_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "You must be Seer, our new warrior.\nI'm President, and I lead the fighters in this village\nand the surrounding area. Thanks for the help."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh-oh. Did I make a mistake\ngoing to the fields first?"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_010_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "Honestly, I was a little disappointed when\nyou went there—but it wasn't <i>wrong</i>, per se.\nWhen it comes to where you go, all you can\ndo is make whatever choice you think is best."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_010_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "But as you get deeper into the war and head over\nthe bridges, you need to have a plan in place—\nbecause any locations on this side that you leave\non their own will be targeted by the enemy.\fAnd look, I know our ultimate goal is to\nstrike at the Cleft of Chaos, but if all\nwe think about is advancing the line..."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_010_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Then everything on this side of the\nbridges could end up in big trouble."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_010_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Yep. Slow and steady progress is the best\ncourse—or at least that's what I think.\nEveryone else seems to just want big\nflashy results, though, so who knows."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_TUT_010_CUT_000_080": {
+    "speaker": "Chief",
+    "text": "Now, c'mon. Let's work together\nand liberate Brighthome from the\nclutches of Chaos."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Well, you must be King Din's new warrior!\nI'm Manikin—I lead the warrior band that\nprotects these fields."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "The war's unfolding all across Brighthome, and\nwhen things are going bad on the other side of\nthe bridges, the forces of Chaos show up here.\nHell, sometimes they even come to these fields!"
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_030": {
+    "speaker": "Doll",
+    "text": "That said, the enemy's pretty weak here\ncompared to their strength near the\nCleft of Chaos, which is how a fellow\nlike me can still be useful.\fSo if you need someone to watch over\na field, I'm your guy."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you're another one of the\nfolks King Din called here?"
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_050": {
+    "speaker": "Doll",
+    "text": "Sure am! No idea why the king needed a wooden\nthing like me to help out, but here I am—and\nI want to do the best job I can to aid the people\nand fields of this world."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So how's that war going, anyway?"
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_070": {
+    "speaker": "Doll",
+    "text": "Buddy, I'm basically a glorified scarecrow—\nthings like strategy and warfare and all that\nare beyond my pay grade. I'm guessing that's\nwhy King Din is expecting so much from you."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, I'm not much for those things either,\nwhich is why I don't get why the king has\nsuch high hopes for a guy like me."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_090": {
+    "speaker": "Doll",
+    "text": "Yeah, but he named you the Seer, right?\nThat means you've got the power to see\nthings unobstructed—to predict the future,\nwatch what unfolds, and understand it."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_110": {
+    "speaker": "Doll",
+    "text": "But no matter how much you can see, you can still\nonly help one place at a time—so the others will\njust have to figure out some other way to get by.\fI know that sounds rough, but trust me,\nyou'll get used to it. Just remember that\nyou're not fighting alone, so get out\nthere and do the best you can, okay? "
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So choosing where I go\nis a big deal. Got it.\fIn that case, I should probably wander\nover to the village and see how things\nare going over there."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_010_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Well, you must be King Din's new warrior!\nI'm Manikin—I lead the warrior band that\nprotects these fields."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry it took me so long to\nget over here, guy."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_010_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "Yeah, it wasn't great watching you head\nto the village before us, but I figured\nyou'd make it out this way eventually.\nAnd now look! Here you are."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_010_CUT_000_030": {
+    "speaker": "Doll",
+    "text": "Just remember that the closer you get to\nthe Cleft of Chaos in the hinterlands,\nthe harder it will be for you to come\nback here and help out.\fBasically, while you're off helping at one\nlocation, positions elsewhere might fall to\nthe forces of Chaos. It's a huge bummer,\nbut them's the breaks."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_010_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So I've gotta keep one eye on\nthe big picture, basically."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_010_CUT_000_050": {
+    "speaker": "Doll",
+    "text": "Yep. As for me, my job is to keep\nan eye on things—and thankfully,\nI am GREAT at standing completely\nmotionless and staring at stuff!"
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_TUT_010_CUT_000_080": {
+    "speaker": "Doll",
+    "text": "Now get out there and let's give this\nfight all we've got—for Brighthome's\npeople AND its fields!"
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_000": {
+    "speaker": "Bully",
+    "text": "So you're the newcomer, eh, Seer? Tongues around\nhere are all a'wag about how you're the greatest\nthing since milled bread, which is why the king\nis expecting all these great things from you.\fMe though? I don't trust that kind of talk—\nand folks like you who encourage it really\nchap my cheeks. So I think it's time to knock\nyou around and show you what's what."
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's a heck of a welcome there, bud—\nbut I'm not about to let you kick my rear\nand then thank you for the privilege!"
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_020": {
+    "speaker": "Bully",
+    "text": "Heh. You ain't half bad, Seer.\nThe name's Bully—or at least that's\nwhat people around here call me."
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_030": {
+    "speaker": "Bully",
+    "text": "Yeah, that's what I thought:\nall talk, no fists.\fWell, I'm Bully—leader of the warrior band\nin these parts. Pretty short name, but you\nseem a bit dense, so write it down somewhere\nif it helps you remember."
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This is clearly some kind of mine,\nbut what's the deal here?"
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_050": {
+    "speaker": "Bully",
+    "text": "I only just got here myself, so I don't\nknow a whole lot more than you.\nBasically, stuff that's dug up here gets\nsent to King Din's castle."
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So it's the king's mine, eh?"
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's use it to help nearby areas."
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's send more stuff to the king."
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_090": {
+    "speaker": "Bully",
+    "text": "Heh. I like the way you think, Seer—\nsending all this junk off to the king\nalways struck me as a hell of a waste. "
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You don't think he'll get mad\nand start takin' heads, maybe?"
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_110": {
+    "speaker": "Bully",
+    "text": "We couldn't fight the forces of Chaos if we\nwere afraid of what the damn king might do!\nLook, I'll just sock him one if he complains,\nso don't worry that pretty face about it."
+  },
+  "SUB_W17_EVAR_MIDO_MINE_TUT_000_CUT_000_120": {
+    "speaker": "Bully",
+    "text": "So the king's boots ain't been tonguewashed\nenough for your liking, eh? Sure thing, Seer.\nI hear ya loud and clear."
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_TUT_000_CUT_000_000": {
+    "speaker": "Lord",
+    "text": "You must be the new war asset I keep hearing\nabout. I take it you're traveling the world\nlike some commando unit? Ah, but that\nmakes me jealous...\fAnyway, I'm Warden, and it's my job\nto watch over the graveyard."
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_TUT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You got a lot of dead folks that\nneed babysitting around here?"
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_TUT_000_CUT_000_020": {
+    "speaker": "Lord",
+    "text": "When the dead are pulling themselves out of the\ndirt and roaming the land? You better believe it.\nHell, that's the dictionary definition of Chaos,\nain't it, pal?\fThat's why the enemy's always got\ntheir beady little eyes fixed on\nthe corpses here."
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_TUT_000_CUT_000_030": {
+    "speaker": "Lord",
+    "text": "On top of that, we've got bodies piling up like\ncordwood, and not enough hands to see 'em\nproperly buried. We're pretty much cleaning\nup after the other warrior bands' messes."
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_TUT_000_CUT_000_040": {
+    "speaker": "Lord",
+    "text": "Also, King Din might've named me Warden,\nbut I don't see why I've gotta resign myself\nto watching over some moldering old graves.\fI should be out there saving grand castles,\nsacred temples, and ancient ruins. I mean,\nhell, any idiot can keep an eye on a grave,\nbut I was meant for greater things!"
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_TUT_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You want a hand looking after\nall these graves, maybe?"
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_TUT_000_CUT_000_060": {
+    "speaker": "Lord",
+    "text": "Eh, you're good people for offering,\nbut it's my job, and I'll see it through.\nYou keep yourself alive out there, y'hear?"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_TUT_000_CUT_000_000": {
+    "speaker": "Vacuum",
+    "text": "Hey! You there! I KNOW you're not here\nto steal my prey, right? Riiight!?\fHmm... Now that I look more closely,\nI don't think I've seen your face before.\nWhich warrior band are you with?"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_TUT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "My name's Tsu... I mean, Seer."
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_TUT_000_CUT_000_020": {
+    "speaker": "Vacuum",
+    "text": "Ah, right. The new 'reinforcements.'\nI heard a warrior with the power to\nturn the tide of the war was coming—\nthough can't say I'm seeing it in you."
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_TUT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "People can expect all the great things they\nwant outta you, but that's still too much\nresponsibility to put on one person.\fThat's 'cause this isn't the kind of war\nthat gets turned around by a single person\nwith some optimistic thoughts. You get me?"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_TUT_000_CUT_000_040": {
+    "speaker": "Vacuum",
+    "text": "Still, so long as I get to keep fighting my heart\nout, I don't really care what you do or how the\nwar effort's going overall. I chew up fiends and\nspit 'em out, and that's what makes sense to me."
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_TUT_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You've got lots of warriors with lots\nof different opinions around here,\ndon't you, bud?"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_TUT_000_CUT_000_060": {
+    "speaker": "Vacuum",
+    "text": "I'm just a fighter invited here by King Din.\nIf you wanna know all the whys and hows,\nyou'll have to ask the big man himself."
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_TUT_000_CUT_000_070": {
+    "speaker": "Vacuum",
+    "text": "Now, are you gonna stand here griping\nat me all day, or are you gonna get out\nthere and scope some more positions?"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_TUT_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good point. I'll do that."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_TUT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This town get abandoned in the\nChaos invasion, maybe?"
+  },
+  "SUB_W17_EVAR_MIDO_CITY_TUT_000_CUT_000_010": {
+    "speaker": "Fiore",
+    "text": "Some people yet live here,\nand we fight to protect them.\fI am Floral. You are Seer, the one\npeople are talking about, yes?"
+  },
+  "SUB_W17_EVAR_MIDO_CITY_TUT_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure hope they're saying good things."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_TUT_000_CUT_000_030": {
+    "speaker": "Fiore",
+    "text": "Good and bad in equal measure—the good\nbeing that you might be the one who can\nbring an end to this wretched war."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_TUT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And the bad?"
+  },
+  "SUB_W17_EVAR_MIDO_CITY_TUT_000_CUT_000_050": {
+    "speaker": "Fiore",
+    "text": "I will not speak of it, for I place no\nstock in rumor. Rather, I would like to\nascertain the truth of you for myself."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_TUT_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't really think I'm anything more\nthan the guy you're lookin' at."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_TUT_000_CUT_000_070": {
+    "speaker": "Fiore",
+    "text": "Then test your mettle against the forces\nof Chaos here in town so I might determine\nthe truth of you. Epuyke nogonoa kowo!"
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_000_CUT_000_000": {
+    "speaker": "Arsenal",
+    "text": "I am Gunner. You are Seer, yes?\nWe have succeeded in retaking\nthe stronghold, and I thank you\nfor your assistance. "
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That was a real doozy of a fight there, fella.\nGuess I shouldn't be surprised, seeing as\nwe're basically on top of the Cleft of Chaos."
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_000_CUT_000_020": {
+    "speaker": "Arsenal",
+    "text": "Indeed. This fortress was built to deal with\nthe mighty fiends that emerge from the Cleft,\nbut it had fallen into enemy hands long ago."
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So do we march on the Cleft now?"
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_000_CUT_000_040": {
+    "speaker": "Arsenal",
+    "text": "No, the time is not yet right. We will better\nour chances at successfully cutting off the\nCleft if we take all the positions around it."
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I'll get on that, then."
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_TUT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This looks like a temple right here. Pretty close\nto the Cleft of Chaos, but it doesn't seem like\nthere's any fiends here. Guess the place just\nhas that kind of power, maybe?"
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_TUT_000_CUT_000_010": {
+    "speaker": "Sorceress",
+    "text": "Wrong! It is because I,\nSorceress, am here!"
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_TUT_000_CUT_000_020": {
+    "speaker": "Sorceress",
+    "text": "I was surprised to see another warrior\nband here, but then I realized you must\nbe the newcomer, Seer."
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_TUT_000_CUT_000_030": {
+    "speaker": "Sorceress",
+    "text": "Ah, what fine timing! The forces of Chaos\nhave come, drawn as they are to your power.\nNow you can show me just what King Din's\nsecret weapon is made of!"
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_TUT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "How you like them apples!?"
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_TUT_000_CUT_000_050": {
+    "speaker": "Sorceress",
+    "text": "You clearly know how to fight, Seer. Perhaps\nyou truly are the one who will bring an end\nto the war with Chaos—not that the prospect\nthrills me, if I'm being honest."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_000": {
+    "speaker": "Gadget",
+    "text": "Welcome to Hell, Seer. Have you found\nthe spirits you're looking for?"
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So is this place in sad shape because\nof the whole Chaos deal?"
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_020": {
+    "speaker": "Gadget",
+    "text": "This place was a ruin well before the\nCleft of Chaos even opened. This is\nwhy it attracts the forces of Chaos,\nand why it has become Hell itself."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pretty calm place, considering it's Hell\nand all. Also, does that make you the\nking of Hell or something, fella?"
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_040": {
+    "speaker": "Gadget",
+    "text": "You name me the keeper of Hell? Well,\naren't you a funny <i>kugutsu</i> wielder."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You're a <i>kugutsu</i>! I knew it!\nWhat should I call you?"
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_060": {
+    "speaker": "Gadget",
+    "text": "I am Gadget. I have a true <i>kugutsu</i> name,\nbut I cannot speak it to you, as you are a\nwielder. I work only for His Majesty King Din,\nafter all."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fair enough, guy. But hey, if you're not\nthe king of Hell, what are you doing here?\nFerrying people on over or something?"
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_080": {
+    "speaker": "Gadget",
+    "text": "Call me keeper or ferryman or whatever you\nwill, because I am sending everything that\nemerges from the Cleft of Chaos on to Hell!\nBwaaa ha ha ha ha!"
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_TUT_000_CUT_000_090": {
+    "speaker": "Gadget",
+    "text": "And with that, it appears we have enemies\nclosing in. I'll be certain to share a couple\nwith you, my <i>kugutsu</i> wielder!"
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_010_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I went to the temple and the ruins,\nand met some pretty weird folks."
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_010_CUT_000_010": {
+    "speaker": "Arsenal",
+    "text": "Those warriors are interested in nothing save\ndemonstrating their own strength—they could\nnot care less about the war or cooperating\nwith our other positions across the land.\fThat said, they are also the only reason\nyou and I are able to continue fighting\nso close to the Cleft."
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_010_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know, guy, I bet you could\nconvince 'em to work with you\nhere at the stronghold now."
+  },
+  "SUB_W17_EVAR_MIDO_FORT_TUT_010_CUT_000_030": {
+    "speaker": "Arsenal",
+    "text": "I wager this is true—and hope so\nas well. For now is our chance\nto march on the Cleft of Chaos!"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you have arrived at last.\nWell done, Seer."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I sure have, guy—but we haven't\nsecured those ruins yet."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Be that as it may, we cannot let\nslip this opportunity to strike\nat the Cleft of Chaos."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You read my mind, fella—and whatever's\nwaiting for us is gonna get one heck\nof a beating!"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I sure have, guy—but we haven't\nsecured that temple yet."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_020_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What are you doing here, guy?"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_020_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "I would bear witness to the\nfinal battle for myself."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_020_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, talk about pressure.\nBetter make this good if I got\na dang king watchin' me!"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_040_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "We owe most of this to\nthe legendary treasure."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_040_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Do not let up! Strike at them\nand seal the Cleft!"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_040_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Time to make a NEW legend!"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_010_000": {
+    "speaker": "King_Din",
+    "text": "And with that, the Cleft is sealed.\nFor a time, at least, peace will\nreign across the land."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Is there no way we can just\nblock this thing up for good?"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "We have attempted many approaches—such\nas blockading it with soil or water—but ever\ndoes the maw of Chaos yawn wide.\fAll we can do is enjoy a moment's peace\nuntil the time comes when we must\nsummon warriors once more."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Is it some kind of curse?"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "We do not think so. The Cleft's appearance\nleads to the arrival of warriors, and we\nare able to meet their kind from across\nthe worlds only when it is opened."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And meeting those folks\nis worth all this hassle?"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_000_CUT_010_060": {
+    "speaker": "King_Din",
+    "text": "Indeed! Why, my having met with you is\none of the supreme delights of my life!"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_020_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "'For a time'? What's that mean?"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_020_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "The Cleft of Chaos will open again erelong,\nat which point our battle will flare anew.\nWarriors will then arrive in Brighthome once\nmore, for such is the way of things here."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_020_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you folks just keep fighting?\nIt never ends?"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_020_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "Correct, Seer. Brighthome is a world locked\nin eternal conflict—but this only makes our\nfleeting moments of peace all the sweeter."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_020_CUT_010_050": {
+    "speaker": "King_Din",
+    "text": "I thank you one and all,\nmy brave warrior bands!"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_030_CUT_010_000": {
+    "speaker": "King_Din",
+    "text": "And thus is the Cleft blocked off.\nYour strength was formidable, Seer—\nrather too formidable, in fact."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_030_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck does that mean, guy?"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_030_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "I so enjoy watching our warriors do battle that\nI often find myself wishing the war might go on\nforever. Thus did I call you here to shore up\nthe fighting strength of our bands, but now..."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_030_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, so you're ticked off the battle is over?\nI got news for you, fella: that ticks ME off!\nHeck, we're all fighting for our lives out there!"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_030_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "I have no further use for you, Seer.\nBegone from my sight."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_030_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm not gonna begone anywhere until\nI find what I came here for, guy!"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_040_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, so we can't seal that Cleft\nup for good even though we have\nthe legendary weapon?"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_040_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "Correct. The Cleft of Chaos will open again erelong,\nat which point our battle will flare anew. New warriors\nwill then arrive in Brighthome, making this but a single\npage in our great history."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_040_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So the legendary treasure's just\ngonna disappear somewhere else?"
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_040_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "A legend must ever remain a legend."
+  },
+  "SUB_W17_EVAR_MIDO_HOLE_040_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, no. That fella's shady as a tree.\nPretty sure he's hiding something."
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This looks like a temple right here. Pretty close\nto the Cleft of Chaos, but it doesn't seem like\nthere's any fiends here. Guess the place just\nhas that kind of power, maybe?"
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_000_CUT_000_010": {
+    "speaker": "Sorceress",
+    "text": "Wrong! It is because I,\nSorceress, am here!"
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_000_CUT_000_020": {
+    "speaker": "Sorceress",
+    "text": "I was surprised to see another warrior\nband here, but then I realized you must\nbe the newcomer, Seer."
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_000_CUT_000_030": {
+    "speaker": "Sorceress",
+    "text": "Ah, what fine timing! The forces of Chaos\nhave come, drawn as they are to your power.\nNow you can show me just what King Din's\nsecret weapon is made of!"
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "How you like them apples!?"
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_000_CUT_000_050": {
+    "speaker": "Sorceress",
+    "text": "Perhaps you truly are the one who will bring\nan end to the battle with Chaos. I pray this\nmight be so, for I have grown weary of war."
+  },
+  "SUB_W17_EVAR_MIDO_TEMPLE_000_CUT_000_060": {
+    "speaker": "Sorceress",
+    "text": "So...you know. Get on that."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_000_CUT_000_000": {
+    "speaker": "Gadget",
+    "text": "Why would you come to Hell itself?\nIs it really so important that you\nfind a spirit?"
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm not here because I want to be, bud.\nAlso, if we're in Hell, that means the\ndead should be here. And not to be rude,\nbut you sure look like one of 'em."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_000_CUT_000_020": {
+    "speaker": "Gadget",
+    "text": "Me, one of the dead? Bah!\nHow insincere of a <i>kugutsu</i> wielder."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Ah ha! So you ARE a <i>kugutsu</i>!\nWhat should I call you?"
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_000_CUT_000_040": {
+    "speaker": "Gadget",
+    "text": "I am Gadget. I have a true <i>kugutsu</i> name,\nbut I cannot speak it to you, as you are a\nwielder. I work only for His Majesty King Din,\nafter all."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, if you're not dead, maybe you can help\na fella out. And believe you me, I could use\nall the help I can get, seeing as we're in\nliteral Hell right here."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_000_CUT_000_060": {
+    "speaker": "Gadget",
+    "text": "As though 'help' could even exist in Hell.\nIf you cling to the thread of salvation,\nsooner or later it will snap and send you\nplummeting into the abyss."
+  },
+  "SUB_W17_EVAR_MIDO_RUIN_000_CUT_000_070": {
+    "speaker": "Gadget",
+    "text": "And with that, the enemies close in.\nLet us see how you fare, Seer!"
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_000_CUT_000_000": {
+    "speaker": "Lord",
+    "text": "If you've come for a grave, you can dig your own.\nI don't have enough hands to be digging one for\neverybody who keels over right now."
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks, but I'm not in the market for a hole\nto rot in, fella. But say, were those fiends\ntrying to rob these graves, maybe?"
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_000_CUT_000_020": {
+    "speaker": "Lord",
+    "text": "They sure as hell were! The dastards come\nhere, dig up corpses, and turn 'em into\nservants of Chaos.\fAnd if they manage to take the graveyard,\nwe'll be up to our armpits in enemies\ntrying to send us into our own graves."
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You must be a real strong fella\nif they put you in charge of\nprotecting this place, then."
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_000_CUT_000_040": {
+    "speaker": "Lord",
+    "text": "Hell yeah I'm strong—ask any of the other\nwarriors around here, and they'll all tell ya\nno one holds a candle to the Warden!"
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, keep up the good work, bud."
+  },
+  "SUB_W17_EVAR_MIDO_GRAVEYARD_000_CUT_000_060": {
+    "speaker": "Lord",
+    "text": "Don't leave! I've got more to say!\n...Bah, he's gone."
+  },
+  "SUB_W17_EVAR_MIDO_FORT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The forces of Chaos must be the real deal\nif they can build a fortress like this!"
+  },
+  "SUB_W17_EVAR_MIDO_FORT_000_CUT_000_010": {
+    "speaker": "Arsenal",
+    "text": "They did not build this stronghold—\nthey stole it from us. This is why\nit's proven so difficult to reclaim."
+  },
+  "SUB_W17_EVAR_MIDO_FORT_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "If it's such an important place, I really wish\neveryone did a better job of protecting it in\nthe first place. But if we DID take it back, it'd be\na quick way to turn the tide in our favor, yeah?"
+  },
+  "SUB_W17_EVAR_MIDO_FORT_000_CUT_000_030": {
+    "speaker": "Arsenal",
+    "text": "That is correct. Also, I am Gunner,\nthe leader of the warrior band here.\nThank you for your aid, Seer."
+  },
+  "SUB_W17_EVAR_MIDO_FORT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You betcha, fella."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Did this town get abandoned in\nthe Chaos invasion, maybe?"
+  },
+  "SUB_W17_EVAR_MIDO_CITY_000_CUT_000_010": {
+    "speaker": "Fiore",
+    "text": "It did—and soon, every place in this\nworld will suffer the same fate."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But that's why we're here, eh?\nTo stop that from happening?"
+  },
+  "SUB_W17_EVAR_MIDO_CITY_000_CUT_000_030": {
+    "speaker": "Fiore",
+    "text": "If the warrior bands were truly so powerful,\nthis war would not have dragged on so long.\nAlas, the reality of the war with Chaos is\nnot so kind as all that."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Feels like you're gonna laugh at me\nif I say I'll do something about it."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_000_CUT_000_050": {
+    "speaker": "Fiore",
+    "text": "I would never mock the Seer."
+  },
+  "SUB_W17_EVAR_MIDO_CITY_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotta say, this 'I know everything'\nattitude's getting on my nerves a bit.\nWho are you, anyway?"
+  },
+  "SUB_W17_EVAR_MIDO_CITY_000_CUT_000_070": {
+    "speaker": "Fiore",
+    "text": "I am Floral, and the land tells me all.\nThe forces of Chaos will be upon us soon.\nI pray you might fight them off, Seer!\nEpuyke nogonoa kowo!"
+  },
+  "SUB_W17_EVAR_MIDO_MINE_000_CUT_000_000": {
+    "speaker": "Bully",
+    "text": "Oh, joy. King Din's little plaything\nis back. Not looking all that reliable\nthis time, are you, plaything?"
+  },
+  "SUB_W17_EVAR_MIDO_MINE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "King called you here same as me, fella.\nThere's no difference between us."
+  },
+  "SUB_W17_EVAR_MIDO_MINE_000_CUT_000_020": {
+    "speaker": "Bully",
+    "text": "No difference!? NO DIFFERENCE!?\nI'll SHOW you the difference, plaything!"
+  },
+  "SUB_W17_EVAR_MIDO_MINE_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess there was a\ndifference after all."
+  },
+  "SUB_W17_EVAR_MIDO_MINE_000_CUT_000_040": {
+    "speaker": "Bully",
+    "text": "Aw, damn it all."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_000_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Thanks a ton for your help out here\nin the fields. I mean, not that we're\ngrowing anything, but still."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So why are you protecting 'em?"
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_000_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "'Cause I'm Manikin, a glorified scarecrow\nwho can't do anything BUT protect fields!"
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, fair point, I guess. So what'd\nKing Din call you for, then?"
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_000_CUT_000_040": {
+    "speaker": "Doll",
+    "text": "No idea. Glorified scarecrow, remember?\nBut there WAS something I realized this\none time when I was staring motionlessly\nat the fields..."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I bet this'll be a deal."
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_000_CUT_000_060": {
+    "speaker": "Doll",
+    "text": "There are no crows in Brighthome!"
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. But hey, that's good, right?\nMeans you're doing your job.\nSo keep it up, yeah?"
+  },
+  "SUB_W17_EVAR_MIDO_FIELD_000_CUT_000_080": {
+    "speaker": "Doll",
+    "text": "Thanks!"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_000_CUT_000_000": {
+    "speaker": "Vacuum",
+    "text": "Oh, I'm so glad you're here, Seer!\nI've been waiting for you to come\nfor SO LONG!"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "How can I help, bud?"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_000_CUT_000_020": {
+    "speaker": "Vacuum",
+    "text": "You can take me the hell out of here,\nbecause I absolutely cannot STAND\nbeing here one second longer!\fC'mon, you can do that, right? Please!\nI'll do anything! I'm begging you!"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's just simmer down there, tiger.\nIf you take off, what's gonna happen\nto this place? Aren't you the one keeping\nthe forces of Chaos from taking it?"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_000_CUT_000_040": {
+    "speaker": "Vacuum",
+    "text": "I chew up fiends and spit 'em back out!\nThen I do it again! And again! And AGAIN!\nI can't take it anymore! I CAAAAAAN'T!"
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry, bud, but the king called us here\nto do a job, and that's just our fate.\nNothing to be done about it."
+  },
+  "SUB_W17_EVAR_MIDO_CHURCH_000_CUT_000_060": {
+    "speaker": "Vacuum",
+    "text": "No! Don't go! Don't leave me here!"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_000_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "If the forces of Chaos are showing up this\nclose to the castle, this war might finally\nbe close to ending...in our defeat.\fOh. Hello there. I'm President."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like you're losing heart there, guy.\nI'm Seer—or at least that's the name the\nking gave me. Now let's work together and\ndo what we can here, yeah?"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_000_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "So you're Seer. Well, considering you only\njust arrived, I see why you would trust\nin King Din's power.\fBut for the rest of us, it doesn't mean\nsquat. That guy doesn't do a damn thing;\nwhatever we accomplish, we do on our own."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_000_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "I know the warrior bands are doing their best,\nbut there's been no indication that the forces\nof Chaos are weakening—so if you think I'm\nlosing heart, that's why."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, I'll figure something out—'cause heck,\nif we don't win this battle, I might not\nget what I actually came here for.\fSo come on, President. Chin up.\nWe can do this, yeah?"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_000_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Well, you certainly seem confident,\nso...I guess I'll trust you."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks, bud. You won't regret it."
+  },
+  "SUB_W17_EVAR_MIDO_REBEL_000_CUT_000_000": {
+    "speaker": "Immunity",
+    "text": "Blargh! It's just as I feared! \nThe rebels have appeared!"
+  },
+  "SUB_W17_EVAR_MIDO_REBEL_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What do you mean there, guy?"
+  },
+  "SUB_W17_EVAR_MIDO_REBEL_000_CUT_000_020": {
+    "speaker": "Immunity",
+    "text": "My name's Immunity, and it's my job to\nkeep the warriors King Din summoned from\nbetraying him and joining up with Chaos."
+  },
+  "SUB_W17_EVAR_MIDO_REBEL_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fella sure covers his bases, doesn't he?\nBut hey, lemme guess: some folks went\noff and joined Chaos anyway?"
+  },
+  "SUB_W17_EVAR_MIDO_REBEL_000_CUT_000_040": {
+    "speaker": "Immunity",
+    "text": "YES, ACTUALLY! THAT'S EXACTLY WHAT THEY DID!\nI mean, King Din may have named me Immunity,\nbut I can't immunize people from wanting to\nrebel! Heck, all I really do is carry oxygen..."
+  },
+  "SUB_W17_EVAR_MIDO_REBEL_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Then we'll just have to strike before\nthis little rebellion has a chance to\nget any bigger!"
+  },
+  "SUB_W17_EVAR_MIDO_REBEL_010_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fella sure covers his bases, doesn't he?\nBut hey, lemme guess: you weren't able to\nstop it from happening, and then folks went\nand attacked this place?"
+  },
+  "SUB_W17_EVAR_MIDO_REBEL_010_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't worry, fella! We're gonna get\nout there and put down a rebellion!"
+  },
+  "SUB_W17_EVAR_MIDO_ITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Where in the hells be that legendary treasure,\nby gar!? I searched this blasted castle from\nstem to stern, and I ain't been findin' the\ngods-damned thing anywhere!"
+  },
+  "SUB_W17_EVAR_MIDO_ITEM_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You called here by\nKing Din too, bud?"
+  },
+  "SUB_W17_EVAR_MIDO_ITEM_000_CUT_000_020": {
+    "speaker": "Buccaneer",
+    "text": "Yar, cully! Announce yerself before ye appear\nand start yer yammerin'! Ye made me jump\noutta me skin, so ye did!\fGar, but I be Pirate. Who be ye?"
+  },
+  "SUB_W17_EVAR_MIDO_ITEM_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Seer."
+  },
+  "SUB_W17_EVAR_MIDO_ITEM_000_CUT_000_040": {
+    "speaker": "Buccaneer",
+    "text": "Gahar har har! King Din's\nlittle trump card!\fSorry to break it to ye, cully, but there\nalready be a treasure hidden here in Brighthome\nthat can turn the tide of the war without ye—\nand I was called here to be sniffin' it out!"
+  },
+  "SUB_W17_EVAR_MIDO_ITEM_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...You're just going to steal\nit and take off, aren't you?"
+  },
+  "SUB_W17_EVAR_MIDO_ITEM_000_CUT_000_060": {
+    "speaker": "Buccaneer",
+    "text": "Yar, what kind of base cutpurse\ndo ye be takin' me for!?\fOh, but it matters little—this\nwhole castle is bare as a pile\nof bleached bones."
+  },
+  "SUB_W17_EVAR_MIDO_ITEM_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "A treasure that can turn the war, eh?\nSounds like that's worth my time."
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Gar, curse me bones!\nIt ain't here, neither!"
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Why would a legendary treasure be\nsitting in the middle of a village?"
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Manikin isn't gonna be happy\nif this lady digs up his fields."
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Somebody would've found the thing\nalready if it was in the mine."
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...At least she's not robbing graves."
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Doesn't look like she stole\nanything from the church."
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tsk! C'mon, now. You can't just go\nstealing from folks in town."
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "If the treasure was here, you'd think\nthey'd just use it instead of going to\nall the trouble of hiding it."
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess it isn't at the temple."
+  },
+  "SUB_W17_EVAR_MIDO_NOTFINDITEM_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. I figured it'd be in the\nruins if it was anywhere."
+  },
+  "SUB_W17_FUNC_MIDO_FINDITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Gahar har har! I've found it!\nThe legendary treasure!"
+  },
+  "SUB_W17_FUNC_MIDO_FINDITEM_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's great, bud. Now let's see you\nturn the tide of the war with it."
+  },
+  "SUB_W17_FUNC_MIDO_FINDITEM_000_CUT_000_020": {
+    "speaker": "Buccaneer",
+    "text": "Gar, ye be followin' me,\nye detestable urchin!\fAnd aye, I'll turn the tide—but I'll\nbe keepin' the treasure afterwards!"
+  },
+  "SUB_W17_FUNC_MIDO_FINDITEM_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fine by me."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "You pitched in to fight too, Guv?\nMuch appreciated."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_001": {
+    "speaker": "Doll",
+    "text": "Heya, Guv! You helped with the\nfighting? Thanks for that!"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_002": {
+    "speaker": "Bully",
+    "text": "Been a minute and a half, eh, Guv?\nYou and I gotta scrap next time!"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_003": {
+    "speaker": "Lord",
+    "text": "You were out there fighting, Guv?\nMy apologies—I did not realize."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_004": {
+    "speaker": "Vacuum",
+    "text": "Ha ha ha! Been a long time, Guv!\nLet's spar again sometime."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_005": {
+    "speaker": "Fiore",
+    "text": "Why, if it isn't Guv!\nI thank you for joining the fight."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_006": {
+    "speaker": "Arsenal",
+    "text": "Your presence here explains\nour victory, Guv. Thank you."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_007": {
+    "speaker": "Sorceress",
+    "text": "Well, well. If it isn't Guv.\nSurprised you're still out there\nfighting and not retired already."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_008": {
+    "speaker": "Gadget",
+    "text": "You're looking pretty tired there, Guv.\nReady for your trip to Hell so soon?"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "How've you been, Guv?"
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_020": {
+    "speaker": "Guv",
+    "text": "You're Seer, yes? Ah, it's no wonder I felt\nthat dazzling radiance; with a warrior like\nyou here, I can finally retire in peace."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_030": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from town. I pray your fight\ngoes well, sir."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_031": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the fields.\nI pray your fight goes well, sir."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_032": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the mine.\nI pray your fight goes well, sir."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_033": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the cemetery.\nI pray your fight goes well, sir."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_034": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the church. I pray your\nfight goes well, sir."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_035": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from town. I pray your fight\ngoes well, sir."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_036": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the stronghold. I pray\nyour fight goes well, sir."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_037": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the temple. I pray your\nfight goes well, sir."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_038": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the ruins. I pray your\nfight goes well, sir."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_010_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess it takes all kinds."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_020_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I don't see Guv or his girl around.\nWonder how things turned out for them."
+  },
+  "SUB_W17_EVAR_MIDO_VILLAGE_020_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I bet they're living happily\never after somewhere nice."
+  },
+  "SUB_W17_FUNC_MIDO_HELP_000_CUT_000_000": {
+    "speaker": "Guv",
+    "text": "Ah! You must be the newcomer."
+  },
+  "SUB_W17_FUNC_MIDO_HELP_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, do I have a stamp on my face\nsaying I'm the new fella in town?"
+  },
+  "SUB_W17_FUNC_MIDO_HELP_000_CUT_000_020": {
+    "speaker": "Guv",
+    "text": "Age isn't a factor for warriors in Brighthome.\nYoung and old, known and unknown—warriors of\nall stripes are called to this place.\fBut no matter their actual age, every newcomer\nhas a certain youthful vitality to them—\na vitality I sense now in you."
+  },
+  "SUB_W17_FUNC_MIDO_HELP_000_CUT_000_030": {
+    "speaker": "Guv",
+    "text": "Alas, such vitality is something a wizened old man\nlike me has lost. I'm a warrior as well, you see—\nthough a worn and battered one. Guv is the name\ngiven to me by the king, and all I'll answer to."
+  },
+  "SUB_W17_FUNC_MIDO_HELP_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, if you ask me, the only reason we're\nstill in this fight is because we've got\nveterans like you on our side.\fWe'd be wiped out in no time\nif all we had were clueless\nnewcomers like me."
+  },
+  "SUB_W17_FUNC_MIDO_HELP_000_CUT_000_050": {
+    "speaker": "Guv",
+    "text": "Ha! You've quite the silver tongue,\nnewcomer! Just make certain you\nfight as well as you flatter."
+  },
+  "SUB_W17_FUNC_MIDO_HELP_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You got it, fella."
+  },
+  "SUB_W17_EVAR_MIDO_SPIRIT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a water spirit here.\nI'll have to fight if I want its power."
+  },
+  "SUB_W17_EVAR_MIDO_SPIRIT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a weak water spirit here.\nIs this one gonna do me all right?"
+  },
+  "SUB_W17_EVAR_MIDO_SPIRIT_000_CUT_000_011": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a decently tough water spirit here.\nMight be just what the doctor ordered."
+  },
+  "SUB_W17_EVAR_MIDO_SPIRIT_000_CUT_000_012": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a real strong water spirit here.\nBetter make sure I'm ready for a fight."
+  },
+  "SUB_W17_EVAR_MIDO_SPIRIT_000_CUT_000_013": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, the water spirit here is\nreal strong. This fella might just\nwipe the floor with me."
+  },
+  "SUB_W17_EVAR_MIDO_SPIRIT_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better back off."
+  },
+  "SUB_W17_EVAR_MIDO_SPIRIT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's dance, spirit!"
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_000": {
+    "speaker": "Simon",
+    "text": "With the battle ended, we no longer need\nto use the names given to us by the king.\nI am called Simon."
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm Tsunanori Mido, bud.\nGood to meet you."
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_020": {
+    "speaker": "Simon",
+    "text": "Did you get your hands on that\nspirit you were looking for?"
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure did. But hey, did you come here\nfor something specific yourself?"
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_040": {
+    "speaker": "Simon",
+    "text": "The members of my squadron all perished\nin battle—and when I failed to fulfill\nmy objective, I joined them in death.\fThe next thing I knew, I was waking\nhere in Brighthome with a new name."
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yikes, that's worrisome. I mean, heck,\nwhat if I died at some point and don't\neven realize it?\fI'd better head back to the Heavens\nand make sure I'm still tickin'."
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_060": {
+    "speaker": "Simon",
+    "text": "Is my following you\nout of the question?"
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You're welcome to tag along, fella, but are\nyou sure it's a good idea with the whole\n'being dead' deal? I mean, what if you up\nand vanish the second you leave Brighthome?"
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_080": {
+    "speaker": "Simon",
+    "text": "I have no intention of fighting for all\neternity in Brighthome. If I disappear,\nthat is simply as it was meant to be."
+  },
+  "SUB_W17_EVAR_MIDO_SIMON_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "In that case, bud, welcome aboard."
+  }
+}

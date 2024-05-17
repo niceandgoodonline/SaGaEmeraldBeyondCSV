@@ -1,0 +1,46 @@
+{
+  "W18_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Capitol City: Seat of the Union"
+  },
+  "W18_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a metropolis that seems familiar on the other side of the door. Could there really be spirits in a world like this?"
+  },
+  "W18_EVAR_MIDO_SPILIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W18_EVAR_MIDO_SPILIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense a spirit."
+  },
+  "W18_EVAR_MIDO_SPILIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Engage the Spirit"
+  },
+  "W18_EVAR_MIDO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Heavens"
+  },
+  "W18_EVAR_MIDO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Time to head to your next destination."
+  },
+  "W18_EVAR_MIDO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Manhole"
+  },
+  "W18_EVAR_MIDO_RETURN_040_TITLE": {
+    "speaker": "UI",
+    "text": "To the Heavens"
+  },
+  "W18_EVAR_MIDO_RETURN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired power from all the spirits. Best get back to Miyako City."
+  },
+  "W18_EVAR_MIDO_RETURN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Manhole"
+  }
+}

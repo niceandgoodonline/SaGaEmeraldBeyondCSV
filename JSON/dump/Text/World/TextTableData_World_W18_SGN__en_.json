@@ -1,0 +1,46 @@
+{
+  "W18_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Capitol City: Seat of the Union"
+  },
+  "W18_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After walking through the door, you find yourself in a city teeming with people. This world seems to be in the midst of a battle between two factions—a perfect environment for darkness to thrive."
+  },
+  "W18_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Emily"
+  },
+  "W18_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W18_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W18_EVAR_SIUG_KENZOKU_010_TITLE": {
+    "speaker": "UI",
+    "text": "Nishant"
+  },
+  "W18_EVAR_SIUG_KENZOKU_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W18_EVAR_SIUG_KENZOKU_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W18_EVAR_SIUG_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door to the Conjoined Worlds"
+  },
+  "W18_EVAR_SIUG_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've experienced all the fun there is to be had in this world."
+  },
+  "W18_EVAR_SIUG_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Capitol City"
+  }
+}

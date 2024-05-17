@@ -1,0 +1,46 @@
+{
+  "W11_EVAR_MIDO_AREA_IN_TITLE": {
+    "speaker": "UI",
+    "text": "Kamala: The World of Maidens"
+  },
+  "W11_EVAR_MIDO_AREA_IN_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world teeming with vegetation and water on the other side of the door. There <i>must</i> be spirits here."
+  },
+  "W11_EVAR_MIDO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Temple Entrance"
+  },
+  "W11_EVAR_MIDO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Head back to the Heavens and search for the next spirit."
+  },
+  "W11_EVAR_MIDO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W11_EVAR_MIDO_RETURN_040_TITLE": {
+    "speaker": "UI",
+    "text": "The Temple Entrance"
+  },
+  "W11_EVAR_MIDO_RETURN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired power from all the spirits. Time to head back to the Heavens and search for the door to Miyako City."
+  },
+  "W11_EVAR_MIDO_RETURN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W11_EVAR_MIDO_RETURN_999_TITLE": {
+    "speaker": "UI",
+    "text": "The Temple Entrance"
+  },
+  "W11_EVAR_MIDO_RETURN_999_DETAIL": {
+    "speaker": "UI",
+    "text": "You can leave Kamala through here."
+  },
+  "W11_EVAR_MIDO_RETURN_999_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  }
+}

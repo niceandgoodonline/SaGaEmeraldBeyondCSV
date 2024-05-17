@@ -1,0 +1,22 @@
+{
+  "W15_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Vermiglio: The Triangular World"
+  },
+  "W15_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After walking through the door, you find yourself in a world where stagnant smoke covers the sky like clouds."
+  },
+  "W15_EVAR_DIVA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Through Dreamland's Gate"
+  },
+  "W15_EVAR_DIVA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to visit another world in search of your heart."
+  },
+  "W15_EVAR_DIVA_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  }
+}

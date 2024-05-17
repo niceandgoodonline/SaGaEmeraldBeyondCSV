@@ -1,0 +1,106 @@
+{
+  "W08_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cordycep: The World inside a Hole"
+  },
+  "W08_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After passing through the door, you find yourself in a narrow underground space. Even a place like this could have information about your heart, so start digging!"
+  },
+  "W08_EVAR_DIVA_BURROW_HUMAN_040_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Bashar Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_HUMAN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "There is a 95 percent chance the Lord of the Earth is heading for the Bashar colony."
+  },
+  "W08_EVAR_DIVA_BURROW_HUMAN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Bashar Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_INSECT_040_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Naml Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_INSECT_040_DETAIL": {
+    "speaker": "UI",
+    "text": "There is a 95 percent chance the Lord of the Earth is heading for the Naml colony."
+  },
+  "W08_EVAR_DIVA_BURROW_INSECT_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Naml Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_FROG_040_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Dufda Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_FROG_040_DETAIL": {
+    "speaker": "UI",
+    "text": "There is a 95 percent chance the Lord of the Earth is heading for the Dufda colony."
+  },
+  "W08_EVAR_DIVA_BURROW_FROG_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dufda Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_MOLE_040_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Kuld Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_MOLE_040_DETAIL": {
+    "speaker": "UI",
+    "text": "The Lord of the Earth's final destination is the Kuld colony."
+  },
+  "W08_EVAR_DIVA_BURROW_MOLE_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Kuld Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_MOLE_045_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Kuld Colony?"
+  },
+  "W08_EVAR_DIVA_BURROW_MOLE_045_DETAIL": {
+    "speaker": "UI",
+    "text": "There is a 30 percent chance the Lord of the Earth is heading for the Kuld colony."
+  },
+  "W08_EVAR_DIVA_BURROW_MOLE_045_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Kuld Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_HUMAN_045_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Bashar Colony?"
+  },
+  "W08_EVAR_DIVA_BURROW_HUMAN_045_DETAIL": {
+    "speaker": "UI",
+    "text": "There is a 30 percent chance the Lord of the Earth is heading for the Bashar colony."
+  },
+  "W08_EVAR_DIVA_BURROW_HUMAN_045_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Bashar Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_INSECT_045_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Naml Colony?"
+  },
+  "W08_EVAR_DIVA_BURROW_INSECT_045_DETAIL": {
+    "speaker": "UI",
+    "text": "There is a 30 percent chance the Lord of the Earth is heading for the Naml colony."
+  },
+  "W08_EVAR_DIVA_BURROW_INSECT_045_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Naml Colony"
+  },
+  "W08_EVAR_DIVA_BURROW_FROG_045_TITLE": {
+    "speaker": "UI",
+    "text": "Target: Dufda Colony?"
+  },
+  "W08_EVAR_DIVA_BURROW_FROG_045_DETAIL": {
+    "speaker": "UI",
+    "text": "There is a 30 percent chance the Lord of the Earth is heading for the Dufda colony."
+  },
+  "W08_EVAR_DIVA_BURROW_FROG_045_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dufda Colony"
+  }
+}

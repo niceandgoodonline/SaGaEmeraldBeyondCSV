@@ -1,0 +1,402 @@
+{
+  "MagicCat001": {
+    "name": "MagicCat001_ItemName",
+    "description": "MagicCat001_ItemExp",
+    "CatType": "WeaponCat",
+    "GetItem": "WLLSW01_MW",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat002": {
+    "name": "MagicCat002_ItemName",
+    "description": "MagicCat002_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "4"
+  },
+  "MagicCat003": {
+    "name": "MagicCat003_ItemName",
+    "description": "MagicCat003_ItemExp",
+    "CatType": "AccessaryCat",
+    "GetItem": "SAAC05_MS",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat004": {
+    "name": "MagicCat004_ItemName",
+    "description": "MagicCat004_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "4"
+  },
+  "MagicCat005": {
+    "name": "MagicCat005_ItemName",
+    "description": "MagicCat005_ItemExp",
+    "CatType": "MagicCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "MAG_MG_D_01_Ki01",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat006": {
+    "name": "MagicCat006_ItemName",
+    "description": "MagicCat006_ItemExp",
+    "CatType": "AccessaryCat",
+    "GetItem": "SAAC01_MS",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat007": {
+    "name": "MagicCat007_ItemName",
+    "description": "MagicCat007_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "4"
+  },
+  "MagicCat008": {
+    "name": "MagicCat008_ItemName",
+    "description": "MagicCat008_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "4"
+  },
+  "MagicCat009": {
+    "name": "MagicCat009_ItemName",
+    "description": "MagicCat009_ItemExp",
+    "CatType": "AccessaryCat",
+    "GetItem": "SAAC08_MS",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat010": {
+    "name": "MagicCat010_ItemName",
+    "description": "MagicCat010_ItemExp",
+    "CatType": "WeaponCat",
+    "GetItem": "GLONE01_MW",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat011": {
+    "name": "MagicCat011_ItemName",
+    "description": "MagicCat011_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "4"
+  },
+  "MagicCat012": {
+    "name": "MagicCat012_ItemName",
+    "description": "MagicCat012_ItemExp",
+    "CatType": "AccessaryCat",
+    "GetItem": "SAAC03_MS",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat013": {
+    "name": "MagicCat013_ItemName",
+    "description": "MagicCat013_ItemExp",
+    "CatType": "AccessaryCat",
+    "GetItem": "SAAC04_MS",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat014": {
+    "name": "MagicCat014_ItemName",
+    "description": "MagicCat014_ItemExp",
+    "CatType": "AccessaryCat",
+    "GetItem": "SAAC02_MS",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat015": {
+    "name": "MagicCat015_ItemName",
+    "description": "MagicCat015_ItemExp",
+    "CatType": "AccessaryCat",
+    "GetItem": "SAAC06_MS",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat016": {
+    "name": "MagicCat016_ItemName",
+    "description": "MagicCat016_ItemExp",
+    "CatType": "AccessaryCat",
+    "GetItem": "SAAC07_MS",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat017": {
+    "name": "MagicCat017_ItemName",
+    "description": "MagicCat017_ItemExp",
+    "CatType": "WeaponCat",
+    "GetItem": "GHMAC01_MW",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat018": {
+    "name": "MagicCat018_ItemName",
+    "description": "MagicCat018_ItemExp",
+    "CatType": "WeaponCat",
+    "GetItem": "WHGSW01_MW",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat019": {
+    "name": "MagicCat019_ItemName",
+    "description": "MagicCat019_ItemExp",
+    "CatType": "MagicCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "MAG_MG_D_02_Ki02",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat020": {
+    "name": "MagicCat020_ItemName",
+    "description": "MagicCat020_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat021": {
+    "name": "MagicCat021_ItemName",
+    "description": "MagicCat021_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat022": {
+    "name": "MagicCat022_ItemName",
+    "description": "MagicCat022_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat023": {
+    "name": "MagicCat023_ItemName",
+    "description": "MagicCat023_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat024": {
+    "name": "MagicCat024_ItemName",
+    "description": "MagicCat024_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat025": {
+    "name": "MagicCat025_ItemName",
+    "description": "MagicCat025_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat026": {
+    "name": "MagicCat026_ItemName",
+    "description": "MagicCat026_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat027": {
+    "name": "MagicCat027_ItemName",
+    "description": "MagicCat027_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat028": {
+    "name": "MagicCat028_ItemName",
+    "description": "MagicCat028_ItemExp",
+    "CatType": "MagicCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "MAG_MG_D_03_Ki03",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat029": {
+    "name": "MagicCat029_ItemName",
+    "description": "MagicCat029_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat030": {
+    "name": "MagicCat030_ItemName",
+    "description": "MagicCat030_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat031": {
+    "name": "MagicCat031_ItemName",
+    "description": "MagicCat031_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat032": {
+    "name": "MagicCat032_ItemName",
+    "description": "MagicCat032_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat033": {
+    "name": "MagicCat033_ItemName",
+    "description": "MagicCat033_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat034": {
+    "name": "MagicCat034_ItemName",
+    "description": "MagicCat034_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat035": {
+    "name": "MagicCat035_ItemName",
+    "description": "MagicCat035_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "2"
+  },
+  "MagicCat036": {
+    "name": "MagicCat036_ItemName",
+    "description": "MagicCat036_ItemExp",
+    "CatType": "MagicCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "MAG_MG_D_04_Ki04",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat037": {
+    "name": "MagicCat037_ItemName",
+    "description": "MagicCat037_ItemExp",
+    "CatType": "MagicCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "MAG_MG_D_05_Ki05",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "_NOT_SPECIFIED_",
+    "StatusValue": "0"
+  },
+  "MagicCat038": {
+    "name": "MagicCat038_ItemName",
+    "description": "MagicCat038_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "10"
+  },
+  "MagicCat039": {
+    "name": "MagicCat039_ItemName",
+    "description": "MagicCat039_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "10"
+  },
+  "MagicCat040": {
+    "name": "MagicCat040_ItemName",
+    "description": "MagicCat040_ItemExp",
+    "CatType": "StatusCat",
+    "GetItem": "_NOT_SPECIFIED_",
+    "LearnMagic": "_NOT_SPECIFIED_",
+    "LearnRole": "_NOT_SPECIFIED_",
+    "StatusType": "Int",
+    "StatusValue": "10"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "DefaultReward": {
+    "RewardItem0": "SOZAI_SPIRIT_STONE",
+    "RewardAmount0": "2",
+    "RewardItem1": "SOZAI_SPIRIT_STONE",
+    "RewardAmount1": "4",
+    "RewardItem2": "SOZAI_IRON_ORE",
+    "RewardAmount2": "1",
+    "RewardItem3": "SOZAI_MAGIC_STONE",
+    "RewardAmount3": "1"
+  },
+  "DefaultReward_Moku": {
+    "RewardItem0": "SOZAI_FE_MOKU",
+    "RewardAmount0": "1",
+    "RewardItem1": "SOZAI_FE_MOKU",
+    "RewardAmount1": "2",
+    "RewardItem2": "SOZAI_FE_MOKU",
+    "RewardAmount2": "4",
+    "RewardItem3": "SOZAI_FE_MOKU",
+    "RewardAmount3": "10"
+  },
+  "DefaultReward_Ka": {
+    "RewardItem0": "SOZAI_FE_KA",
+    "RewardAmount0": "1",
+    "RewardItem1": "SOZAI_FE_KA",
+    "RewardAmount1": "2",
+    "RewardItem2": "SOZAI_FE_KA",
+    "RewardAmount2": "4",
+    "RewardItem3": "SOZAI_FE_KA",
+    "RewardAmount3": "10"
+  },
+  "DefaultReward_Do": {
+    "RewardItem0": "SOZAI_FE_DO",
+    "RewardAmount0": "1",
+    "RewardItem1": "SOZAI_FE_DO",
+    "RewardAmount1": "2",
+    "RewardItem2": "SOZAI_FE_DO",
+    "RewardAmount2": "4",
+    "RewardItem3": "SOZAI_FE_DO",
+    "RewardAmount3": "10"
+  },
+  "DefaultReward_Kin": {
+    "RewardItem0": "SOZAI_FE_KIN",
+    "RewardAmount0": "1",
+    "RewardItem1": "SOZAI_FE_KIN",
+    "RewardAmount1": "2",
+    "RewardItem2": "SOZAI_FE_KIN",
+    "RewardAmount2": "4",
+    "RewardItem3": "SOZAI_FE_KIN",
+    "RewardAmount3": "10"
+  },
+  "DefaultReward_Sui": {
+    "RewardItem0": "SOZAI_FE_SUI",
+    "RewardAmount0": "1",
+    "RewardItem1": "SOZAI_FE_SUI",
+    "RewardAmount1": "2",
+    "RewardItem2": "SOZAI_FE_SUI",
+    "RewardAmount2": "4",
+    "RewardItem3": "SOZAI_FE_SUI",
+    "RewardAmount3": "10"
+  }
+}

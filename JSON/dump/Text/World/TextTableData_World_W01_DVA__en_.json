@@ -1,0 +1,22 @@
+{
+  "W01_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Through the Stone Gate"
+  },
+  "W01_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After passing through the stone gate, you find a strange person who names you their enemy. Could this have something to do with your heart?"
+  },
+  "W01_EVAR_DIVA_AMANO_IWATO_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Shrine's Stone Door"
+  },
+  "W01_EVAR_DIVA_AMANO_IWATO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A strange person refused to open the door to your heart. Best to visit another world for now."
+  },
+  "W01_EVAR_DIVA_AMANO_IWATO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Stone Gate"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "W11_EVAR_AMYA_AREA_IN_TITLE": {
+    "speaker": "UI",
+    "text": "Kamala"
+  },
+  "W11_EVAR_AMYA_AREA_IN_DETAIL": {
+    "speaker": "UI",
+    "text": "Where could the green lines lead you in this world?"
+  },
+  "W11_EVAR_AMYA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Temple Entrance"
+  },
+  "W11_EVAR_AMYA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should be able to leave Kamala from here."
+  },
+  "W11_EVAR_AMYA_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Kamala"
+  }
+}

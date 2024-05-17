@@ -1,0 +1,2274 @@
+{
+  "SUB_W13_EVAR_DIVA_DIG_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "There looks to be something in\nthis spot. We should dig here."
+  },
+  "SUB_W13_EVAR_DIVA_DIG_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Time to dig!"
+  },
+  "SUB_W13_EVAR_DIVA_DIG_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Aye, it's an old machine."
+  },
+  "SUB_W13_EVAR_DIVA_DIG_000_CUT_010_030": {
+    "speaker": "Scarecrow",
+    "text": "It can do something with\nall the sand!"
+  },
+  "SUB_W13_EVAR_DIVA_DIG_000_CUT_010_040": {
+    "speaker": "Sarab",
+    "text": "19141914"
+  },
+  "SUB_W13_EVAR_DIVA_DIG_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear. It's broken."
+  },
+  "SUB_W13_EVAR_DIVA_DIG_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "At least I'm not!"
+  },
+  "SUB_W13_EVAR_DIVA_DIG06_SUCCESS_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "10711071"
+  },
+  "SUB_W13_EVAR_DIVA_DIG06_SUCCESS_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "It's a device to control\nthe sand's energy."
+  },
+  "SUB_W13_EVAR_DIVA_DIG04_SUCCESS_WARSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "18631863"
+  },
+  "SUB_W13_EVAR_DIVA_DIG04_SUCCESS_WARSHIP_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "It's a device to prevent\nthe sand from separating."
+  },
+  "SUB_W13_EVAR_DIVA_DIG00_SUCCESS_DIVING_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "16031603"
+  },
+  "SUB_W13_EVAR_DIVA_DIG00_SUCCESS_DIVING_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "It's a device to prevent\nthe sand from clustering."
+  },
+  "SUB_W13_EVAR_DIVA_DIG02_SUCCESS_FERRY_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "12411241"
+  },
+  "SUB_W13_EVAR_DIVA_DIG02_SUCCESS_FERRY_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "It's a device to adjust the\nsand's shifting ability."
+  },
+  "SUB_W13_EVAR_DIVA_DIG_MISS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "We should take this with us;\nseems proper useful, it does."
+  },
+  "SUB_W13_EVAR_DIVA_DIG_MISS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "All ours now!"
+  },
+  "SUB_W13_EVAR_DIVA_WORLDEXIT_000_CUT_000_000": {
+    "speaker": "カカシ",
+    "text": "Leave this world?"
+  },
+  "SUB_W13_EVAR_DIVA_WORLDEXIT_000_CUT_000_010": {
+    "speaker": "綱紀",
+    "text": "No."
+  },
+  "SUB_W13_EVAR_DIVA_WORLDEXIT_000_CUT_000_020": {
+    "speaker": "綱紀",
+    "text": "Yes."
+  },
+  "SUB_W13_WRLD_DIVA_INITIAL_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Sand is flooding in from everywhere!\nTerribly unpleasant thing, that.\nHow are you holding up?"
+  },
+  "SUB_W13_WRLD_DIVA_INITIAL_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I have my anti-sand systems set to high,\nso my body is good as anything—but all\nthe sand is causing heaps of interference\nin my sensors.\fThis sand has wee bits of metal in it,\nwhich seems to be the source of the problem.\nDo ye have any information on this world\nye can share with me, then?"
+  },
+  "SUB_W13_WRLD_DIVA_INITIAL_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "It's called the Crowrealm, and it's\nfull of sand. My wisdom ends there."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Hmm? Someone's coming."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "These are the remnants of a giant warship.\nJudging by the advanced state of decay,\nit must be quite old."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh, and there's a scarecrow! I don't\nsee any birds for it to frighten away,\nbut the fact it's there suggests there\nare people living nearby."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Oh! Hello there, love."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "I haven't seen anyone out this way in days.\nWhere exactly did you come from, anyway?\nThe airship? The cruise ship? The submarine?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "What a high-spec scarecrow you must be\nto engage in all this chatter!\fWell, my serial number is D05-72314,\nand I'm commonly known as Songstress\nDiva No. 5. I'm here looking for my heart\nif ye happen to know anything about that."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Oh, you know my name! How wonderful.\fSo yes, I'm Scarecrow. But as for <i>why</i> I'm a\nscarecrow, I have no idea! Also, I don't know\nif I have a heart or not. But the humans might,\nso why not head over to the airship?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "So sorry, but I don't have any data\non this world. Might ye be a love\nand show me the way?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_WARSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne airship, just as promised."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but how do we get there?\nThe sand is just going to push us back."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Where's that, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh my days, it's a massive mech!\nSeems to be switched on, but it's not\nmoving or otherwise doing anything."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Spookcrow",
+    "text": "HEY THERE, SCARECROW! WHAT ARE YOU\nWANDERING AROUND AIMLESSLY FOR?\nIS IT THIS LADY'S FAULT!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Can ye change the flow\nof the sand, love?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "ME? NAH! I CAN'T DO SQUAT, BUDDY!\nBUT THE ROBOT CAN!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Does the excessive volume of your\nvoice serve any particular purpose?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Spookcrow",
+    "text": "SORRY ABOUT THAT! THIS IS JUST THE NATURAL\nVOLUME FOR ME! NOW HANG ON AND I'LL GET\nTHAT SAND CHANGED FOR YOU, BUDDY!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_010_000": {
+    "speaker": "Spookcrow",
+    "text": "HOW'S THAT STRIKE YA, BUDDY!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TWOLEGS_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Thanks heaps, Spookcrow!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is what remains of an airship.\nI'm getting multiple biological readings\nfrom inside, so clearly people live here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of 'em!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "There appears to be no sand inside,\nwhich makes it an ideal living space."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm D05-72314, also known as Songstress\nDiva No. 5, and I've come here searching\nfor my heart. I take it you don't get many\nvisitors from the outside, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "We most certainly do not! Hmm... But since\nyou are clearly standing here now, it could\nmean the legend of Pandora is real!\fYou must tell me everything\nyou know about Pandora!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Ach! Please calm down!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "That's right! Let's all take it easy."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "Shut up, strawman! ...AHEM! Yes, well,\nI suppose it's possible I got a smidge\nexcited there. Apologies."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Professor",
+    "text": "I'm the Professor, and I'm researching the history\nof the Crowrealm. Though a desert now, this land\nonce had something called an 'ocean,' and this\nvery airship once soared through the skies."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Professor",
+    "text": "Alas, now the world is nothing but sand,\nand the airships lie in pieces on the ground.\nAnd what is the cause of this misery, you ask?\nThe answer to that...is said to be Pandora!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_090": {
+    "speaker": "Diva_No5",
+    "text": "Are ye referring to Pandora's Box,\nthe vessel said to have been filled\nwith calamities beyond counting?\fI was under the impression its existence\nwas a load of rubbish, but perhaps it\ntruly can be found in this world."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_100": {
+    "speaker": "Professor",
+    "text": "Legends claim the one who opened the box\nwas a person from the outside—and it goes on\nto say that the one to close the box will be\n<i>another</i> person from the outside."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_110": {
+    "speaker": "Professor",
+    "text": "Oh, how I hope the legend is a lie. For if true,\nit means our world is held sway by the whims\nof outsiders! And in that case, what are the\nrest of us even worth?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Right? What's my worth?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_130": {
+    "speaker": "Diva_No5",
+    "text": "So where is this Pandora, then? If all\nthat needs doing is to close some wee\nbox, I should be able to get that sorted."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_140": {
+    "speaker": "Professor",
+    "text": "It's just a legend, my dear. Nothing more.\nDo you truly intend to follow it?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_150": {
+    "speaker": "Diva_No5",
+    "text": "I was under the impression ye all want\nPandora to be closed. I'd like to help\nwith this if I can, for perhaps it will\nlead to my own heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_160": {
+    "speaker": "Professor",
+    "text": "I don't know if I should call you an oddity\nor a nosy parker... Are <i>all</i> people from\nthe outside like you?\fEr, anyway. Be that all as it may,\nI sadly have no idea where Pandora is.\nYou'll just have to find it yourself."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_170": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, oooh! I know where it is!\nIt could be here. Or there.\nOr way out there someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_180": {
+    "speaker": "Professor",
+    "text": "Let me leave you with this warning:\nDo not make friends with the scarecrows.\nThey're all irresponsible oafs to the last,\njust like this straw-headed ninny here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_190": {
+    "speaker": "Diva_No5",
+    "text": "I thought your people were the\nones who made the scarecrows?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_AIRSHIP_000_CUT_010_200": {
+    "speaker": "Professor",
+    "text": "Perish the thought! If I had to guess,\nI imagine they came from Pandora itself."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Another giant mech!\nI wonder if Pandora is inside it."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "There are fiends in this world, then.\nDid they also emerge from Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Are the scarecrows older than Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Well, let's have a peek inside."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothing at all!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "We'll have to see if we can\nfind Pandora somewhere else."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "I'll count on ye for that, love."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We sure will!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TANK_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "It's a combat robot.\nCould this be Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TANK_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Hello there, love.\nIs this Pandora, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TANK_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "So that's a no?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_TANK_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear. I'm rubbish at riddles."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if this mech can change\nthe flow of the sand."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Still, wouldn't it make sense to establish such\nthings near to the dunes themselves? Why are\nthey so far away? Also, how are they even able\nto manipulate the dunes to begin with?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Are they capable of doing anything\nbesides changing the direction\nof the sands, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Why is there always a scarecrow\nnext to each of them?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Apologies. I'm clearly bothering you."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_HUMANOID_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if this mech can change\nthe flow of the sand."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hi, Sweetcrow! Nice to see you."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_HUMANOID_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh, that's brilliant! Can you tell me\nabout my missing heart, then!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Hearts live in the ♥s of all scarecrows...\nand you're totally welcome to take\nmy ♥ home, lover girl! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_HUMANOID_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I'm sorry, I cannae do that."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_HUMANOID_000_CUT_000_100": {
+    "speaker": "Sweetcrow",
+    "text": "Aww, don't be shy! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "Don't think I know you, friend.\nAre you another junker?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I'm D05-72314, also known as Songstress\nDiva No. 5. I'm looking for my heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "She is."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Well now, that's some unusual treasure\nyou're out for. I mostly look for gears and\nengine parts and showerheads and... Well,\nyou know. Things people want."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_000_040": {
+    "speaker": "Junkman",
+    "text": "This place is a veritable mountain of treasure,\nbut because of that, I have a bunch of scoundrels\nin here bugging me. ...See?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "They've been fighting a war ever since\nPandora opened up—even though the\nworld's like it is and no one has any\nclue what the war is for anymore.\fHell, I don't even know if we're supposed\nto destroy this place or protect it."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "This is a submarine:\nprotector of the ocean."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm here to close Pandora. Once I do,\ntheir war can finally come to an end."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "And why would <i>you</i> do that? I don't see\nwhat you're getting out of all this, friend."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "My heart, hopefully. I don't have any\nhard data to suggest this will lead me\nto it, but I want to believe it will."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "See, you get it! It's the not-knowing that\nmakes it a real treasure hunt; can't search\nfor something if you know it's guaranteed.\nAnyway, good luck to you, friend."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Hey, thanks!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is the only place we haven't\nlooked yet. I calculate a 96 percent\nchance Pandora will be found here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "It's here!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_000_020": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I am D05-72314, also known as Songstress\nDiva No. 5. I'm here searching for my heart,\nand also for Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_000_040": {
+    "speaker": "Engineer",
+    "text": "Pandora, eh? Yes, I've heard the rumors:\nClose the box and poof! The war is over.\nHonestly, I have doubts that something\nso convenient actually exists."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_000_050": {
+    "speaker": "Engineer",
+    "text": "Still, war robots continue to be produced\nin this place, as you've no doubt seen.\nSo if Pandora is anywhere, it's likely here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Let's have a look around, then."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_000_070": {
+    "speaker": "Engineer",
+    "text": "I'm coming with you. We might get to meet\nwhoever opened Pandora to start with—though\nif they went in as a human and are still alive,\nno doubt they're some kind of monster now."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Then let's go hunt a monster!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "There are countless robot-production\nlines here, but none are active."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "No, listen. <i>Something</i> is still\noperational around here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Hey, look! Monsters over that way."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "This line is active. I wonder if I\nwas made on a line just like this."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "Sand. It's making sand."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "You scarecrows are all the same:\nliars to the last."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Nae, he's right! It's making sand-sized robots!\nThe countless tiny readings my sensors were\npicking up were actually these robots!\nThat's what makes up all the sand here!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "...Pretty sure it's just sand.\nBut even if it <i>was</i> robots,\nwhat good would that do us?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_080": {
+    "speaker": "Diva_No5",
+    "text": "The fact the sand is robots means that it can\nbe controlled, which is how those mechs can\nmanipulate it from afar. Pandora's true identity\nis a terminal capable of sending orders to sand!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "Okay, let's say you're correct, and the robots\ncovered the world in sand to win the war.\nThe war is over now, but the sand remains.\nSo how are we supposed to remove it?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "We close Pandora and stop\nthe production of the sand."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "I thought closing Pandora would be a task\nI could handle, but it seems I was wrong.\nClearly, handling an infinite number of\nfiends is a thing beyond me. Apologies."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_010": {
+    "speaker": "Engineer",
+    "text": "Well, we won't solve this problem with\ntired brains. How about I keep watch\nfor a bit while you rest?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_020": {
+    "speaker": "Junkman",
+    "text": "Ho, friend! Find any treasure?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_030": {
+    "speaker": "Scarecrow",
+    "text": "Nope!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_040": {
+    "speaker": "Junkman",
+    "text": "Well, everything good is buried beneath\nthe sand, so all you need to find it is\na little luck...and a secret weapon."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_050": {
+    "speaker": "Junkman",
+    "text": "My little friend here can find all sorts\nof things buried in the sand.\fPoor thing managed to survive the war,\nbut can't seem to put it behind him.\nHoping this little treasure hunt of yours\ncan help him move past it for good."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_060": {
+    "speaker": "Diva_No5",
+    "text": "I'm Diva. What's your name?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_070": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_080": {
+    "speaker": "Scarecrow",
+    "text": "Onward, my secret weapon!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_090": {
+    "speaker": "Constantine",
+    "text": "It seems Pandora's just some robot that\nhas nothing to do with your heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_100": {
+    "speaker": "Diva_No5",
+    "text": "I'll close Pandora anyway."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_000_CUT_020_110": {
+    "speaker": "Diva_No5",
+    "text": "I'm out."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Did you figure out a way\nto fight the sand yet?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, and we're ready to try it."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Let's give it a go!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_010_000": {
+    "speaker": "Engineer",
+    "text": "It stopped... You did it!\nYou closed Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_010_020": {
+    "speaker": "Junkman",
+    "text": "Hey, looks like you found some\ntreasure. Good for you."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Fine work, my dear! Now it's our turn to\nshow our quality: we're going to turn the\nCrowrealm into a world of sky and water\nand green once more!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_010_031": {
+    "speaker": "Diva_No5",
+    "text": "We were able to close Pandora, but we didn't\nlearn anything about me heart. I'm guessing\nit's not buried under the sand?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_010_032": {
+    "speaker": "Constantine",
+    "text": "Your heart's not that kind of thing, no.\nLet's leave this world and look elsewhere."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I wonder where MY heart is."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Let's look for our hearts together."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE0_FERRY_END_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "I've no idea, love. Ta!"
+  },
+  "SUB_W13_WRLD_DIVA_INITIAL_010_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "This world is called the Crowrealm. The name\nwould suggest it's full of birds, but it's actually\nfull of sand. I wonder what happened to make\nit that way."
+  },
+  "SUB_W13_WRLD_DIVA_INITIAL_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It looks to be a special kind of sand, too:\nmy sensors are experiencing significant\ninterference and cannae work properly.\nOh dear, I'll never find my heart now..."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, someone's coming!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "This is what remains of an airship.\nThis world must have been home to an\nadvanced civilization at some point."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Still, I wonder why there's a scarecrow when\nthere's no sign of fields or crows about.\nWho put it here, and for what purpose?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Oh my days! I wasn't expecting\na scarecrow to talk."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'm a talker, all right!\nHaven't seen a person out this\nway in quite a few days, though.\fSo where'd you come from?\nCruise ship? Battleship? Submarine?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "I'm D05-72314, also known as Songstress\nDiva No. 5. I came from a place called Avalon,\nand I'm looking for my heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "I don't know if I have a heart to begin with.\nHeck, I don't even know why I'm a scarecrow!\nHumans might know something though, so why\nnot wander over and check out the submarine?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "So sorry, but I don't have any data\non this world. Might ye be a love\nand show me the way?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_AIRSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne submarine, just as promised."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but how do we get there?\nThe sand is just going to push us back."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Where's that, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_HUMANOID_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh my days, it's a massive robot!\nSeems to be switched on, but it's\nnot moving or otherwise doing anything."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_HUMANOID_000_CUT_000_010": {
+    "speaker": "Sweetcrow",
+    "text": "Sure isn't, sweet thing! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_HUMANOID_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_HUMANOID_000_CUT_000_030": {
+    "speaker": "Sweetcrow",
+    "text": "Scarecrow, baby! Good to see you! ♥\nAnd sure, that's an easy ask. ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_HUMANOID_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Can ye change the flow of the sand?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_HUMANOID_000_CUT_000_050": {
+    "speaker": "Sweetcrow",
+    "text": "Not me, hot stuff. But the robot can! ♥\nGo on now, big guy! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_HUMANOID_000_CUT_010_000": {
+    "speaker": "Sweetcrow",
+    "text": "How's that, boo? ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_HUMANOID_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_HUMANOID_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Cheers for that, Sweetcrow!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is what remains of a submarine.\nI'm getting multiple biological readings\nfrom inside, so clearly people live here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of them."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "The inside is cool as anything.\nIt's an ideal living environment."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "Well, well! Not often we see outsiders\naround these parts. Who might you be?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm D05-72314, also known as Songstress\nDiva No. 5, and I'm looking for my heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Great. Another weirdo. Well, as you can see,\nthis world's a ruin because of a long war,\nso it's not a place where you'll find hearts\nor love or any of that positive nonsense."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "What do ye mean?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "Never mind. Just go ahead and sniff\naround wherever you want for this\nheart of yours. I hope you find it."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I'm afraid I don't have the first\nidea where to start looking. Do ye\nhave any suggestions for me, love?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_070": {
+    "speaker": "Junkman",
+    "text": "Well, you'd need a pretty special place to\nfind a heart—and the only special place\nI can think of in this dump is Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_080": {
+    "speaker": "Diva_No5",
+    "text": "As in the box said to have\nunleashed countless calamities?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_090": {
+    "speaker": "Junkman",
+    "text": "And a scholar on top of everything.\nIf you know about Pandora, that means\nit's likely infected your world as well.\nNo wonder you're searching for a heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_100": {
+    "speaker": "Junkman",
+    "text": "Well, it can't be long now until this whole\nworld is devoured by Pandora, so I very\nmuch hope you're able to locate it."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_110": {
+    "speaker": "Diva_No5",
+    "text": "Where will I find Pandora, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, but <i>I</i> know where it is! It could be here.\nOr there. Or way out that way someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_DIVING_000_CUT_010_130": {
+    "speaker": "Junkman",
+    "text": "Wiser words were never spoken. Look,\njust have Scarecrow take you where\nyou want to go; that's his job."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TANK_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "It's a combat mech.\nCould this be Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "That'd be nice!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TANK_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Hello there, love.\nIs this Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TANK_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "That's a no, I take it?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TANK_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear. I'm rubbish at riddles."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Another giant robot! I wonder if\nPandora is inside it."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "There are fiends in this world, then.\nDid they also emerge from Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Are the scarecrows older than Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Well, let's have a peek inside."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothing at all!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "We'll have to see if we can\nfind Pandora somewhere else."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "I'll count on ye for that, love."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We sure will!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if this robot can change\nthe flow of the sand?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Still, wouldn't it make sense to establish such\nthings near to the dunes themselves? Why are\nthey so far away? Also, how are they even able\nto manipulate the dunes to begin with?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Are they capable of doing anything\nbesides changing the direction\nof the sands, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Why is there always a scarecrow\nnext to each of them?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Apologies. I'm clearly bothering you."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if this robot can change\nthe flow of the sand?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "If that's true, can ye tell me\nabout my missing heart?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Hearts are scarecrows!\nThat means your heart is me!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I don't believe that's true."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_TWOLEGS_000_CUT_000_090": {
+    "speaker": "Spookcrow",
+    "text": "IT'S DEFINITELY TRUE!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I'm D05-72314, also known as Songstress\nDiva No. 5. I'm looking for my heart,\nas well as Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "She is."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_000_030": {
+    "speaker": "Engineer",
+    "text": "Well, war robots continue to be produced\nin this place, so if Pandora is real,\nthis makes as much sense as anywhere."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_000_040": {
+    "speaker": "Scarecrow",
+    "text": "Speaking of which, we've got\na war robot incoming!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Is this really Pandora? All of our data\nindicated it would put up more of a fight."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Yes, it did seem a bit weak for an eternal\nwar machine. Maybe the real Pandora is \nsomewhere else. Shall we go have a look?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Let's have a look!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, that sounds grand."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "We'll be back."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is what remains of a battleship.\nCould it be Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Could be Pandora, yep!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "This <i>is</i> Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "You know about this place, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Then where can I find my heart?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_000_060": {
+    "speaker": "Wiseman",
+    "text": "That I do not know."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Shame, that. Still, if this is Pandora,\nit's possible I might find my heart here,\nso let's look about inside."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Let's look inside!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "The inside is totally destroyed."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Totally."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "And yet, I hear a sound."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "I dinnae think you would come with us.\nAre you here to help search for my heart?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_040": {
+    "speaker": "Wiseman",
+    "text": "I do not know what lies inside.\nTherefore, I must learn."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Do ye have any other information on\nPandora ye might share with us?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "Pandora is sand. Pandora creates the sand.\nIt buries this world in mountains of sand,\ncausing it to suffocate."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "So all we need to do is stop the sand\nproduction lines? Aye, that's a thing\nI can certainly do.\fStill, I wonder if closing Pandora\nwill really lead to finding my heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_080": {
+    "speaker": "Wiseman",
+    "text": "That I do not know."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_090": {
+    "speaker": "Diva_No5",
+    "text": "Let's see if we can find the\nproduction lines, then."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_010_100": {
+    "speaker": "Scarecrow",
+    "text": "Searching time!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "The sand is fiends.\nThe fiends are sand."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "Ach! That's no ordinary sand!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_020": {
+    "speaker": "Wiseman",
+    "text": "Pandora controls the sand. Every grain is\na perfect miniature recreation of Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "So my sensor issues DO have an external cause!\nIf Pandora is capable of controlling individual\ngrains of sand, it explains how it was possible\nto change the flow of the sands outside.\fSo if we stop Pandora from giving orders\nto the sand, we can stop all of this."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_040": {
+    "speaker": "Engineer",
+    "text": "Sounds like you found Pandora.\nSo what happens now?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_050": {
+    "speaker": "Diva_No5",
+    "text": "We discovered Pandora's identity.\nNow we need to find a way to stop it\nfrom relaying orders."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_060": {
+    "speaker": "Engineer",
+    "text": "Why not try this thing?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_070": {
+    "speaker": "Engineer",
+    "text": "I went ahead and fixed it up earlier.\nI think it's some kind of search mech?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_080": {
+    "speaker": "Diva_No5",
+    "text": "Oh, brilliant! It's a tool to help fight\nPandora! Let's try to track it down, then."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "And we're off."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_000_000": {
+    "speaker": "Wiseman",
+    "text": "The time to battle Pandora has come."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I'm ready."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Aaand we're off!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_010_000": {
+    "speaker": "Wiseman",
+    "text": "The sand has stopped.\nPandora has been sealed."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_010_020": {
+    "speaker": "Engineer",
+    "text": "Can't believe you managed to find Pandora\nand close it... Who <i>are</i> you, anyway?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Just some weirdo looking for a heart—\nbut it takes all kinds to save the world.\nSpeaking of which, it's time for you to\nget back and save your <i>own</i> world, yes?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_010_031": {
+    "speaker": "Diva_No5",
+    "text": "Is it truly so odd to seek a heart?\nAlso, what even is a heart?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_010_032": {
+    "speaker": "Constantine",
+    "text": "When you find your heart, you'll find\nthat answer along with it. But for now,\nit's time to leave the Crowrealm."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I want to save worlds too!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Then come with me, love!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE1_WARSHIP_END_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Nae, it's too dangerous."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, someone's coming!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "This is the wreckage of a submarine,\nwhich posits this area used to be a sea.\nI wonder how it came to be desert instead?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Perhaps this scarecrow is here to watch over it?\nStill, I thought they were only made in fields,\nso the fact they exist elsewhere is fascinating.\nPerhaps whoever put it here lives nearby."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Welcome!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "I'd no idea scarecrows could talk!\nAnother brilliant new discovery!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Wonderful to meet you as well! I'm Scarecrow,\nand I've been standing here for three thousand\ndays waiting for someone like you to come by.\nOh, but this is a glorious moment!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "I apologize for keeping ye waiting.\nMy serial number is D05-72314, but I'm\nmore commonly known as Songstress\nDiva No. 5. Also, I'm looking for my heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Well, I'm a real talker, so I'm happy you're\nhere! Where did you come from? The airship?\nThe battleship? The cruise ship?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I came from anther world, and as such\nlack information about this place.\nMight ye guide me around, love?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_DIVING_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to\ntears with all this standing around.\nNow let's go find that heart!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne cruise ship, just as promised."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but how do we get there?\nThe sand is just going to push us back."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Where is that?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This looks to be a war mech, though it's\ncurrently not in a combat-ready state."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Strangecrow! I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Can ye change the flow of the sands?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Then I'll assume he can change\nthe flow and hope for the best."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_010_000": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TANK_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Thanks heaps, Strangecrow!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This must be the cruise ship. Judging by\nthe advanced state of decay, it's quite old.\nWill I truly find my heart here?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I don't know about your heart,\nbut you'll find lots of people!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "This does seem a suitably sized place\nfor loads of people to live."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Well? What have you brought me?\nPlease say you have copper wire;\nI desperately need it for my motors."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I've no wire. I'm D05-72314, also known\nas Songstress Diva No. 5, and I'm looking for my\nheart. Ye wouldn't happen to know where I might\nfind it, would ye?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "You're not a junkman? Bah. Also, I'm an\nengineer, so I've no interest in emotional\nfoofaraw like 'hearts.'"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Not the response I was hoping for.\nI don't even know where to look now."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "Maybe start by trying to find Pandora!\nIf this heart you're looking for exists,\nit'll be in a special place like that."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "As in the place from which countless\ncalamities were once unleashed?\nI though that story was rubbish."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "In this world, Pandora is real. It is Pandora\nthat plunged this place into war and ruin,\nand the horror of that continues to this day.\fSo if we hope to free ourselves from all of\nthis someday, we must find a way to survive\nand close Pandora once and for all."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_080": {
+    "speaker": "Diva_No5",
+    "text": "If Pandora is where I'll find my heart,\nI need to go there right away."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "You're going to close it?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "I only know I need to go there.\nSo how can I find it, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_110": {
+    "speaker": "Engineer",
+    "text": "I have no idea where Pandora is.\nI suggest you ask a scarecrow."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "Do ye know where to find\nPandora, Scarecrow?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_130": {
+    "speaker": "Scarecrow",
+    "text": "Of course! You simply go this way,\nthen that way, then some way!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_140": {
+    "speaker": "Diva_No5",
+    "text": "Might ye guide me instead?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FERRY_000_CUT_010_150": {
+    "speaker": "Scarecrow",
+    "text": "Gladly! Follow me to Pandora!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "It's another giant mech.\nIs this Pandora, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Could be!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Is this quadruped mech Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Where is Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Can ye tell us anything, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Apologies. I'm clearly bothering you."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if this mech can change\nthe flow of the sand?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "If that's true, can ye tell me\nabout my missing heart?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "It's another giant mech.\nCould Pandora be inside it?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Could be!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "There are fiends in this world, then.\nDid they also emerge from Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Are the scarecrows older than Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Well, let's have a peek inside."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothing at all!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "We'll have to try and find\nPandora somewhere else."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Despair! Now that the fiends are gone,\nI have been given a heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "I wonder when I'll find my own heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_INDUSTRIAL_000_CUT_010_070": {
+    "speaker": "Sorrowcrow",
+    "text": "I hope it's soon. Sadness!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_HUMANOID_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if this mech can change\nthe flow of the sand."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_HUMANOID_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh, that's brilliant! Can you tell me\nwhere to find my missing heart!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Sure thing, sweet cheeks! ♥ Just ask\nyourself this: what's the most special-est\nplace in the entire Crowrealm, hmm? ♥\nHere's a hint: it's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_HUMANOID_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "What do ye mean by 'special'?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_HUMANOID_000_CUT_000_080": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is what remains of a battleship. \nI wonder if it's Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Yep! This could be Pandora!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "No. This is not Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "You knew about this place, guy?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Whoopsie! War robot incoming!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Its combat abilities were significantly\nless than my predictions. The odds this\nwas Pandora are only 20 percent."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "Did I not just tell you\nthis is not Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Do ye know where we might\nfind Pandora, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "No."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Well, there are still places we haven't\nlooked. I suppose we'll try those."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "I'll help!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "And just what do you plan to do\nonce you actually find Pandora!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is the only place where we haven't\nlooked yet. There is a 95 percent chance\nthat Pandora is here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm D05-72314, otherwise known as\nSongstress Diva No. 5. I'm looking for\nmy heart, as well as Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So the legends are true—an outsider will\nopen Pandora, and an outsider will close it!\nIs this prophecy? An accurate prediction?\nA cleverly executed program?\fWhatever it may be, one thing is certain:\nhistory will now begin to move."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Professor",
+    "text": "Yes, well, introductions! I'm the Professor,\nand I'm researching the Crowrealm's history.\nI've spent hour after endless hour in this place,\nbut today, you will put an end to that!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Are ye suggesting I've been programmed to\nclose Pandora? There's no evidence of that\nin my memory banks, and I'm honestly not\nsure I'd be up to the task."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Professor",
+    "text": "I don't know either, for no one's ever seen\nPandora. And even if I knew for sure it was\ndeep inside this place, I couldn't reach it.\n...But YOU could!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I understand. I'll go inside."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Let's go check!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "It wasn't easy, but we managed to breach\nits defenses. I wonder if I'll really find my\nheart in this place?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "Pandora's secrets are deeper within,\nso we need to keep moving. Oh, but I\ncan't wait to finally witness history!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Deeper within!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Moving sand... So <i>this</i> is the truth of Pandora?\nIt's just digging up sand from somewhere and\nscattering it all across our world?\fAbsurd! Ridiculous! Complete and utter rot!\nI can't believe we let all time come to a\nstandstill because we were afraid of <i>this</i>!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "This isn't sand—it's robots!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Aye, it's as the scarecrow says:\nthis is a robot production line."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "I fear I don't understand."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "We are currently surrounded by countless\nsand robots—and that's a proper problem!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Scarecrow",
+    "text": "Real proper!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "We made it!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "We managed to make it out—but if\nwe cannae stop those sand robots,\nthen we cannae close Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_020": {
+    "speaker": "Professor",
+    "text": "You can do it! That's why the legend\nsays you will be the one to close Pandora!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "Try as I might, I cannae find any such\ncapabilities within myself. I fear this\ntask is impossible for me after all."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_040": {
+    "speaker": "Scarecrow",
+    "text": "So impossible!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_050": {
+    "speaker": "Wiseman",
+    "text": "You will need power equal to Pandora's\nown if you wish to fight it and win."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_060": {
+    "speaker": "Diva_No5",
+    "text": "Do ye know something\nthat might help?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_070": {
+    "speaker": "Wiseman",
+    "text": "Use this. It hates Pandora, and may prove\na great aid in your upcoming fight."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_080": {
+    "speaker": "Wiseman",
+    "text": "Hate begets nothing!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_090": {
+    "speaker": "Diva_No5",
+    "text": "I've never heard of a mech that can\nhate before. Are ye able to do that\nbecause ye have a heart, wee bot?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_100": {
+    "speaker": "Sarab",
+    "text": "Sarab will kill Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_000_CUT_020_110": {
+    "speaker": "Scarecrow",
+    "text": "Scarecrow too!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_000_000": {
+    "speaker": "Professor",
+    "text": "The time has come at last... Oh, to think\nI might witness a turning point in history\nwith my own eyes."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I'll do what I can."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "We will!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Can you believe it!? I was actually\nable to experience the moment a\nlegend became reality!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "Hate really does beget nothing."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "You did it! You actually closed Pandora!\nHa ha haaa... Hey, wait. What the heck are\nwe supposed to do with the rest of our lives?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_010_031": {
+    "speaker": "Diva_No5",
+    "text": "Was that wrong, then?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_010_032": {
+    "speaker": "Constantine",
+    "text": "Not at all, my dear. You did what was\nrequired in order to find your heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "But how am I supposed to live?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Come help me!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE2_AIRSHIP_END_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "I'm sorry. I don't know."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FERRY_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "One robot found!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FERRY_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "This is what remains of a cruise liner.\nJudging by the decay, it is quite old."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FERRY_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh, and there's a scarecrow here!\nMaybe someone left it behind?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FERRY_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "The ship was left behind by people,\nbut I sure wasn't!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FERRY_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Jinks, I didn't know there were scarecrows\nwho could speak! Well, I am D05-72314,\notherwise known as Songstress Diva No. 5."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FERRY_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "And I <i>am</i>! Scarecrow, actually!\nI had no idea I was famous enough for\ncomplete strangers to know my name!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FERRY_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "I'm looking for my heart. Do ye\nmaybe know where I might find it?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FERRY_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Nope! We should ask someone else!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne battleship, just as promised."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but how do we get there?\nThe sand is just going to push us back."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Where is that?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh my days, it's a massive mech!\nSeems to be switched on, but it's\nnot moving or otherwise doing\nanything. I wonder why that is."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Smilecrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "Aha ha ha ha ha! Scarecrow?\nAha ha ha ha ha! The flow of sand?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Can ye change the flow of the sand?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FOURLEGS_000_CUT_010_000": {
+    "speaker": "Smilecrow",
+    "text": "The flow of sand! Aha ha ha ha!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FOURLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_FOURLEGS_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Thanks heaps, Smilecrow!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is the wreckage of a battleship.\nI wonder if my heart is inside?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I don't know about your heart,\nbut there are people in here!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "This ship was clearly once used for combat,\nbut has now been repurposed as a living space.\nThat's quite brilliant, actually."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "The arrival of souls from the\noutside world is an omen."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "How did ye know I came\nfrom the outside world?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Really!? Then please tell me\nwhere I can find my heart!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_050": {
+    "speaker": "Wiseman",
+    "text": "What is a heart?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "I'm trying to figure\nthat out, actually."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_070": {
+    "speaker": "Wiseman",
+    "text": "Let me proclaim your fate to you, outsider:\nYou will find Pandora inside the submarine.\nWhat happens after that—and on the way—\nis all up to you."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_080": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but I lack data on this world.\nDo ye happen know where we might\nfind the submarine, Scarecrow?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_090": {
+    "speaker": "Scarecrow",
+    "text": "Sure do! I'll show ya!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "What is Pandora, though? I've no records\nof such a thing in my database."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_WARSHIP_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "Who can say!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if my heart is here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "HELL NO, LADY!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Do ye know where my heart might be?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "It's another giant mech.\nI wonder if my heart is inside."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "There are fiends in this world, then.\nDid they also emerge from Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Are the scarecrows older than Pandora?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Well, let's have a peek inside."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothing at all!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "We'll have to see if we can find\nPandora somewhere else."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "I'll count on ye for that, love."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We sure will!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_HUMANOID_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if my heart is here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Nope! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "What's the most special-est place in the\nentire Crowrealm, hmm? ♥ Here's a hint:\nit's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_HUMANOID_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "What do ye mean by 'special'?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TANK_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This looks to be a combat mech.\nI wonder if my heart is here."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TANK_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Ye think it might be!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TANK_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Um..."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TANK_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I should have known finding my heart\nwouldn't be so simple as all that.\nI'm sorry if I caused any trouble."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_TANK_000_CUT_000_100": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "These are the remains of an airship.\nThis world must have been home to an\nadvanced civilization at some point."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I came from another world\nin search of my heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So you're not here to close Pandora? Blast!\nWell, I am the Professor, a researcher of\nthe Crowrealm's history who is also seeking\na way to seal Pandora for good."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "And what exactly is Pandora?\nThe Wiseman told me I would\nfind it in the submarine."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Professor",
+    "text": "The Wiseman said that? Then you must\ngo to the submarine at once, my dear!\nThis place holds nothing for you!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "But we have an enemy incoming..."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Now go! Find the Junkman in the submarine,\nand get his help to close Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Please?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "I'd like to do as ye ask,\nbut I still have too little\ninformation about Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if my heart will really\nbe there. I suppose all I can do\nis go to the submarine and see."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This is the wreckage of a submarine, which\nmeans this area must have been a sea once.\nI wonder if Pandora is really here—or my\nheart, for that matter."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_000_010": {
+    "speaker": "Junkman",
+    "text": "Ah! An outsider has arrived, just as the\nWiseman foretold. He also claimed that the\nclosing of Pandora was all in your hands.\nSo then...will you close it?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Is this Pandora connected\nto my heart in some way?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Pandora is the cause of all desolation in\nthis world. It brought calamity to the land\nand launched a war that rages to this day.\fAnd if we hope to right these most\nterrible wrongs, we must close Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "That doesn't sound like something\nI'm capable of doing, actually."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_000_050": {
+    "speaker": "Junkman",
+    "text": "No, I wouldn't think so—yet I'm sure you'll\npull it off anyway. Because if you don't,\nyour heart will forever be out of reach."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "For us!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if that's really true.\nStill, I suppose I'll just do what\nI must to find my heart."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "The fact there are security mechs here suggests\nthere's something worth protecting, but I'm not\nseeing anything."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "Not as of yet, but the path goes on.\nNow come. I know we will find it."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "We'll find it!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Nae, all I'm seeing is sand.\nIs Pandora really here?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_010_040": {
+    "speaker": "Junkman",
+    "text": "The sand... Of course! The <i>sand</i> is the\ncause of all this! The <i>sand</i> is Pandora!\fIt was created here in this place,\nand once it spread across the Crowrealm,\nit sent the entire world to ruin."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "The sand is Pandora? I'm confused."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "I cannae believe the sand really WAS Pandora!\nBut if Pandora is made up of every grain of\nsand in this world, I'm powerless against it."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_010": {
+    "speaker": "Junkman",
+    "text": "You can do it. You <i>will</i>.\nThe prophecy says as much."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_020": {
+    "speaker": "Diva_No5",
+    "text": "But how am I supposed to stop infinite\ngrains of sand, though? I cannae do it!\nI don't have that kind of power!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_030": {
+    "speaker": "Professor",
+    "text": "I hear you found Pandora!\nDid you manage to close it?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_040": {
+    "speaker": "Diva_No5",
+    "text": "Pandora is all the sand in this world.\nIt's impossible to 'close it.'"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_050": {
+    "speaker": "Professor",
+    "text": "The sand is...? But no, that can't be!\nThe sand isn't attacking us!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_060": {
+    "speaker": "Diva_No5",
+    "text": "I presume that's because it\nhasn't been ordered to."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_070": {
+    "speaker": "Professor",
+    "text": "So if we stop whatever orders the sand\nto attack, it will just be sand forever?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_071": {
+    "speaker": "Professor",
+    "text": "This is my lovely assistant. Surely together you can find a way to close Pandora."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_080": {
+    "speaker": "Diva_No5",
+    "text": "Who are ye, wee one?"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_090": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_010_CUT_020_100": {
+    "speaker": "Scarecrow",
+    "text": "Glad to have you!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "You can do it. You <i>will</i>.\nThe prophecy says as much."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I'll do what I can."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "We will!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "The prophecy has been fulfilled,\nand Pandora is closed at last."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_010_020": {
+    "speaker": "Professor",
+    "text": "The Crowrealm has finally been returned to us,\nand from this day forward, we shall restore it\nto its former glory with our own hands!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I foresaw all!"
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_010_031": {
+    "speaker": "Diva_No5",
+    "text": "In the end, I wasn't able to find a link\nbetween Pandora and my heart—but I WAS\nable to make everyone chuffed as chips,\nso I think this was time well spent."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_010_032": {
+    "speaker": "Constantine",
+    "text": "Well then, that's all that matters!\nNow let's quit this place."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I'm going to stay here and help\nwith the restoration."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "I'll be cheering for ye, love."
+  },
+  "SUB_W13_EVAR_DIVA_ROUTE3_DIVING_END_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Why not come along and help\nsearch for my heart?"
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_000_CUT_000_000": {
+    "speaker": "Wiseman",
+    "text": "So you are the one who will close\nPandora. Are you prepared?"
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "So you'll be my combat training instructor,\nthen? It's a pleasure to meet you."
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman,\nand while I do know all,\nI know nothing at all about combat."
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Is that so? I'm starting to have\nsecond thoughts about this."
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Where did these fiends come from?"
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman,\nand while I do know all,\nI know nothing at all about fiends."
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "That's all right, love.\nNobody's perfect."
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_001_CUT_000_000": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman, and I know all.\nMore fiends approach."
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_001_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I'd like that."
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_001_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "No thank you."
+  },
+  "SUB_W13_EVAR_DIVA_BATTLE_002_CUT_000_000": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman, and I know all.\nThese next fiends are the last."
+  }
+}

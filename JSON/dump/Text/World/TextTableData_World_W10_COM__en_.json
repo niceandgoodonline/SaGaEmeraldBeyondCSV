@@ -1,0 +1,1378 @@
+{
+  "W10_EVAR_COMM_CLT_01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division"
+  },
+  "W10_EVAR_COMM_CLT_01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Yellow Division is in charge of investigating other civilizations. You wonder what awaits you here."
+  },
+  "W10_EVAR_COMM_MAG_01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division"
+  },
+  "W10_EVAR_COMM_LIF_00_001_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division"
+  },
+  "W10_LDMK_COMM_M_KAIGI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Meeting Area"
+  },
+  "W10_LDMK_COMM_M_KAIGI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A place where people of different divisions can gather to discuss important matters—or unimportant ones."
+  },
+  "W10_LDMK_COMM_A_ROOM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division: Residential Area"
+  },
+  "W10_LDMK_COMM_A_ROOM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The area where the members of Yellow Division live."
+  },
+  "W10_LDMK_COMM_B_ROOM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division: Residential Area"
+  },
+  "W10_LDMK_COMM_B_ROOM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The area where the members of Red Division live."
+  },
+  "W10_LDMK_COMM_C_ROOM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division: Residential Area"
+  },
+  "W10_LDMK_COMM_C_ROOM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The area where the members of Green Division live."
+  },
+  "W10_LDMK_COMM_A_BUNMEI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division: Laboratory"
+  },
+  "W10_LDMK_COMM_A_BUNMEI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Yellow Division researches the cultures of other worlds here."
+  },
+  "W10_LDMK_COMM_B_MAG2_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division: Laboratory"
+  },
+  "W10_LDMK_COMM_B_MAG2_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Red Division breeds monsters and researches relics here."
+  },
+  "W10_LDMK_COMM_C_HOSPITAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Hospital"
+  },
+  "W10_LDMK_COMM_C_HOSPITAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A place for treating various illnesses."
+  },
+  "W10_LDMK_COMM_C_SEIMEI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division: Laboratory"
+  },
+  "W10_LDMK_COMM_C_SEIMEI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Green Division researches life here."
+  },
+  "W10_LDMK_COMM_B_MAG_SHITA_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division: Laboratory"
+  },
+  "W10_LDMK_COMM_B_MAG_SHITA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A laboratory for researching hidden relics."
+  },
+  "W10_LDMK_COMM_C_REITOU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cryosleep Devices"
+  },
+  "W10_LDMK_COMM_C_REITOU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Both people and research subjects sleep here."
+  },
+  "W10_LDMK_COMM_HATSUMEIBU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Invention Workshop"
+  },
+  "W10_LDMK_COMM_HATSUMEIBU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This looks to be a place where automated machines help to develop new inventions."
+  },
+  "W10_LDMK_COMM_TEST_CONTENA1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Container"
+  },
+  "W10_LDMK_COMM_TEST_CONTENA1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You don't know if there's anything inside."
+  },
+  "W10_LDMK_COMM_ORI1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cage"
+  },
+  "W10_LDMK_COMM_ORI1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone is captured inside."
+  },
+  "W10_LDMK_COMM_GUS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Gas Tank"
+  },
+  "W10_LDMK_COMM_GUS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This tank is full of gas. You're not sure what Green Division intends to use it for."
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_002_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_002_DETAIL": {
+    "speaker": "UI",
+    "text": "This will take you to the disposal area."
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Lift"
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_004_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_004_DETAIL": {
+    "speaker": "UI",
+    "text": "This will take you to the disposal area."
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_004_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Lift"
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_005_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_005_DETAIL": {
+    "speaker": "UI",
+    "text": "This will take you to the disposal area."
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_005_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Lift"
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_006_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_006_DETAIL": {
+    "speaker": "UI",
+    "text": "This will take you to the disposal area."
+  },
+  "W10_EVAR_COMM_ELV_X_MOVE_MAIN_006_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_00UP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_00UP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A giant lift in the center of Delta Base."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_00UP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the Lower Level"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_00_DW_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_00_DW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can use this lift to move around."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_00_DW_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_A_UP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_A_UP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Artifacts from civilizations of various worlds are stored haphazardly on the lower level."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_A_UP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the Lower Level"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_CLT_NIS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_CLT_NIS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This lift would ordinarily take you to the lower level, but it's not working right now."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_A_DW_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_A_DW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will take you to the upper level."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_A_DW_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ascend to the Upper Level"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_B_UP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_B_UP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Data and specimens of monsters from various other worlds are being stored on the lower level."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_B_UP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the Lower Level"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_MAG_NIS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_MAG_NIS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This lift would ordinarily take you to the lower level, but it's not working right now."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_B_DW_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_B_DW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will take you to the upper level."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_B_DW_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ascend to the Upper Level"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_C_UP_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_C_UP_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Samples of various life-forms from other worlds are being stored on the lower level."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_C_UP_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the Lower Level"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_LIF_NIS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_LIF_NIS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This lift would ordinarily take you to the lower level, but it's not working right now."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_C_DW_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Lift"
+  },
+  "W10_GIMK_COMM_MAZE_ELV_C_DW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will take you to the upper level."
+  },
+  "W10_GIMK_COMM_MAZE_ELV_C_DW_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ascend to the Upper Level"
+  },
+  "W10_GIMK_COMM_EV_ITA_02_KYE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_GIMK_COMM_EV_ITA_02_KYE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can use this lift to get around."
+  },
+  "W10_GIMK_COMM_EV_ITA_02_KYE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Lift"
+  },
+  "W10_GIMK_COMM_EV_ITA_04_KYE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_GIMK_COMM_EV_ITA_04_KYE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can use this lift to get around."
+  },
+  "W10_GIMK_COMM_EV_ITA_04_KYE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Lift"
+  },
+  "W10_GIMK_COMM_EV_ITA_05_KYE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_GIMK_COMM_EV_ITA_05_KYE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can use this lift to get around."
+  },
+  "W10_GIMK_COMM_EV_ITA_05_KYE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Lift"
+  },
+  "W10_GIMK_COMM_EV_ITA_06_KYE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Lift"
+  },
+  "W10_GIMK_COMM_EV_ITA_06_KYE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can use this lift to get around."
+  },
+  "W10_GIMK_COMM_EV_ITA_06_KYE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Lift"
+  },
+  "W10_EVAR_COMM_MAG_MISSON_0100_TITLE": {
+    "speaker": "UI",
+    "text": "Container"
+  },
+  "W10_EVAR_COMM_MAG_MISSON_0100_DETAIL": {
+    "speaker": "UI",
+    "text": "You don't know if there's anything inside."
+  },
+  "W10_EVAR_COMM_MAG_MISSON_0100_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Container"
+  },
+  "W10_EVAR_COMM_MAG_01_001_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division Lift"
+  },
+  "W10_EVAR_COMM_MAG_01_001_DETAIL": {
+    "speaker": "UI",
+    "text": "A lift for the exclusive use of Red Division. It connects their area with the lower level."
+  },
+  "W10_EVAR_COMM_MAG_01_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the Lower Level"
+  },
+  "W10_EVAR_COMM_CLT_01_001_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division Lift"
+  },
+  "W10_EVAR_COMM_CLT_01_001_DETAIL": {
+    "speaker": "UI",
+    "text": "A lift for the exclusive use of Yellow Division. It connects their area with the lower level."
+  },
+  "W10_EVAR_COMM_CLT_01_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the Lower Level"
+  },
+  "W10_EVAR_COMM_LIF_01_001_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Lift"
+  },
+  "W10_EVAR_COMM_LIF_01_001_DETAIL": {
+    "speaker": "UI",
+    "text": "A lift for the exclusive use of Green Division. It connects their area with the lower level."
+  },
+  "W10_EVAR_COMM_LIF_01_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the Lower Level"
+  },
+  "W10_GIMK_COMM_ALERT_C01_TITLE": {
+    "speaker": "UI",
+    "text": "Alarm"
+  },
+  "W10_GIMK_COMM_ALERT_C01_DETAIL": {
+    "speaker": "UI",
+    "text": "This device looks capable of emitting a sound, but you have no idea what it will be."
+  },
+  "W10_GIMK_COMM_ALERT_C01_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Alarm"
+  },
+  "W10_EVAR_COMM_SwitchA_000_TITLE": {
+    "speaker": "UI",
+    "text": "Platform Control Panel"
+  },
+  "W10_EVAR_COMM_SwitchA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This control panel will let you operate all three moving platforms on the lower level at once."
+  },
+  "W10_EVAR_COMM_SwitchA_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Move the Platforms"
+  },
+  "W10_EVAR_COMM_SwitchA_CLT_TITLE": {
+    "speaker": "UI",
+    "text": "Platform Control Panel"
+  },
+  "W10_EVAR_COMM_SwitchA_CLT_DETAIL": {
+    "speaker": "UI",
+    "text": "This control panel will let you operate all three moving platforms on the lower level at once. You'll need to use it to reach the control terminal."
+  },
+  "W10_EVAR_COMM_SwitchA_CLT_BUTTON": {
+    "speaker": "UI",
+    "text": "Move the Platforms"
+  },
+  "W10_EVAR_COMM_HATUMEI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Invention Workshop"
+  },
+  "W10_EVAR_COMM_HATUMEI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There are various tools here. You could probably make something if you gathered the right materials."
+  },
+  "W10_EVAR_COMM_HATUMEI_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Workshop"
+  },
+  "W10_EVAR_COMM_HATUMEI_EGG_001_TITLE": {
+    "speaker": "UI",
+    "text": "Incubator"
+  },
+  "W10_EVAR_COMM_HATUMEI_EGG_001_DETAIL": {
+    "speaker": "UI",
+    "text": "If you have an egg, you can incubate it here—though what will emerge is anyone's guess."
+  },
+  "W10_EVAR_COMM_HATUMEI_EGG_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Incubator"
+  },
+  "W10_EVAR_COMM_HATUMEI_SEED_001_TITLE": {
+    "speaker": "UI",
+    "text": "Plant Cultivation Kit"
+  },
+  "W10_EVAR_COMM_HATUMEI_SEED_001_DETAIL": {
+    "speaker": "UI",
+    "text": "You can cultivate any seeds you have here. You wonder what will grow from them."
+  },
+  "W10_EVAR_COMM_HATUMEI_SEED_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Use the Plant Cultivation Kit"
+  },
+  "W10_EVAR_COMM_TREADE_LIF_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_LIF_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This researcher would like to talk to you."
+  },
+  "W10_EVAR_COMM_TREADE_LIF_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_CLT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_CLT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This researcher would like to talk to you."
+  },
+  "W10_EVAR_COMM_TREADE_CLT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_MAG_000_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_MAG_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This researcher would like to talk to you."
+  },
+  "W10_EVAR_COMM_TREADE_MAG_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_BOOK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_BOOK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This person seems to have an interest in the cursed tome page you found."
+  },
+  "W10_EVAR_COMM_TREADE_BOOK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_KATANA_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_KATANA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This person seems to have an interest in the mysterious sword fragment (?) you found."
+  },
+  "W10_EVAR_COMM_TREADE_KATANA_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_STONE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division Researcher"
+  },
+  "W10_EVAR_COMM_TREADE_STONE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This person seems to have an interest in the philosopher's stone fragment (?) you found."
+  },
+  "W10_EVAR_COMM_TREADE_STONE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_GIMK_COMM_ELEC_A01_TITLE": {
+    "speaker": "UI",
+    "text": "Electromagnetic Gate"
+  },
+  "W10_GIMK_COMM_ELEC_A01_DETAIL": {
+    "speaker": "UI",
+    "text": "This serves as a form of security against both intruders and monsters."
+  },
+  "W10_GIMK_COMM_ELEC_A01_BUTTON": {
+    "speaker": "UI",
+    "text": "Destroy the Electromagnetic Gate"
+  },
+  "W10_COMM_MAG_UDETAMESHI_00_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Test of Strength"
+  },
+  "W10_COMM_MAG_UDETAMESHI_00_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An experiment that Red Division's researchers are carrying out in secret."
+  },
+  "W10_COMM_MAG_UDETAMESHI_00_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Join the Test of Strength"
+  },
+  "W10_EVAR_COMM_INTERMISSION_000_TITLE": {
+    "speaker": "UI",
+    "text": "Administrator Gold Is Waiting"
+  },
+  "W10_EVAR_COMM_INTERMISSION_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Administrator Gold has been assigned as your monitor. You don't know whether he is currently irritated."
+  },
+  "W10_EVAR_COMM_INTERMISSION_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Administrator Gold"
+  },
+  "W10_EVAR_COMM_INTERMISSION_010_TITLE": {
+    "speaker": "UI",
+    "text": "Administrator Gold Is Still Waiting"
+  },
+  "W10_EVAR_COMM_INTERMISSION_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Administrator Gold has been assigned as your monitor, and is still waiting for you. You don't know if he is patient or not."
+  },
+  "W10_EVAR_COMM_INTERMISSION_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Administrator Gold"
+  },
+  "W10_EVAR_COMM_INTERMISSION_020_TITLE": {
+    "speaker": "UI",
+    "text": "Administrator Gold Continues to Wait"
+  },
+  "W10_EVAR_COMM_INTERMISSION_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Administrator Gold has been assigned as your monitor, and is still waiting for you. You don't know if he is extremely patient or not."
+  },
+  "W10_EVAR_COMM_INTERMISSION_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Administrator Gold"
+  },
+  "W10_EVAR_COMM_INTERMISSION_030_TITLE": {
+    "speaker": "UI",
+    "text": "Administrator Gold, Forever Waiting"
+  },
+  "W10_EVAR_COMM_INTERMISSION_030_DETAIL": {
+    "speaker": "UI",
+    "text": "Administrator Gold has been assigned as your monitor, and is still waiting for you. You wonder whether he will run out of patience at some point."
+  },
+  "W10_EVAR_COMM_INTERMISSION_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Administrator Gold"
+  },
+  "W10_EVAR_COMM_CLT_01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit Yellow Division"
+  },
+  "W10_EVAR_COMM_CLT_01_100_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division's Interviews"
+  },
+  "W10_EVAR_COMM_CLT_01_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Yellow Division members who were investigating the cursed text were all successfully rescued. Perhaps Bean is almost done getting ready to interview you."
+  },
+  "W10_EVAR_COMM_CLT_01_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Take a Closer Look"
+  },
+  "W10_GIMK_COMM_MAN_A01_TITLE": {
+    "speaker": "UI",
+    "text": "Investigator"
+  },
+  "W10_GIMK_COMM_MAN_A01_DETAIL": {
+    "speaker": "UI",
+    "text": "This appears to be the person you're looking for. They're reading a book."
+  },
+  "W10_GIMK_COMM_MAN_A01_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Investigator"
+  },
+  "W10_GIMK_COMM_MAN_A02_TITLE": {
+    "speaker": "UI",
+    "text": "Investigator"
+  },
+  "W10_GIMK_COMM_MAN_A02_DETAIL": {
+    "speaker": "UI",
+    "text": "This appears to be the person you're looking for. They're reading a book."
+  },
+  "W10_GIMK_COMM_MAN_A02_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Investigator"
+  },
+  "W10_GIMK_COMM_MAN_A03_TITLE": {
+    "speaker": "UI",
+    "text": "Investigator"
+  },
+  "W10_GIMK_COMM_MAN_A03_DETAIL": {
+    "speaker": "UI",
+    "text": "This appears to be the person you're looking for. They're reading a book."
+  },
+  "W10_GIMK_COMM_MAN_A03_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Investigator"
+  },
+  "W10_EVAR_COMM_CLT_04_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division Researcher Redux"
+  },
+  "W10_EVAR_COMM_CLT_04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This person seems to have an interest in the triangular scrap of paper you retrieved from the Red Division's container."
+  },
+  "W10_EVAR_COMM_CLT_04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_EVAR_COMM_CLT_04_010_TITLE": {
+    "speaker": "UI",
+    "text": "Necronomicon"
+  },
+  "W10_EVAR_COMM_CLT_04_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A strange book called the Necronomicon. Do you want to return its missing page?"
+  },
+  "W10_EVAR_COMM_CLT_04_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Pick Up the Book"
+  },
+  "W10_EVAR_COMM_CLT_05_0101st_TITLE": {
+    "speaker": "UI",
+    "text": "Analysis Team"
+  },
+  "W10_EVAR_COMM_CLT_05_0101st_DETAIL": {
+    "speaker": "UI",
+    "text": "They're hard at work analyzing the sword."
+  },
+  "W10_EVAR_COMM_CLT_05_0101st_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Analysis Team"
+  },
+  "W10_EVAR_COMM_CLT_05_0103rd_TITLE": {
+    "speaker": "UI",
+    "text": "Analysis Team"
+  },
+  "W10_EVAR_COMM_CLT_05_0103rd_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps they've finished analyzing the sword?"
+  },
+  "W10_EVAR_COMM_CLT_05_0103rd_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Analysis Team"
+  },
+  "W10_EVAR_COMM_CLT_05_090_TITLE": {
+    "speaker": "UI",
+    "text": "Restore the Mysterious Sword!"
+  },
+  "W10_EVAR_COMM_CLT_05_090_DETAIL": {
+    "speaker": "UI",
+    "text": "Will it be possible to restore the sword from its shattered fragments?"
+  },
+  "W10_EVAR_COMM_CLT_05_090_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt to Restore the Sword"
+  },
+  "W10_GIMK_COMM_CLT_05_MON_01_TITLE": {
+    "speaker": "UI",
+    "text": "Monster"
+  },
+  "W10_GIMK_COMM_CLT_05_MON_01_DETAIL": {
+    "speaker": "UI",
+    "text": "This monster was attracted to the sword. You can't let it interfere with the analysis team."
+  },
+  "W10_GIMK_COMM_CLT_05_MON_01_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Monster"
+  },
+  "W10_EVAR_COMM_CLT_07_000_000_TITLE": {
+    "speaker": "UI",
+    "text": "Civilization's Dawn"
+  },
+  "W10_EVAR_COMM_CLT_07_000_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Yellow Division appears to be readying a new experiment."
+  },
+  "W10_EVAR_COMM_CLT_07_000_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Check on Yellow Division"
+  },
+  "W10_EVAR_COMM_CLT_07_010_000_TITLE": {
+    "speaker": "UI",
+    "text": "Orichalcum Skeletal Specimen"
+  },
+  "W10_EVAR_COMM_CLT_07_010_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've been asked to assist Yellow Division in a strange experiment involving a skeletal specimen."
+  },
+  "W10_EVAR_COMM_CLT_07_010_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Participate in the Experiment"
+  },
+  "W10_EVAR_COMM_CLT_08_040_000_TITLE": {
+    "speaker": "UI",
+    "text": "Bidding Farewell to Bean"
+  },
+  "W10_EVAR_COMM_CLT_08_040_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should say goodbye to Bean before leaving Delta Base."
+  },
+  "W10_EVAR_COMM_CLT_08_040_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Meet with Bean"
+  },
+  "W10_EVAR_COMM_CLT_08_050_TITLE": {
+    "speaker": "UI",
+    "text": "Information Control Terminal"
+  },
+  "W10_EVAR_COMM_CLT_08_050_DETAIL": {
+    "speaker": "UI",
+    "text": "This terminal will let you separate Yellow Division's area from Delta Base's information network."
+  },
+  "W10_EVAR_COMM_CLT_08_050_BUTTON": {
+    "speaker": "UI",
+    "text": "Operate the Control Terminal"
+  },
+  "W10_EVAR_COMM_CLT_08_080_TITLE": {
+    "speaker": "UI",
+    "text": "Stop the Skeletal Specimen!"
+  },
+  "W10_EVAR_COMM_CLT_08_080_DETAIL": {
+    "speaker": "UI",
+    "text": "You've successfully separated Yellow Division's area from Delta Base's information networks. Now you just need to subdue the skeletal specimen. Hopefully Bean is managing to hold out."
+  },
+  "W10_EVAR_COMM_CLT_08_080_BUTTON": {
+    "speaker": "UI",
+    "text": "Hurry Back to Bean"
+  },
+  "W10_EVAR_COMM_MAG_01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Red Division is responsible for researching monsters. You wonder what awaits you here."
+  },
+  "W10_EVAR_COMM_MAG_01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit Red Division"
+  },
+  "W10_EVAR_COMM_MAG_01_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Mystery of the Biochip"
+  },
+  "W10_EVAR_COMM_MAG_01_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You should deliver the biochip you recovered to the overseer."
+  },
+  "W10_EVAR_COMM_MAG_01_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Hand Over the Biochip"
+  },
+  "W10_EVAR_COMM_MAG_056_000_TITLE": {
+    "speaker": "UI",
+    "text": "Waiting Overseer"
+  },
+  "W10_EVAR_COMM_MAG_056_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The overseer of Red Division is apparently dying to meet you. You wonder why."
+  },
+  "W10_EVAR_COMM_MAG_056_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Red Division Overseer"
+  },
+  "W10_EVAR_COMM_MAG_056_010_TITLE": {
+    "speaker": "UI",
+    "text": "Specimen 056"
+  },
+  "W10_EVAR_COMM_MAG_056_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This monster is your target. Defeat it and acquire its data."
+  },
+  "W10_EVAR_COMM_MAG_056_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Monster"
+  },
+  "W10_EVAR_COMM_MAG_056_999_TITLE": {
+    "speaker": "UI",
+    "text": "Specimen 056"
+  },
+  "W10_EVAR_COMM_MAG_056_999_DETAIL": {
+    "speaker": "UI",
+    "text": "This isn't the monster you're after."
+  },
+  "W10_EVAR_COMM_MAG_056_999_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Monster Anyway"
+  },
+  "W10_EVAR_COMM_MAG_098_010_TITLE": {
+    "speaker": "UI",
+    "text": "Specimen 098"
+  },
+  "W10_EVAR_COMM_MAG_098_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This monster is your target. Defeat it and acquire its data."
+  },
+  "W10_EVAR_COMM_MAG_098_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Monster"
+  },
+  "W10_EVAR_COMM_MAG_098_999_TITLE": {
+    "speaker": "UI",
+    "text": "Specimen 098"
+  },
+  "W10_EVAR_COMM_MAG_098_999_DETAIL": {
+    "speaker": "UI",
+    "text": "This isn't the monster you're after."
+  },
+  "W10_EVAR_COMM_MAG_098_999_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Monster Anyway"
+  },
+  "W10_EVAR_COMM_MAG_507_010_TITLE": {
+    "speaker": "UI",
+    "text": "Specimen 507"
+  },
+  "W10_EVAR_COMM_MAG_507_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This monster is your target. Defeat it and acquire its data."
+  },
+  "W10_EVAR_COMM_MAG_507_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Monster"
+  },
+  "W10_EVAR_COMM_MAG_507_999_TITLE": {
+    "speaker": "UI",
+    "text": "Specimen 507"
+  },
+  "W10_EVAR_COMM_MAG_507_999_DETAIL": {
+    "speaker": "UI",
+    "text": "This isn't the monster you're after."
+  },
+  "W10_EVAR_COMM_MAG_507_999_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Monster Anyway"
+  },
+  "W10_EVAR_COMM_MAG_440_000_TITLE": {
+    "speaker": "UI",
+    "text": "Multiplying Slime Mold"
+  },
+  "W10_EVAR_COMM_MAG_440_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Red Division appears to have another problem on their hands. Perhaps you should help them."
+  },
+  "W10_EVAR_COMM_MAG_440_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Take a Closer Look"
+  },
+  "W10_EVAR_COMM_MAG_440_002_TITLE": {
+    "speaker": "UI",
+    "text": "Exterminate the Slime Mold"
+  },
+  "W10_EVAR_COMM_MAG_440_002_DETAIL": {
+    "speaker": "UI",
+    "text": "Claiming to be short on workers, Red Division has requested your help. Perhaps you should aid them?"
+  },
+  "W10_EVAR_COMM_MAG_440_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Take a Closer Look"
+  },
+  "W10_GIMK_COMM_MAG_440_MON_TITLE": {
+    "speaker": "UI",
+    "text": "Multiplying Slime Mold"
+  },
+  "W10_GIMK_COMM_MAG_440_MON_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to get the slime mold under control."
+  },
+  "W10_GIMK_COMM_MAG_440_MON_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Slime Mold"
+  },
+  "W10_EVAR_COMM_MAG_440_081_TITLE": {
+    "speaker": "UI",
+    "text": "Electromagnetic Gate Control Panel"
+  },
+  "W10_EVAR_COMM_MAG_440_081_DETAIL": {
+    "speaker": "UI",
+    "text": "This device can disable the electromagnetic gate."
+  },
+  "W10_EVAR_COMM_MAG_440_081_BUTTON": {
+    "speaker": "UI",
+    "text": "Disable the Gate"
+  },
+  "W10_GIMK_COMM_MAN_C4401_TITLE": {
+    "speaker": "UI",
+    "text": "Red Division"
+  },
+  "W10_GIMK_COMM_MAN_C4401_DETAIL": {
+    "speaker": "UI",
+    "text": "They seem to be struggling to keep the slime mold in check."
+  },
+  "W10_GIMK_COMM_MAN_C4401_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W10_EVAR_COMM_MAG_END_000_TITLE": {
+    "speaker": "UI",
+    "text": "Experiment 440"
+  },
+  "W10_EVAR_COMM_MAG_END_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The overseer says he's just seeking combat data, but can you really trust him?"
+  },
+  "W10_EVAR_COMM_MAG_END_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Participate in the Experiment"
+  },
+  "W10_EVAR_COMM_MAG_END_020_TITLE": {
+    "speaker": "UI",
+    "text": "The New Overseer"
+  },
+  "W10_EVAR_COMM_MAG_END_020_DETAIL": {
+    "speaker": "UI",
+    "text": "You wonder how Red Division is doing since losing their overseer."
+  },
+  "W10_EVAR_COMM_MAG_END_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit Red Division"
+  },
+  "W10_EVAR_COMM_MAG_056_440_TITLE": {
+    "speaker": "UI",
+    "text": "Specimen 056"
+  },
+  "W10_EVAR_COMM_MAG_056_440_DETAIL": {
+    "speaker": "UI",
+    "text": "You should probably defeat this before it's absorbed by the Beast King."
+  },
+  "W10_EVAR_COMM_MAG_056_440_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Monster"
+  },
+  "W10_EVAR_COMM_MAG_098_440_TITLE": {
+    "speaker": "UI",
+    "text": "Specimen 098"
+  },
+  "W10_EVAR_COMM_MAG_098_440_DETAIL": {
+    "speaker": "UI",
+    "text": "You should probably defeat this before it's absorbed by the Beast King."
+  },
+  "W10_EVAR_COMM_MAG_098_440_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Monster"
+  },
+  "W10_EVAR_COMM_MAG_507_440_TITLE": {
+    "speaker": "UI",
+    "text": "Specimen 507"
+  },
+  "W10_EVAR_COMM_MAG_507_440_DETAIL": {
+    "speaker": "UI",
+    "text": "You should probably defeat this before it's absorbed by the Beast King."
+  },
+  "W10_EVAR_COMM_MAG_507_440_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Monster"
+  },
+  "W10_GIMK_COMM_ELEC_4404_TITLE": {
+    "speaker": "UI",
+    "text": "Across the Electromagnetic Gate"
+  },
+  "W10_GIMK_COMM_ELEC_4404_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need to reach the other side of the electromagnetic gate in order to face off against the Beast King. Is now the right time?"
+  },
+  "W10_GIMK_COMM_ELEC_4404_BUTTON": {
+    "speaker": "UI",
+    "text": "Contact Shi Kat"
+  },
+  "W10_EVAR_COMM_MAG_END_030_TITLE": {
+    "speaker": "UI",
+    "text": "Final Battle with the Beast King"
+  },
+  "W10_EVAR_COMM_MAG_END_030_DETAIL": {
+    "speaker": "UI",
+    "text": "You wonder what's inside that combat suit. Is it just a mass of slime mold, or something else entirely?"
+  },
+  "W10_EVAR_COMM_MAG_END_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Battle the Beast King"
+  },
+  "W10_EVAR_COMM_MAG_END_060_TITLE": {
+    "speaker": "UI",
+    "text": "Enlisting Green Division's Help"
+  },
+  "W10_EVAR_COMM_MAG_END_060_DETAIL": {
+    "speaker": "UI",
+    "text": "A monster has escaped its cage. Green Division may be willing to produce some gas to subdue it."
+  },
+  "W10_EVAR_COMM_MAG_END_060_BUTTON": {
+    "speaker": "UI",
+    "text": "Ask for Help"
+  },
+  "W10_EVAR_COMM_MAG_END_070_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Gas Tank"
+  },
+  "W10_EVAR_COMM_MAG_END_070_DETAIL": {
+    "speaker": "UI",
+    "text": "Green Division's gas is apparently ready."
+  },
+  "W10_EVAR_COMM_MAG_END_070_BUTTON": {
+    "speaker": "UI",
+    "text": "Release the Gas"
+  },
+  "W10_EVAR_COMM_MAG_END_005_TITLE": {
+    "speaker": "UI",
+    "text": "Enlisting Yellow Division's Help"
+  },
+  "W10_EVAR_COMM_MAG_END_005_DETAIL": {
+    "speaker": "UI",
+    "text": "The slime mold is still seeking the sword, so you decided to ask Yellow Division for help."
+  },
+  "W10_EVAR_COMM_MAG_END_005_BUTTON": {
+    "speaker": "UI",
+    "text": "Ask for Help"
+  },
+  "W10_EVAR_COMM_MAG_END_011_TITLE": {
+    "speaker": "UI",
+    "text": "Recovering the Mysterious Sword"
+  },
+  "W10_EVAR_COMM_MAG_END_011_DETAIL": {
+    "speaker": "UI",
+    "text": "You wonder why the slime mold wants the mysterious sword Yellow Division is currently looking after."
+  },
+  "W10_EVAR_COMM_MAG_END_011_BUTTON": {
+    "speaker": "UI",
+    "text": "Recover the Sword"
+  },
+  "W10_GIMK_COMM_MON_KATANA_01_TITLE": {
+    "speaker": "UI",
+    "text": "The Slime Mold Seeks the Sword"
+  },
+  "W10_GIMK_COMM_MON_KATANA_01_DETAIL": {
+    "speaker": "UI",
+    "text": "You must defeat the slime mold before it obtains the sword."
+  },
+  "W10_GIMK_COMM_MON_KATANA_01_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Slime Mold"
+  },
+  "W10_EVAR_COMM_LIF_00_001_DETAIL": {
+    "speaker": "UI",
+    "text": "Green Division is responsible for investigating life. You wonder what awaits you here."
+  },
+  "W10_EVAR_COMM_LIF_00_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit Green Division"
+  },
+  "W10_EVAR_COMM_LIF_01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Researcher Mags"
+  },
+  "W10_EVAR_COMM_LIF_01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You find a Green Division researcher. She looks to be in some kind of trouble, so you aren't sure whether it's okay to talk to her or not."
+  },
+  "W10_EVAR_COMM_LIF_01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_EVAR_COMM_LIF_01_100_TITLE": {
+    "speaker": "UI",
+    "text": "Quantum Cats Captured!"
+  },
+  "W10_EVAR_COMM_LIF_01_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You managed to recover Schrö and Dinger. You wonder if you'll receive some kind of reward for this."
+  },
+  "W10_EVAR_COMM_LIF_01_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Mags"
+  },
+  "W10_EVAR_COMM_LIF_04_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division's Life Research Inquiry"
+  },
+  "W10_EVAR_COMM_LIF_04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "These people seem to have an interest in your belongings."
+  },
+  "W10_EVAR_COMM_LIF_04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Green Division"
+  },
+  "W10_EVAR_COMM_LIF_04_010_TITLE": {
+    "speaker": "UI",
+    "text": "Cryosleep Area"
+  },
+  "W10_EVAR_COMM_LIF_04_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Both people and research subjects sleep here."
+  },
+  "W10_EVAR_COMM_LIF_04_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cryosleep Area"
+  },
+  "W10_EVAR_COMM_LIF_04_021_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division's Life Research Inquiry"
+  },
+  "W10_EVAR_COMM_LIF_04_021_DETAIL": {
+    "speaker": "UI",
+    "text": "You should ask what happened in the cryosleep area while feigning ignorance."
+  },
+  "W10_EVAR_COMM_LIF_04_021_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Green Division"
+  },
+  "W10_EVAR_COMM_LIF_04_031_TITLE": {
+    "speaker": "UI",
+    "text": "Connectivity Gate"
+  },
+  "W10_EVAR_COMM_LIF_04_031_DETAIL": {
+    "speaker": "UI",
+    "text": "Could the person standing in front of the Connectivity Gate be who you're looking for?"
+  },
+  "W10_EVAR_COMM_LIF_04_031_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Mysterious Person"
+  },
+  "W10_EVAR_COMM_LIF_05_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Researcher Mags"
+  },
+  "W10_EVAR_COMM_LIF_05_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You find a Green Division researcher. She looks very scared, so you aren't sure whether it's okay to talk to her or not."
+  },
+  "W10_EVAR_COMM_LIF_05_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_EVAR_COMM_LIF_05_100_TITLE": {
+    "speaker": "UI",
+    "text": "Monophids"
+  },
+  "W10_EVAR_COMM_LIF_05_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You were told these are otherworldly vegetables, but they look more like monsters."
+  },
+  "W10_EVAR_COMM_LIF_05_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Monophids"
+  },
+  "W10_EVAR_COMM_LIF_05_400_TITLE": {
+    "speaker": "UI",
+    "text": "Monophids Annihilated!"
+  },
+  "W10_EVAR_COMM_LIF_05_400_DETAIL": {
+    "speaker": "UI",
+    "text": "You've dealt with the excessive number of monophids. You wonder if you'll receive a reward for this."
+  },
+  "W10_EVAR_COMM_LIF_05_400_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Mags"
+  },
+  "W10_GIMK_COMM_CAT_C01_TITLE": {
+    "speaker": "UI",
+    "text": "Quantum Cat Discovered?"
+  },
+  "W10_GIMK_COMM_CAT_C01_DETAIL": {
+    "speaker": "UI",
+    "text": "Is this a quantum cat, or a monster pretending to be one? Pay attention to the direction its head is facing!"
+  },
+  "W10_GIMK_COMM_CAT_C01_BUTTON": {
+    "speaker": "UI",
+    "text": "Try Approaching the Cat"
+  },
+  "W10_EVAR_COMM_LIF_06_000_TITLE": {
+    "speaker": "UI",
+    "text": "Green Division Researcher Mags"
+  },
+  "W10_EVAR_COMM_LIF_06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You find a Green Division researcher. She looks very busy, so you aren't sure whether it's okay to talk to her or not."
+  },
+  "W10_EVAR_COMM_LIF_06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Researcher"
+  },
+  "W10_EVAR_COMM_LIF_06_100_TITLE": {
+    "speaker": "UI",
+    "text": "Tsuchinoko"
+  },
+  "W10_EVAR_COMM_LIF_06_100_DETAIL": {
+    "speaker": "UI",
+    "text": "This looks to be a tsuchinoko. Is it asleep?"
+  },
+  "W10_EVAR_COMM_LIF_06_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Tsuchinoko"
+  },
+  "W10_EVAR_COMM_LIF_06_400_TITLE": {
+    "speaker": "UI",
+    "text": "Illusive Tsuchinoko Captured"
+  },
+  "W10_EVAR_COMM_LIF_06_400_DETAIL": {
+    "speaker": "UI",
+    "text": "You successfully captured all of the illusive tsuchinoko. You wonder if you will receive a reward for this."
+  },
+  "W10_EVAR_COMM_LIF_06_400_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Mags"
+  },
+  "W10_EVAR_COMM_LIF_07_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Mysteries of Life"
+  },
+  "W10_EVAR_COMM_LIF_07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Green Division appears to be readying a new experiment."
+  },
+  "W10_EVAR_COMM_LIF_07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Check on Green Division"
+  },
+  "W10_EVAR_COMM_LIF_07_015_TITLE": {
+    "speaker": "UI",
+    "text": "Life-Form Fusion Experiment"
+  },
+  "W10_EVAR_COMM_LIF_07_015_DETAIL": {
+    "speaker": "UI",
+    "text": "You've been invited to witness Green Division's latest experiment."
+  },
+  "W10_EVAR_COMM_LIF_07_015_BUTTON": {
+    "speaker": "UI",
+    "text": "Check on Green Division"
+  },
+  "W10_EVAR_COMM_LIF_08_300_TITLE": {
+    "speaker": "UI",
+    "text": "Rogue Species 303 Experiment Complete"
+  },
+  "W10_EVAR_COMM_LIF_08_300_DETAIL": {
+    "speaker": "UI",
+    "text": "Delta Base no longer needs to live in fear of becoming a nest for Rogue Species 303."
+  },
+  "W10_EVAR_COMM_LIF_08_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Report to the Overseer of Green Division"
+  },
+  "W10_EVAR_COMM_LIF_08_400_TITLE": {
+    "speaker": "UI",
+    "text": "Additional Information"
+  },
+  "W10_EVAR_COMM_LIF_08_400_DETAIL": {
+    "speaker": "UI",
+    "text": "Green Division has apparently acquired some new information."
+  },
+  "W10_EVAR_COMM_LIF_08_400_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit Green Division"
+  },
+  "W10_EVAR_COMM_LIF_08_011_TITLE": {
+    "speaker": "UI",
+    "text": "Enlisting Red Division's Help"
+  },
+  "W10_EVAR_COMM_LIF_08_011_DETAIL": {
+    "speaker": "UI",
+    "text": "Red Division is knowledgeable in the field of monsters, so you decided to ask for their help in dealing with the fused life-form that is Rogue Species 303."
+  },
+  "W10_EVAR_COMM_LIF_08_011_BUTTON": {
+    "speaker": "UI",
+    "text": "Ask for Help"
+  },
+  "W10_GIMK_COMM_MON_LEND001_TITLE": {
+    "speaker": "UI",
+    "text": "Confrontation with Rogue Species 303"
+  },
+  "W10_GIMK_COMM_MON_LEND001_DETAIL": {
+    "speaker": "UI",
+    "text": "A group of Rogue Species 303 are here."
+  },
+  "W10_GIMK_COMM_MON_LEND001_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Rogue Species"
+  },
+  "W10_EVAR_COMM_OLD_000_TITLE": {
+    "speaker": "UI",
+    "text": "Captured Alien"
+  },
+  "W10_EVAR_COMM_OLD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Who is this person, and where are they from?"
+  },
+  "W10_EVAR_COMM_OLD_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Study the Alien"
+  },
+  "W10_EVAR_COMM_OLD_001_TITLE": {
+    "speaker": "UI",
+    "text": "Left Behind"
+  },
+  "W10_EVAR_COMM_OLD_001_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps the captured alien left this behind?"
+  },
+  "W10_EVAR_COMM_OLD_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate"
+  },
+  "W10_LDMK_COMM_TEST_TENSOU01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door"
+  },
+  "W10_LDMK_COMM_TEST_TENSOU01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This door leads to other worlds."
+  },
+  "W10_EVAR_COMM_TENSO_00_000_TITLE": {
+    "speaker": "UI",
+    "text": "Teleportation Device"
+  },
+  "W10_EVAR_COMM_TENSO_00_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This device connects the base with other worlds."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "W01_EVAR_SIUG_RAKUGAKU_010_TITLE": {
+    "speaker": "UI",
+    "text": "Kaoruko Hachijo"
+  },
+  "W01_EVAR_SIUG_RAKUGAKU_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Kaoruko Hachijo is here. Perhaps you should try talking to her."
+  },
+  "W01_EVAR_SIUG_RAKUGAKU_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Her"
+  },
+  "W01_EVAR_SIUG_MIYAKOUNIV_INFO_010_TITLE": {
+    "speaker": "UI",
+    "text": "Naomi Waka"
+  },
+  "W01_EVAR_SIUG_MIYAKOUNIV_INFO_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W01_EVAR_SIUG_MIYAKOUNIV_INFO_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Her"
+  },
+  "W01_EVAR_SIUG_HOTEL_INFO_010_TITLE": {
+    "speaker": "UI",
+    "text": "Tourist"
+  },
+  "W01_EVAR_SIUG_HOTEL_INFO_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W01_EVAR_SIUG_HOTEL_INFO_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W01_EVAR_SIUG_DANGEROUS_CAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Lifetaker's Darkness"
+  },
+  "W01_EVAR_SIUG_DANGEROUS_CAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You hear droplets from within the cave, indicating it's made of limestone. A clue about Lifetaker's darkness can be found here."
+  },
+  "W01_EVAR_SIUG_DANGEROUS_CAVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Limestone Cave"
+  },
+  "W01_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Former Capital"
+  },
+  "W01_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Lifetaker once killed someone in this world, and it's time to reveal the darkness inside him. But a rude man suddenly calls out to you, leading you to believe this world truly has no end of darkness. How fascinating."
+  }
+}

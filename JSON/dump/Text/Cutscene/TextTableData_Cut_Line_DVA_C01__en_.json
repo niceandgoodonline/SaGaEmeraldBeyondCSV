@@ -1,0 +1,610 @@
+{
+  "SUB_C01_GMCK_DIVA_EMERALDRIDE_000_CUT_000_000": {
+    "speaker": "Diva",
+    "text": "I'm sensing unique biological energy\nfrom an unknown life-form. \nWhat's going on here?"
+  },
+  "SUB_C01_GMCK_DIVA_EMERALDRIDE_000_CUT_000_001": {
+    "speaker": "Diva",
+    "text": "I'm sensing that unique energy again."
+  },
+  "SUB_C01_GMCK_DIVA_EMERALDRIDE_000_CUT_000_010": {
+    "speaker": "Diva",
+    "text": "What are you doing there, then?"
+  },
+  "SUB_C01_GMCK_DIVA_TRADEDRUM_000_CUT_000_000": {
+    "speaker": "Diva",
+    "text": "This is a device for trading items.\nBut why is it in a place like this?"
+  },
+  "SUB_C01_GMCK_DIVA_TRADEDRUM_000_CUT_000_010": {
+    "speaker": "Diva",
+    "text": "Oh!"
+  },
+  "SUB_C01_WRLD_DIVA_SIUGNAS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "At last, I have regained my true form!"
+  },
+  "SUB_C01_WRLD_DIVA_SIUGNAS_000_CUT_000_010": {
+    "speaker": "Diva",
+    "text": "Oh my days, love! Your biological\nenergy is completely unmeasurable!"
+  },
+  "SUB_C01_WRLD_DIVA_SIUGNAS_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am regaining my powers as one of the undying.\nI am still far from my full strength, however,\nso you must guard me well."
+  },
+  "SUB_C01_WRLD_DIVA_SIUGNAS_000_CUT_000_030": {
+    "speaker": "Diva",
+    "text": "Is that so? All right then."
+  },
+  "SUB_C01_WRLD_DIVA_ERYTHEIA_000_CUT_000_000": {
+    "speaker": "Erytheia",
+    "text": "Oh boy. Oooh boy. Is this what\nit's like outside of the Kosmos?\fPlease, Canker! Pinch my cellular wall\nand wake me from this horrid nightmare!\nI don't want to be alone here!"
+  },
+  "SUB_C01_WRLD_DIVA_ERYTHEIA_000_CUT_000_010": {
+    "speaker": "Diva",
+    "text": "You're Erytheia, right, love? Oh, but\nI'm glad to be able to meet you here!\nCanker was carried off somewhere, then?"
+  },
+  "SUB_C01_WRLD_DIVA_ERYTHEIA_000_CUT_000_020": {
+    "speaker": "Erytheia",
+    "text": "Foreign body detected! Oh, thank goodness!\nWell, I have no use for Canker anymore.\nAaaaaand away you go!"
+  },
+  "SUB_C01_WRLD_DIVA_ERYTHEIA_000_CUT_000_030": {
+    "speaker": "Erytheia",
+    "text": "Now let us sally forth together!\nYou and I will need to get used to\nbeing in the same boat, as it were."
+  },
+  "SUB_C01_WRLD_DIVA_INITIAL_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "I wonder what you all call this place,\nand what memories you have of it.\nAh, but this would be your first time\nhere, yes, Boudica?"
+  },
+  "SUB_C01_WRLD_DIVA_INITIAL_000_CUT_000_010": {
+    "speaker": "Boudica",
+    "text": "Yeah, but it doesn't seem like there's\nanything here. We gonna do some work?"
+  },
+  "SUB_C01_WRLD_DIVA_INITIAL_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "This is but a route between destinations.\nFirst, we must connect the gateways,\nwhich means it is your turn, Diva."
+  },
+  "SUB_C01_WRLD_DIVA_INITIAL_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Mine? Oh dear, I dinnae think\nI can do anything like that."
+  },
+  "SUB_C01_WRLD_DIVA_INITIAL_000_CUT_000_040": {
+    "speaker": "Constantine",
+    "text": "Your role is to decide the course of Albion's\nNational Extradimensional Exploratory Task\nForce. Now go fulfill your duty!"
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh? What's this? I see several\nbeams of lovely emerald light."
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_000_CUT_000_010": {
+    "speaker": "Constantine",
+    "text": "Your scan function is all sorted, so only you\nwill see the results of your probability scans.\nYou can decide where we go; it makes no great\ndifference what you choose, so rest easy."
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_000_CUT_000_020": {
+    "speaker": "Boudica",
+    "text": "What can you see?"
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Four beams of emerald light, love.\nThey each link to a door."
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_000_CUT_000_040": {
+    "speaker": "Boudica",
+    "text": "Then pick one and let's go already!"
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_000_CUT_010_000": {
+    "speaker": "Constantine",
+    "text": "Ah, one thing I forgot: You should have\nhigh-speed movement functionality,\nso you ought to give it a proper go.\nCome on, then! Off you pop!"
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "What's the difference between\nhigh and normal speeds, then?"
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_000_CUT_010_020": {
+    "speaker": "Constantine",
+    "text": "You'll just have to try it and see.\nEverything's a new experience,\nyou know—especially in your case."
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "All right, I'll try."
+  },
+  "SUB_C01_DOOR_DIVA_FIRST_PORTAL_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Will this one do?"
+  },
+  "SUB_C01_DOOR_DIVA_FIRST_PORTAL_000_CUT_000_010": {
+    "speaker": "Constantine",
+    "text": "While we seek many things beyond the door,\nyou seek your heart. So just go ahead and\ndo whatever you think best."
+  },
+  "SUB_C01_DOOR_DIVA_FIRST_PORTAL_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "What even IS a mech's heart though?"
+  },
+  "SUB_C01_WRLD_DIVA_FIRSTMECH_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Right then! Do you feel as if a little\nbit of your heart has been unlocked?"
+  },
+  "SUB_C01_WRLD_DIVA_FIRSTMECH_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I still dinnae understand what a 'heart' is\nfor me, even, but I do feel like something\nhas been released inside me."
+  },
+  "SUB_C01_WRLD_DIVA_FIRSTMECH_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "A better-than-expected result!\nNow let's make for another doorway."
+  },
+  "SUB_C01_WRLD_DIVA_FIRSTMECH_000_CUT_000_030": {
+    "speaker": "Boudica",
+    "text": "Our ranks have ballooned with another\nodd-duck ally. Is that a problem?"
+  },
+  "SUB_C01_WRLD_DIVA_FIRSTMECH_000_CUT_000_040": {
+    "speaker": "Constantine",
+    "text": "No problem at all! Why, gathering odd\nallies is one of the Exploratory Task\nForce's most solemn duties!"
+  },
+  "SUB_C01_WRLD_DIVA_FIRSTMECH_000_CUT_000_050": {
+    "speaker": "Boudica",
+    "text": "That's a suspicious attitude.\nYou'd best be careful."
+  },
+  "SUB_C01_WRLD_DIVA_FIRSTMECH_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Careful of what?"
+  },
+  "SUB_C01_WRLD_DIVA_SECONDMECH_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Right then! Do you feel as if much\nof your heart has been unlocked?"
+  },
+  "SUB_C01_WRLD_DIVA_SECONDMECH_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I still dinnae understand what a 'heart' is\nfor me, even, but I do feel like something\nhas been released inside me."
+  },
+  "SUB_C01_WRLD_DIVA_SECONDMECH_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "Chuffed to hear it! That means our task\nforce's mission is proceeding apace."
+  },
+  "SUB_C01_WRLD_DIVA_SECONDMECH_000_CUT_000_030": {
+    "speaker": "Blath",
+    "text": "Sure wish I knew what our\nactual 'mission' even was."
+  },
+  "SUB_C01_WRLD_DIVA_SECONDMECH_000_CUT_000_040": {
+    "speaker": "Constantine",
+    "text": "Our mission, my dear, is to go to other worlds,\ngather up artifacts of their culture, and return\nto Albion so we might present them to the royals.\nIt really couldn't be more simple."
+  },
+  "SUB_C01_WRLD_DIVA_SECONDMECH_000_CUT_000_050": {
+    "speaker": "Constantine",
+    "text": "Now, I understand it's not a glamorous or\nflashy task like defeating a powerful enemy,\nbut it's one given us by the royal family,\nwhich makes it a cracking important job."
+  },
+  "SUB_C01_WRLD_DIVA_SECONDMECH_000_CUT_000_060": {
+    "speaker": "Blath",
+    "text": "Okay. I understand now."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Well then? Have we finally drawn\nnear the core of your heart?"
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I've not found anything regarding my 'heart.' \nDo I even have one, then? 'Cause every time\nsomething unlocks inside me, I start to\ndoubt that a wee bit more."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "You're a mech, right? You should be able\nto analyze such things without all of this\nworry and carrying-on."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but I cannae find what it is\nI'm supposed to be analyzing."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_000_CUT_000_040": {
+    "speaker": "Wednesday",
+    "text": "You're overthinking it. When I fight,\nI just share my capability assessment\nwith my battle armor and get after it!\nI'm certain it works the same with you."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh, I'm nothing but a heap of problems!\nAll I do is cause trouble for everyone."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_000_CUT_000_060": {
+    "speaker": "Wednesday",
+    "text": "It's no problem to cause trouble for us—\nin fact, I think it's actually better!\nThat's what cooperation's about, right?"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "All memory seals unlocked.\nStarting memory scan and function check."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_010": {
+    "speaker": "Constantine",
+    "text": "Yes yes, we can do the checks later.\nRight now, you should hop to and\ntransfer the song data you have."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but I cannae guarantee 100% data\naccuracy if I transfer it before I check\nmy memory."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_030": {
+    "speaker": "Constantine",
+    "text": "Quit your blathering and act already!\nI need that data to restart 'It'!"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "...Transfer complete."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_050": {
+    "speaker": "Constantine",
+    "text": "And with that, the National Extradimensional\nExploratory Task Force's mission is finished.\nI hereby declare us officially disbanded!"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_060": {
+    "speaker": "Boudica",
+    "text": "What the bloody hell does that mean!?"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_070": {
+    "speaker": "Wednesday",
+    "text": "He just up and left the group!\nUgh. Talk about the worst."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_080": {
+    "speaker": "Blath",
+    "text": "He abandoned us?"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_090": {
+    "speaker": "Imaku_Werewolf",
+    "text": "Arooo!"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "This is my diva-type body."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_110": {
+    "speaker": "Boudica",
+    "text": "Hell, you really <i>were</i> a diva!"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_120": {
+    "speaker": "Blath",
+    "text": "Oh, you look just lovely."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_130": {
+    "speaker": "Wednesday",
+    "text": "Yes, though I do feel like a certain\nsense of kinship has been lost."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_140": {
+    "speaker": "Diva_No5",
+    "text": "I remember everything now. He was my\nmanager—but as to why he led the task\nforce or had me be part of it, I have no idea."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_150": {
+    "speaker": "Wednesday",
+    "text": "He basically yanked that data out of you.\nUsed you like a glorified thumb drive."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_160": {
+    "speaker": "Diva_No5",
+    "text": "The song data was sealed off so I\ncouldn't access it. But when my\nfunctions were unlocked..."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_170": {
+    "speaker": "Boudica",
+    "text": "Let's just go after him and get the\ninformation straight from the horse's\nmouth. We can do that, right?"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_000_CUT_000_180": {
+    "speaker": "Diva_No5",
+    "text": "Performing a probability scan..."
+  },
+  "SUB_C01_SCAN_DIVA_FOURTHMECH_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I found him."
+  },
+  "SUB_C01_SCAN_DIVA_FOURTHMECH_000_CUT_000_010": {
+    "speaker": "Wednesday",
+    "text": "Then let's move!"
+  },
+  "SUB_C01_SCAN_DIVA_FOURTHMECH_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "But why? I was the one he used;\nit's nothing to do with the rest of ye."
+  },
+  "SUB_C01_SCAN_DIVA_FOURTHMECH_000_CUT_000_030": {
+    "speaker": "Boudica",
+    "text": "We were all used by that man, Diva—\nand we're all going to make him pay!"
+  },
+  "SUB_C01_SCAN_DIVA_FOURTHMECH_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "All right, then."
+  },
+  "SUB_C01_SCAN_DIVA_FOURTHMECH_000_CUT_000_050": {
+    "speaker": "Blath",
+    "text": "It's all right if you're angry, Diva.\nIn fact, you should be the angriest of\nus all. Just listen to your heart in this."
+  },
+  "SUB_C01_SCAN_DIVA_FOURTHMECH_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "My heart..."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Oh, well done! Just as I calculated, you lot\nfollowed right after me! Now then, I think\nI'll have you perform a post-restart check.\nJust give me a moment here..."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_000_010": {
+    "speaker": "Boudica",
+    "text": "A moment's how long you got until I\nput my fist through your teeth!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "N-now just hold on there!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_000_030": {
+    "speaker": "Constantine",
+    "text": "Listen to me, all of you!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Afraid they're only going to listen after\nthey've knocked ye around a bit, love."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_000": {
+    "speaker": "Boudica",
+    "text": "Right then. What did you want to say?\nAlso, depending on what it is, you might\nfind yourself the recipient of additional\narse-kickings, so be ready for that."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_010": {
+    "speaker": "Blath",
+    "text": "Hide nothing. We would hear it all."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_020": {
+    "speaker": "Wednesday",
+    "text": "Initializing lie detector!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_030": {
+    "speaker": "Constantine",
+    "text": "Now now, no need for any of that!\nI'm quite happy to tell you good\neggs the truth about everything."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_040": {
+    "speaker": "Constantine",
+    "text": "Some time ago, we learned the data needed to\nrestart 'It' was stored at the Royal Museum \nin the form of an audio file."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_050": {
+    "speaker": "Constantine",
+    "text": "Copying said file, however, proved quite the\nsticky wicket. So we turned to the diva-type\nmodels because they can perfectly reproduce\ndata simply by listening to sound."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_060": {
+    "speaker": "Wednesday",
+    "text": "Like transcribing music by ear."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_070": {
+    "speaker": "Constantine",
+    "text": "Just so. Our plan required taking Diva here\nfrom Avalon—but to protect the data, we had\nto lock her memory. Thus, we designated it a \nforbidden song and sealed it off inside her."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_080": {
+    "speaker": "Constantine",
+    "text": "Since she was no longer a diva in form, I was\nable to whisk her out of Avalon without anyone\nso much as looking at me sideways. Clean as a\nwhistle and neat as a pin it was!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_090": {
+    "speaker": "Constantine",
+    "text": "Ah, but I think you know the rest:\nwe traveled all over and removed\nthe memory seal on Diva, which is\nhow we now find ourselves here."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_100": {
+    "speaker": "Boudica",
+    "text": "That's the most horrid thing I've ever heard!\nDo you think we're just going to let you walk\naway after learning all that!?"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_010_110": {
+    "speaker": "Constantine",
+    "text": "Well, I <i>am</i> the villain here, so I suppose horrid\nis simply part of my skillset. Oh, and now that\nI've stalled long enough, 'It' is going to restart.\nOh, but I'm ever so excited!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_000": {
+    "speaker": "Constantine",
+    "text": "Aaah ha ha! You think you've won? So long as I\nhave the data, I can restart 'It' over and over\nagain—which means all of the Conjoined Worlds\nwill once more be as one under us!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "It's not data! It's MUSIC!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_020": {
+    "speaker": "Constantine",
+    "text": "HA HA HAAA! Oh, you silly heap of scrap!\nAh, but I must thank you, for you reproduced\nthe data perfectly—just as one would expect from\na songstress of your calibre! AAAH HA HA HA!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_030": {
+    "speaker": "Blath",
+    "text": "Diva?\n...Sing."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_040": {
+    "speaker": "Diva_No5",
+    "text": "What!?"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_050": {
+    "speaker": "Wednesday",
+    "text": "Your functions should be restored.\nYou can sing. So sing."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_060": {
+    "speaker": "Boudica",
+    "text": "Yes. Sing and prove it.\nProve this is music."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_070": {
+    "speaker": "Imaku_Werewolf",
+    "text": "Arooo!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_080": {
+    "speaker": "Diva_No5",
+    "text": "But <i>can</i> I sing even?"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_000_CUT_020_090": {
+    "speaker": "Constantine",
+    "text": "'It' restarts once more! Now all the\nConjoined Worlds will bow before the\npower of our perfect, one world!"
+  },
+  "SUB_C01_WRLD_DIVA_INITIAL_100_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Oh, but it has been some time since I last\nlaid eyes upon the Junction. Now if you'd\nbe so kind as to hop to it, dear?"
+  },
+  "SUB_C01_WRLD_DIVA_INITIAL_100_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Me?"
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_100_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "I don't know what you're seeing, but I'll\nleave it up to you to decide where we go.\nNow if you would be so kind?"
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_100_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I cannae claim to understand\nwhat I'm doing here..."
+  },
+  "SUB_C01_SCAN_DIVA_INITIAL_WAVE_100_CUT_000_020": {
+    "speaker": "Boudica",
+    "text": "He's telling you to do whatever you want.\nSo just...you know. Do that."
+  },
+  "SUB_C01_WRLD_DIVA_RETURN_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Oh, but you DO like your little detours!\nWell, I suppose that's fine, too."
+  },
+  "SUB_C01_WRLD_DIVA_RETURN_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It's not a detour, love.\nI just dinnae know where to go."
+  },
+  "SUB_C01_WRLD_DIVA_RETURN_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "I trust you'll figure it out in time."
+  },
+  "SUB_C01_WRLD_DIVA_RETURN_000_CUT_010_000": {
+    "speaker": "Constantine",
+    "text": "Now now, no need to rush! Not that I'm\neven sure you understand what I'm saying."
+  },
+  "SUB_C01_WRLD_DIVA_RETURN_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I don't."
+  },
+  "SUB_C01_WRLD_DIVA_RETURN_000_CUT_010_020": {
+    "speaker": "Constantine",
+    "text": "Well, that's fine."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_100_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "We're nearly at the end of our\nlittle task force's journey."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_100_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh?"
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_100_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "Indeed—so you should endeavor to have as few\nregrets as possible. Ah, but you are a machine,\nso you probably don't even understand what a\nregret is, do you?"
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_100_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Regrets: Worries pertaining to things one feels\nthey should or should not have done. But as the\nproper choice is only known in the future,\nthere's little point being concerned with them."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_100_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Regrets, however, only arise if ye act in a way\ncontradictory to your own nature. So long as a\nperson is true to themselves, regrets cannae\never take hold in any real way."
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_100_CUT_000_050": {
+    "speaker": "Constantine",
+    "text": "Well, you certainly seem to have the\nright of that particular little foible.\nDo keep it up now!"
+  },
+  "SUB_C01_WRLD_DIVA_THIRDMECH_100_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I will. By the way, machines dinnae\nhave regrets. We accept all consequences,\nthen determine our next course of action."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_100_CUT_000_010": {
+    "speaker": "Constantine",
+    "text": "Yes! It's finally done—which means I can\nbid this absolutely filthy task force\nan unfond farewell. You were all aces,\nplaudits all around, cheers, goodbye."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_100_CUT_000_020": {
+    "speaker": "Boudica",
+    "text": "The hell was that about?"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_100_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "He took some of my data with him:\nsong data that was sealed up. "
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_100_CUT_000_050": {
+    "speaker": "Blath",
+    "text": "Did he really just call us\na 'filthy task force'?"
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_100_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "I'm afraid I lack the data to determine\nour next course of action, loves."
+  },
+  "SUB_C01_WRLD_DIVA_FOURTHMECH_100_CUT_000_070": {
+    "speaker": "Boudica",
+    "text": "Well, that sod's the one with information,\nso I vote we get after him!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "The filthy little band has followed me?\nOh, but I'm simply chuffed to the gills\nto be such a popular fellow!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Why do ye call us filthy?"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "All you need to know is this: the fact\nI left you behind after our collaboration\nwas finished was a mercy."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_000_030": {
+    "speaker": "Boudica",
+    "text": "That's it! I'm gonna shut your gob!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_000": {
+    "speaker": "Boudica",
+    "text": "Talk. Explain why we're filthy."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_010": {
+    "speaker": "Constantine",
+    "text": "All the members of the force hail from different worlds.\nIt's horrifying that so many foreign elements might gather\nas one. Do you not think it very wrong that the Conjoined\nWorlds are in such a state of disarray?"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_020": {
+    "speaker": "Constantine",
+    "text": "The cause of that wrongness is this:\nall the worlds are connected."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Nae! I visited other worlds because they're\nconnected, and that's how I found my heart!\nAnd all the different encounters I had in\nthe different worlds were ever so lovely!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_040": {
+    "speaker": "Constantine",
+    "text": "Oh yes, each world has its own ecosystem,\nsociety, and culture. But once that's all\nboiled together, there's no way for them\nto regain their original beauty."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "So worlds are better off separate, then? Nae,\nI disagree. It made me happy to hear the music\nof so many other worlds! Those new sounds and\nconnection moved my heart to...to..."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Of course. My heart. The thing that feels the\nmusic inside me is my <i>heart</i>—and it's been\ninside me all along! I just couldn't understand\nthat because my memories were sealed up!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_070": {
+    "speaker": "Constantine",
+    "text": "We exist to rectify the contradiction that is the\nConjoined Worlds. Through them, beautiful worlds—\nonce connected—lose their beauty...and this perception\nthat machines have hearts must also be rectified."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_080": {
+    "speaker": "Constantine",
+    "text": "The power to correct the Conjoined Worlds—\nand the key to unlock it—are both hidden in\nAvalon. I merely used this machine to reclaim\nwhat it is I needed."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_090": {
+    "speaker": "Boudica",
+    "text": "You manipulated us, you sod!\nAnd I won't stand for it!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_100": {
+    "speaker": "Constantine",
+    "text": "A hammer asks no permission\nfrom the nail, my dear."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_110": {
+    "speaker": "Boudica",
+    "text": "All right, that's it. I'm gonna punch\nthis clod right into next week."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "Save a bit for me, love!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_010_130": {
+    "speaker": "Constantine",
+    "text": "Aaah ha ha! You pathetic cretins can't do\nanything, because 'It' is restarting! Oh,\nhow I look forward to what happens next!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_020_000": {
+    "speaker": "Constantine",
+    "text": "You've won nothing! So long as I have the data,\n'It' can be restarted over and over again! All of\nthe worlds will be isolated in beauty! We WILL\ncorrect the contradiction of the Conjoined Worlds!"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_020_030": {
+    "speaker": "Gold_SubManager",
+    "text": "Sing now, diva-type.\nThat is your primary function."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_020_050": {
+    "speaker": "Simon",
+    "text": "You can turn data into music.\nYou can move the heart."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_020_060": {
+    "speaker": "Sarab",
+    "text": "13141314"
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_020_070": {
+    "speaker": "BX10_EX",
+    "text": "Yes, we all want to hear you sing."
+  },
+  "SUB_C01_EVNT_DIVA_LASTBATTLE_100_CUT_020_090": {
+    "speaker": "Constantine",
+    "text": "And now 'It' shall restart once more! You people\nare the symbols of the filthy chaos that is the\nConjoined Worlds, and we shall bring back\nour diverse heaven!"
+  }
+}

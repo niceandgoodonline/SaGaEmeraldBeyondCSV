@@ -1,0 +1,58 @@
+{
+  "W03_EVAR_DIVA_GRAVE_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Grave"
+  },
+  "W03_EVAR_DIVA_GRAVE_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You weren't able to find your heart. All you can do is move on to your next destination."
+  },
+  "W03_EVAR_DIVA_GRAVE_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Yomi"
+  },
+  "W03_EVAR_DIVA_RUIN_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Ruins"
+  },
+  "W03_EVAR_DIVA_RUIN_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You weren't able to find your heart. All you can do is move on to your next destination."
+  },
+  "W03_EVAR_DIVA_RUIN_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Yomi"
+  },
+  "W03_EVAR_DIVA_WELL_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Well"
+  },
+  "W03_EVAR_DIVA_WELL_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You weren't able to find your heart. All you can do is move on to your next destination."
+  },
+  "W03_EVAR_DIVA_WELL_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Yomi"
+  },
+  "W03_EVAR_DIVA_CASTLE_FINAL_PRIDE_110_TITLE": {
+    "speaker": "UI",
+    "text": "To Find a Heart"
+  },
+  "W03_EVAR_DIVA_CASTLE_FINAL_PRIDE_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there really no option but to fight Dolores, the Warden of Pride?"
+  },
+  "W03_EVAR_DIVA_CASTLE_FINAL_PRIDE_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dark Castle"
+  },
+  "W03_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yomi: The World of Darkness"
+  },
+  "W03_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world shrouded in darkness on the other side of the door, as well as a woman named Dolores. Will she be able to guide you to your heart?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "SUB_A00_SYSM_DIVA_BODY_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You can now use a new type of frame."
+  },
+  "SUB_A00_WRLD_DIVA_BATTLE_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "All members of Albion's National Extradimensional\nExploratory Task Force must possess some measure\nof combat ability, you know."
+  },
+  "SUB_A00_WRLD_DIVA_BATTLE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I imagine ye must be something of\na combat expert yerself, then?"
+  },
+  "SUB_A00_WRLD_DIVA_BATTLE_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "Oh, perish the thought! I am here to act as your\ncommander, and as such I will do nothing more\nthan issue orders. All the fighting will be done by\nmy trusty crew! ...Which includes you, incidentally."
+  },
+  "SUB_A00_WRLD_DIVA_BATTLE_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye'd have me fight!? But I haven't got\nany kind of combat program installed!"
+  },
+  "SUB_A00_WRLD_DIVA_BATTLE_000_CUT_000_040": {
+    "speaker": "Constantine",
+    "text": "I had a feeling you might say that, and as such\nmade arrangements to ensure you'd be able\nto experience some basic combat training.\nI'm sure you'll get the hang of it before long."
+  },
+  "SUB_A00_WRLD_DIVA_BATTLE_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "...Will fighting lead me to my heart?"
+  }
+}

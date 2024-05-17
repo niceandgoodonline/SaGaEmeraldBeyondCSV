@@ -1,0 +1,1694 @@
+{
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_010_CUT_000_000": {
+    "speaker": "Priest",
+    "text": "So get to it."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_010_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Hold on."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_010_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "We'll do it."
+  },
+  "SUB_W07_WRLD_BOFO_INITIAL_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Oceans and volcanoes, prairies and forests...\nThis here world's a sample platter of\neverything nature's got to offer!"
+  },
+  "SUB_W07_WRLD_BOFO_INITIAL_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "It certainly is. But we have a job to do,\nand that takes precedence over sightseeing."
+  },
+  "SUB_W07_WRLD_BOFO_INITIAL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hate that we gotta ignore all this beauty\nfor the sake of some weird triangle,\nbut suppose there ain't no other option.\nBest saddle up and move out, then."
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "These appear to be ruins of some sort—\nand from the looks of it, they weren't\ndestroyed naturally."
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Someone's here!"
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Lower your piece, darlin'! Always better to\nstart with a few friendly questions before\nyou start throwin' lead around."
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Howdy, pardner! You live around here?\nAlso, why're you wearin' a paper bag?\f...Pardner? Do you not understand me?"
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey, hold up!"
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "What on earth was that?"
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_060": {
+    "speaker": "WindPriest",
+    "text": "We have visitors at the Soul Temple."
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_070": {
+    "speaker": "WoodsPriest",
+    "text": "Flamewave League spies, perhaps?\nI've not seen their like before."
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_080": {
+    "speaker": "FirePriest",
+    "text": "As if we would recruit such\nostentatious agents!"
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_090": {
+    "speaker": "WaterPriest",
+    "text": "The Soul Temple has been the site of strange\nphenomena since ancient times. Is that not\nwhy we banded together to destroy it?"
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_100": {
+    "speaker": "WoodsPriest",
+    "text": "Are you suggesting these creatures are\nSoul Voyagers? Are we to be ruled\nby the Soul Temple even now?"
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_110": {
+    "speaker": "FirePriest",
+    "text": "If they are indeed Soul Voyagers,\nwe of the Flamewave League will\nnot engage with them."
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_120": {
+    "speaker": "WindPriest",
+    "text": "And nor will we of the\nForestgale Alliance."
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_130": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, crud. It ain't ever a great sign\nwhen you're already a pariah five\nminutes after settin' foot in a place."
+  },
+  "SUB_W07_EVAR_BOFO_SOULCULTIST_000_CUT_000_140": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's overstating things a bit;\nthis fellow right here seems to\nlike us just fine.\fThanks for showing us around,\nlittle ghost."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This must be the home of those\npeople we saw earlier."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "Be welcome at the Temple of Fire,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Wait, so we <i>are</i> welcome here?\nWhy the sudden change of heart?\nAnd what does 'Soul Voyager' mean?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "The Four Tribes of Cinq once had our lives\ncontrolled by the Soul Temple. Eventually\nwe grew to despise its dominion over us,\nand so banded together to destroy it."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "In the days when we were still under its sway,\ntravelers would occasionally appear. We named\nthem Soul Voyagers, for whatever they sought\nwould greatly affect the lives of all in Cinq."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "We know well the power of a Soul Voyager,\nand humbly request your assistance in\ndefeating the Forestgale Alliance."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Look, we're happy to help those in need,\nbut we're not about to involve ourselves\nin any local wars."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_070": {
+    "speaker": "FirePriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Flamewave League\nand the Forestgale Alliance.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_080": {
+    "speaker": "FirePriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Flamewave League!"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "We'll consider it."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_100": {
+    "speaker": "FirePriest",
+    "text": "Take whatever time you need.\nWe await your favorable reply."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "They wanted nothing to do with us earlier,\nbut now they seem very interested.\nWhat do you think?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_120": {
+    "speaker": "Formina_Franklyn",
+    "text": "My intuition tells me there's a triangle\nin this for us regardless of who we choose\nto help—but we'll have to help <i>someone</i>\nin order to get it."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's help this tribe."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_000_140": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's look around first."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is the Flame Temple also looking\nfor help from Soul Voyagers?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_010_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Flamewave League do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLE_INTRO_010_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "So how's this one look?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLE_INTRO_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's help this tribe."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLE_INTRO_010_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's look around first."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_010_000": {
+    "speaker": "FirePriest",
+    "text": "Thank you, Soul Voyager.\nNow then, if I may be so bold as to\nask, we would appreciate your help."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_INTRO_000_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "What do you want us to do?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_INTRO_000_CUT_000_010": {
+    "speaker": "WaterPriest",
+    "text": "Be welcome at the Wave Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_INTRO_000_CUT_000_070": {
+    "speaker": "WaterPriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Waveflame League\nand the Forestgale Alliance.\fAnd while this conflict has not led\nto violence of yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_INTRO_000_CUT_000_080": {
+    "speaker": "WaterPriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Waveflame League!"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_INTRO_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is the Wave Temple also looking\nfor help from Soul Voyagers?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_INTRO_010_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Waveflame League do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_INTRO_000_CUT_000_010": {
+    "speaker": "WindPriest",
+    "text": "Be welcome at the Gale Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_INTRO_000_CUT_000_050": {
+    "speaker": "WindPriest",
+    "text": "We know well the power of a Soul Voyager,\nand humbly request your assistance in\ndefeating the Flamewave League."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_INTRO_000_CUT_000_070": {
+    "speaker": "WindPriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Galeforest Alliance\nand the Flamewave League.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_INTRO_000_CUT_000_080": {
+    "speaker": "WindPriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Galeforest Alliance!"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_INTRO_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is the Gale Temple also looking\nfor help from Soul Voyagers?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_INTRO_010_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Galeforest Alliance do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_INTRO_000_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "Be welcome at the Forest Temple,\nSoul Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_INTRO_000_CUT_000_070": {
+    "speaker": "WoodsPriest",
+    "text": "After the Soul Temple's destruction,\nthe tribes of Cinq divided into two\nfactions: the Forestgale Alliance\nand the Flamewave League.\fAnd while this conflict has not led\nto violence as yet, we remain in\na state of perpetual opposition.\nThis is why <i>we</i> must win."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_INTRO_000_CUT_000_080": {
+    "speaker": "WoodsPriest",
+    "text": "So please, Soul Voyager! Grant your\nsacred aid to the Forestgale Alliance!"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_INTRO_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is the Forest Temple also looking\nfor help from Soul Voyagers?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_INTRO_010_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "Ah, so you understand the situation already.\nYes, we of the Forestgale Alliance do indeed\nseek your aid, Soul Voyager."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_141_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We must boost our economic strength\nif we hope to win this war. To this end,\nwe are creating factories one after another,\nputting a strain on our energy supply."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_141_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "As our League has heat sources and water\nin abundance, we use steam as our primary\nmeans of generating power."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_141_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "And that's what you want\nus to pitch in with?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_141_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "The output of our steam plant is dropping.\nShould the Soul Voyager stop by, I am sure\nboth the problem and its solution will be\nmade apparent."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_141_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, I'm no engineer, but I suppose\nwe can head over and take a look."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_141_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Good grief! This plant could power all\nof Capitol City with capacity left over!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_141_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Where are you going, little ghost?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_141_CUT_000_020": {
+    "speaker": "Nitram",
+    "text": "Ah, you must be the Soul Voyager.\nThe temple told us you'd be coming;\nwe are excited to behold your success."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_141_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I don't see the problem here."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_141_CUT_000_040": {
+    "speaker": "Nitram",
+    "text": "That should be apparent imminently."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_141_CUT_010_000": {
+    "speaker": "Nitram",
+    "text": "I expected no less from you, Voyager!\nThose fiends are sent by the Forestgale\nAlliance, and perpetually cause damage\nin this place.\fBut today, the plant remains unharmed!\nSadly for the beasts, they cannot say the same."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_141_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "I do not expect the Forestgale Alliance\nto launch another attack any time soon,\nso thank you again for your efforts."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_142_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "With the issue at the steam plant resolved,\nour factories can now operate at full capacity.\nHowever, we've realized our transportation\ninfrastructure cannot handle the output."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_142_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "We need more harbors and ships. Furthermore,\nour current lack of shipyards will surely lead\nto additional problems down the road."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_142_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well if there are two things we know nothing \nabout, it's shipping and infrastructure planning—\nso I'm not sure exactly what you're expecting\nus to do here."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_142_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "I'd like to ask you to visit a shipyard\nconstruction site, where I feel certain\nyour presence will cause something\nquite beneficial to transpire."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_142_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Okay, but WHAT do you expect to transpire?\nWhy can't you ever give a straight answer!?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Seems this is where they're\nbuilding the new shipyard."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Running off again, eh?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "Welcome, Voyager! Your arrival will\nsurely hasten the construction of\nthis important site!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "No idea why you assume that, but sure."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "So I'm really just supposed to stand here\nand watch? Ugh, I'm bored already.\nMaybe I'll walk around a bit."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, everyone sure seems busy and—\nGya! Hey, don't push me! "
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "How's that? You're worried about this box?\nI suppose it does seem a bit suspicious."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "It's a bomb! Get back!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_080": {
+    "speaker": "Atihana",
+    "text": "Are you all right, Voyager!?\nI heard an explosion!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm fine. But don't come any closer;\nthere may be evidence here that can\nhelp us pin down the culprit."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_100": {
+    "speaker": "Atihana",
+    "text": "This is clearly the work of the Forestgale\nAlliance—one of their spies must have\ninfiltrated the site. I will begin a\nthorough investigation at once!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_110": {
+    "speaker": "Atihana",
+    "text": "How did you locate that bomb,\nif you don't mind my asking?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_120": {
+    "speaker": "Formina_Franklyn",
+    "text": "I noticed it while I was walking around.\nThat's sort of my job, after all."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_000_130": {
+    "speaker": "Atihana",
+    "text": "Well, regardless, your being here\nwas clearly a blessing. Thank you."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "You were great today, little ghost.\nIt seems I've underestimated you."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "If you keep getting in our way, Voyager,\nI'm afraid I'll have to get rid of you."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_142_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Become a hero to one faction,\nand you're a villain to another.\nIsn't that always the way?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_143_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "I'm given to understand that you foiled the\nenemy's attempt to sabotage our new shipyard.\nYou Soul Voyagers truly are special beings!"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_143_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "Construction of the shipyard is now complete,\noffering a solution to our long-term shipping\nproblems. However, we would like to bring our\nwar with the Forestgale Alliance to a swifter end."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_143_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I couldn't agree more—which is why I urge you\nto establish a neutral ground where you can\ntalk through your issues. But I'm guessing that\nisn't what you're about to propose."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_143_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "The backbone of the Forestgale Alliance's\neconomy is their system of railways.\nSomething must be done about it."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_143_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm not about to sabotage a bunch of trains,\nif that's what you're asking."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_143_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "All we ask is that you visit a train\nstation of the Forestgale Alliance.\nThe rest will take care of itself."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "So this is the train station, eh?\nIf this was destroyed, the damage to the\nForestgale Alliance would be significant."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "Ah, a Soul Voyager!\nWhat are you doing here?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I think someone is trying to sabotage\nthis station, and I thought I could help\nyou prevent that from happening."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_030": {
+    "speaker": "Irbas",
+    "text": "Somehow I doubt that's your true intention.\nAs such, we will take the liberty of assigning\nan escort during your visit."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Hey, the more people watching, the better.\nIn fact, I'm pretty sure I know that guy\nover there already."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_050": {
+    "speaker": "Nahoj",
+    "text": "......"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_060": {
+    "speaker": "Irbas",
+    "text": "So much for the big sabotage plot.\nIt seems nothing will happen here,\nso it's time you were on your way."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Thanks for seeing me out."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_080": {
+    "speaker": "Irbas",
+    "text": "Where the Voyager travels, calamity follows.\nI am relieved to see that this instance\nproved to be the exception to the—"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "The station's been destroyed!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_100": {
+    "speaker": "Irbas",
+    "text": "And we were too distracted with the Voyager\nto see it coming! Damn you, Voyager!\nYou have brought ruin upon us!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "We weren't able to prevent the sabotage\nof the station, but what's done is done.\nNothing to do here but move on."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_143_CUT_000_120": {
+    "speaker": "Formina_Franklyn",
+    "text": "Hee hee! Are you trying to cheer me up?\nAw, you're a sweet little thing."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_231_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "Our verdant forests supply the Alliance\nwith an ample amount of lumber. "
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_231_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "Sadly, we have fallen far behind in\nthe task of processing said lumber;\nwe simply cannot afford to maintain\nthe necessary workforce."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_231_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Have you ever considered mechanizing\nthe process? There's only so much you\ncan achieve with manpower alone. "
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_231_CUT_000_030": {
+    "speaker": "WoodsPriest",
+    "text": "Indeed we have, which is why the tribes of gale\nand forest have begun working together to construct\na mill. However, the project is beset with issues\nthat I am hoping you might resolve."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_231_CUT_000_031": {
+    "speaker": "WoodsPriest",
+    "text": "The peoples of gale and forest have begun\nworking together to construct a lumber mill.\nHowever, the project is beset with issues\nthat I am hoping you might resolve."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_231_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Helping people resolve problems\nis what we do best."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is where they're building the mill,\nbut it sure doesn't look like they've\nmade much progress."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Where to now, little ghost?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_020": {
+    "speaker": "Irbas",
+    "text": "I am pleased to see you come, Voyager. Alas,\nthose of the Gale Tribe who are supposed to\nbe helping us construct the mill refuse to work.\fMight I ask you to scold them in my stead?\nWhile they ignore me, they'll not so easily\nshrug off a rebuke from a Soul Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's a common problem, isn't it?\nDon't worry, we'll handle it."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_040": {
+    "speaker": "Nahoj",
+    "text": "The work is just too dangerous! These woods\nare filled with all manner of horrid beasts,\nand they're perpetually waiting for a chance\nto make us their dinner!\fWe tried telling the Forest Tribe that you can't\nbuild a mill when you're always looking over\nyour shoulder, but they don't seem to care!\nI simply don't understand their kind..."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "That does sound rather frightening.\nWhat if we scout out the forest for you?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's no beast!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_070": {
+    "speaker": "Irbas",
+    "text": "To the Forest Tribe, beasts of the wood are\ntreasured neighbors with whom we coexist.\fAnd while we do eat them at times, our hunting\nseason is primarily for population control.\nWe cannot simply slaughter them indiscriminately\nto ease the nerves of some cowardly wind people!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "The creature I encountered in the woods\nearlier was no beast, but a fiend."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_090": {
+    "speaker": "Irbas",
+    "text": "Hmm. We <i>have</i> sensed a disturbing decline\nin the beasts' numbers of late, so perhaps\nthis is the reason. Which means...\fOf course! Those villains from the Flamewave\nLeague must be releasing fiends into\nour woods! Might I ask you to cull the\nnumbers of these interlopers, Voyager?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_000_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "I suppose I'd better—as much for\nthe beasts' sakes as for yours."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_010_000": {
+    "speaker": "Irbas",
+    "text": "Now the Gale Tribe\ncan work without fear."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_231_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "I can't believe the Flamewave League was behind\nthose monsters! They very nearly managed to\ncause strife between us and the Forest Tribe,\nand they will pay dearly for it!"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_232_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "Thanks to the new mill, we'll be able to\nfinish some large-scale construction\nprojects that were on hold."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_232_CUT_000_010": {
+    "speaker": "WoodsPriest",
+    "text": "Our next project is installing wind turbines in the\nGale Tribe's residential district. If we complete\nthat, the Alliance's energy production will finally\nbe comparable to that of the League."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_232_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "And what is it that you're about to ask of me?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_232_CUT_000_030": {
+    "speaker": "WoodsPriest",
+    "text": "Oh, I appreciate someone who doesn't beat\naround the bush! The crux of it is this: we expect\nthe League to attempt to sabotage the project,\nfor there's no low their kind won't sink to."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_232_CUT_000_031": {
+    "speaker": "WoodsPriest",
+    "text": "Our next project is installing wind turbines\nin the Gale Tribe's residential district.\nBut we expect the League to attempt sabotage,\nfor there's no low their kind won't sink to."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_232_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Fiend extermination, then. Understood."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is quite the large-scale project.\nTurning wind into energy really is\nan impressive innovation!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "Yes, and the greater the project,\nthe harder it is to defend.\fWe've already had a rash of suspicious fires\nthat destroyed precious materials recently\ndelivered from the mill. Without a doubt,\nthis is the work of the Flamewave League."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "If it's a guard you need, I'm your lady;\nnothing escapes my watchful eye."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "You there! Freeze!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "We've been spotted! Run!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "These arsonists are trying something every\nsingle night—but they'll soon learn not\nto underestimate a cop's fortitude!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_060": {
+    "speaker": "Nahoj",
+    "text": "Thanks to you, our materials are safe,\nand construction is proceeding smoothly."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Then I guess I won't have to\nhold out for much longer."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Huh? What now?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_090": {
+    "speaker": "Nahoj",
+    "text": "Fiend! A giant fiend is coming!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_000_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "Good! I was feeling a bit lazy."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "And that's that."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_232_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "What's that? You're praising me?\nAw, thanks, little ghost."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_233_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "Various industries have been reaping the\nbenefit of the Alliance's new wind energy,\nand our economic prospects seem bright."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_233_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "Sadly, while we strive to live in greater\nharmony with nature than the Flamewave League,\nthis has put us at a disadvantage in the war."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_233_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "Even with our recent gains,\nour loss is inevitable."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_233_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "And your point?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_233_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "Our only option would be to attack the enemy's\ninfrastructure. If we can destroy their port,\nwe will deal a great blow to their economy."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_233_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm not going to help you\ncommit a bunch of sabotage."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_233_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I can't help them, but I also can't turn\na blind eye to what they're planning."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_233_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Guess you feel the same way, huh?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_233_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "You have come, Voyager—\njust as our intelligence predicted."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_233_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "We know you are planning to destroy the port,\nand I will not allow it! Your meddling will cause\nno harm to the League today!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_233_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "So THAT'S what this is about: they set me up\nto be the decoy while they destroy the port!\nBoy, I really walked right into that one..."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_233_CUT_000_050": {
+    "speaker": "Atihana",
+    "text": "Cease your mumbling!\fNow then, tell me who sent you and\nwhy you have come. I need to hear\na confession from your own lips."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_233_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Too late."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_233_CUT_000_070": {
+    "speaker": "Atihana",
+    "text": "What!?"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_000": {
+    "speaker": "Nitram",
+    "text": "Our long war is finally over!\nThe Flamewave League stands victorious!"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_010": {
+    "speaker": "Atihana",
+    "text": "You mean the <i>Waveflame</i> League."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_020": {
+    "speaker": "Nitram",
+    "text": "Our League has proven its dominance\nthanks to the Soul Voyager!"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_030": {
+    "speaker": "Atihana",
+    "text": "Should your travels bring you to this\nworld again, please do visit our temple."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_040": {
+    "speaker": "Nitram",
+    "text": "Farewell."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_050": {
+    "speaker": "Atihana",
+    "text": "Thanks, guy."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is the end, and we never found\nthe triangle. I suppose it could be\nsomewhere we haven't visited yet?"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Do you have any ideas, Bonnie?"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "I reckon maybe we need to see this conflict\nthrough until there's only one temple left."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "But the conflict is already over.\nWon't this world be at peace now?"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, that alliance between Flame and\nWave is thin as an old sheet on the line!\nAt the end of the day, only one team\never gets to win a war."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is that really how this works? It's not like\nthe tribes of Forest or Gale did anything\nto justify their fate; do I have to aid in the\ntorment of even more people now?"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "Darlin', that's just how missions go sometimes.\nWe're here to gather the triangles and solve\nthe mystery of Quisstatium, and that's it.\fOur duty's to protect the Union States,\nnot these tribes."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "All right, Bonnie. Message received."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_140": {
+    "speaker": "Bonnie_Blair",
+    "text": "Listen, I'd be happy to handle\nthe dirty work if you like."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_FWWIN_000_CUT_010_150": {
+    "speaker": "Formina_Franklyn",
+    "text": "No, it's all right. I can do it."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_000": {
+    "speaker": "Irbas",
+    "text": "Our long war is finally over!\nThe Forestgale Alliance stands victorious!"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "You mean the <i>Galeforest</i> Alliance."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_020": {
+    "speaker": "Irbas",
+    "text": "Our Alliance has proven its dominance\nthanks to the Soul Voyager!"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_030": {
+    "speaker": "Nahoj",
+    "text": "Should your travels bring you to this\nworld again, please do visit our temple."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_040": {
+    "speaker": "Irbas",
+    "text": "Farewell."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_050": {
+    "speaker": "Nahoj",
+    "text": "Thanks, guy."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "They've achieved their aims,\nbut we still don't have any\nidea as to what YOUR goal is."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Can you at least tell us where\nwe can find a triangle?"
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "The whole purpose of the Forestgale Alliance\nwas so they could resist the Flamewave League.\nWithout a common enemy, their alliance ain't\ngot a reason to be no more."
+  },
+  "SUB_W07_FUNC_BOFO_SWITCHPHASE_WWWIN_000_CUT_010_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is that really how this works? It's not like\nthe tribes of Flame or Wave did anything\nto justify their fate; do I have to aid in the\ntorment of even more people now?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I hope the Flamewave League\nis holding strong."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_010": {
+    "speaker": "FirePriest",
+    "text": "You have come at an opportune time,\nSoul Voyager!"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Why do I feel like my worst fears\nare about to be confirmed?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "Your worst fears? Yes, we have been feeling much\nthe same—in fact, we now suspect the Wave Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "But the alliance between the Flame and\nWave Tribes was a wonderful thing!\nWhy would you abandon that now?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "As much as I wish it could have continued,\nthe Wave Temple sees things differently,\nand has decreed our people can never be one.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "All right, I'll consider it."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_070": {
+    "speaker": "FirePriest",
+    "text": "Take whatever time you need.\nWe await your favorable reply."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "I guess Bonnie was right:\nonly one team can win in the end."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_000_CUT_000_120": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, if that's how it has to be, then the\nbest way for us to help is to bring this war\nto the quickest possible resolution."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just as I suspected. It's the same things\nI heard over at the Flame Temple."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_BETRAYAL_010_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "We are resolved to launch an attack\non the Wave Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_BETRAYAL_000_CUT_000_030": {
+    "speaker": "WaterPriest",
+    "text": "Your worst fears? Yes, we have been feeling much\nthe same—in fact, we now suspect the Flame Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "But the alliance between the Wave and\nFlame Tribes was a wonderful thing!\nWhy would you abandon that now?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_BETRAYAL_000_CUT_000_050": {
+    "speaker": "WaterPriest",
+    "text": "As much as I wish it could have continued,\nthe Flame Temple sees things differently,\nand has decreed our people can never be one.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just as I suspected. It's the same things\nI heard over at the Wave Temple."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_BETRAYAL_010_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "We are resolved to launch an attack\non the Flame Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_BETRAYAL_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I wonder how the Forestgale\nAlliance is holding up?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_BETRAYAL_000_CUT_000_030": {
+    "speaker": "WindPriest",
+    "text": "Your worst fears? Yes, we have been feeling much\nthe same—in fact, we now suspect the Forest Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "But the alliance between the Gale and\nForest Tribes was a wonderful thing!\nWhy would you abandon that now?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_BETRAYAL_000_CUT_000_050": {
+    "speaker": "WindPriest",
+    "text": "As much as I wish it could have continued,\nthe Forest Temple sees things differently,\nand claims the forest has no need of wind.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just as I suspected. It's the same things\nI heard over at the Gale Temple."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_BETRAYAL_010_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "We are resolved to launch an attack\non the Forest Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_BETRAYAL_000_CUT_000_030": {
+    "speaker": "WoodsPriest",
+    "text": "Your worst fears? Yes, we have been feeling much\nthe same—in fact, we now suspect the Gale Tribe\nintends to attack us! Therefore, we must make a\nproactive move, lest we yield the initiative."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_BETRAYAL_000_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "But the alliance between the Forest and\nGale Tribes was a wonderful thing!\nWhy would you abandon that now?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_BETRAYAL_000_CUT_000_050": {
+    "speaker": "WoodsPriest",
+    "text": "As much as I wish it could have continued,\nthe Gale Temple sees things differently,\nand declared the woods an obstacle to wind.\nKnowing this, I ask you to aid us!"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_BETRAYAL_010_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Just as I suspected. It's the same things\nI heard over at the Forest Temple."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOODS_BETRAYAL_010_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "We are resolved to launch an attack\non the Gale Tribe, Voyager, and would\nmuch appreciate your aid."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_101_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We were able to claim victory in our war\nagainst the Forestgale Alliance due to our\nsuperior energy production."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_101_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Does that mean you're going to\nbuild another steam plant?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_101_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "No. That would take far too long, causing\nus to fall behind in the war against the\nwave people. Instead, we seek to upgrade\nour current plant."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_101_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Huh. Sadly, that sort of technical work\nis a bit out of my wheelhouse."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_101_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "I ask only that you visit the plant.\nThat should ensure all goes smoothly."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_101_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Again with the impossibly\nvague explanations."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_101_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "The energy from this plant also goes\nto the Wave Tribe, right? So why can't\nyou two just continue to cooperate?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_101_CUT_000_010": {
+    "speaker": "Nitram",
+    "text": "Because their incessant harassment\nhas completely stalled our plans\nto upgrade the power plant!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_101_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "What kind of harassment?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_101_CUT_000_030": {
+    "speaker": "Nitram",
+    "text": "They loose fiends near the cooling pools,\nwhich both endangers our staff and reduces\nthe plant's efficiency."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_101_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, if there are fiends that need slaying,\nI can definitely help; I was just thinking\nI could use a nice stretch."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_101_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I understand how these fiends could cause\ntrouble for your people, but if the Wave Tribe\nwas serious about harming you, they would have\nsent something a whole lot worse."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_101_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "While you have my gratitude, Voyager,\nyou know little of the Wave Tribe.\nThey are indeed set on annihilating\nour kind!"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_102_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We wish to make use of various minerals\nwhich can be obtained from volcanoes."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_102_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "And you'll melt those ores\nwith the volcano's heat?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_102_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "You are rather ignorant about our technology,\nVoyager. We are only securing the minerals\n<i>from</i> the volcano; we will later smelt them\nusing the heat from our steam plant."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_102_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "So what are you making, exactly?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_102_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "We will use that energy to power our forges,\nwhich will allow us to craft ever more potent\nweapons and lead us to a great victory!"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_102_CUT_000_041": {
+    "speaker": "FirePriest",
+    "text": "We will use that energy to power our forges,\nwhich will allow us to craft ever more potent\nweapons and lead us to a great victory!"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_102_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is warfare the only option that's\neven on the table here?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_102_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Whoa! So hot!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_102_CUT_000_010": {
+    "speaker": "Nitram",
+    "text": "What you are feeling is the heat from the\nvolcano mingling with our fiery enthusiasm\nfor these ironworks."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_102_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I certainly wouldn't want to\nstick around here very long."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_102_CUT_000_030": {
+    "speaker": "Nitram",
+    "text": "The fire fiends here don't like our presence.\nAnd while we're not afraid of their attacks,\nper se, we also haven't figured out an\neffective strategy to combat them."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_102_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's get this over with\nas quickly as we can."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_102_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "The heat was no joke,\nbut I managed to get the job done."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_102_CUT_010_010": {
+    "speaker": "Nitram",
+    "text": "Thank you! Now we can finish the\nironworks without further incident."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_103_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We have arrived at a decision, Voyager:\nwe are going to destroy the shipyard\nthat once stood as a proud symbol\nof the Flamewave League's unity."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_103_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is that really necessary?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_103_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "The psychological damage it will deal\nto the Wave Tribe is the best way to\nensure a rapid victory against them."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_103_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, this is between the two of you,\nso do what you will—but I'm not going\nto be a party to any of this."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_103_CUT_000_040": {
+    "speaker": "FirePriest",
+    "text": "We will win this war with or without\nyour assistance, Soul Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_103_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "This is really sad. If only you two could\nhave trusted each other, you might have\ntaken a very different path."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_103_CUT_000_010": {
+    "speaker": "Nitram",
+    "text": "I understand how you must feel, Voyager,\nseeing as you once risked your life in defense\nof the shipyard. But there is no other choice\nleft to us."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_103_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "It wasn't me who saved the shipyard.\nAre <i>you</i> okay with this?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_103_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "All that time and effort to build it,\nand only an instant to destroy it."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_103_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, I guess this is the end of it.\nI should find the triangle and go home."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_100_CUT_000_000": {
+    "speaker": "FirePriest",
+    "text": "We have destroyed all the enemy\ntemples thanks to your good work."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_100_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I didn't destroy a damn thing,\nbut I guess I'm glad you're satisfied."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_100_CUT_000_020": {
+    "speaker": "FirePriest",
+    "text": "Indeed. Now that only the Flame Temple remains,\nwe can finally cover the entirety of Cinq with magma.\nThen only we will remain!"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_100_CUT_000_030": {
+    "speaker": "FirePriest",
+    "text": "You have served us well, Soul Voyager,\nand I wish to grant you tribute.\nWhat is it you desire?"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_100_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're searching for a special triangle\nthat should be inside your temple."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_100_CUT_000_050": {
+    "speaker": "FirePriest",
+    "text": "You'll find no such thing within our own temple,\nnor in any of the temples that were destroyed.\nSadly, I'm afraid I will not be able to fulfill this\nrequest of yours."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_100_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Oh no... Did we choose the\nwrong temple to save?"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_100_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "There must be something we overlooked.\nIsn't that right, little ghost?"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_100_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "You reckon he knows somethin'?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_401_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "Our transportation infrastructure gives us an\nadvantage over the Flame Tribe, for we can move\nmore on our waterways than on any land route—\nso long as we have the ships, that is."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_401_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Are you going to build a new shipyard?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_401_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "No. That would take far too long, causing\nus to fall behind in the war against the\nFlame Tribe. Instead, we seek to upgrade\nour current one."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_401_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Fair enough—but that sort of\ntechnical work isn't my thing."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_401_CUT_000_040": {
+    "speaker": "WaterPriest",
+    "text": "I ask only that you visit the shipyard.\nThat should ensure all goes smoothly."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_401_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Again with the impossibly\nvague explanations."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_401_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "What an impressive shipyard! Sort of\nhard to believe it wouldn't be here\nif you didn't find that bomb."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_401_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I hear you want to upgrade the shipyard.\nIs there something stopping you?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_401_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "While our shipyard is capable of producing\nlarge-scale vessels, its facilities are\nlacking due to its hasty construction\nin the midst of the war.\fAnd since building large vessels is an\ninefficient process at the best of times,\nwe must see this situation rectified."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_401_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "That doesn't sound like the sort of\nproblem I can help with; I don't know\nthe first thing about ships."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_401_CUT_000_040": {
+    "speaker": "Atihana",
+    "text": "Ha ha! We certainly do not expect your help\nwith <i>that</i>, Voyager. We have specialists\nin that field arriving any min—"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_401_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "That ship is under attack!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_401_CUT_010_000": {
+    "speaker": "Atihana",
+    "text": "You truly have a knack for being where\nyou are needed most, Voyager."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_401_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm a cop. It's what we do."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_402_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "Our waterways are now so crowded that\nwe fear the possibility of a collision."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_402_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, that certainly sounds like a problem.\nDo you have a solution in mind?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_402_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "We intend to construct a lighthouse\nand highlight safe shipping routes."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_402_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Good idea! If anything goes wrong,\ndon't hesitate to let me know."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_402_CUT_000_040": {
+    "speaker": "WaterPriest",
+    "text": "Actually, I would prefer\nthat you go see it now."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_402_CUT_000_041": {
+    "speaker": "WaterPriest",
+    "text": "I would like you to visit the\nlighthouse construction site."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_402_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "So something's gone wrong ALREADY?\nYou could have just said so!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_402_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Wait, is this where they're building\nthe lighthouse? It looks like they've\nbarely started working on it."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_402_CUT_000_010": {
+    "speaker": "Atihana",
+    "text": "Yet had you waited, there would be no\nlighthouse to see, for fiends are currently\npreventing us from building it."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_402_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "And you believe the Flame Temple\nsent the fiends here?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_402_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "No, in fact—these appear to be native\ncreatures who simply don't appreciate\nwhat we're doing in their territory."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_402_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Now THIS is a problem I can solve!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_402_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Will this torrent of fiends ever end?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_402_CUT_010_010": {
+    "speaker": "Atihana",
+    "text": "The fiends should calm down once\nconstruction is finished and we\nvacate the area."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_402_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Sounds like that's not\nhappening anytime soon."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_403_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "We have arrived at a decision, Voyager:\nwe are going to destroy the steam plant\nthat once stood as a proud symbol of\nthe Waveflame League's unity."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_403_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Okay, but won't that hurt\nthe Wave Tribe as well?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_403_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "Yes, but it is still the best way to ensure\na rapid victory against the Flame Tribe."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_403_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "So we've reached the stage of war where\nyou're sacrificing your own. Fantastic."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_403_CUT_000_040": {
+    "speaker": "WaterPriest",
+    "text": "No one asked for your opinion."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_403_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "How do you intend to stop this?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_403_CUT_000_010": {
+    "speaker": "Atihana",
+    "text": "If the pressure of the steam exceeds\na certain level, the plant will explode.\nAccidents do happen, after all."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_403_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "An accident that only the Wave Tribe\nknows about in advance."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_403_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "Everyone knows about the potential for\naccidents. If this one causes excessive\ndamage, it will be on the Flame Tribe for\nnot taking proper precautions."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_403_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "That's hardly a justification\nwhen you're the one causing it!"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_400_CUT_000_000": {
+    "speaker": "WaterPriest",
+    "text": "As the Wave Tribe cannot survive for long in\nthe open air, we have no intentions of stealing\nthe lands of others. All we desire is for all to\nlive in peace within their own territories."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_400_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "How can you speak of peace when you\ndestroyed the temples of the other tribes?"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_400_CUT_000_020": {
+    "speaker": "WaterPriest",
+    "text": "Because they looked to conquer US! Sadly,\nthe peace we sought could only be secured\nthrough the destruction of all other temples."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_301_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "We must increase our energy capacity without\nattracting attention from the Forest Tribe.\nTo this end, we seek to upgrade our output\nof wind energy."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_301_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "So you'll be performing upgrades and\nmasking them as routine maintenance?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_301_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "Yes, exactly so! Ah, but it is a relief\nto have your keen insight on our side,\nSoul Voyager."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_301_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "And I imagine you're concerned that\nthe Forest Tribe will catch on."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_301_CUT_000_040": {
+    "speaker": "WindPriest",
+    "text": "Indeed I am. In fact, the Forest Tribe are\ncertain to come investigate our dealings,\nand I am at a loss for how to deter them."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_301_CUT_000_041": {
+    "speaker": "WindPriest",
+    "text": "Might I ask you to visit the wind farm?\nI have no desire to risk trouble between\nour peoples at this point. "
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_301_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "If it will help prevent conflict,\nI'll do whatever I can."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_301_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I see lots of the Forest Tribe here.\nThey must watching over the wind farm."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_301_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "It will be impossible to replace the\ncomponents necessary to boost our output\nwith so many people watching, Voyager.\nWhat is to be done?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_301_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Well, I suppose you could drive a few\nnearby fiends toward the wind farm."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_301_CUT_000_030": {
+    "speaker": "Nahoj",
+    "text": "An interesting thought... Yet while the\nForest Tribe would certainly pay us little\nmind during a fiend attack, it would also\nplace our workers in grave danger."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_301_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Leave that to us; I promise that none\nof your people will be harmed."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_301_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I told you to drive in a few fiends,\nnot an entire herd!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_301_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "We may have gotten carried away a bit,\nand for this, I apologize. But surely\nthey were no more than a minor\ninconvenience for you, Voyager?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_302_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "As there has been no change to the Forest\nTribe's supply of energy, they currently\nsuspect nothing. We must use this chance\nto strengthen our own position."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_302_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Such as making weapons?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_302_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "We intend to take measures such as increasing\nfood production in order to become fully self-\nsufficient. In this way, we can continue the\nwar even after the forest people cut off trade."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_302_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "That...actually seems like a good idea.\nIs there anything we can do to help?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_302_CUT_000_040": {
+    "speaker": "WindPriest",
+    "text": "Thank you. I would like you to visit our farm;\nits output is not increasing in quite the way\nwe had expected."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_302_CUT_000_041": {
+    "speaker": "WindPriest",
+    "text": "I would like you to visit our farm;\nits output is not increasing in quite\nthe way we had expected."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_302_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "From industry to agriculture...\nThe life of a Soul Voyager\ncertainly is a busy one."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_302_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "When you mentioned a farm, I pictured fields\nof crops and the like, but this is mostly barns.\nWhen this place is complete, you'll be able to\nraise an incredible amount of livestock here!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_302_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "With our wind power, even a small amount of\npeople can raise a large amount of livestock.\nThese will be used not only for consumption,\nbut for trade with other regions as well."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_302_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Impressive. So what do you\nneed my help with here?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_302_CUT_000_030": {
+    "speaker": "Nahoj",
+    "text": "Barns are of little use with no livestock to\nfill them—but before we can gather our herds\nfrom the pastures, we must deal with the\nvarious fiends in the area."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_302_CUT_000_040": {
+    "speaker": "Formina_Franklyn",
+    "text": "Now that I can do."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_302_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "All right, the rest is in your hands."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_302_CUT_010_010": {
+    "speaker": "Nahoj",
+    "text": "Thank you, Voyager! Without your help,\nwe would be up for a severe tongue-lashing\nfrom our leaders at the temple."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_302_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Boy, does that ever sound familiar..."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_303_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "The Forest Tribe are completely oblivious,\nand one small push may be all it takes to\nwin their surrender. As such, I intend to\nattack their lumber mill."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_303_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I suppose a surprise attack is a good\nway to limit your own casualties."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_303_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "In fact, it is the best way to minimize\ncasualties on BOTH sides, and therefore\nthe optimal strategy."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_303_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "If you're so concerned about casualties,\nyou might want to consider a strategy\ncalled 'Not Going To War At All.'"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_303_CUT_000_040": {
+    "speaker": "WindPriest",
+    "text": "No one is asking you to participate\nin the attack, Soul Voyager!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_303_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "It seems like only yesterday that the Gale and\nForest Tribes worked hand-in-hand to build this\nlumber mill—but perhaps it was never quite\nthe show of unity it appeared to be."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_303_CUT_000_010": {
+    "speaker": "Nahoj",
+    "text": "We worked ourselves near to death in this forest,\nyet the Forest Tribe never made any effort to\nunderstand our ways. For us, this place holds\nnaught but painful memories."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_300_CUT_000_000": {
+    "speaker": "WindPriest",
+    "text": "Now we can finally raze this terrible forest!\nWe will turn it from a terrifying den of beasts\ninto a peaceful grassland savanna—for one cannot\nlive on lava and water, nor grow crops there."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_300_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "You don't see the issue in razing trees\njust because <i>you</i> don't need them?"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_300_CUT_000_020": {
+    "speaker": "WindPriest",
+    "text": "There will still be trees, Voyager—there is\nsimply no need for such dense forestland.\nAll that matters is the wind blowing through\nthe new grassy plains."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_201_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "How are we to defend ourselves from an assault by\nthe Gale Tribe? Alas, while we of the Forest Tribe\ncannot match their strength, we've no choice but\nto throw away our lives in the effort."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_201_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Why not open a dialogue with them?\nCommunication is the first step to\nconflict resolution; military force\nshould always be the very last resort."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_201_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "Yes, we will definitely try that...\nand afterward, we will optimize the\nlumber mill! That is our only hope."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_201_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'm happy to help if I can."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_201_CUT_000_040": {
+    "speaker": "WoodsPriest",
+    "text": "I would appreciate you going to the mill,\nfor I know your presence will bring\ngreat cheer to all the workers."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_201_CUT_000_041": {
+    "speaker": "WoodsPriest",
+    "text": "I would appreciate you going to the mill,\nfor I know your presence will bring\ngreat cheer to all the workers."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_201_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Lots of Forest Tribe members are gathered\naround the mill. What are they doing?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_201_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "We laid off laborers who will no longer be\nneeded due to the mill upgrades, and now\nthey're interfering with the process!\fWe even offered to find them new jobs,\nbut they refuse to listen."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_201_CUT_000_020": {
+    "speaker": "Irbas",
+    "text": "We may have to take stronger\nmeasures to remove them."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_201_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "I get the sense a lot of people are\nrefusing to listen around here—which\ndoesn't exactly bode well for the future."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_201_CUT_000_040": {
+    "speaker": "Irbas",
+    "text": "Look out! Some of the fiends the\nFlamewave League sent are still alive!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_201_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "We'll handle this!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_201_CUT_010_000": {
+    "speaker": "Irbas",
+    "text": "With the former workers scattered,\nwe can now upgrade the mill."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_201_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Were those fiends <i>really</i> just leftovers\nfrom the former Flamewave League?\nSeems suspicious to me."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_202_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "Our talks with the Gale Tribe did nothing\nbut heighten suspicions. We should never\nhave engaged with them at all."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_202_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "You can't expect to achieve mutual\nunderstanding in a single session.\nYou have let the process play out."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_202_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "Patience is a luxury we do not have. Instead,\nwe formed a cavalry composed of workers made\nredundant by the mill upgrade, which will allow\nus to match the speed of the Gale Tribe's forces."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_202_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Which means you need stables, right?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_202_CUT_000_040": {
+    "speaker": "WoodsPriest",
+    "text": "You guess correctly. As such, we would ask\nyou to visit the construction site, as we\nanticipate interference from the Gale Tribe."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_202_CUT_000_041": {
+    "speaker": "WoodsPriest",
+    "text": "We would ask you to visit the construction\nsite of the stables, as we anticipate\ninterference from the Gale Tribe."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_202_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "If both sides feel this way,\nmaybe dialogue really is pointless."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_202_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I know what the Forest Tribe said,\nbut could they simply be paranoid?\nI mean, the Gale Tribe DID agree\nto hold talks, after all."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_202_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "The wind blows in a strange direction today... \nI wonder if the Gale Tribe is using it\nto send some fell beast after us."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_202_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "The heck you talkin' about, guy?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_202_CUT_000_030": {
+    "speaker": "Irbas",
+    "text": "There!"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_202_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "I see no evidence that the Gale Tribe\nis responsible for the fiend attack."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_202_CUT_010_010": {
+    "speaker": "Irbas",
+    "text": "Is that truly what you believe?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_202_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I believe you <i>want</i> to think\nthey're responsible. How's that?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_203_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "The Gale Tribe derives its strength\nfrom the energy of their wind farm.\nWithout it, they are powerless."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_203_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "Don't tell me you intend to destroy it."
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_203_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "The Gale Tribe uses their mastery of the breezes\nto send countless fiends after us. We have no\noption but to destroy the farm—although I do not\nknow if we actually possess the power to do so. "
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_203_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "But don't you rely on wind energy\njust as much as they do?"
+  },
+  "SUB_W07_FUNC_BOFO_MISSIONCONFIRMATION_TEXT_203_CUT_000_040": {
+    "speaker": "WoodsPriest",
+    "text": "That is of no concern. So long as we\nhave our forests, we can survive."
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_203_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "So much work went into constructing this!\nDoesn't that mean anything to anyone?"
+  },
+  "SUB_W07_EVAR_BOFO_MISSION_203_CUT_000_010": {
+    "speaker": "Irbas",
+    "text": "We will set the wind farm to burn.\nIf we are slain in the effort,\nI leave the fate of the Forest Tribe\nin your hands, Voyager. Farewell."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_200_CUT_000_000": {
+    "speaker": "WoodsPriest",
+    "text": "The strength of the Gale Temple has been\nreduced to nothing, and we can now live\nlives free of worry.\fAll praise to the forests, for they will\nnow spread unchecked across all of Cinq,\nrealizing our dream of a green world!"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_200_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "That doesn't sound so bad—though the other\npeople of Cinq may feel differently."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_200_CUT_000_020": {
+    "speaker": "WoodsPriest",
+    "text": "The other peoples do not yet know the worth\nof the forest. Once they see how wonderful\nit is to make one's home among the canopy\nof trees, they will come to see things our way."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_000_000": {
+    "speaker": "SoulSprite",
+    "text": "Your journey here is not yet over.\nCan't you see there is more to be done?"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Is your goal just to see everything\nhere in ruins, feller?"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_000_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "I guess the little ghost isn't after\ntrick-or-treat candy after all."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_LAST_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "So now we are to tear down this temple with\nour own hands? As much as I want a triangle,\nthis feels like a bridge too far."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_LAST_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm with you on that, hon—and I sure\ndon't feel good about bein' manipulated\nby that little creep."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_LAST_CUT_000_020": {
+    "speaker": "Nahoj",
+    "text": "The Soul Voyagers are here."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_LAST_CUT_000_030": {
+    "speaker": "Atihana",
+    "text": "We have come to destroy the temple.\nDo not interfere."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_LAST_CUT_000_040": {
+    "speaker": "Irbas",
+    "text": "We take our fate into our own hands."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_LAST_CUT_000_050": {
+    "speaker": "Nitram",
+    "text": "None of our tribes wish to be ruled\nby the temple in this fashion."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_LAST_CUT_000_060": {
+    "speaker": "Formina_Franklyn",
+    "text": "Is this because of what we did?"
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEFIRE_LAST_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nope! The folks in this here world\nachieved this with their own power.\nThey went and won their future."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_LAST_CUT_000_020": {
+    "speaker": "Irbas",
+    "text": "The Soul Voyagers are here."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_LAST_CUT_000_030": {
+    "speaker": "Nitram",
+    "text": "We have come to destroy that temple.\nDo not interfere."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_LAST_CUT_000_040": {
+    "speaker": "Nahoj",
+    "text": "We take our fate into our own hands."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWATER_LAST_CUT_000_050": {
+    "speaker": "Atihana",
+    "text": "None of our tribes wish to be ruled\nby the temple in this fashion."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_LAST_CUT_000_020": {
+    "speaker": "Atihana",
+    "text": "The Soul Voyagers are here."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_LAST_CUT_000_030": {
+    "speaker": "Irbas",
+    "text": "We have come to destroy that temple.\nDo not interfere."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_LAST_CUT_000_040": {
+    "speaker": "Nitram",
+    "text": "We take our fate into our own hands."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWIND_LAST_CUT_000_050": {
+    "speaker": "Nahoj",
+    "text": "None of our tribes wish to be ruled\nby the temple in this fashion."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOOD_LAST_CUT_000_020": {
+    "speaker": "Nitram",
+    "text": "The Soul Voyagers are here."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOOD_LAST_CUT_000_030": {
+    "speaker": "Nahoj",
+    "text": "We have come to destroy that temple.\nDo not interfere."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOOD_LAST_CUT_000_040": {
+    "speaker": "Atihana",
+    "text": "We take our fate into our own hands."
+  },
+  "SUB_W07_EVAR_BOFO_TEMPLEWOOD_LAST_CUT_000_050": {
+    "speaker": "Irbas",
+    "text": "None of our tribes wish to be ruled\nby the temple in this fashion."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "All the temples have been destroyed.\nWhat will become of this world now?"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_010": {
+    "speaker": "SoulSprite",
+    "text": "All has been returned to the point from\nwhich it began. The Four Tribes will now\nbegin anew—and will continue to do so\nas many times as it takes."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_020": {
+    "speaker": "Nitram",
+    "text": "Let's stack these stones\nat the Soul Temple."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_030": {
+    "speaker": "Atihana",
+    "text": "If we all work together,\nwe can rebuild the Soul Temple."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_040": {
+    "speaker": "Nahoj",
+    "text": "All those of the Four Tribes\npossess a soul."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_050": {
+    "speaker": "Irbas",
+    "text": "May all our souls be as one."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_051": {
+    "speaker": "Bonnie_Blair",
+    "text": "Everyone looks so satisfied; they clearly\nthink they're taking their futures into\ntheir own hands."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_052": {
+    "speaker": "Formina_Franklyn",
+    "text": "But if all of this is engineered\nto work out this way..."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_053": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nossir, I can't watch this no more.\nWe did what we were supposed to,\nso make with the triangle already! "
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_054": {
+    "speaker": "SoulSprite",
+    "text": "Quisstatium watches over the worlds.\nQuisstatium watches over you."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_060": {
+    "speaker": "SoulSprite",
+    "text": "Hear me now, O Soul Voyagers.\nWho do you choose to take with you?"
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Nitram of the Flame Tribe."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_080": {
+    "speaker": "Formina_Franklyn",
+    "text": "Atihana of the Wave Tribe."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "Nahoj of the Gale Tribe."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_100": {
+    "speaker": "Formina_Franklyn",
+    "text": "Irbas of the Forest Tribe."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "None of them."
+  },
+  "SUB_W07_EVAR_BOFO_GAMEOVER_110_CUT_010_120": {
+    "speaker": "Formina_Franklyn",
+    "text": "I hope you're all able to achieve\ntrue freedom one day."
+  }
+}

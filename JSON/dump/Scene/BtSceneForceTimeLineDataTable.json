@@ -1,0 +1,142 @@
+{
+  "BS_W14_MIDO_LASTBATTLE_01_W2": {
+    "Scene": "BS_W14_MIDO_LASTBATTLE_00",
+    "Turn": "TurnInterval",
+    "Param": "6",
+    "SequenceType": "World",
+    "Formation": "BF_ENEMY_BACK"
+  },
+  "BS_W14_MIDO_LASTBATTLE_00_W": {
+    "Scene": "BS_W14_MIDO_LASTBATTLE_00",
+    "Turn": "TurnInterval",
+    "Param": "3",
+    "SequenceType": "World",
+    "Formation": "BF_ENEMY_FRONT"
+  },
+  "BS_W14_BOSS_INTERVAL_00_W": {
+    "Scene": "BS_W14_BOSS_INTERVAL_00",
+    "Turn": "TurnInterval",
+    "Param": "3",
+    "SequenceType": "World",
+    "Formation": "BF_W14_1"
+  },
+  "BS_W14_BOSS_LAST_00_W": {
+    "Scene": "BS_W14_BOSS_LAST_00",
+    "Turn": "TurnInterval",
+    "Param": "3",
+    "SequenceType": "World",
+    "Formation": "BF_W14_1"
+  },
+  "BS_W14_BOSS_LAST_01_W": {
+    "Scene": "BS_W14_BOSS_LAST_01",
+    "Turn": "TurnInterval",
+    "Param": "6",
+    "SequenceType": "World",
+    "Formation": "BF_W14_2"
+  },
+  "BS_W14_BOSS_LAST_01_W2": {
+    "Scene": "BS_W14_BOSS_LAST_01",
+    "Turn": "TurnInterval",
+    "Param": "3",
+    "SequenceType": "World",
+    "Formation": "BF_W14_1"
+  },
+  "BS_W14_BOSS_LAST_02_W": {
+    "Scene": "BS_W14_BOSS_LAST_02",
+    "Turn": "TurnInterval",
+    "Param": "6",
+    "SequenceType": "World",
+    "Formation": "BF_W14_2"
+  },
+  "BS_W14_BOSS_LAST_02_W2": {
+    "Scene": "BS_W14_BOSS_LAST_02",
+    "Turn": "TurnInterval",
+    "Param": "3",
+    "SequenceType": "World",
+    "Formation": "BF_W14_1"
+  },
+  "BS_C01_AMYA_LASTBATTLE_SIN_00_2_TI": {
+    "Scene": "BS_C01_AMYA_LASTBATTLE_SIN_00_2",
+    "Turn": "TurnInterval",
+    "Param": "7",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_C01_AMYA_LASTBATTLE_SIN_01_2_TI": {
+    "Scene": "BS_C01_AMYA_LASTBATTLE_SIN_01_2",
+    "Turn": "TurnInterval",
+    "Param": "9999",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_C01_BAF_LASTABATTLE_SIN_00_1_TI": {
+    "Scene": "BS_C01_BAF_LASTABATTLE_SIN_00_1",
+    "Turn": "TurnInterval",
+    "Param": "7",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_C01_DIVA_LASTABATTLE_SIN_00_2_TI": {
+    "Scene": "BS_C01_DIVA_LASTABATTLE_SIN_00_2",
+    "Turn": "TurnInterval",
+    "Param": "7",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_C01_DIVA_LASTABATTLE_SIN_01_2_TI": {
+    "Scene": "BS_C01_DIVA_LASTABATTLE_SIN_01_2",
+    "Turn": "TurnInterval",
+    "Param": "9999",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_C01_MIDO_LASTABATTLE_SIN_00_2_TI": {
+    "Scene": "BS_C01_MIDO_LASTABATTLE_SIN_00_2",
+    "Turn": "TurnInterval",
+    "Param": "9999",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_C01_MIDO_LASTABATTLE_SIN_01_2_TI": {
+    "Scene": "BS_C01_MIDO_LASTABATTLE_SIN_01_2",
+    "Turn": "TurnInterval",
+    "Param": "7",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_C01_SIUG_LASTABATTLE_SIN_01_2_TI": {
+    "Scene": "BS_C01_SIUG_LASTABATTLE_SIN_01_2",
+    "Turn": "TurnInterval",
+    "Param": "9999",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_W03_SIUG_LASTBATTLE_SIN_00_2_TI": {
+    "Scene": "BS_W03_SIUG_LASTBATTLE_SIN_00_2",
+    "Turn": "TurnInterval",
+    "Param": "7",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_W18_BAF_LASTABATTLE_SIN_00_1_TI": {
+    "Scene": "BS_W18_BAF_LASTABATTLE_SIN_00_1",
+    "Turn": "TurnInterval",
+    "Param": "7",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_W18_BAF_LASTABATTLE_SIN_01_1_TI": {
+    "Scene": "BS_W18_BAF_LASTABATTLE_SIN_01_1",
+    "Turn": "TurnInterval",
+    "Param": "9999",
+    "SequenceType": "Boss",
+    "Formation": "BF_100"
+  },
+  "BS_W99_032_TI6": {
+    "Scene": "BS_W99_032",
+    "Turn": "TurnInterval",
+    "Param": "6",
+    "SequenceType": "World",
+    "Formation": "BF_101"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "SOZAI_SPIRIT_STONE_ItemName": {
+    "speaker": "UI",
+    "text": "Spirit Stone"
+  },
+  "SOZAI_SPIRIT_STONE_ItemExp": {
+    "speaker": "UI",
+    "text": "A stone harboring a spirit's power."
+  },
+  "SOZAI_FE_MOKU_ItemName": {
+    "speaker": "UI",
+    "text": "Wood Crystal"
+  },
+  "SOZAI_FE_MOKU_ItemExp": {
+    "speaker": "UI",
+    "text": "A crystal harboring the power of wood."
+  },
+  "SOZAI_FE_KA_ItemName": {
+    "speaker": "UI",
+    "text": "Fire Crystal"
+  },
+  "SOZAI_FE_KA_ItemExp": {
+    "speaker": "UI",
+    "text": "A crystal harboring the power of fire."
+  },
+  "SOZAI_FE_DO_ItemName": {
+    "speaker": "UI",
+    "text": "Earth Crystal"
+  },
+  "SOZAI_FE_DO_ItemExp": {
+    "speaker": "UI",
+    "text": "A crystal harboring the power of earth."
+  },
+  "SOZAI_FE_KIN_ItemName": {
+    "speaker": "UI",
+    "text": "Metal Crystal"
+  },
+  "SOZAI_FE_KIN_ItemExp": {
+    "speaker": "UI",
+    "text": "A crystal harboring the power of metal."
+  },
+  "SOZAI_FE_SUI_ItemName": {
+    "speaker": "UI",
+    "text": "Water Crystal"
+  },
+  "SOZAI_FE_SUI_ItemExp": {
+    "speaker": "UI",
+    "text": "A crystal harboring the power of water."
+  },
+  "SOZAI_CRYSTAL_MOKU_ItemName": {
+    "speaker": "UI",
+    "text": "Wood Quartz"
+  },
+  "SOZAI_CRYSTAL_MOKU_ItemExp": {
+    "speaker": "UI",
+    "text": "Quartz harboring the power of wood."
+  },
+  "SOZAI_CRYSTAL_KA_ItemName": {
+    "speaker": "UI",
+    "text": "Fire Quartz"
+  },
+  "SOZAI_CRYSTAL_KA_ItemExp": {
+    "speaker": "UI",
+    "text": "Quartz harboring the power of fire."
+  },
+  "SOZAI_CRYSTAL_DO_ItemName": {
+    "speaker": "UI",
+    "text": "Earth Quartz"
+  },
+  "SOZAI_CRYSTAL_DO_ItemExp": {
+    "speaker": "UI",
+    "text": "Quartz harboring the power of earth."
+  },
+  "SOZAI_CRYSTAL_KIN_ItemName": {
+    "speaker": "UI",
+    "text": "Metal Quartz"
+  },
+  "SOZAI_CRYSTAL_KIN_ItemExp": {
+    "speaker": "UI",
+    "text": "Quartz harboring the power of metal."
+  },
+  "SOZAI_CRYSTAL_SUI_ItemName": {
+    "speaker": "UI",
+    "text": "Water Quartz"
+  },
+  "SOZAI_CRYSTAL_SUI_ItemExp": {
+    "speaker": "UI",
+    "text": "Quartz harboring the power of water."
+  },
+  "SOZAI_MULLOCK_ItemName": {
+    "speaker": "UI",
+    "text": "Mullock"
+  },
+  "SOZAI_MULLOCK_ItemExp": {
+    "speaker": "UI",
+    "text": "A rock fragment."
+  },
+  "SOZAI_IRON_ORE_ItemName": {
+    "speaker": "UI",
+    "text": "Ironstone"
+  },
+  "SOZAI_IRON_ORE_ItemExp": {
+    "speaker": "UI",
+    "text": "Iron material used in manufacturing."
+  },
+  "SOZAI_MAGIC_STONE_ItemName": {
+    "speaker": "UI",
+    "text": "Magic Stone"
+  },
+  "SOZAI_MAGIC_STONE_ItemExp": {
+    "speaker": "UI",
+    "text": "A stone harboring magical energy."
+  },
+  "SOZAI_OBSIDIAN_ItemName": {
+    "speaker": "UI",
+    "text": "Obsidian"
+  },
+  "SOZAI_OBSIDIAN_ItemExp": {
+    "speaker": "UI",
+    "text": "A beautiful stone with a glassy luster."
+  },
+  "SOZAI_NATIVE_SILVER_ItemName": {
+    "speaker": "UI",
+    "text": "Native Silver"
+  },
+  "SOZAI_NATIVE_SILVER_ItemExp": {
+    "speaker": "UI",
+    "text": "Silver found in the wild."
+  },
+  "SOZAI_METEORITE_ItemName": {
+    "speaker": "UI",
+    "text": "Meteorite"
+  },
+  "SOZAI_METEORITE_ItemExp": {
+    "speaker": "UI",
+    "text": "A stone said to have fallen from the skies."
+  },
+  "SOZAI_SUPERALLOY_ItemName": {
+    "speaker": "UI",
+    "text": "Superalloy"
+  },
+  "SOZAI_SUPERALLOY_ItemExp": {
+    "speaker": "UI",
+    "text": "A rigid, man-made alloy."
+  },
+  "SOZAI_FUR_ItemName": {
+    "speaker": "UI",
+    "text": "Beast Pelt"
+  },
+  "SOZAI_FUR_ItemExp": {
+    "speaker": "UI",
+    "text": "Fur taken from a beast."
+  },
+  "SOZAI_MAGICAL_BEAST_FUR_ItemName": {
+    "speaker": "UI",
+    "text": "Magical Beast's Pelt"
+  },
+  "SOZAI_MAGICAL_BEAST_FUR_ItemExp": {
+    "speaker": "UI",
+    "text": "Fur taken from a magical beast."
+  },
+  "SOZAI_BIG_BEAST_FUR_ItemName": {
+    "speaker": "UI",
+    "text": "Great Beast's Pelt"
+  },
+  "SOZAI_BIG_BEAST_FUR_ItemExp": {
+    "speaker": "UI",
+    "text": "Fur taken from a great beast."
+  },
+  "SOZAI_INSECT_SHELL_ItemName": {
+    "speaker": "UI",
+    "text": "Insect Carapace"
+  },
+  "SOZAI_INSECT_SHELL_ItemExp": {
+    "speaker": "UI",
+    "text": "An insect's shell."
+  },
+  "SOZAI_BEAST_BONE_ItemName": {
+    "speaker": "UI",
+    "text": "Beast Bone"
+  },
+  "SOZAI_BEAST_BONE_ItemExp": {
+    "speaker": "UI",
+    "text": "One piece of a beast's skeleton."
+  },
+  "SOZAI_MAGICAL_BEAST_BONE_ItemName": {
+    "speaker": "UI",
+    "text": "Magical Beast's Bone"
+  },
+  "SOZAI_MAGICAL_BEAST_BONE_ItemExp": {
+    "speaker": "UI",
+    "text": "One piece of a magical beast's skeleton."
+  },
+  "SOZAI_BIG_BEAST_BONE_ItemName": {
+    "speaker": "UI",
+    "text": "Great Beast's Bone"
+  },
+  "SOZAI_BIG_BEAST_BONE_ItemExp": {
+    "speaker": "UI",
+    "text": "One piece of a great beast's skeleton."
+  },
+  "SOZAI_BEAST_FANG_ItemName": {
+    "speaker": "UI",
+    "text": "Beast Fang"
+  },
+  "SOZAI_BEAST_FANG_ItemExp": {
+    "speaker": "UI",
+    "text": "A beast's fang."
+  },
+  "SOZAI_MAGICAL_BEAST_FANG_ItemName": {
+    "speaker": "UI",
+    "text": "Magical Beast's Fang"
+  },
+  "SOZAI_MAGICAL_BEAST_FANG_ItemExp": {
+    "speaker": "UI",
+    "text": "A magical beast's fang."
+  },
+  "SOZAI_BIG_BEAST_FANG_ItemName": {
+    "speaker": "UI",
+    "text": "Great Beast's Fang"
+  },
+  "SOZAI_BIG_BEAST_FANG_ItemExp": {
+    "speaker": "UI",
+    "text": "A great beast's fang."
+  },
+  "SOZAI_BEAST_CLAW_ItemName": {
+    "speaker": "UI",
+    "text": "Beast Claw"
+  },
+  "SOZAI_BEAST_CLAW_ItemExp": {
+    "speaker": "UI",
+    "text": "A beast's claw."
+  },
+  "SOZAI_MAGICAL_BEAST_CLAW_ItemName": {
+    "speaker": "UI",
+    "text": "Magical Beast's Claw"
+  },
+  "SOZAI_MAGICAL_BEAST_CLAW_ItemExp": {
+    "speaker": "UI",
+    "text": "A magical beast's claw."
+  },
+  "SOZAI_BIG_BEAST_CLAW_ItemName": {
+    "speaker": "UI",
+    "text": "Great Beast's Claw"
+  },
+  "SOZAI_BIG_BEAST_CLAW_ItemExp": {
+    "speaker": "UI",
+    "text": "A great beast's claw."
+  },
+  "SOZAI_FIBER_ItemName": {
+    "speaker": "UI",
+    "text": "Fiber"
+  },
+  "SOZAI_FIBER_ItemExp": {
+    "speaker": "UI",
+    "text": "Fibrous matter taken from a plant."
+  },
+  "SOZAI_SCRUB_ItemName": {
+    "speaker": "UI",
+    "text": "Shrub"
+  },
+  "SOZAI_SCRUB_ItemExp": {
+    "speaker": "UI",
+    "text": "Miscellaneous shrubbery."
+  },
+  "SOZAI_HINOKI_ItemName": {
+    "speaker": "UI",
+    "text": "Cypress"
+  },
+  "SOZAI_HINOKI_ItemExp": {
+    "speaker": "UI",
+    "text": "Lumber that's resistant to rot."
+  },
+  "SOZAI_OAK_ItemName": {
+    "speaker": "UI",
+    "text": "Oak"
+  },
+  "SOZAI_OAK_ItemExp": {
+    "speaker": "UI",
+    "text": "Lumber that boasts great durability."
+  },
+  "SOZAI_COCONUT_ItemName": {
+    "speaker": "UI",
+    "text": "Coconut"
+  },
+  "SOZAI_COCONUT_ItemExp": {
+    "speaker": "UI",
+    "text": "An unripe fruit."
+  },
+  "SOZAI_GELATIN_ItemName": {
+    "speaker": "UI",
+    "text": "Gelatin"
+  },
+  "SOZAI_GELATIN_ItemExp": {
+    "speaker": "UI",
+    "text": "A wobbly, viscous substance with elasticity."
+  },
+  "SOZAI_LIGULATE_FLOWER_ItemName": {
+    "speaker": "UI",
+    "text": "Ray Floret"
+  },
+  "SOZAI_LIGULATE_FLOWER_ItemExp": {
+    "speaker": "UI",
+    "text": "A ligulate flower."
+  },
+  "SOZAI_DISK_FLOWER_ItemName": {
+    "speaker": "UI",
+    "text": "Disc Floret"
+  },
+  "SOZAI_DISK_FLOWER_ItemExp": {
+    "speaker": "UI",
+    "text": "A slender, tubular flower."
+  },
+  "SOZAI_SNAKESKIN_ItemName": {
+    "speaker": "UI",
+    "text": "Snakeskin"
+  },
+  "SOZAI_SNAKESKIN_ItemExp": {
+    "speaker": "UI",
+    "text": "Leather made from the tanned skin of a serpent."
+  },
+  "SOZAI_FEATHER_ItemName": {
+    "speaker": "UI",
+    "text": "Feather"
+  },
+  "SOZAI_FEATHER_ItemExp": {
+    "speaker": "UI",
+    "text": "A beautiful feather."
+  },
+  "SOZAI_ALURA_ItemName": {
+    "speaker": "UI",
+    "text": "Alula"
+  },
+  "SOZAI_ALURA_ItemExp": {
+    "speaker": "UI",
+    "text": "The stiff feathers of a wing."
+  },
+  "SOZAI_SCREAM_ROOT_ItemName": {
+    "speaker": "UI",
+    "text": "Screamroot"
+  },
+  "SOZAI_SCREAM_ROOT_ItemExp": {
+    "speaker": "UI",
+    "text": "The root of a screaming plant."
+  },
+  "SOZAI_DEMON_BLOOD_ItemName": {
+    "speaker": "UI",
+    "text": "Demon Blood"
+  },
+  "SOZAI_DEMON_BLOOD_ItemExp": {
+    "speaker": "UI",
+    "text": "Blood from the body of a demon."
+  },
+  "SOZAI_ORB_ItemName": {
+    "speaker": "UI",
+    "text": "Jewel"
+  },
+  "SOZAI_ORB_ItemExp": {
+    "speaker": "UI",
+    "text": "A gem thought to ward off misfortune."
+  },
+  "SOZAI_SQUID_FIN_ItemName": {
+    "speaker": "UI",
+    "text": "Squid Fin"
+  },
+  "SOZAI_SQUID_FIN_ItemExp": {
+    "speaker": "UI",
+    "text": "A triangular fin."
+  },
+  "SOZAI_DRAGON_SCALE_ItemName": {
+    "speaker": "UI",
+    "text": "Dragon Scale"
+  },
+  "SOZAI_DRAGON_SCALE_ItemExp": {
+    "speaker": "UI",
+    "text": "A dragon's scale."
+  },
+  "SOZAI_001_ItemName": {
+    "speaker": "UI",
+    "text": "Pollen"
+  },
+  "SOZAI_001_ItemExp": {
+    "speaker": "UI",
+    "text": "A powdery substance emitted by flowers."
+  },
+  "SOZAI_002_ItemName": {
+    "speaker": "UI",
+    "text": "Lela's Pollen"
+  },
+  "SOZAI_002_ItemExp": {
+    "speaker": "UI",
+    "text": "A powdery substance emitted by Lela's flower."
+  },
+  "SOZAI_003_ItemName": {
+    "speaker": "UI",
+    "text": "Chup's Pollen"
+  },
+  "SOZAI_003_ItemExp": {
+    "speaker": "UI",
+    "text": "A powdery substance emitted by Chup's flower."
+  },
+  "SOZAI_004_ItemName": {
+    "speaker": "UI",
+    "text": "Nana's Pollen"
+  },
+  "SOZAI_004_ItemExp": {
+    "speaker": "UI",
+    "text": "A powdery substance emitted by Nana's flower."
+  },
+  "SOZAI_005_ItemName": {
+    "speaker": "UI",
+    "text": "Mother's Pollen"
+  },
+  "SOZAI_005_ItemExp": {
+    "speaker": "UI",
+    "text": "A powdery substance emitted by a mother's flower."
+  }
+}

@@ -1,0 +1,1890 @@
+{
+  "Btl_E_M0000_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rockeater"
+  },
+  "Btl_E_M0001_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Mad Phage"
+  },
+  "Btl_E_M0002_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Forest Hermit"
+  },
+  "Btl_E_M0003_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Lightning Glutton"
+  },
+  "Btl_E_M0010_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Werewolf"
+  },
+  "Btl_E_M0011_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Hati"
+  },
+  "Btl_E_M0012_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Skoll"
+  },
+  "Btl_E_M0020_A_EnemyName": {
+    "speaker": "UI",
+    "text": "War Hog"
+  },
+  "Btl_E_M0021_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Boar Infantry"
+  },
+  "Btl_E_M0022_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Porcine Charger"
+  },
+  "Btl_E_M0100_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sephira"
+  },
+  "Btl_E_M0101_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Ishtar"
+  },
+  "Btl_E_M0102_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Valkyrie"
+  },
+  "Btl_E_M0110_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Earth Dragon"
+  },
+  "Btl_E_M0111_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Red Dragon"
+  },
+  "Btl_E_M0112_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Blue Dragon"
+  },
+  "Btl_E_M0113_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Dark Forest"
+  },
+  "Btl_E_M0114_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Gold Dragon"
+  },
+  "Btl_E_M0120_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Puca"
+  },
+  "Btl_E_M0121_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rascal"
+  },
+  "Btl_E_M0123_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Prankster"
+  },
+  "Btl_E_M0210_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Jumbo Moch"
+  },
+  "Btl_E_M0211_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Young Moch"
+  },
+  "Btl_E_M0212_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Elder Moch"
+  },
+  "Btl_E_M0220_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sunflower"
+  },
+  "Btl_E_M0221_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Amaranth"
+  },
+  "Btl_E_M0222_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Asphodelus"
+  },
+  "Btl_E_M0230_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Alraune"
+  },
+  "Btl_E_M0231_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Galgenmannlein"
+  },
+  "Btl_E_M0232_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Passionroot"
+  },
+  "Btl_E_M0300_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Viper"
+  },
+  "Btl_E_M0301_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Basilisk"
+  },
+  "Btl_E_M0302_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rattler"
+  },
+  "Btl_E_M0310_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Barghest"
+  },
+  "Btl_E_M0311_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Padfoot"
+  },
+  "Btl_E_M0312_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Failinis"
+  },
+  "Btl_E_M0320_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Lizard Fortress"
+  },
+  "Btl_E_M0321_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Lizard Tyrant"
+  },
+  "Btl_E_M0400_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rana Warrior"
+  },
+  "Btl_E_M0401_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rana Combatant"
+  },
+  "Btl_E_M0402_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Red Rana"
+  },
+  "Btl_E_M0403_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Yedoma"
+  },
+  "Btl_E_M0404_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rana Conjurer"
+  },
+  "Btl_E_M0420_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Blue Drake"
+  },
+  "Btl_E_M0421_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Petros Drake"
+  },
+  "Btl_E_M0422_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Kelpie"
+  },
+  "Btl_E_M0500_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Golden Baum"
+  },
+  "Btl_E_M0501_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Gelatinous Matter"
+  },
+  "Btl_E_M0510_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Psychic Ogre"
+  },
+  "Btl_E_M0511_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Disintegrator"
+  },
+  "Btl_E_M0512_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Toxin Master"
+  },
+  "Btl_E_M0700_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rumblebug"
+  },
+  "Btl_E_M0701_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Grass Masher"
+  },
+  "Btl_E_M0702_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Wild Ebony"
+  },
+  "Btl_E_M0703_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Beast Eater"
+  },
+  "Btl_E_M0720_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Lesser Ant"
+  },
+  "Btl_E_M0721_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Greater Ant"
+  },
+  "Btl_E_M0800_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Vulture"
+  },
+  "Btl_E_M0801_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Songbird"
+  },
+  "Btl_E_M0802_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Skydiver"
+  },
+  "Btl_E_M0803_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Skytanker"
+  },
+  "Btl_E_M0810_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Maggot Ball"
+  },
+  "Btl_E_M0811_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Dwarf Star"
+  },
+  "Btl_E_M0812_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sundancer"
+  },
+  "Btl_E_M0820_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Decobat"
+  },
+  "Btl_E_M0821_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Ashbeak"
+  },
+  "Btl_E_M0822_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Melodic Bat"
+  },
+  "Btl_E_M0900_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Metal Elemental"
+  },
+  "Btl_E_M0900_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Faerie Stone"
+  },
+  "Btl_E_M0901_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Water Elemental"
+  },
+  "Btl_E_M0902_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Fire Elemental"
+  },
+  "Btl_E_M0903_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Nature Elemental"
+  },
+  "Btl_E_M0904_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Earth Elemental"
+  },
+  "Btl_E_M1010_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Lilith"
+  },
+  "Btl_E_M1011_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Succubus"
+  },
+  "Btl_E_M1012_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Harpyia"
+  },
+  "Btl_E_M1020_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Skeleton"
+  },
+  "Btl_E_M1021_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Skeleton Dancer"
+  },
+  "Btl_E_M1022_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Vanitas"
+  },
+  "Btl_E_M1500_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Stone"
+  },
+  "Btl_E_M1500_V01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Ore"
+  },
+  "Btl_E_M1500_V01_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Ore"
+  },
+  "Btl_E_M1500_V01_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Ore"
+  },
+  "Btl_E_M1510_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Wooden Box"
+  },
+  "Btl_E_M1520_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Container"
+  },
+  "Btl_E_C01_TUTORIAL_MONSTER_EnemyName": {
+    "speaker": "UI",
+    "text": "Wandering Moch"
+  },
+  "Btl_E_BOSS_ELEMENT_MOKU_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Lesser Wood Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_MOKU_N_EnemyName": {
+    "speaker": "UI",
+    "text": "Wood Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_MOKU_H_EnemyName": {
+    "speaker": "UI",
+    "text": "Greater Wood Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_MOKU_EnemyName": {
+    "speaker": "UI",
+    "text": "Divine Wood Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_KA_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Lesser Fire Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_KA_N_EnemyName": {
+    "speaker": "UI",
+    "text": "Fire Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_KA_H_EnemyName": {
+    "speaker": "UI",
+    "text": "Greater Fire Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_KA_EnemyName": {
+    "speaker": "UI",
+    "text": "Divine Fire Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_DO_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Lesser Earth Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_DO_N_EnemyName": {
+    "speaker": "UI",
+    "text": "Earth Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_DO_H_EnemyName": {
+    "speaker": "UI",
+    "text": "Greater Earth Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_DO_EnemyName": {
+    "speaker": "UI",
+    "text": "Divine Earth Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_KIN_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Lesser Metal Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_KIN_N_EnemyName": {
+    "speaker": "UI",
+    "text": "Metal Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_KIN_H_EnemyName": {
+    "speaker": "UI",
+    "text": "Greater Metal Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_KIN_EnemyName": {
+    "speaker": "UI",
+    "text": "Divine Metal Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_SUI_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Lesser Water Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_SUI_N_EnemyName": {
+    "speaker": "UI",
+    "text": "Water Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_SUI_H_EnemyName": {
+    "speaker": "UI",
+    "text": "Greater Water Spirit"
+  },
+  "Btl_E_BOSS_ELEMENT_SUI_EnemyName": {
+    "speaker": "UI",
+    "text": "Divine Water Spirit"
+  },
+  "Btl_E_W12_M0120_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Buffoon"
+  },
+  "Btl_E_W15_M0002_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Rockeater"
+  },
+  "Btl_E_W15_M0011_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Wolf"
+  },
+  "Btl_E_W15_M0021_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Boa"
+  },
+  "Btl_E_W15_M0221_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Flower"
+  },
+  "Btl_E_W15_M0303_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Viper"
+  },
+  "Btl_E_W15_M0421_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Drake"
+  },
+  "Btl_E_W15_M0811_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Ball"
+  },
+  "Btl_E_W15_M0720_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Ant"
+  },
+  "Btl_E_W15_M1020_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Skeleton"
+  },
+  "Btl_E_W15_EVAR_ALESSAAGHOST_02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Moch"
+  },
+  "Btl_E_W15_EVAR_ALESSAAGHOST_03_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Whale"
+  },
+  "Btl_E_W18_M0312_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Barghest"
+  },
+  "Btl_E_W18_M0403_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Extraterrestrial Rana"
+  },
+  "Btl_E_W18_M0511_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Researcher"
+  },
+  "Btl_E_W18_M0231_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Screamer"
+  },
+  "Btl_E_W18_M0721_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Ant"
+  },
+  "Btl_E_W18_M0302_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Slug"
+  },
+  "Btl_E_W18_M0010_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Wolf"
+  },
+  "Btl_E_W18_M0420_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Drake"
+  },
+  "Btl_E_W18_M0900_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Elemental"
+  },
+  "Btl_E_W18_M9011_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Guard"
+  },
+  "Btl_E_W18_M9021_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Insector"
+  },
+  "Btl_E_W18_M9031_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Drone"
+  },
+  "Btl_E_W18_M9041_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Tank"
+  },
+  "Btl_E_W18_BOSS_PRESIDENTMECHA_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Space Jaeger"
+  },
+  "Btl_E_W18_BOSS_PRESIDENTMON_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Cosmic Devil"
+  },
+  "Btl_E_M0403_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Rana Conjurer"
+  },
+  "Btl_E_M0410_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Kraken"
+  },
+  "Btl_E_M0411_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Verdigris"
+  },
+  "Btl_E_M0412_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Scowl Squid"
+  },
+  "Btl_E_M0413_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Gargantua"
+  },
+  "Btl_E_M0520_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Haniwa"
+  },
+  "Btl_E_M0522_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Hani Stone"
+  },
+  "Btl_E_M0710_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Atlach-Nacha"
+  },
+  "Btl_E_M0711_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sanguine Arachnida"
+  },
+  "Btl_E_M0712_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord Arachnida"
+  },
+  "Btl_E_M0722_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Kaiser Ant"
+  },
+  "Btl_E_M1000_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Greater Devil"
+  },
+  "Btl_E_M1001_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Ifrit"
+  },
+  "Btl_E_M1002_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Calcabrina"
+  },
+  "Btl_E_M1003_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Malacoda"
+  },
+  "Btl_E_M2000_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Kaffaljidhma"
+  },
+  "Btl_E_M2001_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Mira"
+  },
+  "Btl_E_M2002_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Menkar"
+  },
+  "Btl_E_M2003_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Cetus"
+  },
+  "Btl_E_M2004_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Diphda"
+  },
+  "Btl_E_M2100_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Boreas"
+  },
+  "Btl_E_M2101_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Notus"
+  },
+  "Btl_E_M2102_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Eurus"
+  },
+  "Btl_E_M2103_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Zephyrus"
+  },
+  "Btl_E_M2200_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Vair"
+  },
+  "Btl_E_M2201_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Vairy"
+  },
+  "Btl_E_M2202_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Effarouche"
+  },
+  "Btl_E_M2203_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Orgules"
+  },
+  "Btl_E_M2204_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Gyronny"
+  },
+  "Btl_E_M2300_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of Iwanaga-hime"
+  },
+  "Btl_E_M2300_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of Konohanasakuya"
+  },
+  "Btl_E_M2301_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of Kagutsuchi"
+  },
+  "Btl_E_M2301_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of Ame-no-Uzume"
+  },
+  "Btl_E_M2302_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of Susanoo"
+  },
+  "Btl_E_M2302_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of Yamata no Orochi"
+  },
+  "Btl_E_M2303_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of the Lion Spirit"
+  },
+  "Btl_E_M2303_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of the Butterfly Spirit"
+  },
+  "Btl_E_M2304_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of Benkei"
+  },
+  "Btl_E_M2304_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Specter of Ushiwakamaru"
+  },
+  "Btl_E_M9011_A_EnemyName": {
+    "speaker": "UI",
+    "text": "War Pod"
+  },
+  "Btl_E_M9011_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Assassin Pod"
+  },
+  "Btl_E_M9011_V01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Blockard"
+  },
+  "Btl_E_M9011_V02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Drunkard"
+  },
+  "Btl_E_M9021_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Blue Shanks"
+  },
+  "Btl_E_M9021_V01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rose Shanks"
+  },
+  "Btl_E_M9021_V02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Kleeblatt"
+  },
+  "Btl_E_M9021_V02_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Jammer Shanks"
+  },
+  "Btl_E_M9031_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Scamper"
+  },
+  "Btl_E_M9031_V01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sleeper Mech"
+  },
+  "Btl_E_M9031_V01_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Support Mover"
+  },
+  "Btl_E_M9031_V02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Air Bomber"
+  },
+  "Btl_E_M9031_V02_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Pouting Mech"
+  },
+  "Btl_E_M9041_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Battle Tank"
+  },
+  "Btl_E_M9041_V01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Gunpanzer"
+  },
+  "Btl_E_M9041_V02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Boondock"
+  },
+  "Btl_E_M9041_V02_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Heavy Tank"
+  },
+  "Btl_E_W01_AMYA_KUGUTU_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Boh"
+  },
+  "Btl_E_W02_BLACKSWAN_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Grey Staff"
+  },
+  "Btl_E_W02_SQUIREASSASIN_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Red Thane"
+  },
+  "Btl_E_W02_SALAMANDER_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Salamander"
+  },
+  "Btl_E_W02_BOSS_GREY_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Grey Witch"
+  },
+  "Btl_E_W03_INITIAL_WELL_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Treasure-Obsessed Man"
+  },
+  "Btl_E_W03_INITIAL_WELL_00_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Bloodthirsty Woman"
+  },
+  "Btl_E_W03_GLUTTONYBOSS_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Gluttony"
+  },
+  "Btl_E_W03_GLUTTONYBOSS_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Gluttony"
+  },
+  "Btl_E_W03_GLUTTONYBOSS_10_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Gluttony"
+  },
+  "Btl_E_W03_LUSTBOSS_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Lust"
+  },
+  "Btl_E_W03_LUSTBOSS_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Lust"
+  },
+  "Btl_E_W03_LUSTBOSS_10_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Lust"
+  },
+  "Btl_E_W03_LUSTGUARD_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Servant of Lust"
+  },
+  "Btl_E_W03_SLOTHBOSS_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Sloth"
+  },
+  "Btl_E_W03_SLOTHBOSS_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Sloth"
+  },
+  "Btl_E_W03_SLOTHBOSS_10_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Sloth"
+  },
+  "Btl_E_W03_SLOTHGUARD_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Servant of Sloth"
+  },
+  "Btl_E_W03_SLOTHGUARD_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sorcerer of Sloth"
+  },
+  "Btl_E_W03_RAGEBOSS_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Wrath"
+  },
+  "Btl_E_W03_RAGEBOSS_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Wrath"
+  },
+  "Btl_E_W03_RAGEBOSS_02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Wrath"
+  },
+  "Btl_E_W03_RAGEBOSS_03_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Wrath"
+  },
+  "Btl_E_W03_RAGEBOSS_10_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Wrath"
+  },
+  "Btl_E_W03_BOSS_DOLORES_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Dolores"
+  },
+  "Btl_E_W03_BOSS_SIUGNAS_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Dismal King"
+  },
+  "Btl_E_W04_PEDRO_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Pedro"
+  },
+  "Btl_E_W04_PEDRO_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Pedro"
+  },
+  "Btl_E_W04_AZURE_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Azure"
+  },
+  "Btl_E_W04_AZURE_00_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Guardian's Soul"
+  },
+  "Btl_E_W04_BOSS_AZURE_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Azure"
+  },
+  "Btl_E_W04_BOSS_AZURE_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Azure"
+  },
+  "Btl_E_W04_BOSS_BALTASAR_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Baltasar"
+  },
+  "Btl_E_W04_BOSS_BALTASAR_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Baltasar"
+  },
+  "Btl_E_W04_BOSS_BALTASAR_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Baltasar"
+  },
+  "Btl_E_W04_BOSS_BALTASAR_D_EnemyName": {
+    "speaker": "UI",
+    "text": "Baltasar"
+  },
+  "Btl_E_W04_BOSS_BALTASAR_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Baltasar"
+  },
+  "Btl_E_W04_SIGULD_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sigurd"
+  },
+  "Btl_E_W04_BOSS_SIGULD_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sigurd"
+  },
+  "Btl_E_W04_BOSS_SIGULD_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Sigurd"
+  },
+  "Btl_E_W04_BOSS_SIGULD_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Sigurd"
+  },
+  "Btl_E_W04_PIRATEGERD_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Gerd"
+  },
+  "Btl_E_W04_PIRATEJORGEN_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Jorgen"
+  },
+  "Btl_E_W04_PIRATELEIF_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Leif"
+  },
+  "Btl_E_W04_PIRATEDAN_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Dan"
+  },
+  "Btl_E_W04_PIRATEVIVI_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Vivi"
+  },
+  "Btl_E_W04_PIRATEVIVI_10_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Vivi"
+  },
+  "Btl_E_W04_MASTER_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Mr. S"
+  },
+  "Btl_E_W04_SEAGOD_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Deus Maris"
+  },
+  "Btl_E_W04_LIBERATOR_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Emancipator"
+  },
+  "Btl_E_W04_WRLD_INITIAL_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Pirate"
+  },
+  "Btl_E_W04_WRLD_INITIAL_00_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Pirate"
+  },
+  "Btl_E_W06_SAFED_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Safed"
+  },
+  "Btl_E_W06_VALKOINEN_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Valkoinen"
+  },
+  "Btl_E_W06_CANCER_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Canker"
+  },
+  "Btl_E_W06_CANCER_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Canker"
+  },
+  "Btl_E_W10_TSUCHINOKO_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Tsuchinoko"
+  },
+  "Btl_E_W10_MONOFFID_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Monophid"
+  },
+  "Btl_E_W10_SAMPLE56_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Relic Specimen 56"
+  },
+  "Btl_E_W10_SAMPLE98_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Relic Specimen 98"
+  },
+  "Btl_E_W10_SAMPLE507_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Relic Specimen 507"
+  },
+  "Btl_E_W10_SHISHIOH_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Beast King"
+  },
+  "Btl_E_W10_SHISHIOH_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Beast King"
+  },
+  "Btl_E_W10_SHISHIOH_02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Beast King"
+  },
+  "Btl_E_W10_NENKIN_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Myxomycete"
+  },
+  "Btl_E_W10_NENKIN_00_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Starving Myxomycete"
+  },
+  "Btl_E_W10_NENKIN_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Myxomycete"
+  },
+  "Btl_E_W10_NENKIN_01_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Starving Myxomycete"
+  },
+  "Btl_E_W10_MUTANT303_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Mutant #303"
+  },
+  "Btl_E_W11_M0302_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Karimpa"
+  },
+  "Btl_E_W11_M0402_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Terke-Ipe"
+  },
+  "Btl_E_W11_M0412_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Epetpetke"
+  },
+  "Btl_E_W11_M0420_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Umma"
+  },
+  "Btl_E_W11_M0700_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Wenhuraha"
+  },
+  "Btl_E_W11_M0711_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Ipetam"
+  },
+  "Btl_E_W12_BOOK_KEEPER_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Guardian of the Tome"
+  },
+  "Btl_E_W12_LEMPERORS_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_LEMPERORS_00_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_LEMPERORD_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_LEMPERORD_00_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_LEMPERORD_00_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_LEMPERORD_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_LEMPEROR_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_LEMPEROR_00_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_LEMPEROR_00_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_LEMPEROR_00_D_EnemyName": {
+    "speaker": "UI",
+    "text": "Final Emperor"
+  },
+  "Btl_E_W12_BOSS_GOD_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Iron Maiden"
+  },
+  "Btl_E_W13_BOSS_FERRY_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Titanic"
+  },
+  "Btl_E_W13_BOSS_WARSHIP_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Vanguard"
+  },
+  "Btl_E_W13_BOSS_AIRSHIP_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Hindenburg"
+  },
+  "Btl_E_W13_BOSS_DIVING_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Nautilus"
+  },
+  "Btl_E_W13_M0003_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Eater"
+  },
+  "Btl_E_W13_M0232_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Plant"
+  },
+  "Btl_E_W13_M0300_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Snake"
+  },
+  "Btl_E_W13_M0312_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Barghest"
+  },
+  "Btl_E_W13_M0401_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Frog"
+  },
+  "Btl_E_W13_M0422_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Horse"
+  },
+  "Btl_E_W13_M0500_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Slime"
+  },
+  "Btl_E_W13_M0520_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Desert Haniwa"
+  },
+  "Btl_E_W13_M0702_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Bug"
+  },
+  "Btl_E_W13_M0801_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Vulture"
+  },
+  "Btl_E_W13_M0810_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Noggin"
+  },
+  "Btl_E_W13_M0822_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Bat"
+  },
+  "Btl_E_W13_M1003_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sand Demon"
+  },
+  "Btl_E_M0401_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Megawhale Servant"
+  },
+  "Btl_E_M0900_L_EnemyName": {
+    "speaker": "UI",
+    "text": "Channeler of Metal"
+  },
+  "Btl_E_M0900_R_EnemyName": {
+    "speaker": "UI",
+    "text": "Immortal Metal Stone"
+  },
+  "Btl_E_M0900_KOUCHU_EnemyName": {
+    "speaker": "UI",
+    "text": "Undying Beetle"
+  },
+  "Btl_E_M0901_L_EnemyName": {
+    "speaker": "UI",
+    "text": "Water Channeler"
+  },
+  "Btl_E_M0901_R_EnemyName": {
+    "speaker": "UI",
+    "text": "Immortal Water Stone"
+  },
+  "Btl_E_M0901_RINCHU_EnemyName": {
+    "speaker": "UI",
+    "text": "Undying Aphrodita"
+  },
+  "Btl_E_M0902_L_EnemyName": {
+    "speaker": "UI",
+    "text": "Fire Channeler"
+  },
+  "Btl_E_M0902_R_EnemyName": {
+    "speaker": "UI",
+    "text": "Immortal Fire Stone"
+  },
+  "Btl_E_M0902_KEMUSHI_EnemyName": {
+    "speaker": "UI",
+    "text": "Undying Caterpillar"
+  },
+  "Btl_E_M0903_L_EnemyName": {
+    "speaker": "UI",
+    "text": "Wood Channeler"
+  },
+  "Btl_E_M0903_R_EnemyName": {
+    "speaker": "UI",
+    "text": "Immortal Wood Stone"
+  },
+  "Btl_E_M0903_HAMUSHI_EnemyName": {
+    "speaker": "UI",
+    "text": "Undying Louse"
+  },
+  "Btl_E_M0904_L_EnemyName": {
+    "speaker": "UI",
+    "text": "Earth Channeler"
+  },
+  "Btl_E_M0904_R_EnemyName": {
+    "speaker": "UI",
+    "text": "Immortal Earth Spirit"
+  },
+  "Btl_E_M1500_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Sturdy Ore"
+  },
+  "Btl_E_M1520_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Sturdy Container"
+  },
+  "Btl_E_C01_BOSS_TENKAI_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Man of the Heavens"
+  },
+  "Btl_E_C01_BOSS_TENKAI_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Man of the Heavens"
+  },
+  "Btl_E_C01_BOSS_TENKAI_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Man of the Heavens"
+  },
+  "Btl_E_C01_BOSS_TENKAI_D_EnemyName": {
+    "speaker": "UI",
+    "text": "Man of the Heavens"
+  },
+  "Btl_E_C01_BOSS_TENKAI_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Constantine"
+  },
+  "Btl_E_SUM_LBOSS_M070X_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Revolving Insect"
+  },
+  "Btl_E_W01_AMYA_INITIAL_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Man of the Heavens"
+  },
+  "Btl_E_W01_AMYA_MYSTERY_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Seahorse"
+  },
+  "Btl_E_W01_GHOSTTOWN_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Torrent"
+  },
+  "Btl_E_W01_KOMAINU_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Komainu"
+  },
+  "Btl_E_W01_YAMAGUMO_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Mountain Spider"
+  },
+  "Btl_E_W01_LAKE_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Giant Rana"
+  },
+  "Btl_E_W01_MIDO_GOKAKUDO_10_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Huanglong"
+  },
+  "Btl_E_W01_BOSS_KORYU_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Huanglong"
+  },
+  "Btl_E_W01_BOSS_KORYU_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Huanglong"
+  },
+  "Btl_E_W01_SANGENIN_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Man of the Heavens"
+  },
+  "Btl_E_W01_SEQUOIA_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Man of the Heavens"
+  },
+  "Btl_E_W01_SEQUOIA_10_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Spendy McBigbucks"
+  },
+  "Btl_E_W02_BOSS_GREY_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Grey Witch"
+  },
+  "Btl_E_W02_BOSS_GREY_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Grey Witch"
+  },
+  "Btl_E_W02_BOSS_GREY_D_EnemyName": {
+    "speaker": "UI",
+    "text": "Grey Witch"
+  },
+  "Btl_E_W02_BOSS_MACHA_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Macha"
+  },
+  "Btl_E_W02_BOSS_MACHA_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Macha"
+  },
+  "Btl_E_W02_CELESTIAL_WING_GUARDIAN_EnemyName": {
+    "speaker": "UI",
+    "text": "Witch's Guardian"
+  },
+  "Btl_E_W02_CRYSTAL_MONSTER_EnemyName": {
+    "speaker": "UI",
+    "text": "Crystal Fiend"
+  },
+  "Btl_E_W03_HUNTER_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Hunter"
+  },
+  "Btl_E_W03_HUNTER_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Hunter"
+  },
+  "Btl_E_W03_HUNTER_02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Hunter"
+  },
+  "Btl_E_W03_RAGEBOSS_10_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Wrath"
+  },
+  "Btl_E_W03_RAGEBOSS_10_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Warden of Wrath"
+  },
+  "Btl_E_W03_BOSS_KING_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Dismal King"
+  },
+  "Btl_E_W03_BOSS_TENKAI_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Man of the Heavens"
+  },
+  "Btl_E_W04_BATTLESHIP_CAPTAIN_EnemyName": {
+    "speaker": "UI",
+    "text": "Captain"
+  },
+  "Btl_E_W06_EVILCELL_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Malignancy"
+  },
+  "Btl_E_W06_EVILCELL_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Extreme Malignancy"
+  },
+  "Btl_E_W06_PARASITE_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Parasite"
+  },
+  "Btl_E_W06_SUPERPARASITE_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Extreme Parasite"
+  },
+  "Btl_E_W06_SUPERPARASITE_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Extreme Parasite"
+  },
+  "Btl_E_W07_EVAR_MISSION232_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Violet Beast"
+  },
+  "Btl_E_W07_EVAR_MISSION401_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Red Giant"
+  },
+  "Btl_E_W07_EVAR_MISSION142_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Nahoj of the Gale"
+  },
+  "Btl_E_W08_M0722_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Naml"
+  },
+  "Btl_E_W08_M0403_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Dufda"
+  },
+  "Btl_E_W08_HOLEHUMAN_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Bashar"
+  },
+  "Btl_E_W08_FOSSIL_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Yang Guardian"
+  },
+  "Btl_E_W08_FOSSIL_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Yin Guardian"
+  },
+  "Btl_E_W08_SOILMASTER_M0220_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_E_W08_SOILMASTER_M0220_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_E_W08_SOILMASTER_M0220_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_E_W08_SOILMASTER_M9051_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_E_W08_SOILMASTER_M9051_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_E_W08_SOILMASTER_M9051_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_E_W08_SOILMASTER_M2004_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_E_W08_SOILMASTER_M2004_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_E_W08_SOILMASTER_M2004_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_E_W09_PICK_POCKET_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sylvester"
+  },
+  "Btl_E_W09_SQUARE02_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Silver"
+  },
+  "Btl_E_W09_SQUARE02_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Boudica"
+  },
+  "Btl_E_W09_SQUARE02_02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Market Man"
+  },
+  "Btl_E_W09_SQUARE02_03_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Yob"
+  },
+  "Btl_E_W09_SQUARE02_03_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Stooge"
+  },
+  "Btl_E_W09_SQUARE02_04_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rodrigo"
+  },
+  "Btl_E_W09_SQUARE02_WARRIOR_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Hero"
+  },
+  "Btl_E_W10_MANUSCRIPT_MONSTER_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Archive Fiend"
+  },
+  "Btl_E_W10_CURSE_KING_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Cursed Monarch"
+  },
+  "Btl_E_W10_DRIFTING_LIZARD_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Drifting Lizard"
+  },
+  "Btl_E_W10_QWEEN_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rogue Species 303: Green Queen"
+  },
+  "Btl_E_W10_QWEEN_00_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Rogue Species 303: Yellow Queen"
+  },
+  "Btl_E_W10_QWEEN_00_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Rogue Species 303: Red Queen"
+  },
+  "Btl_E_W10_YEMECHA_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Dutiful Robot"
+  },
+  "Btl_E_W10_ORICHALCUM_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Orichalcum Skeletal Specimen"
+  },
+  "Btl_E_W10_ORICHALCUM_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Orichalcum Skeletal Specimen"
+  },
+  "Btl_E_W10_ORICHALCUM_02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Orichalcum Skeletal Specimen"
+  },
+  "Btl_E_BS_W11_EPUIKE_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Maiden Nana"
+  },
+  "Btl_E_BS_W11_EPUIKE_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Maiden Nana"
+  },
+  "Btl_E_BS_W11_EPUIKE_B2_EnemyName": {
+    "speaker": "UI",
+    "text": "Maiden Nana"
+  },
+  "Btl_E_W14_BOSS_WATCHER_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Observer"
+  },
+  "Btl_E_W14_BOSS_WATCHER_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Observer"
+  },
+  "Btl_E_W14_BLACKSMITH_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Swordsmith"
+  },
+  "Btl_E_W14_BLACKSMITH_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Swordsmith"
+  },
+  "Btl_E_W14_BLACKSMITH_02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Swordsmith"
+  },
+  "Btl_E_W14_ASSASSIN_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Assassin"
+  },
+  "Btl_E_W15_BOSS_ALESSA_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Alessa"
+  },
+  "Btl_E_W15_BOSS_FRED_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Anti-Fred"
+  },
+  "Btl_E_W15_BOSS_MECHAFRED_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Mecha Infatuated Fred"
+  },
+  "Btl_E_W15_BOSS_MECHAFRED_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Mecha Obsessed Fred"
+  },
+  "Btl_E_W15_BOSS_CEO_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Director"
+  },
+  "Btl_E_W15_BOSS_CEO_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Director"
+  },
+  "Btl_E_W15_BOSS_CEO_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Director"
+  },
+  "Btl_E_W17_BADGUY_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Hoodlum"
+  },
+  "Btl_E_W17_HENCHMAN_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Goon"
+  },
+  "Btl_E_W17_HENCHMAN_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Goon"
+  },
+  "Btl_E_W17_RABELLEADER_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rebel Gordo"
+  },
+  "Btl_E_W17_RABELARMY_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rebel Soldier"
+  },
+  "Btl_E_W17_RABELARMY_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Rebel Soldier"
+  },
+  "Btl_E_W17_LAKERABELER_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Rebel Shino"
+  },
+  "Btl_E_W17_LAKERABELER_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Rebel Pirate"
+  },
+  "Btl_E_W17_LAKERABELER_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Rebel Birdman"
+  },
+  "Btl_E_W18_BOSS_MYSTERY_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Quisstatium"
+  },
+  "Btl_E_W19_M1011_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Queen Bee"
+  },
+  "Btl_E_LASTBOSS_MIDO_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_MIDO_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_MIDO_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_MIDO_D_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_MIDO_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Diverse Heaven"
+  },
+  "Btl_E_LASTBOSS_MIDO_F_EnemyName": {
+    "speaker": "UI",
+    "text": "One World"
+  },
+  "Btl_E_LASTBOSS_AMYA_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_AMYA_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Diverse Heaven"
+  },
+  "Btl_E_LASTBOSS_AMYA_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_AMYA_D_EnemyName": {
+    "speaker": "UI",
+    "text": "One World"
+  },
+  "Btl_E_LASTBOSS_SIUG_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_SIUG_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Diverse Heaven"
+  },
+  "Btl_E_LASTBOSS_SIUG_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_SIUG_D_EnemyName": {
+    "speaker": "UI",
+    "text": "One World"
+  },
+  "Btl_E_LASTBOSS_DIVA_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_DIVA_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Diverse Heaven"
+  },
+  "Btl_E_LASTBOSS_DIVA_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_DIVA_D_EnemyName": {
+    "speaker": "UI",
+    "text": "One World"
+  },
+  "Btl_E_LASTBOSS_BAF_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_BAF_B_EnemyName": {
+    "speaker": "UI",
+    "text": "One World"
+  },
+  "Btl_E_LASTBOSS_BAF_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_BAF_D_EnemyName": {
+    "speaker": "UI",
+    "text": "One World"
+  },
+  "Btl_E_LASTBOSS_BAF_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Living Anguish"
+  },
+  "Btl_E_LASTBOSS_BAF_F_EnemyName": {
+    "speaker": "UI",
+    "text": "Diverse Heaven"
+  },
+  "Btl_E_M0001_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Land Hermit"
+  },
+  "Btl_E_M0115_A_EnemyName": {
+    "speaker": "UI",
+    "text": "White Dragon"
+  },
+  "Btl_E_M0322_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Carbonia"
+  },
+  "Btl_E_M0423_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Cockatrice"
+  },
+  "Btl_E_M0502_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Mycotic Predator"
+  },
+  "Btl_E_M0521_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Hill Haniwa"
+  },
+  "Btl_E_M0820_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Soaring Rat"
+  },
+  "Btl_E_M0904_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Float"
+  },
+  "Btl_E_M1500_V02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Knot Stone"
+  },
+  "Btl_E_M1500_V02_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Knot Stone"
+  },
+  "Btl_E_M1510_B_EnemyName": {
+    "speaker": "UI",
+    "text": "Sturdy Wooden Box"
+  },
+  "Btl_E_M1510_EMPTY_EnemyName": {
+    "speaker": "UI",
+    "text": "Wooden Box"
+  },
+  "Btl_E_M9051_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Paradox"
+  },
+  "Btl_E_M9051_V01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Antinomy"
+  },
+  "Btl_E_M9051_V02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Aporia"
+  },
+  "Btl_E_W00_SENSEI_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Mr. S"
+  },
+  "Btl_E_C01_DOOREVIL_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Malevolent Door Spirit"
+  },
+  "Btl_E_W01_MIDO_KEKKAI_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Malevolent Barrier Spirit"
+  },
+  "Btl_E_W01_MIDO_KEKKAI_01_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Malevolent Barrier Spirit"
+  },
+  "Btl_E_W01_MIDO_KEKKAI_02_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Malevolent Barrier Spirit"
+  },
+  "Btl_E_W01_MIDO_KEKKAI_03_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Malevolent Barrier Spirit"
+  },
+  "Btl_E_W02_WHITE_CALAMITY_EnemyName": {
+    "speaker": "UI",
+    "text": "White Calamity"
+  },
+  "Btl_E_W02_BLACK_CALAMITY_EnemyName": {
+    "speaker": "UI",
+    "text": "Black Calamity"
+  },
+  "Btl_E_W02_RED_CALAMITY_EnemyName": {
+    "speaker": "UI",
+    "text": "Red Calamity"
+  },
+  "Btl_E_W02_BLUE_CALAMITY_EnemyName": {
+    "speaker": "UI",
+    "text": "Blue Calamity"
+  },
+  "Btl_E_W02_YELLOW_CALAMITY_EnemyName": {
+    "speaker": "UI",
+    "text": "Yellow Calamity"
+  },
+  "Btl_E_W10_SPRIGGAN_00_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Spriggan"
+  },
+  "Btl_E_M1520_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Container"
+  },
+  "Btl_E_M3000_MKDGS_EnemyName": {
+    "speaker": "UI",
+    "text": "Beyond One World"
+  },
+  "Btl_E_M3000_V01_MKDGS_EnemyName": {
+    "speaker": "UI",
+    "text": "Beyond Diverse Heaven"
+  },
+  "Btl_E_M3000_V01_MKDGS_SGN_EnemyName": {
+    "speaker": "UI",
+    "text": "Beyond Diverse Heaven"
+  },
+  "Btl_E_C01_BOSS_TENKAI_F_EnemyName": {
+    "speaker": "UI",
+    "text": "Constantine"
+  },
+  "Btl_E_SUM_LBOSS_M0420_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Blue Drake Sorcerer"
+  },
+  "Btl_E_SUM_LBOSS_M0512_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Toxin Master Sorcerer"
+  },
+  "Btl_E_SUM_LBOSS_M0812_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Sundancer Sorcerer"
+  },
+  "Btl_E_SUM_LBOSS_M0521_A_EnemyName": {
+    "speaker": "UI",
+    "text": "Terracotta Warrior"
+  },
+  "Btl_E_M1500_C_EnemyName": {
+    "speaker": "UI",
+    "text": "Extremely Sturdy Ore"
+  },
+  "Btl_E_W02_BOSS_GREY_E_EnemyName": {
+    "speaker": "UI",
+    "text": "Grey Witch"
+  }
+}

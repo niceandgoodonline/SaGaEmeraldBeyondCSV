@@ -1,0 +1,2262 @@
+{
+  "SUB_W13_EVAR_MIDO_DIG_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh hey, we got something here.\nLet's dig it up."
+  },
+  "SUB_W13_EVAR_MIDO_DIG_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Leave it to me!"
+  },
+  "SUB_W13_EVAR_MIDO_DIG_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck is this?"
+  },
+  "SUB_W13_EVAR_MIDO_DIG_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You gotta be kidding me here...\nStill, I suppose it might come in handy."
+  },
+  "SUB_W13_EVAR_MIDO_DIG_000_CUT_010_040": {
+    "speaker": "Sarab",
+    "text": "19141914"
+  },
+  "SUB_W13_EVAR_MIDO_DIG_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "Except that it's broken."
+  },
+  "SUB_W13_EVAR_MIDO_DIG_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, cripes. That's a bummer."
+  },
+  "SUB_W13_EVAR_MIDO_DIG06_SUCCESS_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "10711071"
+  },
+  "SUB_W13_EVAR_MIDO_DIG06_SUCCESS_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "It's saying something or other\nabout the sand's energy."
+  },
+  "SUB_W13_EVAR_MIDO_DIG04_SUCCESS_WARSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "18631863"
+  },
+  "SUB_W13_EVAR_MIDO_DIG04_SUCCESS_WARSHIP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Apparently it'll keep the sand\nfrom falling apart?"
+  },
+  "SUB_W13_EVAR_MIDO_DIG00_SUCCESS_DIVING_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "16031603"
+  },
+  "SUB_W13_EVAR_MIDO_DIG00_SUCCESS_DIVING_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Sounds like it'll keep the sand\nfrom clumping together."
+  },
+  "SUB_W13_EVAR_MIDO_DIG02_SUCCESS_FERRY_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "12411241"
+  },
+  "SUB_W13_EVAR_MIDO_DIG02_SUCCESS_FERRY_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "It's talking about the sand's\nshifting ability."
+  },
+  "SUB_W13_EVAR_MIDO_DIG_MISS_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey now, this could come in handy."
+  },
+  "SUB_W13_EVAR_MIDO_DIG_MISS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I'm pretty handy too, you know!"
+  },
+  "SUB_W13_EVAR_MIDO_WORLDEXIT_000_CUT_000_000": {
+    "speaker": "カカシ",
+    "text": "Leave this world?"
+  },
+  "SUB_W13_EVAR_MIDO_WORLDEXIT_000_CUT_000_010": {
+    "speaker": "綱紀",
+    "text": "No."
+  },
+  "SUB_W13_EVAR_MIDO_WORLDEXIT_000_CUT_000_020": {
+    "speaker": "綱紀",
+    "text": "Yes."
+  },
+  "SUB_W13_WRLD_MIDO_INITIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's hard to believe anybody actually\nlives in a desert world like this.\nSeems like the Emerald Wave's the\nonly thing I can rely on, maybe?"
+  },
+  "SUB_W13_WRLD_MIDO_INITIAL_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Blech! Got sand in my mouth!\nDon't care much for that."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Hmm? Someone's coming."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now that is one humdinger of a battleship!\nFact it's just lying around means there must have\nbeen an ocean at some point—and probably\npeople and civilization and all that, too."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Geez, now we got a scarecrow—looks\nnew, too. I wonder who made it?\fAlso, what's a scarecrow even doing\nhere? It's not like I've seen any birds."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes almighty! Who said that!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "The scarecrow. The one right in front of you.\nI haven't seen a human out this way in days.\nWhere exactly did you come from, anyway?\nThe airship? The cruise ship? The submarine?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The scarecrow's talkin'! Sorry about that,\nguy—I didn't know you were a resident here.\fWell, I'm Tsunanori Mido, and I'm looking\nfor spirits. Don't happen to know where\nany might be, do you?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Oh, you know my name! How wonderful.\fSo yes, I'm Scarecrow. But as for <i>why</i> I'm a\nscarecrow, I have no earthly idea! Also, I don't\nknow any spirits. Humans might know something\nthough, so why not head over to the airship?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Airship? Heck, fella, I just got here.\nGot no idea where any airships are.\nYou mind taking me by there once?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_WARSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne airship, just as promised."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that's great, but these dunes are\nshiftin' with such force that I keep gettin'\npushed back. The heck am I supposed\nto do about that?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And where's that?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy, that's one humdinger of a robot!\nDoes it still work?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Spookcrow",
+    "text": "YO, SCARECROW! BEEN A HOT MINUTE, BUDDY!\nALSO, WHY ARE YOU WANDERING ALL OVER FROM\nHELL TO BREAKFAST WITH THIS HUMAN, HUH!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, so you can make the sand flow\nin a different direction?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "ME? NAH! I CAN'T DO SQUAT, BUDDY!\nBUT THE ROBOT CAN!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, sure. Sounds great.\nNow maybe ease up on all the yelling."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Spookcrow",
+    "text": "SORRY ABOUT THAT! THIS IS JUST THE NATURAL\nVOLUME FOR ME! NOW HANG ON AND I'LL GET\nTHAT SAND CHANGED FOR YOU, BUDDY!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_010_000": {
+    "speaker": "Spookcrow",
+    "text": "HOW'S THAT STRIKE YA, BUDDY!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TWOLEGS_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks a bunch, guy."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa, this airship's a wreck.\nYou sure people even live in here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of 'em!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got plenty of room to stretch out in here.\nAlso no sand, which is a nice bonus."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there. I'm Tsunanori Mido, and\nI came to this world lookin' for spirits.\nYou usually get a lot of folks from\nthe outside or something?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "We most certainly do not! Hmm... But since\nyou are clearly standing here now, it could\nmean the legend of Pandora is real!\fYou must tell me everything\nyou know about Pandora!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Mind calmin' down there, pal?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "That's right! Let's all take it easy."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "Shut up, strawman! ...AHEM! Yes, well,\nI suppose it's possible I got a smidge\nexcited there. Apologies."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Professor",
+    "text": "I'm the Professor, and I'm researching the history\nof the Crowrealm. Though a desert now, this land\nonce had something called an 'ocean,' and this\nvery airship once soared through the skies."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Professor",
+    "text": "Alas, now the world is nothing but sand,\nand the airships lie in pieces on the ground.\nAnd what is the cause of this misery, you ask?\nThe answer to that...is said to be Pandora!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh hey, I know that story: lady opened up\na box and dumped a buncha calamity all over.\nYou saying that's what happened here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_100": {
+    "speaker": "Professor",
+    "text": "Indeed, legend claims the one who opened the box\nwas a human from the outside—and it goes on to\nsay that the one to close the box will be <i>another</i>\nhuman from the outside."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_110": {
+    "speaker": "Professor",
+    "text": "Oh, how I hope the legend is a lie. If it's true,\nit means our world is held sway by the whims\nof outsiders! And in that case, what are the\nrest of us even worth?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Right? What's my worth?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, if I've got a role in this legend,\nI'd better go find this Pandora thingamajig\nand close 'er up. So where we headed?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_140": {
+    "speaker": "Professor",
+    "text": "...Seriously? It's just a legend. Nothing more.\nDo you truly plan to just blindly follow it?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_150": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I've spent my whole life doing whatever people\nask me to. It's just sorta the path I'm on.\nAlso, if I can find your Pandora whatsit,\nI bet anything it'll lead me to the spirits."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_160": {
+    "speaker": "Professor",
+    "text": "I don't know if I should call you an oddity\nor a nosy parker... Are <i>all</i> people from\nthe outside like you?\fEr, anyway. Be that all as it may,\nI sadly have no idea where Pandora is.\nYou'll just have to find it yourself."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_170": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, oooh! I know where it is!\nIt could be here. Or there.\nOr way out there someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_180": {
+    "speaker": "Professor",
+    "text": "Let me leave you with this warning:\nDo not make friends with the scarecrows.\nThey're all irresponsible oafs to the last,\njust like this straw-headed ninny here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_190": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, so you folks didn't make 'em?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_AIRSHIP_000_CUT_010_200": {
+    "speaker": "Professor",
+    "text": "Perish the thought! If I had to guess,\nI imagine they came from Pandora itself."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got another big ol' robot here.\nThink Pandora's in there, maybe?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure, maybe!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Never thought I'd be finding fiends in a\nworld with all this sand and machinery.\nThink those fellas popped outta Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, okay. And what about you scarecrow\nfellas? Are <i>you</i> older than Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I guess there's nothing for it\nbut to go inside and have us a peek."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, crud. Whole lot of nothin'."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothin' for days!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess we gotta look somewhere\nelse for Pandora, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hope you're up for the job when\nshifting sands cut us off again."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We'll be counting on you!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TANK_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, this here's clearly a war robot.\nWhat do you think? Could be Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TANK_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, fella. Any chance\nthis big tank thing is Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TANK_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hm? Wait, so...\nIt is? Or it isn't?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_TANK_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. Well, I think somebody would've realized\nthis was Pandora already if it was just lying\naround, so I'm guessing this isn't it."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This robot don't seem like it's Pandora,\nbut I bet it could change the sand's flow."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Still, how can this thing change the\nflow of sand it's so far away from?\fWasn't asking you in particular,\nby the way. No need to trouble yourself."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fair enough, guy. You at least know what \nthe robot was used for once upon a time?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, sure. Maybe you can just tell me\nwhy there's always some kinda scarecrow\nstanding next to these robots?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, for cripes' sake..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This robot don't seem like it's Pandora,\nbut I bet it could change the sand's flow."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hi, Sweetcrow! Nice to see you."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, now we're cookin'! Mind telling me\nwhere I can find some spirits, then?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Spirits live in the ♥s of all scarecrows...\nand you're totally welcome to take\nmy ♥ home, lover boy! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck yeah!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, no."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Sweetcrow!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_HUMANOID_000_CUT_000_100": {
+    "speaker": "Sweetcrow",
+    "text": "Aww, don't be shy! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "Don't think I know you, friend.\nAre you another junker?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nope! I'm Tsunanori Mido, and I'm out\nhere lookin' for the power of the spirits."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "He is."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Well now, that's some unusual treasure\nyou're out for. I mostly look for gears and\nengine parts and showerheads and... Well,\nyou know. Things people want."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_000_040": {
+    "speaker": "Junkman",
+    "text": "This place is a veritable mountain of treasure,\nbut because of that, I have a bunch of scoundrels\nin here bugging me. ...See?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "They've been fighting a war ever since\nPandora opened up—even though the\nworld's like it is and no one has any\nclue what the war is for anymore.\fHell, I don't even know if we're supposed\nto destroy this place or protect it."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "This is a submarine:\nprotector of the ocean."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, there isn't even an ocean left to\nprotect. If we don't put a stop to the war,\nthey'll just keep fighting forever."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "And why would <i>you</i> do that? I don't see\nwhat you're getting out of all this, friend."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The power of the spirits, probably."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "See, you get it! It's the not-knowing that\nmakes it a real treasure hunt; can't search\nfor something if you know it's guaranteed.\nAnyway, good luck to you, friend."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Hey, thanks!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pretty sure this is the only place\nwe haven't already looked at yet.\nThink Pandora could be here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_000_020": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there. I'm Tsunanori Mido,\nand me and my scarecrow pal here\nare looking for some spirit power.\n...Oh, and Pandora, I guess."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_000_040": {
+    "speaker": "Engineer",
+    "text": "Pandora, eh? Yes, I've heard the rumors:\nClose the box and poof! The war is over.\nHonestly, I have doubts that something\nso convenient actually exists."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_000_050": {
+    "speaker": "Engineer",
+    "text": "Still, war robots continue to be produced\nin this place, as you've no doubt seen.\nSo if Pandora is anywhere, it's likely here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I wonder if there's somebody in there...\nHeck, might even be the person who\nopened Pandora in the first place."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_000_070": {
+    "speaker": "Engineer",
+    "text": "Well, if they went in as a human and\nare still alive, no doubt they're some\nkind of monster in their own right."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Then let's go hunt a monster!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Lots of robot production lines here,\nbut most of 'em look flat busted.\nThink that was the last one, maybe?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "No, listen. <i>Something</i> is still\noperational around here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Hey, look! Monsters over that way."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy, just look at that puppy go!\nWhatcha think it's making there?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "Sand. It's making sand."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "You scarecrows are all the same:\nliars to the last."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well now, hang on there a second...\nThis thing <i>is</i> making sand—\nor at least some kinda real\nfine particulate.\fWait, hold on. You think that means it\nmade all the sand out in the desert?\nIs the sand actually a buncha little\ntiny robots all runnin' around!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "...Pretty sure it's just sand.\nBut even if it <i>was</i> robots,\nwhat good would that do us?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It might mean we can control it. I thought it was\nweird we could change how the sands shifted,\nbut it all makes sense now. There's some kinda\nsystem that relays orders to the sand.\fI bet you anything <i>that's</i>\nwhat Pandora is!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "Okay, let's say you're correct, and the robots\ncovered the world in sand to win the war.\nThe war is over now, but the sand remains.\nSo how are we supposed to remove it?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I don't know about all that,\nbut I'd probably start by closing\nPandora and stopping these fellas\nhere from making any more sand."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm starting to think this deal about a\nfella coming in from the outside to close\nup Pandora is just some old wives' tale.\fI mean, heck! These sand fiends just\nkeep coming, and there isn't a thing\nI can do about it."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_010": {
+    "speaker": "Engineer",
+    "text": "Well, we won't solve this problem with\ntired brains. How about I keep watch\nfor a bit while you rest?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_020": {
+    "speaker": "Junkman",
+    "text": "Ho, friend! Find any treasure?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_030": {
+    "speaker": "Scarecrow",
+    "text": "Nope!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_040": {
+    "speaker": "Junkman",
+    "text": "Well, everything good is buried beneath\nthe sand, so all you need to find it is\na little luck...and a secret weapon."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_050": {
+    "speaker": "Junkman",
+    "text": "My little friend here can find all sorts\nof things buried in the sand.\fPoor thing managed to survive the war,\nbut can't seem to put it behind him.\nHoping this little treasure hunt of yours\ncan help him move past it for good."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, if it'll help us find something\nto fight Pandora, I'm all for it.\nWhat's your name there, slugger?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_070": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good to meet you, Sarab. We're all\ncountin' on you to find something\nthat'll help us fight Pandora, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "We believe in you, Sarab!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_END_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Did you figure out a way\nto fight the sand yet?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_END_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's gonna depend on what Pandora does.\nRight now, we can't do much but throw\nourselves at it and hope for the best."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Yep!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_END_000_CUT_010_000": {
+    "speaker": "Engineer",
+    "text": "It stopped... You did it!\nYou closed Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_END_000_CUT_010_020": {
+    "speaker": "Junkman",
+    "text": "Hey, looks like you found some\ntreasure. Good for you."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_END_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Well done! Now it's our turn to show\nour worth: we're going to turn the\nCrowrealm into a world of sky and\nwater and green once more!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "So what's that mean for me?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_END_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Why not come with me, guy?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE0_FERRY_END_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You just keep doing you."
+  },
+  "SUB_W13_WRLD_MIDO_INITIAL_010_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't see how folks can live in a desert,\nbut I guess it takes all kinds. Better hit\nthe road and see if I can find 'em."
+  },
+  "SUB_W13_WRLD_MIDO_INITIAL_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Blech! Shoot! Got sand in my mouth!\nDon't care for that one bit, no sir."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, someone's coming!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Airship ruins! I bet these puppies used to\nfly around the sky like birds. But we got no\nbirds here now—not even crows.\fWhat even happened to this place?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't see why a fella'd put a perfectly good\nscarecrow out here when there aren't any crows.\nLooks a lot newer than the wreckage, too.\nWonder who stuck it here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Holy shoot!\nIt's a talkin' scarecrow!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'm a talker, all right!\nHaven't seen a human out this way\nin quite a few days, though.\fSo where'd you come from?\nCruise ship? Battleship? Submarine?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry about that, guy—didn't know you were a\nresident here. I'm Tsunanori Mido, and I'm\nlooking for spirits. Don't happen to know\nwhere I can find some, do ya?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Oooh! Okay, so my name is Scarecrow—\ner, not that you asked. But as for <i>why</i>\nI'm a scarecrow, I have no earthly idea.\fAlso, I don't know any spirits.\nHumans might know something though,\nso why not head over to the submarine?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Submarine? Heck, fella, I just got here.\nGot no idea where any submarines are.\nEr, don't suppose you'd mind taking me?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_AIRSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne submarine, just as promised."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that's great, but these dunes are\nshiftin' with such force that I keep gettin'\npushed back. The heck am I supposed\nto do about that?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And where is that, exactly?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_HUMANOID_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy, that's one humdinger of a robot!\nDoes it still work?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_HUMANOID_000_CUT_000_010": {
+    "speaker": "Sweetcrow",
+    "text": "Sure doesn't, sweet thing! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_HUMANOID_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_HUMANOID_000_CUT_000_030": {
+    "speaker": "Sweetcrow",
+    "text": "Scarecrow, baby! Good to see you! ♥\nAnd sure, that's an easy ask. ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_HUMANOID_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, so you can make the sand flow\nin a different direction?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_HUMANOID_000_CUT_000_050": {
+    "speaker": "Sweetcrow",
+    "text": "Not me, hot stuff. But the robot can! ♥\nGo on now, big guy! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_HUMANOID_000_CUT_010_000": {
+    "speaker": "Sweetcrow",
+    "text": "How's that, boo? ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_HUMANOID_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_HUMANOID_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks a bunch, Sweetcrow."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So this is a submarine, eh? Guess that means\nthere used to be an ocean here at some point.\nHow long ago was that, do ya think?\nAre there seriously still people here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of them."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nice and chilly in here—and no sand,\nneither. A fella could get used to this."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "Well, well! Not often we see outsiders\naround these parts. Who might you be?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tsunanori Mido. I've come by this\nhere world lookin' for spirits."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Oh, joy. Another weirdo. Well, as you can see,\nthe Crowrealm has been devastated by a war.\nIf there's something so nice as spirits here,\nI certainly don't know about it."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, fella, spirits are everywhere!\nI mean, you're alive, aren't ya?\nNothing can live without spirits,\nso that's proof they're around."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "Oh, a spirit worshipper. Joy and joy again.\nWell, whatever. Feel free to look around\nand see what you find; maybe you'll even\nget lucky and locate a wayward spirit."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Any idea where spirits might be?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_070": {
+    "speaker": "Junkman",
+    "text": "If you're asking me for a special place\nout here in the desert, there's only\none option: Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now wait just a second there, guy.\nIsn't Pandora that funny box crammed\nfull of bad stuff that some lady opened?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_090": {
+    "speaker": "Junkman",
+    "text": "And a scholar on top of everything.\nIf you know about Pandora, that means\nit's likely infected your world as well.\nNo wonder you're searching for spirits."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_100": {
+    "speaker": "Junkman",
+    "text": "Well, it can't be long now until this whole\nworld is devoured by Pandora, so I very\nmuch hope you're able to locate it."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So I take it you don't\nknow where it is, huh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, but <i>I</i> know where it is! It could be here.\nOr there. Or way out that way someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_DIVING_000_CUT_010_130": {
+    "speaker": "Junkman",
+    "text": "Wiser words were never spoken. Look,\njust have Scarecrow take you where\nyou want to go; that's his job."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TANK_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, this here's clearly a war robot.\nWhat do you think? Could be Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Maybe!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TANK_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, fella. Any chance\nthis big tank thing is Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TANK_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hm? Wait, so...\nIt is? Or it isn't?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TANK_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. Well, I think somebody would've realized\nthis was Pandora already if it was just lying\naround, so I'm guessing this isn't it."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got another big ol' robot here.\nThink Pandora's in there, maybe?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure, maybe!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Never thought I'd be finding fiends in a\nworld with all this sand and machinery.\nThink those fellas popped outta Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, okay. And what about you scarecrow\nfellas? Are <i>you</i> older than Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I guess there's nothing for it\nbut to go inside and have us a peek."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, crud. Whole lot of nothin'."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothin' for days!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess we gotta look somewhere\nelse for Pandora, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hope you're up for the job when\nshifting sands cut us off again."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We'll be counting on you!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This robot don't seem like it's Pandora,\nbut I bet it could change the sand's flow."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Still, how can this thing change the\nflow of sand it's so far away from?\fWasn't asking you in particular,\nby the way. No need to trouble yourself."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fair enough, guy. You at least know what \nthe robot was used for once upon a time?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, sure. Maybe you can just tell me\nwhy there's always some kinda scarecrow\nstanding next to these robots?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, for cripes' sake..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This robot don't seem like it's Pandora,\nbut I bet it could change the sand's flow."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, and then tell us where we could\nfind some spirits here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "THE SPIRITS ARE THE SCARECROWS!\n<i>I'M</i> THE SPIRIT, BUDDY!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks for the power, then!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Only joke here is your face, guy."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Spookcrow!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_TWOLEGS_000_CUT_000_090": {
+    "speaker": "Spookcrow",
+    "text": "I'M NOT JOKING, BUDDY!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there. I'm Tsunanori Mido,\nand me and my scarecrow pal here\nare looking for some spirit power.\n...Oh, and Pandora, I guess."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "What he said."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_000_030": {
+    "speaker": "Engineer",
+    "text": "Well, war robots continue to be produced\nin this place, so if Pandora is real,\nthis makes as much sense as anywhere."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_000_040": {
+    "speaker": "Scarecrow",
+    "text": "Speaking of which, we've got\na war robot incoming!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gonna be mighty disappointed if that\nwas Pandora, believe you me."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Yes, I suppose it was a little pathetic\nfor an immortal war machine. You'll likely\nhave to keep searching somewhere else."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "<i>So</i> pathetic."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, we'll poke around some more and\ncome back by if we don't find anything."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "We'll be back."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This old battleship here\nmight be the place."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Could be Pandora, yep!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "This <i>is</i> Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You knew about this place, guy?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, if you're so shootin' smart, you shoulda\nclosed up Pandora and ended this whole mess.\nOr at least got some help if you couldn't\npull it off all by yourself."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_000_060": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. Knowledge alone\nis satisfaction enough."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, bless your heart. Guess you won't\nmind if I take a peek inside, then?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "In we go."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This battleship looks flat busted.\nNo power or nothing."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Totally."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "And yet, I hear a sound."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You followed us, guy? Thought you were\nhappy just sitting around knowing stuff."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_040": {
+    "speaker": "Wiseman",
+    "text": "I do not know what lies inside.\nTherefore, I must learn."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, do you happen to know anything\nelse about Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "Pandora is sand. Pandora creates the sand.\nIt buries this world in mountains of sand,\ncausing it to suffocate."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess we need to stop the sand production\nline, then. Sounds easy, but I suppose\nsomebody woulda up and done it already\nif that was the case."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_080": {
+    "speaker": "Wiseman",
+    "text": "That I do not know."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Then I guess we better find out, eh?\nCome on, folks!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_010_100": {
+    "speaker": "Scarecrow",
+    "text": "Let's go!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "The sand is fiends.\nThe fiends are sand."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's something awful funny about\nthis sand. Maybe magic or something?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_020": {
+    "speaker": "Wiseman",
+    "text": "Pandora controls the sand. Every grain is\na perfect miniature recreation of Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So we can change the flow because\nit's sending orders to each grain?\fHeck, that's it! If we can just figure out\na way to muck up the works with that sand,\nwe can fight the fiends."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_040": {
+    "speaker": "Engineer",
+    "text": "Sounds like you found Pandora.\nSo what happens now?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That Pandora is really something;\nI got no idea how to fight it."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_060": {
+    "speaker": "Engineer",
+    "text": "Why not try this thing?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_070": {
+    "speaker": "Engineer",
+    "text": "I went ahead and fixed it up earlier.\nI think it's some kind of search mech?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know, I bet this thing was designed to\nhelp folks like us find ways to fight Pandora—\nso let's fire it up and see what it can do!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "And we're off."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_END_000_CUT_000_000": {
+    "speaker": "Wiseman",
+    "text": "The time to battle Pandora has come."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_END_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Shoot, guy, I see why folks call you\nthe Wiseman; that's exactly what\nwe're heading out to do here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Aaand we're off!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_END_000_CUT_010_000": {
+    "speaker": "Wiseman",
+    "text": "The sand has stopped.\nPandora has been sealed."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_END_000_CUT_010_020": {
+    "speaker": "Engineer",
+    "text": "Can't believe you managed to find Pandora\nand close it... Who <i>are</i> you, anyway?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_END_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Just some weirdo who worships the spirits—\nbut it takes all kinds to save the world.\nSpeaking of which, it's time for you to\nget back and save your <i>own</i> world, yes?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I want to save worlds too!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_END_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Then let's save them together, bud!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE1_WARSHIP_END_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You can save them from here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Oooh, someone's coming!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Submarine ruins, eh? Guess that means this\nplace was an ocean before it became a desert.\nSuppose that's what happens with the ol'\nclimate change or...whatever's going on."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This scarecrow seems to be keeping\nwatch over the submarine, maybe?\nEr, do they even get crows here?\fWell, either way, it probably means\nwe got folks living nearby."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Welcome!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good to meetcha, fella. I'm Tsunanori Mido,\nand I came to this world to find spirits.\nDon't suppose you know where they are?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Wonderful to meet you as well! I'm Scarecrow,\nand I've been standing here for three thousand\ndays waiting for someone like you to come by.\nOh, but this is a glorious moment!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, guy, your legs must be stiff as\ntwo-by-fours if ya been standin' out here\nthat long! Is it gonna put you out to\nstand and chat with me a little more?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Not at all! I'm a talker—I <i>love</i> talking.\nSo where are you from, Tsunanori Mido?\nThe airship? The battleship? The cruise ship?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Different world, actually—and believe you me,\nI don't know left from right or up from down.\nThink maybe you could show me around?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_DIVING_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne cruise ship, just as promised."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that's great, but these dunes are\nshiftin' with such force that I keep gettin'\npushed back. The heck am I supposed\nto do about that?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And where's that, exactly?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I may not be sharpest rake in the shed,\nbut that robot there is clearly made for\nfighting. You don't think it's the type to\ncome alive and attack us, do you?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Strangecrow! I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, so you can make the sand flow\nin a different direction?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not sure this fella's even\nlistening to us here..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotcha. In that case, I'll just assume\nhe's happy to pitch in and help out."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_010_000": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TANK_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks a bunch, fella."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So this is the cruise ship, eh? Guess all\nthose dreams of a fancy life on the high\nseas dried up with the oceans. You really\nthink we might find spirits here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Spirits? No idea. But people? Yes."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This hunk of junk barely looks like a\ncruise ship anymore, but at least there\nisn't any sand blowin' around."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Well? What have you brought me?\nPlease say you have copper wire;\nI desperately need it for my motors."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, I'm not selling anythin' at all, pal.\nMy name's Tsunanori Mido, and I'm trying\nto track down spirits. They've gotta be here\nsomewhere, so I'm out lookin' for clues."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "Ah, I see. I thought you were a junker.\nWell, I'm the Engineer, and I don't know\nanything about spirits or the occult—\nand nor do I care, if we're being honest."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, how about this: You know any\nplaces around here that have a whole\nbuncha natural power?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "In this sand-blighted hellhole? Hmmm...\nWell, I suppose a place like that\nwould have to be Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Just a second there. Pandora's that box deal\nthat unleashed a whole buncha trouble on the\nworld, isn't it? That sure sounds occult-y to me."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "In this world, Pandora is real. It is Pandora\nthat plunged this place into war and ruin,\nand the horror of that continues to this day.\fSo if we hope to free ourselves from all of\nthis someday, we must find a way to survive\nand close Pandora once and for all."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well then! Sounds like I'm gonna need to\nswing by Pandora and get this thing done."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "You're going to close it?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I didn't say nothin' about closing the sucker,\nbut I clearly need to go there if I want to\nget anything done—so if you know the way,\nnow's the time to fill me in."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_110": {
+    "speaker": "Engineer",
+    "text": "I have no idea where Pandora is.\nI suggest you ask a scarecrow."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know where Pandora is, guy?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_130": {
+    "speaker": "Scarecrow",
+    "text": "Of course! You simply go this way,\nthen that way, then some way!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like I'm following you, then."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FERRY_000_CUT_010_150": {
+    "speaker": "Scarecrow",
+    "text": "Delighted to help. To Pandora!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And here's another big ol' robot.\nThink this is Pandora, maybe?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Perhaps."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, fella. Any chance this\nfour-legged robot deal here is Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fair enough. Can you at least\ntell us where Pandora is?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, sure. So what <i>isn't</i> a\nsilly thing to ask a scarecrow?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, for cripes' sake..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This robot don't seem like it's Pandora,\nbut I bet it could change the sand's flow."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, and then tell us where we could\nfind some spirits here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "I KNOW NOTHING!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got another big ol' robot here.\nThink Pandora's in there, maybe?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure, maybe!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Never thought I'd be finding fiends in a\nworld with all this sand and machinery.\nThink those fellas popped outta Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, okay. And what about you scarecrow\nfellas? Are <i>you</i> older than Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I guess there's nothing for it\nbut to go inside and have us a peek."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, crud. Whole lot of nothin'."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothin' for days!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess we gotta look somewhere\nelse for Pandora, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, misery! A spirit has come to reside\nwithin me now that the fiends are gone!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "A spirit? Gimme!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You should hold onto it for now."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Sorrowcrow!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_INDUSTRIAL_000_CUT_010_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Thank you. Oh, the agony!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_HUMANOID_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This robot don't seem like it's Pandora,\nbut I bet it could change the sand's flow."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I bet so!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_HUMANOID_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, now we're cookin'! Mind telling me\nwhere I can find some spirits, then?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Sure thing, sweet cheeks! ♥ Just ask\nyourself this: what's the most special-est\nplace in the entire Crowrealm, hmm? ♥\nHere's a hint: it's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_HUMANOID_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy, that's a real stumper..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_HUMANOID_000_CUT_000_080": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, look at this old battleship.\nThis could be the place!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Yep! This could be Pandora!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "No. This is not Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You knew about this place, guy?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Whoopsie! War robot incoming!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That was pretty weak for Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "Did I not just tell you\nthis is not Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure did! So where is it, then?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I don't know."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thought you said you were the wise guy who\nknew everything. Well, whatever. I'll just\ngo out and find the thing myself."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "I'll help!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "And just what do you plan to do\nonce you actually find Pandora!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This is our last stop.\nIf it isn't here..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, guy. I'm Tsunanori Mido.\nCame to this world looking for spirits,\nbut right now I'm searching for Pandora.\nIs this place Pandora, maybe?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So the legends are true—an outsider will\nopen Pandora, and an outsider will close it!\nIs this prophecy? An accurate prediction?\nA cleverly executed program?\fWhatever it may be, one thing is certain:\nhistory will now begin to move."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Professor",
+    "text": "Yes, well, introductions! I'm the Professor,\nand I'm researching the Crowrealm's history.\nI've spent hour after endless hour in this place,\nbut today, you will put an end to that!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, I'll go ahead and pencil that in.\nBut are you positive closing this Pandora\ndeal is really gonna be that easy?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Professor",
+    "text": "I haven't the faintest idea; no one has\never seen Pandora for themselves.\nEven if it were inside this airship, I doubt\nyou'd gain access to it so easily."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotcha. Well, we won't know nothing\nuntil we get in there and check, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Let's go check!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pretty rough there for a bit, but we made it\nthrough. Still doesn't feel like we're any\ncloser to Pandora though, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "Pandora's secrets lie deeper within.\nLet's go, so I might witness history!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Deeper within!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Moving sand... So <i>this</i> is the truth of Pandora?\nIt's just digging up sand from somewhere and\nscattering it all across our world?\fAbsurd! Ridiculous! Complete and utter rot!\nI can't believe we let all time come to a\nstandstill because we were afraid of <i>this</i>!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "This isn't sand—it's robots!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, shoot! <i>That's</i> how we were able to\ncontrol how the sand flows and all that!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "I fear I don't understand."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It means we're surrounded by millions of sandy\nlittle robots—and we're only gonna get out of\nit alive by the grease of our cheeks."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Scarecrow",
+    "text": "Living is good, and I'd like to do\na whole lot more of it!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "We made it!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure did, guy—but how the heck are we\nsupposed to fight those sand robots?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_020": {
+    "speaker": "Professor",
+    "text": "You can do it! That's why the legend says\nyou will be the one to close Pandora!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, but just saying that won't magically make\nthe impossible possible, and I don't see any way\nin heck I'll be able to get any spirit power like this..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_040": {
+    "speaker": "Scarecrow",
+    "text": "What should we do!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_050": {
+    "speaker": "Wiseman",
+    "text": "You will need power equal to Pandora's\nown if you wish to fight it and win."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, guy. If you know helpful stuff,\ndon't be holding out on me."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_070": {
+    "speaker": "Wiseman",
+    "text": "Use this. It hates Pandora, and may prove\na great aid in your upcoming fight."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_080": {
+    "speaker": "Wiseman",
+    "text": "Hate begets nothing!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I seriously can't follow this guy."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_100": {
+    "speaker": "Sarab",
+    "text": "Sarab will kill Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds good, little buddy.\nWe're all countin' on you."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, shoot. Where's it going?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_000_CUT_020_130": {
+    "speaker": "Scarecrow",
+    "text": "Where <i>is</i> it going!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_END_000_CUT_000_000": {
+    "speaker": "Professor",
+    "text": "The time has come at last... Oh, to think\nI might witness a turning point in history\nwith my own eyes."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_END_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not sure if I can pull this off here,\nbut I'll give it all I got."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "All we've got!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_END_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Can you believe it!? I was actually\nable to experience the moment\na legend became reality!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_END_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "Hate really does beget nothing."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_END_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "You did it! You actually closed Pandora!\nHa ha haaa... Hey, wait. What the heck are\nwe supposed to do with the rest of our lives?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, what should I do with my life?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_END_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Why not come with me?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE2_AIRSHIP_END_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, you'll figure something out."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FERRY_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Human incoming!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FERRY_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy, I've never been on a boat this big in\nmy whole life. Thing's in pretty sad shape\nthough—wonder how long it's been here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FERRY_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh hey. A scarecrow. Poor guy's just been\nsittin' here learning how weak and ephemeral\nhuman society truly is, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FERRY_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Actually, this place was already\na ruin when I got here!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FERRY_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, cripes! You're not a scarecrow—\nyou're a fella that looks like one!\fWell, good to meetcha anyway, bud.\nI'm Tsunanori Mido, and this here's\nmy first time in this world."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FERRY_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Why, yes! I <i>am</i> Scarecrow, actually!\nI had no idea I was famous enough for\ncomplete strangers to know my name!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FERRY_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hang on a second. So you <i>are</i> a scarecrow?\nBoy, this is a real brain-buster right here...\nAnyway, I'm here looking for spirits.\nDon't suppose you know where to find any?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FERRY_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Nope! But I know who we can ask.\nPlease, follow me."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne battleship, just as promised."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that's great, but these dunes are\nshiftin' with such force that I keep gettin'\npushed back. The heck am I supposed\nto do about that?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And where's that, exactly?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy, that's one humdinger of a robot!\nDoes it still work?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Smilecrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "Aha ha ha ha ha! Scarecrow?\nAha ha ha ha ha! The flow of sand?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, so you can make the sand flow\nin a different direction?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FOURLEGS_000_CUT_010_000": {
+    "speaker": "Smilecrow",
+    "text": "The flow of sand! Aha ha ha ha!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FOURLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_FOURLEGS_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks, Smilecrow."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Considering what the cruise ship was like,\nI'm expecting this battleship to be a wreck.\nYou sure people actually live here, guy?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "People, yes. Spirits, no."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this thing isn't fighting anybody.\nGuess folks just live in it now."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "The arrival of souls from the\noutside world is an omen."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "How'd you know I'm not\nfrom around here, fella?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now there's a piece of good news!\nSo where can we find some spirits, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_050": {
+    "speaker": "Wiseman",
+    "text": "What's a spirit?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you were lying when you said you\nknew everything? That's disappointing."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_070": {
+    "speaker": "Wiseman",
+    "text": "You name others liars, outsider,\nand find only disappointment\nin your own expectations.\fBut very well! I shall reveal your fate:\nyou will find Pandora within the submarine.\nAll else must be decided by you."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know where this submarine\ndeal is, Scarecrow?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_090": {
+    "speaker": "Scarecrow",
+    "text": "Yes. I will take you there."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...What even <i>is</i> Pandora anyway?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_WARSHIP_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "I wonder..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Does this robot have anything\nto do with the spirits?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh, and do you know where we can\nfind spirits around here, maybe?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Spookcrow",
+    "text": "I KNOW NOTHING!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got another big ol' robot here.\nThink we might find some spirits?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure, maybe!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Never thought I'd be finding fiends in a\nworld with all this sand and machinery.\nThink those fellas popped outta Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, okay. And what about you scarecrow\nfellas? Are <i>you</i> older than Pandora?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I guess there's nothing for it\nbut to go inside and have us a peek."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, crud. Whole lot of nothin'."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothin' for days!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess we gotta look somewhere\nelse for the spirits, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hope you're up for the job when\nshifting sands cut us off again."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "We'll be counting on you!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_HUMANOID_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Probably isn't likely that this guy happens\nto be packin' the power of the spirits, huh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Probably not."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Nope! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "What's the most special-est place in the\nentire Crowrealm, hmm? ♥ Here's a hint:\nit's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_HUMANOID_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy, that's a real stumper..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, this here's clearly a war robot,\nwhich means there's no spirit here, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So there <i>is</i> a spirit here?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Or isn't there one?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm gonna assume it's here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No way there's a spirit here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Strangecrow!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_TANK_000_CUT_000_100": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Airship ruins! I bet these puppies used to\nfly around the sky like birds. But we got no\nbirds here now—not even crows.\fWhat even happened to this place?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure did. I've come here\nlooking for spirits."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So you're not here to close Pandora? Blast!\nWell, I am the Professor, a researcher of\nthe Crowrealm's history who is also seeking\na way to seal Pandora for good."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, so what's this Pandora everybody keeps\nyappin' on about? Some weird guy back on the\nbattleship said I'd find it on the submarine."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Professor",
+    "text": "The Wiseman said that? Then you\nmust go to the submarine at once!\nThis place holds nothing for you!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "But we have an enemy incoming..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Now go! Find the Junkman in the submarine,\nand get his help to close Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Please?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You too, Scarecrow? Heck, I don't even know\nwhat this Pandora deal <i>is</i>. Not nice to just\nkeep springing things like this on a guy,\nyou know what I mean?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But hey, sure. Guess I'll go\nswing by the submarine."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So this is a submarine, eh? Guess that means\nthere used to be an ocean here at some point.\nHow long ago was that, do ya think? Still got no\nidea how I'm going to find this Pandora deal though..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_000_010": {
+    "speaker": "Junkman",
+    "text": "Ah! An outsider has arrived, just as the\nWiseman foretold. He also claimed that the\nclosing of Pandora was all in your hands.\nSo then...will you close it?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't mean to be rude or nothing, guy, but\nI just came here to find spirits, and now\neverybody keeps shouting at me about some\nPandora thing I don't even know about."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Pandora is the cause of all desolation in\nthis world. It brought calamity to the land\nand launched a war that rages to this day.\fAnd if we hope to right these most\nterrible wrongs, we must close Pandora."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like you think I'm some kind\nof world-saving superhero there, bud."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_000_050": {
+    "speaker": "Junkman",
+    "text": "I admit, you don't look much like one,\nbut I know you will do this. For us."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "For us!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, tell you what. If I find Pandora in\nthis here submarine, I'll go ahead and\nbelieve your prophecy. Sound like a deal?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got plenty of robots here, but not a whole\nlot else. Certainly not some Pandora deal\nlike you were talking about, eh?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "Not as of yet, but the path goes on.\nNow come. I know we will find it."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "We'll find it!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry, bud, but all that's here is sand.\nYou know, maybe Pandora never even existed\nin the first place. You ever think of that?\fI mean, maybe it was <i>you</i> who did all the\nbad stuff to the world, and then you all\ndecided to just blame it on this Pandora\ndeal instead. You think that's possible?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_010_040": {
+    "speaker": "Junkman",
+    "text": "The sand... Of course! The <i>sand</i> is the\ncause of all this! The <i>sand</i> is Pandora!\fIt was created here in this place,\nand once it spread across the Crowrealm,\nit sent the entire world to ruin."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotta stop you there, bud. That's a fun\ntheory and all, but Pandora doesn't exist."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_020_000": {
+    "speaker": "Professor",
+    "text": "I hear you found Pandora!\nDid you manage to close it?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Actually, Pandora doesn't exist, which ended up\nbeing super inconvenient for me. I think that's\nwhat the Wiseman was trying to tell me with all\nof his riddles and whatnot."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_020_020": {
+    "speaker": "Professor",
+    "text": "Is this true, Junkman?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_020_030": {
+    "speaker": "Junkman",
+    "text": "Seems so. If this world is going to be saved,\nit will be done not by an outsider, but by\nthe sweat and toil of those who live here."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_020_040": {
+    "speaker": "Professor",
+    "text": "Well, I suppose that's not so bad;\nthe Crowrealm is our home, after all,\nso it's only fitting that we should\nbe the main characters in its story.\fYou have my thanks—and I swear to\nyou now, we <i>will</i> take our world\nback! We cannot thank you enough."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, shoot, I'm real happy for you there,\nbut I never found myself any spirit power."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_020_060": {
+    "speaker": "Scarecrow",
+    "text": "Then <i>I'll</i> be your spirit!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck you talkin' about?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of your\nbest pal Scarecrow, okay!?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So if Pandora is actually all this sand,\nhow am I supposed to close it?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_010": {
+    "speaker": "Junkman",
+    "text": "You can do it. You <i>will</i>.\nThe prophecy says as much."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This prophecy of yours sure isn't\nmaking me feel any better..."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_030": {
+    "speaker": "Professor",
+    "text": "Well done! I hear you found Pandora!\nDid you manage to close it?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, thing is, turns out Pandora is actually\npretty much everything. Like, all this sand?\nPandora. And lemme tell you, I don't even\nknow where to <i>start</i> with that."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_050": {
+    "speaker": "Professor",
+    "text": "The sand is...? But no, that can't be!\nThe sand isn't attacking us!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw cripes, I get it now. This stuff ain't\nnothing but plain old sand unless somebody's\nordering it around—which means we just gotta\nfind a way to cut the orders off."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_070": {
+    "speaker": "Professor",
+    "text": "Wonderful! Now here, take this.\nHe's my little helper and a good,\nfine boy, and I know he'll aid you."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This little helper got a name?"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_090": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, all right then, Sarab. Let's you\nand me go kick some Pandora butt."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_010_CUT_020_110": {
+    "speaker": "Scarecrow",
+    "text": "Let's!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_END_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "You can do it. You <i>will</i>.\nThe prophecy says as much."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_END_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know something? This prophecy\nis actually making me feel better."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Feel better! Feel better!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_END_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "The prophecy has been fulfilled,\nand Pandora is closed at last."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_END_000_CUT_010_020": {
+    "speaker": "Professor",
+    "text": "The Crowrealm has finally been returned to us,\nand from this day forward, we shall restore it\nto its former glory with our own hands!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_END_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I foresaw all!"
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I'm going to stay here and help\nwith the restoration."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_END_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good luck there, bud."
+  },
+  "SUB_W13_EVAR_MIDO_ROUTE3_DIVING_END_000_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Actually, why not come with me?"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "W14_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Providence: The World of Visions"
+  },
+  "W14_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This world is filled with innumerable visions. It is truly a place of nightmares, and you can hardly wait to see what you find here."
+  },
+  "W14_EVAR_SIUG_VISION_EXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Vision of Leaving This World"
+  },
+  "W14_EVAR_SIUG_VISION_EXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You have seen enough darkness in this world. The time has come to journey to another."
+  },
+  "W14_EVAR_SIUG_VISION_EXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  },
+  "W14_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Detective"
+  },
+  "W14_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W14_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W14_EVAR_SIUG_KENZOKU_010_TITLE": {
+    "speaker": "UI",
+    "text": "Swordsmith"
+  },
+  "W14_EVAR_SIUG_KENZOKU_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W14_EVAR_SIUG_KENZOKU_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W14_EVAR_SIUG_KENZOKU_020_TITLE": {
+    "speaker": "UI",
+    "text": "Villager"
+  },
+  "W14_EVAR_SIUG_KENZOKU_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W14_EVAR_SIUG_KENZOKU_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W14_EVAR_SIUG_KENZOKU_030_TITLE": {
+    "speaker": "UI",
+    "text": "Sailor"
+  },
+  "W14_EVAR_SIUG_KENZOKU_030_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W14_EVAR_SIUG_KENZOKU_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W14_EVAR_SIUG_KENZOKU_040_TITLE": {
+    "speaker": "UI",
+    "text": "Doctor"
+  },
+  "W14_EVAR_SIUG_KENZOKU_040_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W14_EVAR_SIUG_KENZOKU_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W14_EVAR_SIUG_KENZOKU_050_TITLE": {
+    "speaker": "UI",
+    "text": "Soldier"
+  },
+  "W14_EVAR_SIUG_KENZOKU_050_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W14_EVAR_SIUG_KENZOKU_050_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  }
+}

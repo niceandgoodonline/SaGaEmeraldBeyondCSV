@@ -1,0 +1,450 @@
+{
+  "TRAINING_MESSAGE_01_Leader": {
+    "speaker": "UI",
+    "text": "Just relax, yeah? Let the wave carry ya."
+  },
+  "TRAINING_MESSAGE_01_Trainee": {
+    "speaker": "UI",
+    "text": "Been a while since I've done any trainin'."
+  },
+  "TRAINING_MESSAGE_02_Leader": {
+    "speaker": "UI",
+    "text": "A witch's training isn't easy!"
+  },
+  "TRAINING_MESSAGE_02_Trainee": {
+    "speaker": "UI",
+    "text": "Mind if I use magic for this?"
+  },
+  "TRAINING_MESSAGE_03_Leader": {
+    "speaker": "UI",
+    "text": "The power of the dark cannot be acquired through study."
+  },
+  "TRAINING_MESSAGE_03_Trainee": {
+    "speaker": "UI",
+    "text": "There is nothing more for me to learn."
+  },
+  "TRAINING_MESSAGE_04_Leader": {
+    "speaker": "UI",
+    "text": "We'll get through this together."
+  },
+  "TRAINING_MESSAGE_04_Trainee": {
+    "speaker": "UI",
+    "text": "Uuurgh... I think I'm getting butterflies..."
+  },
+  "TRAINING_MESSAGE_05_Leader": {
+    "speaker": "UI",
+    "text": "Always wanted to try bein' a hard-ass drill instructor. Let's do this!"
+  },
+  "TRAINING_MESSAGE_05_Trainee": {
+    "speaker": "UI",
+    "text": "Training? C'mon, gimme a break."
+  },
+  "TRAINING_MESSAGE_06_Leader": {
+    "speaker": "UI",
+    "text": "I've nae education programs installed, love."
+  },
+  "TRAINING_MESSAGE_06_Trainee": {
+    "speaker": "UI",
+    "text": "Learning will expand my database."
+  },
+  "TRAINING_MESSAGE_07_Leader": {
+    "speaker": "UI",
+    "text": "The true value of training comes when master and pupil are as one."
+  },
+  "TRAINING_MESSAGE_07_Trainee": {
+    "speaker": "UI",
+    "text": "A warrior is defined by the sum of their accomplishments."
+  },
+  "TRAINING_MESSAGE_08_Leader": {
+    "speaker": "UI",
+    "text": "I shall teach you the beauty in all things."
+  },
+  "TRAINING_MESSAGE_08_Trainee": {
+    "speaker": "UI",
+    "text": "All is so I might improve my poetry."
+  },
+  "TRAINING_MESSAGE_09_Leader": {
+    "speaker": "UI",
+    "text": "Let's start with the fundamentals! Leg day!"
+  },
+  "TRAINING_MESSAGE_09_Trainee": {
+    "speaker": "UI",
+    "text": "Come at me with all you got!"
+  },
+  "TRAINING_MESSAGE_10_Leader": {
+    "speaker": "UI",
+    "text": "You won't get any better just by firin' blindly!"
+  },
+  "TRAINING_MESSAGE_10_Trainee": {
+    "speaker": "UI",
+    "text": "There's no target I can't pierce!"
+  },
+  "TRAINING_MESSAGE_11_Leader": {
+    "speaker": "UI",
+    "text": "How does it feel to be taught by a familiar?"
+  },
+  "TRAINING_MESSAGE_11_Trainee": {
+    "speaker": "UI",
+    "text": "What good is training for a familiar?"
+  },
+  "TRAINING_MESSAGE_12_Leader": {
+    "speaker": "UI",
+    "text": "So I've become the master, have I? Very well."
+  },
+  "TRAINING_MESSAGE_12_Trainee": {
+    "speaker": "UI",
+    "text": "I trust in my ability to learn anything but magic."
+  },
+  "TRAINING_MESSAGE_13_Leader": {
+    "speaker": "UI",
+    "text": "Don't go expecting too much from a copy!"
+  },
+  "TRAINING_MESSAGE_13_Trainee": {
+    "speaker": "UI",
+    "text": "So I just copy what I see? Easy!"
+  },
+  "TRAINING_MESSAGE_14_Leader": {
+    "speaker": "UI",
+    "text": "Can you keep up with my intuition?"
+  },
+  "TRAINING_MESSAGE_14_Trainee": {
+    "speaker": "UI",
+    "text": "I'm going to be taught...by you? By YOU?"
+  },
+  "TRAINING_MESSAGE_15_Leader": {
+    "speaker": "UI",
+    "text": "The pupil's path begins with paying respect to the master."
+  },
+  "TRAINING_MESSAGE_15_Trainee": {
+    "speaker": "UI",
+    "text": "My attention is yours!"
+  },
+  "TRAINING_MESSAGE_16_Leader": {
+    "speaker": "UI",
+    "text": "I would rather be the student than the teacher, but oh well."
+  },
+  "TRAINING_MESSAGE_16_Trainee": {
+    "speaker": "UI",
+    "text": "Oh, how I thirst for new knowledge!"
+  },
+  "TRAINING_MESSAGE_17_Leader": {
+    "speaker": "UI",
+    "text": "What do you expect to learn from a killer?"
+  },
+  "TRAINING_MESSAGE_17_Trainee": {
+    "speaker": "UI",
+    "text": "What good is study when compared to death!?"
+  },
+  "TRAINING_MESSAGE_18_Leader": {
+    "speaker": "UI",
+    "text": "Follow the master! Disaster! It's time to get after!"
+  },
+  "TRAINING_MESSAGE_18_Trainee": {
+    "speaker": "UI",
+    "text": "I'm amped and wired! Synapses fired!"
+  },
+  "TRAINING_MESSAGE_19_Leader": {
+    "speaker": "UI",
+    "text": "I've no time to teach you. Do whatever ya want."
+  },
+  "TRAINING_MESSAGE_19_Trainee": {
+    "speaker": "UI",
+    "text": "GIMME ALL YA GOT!"
+  },
+  "TRAINING_MESSAGE_20_Leader": {
+    "speaker": "UI",
+    "text": "Meow?"
+  },
+  "TRAINING_MESSAGE_20_Trainee": {
+    "speaker": "UI",
+    "text": "Meow!"
+  },
+  "TRAINING_MESSAGE_21_Leader": {
+    "speaker": "UI",
+    "text": "Purrrrrr..."
+  },
+  "TRAINING_MESSAGE_21_Trainee": {
+    "speaker": "UI",
+    "text": "Mrrrow!"
+  },
+  "TRAINING_MESSAGE_22_Leader": {
+    "speaker": "UI",
+    "text": "Hiss!"
+  },
+  "TRAINING_MESSAGE_22_Trainee": {
+    "speaker": "UI",
+    "text": "Yooowl!"
+  },
+  "TRAINING_MESSAGE_23_Leader": {
+    "speaker": "UI",
+    "text": "Well, aren't we enthusiastic? Good for you."
+  },
+  "TRAINING_MESSAGE_23_Trainee": {
+    "speaker": "UI",
+    "text": "Me? Train? You can't be serious."
+  },
+  "TRAINING_MESSAGE_24_Leader": {
+    "speaker": "UI",
+    "text": "Grrr..."
+  },
+  "TRAINING_MESSAGE_24_Trainee": {
+    "speaker": "UI",
+    "text": "Arooo!"
+  },
+  "TRAINING_MESSAGE_25_Leader": {
+    "speaker": "UI",
+    "text": "Wednesday's pretty strict, you know!"
+  },
+  "TRAINING_MESSAGE_25_Trainee": {
+    "speaker": "UI",
+    "text": "Just try and make me train! I dare you!"
+  },
+  "TRAINING_MESSAGE_26_Leader": {
+    "speaker": "UI",
+    "text": "Eiwanke ya?"
+  },
+  "TRAINING_MESSAGE_26_Trainee": {
+    "speaker": "UI",
+    "text": "Irankarapute."
+  },
+  "TRAINING_MESSAGE_27_Leader": {
+    "speaker": "UI",
+    "text": "To improve oneself is an honorable pursuit."
+  },
+  "TRAINING_MESSAGE_27_Trainee": {
+    "speaker": "UI",
+    "text": "Greater strength will grant me independence."
+  },
+  "TRAINING_MESSAGE_28_Leader": {
+    "speaker": "UI",
+    "text": "Pay attention if you don't wanna tick me off."
+  },
+  "TRAINING_MESSAGE_28_Trainee": {
+    "speaker": "UI",
+    "text": "Effort's just not, like, a witch thing. You know?"
+  },
+  "TRAINING_MESSAGE_29_Leader": {
+    "speaker": "UI",
+    "text": "Not sure I'm cut out for teaching..."
+  },
+  "TRAINING_MESSAGE_29_Trainee": {
+    "speaker": "UI",
+    "text": "Will I even remember any of this...?"
+  },
+  "TRAINING_MESSAGE_30_Leader": {
+    "speaker": "UI",
+    "text": "This will require precise movements!"
+  },
+  "TRAINING_MESSAGE_30_Trainee": {
+    "speaker": "UI",
+    "text": "Precise movements are my specialty!"
+  },
+  "TRAINING_MESSAGE_31_Leader": {
+    "speaker": "UI",
+    "text": "No skill worth learning comes easy."
+  },
+  "TRAINING_MESSAGE_31_Trainee": {
+    "speaker": "UI",
+    "text": "I must not rely on one ability alone."
+  },
+  "TRAINING_MESSAGE_32_Leader": {
+    "speaker": "UI",
+    "text": "Oooh, I'm in charge? I'll give ya hell!"
+  },
+  "TRAINING_MESSAGE_32_Trainee": {
+    "speaker": "UI",
+    "text": "I'll give it my all!"
+  },
+  "TRAINING_MESSAGE_33_Leader": {
+    "speaker": "UI",
+    "text": "Let's be gettin' this over with so we can eat!"
+  },
+  "TRAINING_MESSAGE_33_Trainee": {
+    "speaker": "UI",
+    "text": "Never look down on a man of the sea!"
+  },
+  "TRAINING_MESSAGE_34_Leader": {
+    "speaker": "UI",
+    "text": "I didn't ask for this responsibility."
+  },
+  "TRAINING_MESSAGE_34_Trainee": {
+    "speaker": "UI",
+    "text": "To learn from others is a fine thing!"
+  },
+  "TRAINING_MESSAGE_35_Leader": {
+    "speaker": "UI",
+    "text": "I will impart the wisdom of the priests of the Kosmos."
+  },
+  "TRAINING_MESSAGE_35_Trainee": {
+    "speaker": "UI",
+    "text": "Teach me then, if you must."
+  },
+  "TRAINING_MESSAGE_36_Leader": {
+    "speaker": "UI",
+    "text": "Being a carrier isn't easy. Think you can keep up?"
+  },
+  "TRAINING_MESSAGE_36_Trainee": {
+    "speaker": "UI",
+    "text": "Where do I start? Should I do some laps?"
+  },
+  "TRAINING_MESSAGE_37_Leader": {
+    "speaker": "UI",
+    "text": "Show me the fire in your soul!"
+  },
+  "TRAINING_MESSAGE_37_Trainee": {
+    "speaker": "UI",
+    "text": "Nothing gets the blood boiling like training!"
+  },
+  "TRAINING_MESSAGE_38_Leader": {
+    "speaker": "UI",
+    "text": "Let your soul flow freely."
+  },
+  "TRAINING_MESSAGE_38_Trainee": {
+    "speaker": "UI",
+    "text": "Shall we start by reviewing our form?"
+  },
+  "TRAINING_MESSAGE_39_Leader": {
+    "speaker": "UI",
+    "text": "Feel the wind in your soul."
+  },
+  "TRAINING_MESSAGE_39_Trainee": {
+    "speaker": "UI",
+    "text": "Nothing's better than a nice breeze while training."
+  },
+  "TRAINING_MESSAGE_40_Leader": {
+    "speaker": "UI",
+    "text": "Lay the roots of your soul deep like a mighty forest!"
+  },
+  "TRAINING_MESSAGE_40_Trainee": {
+    "speaker": "UI",
+    "text": "My breathing is steady—I'm prepared for anything."
+  },
+  "TRAINING_MESSAGE_41_Leader": {
+    "speaker": "UI",
+    "text": "Training tastes yummy!"
+  },
+  "TRAINING_MESSAGE_41_Trainee": {
+    "speaker": "UI",
+    "text": "Is training something I can eat?"
+  },
+  "TRAINING_MESSAGE_42_Leader": {
+    "speaker": "UI",
+    "text": "How the heck did I get stuck on education duty?"
+  },
+  "TRAINING_MESSAGE_42_Trainee": {
+    "speaker": "UI",
+    "text": "Ugh, fine. Let's get this over with."
+  },
+  "TRAINING_MESSAGE_43_Leader": {
+    "speaker": "UI",
+    "text": "As if a scarecrow could teach anyone anything!"
+  },
+  "TRAINING_MESSAGE_43_Trainee": {
+    "speaker": "UI",
+    "text": "Scarecrows can train too! Uh, right?"
+  },
+  "TRAINING_MESSAGE_44_Leader": {
+    "speaker": "UI",
+    "text": "I can't teach about anything but the people of the Imeru."
+  },
+  "TRAINING_MESSAGE_44_Trainee": {
+    "speaker": "UI",
+    "text": "I'll do my best. Epuyke nogonoa kowo!"
+  },
+  "TRAINING_MESSAGE_45_Leader": {
+    "speaker": "UI",
+    "text": "I will devise a basic training curriculum."
+  },
+  "TRAINING_MESSAGE_45_Trainee": {
+    "speaker": "UI",
+    "text": "Commencing combat-program optimization."
+  },
+  "TRAINING_MESSAGE_46_Leader": {
+    "speaker": "UI",
+    "text": "I've little need for a patron, but very well!"
+  },
+  "TRAINING_MESSAGE_46_Trainee": {
+    "speaker": "UI",
+    "text": "A new hero of legend takes to the stage!"
+  },
+  "TRAINING_MESSAGE_47_Leader": {
+    "speaker": "UI",
+    "text": "1280-1280"
+  },
+  "TRAINING_MESSAGE_47_Trainee": {
+    "speaker": "UI",
+    "text": "20222022"
+  },
+  "TRAINING_MESSAGE_48_Leader": {
+    "speaker": "UI",
+    "text": "The biggest gun always wins. That's just how it is."
+  },
+  "TRAINING_MESSAGE_48_Trainee": {
+    "speaker": "UI",
+    "text": "One can never have enough educational data."
+  },
+  "TRAINING_MESSAGE_49_Leader": {
+    "speaker": "UI",
+    "text": "Kieru vi fatas?"
+  },
+  "TRAINING_MESSAGE_49_Trainee": {
+    "speaker": "UI",
+    "text": "Saruton!"
+  },
+  "TRAINING_MESSAGE_50_Leader": {
+    "speaker": "UI",
+    "text": "Your posture is simply wretched! Straighten that back!"
+  },
+  "TRAINING_MESSAGE_50_Trainee": {
+    "speaker": "UI",
+    "text": "One must always conduct themselves with grace."
+  },
+  "TRAINING_MESSAGE_51_Leader": {
+    "speaker": "UI",
+    "text": "It is daily effort alone that shapes a knight."
+  },
+  "TRAINING_MESSAGE_51_Trainee": {
+    "speaker": "UI",
+    "text": "I leave myself in your capable hands."
+  },
+  "TRAINING_MESSAGE_52_Leader": {
+    "speaker": "UI",
+    "text": "Ah, just go ahead and do whatever."
+  },
+  "TRAINING_MESSAGE_52_Trainee": {
+    "speaker": "UI",
+    "text": "Training? Heh. That takes me back."
+  },
+  "TRAINING_MESSAGE_53_Leader": {
+    "speaker": "UI",
+    "text": "I shall impart to you training methods learned from the first emperor."
+  },
+  "TRAINING_MESSAGE_53_Trainee": {
+    "speaker": "UI",
+    "text": "What's the point in learning? It's too late."
+  },
+  "TRAINING_MESSAGE_54_Leader": {
+    "speaker": "UI",
+    "text": "Oh, sweet! I always wanted to be a teacher."
+  },
+  "TRAINING_MESSAGE_54_Trainee": {
+    "speaker": "UI",
+    "text": "I don't have to write essays or anything, do I?"
+  },
+  "TRAINING_MESSAGE_55_Leader": {
+    "speaker": "UI",
+    "text": "I'll put together a devastatingly efficient training regimen."
+  },
+  "TRAINING_MESSAGE_55_Trainee": {
+    "speaker": "UI",
+    "text": "Putting theory into practice is no easy feat."
+  },
+  "TRAINING_MESSAGE_56_Leader": {
+    "speaker": "UI",
+    "text": "It's vital to invest your whole heart when practicing."
+  },
+  "TRAINING_MESSAGE_56_Trainee": {
+    "speaker": "UI",
+    "text": "Weight training is crucial for beautiful vocalization."
+  }
+}

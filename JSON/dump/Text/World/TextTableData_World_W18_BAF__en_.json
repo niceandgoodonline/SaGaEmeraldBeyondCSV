@@ -1,0 +1,322 @@
+{
+  "W18_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Bonnie and Formina"
+  },
+  "W18_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The duo's adventure has begun. Will they be able to protect the president?"
+  },
+  "W18_WRLD_BOFO_INITIAL_100_TITLE": {
+    "speaker": "UI",
+    "text": "Bonnie and Formina"
+  },
+  "W18_WRLD_BOFO_INITIAL_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The duo's adventure has begun anew. What worlds will they visit this time?"
+  },
+  "W18_WRLD_BOFO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Returning to Capitol City"
+  },
+  "W18_WRLD_BOFO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You weren't able to capture the mysterious man, and the only clue guiding you now is a single triangle."
+  },
+  "W18_WRLD_BOFO_RETURN_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Mystery of Quisstatium"
+  },
+  "W18_WRLD_BOFO_RETURN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Quisstatium is an organization shrouded in mystery. If you wish to learn more about them, you will need to collect triangles."
+  },
+  "W18_WRLD_BOFO_RETURN_300_TITLE": {
+    "speaker": "UI",
+    "text": "The Third Triangle"
+  },
+  "W18_WRLD_BOFO_RETURN_300_DETAIL": {
+    "speaker": "UI",
+    "text": "You've been obtaining triangles for a while now, but you're no closer to solving the mysteries of Quisstatium."
+  },
+  "W18_WRLD_BOFO_RETURN_500_TITLE": {
+    "speaker": "UI",
+    "text": "The Fifth Triangle"
+  },
+  "W18_WRLD_BOFO_RETURN_500_DETAIL": {
+    "speaker": "UI",
+    "text": "You still need a few more triangles."
+  },
+  "W18_WRLD_BOFO_RETURN_700_TITLE": {
+    "speaker": "UI",
+    "text": "The Seventh Triangle"
+  },
+  "W18_WRLD_BOFO_RETURN_700_DETAIL": {
+    "speaker": "UI",
+    "text": "Only one triangle to go. The end is almost at hand!"
+  },
+  "W18_WRLD_BOFO_RETURN_800_TITLE": {
+    "speaker": "UI",
+    "text": "All Eight Triangles Gathered"
+  },
+  "W18_WRLD_BOFO_RETURN_800_DETAIL": {
+    "speaker": "UI",
+    "text": "You've finally obtained all the triangles. Now you can finally unravel the mysteries of Quisstatium."
+  },
+  "W18_WRLD_BOFO_RETURN_110_TITLE": {
+    "speaker": "UI",
+    "text": "The Mysteries of Quisstatium"
+  },
+  "W18_WRLD_BOFO_RETURN_110_DETAIL": {
+    "speaker": "UI",
+    "text": "You're going to need more information if you want to solve the mysteries of Quisstatium. You can't very well press the president directly on this."
+  },
+  "W18_WRLD_BOFO_RETURN_400_TITLE": {
+    "speaker": "UI",
+    "text": "The Fourth Triangle"
+  },
+  "W18_WRLD_BOFO_RETURN_400_DETAIL": {
+    "speaker": "UI",
+    "text": "You're halfway through your journey to collect the triangles."
+  },
+  "W18_WRLD_BOFO_RETURN_710_TITLE": {
+    "speaker": "UI",
+    "text": "The Seventh Triangle"
+  },
+  "W18_WRLD_BOFO_RETURN_710_DETAIL": {
+    "speaker": "UI",
+    "text": "The owner of the last triangle came as a surprise, but it's now time for the final battle."
+  },
+  "W18_SCAN_BOFO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Green Line"
+  },
+  "W18_SCAN_BOFO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can now see the green line even in Capitol City—but what does it even mean?"
+  },
+  "W18_SCAN_BOFO_INITIAL_100_TITLE": {
+    "speaker": "UI",
+    "text": "Emerald Vision"
+  },
+  "W18_SCAN_BOFO_INITIAL_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Does being able to see the future mean losing your freedom?"
+  },
+  "W18_EVAR_BOFO_1STMISSON_000_TITLE": {
+    "speaker": "UI",
+    "text": "Presidential Grounds Elevator"
+  },
+  "W18_EVAR_BOFO_1STMISSON_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Does this elevator really lead to the presidential grounds? Or does it go somewhere else?"
+  },
+  "W18_EVAR_BOFO_1STMISSON_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Elevator"
+  },
+  "W18_EVAR_BOFO_1STMISSON_100_TITLE": {
+    "speaker": "UI",
+    "text": "Presidential Grounds Elevator"
+  },
+  "W18_EVAR_BOFO_1STMISSON_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Are you acting of your own free will? Or simply riding the rails of destiny?"
+  },
+  "W18_EVAR_BOFO_1STMISSON_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Elevator"
+  },
+  "W18_EVAR_BOFO_MISSON_000_TITLE": {
+    "speaker": "UI",
+    "text": "Presidential Grounds Elevator"
+  },
+  "W18_EVAR_BOFO_MISSON_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Your journey to gather the triangles isn't over yet."
+  },
+  "W18_EVAR_BOFO_MISSON_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Elevator"
+  },
+  "W18_EVAR_BOFO_BATTLE_SIM_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Secret Lab"
+  },
+  "W18_EVAR_BOFO_BATTLE_SIM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is a government-affiliated laboratory that seems to be involved in secret research."
+  },
+  "W18_EVAR_BOFO_BATTLE_SIM_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By the Lab"
+  },
+  "W18_EVAR_BOFO_BATTLE_SIM_010_TITLE": {
+    "speaker": "UI",
+    "text": "Combat Simulator"
+  },
+  "W18_EVAR_BOFO_BATTLE_SIM_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a simulator that will allow you to fight virtual aliens."
+  },
+  "W18_EVAR_BOFO_BATTLE_SIM_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W18_EVAR_BOFO_SINGER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Stage Event"
+  },
+  "W18_EVAR_BOFO_SINGER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A large crowd is gathered in front of the stage."
+  },
+  "W18_EVAR_BOFO_SINGER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "W18_EVAR_BOFO_CRYSTAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Capitol's Crystal"
+  },
+  "W18_EVAR_BOFO_CRYSTAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A distinctive crystal is currently being displayed inside the Capitol building of the Union States."
+  },
+  "W18_EVAR_BOFO_CRYSTAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "W18_EVAR_BOFO_DISCUSSION_000_TITLE": {
+    "speaker": "UI",
+    "text": "Office Building Lounge"
+  },
+  "W18_EVAR_BOFO_DISCUSSION_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is just an ordinary office lounge. There's nothing special about it."
+  },
+  "W18_EVAR_BOFO_DISCUSSION_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "W18_EVAR_BOFO_FORUM_000_TITLE": {
+    "speaker": "UI",
+    "text": "International Peace Forum"
+  },
+  "W18_EVAR_BOFO_FORUM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Foreign diplomats, researchers, and NGOs are gathered here for a meeting."
+  },
+  "W18_EVAR_BOFO_FORUM_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "W18_EVAR_BOFO_MANHALL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Manhole Where Everything Began"
+  },
+  "W18_EVAR_BOFO_MANHALL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It all started in this very location..."
+  },
+  "W18_EVAR_BOFO_MANHALL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "W18_EVAR_BOFO_LIFT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Nostalgic Elevator"
+  },
+  "W18_EVAR_BOFO_LIFT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps it's unusual to think nostalgically of an elevator."
+  },
+  "W18_EVAR_BOFO_LIFT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "W18_EVAR_BOFO_VIP_HOTEL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Five-Star Hotel Lobby"
+  },
+  "W18_EVAR_BOFO_VIP_HOTEL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You have no specific reason to be here, but there's no harm in stopping by and feeling like part of the bourgeoisie."
+  },
+  "W18_EVAR_BOFO_VIP_HOTEL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "W18_EVAR_BOFO_STATION_000_TITLE": {
+    "speaker": "UI",
+    "text": "Underground Station Exit"
+  },
+  "W18_EVAR_BOFO_STATION_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is likely the place with the most foot traffic in the whole of Capitol City."
+  },
+  "W18_EVAR_BOFO_STATION_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "W18_EVAR_BOFO_CATS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cat Woman"
+  },
+  "W18_EVAR_BOFO_CATS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A famous cat-loving woman is known to appear here."
+  },
+  "W18_EVAR_BOFO_CATS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "W18_EVAR_BOFO_MEETING_000_TITLE": {
+    "speaker": "UI",
+    "text": "Capitol City Police Department"
+  },
+  "W18_EVAR_BOFO_MEETING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It feels like so long ago that you used to spend time here."
+  },
+  "W18_EVAR_BOFO_MEETING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By"
+  },
+  "A00_BOFO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Return to the Presidential Grounds"
+  },
+  "A00_BOFO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should return to the presidential grounds and explain the situation to Hernandez."
+  },
+  "A00_BOFO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go Back"
+  },
+  "A00_BOFO_RETURN_001_TITLE": {
+    "speaker": "UI",
+    "text": "Seeking the Next Triangle"
+  },
+  "A00_BOFO_RETURN_001_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to search for the next triangle."
+  },
+  "A00_BOFO_RETURN_001_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Next World"
+  },
+  "A00_BOFO_RETURN_002_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Triangle"
+  },
+  "A00_BOFO_RETURN_002_DETAIL": {
+    "speaker": "UI",
+    "text": "You now have all the triangles. It's time to go back and piece them together."
+  },
+  "A00_BOFO_RETURN_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Go Back"
+  }
+}

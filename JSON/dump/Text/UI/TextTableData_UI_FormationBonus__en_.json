@@ -1,0 +1,46 @@
+{
+  "FormationBonus_None": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "FormationBonus_QuicknessGuard1": {
+    "speaker": "UI",
+    "text": "Turns after defending"
+  },
+  "FormationBonus_QuicknessGuard2": {
+    "speaker": "UI",
+    "text": "Turns after defending"
+  },
+  "FormationBonus_BPCostDownTech1": {
+    "speaker": "UI",
+    "text": "Techs only"
+  },
+  "FormationBonus_BPCostDownTech2": {
+    "speaker": "UI",
+    "text": "Techs only"
+  },
+  "FormationBonus_BPCostDownReserve": {
+    "speaker": "UI",
+    "text": "Conditionals"
+  },
+  "FormationBonus_BPCostDownDefense": {
+    "speaker": "UI",
+    "text": "Turns after defending"
+  },
+  "FormationBonus_BPCostDownOverAttack": {
+    "speaker": "UI",
+    "text": "Turns after performing a combo"
+  },
+  "FormationBonus_BPCostDownKill": {
+    "speaker": "UI",
+    "text": "Turns after vanquishing foes"
+  },
+  "FormationBonus_FormationEffectResistance": {
+    "speaker": "UI",
+    "text": "Increases resistances"
+  },
+  "FormationBonus_InvalidDodgeInAir": {
+    "speaker": "UI",
+    "text": "Antiair"
+  }
+}

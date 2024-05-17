@@ -1,0 +1,2050 @@
+{
+  "W06_LTXT_COMM_STOMACH_HEALTHY_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Digestica"
+  },
+  "W06_LTXT_COMM_STOMACH_HEALTHY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is one of the four great temples of the Kosmos. It's currently functioning normally."
+  },
+  "W06_LTXT_COMM_HEART_HEALTHY_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Circuleum"
+  },
+  "W06_LTXT_COMM_HEART_HEALTHY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is one of the four great temples of the Kosmos. It's currently functioning normally."
+  },
+  "W06_LTXT_COMM_LUNGS_HEALTHY_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Respiquary"
+  },
+  "W06_LTXT_COMM_LUNGS_HEALTHY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is one of the four great temples of the Kosmos. It's currently functioning normally."
+  },
+  "W06_LTXT_COMM_BRAIN_HEALTHY_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Cognitheon"
+  },
+  "W06_LTXT_COMM_BRAIN_HEALTHY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is one of the four great temples of the Kosmos. It's currently functioning normally."
+  },
+  "W06_LTXT_COMM_STOMACH_SICK_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Digestica"
+  },
+  "W06_LTXT_COMM_STOMACH_SICK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is one of the four great temples of the Kosmos. A problem has emerged here."
+  },
+  "W06_LTXT_COMM_HEART_SICK_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Circuleum"
+  },
+  "W06_LTXT_COMM_HEART_SICK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is one of the four great temples of the Kosmos. A problem has emerged here."
+  },
+  "W06_LTXT_COMM_LUNGS_SICK_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Respiquary"
+  },
+  "W06_LTXT_COMM_LUNGS_SICK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is one of the four great temples of the Kosmos. A problem has emerged here."
+  },
+  "W06_LTXT_COMM_BRAIN_SICK_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Cognitheon"
+  },
+  "W06_LTXT_COMM_BRAIN_SICK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is one of the four great temples of the Kosmos. A problem has emerged here."
+  },
+  "W06_LTXT_COMM_THYMUS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Thymus, the Cradle of All"
+  },
+  "W06_LTXT_COMM_THYMUS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is where all the benignancies in the Kosmos were born."
+  },
+  "W06_LTXT_COMM_TRACHEA_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Expulsitory"
+  },
+  "W06_LTXT_COMM_TRACHEA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is a large, gate-like structure. It appears to be locked."
+  },
+  "W06_LTXT_COMM_TRACHEA_OPEN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Expulsitory"
+  },
+  "W06_LTXT_COMM_TRACHEA_OPEN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is a large, gate-like structure."
+  },
+  "W06_GIMK_COMM_FAT00_000_TITLE": {
+    "speaker": "UI",
+    "text": "Fat"
+  },
+  "W06_GIMK_COMM_FAT00_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Thymus is currently surrounded by a wall of thick fat."
+  },
+  "W06_GIMK_COMM_VEINS00_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS00_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A red passage filled with red liquid. It serves as a means to access the neighboring temple."
+  },
+  "W06_GIMK_COMM_VEINS00_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Passage"
+  },
+  "W06_GIMK_COMM_VEINS00_010_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS00_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A red passage filled with red liquid. The fluids within are stagnant, so you can't pass through."
+  },
+  "W06_GIMK_COMM_VEINS01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A red passage filled with red liquid. It serves as a means to access the neighboring temple."
+  },
+  "W06_GIMK_COMM_VEINS01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Passage"
+  },
+  "W06_GIMK_COMM_VEINS01_010_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS01_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A red passage filled with red liquid. The fluids within are stagnant, so you can't pass through."
+  },
+  "W06_GIMK_COMM_VEINS02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A red passage filled with red liquid. It serves as a means to access the neighboring temple."
+  },
+  "W06_GIMK_COMM_VEINS02_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Passage"
+  },
+  "W06_GIMK_COMM_VEINS03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A red passage filled with red liquid. It serves as a means to access the neighboring temple."
+  },
+  "W06_GIMK_COMM_VEINS03_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Passage"
+  },
+  "W06_GIMK_COMM_VEINS03_010_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS03_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A red passage filled with red liquid. The fluids within are stagnant, so you can't pass through."
+  },
+  "W06_GIMK_COMM_VEINS04_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A blue passage filled with red liquid. It serves as a means to access the neighboring temple."
+  },
+  "W06_GIMK_COMM_VEINS04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Passage"
+  },
+  "W06_GIMK_COMM_VEINS05_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS05_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A blue passage filled with red liquid. It serves as a means to access the neighboring temple."
+  },
+  "W06_GIMK_COMM_VEINS05_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Passage"
+  },
+  "W06_GIMK_COMM_VEINS05_010_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS05_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A blue passage filled with red liquid. The fluids within are stagnant, so you can't pass through."
+  },
+  "W06_GIMK_COMM_VEINS06_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A blue passage filled with red liquid. It serves as a means to access the neighboring temple."
+  },
+  "W06_GIMK_COMM_VEINS06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Passage"
+  },
+  "W06_GIMK_COMM_VEINS07_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A blue passage filled with red liquid. It serves as a means to access the neighboring temple."
+  },
+  "W06_GIMK_COMM_VEINS07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Passage"
+  },
+  "W06_GIMK_COMM_VEINS07_010_TITLE": {
+    "speaker": "UI",
+    "text": "Sanguine Passage"
+  },
+  "W06_GIMK_COMM_VEINS07_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A blue passage filled with red liquid. The fluids within are stagnant, so you can't pass through."
+  },
+  "W06_GIMK_COMM_CANCER_LUNGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Canker's Root"
+  },
+  "W06_GIMK_COMM_CANCER_LUNGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A sinister object is rising out of the ground."
+  },
+  "W06_GIMK_COMM_CANCER_BRAIN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Canker's Root"
+  },
+  "W06_GIMK_COMM_CANCER_BRAIN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A sinister object is rising out of the ground."
+  },
+  "W06_GIMK_COMM_CANCER_HEART_000_TITLE": {
+    "speaker": "UI",
+    "text": "Canker's Root"
+  },
+  "W06_GIMK_COMM_CANCER_HEART_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A sinister object is rising out of the ground."
+  },
+  "W06_GIMK_COMM_CANCER_STOMACH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Canker's Root"
+  },
+  "W06_GIMK_COMM_CANCER_STOMACH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A sinister object is rising out of the ground."
+  },
+  "W06_EVAR_COMM_PERMANENT_BATTLE_STOMACH1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Pack of Malignancies"
+  },
+  "W06_EVAR_COMM_PERMANENT_BATTLE_STOMACH1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A pack of malignancies has gathered here."
+  },
+  "W06_EVAR_COMM_PERMANENT_BATTLE_STOMACH1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W06_EVAR_COMM_PERMANENT_BATTLE_BRAIN1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Pack of Malignancies"
+  },
+  "W06_EVAR_COMM_PERMANENT_BATTLE_BRAIN1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A pack of malignancies has gathered here."
+  },
+  "W06_EVAR_COMM_PERMANENT_BATTLE_BRAIN1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W06_EVAR_COMM_SCAN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Reaction"
+  },
+  "W06_EVAR_COMM_SCAN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You picked up something on your scan."
+  },
+  "W06_EVAR_COMM_FIRST_CONTACT_000_TITLE": {
+    "speaker": "UI",
+    "text": "First Contact"
+  },
+  "W06_EVAR_COMM_FIRST_CONTACT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone is at the location the scanner reacted to. You should investigate."
+  },
+  "W06_EVAR_COMM_FIRST_CONTACT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  },
+  "W06_EVAR_COMM_STOMACH_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Head for the Digestica with Byaku."
+  },
+  "W06_EVAR_COMM_STOMACH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_005_TITLE": {
+    "speaker": "UI",
+    "text": "Destroy the Fat"
+  },
+  "W06_EVAR_COMM_STOMACH_005_DETAIL": {
+    "speaker": "UI",
+    "text": "Before you can repair the Digestica, you must eliminate the fat in your way."
+  },
+  "W06_EVAR_COMM_STOMACH_005_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_010_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Now that the fat is gone, you can repair the Digestica."
+  },
+  "W06_EVAR_COMM_STOMACH_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_020_TITLE": {
+    "speaker": "UI",
+    "text": "Antibodies in the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_020_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need antibodies to defeat Canker. You can find some in the Digestica."
+  },
+  "W06_EVAR_COMM_STOMACH_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_030_TITLE": {
+    "speaker": "UI",
+    "text": "Abnormality in the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_030_DETAIL": {
+    "speaker": "UI",
+    "text": "All is not as it should be in the Digestica. Something bad must be happening there."
+  },
+  "W06_EVAR_COMM_STOMACH_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Digestica"
+  },
+  "W06_EVAR_COMM_LUNGS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Patrolling the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should visit the Respiquary and ensure everything is in order."
+  },
+  "W06_EVAR_COMM_LUNGS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_010_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_010_DETAIL": {
+    "speaker": "UI",
+    "text": "An abnormality has appeared in the Respiquary. You should repair it."
+  },
+  "W06_EVAR_COMM_LUNGS_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_020_TITLE": {
+    "speaker": "UI",
+    "text": "Antibodies in the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_020_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need antibodies to defeat Canker. You can find some in the Respiquary."
+  },
+  "W06_EVAR_COMM_LUNGS_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_030_TITLE": {
+    "speaker": "UI",
+    "text": "Abnormality in the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_030_DETAIL": {
+    "speaker": "UI",
+    "text": "All is not as it should be in the Respiquary. Something bad must be happening there."
+  },
+  "W06_EVAR_COMM_LUNGS_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Respiquary"
+  },
+  "W06_EVAR_COMM_BRAIN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Patrolling the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should visit the Cognitheon and ensure everything is in order."
+  },
+  "W06_EVAR_COMM_BRAIN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_005_TITLE": {
+    "speaker": "UI",
+    "text": "Connect the Circuit"
+  },
+  "W06_EVAR_COMM_BRAIN_005_DETAIL": {
+    "speaker": "UI",
+    "text": "Before you can repair the Cognitheon, you must connect the circuits that lead to it."
+  },
+  "W06_EVAR_COMM_BRAIN_005_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You connected the circuits. Now you can repair the Cognitheon."
+  },
+  "W06_EVAR_COMM_BRAIN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_020_TITLE": {
+    "speaker": "UI",
+    "text": "Antibodies in the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_020_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need antibodies to defeat Canker. You can find some in the Cognitheon."
+  },
+  "W06_EVAR_COMM_BRAIN_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_030_TITLE": {
+    "speaker": "UI",
+    "text": "Abnormality in the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_030_DETAIL": {
+    "speaker": "UI",
+    "text": "All is not as it should be in the Cognitheon. Something bad must be happening there."
+  },
+  "W06_EVAR_COMM_BRAIN_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Cognitheon"
+  },
+  "W06_EVAR_COMM_HEART_000_TITLE": {
+    "speaker": "UI",
+    "text": "Patrolling the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should visit the Circuleum and ensure everything is in order."
+  },
+  "W06_EVAR_COMM_HEART_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_005_TITLE": {
+    "speaker": "UI",
+    "text": "Ramming Time"
+  },
+  "W06_EVAR_COMM_HEART_005_DETAIL": {
+    "speaker": "UI",
+    "text": "If you want to repair the Circuleum, you must reactivate it. Try ramming into it and see if that does the trick."
+  },
+  "W06_EVAR_COMM_HEART_010_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Your charge attack worked. Now you can repair the Circuleum."
+  },
+  "W06_EVAR_COMM_HEART_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_020_TITLE": {
+    "speaker": "UI",
+    "text": "Antibodies in the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_020_DETAIL": {
+    "speaker": "UI",
+    "text": "You'll need antibodies to defeat Canker. You can find some in the Circuleum."
+  },
+  "W06_EVAR_COMM_HEART_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_030_TITLE": {
+    "speaker": "UI",
+    "text": "Abnormality in the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_030_DETAIL": {
+    "speaker": "UI",
+    "text": "All is not as it should be in the Circuleum. Something bad must be happening there."
+  },
+  "W06_EVAR_COMM_HEART_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_DASH_ATTACK_POS1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Ready to Ram!"
+  },
+  "W06_EVAR_COMM_HEART_DASH_ATTACK_POS1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should gently ram the Circuleum from a close distance."
+  },
+  "W06_EVAR_COMM_HEART_DASH_ATTACK_POS1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Charge from Here"
+  },
+  "W06_EVAR_COMM_HEART_DASH_ATTACK_POS2_000_TITLE": {
+    "speaker": "UI",
+    "text": "Ready to Ram!"
+  },
+  "W06_EVAR_COMM_HEART_DASH_ATTACK_POS2_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should forcefully ram the Circuleum from a fair distance away."
+  },
+  "W06_EVAR_COMM_HEART_DASH_ATTACK_POS2_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Charge from Here"
+  },
+  "W06_EVAR_COMM_HEART_DASH_ATTACK_POS3_000_TITLE": {
+    "speaker": "UI",
+    "text": "Ready to Ram!"
+  },
+  "W06_EVAR_COMM_HEART_DASH_ATTACK_POS3_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should smash into the Circuleum with all your might from a significant distance away!"
+  },
+  "W06_EVAR_COMM_HEART_DASH_ATTACK_POS3_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Charge from Here"
+  },
+  "W06_EVAR_COMM_THYMUS_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Cradle of All"
+  },
+  "W06_EVAR_COMM_THYMUS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Make your way to Thymus, the place where everything began."
+  },
+  "W06_EVAR_COMM_THYMUS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to Thymus"
+  },
+  "W06_EVAR_COMM_CANCER_LUNGS_010_TITLE": {
+    "speaker": "UI",
+    "text": "Eliminating the Root"
+  },
+  "W06_EVAR_COMM_CANCER_LUNGS_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Feed the antibodies you obtained from the Respiquary into Canker's root."
+  },
+  "W06_EVAR_COMM_CANCER_LUNGS_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Canker's Root"
+  },
+  "W06_EVAR_COMM_CANCER_LUNGS_020_TITLE": {
+    "speaker": "UI",
+    "text": "Eliminating the Last Root"
+  },
+  "W06_EVAR_COMM_CANCER_LUNGS_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Feed the antibodies you obtained from the Respiquary into Canker's root."
+  },
+  "W06_EVAR_COMM_CANCER_LUNGS_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Canker's Root"
+  },
+  "W06_EVAR_COMM_CANCER_BRAIN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Eliminating the Root"
+  },
+  "W06_EVAR_COMM_CANCER_BRAIN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Feed the antibodies you obtained from the Cognitheon into Canker's root."
+  },
+  "W06_EVAR_COMM_CANCER_BRAIN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Canker's Root"
+  },
+  "W06_EVAR_COMM_CANCER_BRAIN_020_TITLE": {
+    "speaker": "UI",
+    "text": "Eliminating the Last Root"
+  },
+  "W06_EVAR_COMM_CANCER_BRAIN_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Feed the antibodies you obtained from the Cognitheon into Canker's root."
+  },
+  "W06_EVAR_COMM_CANCER_BRAIN_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Canker's Root"
+  },
+  "W06_EVAR_COMM_CANCER_HEART_000_TITLE": {
+    "speaker": "UI",
+    "text": "Meet with Erytheia"
+  },
+  "W06_EVAR_COMM_CANCER_HEART_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A menacing mass has appeared here. You should go speak with Erytheia."
+  },
+  "W06_EVAR_COMM_CANCER_HEART_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Meet with Erytheia"
+  },
+  "W06_EVAR_COMM_CANCER_HEART_010_TITLE": {
+    "speaker": "UI",
+    "text": "Eliminating the Root"
+  },
+  "W06_EVAR_COMM_CANCER_HEART_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Feed the antibodies you obtained from the Circuleum into Canker's root."
+  },
+  "W06_EVAR_COMM_CANCER_HEART_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Canker's Root"
+  },
+  "W06_EVAR_COMM_CANCER_HEART_020_TITLE": {
+    "speaker": "UI",
+    "text": "Eliminating the Last Root"
+  },
+  "W06_EVAR_COMM_CANCER_HEART_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Feed the antibodies you obtained from the Circuleum into Canker's root."
+  },
+  "W06_EVAR_COMM_CANCER_HEART_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Canker's Root"
+  },
+  "W06_EVAR_COMM_CANCER_STOMACH_010_TITLE": {
+    "speaker": "UI",
+    "text": "Eliminating the Root"
+  },
+  "W06_EVAR_COMM_CANCER_STOMACH_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Feed the antibodies you obtained from the Digestica into Canker's root."
+  },
+  "W06_EVAR_COMM_CANCER_STOMACH_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Canker's Root"
+  },
+  "W06_EVAR_COMM_CANCER_STOMACH_020_TITLE": {
+    "speaker": "UI",
+    "text": "Eliminating the Last Root"
+  },
+  "W06_EVAR_COMM_CANCER_STOMACH_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Feed the antibodies you obtained from the Digestica into Canker's root."
+  },
+  "W06_EVAR_COMM_CANCER_STOMACH_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Canker's Root"
+  },
+  "W06_EVAR_COMM_VEINS07_000_TITLE": {
+    "speaker": "UI",
+    "text": "Beginning the Patrol"
+  },
+  "W06_EVAR_COMM_VEINS07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should begin your patrol here."
+  },
+  "W06_EVAR_COMM_VEINS07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Start Your Patrol "
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE0_000_TITLE": {
+    "speaker": "UI",
+    "text": "Circuit"
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE0_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Connect this circuit to the one next to it so the electrical flow can reach the Cognitheon."
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE0_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Connect the Circuits"
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE0_010_TITLE": {
+    "speaker": "UI",
+    "text": "Circuit"
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE0_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit has already been connected."
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_000_TITLE": {
+    "speaker": "UI",
+    "text": "Damp Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit is damp. Will electricity even flow through it?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Connect the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dry Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit is dry. Will electricity even flow through it?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Connect the Circuit"
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE1B_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dry Circuit"
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE1B_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit has already been connected."
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_000_TITLE": {
+    "speaker": "UI",
+    "text": "Rusty Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit is rusty. Will electricity even flow through it?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Connect the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_000_TITLE": {
+    "speaker": "UI",
+    "text": "Polished Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit is polished. Will electricity even flow through it?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Connect the Circuit"
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE2B_000_TITLE": {
+    "speaker": "UI",
+    "text": "Polished Circuit"
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE2B_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit has already been connected."
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_000_TITLE": {
+    "speaker": "UI",
+    "text": "Singed Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit smells singed. Will electricity even flow through it?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Connect the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_000_TITLE": {
+    "speaker": "UI",
+    "text": "Odorless Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit has no smell. Will electricity even flow through it?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Connect the Circuit"
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE3B_000_TITLE": {
+    "speaker": "UI",
+    "text": "Odorless Circuit"
+  },
+  "W06_DECO_COMM_NEURONHEALTHY_ALONE3B_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This circuit has already been connected."
+  },
+  "W06_EVAR_COMM_SCAN_100_TITLE": {
+    "speaker": "UI",
+    "text": "Reaction"
+  },
+  "W06_EVAR_COMM_SCAN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You picked up something on your scan."
+  },
+  "W06_EVAR_COMM_FIRST_CONTACT_100_TITLE": {
+    "speaker": "UI",
+    "text": "First Contact"
+  },
+  "W06_EVAR_COMM_FIRST_CONTACT_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone is at the location the scanner reacted to. You should investigate."
+  },
+  "W06_EVAR_COMM_FIRST_CONTACT_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  },
+  "W06_EVAR_COMM_STOMACH_100_TITLE": {
+    "speaker": "UI",
+    "text": "Patrolling the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Patrol the Digestica with Byaku."
+  },
+  "W06_EVAR_COMM_STOMACH_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_105_TITLE": {
+    "speaker": "UI",
+    "text": "Gathering Mucus"
+  },
+  "W06_EVAR_COMM_STOMACH_105_DETAIL": {
+    "speaker": "UI",
+    "text": "If you want to repair the Digestica, you'll need to gather mucus."
+  },
+  "W06_EVAR_COMM_STOMACH_105_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_110_DETAIL": {
+    "speaker": "UI",
+    "text": "You've gathered enough mucus. It's time to repair the Digestica."
+  },
+  "W06_EVAR_COMM_STOMACH_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_115_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Digestica"
+  },
+  "W06_EVAR_COMM_STOMACH_115_DETAIL": {
+    "speaker": "UI",
+    "text": "You've gathered enough mucus. It's time to repair the Digestica."
+  },
+  "W06_EVAR_COMM_STOMACH_115_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Digestica"
+  },
+  "W06_EVAR_COMM_HEART_100_TITLE": {
+    "speaker": "UI",
+    "text": "Patrolling the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Patrol the Circuleum with Byaku."
+  },
+  "W06_EVAR_COMM_HEART_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_105_TITLE": {
+    "speaker": "UI",
+    "text": "Destroy the Wall of Fat"
+  },
+  "W06_EVAR_COMM_HEART_105_DETAIL": {
+    "speaker": "UI",
+    "text": "If you want to repair the Circuleum, you must destroy the wall of fat around Thymus."
+  },
+  "W06_EVAR_COMM_HEART_105_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_110_DETAIL": {
+    "speaker": "UI",
+    "text": "You destroyed the wall of fat. Report back to the high priest, then repair the Circuleum."
+  },
+  "W06_EVAR_COMM_HEART_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_115_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuleum"
+  },
+  "W06_EVAR_COMM_HEART_115_DETAIL": {
+    "speaker": "UI",
+    "text": "You destroyed the wall of fat. Report back to the high priest, then repair the Circuleum."
+  },
+  "W06_EVAR_COMM_HEART_115_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuleum"
+  },
+  "W06_EVAR_COMM_LUNGS_100_TITLE": {
+    "speaker": "UI",
+    "text": "Patrolling the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Patrol the Respiquary with Byaku."
+  },
+  "W06_EVAR_COMM_LUNGS_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_105_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_EVAR_COMM_LUNGS_105_DETAIL": {
+    "speaker": "UI",
+    "text": "If you want to repair the Respiquary, you must eliminate all the malignancies in the alveoli."
+  },
+  "W06_EVAR_COMM_LUNGS_105_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_110_DETAIL": {
+    "speaker": "UI",
+    "text": "You defeated all the malignancies in the alveoli. You and Blan can now repair the Respiquary."
+  },
+  "W06_EVAR_COMM_LUNGS_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_115_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Respiquary"
+  },
+  "W06_EVAR_COMM_LUNGS_115_DETAIL": {
+    "speaker": "UI",
+    "text": "You defeated all the malignancies in the alveoli. You and Blan can now repair the Respiquary."
+  },
+  "W06_EVAR_COMM_LUNGS_115_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Respiquary"
+  },
+  "W06_EVAR_COMM_BRAIN_100_TITLE": {
+    "speaker": "UI",
+    "text": "Patrolling the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Patrol the Cognitheon with Byaku."
+  },
+  "W06_EVAR_COMM_BRAIN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_105_TITLE": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_EVAR_COMM_BRAIN_105_DETAIL": {
+    "speaker": "UI",
+    "text": "If you want to repair the Cognitheon, you must repair the circuits leading to it."
+  },
+  "W06_EVAR_COMM_BRAIN_105_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_110_DETAIL": {
+    "speaker": "UI",
+    "text": "You successfully reconnected the circuits. Report to Safed, then set about repairing the Cognitheon."
+  },
+  "W06_EVAR_COMM_BRAIN_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_115_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_115_DETAIL": {
+    "speaker": "UI",
+    "text": "You successfully reconnected the circuits. Report to Safed, then set about repairing the Cognitheon."
+  },
+  "W06_EVAR_COMM_BRAIN_115_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Cognitheon"
+  },
+  "W06_EVAR_COMM_THYMUS_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Cradle of All"
+  },
+  "W06_EVAR_COMM_THYMUS_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Make your way to Thymus, the place where everything began."
+  },
+  "W06_EVAR_COMM_THYMUS_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to Thymus"
+  },
+  "W06_EVAR_COMM_PARASITE_HEART_100_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Parasites"
+  },
+  "W06_EVAR_COMM_PARASITE_HEART_100_DETAIL": {
+    "speaker": "UI",
+    "text": "If you don't act, parasites will take over the Kosmos! Excise them at once."
+  },
+  "W06_EVAR_COMM_PARASITE_HEART_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasites"
+  },
+  "W06_EVAR_COMM_PARASITE_HEART_110_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Last Parasite"
+  },
+  "W06_EVAR_COMM_PARASITE_HEART_110_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to excise the final parasite."
+  },
+  "W06_EVAR_COMM_PARASITE_HEART_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_PARASITE_STOMACH_100_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Parasites"
+  },
+  "W06_EVAR_COMM_PARASITE_STOMACH_100_DETAIL": {
+    "speaker": "UI",
+    "text": "If you don't act, parasites will take over the Kosmos! Excise them at once."
+  },
+  "W06_EVAR_COMM_PARASITE_STOMACH_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasites"
+  },
+  "W06_EVAR_COMM_PARASITE_STOMACH_110_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Last Parasite"
+  },
+  "W06_EVAR_COMM_PARASITE_STOMACH_110_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to excise the final parasite."
+  },
+  "W06_EVAR_COMM_PARASITE_STOMACH_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_PARASITE_LUNGS_100_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Parasites"
+  },
+  "W06_EVAR_COMM_PARASITE_LUNGS_100_DETAIL": {
+    "speaker": "UI",
+    "text": "If you don't act, parasites will take over the Kosmos! Excise them at once."
+  },
+  "W06_EVAR_COMM_PARASITE_LUNGS_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasites"
+  },
+  "W06_EVAR_COMM_PARASITE_LUNGS_110_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Last Parasite"
+  },
+  "W06_EVAR_COMM_PARASITE_LUNGS_110_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to excise the final parasite."
+  },
+  "W06_EVAR_COMM_PARASITE_LUNGS_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_PARASITE_BRAIN_100_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Parasites"
+  },
+  "W06_EVAR_COMM_PARASITE_BRAIN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "If you don't act, parasites will take over the Kosmos! Excise them at once."
+  },
+  "W06_EVAR_COMM_PARASITE_BRAIN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasites"
+  },
+  "W06_EVAR_COMM_PARASITE_BRAIN_110_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Last Parasite"
+  },
+  "W06_EVAR_COMM_PARASITE_BRAIN_110_DETAIL": {
+    "speaker": "UI",
+    "text": "It's time to excise the final parasite."
+  },
+  "W06_EVAR_COMM_PARASITE_BRAIN_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_BRAIN_120_TITLE": {
+    "speaker": "UI",
+    "text": "Abnormality in the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_120_DETAIL": {
+    "speaker": "UI",
+    "text": "All is not as it should be in the Cognitheon. Something bad must be happening there."
+  },
+  "W06_EVAR_COMM_BRAIN_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Travel to the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_125_TITLE": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_EVAR_COMM_BRAIN_125_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair the circuit to prevent the parasite from taking over."
+  },
+  "W06_EVAR_COMM_BRAIN_125_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_130_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_BRAIN_130_DETAIL": {
+    "speaker": "UI",
+    "text": "You restored the flow of electricity to the Cognitheon and stopped the parasite from taking over. Time to excise it!"
+  },
+  "W06_EVAR_COMM_BRAIN_130_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_BRAIN_131_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_BRAIN_131_DETAIL": {
+    "speaker": "UI",
+    "text": "There's still no electricity flowing to the Cognitheon. You should go there and excise any parasites you find."
+  },
+  "W06_EVAR_COMM_BRAIN_131_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_BRAIN_135_TITLE": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_EVAR_COMM_BRAIN_135_DETAIL": {
+    "speaker": "UI",
+    "text": "You must repair the circuit to prevent the parasite from taking over."
+  },
+  "W06_EVAR_COMM_BRAIN_135_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Cognitheon"
+  },
+  "W06_EVAR_COMM_BRAIN_140_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_BRAIN_140_DETAIL": {
+    "speaker": "UI",
+    "text": "You restored the flow of electricity to the Cognitheon and stopped the parasite from taking over. Time to excise it!"
+  },
+  "W06_EVAR_COMM_BRAIN_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_BRAIN_141_TITLE": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_EVAR_COMM_BRAIN_141_DETAIL": {
+    "speaker": "UI",
+    "text": "There's still no electricity flowing to the Cognitheon. You should go there and excise any parasites you find."
+  },
+  "W06_EVAR_COMM_BRAIN_141_BUTTON": {
+    "speaker": "UI",
+    "text": "Excise the Parasite"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Harvesting Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Harvest mucus from the mucolisk."
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR03_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Harvest Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR03_010_TITLE": {
+    "speaker": "UI",
+    "text": "Harvesting Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR03_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Harvest mucus from the mucolisk."
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR03_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Harvest Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR06_000_TITLE": {
+    "speaker": "UI",
+    "text": "Harvesting Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Harvest mucus from the mucolisk."
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Harvest Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR06_010_TITLE": {
+    "speaker": "UI",
+    "text": "Harvesting Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR06_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Harvest mucus from the mucolisk."
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR06_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Harvest Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR08_000_TITLE": {
+    "speaker": "UI",
+    "text": "Harvesting Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR08_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Harvest mucus from the mucolisk."
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR08_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Harvest Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR08_010_TITLE": {
+    "speaker": "UI",
+    "text": "Harvesting Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR08_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Harvest mucus from the mucolisk."
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR08_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Harvest Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR11_000_TITLE": {
+    "speaker": "UI",
+    "text": "Harvesting Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR11_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Harvest mucus from the mucolisk."
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR11_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Harvest Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR11_010_TITLE": {
+    "speaker": "UI",
+    "text": "Harvesting Mucus"
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR11_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Harvest mucus from the mucolisk."
+  },
+  "W06_GIMK_COMM_DAMAGE_PILLAR11_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Harvest Mucus"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY00_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY00_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY00_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY02_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY03_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY04_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY00_010_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY00_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY00_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY01_010_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY01_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY01_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY02_010_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY02_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY02_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY03_010_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY03_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY03_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY04_010_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Malignancies"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY04_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there a malignancy within this alveoli?"
+  },
+  "W06_DECO_COMM_HIDE_ENEMY04_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Alveoli"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_130_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_130_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_130_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_150_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_150_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE0_150_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_100_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_130_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_130_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_130_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_150_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_150_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1A_150_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_100_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_130_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_130_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_130_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_150_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_150_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE1B_150_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_100_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_130_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_130_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_130_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_150_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_150_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2A_150_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_100_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_130_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_130_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_130_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_150_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_150_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE2B_150_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_100_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_130_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_130_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_130_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_150_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_150_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3A_150_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_100_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_110_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_130_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_130_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_130_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_150_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_150_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_ALONE3B_150_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS00_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS00_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS00_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS00_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS00_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS00_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS02_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS02_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS02_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS02_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS02_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS02_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS11_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS11_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS11_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS11_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS11_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS11_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS01_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS01_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS01_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS01_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS01_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS01_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS03_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS03_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS03_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS03_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS03_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS03_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS04_120_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS04_120_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS04_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS04_140_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Circuit"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS04_140_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps you should try repairing this circuit?"
+  },
+  "W06_DECO_COMM_NEURONSICK_POS04_140_BUTTON": {
+    "speaker": "UI",
+    "text": "Repair the Circuit"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "W18_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Capitol City: Seat of the Union"
+  },
+  "W18_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After walking through the door, you find yourself in a city. The vast number of people leads to a lot of informational noise, but that only increases the chances you'll find a lead on your heart."
+  },
+  "W18_EVAR_DIVA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Next World"
+  },
+  "W18_EVAR_DIVA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You weren't able to find your heart in Capitol City, and now find yourself wishing you had one as beautiful as Lita's."
+  },
+  "W18_EVAR_DIVA_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Down the Manhole"
+  }
+}

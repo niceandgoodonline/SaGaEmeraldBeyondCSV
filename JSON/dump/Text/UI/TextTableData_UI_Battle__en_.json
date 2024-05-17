@@ -1,0 +1,762 @@
+{
+  "UI_Battle_TurnText": {
+    "speaker": "UI",
+    "text": "TURN"
+  },
+  "UI_Battle_Footer01": {
+    "speaker": "UI",
+    "text": "Confirm"
+  },
+  "UI_Battle_Footer02": {
+    "speaker": "UI",
+    "text": "Engage!"
+  },
+  "UI_Battle_Footer03": {
+    "speaker": "UI",
+    "text": "Menu"
+  },
+  "UI_Battle_Footer04": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Battle_Footer05": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_Battle_Reserve01": {
+    "speaker": "UI",
+    "text": "Protect"
+  },
+  "UI_Battle_Reserve02": {
+    "speaker": "UI",
+    "text": "Interrupt"
+  },
+  "UI_Battle_Reserve03": {
+    "speaker": "UI",
+    "text": "Counterattack"
+  },
+  "UI_Battle_Reserve04": {
+    "speaker": "UI",
+    "text": "Pursuit"
+  },
+  "UI_Battle_Reserve05": {
+    "speaker": "UI",
+    "text": "Chain"
+  },
+  "UI_Battle_Reserve06": {
+    "speaker": "UI",
+    "text": "Parry"
+  },
+  "UI_Battle_WazaList_Paralyze_Message": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectParalysis>You have been paralyzed and cannot move."
+  },
+  "UI_Battle_WazaList_Stone_Message": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectStone>You have been petrified and cannot select techs."
+  },
+  "UI_Battle_WazaList_SkillNone_Message": {
+    "speaker": "UI",
+    "text": "You have no usable techs or spells."
+  },
+  "UI_Battle_WazaListBtn_SpellCancel": {
+    "speaker": "UI",
+    "text": "Stop Chanting"
+  },
+  "UI_Battle_ReleaseText": {
+    "speaker": "UI",
+    "text": "Unleash"
+  },
+  "UI_Battle_WazaList_GuardRate": {
+    "speaker": "UI",
+    "text": "(Block Chance) <arg 0>%"
+  },
+  "UI_Battle_WazaList_DodgeRate": {
+    "speaker": "UI",
+    "text": "(Evade Chance) <arg 0>%"
+  },
+  "UI_Battle_WazaList_WazaDetailOnOff": {
+    "speaker": "UI",
+    "text": "On / Off"
+  },
+  "UI_Battle_Reserve_Secret": {
+    "speaker": "UI",
+    "text": "???"
+  },
+  "UI_Battle_BP_Secret": {
+    "speaker": "UI",
+    "text": "?"
+  },
+  "UI_Battle_WazaListTab_Monster": {
+    "speaker": "UI",
+    "text": "Monster Techs"
+  },
+  "UI_Battle_WazaListTab_MechaMelee": {
+    "speaker": "UI",
+    "text": "Mech Melee Techs"
+  },
+  "UI_Battle_WazaListTab_MechaShoot": {
+    "speaker": "UI",
+    "text": "Mech Shooting Techs"
+  },
+  "UI_Battle_WazaListTab_MechaSupport": {
+    "speaker": "UI",
+    "text": "Mech Support Techs"
+  },
+  "UI_Battle_WazaListTab_MechaBody": {
+    "speaker": "UI",
+    "text": "Mech Frame Techs"
+  },
+  "UI_Battle_WazaListTab_Skill": {
+    "speaker": "UI",
+    "text": "Spells"
+  },
+  "UI_Battle_WazaListTab_Taijutsu": {
+    "speaker": "UI",
+    "text": "Martial Arts"
+  },
+  "UI_Battle_WazaListTab_InheritArts": {
+    "speaker": "UI",
+    "text": "Inherited Techs"
+  },
+  "UI_Battle_WazaListBtn_Power": {
+    "speaker": "UI",
+    "text": "Power: "
+  },
+  "UI_Battle_WazaListBtn_InterruptlName": {
+    "speaker": "UI",
+    "text": "Interrupt"
+  },
+  "UI_Battle_CharaHp": {
+    "speaker": "UI",
+    "text": "HP"
+  },
+  "UI_Battle_CharaLp": {
+    "speaker": "UI",
+    "text": "LP"
+  },
+  "UI_Battle_BPAlert": {
+    "speaker": "UI",
+    "text": "You haven't used all available BP!"
+  },
+  "UI_Battle_Damage02": {
+    "speaker": "UI",
+    "text": "Quell"
+  },
+  "UI_Battle_Damage04": {
+    "speaker": "UI",
+    "text": "Delay"
+  },
+  "UI_Battle_Damage05": {
+    "speaker": "UI",
+    "text": "Stun"
+  },
+  "UI_Battle_Damage06": {
+    "speaker": "UI",
+    "text": "Provoke"
+  },
+  "UI_Battle_Damage07": {
+    "speaker": "UI",
+    "text": "Area Delay"
+  },
+  "UI_Battle_Damage08": {
+    "speaker": "UI",
+    "text": "Distract"
+  },
+  "UI_Battle_Damage09": {
+    "speaker": "UI",
+    "text": "Death"
+  },
+  "UI_Battle_Damage10": {
+    "speaker": "UI",
+    "text": "Remove Enmity"
+  },
+  "UI_Battle_Damage11": {
+    "speaker": "UI",
+    "text": "Damage Up"
+  },
+  "UI_Battle_Damage12": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Mecha> Stun"
+  },
+  "UI_Battle_Damage13": {
+    "speaker": "UI",
+    "text": "Mech Repair"
+  },
+  "UI_Battle_Damage14": {
+    "speaker": "UI",
+    "text": "Hasten Chant"
+  },
+  "UI_Battle_Damage15": {
+    "speaker": "UI",
+    "text": "Stealth"
+  },
+  "UI_Battle_Damage16": {
+    "speaker": "UI",
+    "text": "Unblockable"
+  },
+  "UI_Battle_Damage17": {
+    "speaker": "UI",
+    "text": "Ignore Defense"
+  },
+  "UI_Battle_Damage18": {
+    "speaker": "UI",
+    "text": "Remove Special Effect"
+  },
+  "UI_Battle_Damage19": {
+    "speaker": "UI",
+    "text": "Recuperation"
+  },
+  "UI_Battle_Damage20": {
+    "speaker": "UI",
+    "text": "BP+<decimal 0 0>"
+  },
+  "UI_Battle_Damage21": {
+    "speaker": "UI",
+    "text": "BP-<decimal 0 0>"
+  },
+  "UI_BattleReserveAllyText": {
+    "speaker": "UI",
+    "text": "<arg 1> activated <color=#00B7EE><arg 0></color>'s <color=#00B7EE><arg 2></color>!"
+  },
+  "UI_BattleReserveEnemyText": {
+    "speaker": "UI",
+    "text": "<arg 1> activated <color=#FF0000><arg 0></color>'s <color=#FF0000><arg 2></color>!"
+  },
+  "UI_BattleParryAllyText": {
+    "speaker": "UI",
+    "text": "<color=#00B7EE><arg 0></color> <color=#00B7EE>protected</color> themselves!"
+  },
+  "UI_BattleParryEnemyText": {
+    "speaker": "UI",
+    "text": "<color=#FF0000><arg 0></color> <color=#FF0000>protected</color> themselves!"
+  },
+  "UI_BattleConfusionFollowAllyText": {
+    "speaker": "UI",
+    "text": "A confused <color=#00B7EE><arg 0></color> disrupted <arg 1>!"
+  },
+  "UI_BattleConfusionFollowEnemyText": {
+    "speaker": "UI",
+    "text": "A confused <color=#FF0000><arg 0></color> disrupted <arg 1>!"
+  },
+  "UI_Battle_CoopRate": {
+    "speaker": "UI",
+    "text": "Combo Rate"
+  },
+  "UI_Battle_BpUpDown": {
+    "speaker": "UI",
+    "text": "BP"
+  },
+  "UI_Battle_SupportAttack": {
+    "speaker": "UI",
+    "text": "Support Action!"
+  },
+  "UI_T_CoopRateBonus_UP": {
+    "speaker": "UI",
+    "text": "Additional Combo Bonus!"
+  },
+  "UI_T_CoopRateBonus_Defeat": {
+    "speaker": "UI",
+    "text": "Vanquish Bonus!"
+  },
+  "UI_T_CoopRateBonus_Capture": {
+    "speaker": "UI",
+    "text": "Captured!"
+  },
+  "UI_T_CoopRateBonus_Revenge": {
+    "speaker": "UI",
+    "text": "Vengeance Bonus!"
+  },
+  "UI_Battle_RankUp": {
+    "speaker": "UI",
+    "text": "Rank Up!"
+  },
+  "UI_Battle_DamagePop02": {
+    "speaker": "UI",
+    "text": "Evade"
+  },
+  "UI_Battle_DamagePop03": {
+    "speaker": "UI",
+    "text": "Block"
+  },
+  "UI_Battle_DamagePop05": {
+    "speaker": "UI",
+    "text": "Critical"
+  },
+  "UI_Battle_DamagePop_Invalid": {
+    "speaker": "UI",
+    "text": "Immune"
+  },
+  "UI_Battle_DamagePop01": {
+    "speaker": "UI",
+    "text": "Miss"
+  },
+  "UI_Battle_DmgPop_Lp": {
+    "speaker": "UI",
+    "text": "LP"
+  },
+  "UI_Battle_DamageBonus04": {
+    "speaker": "UI",
+    "text": "Combo: <decimal 0 0>"
+  },
+  "UI_BtlResult_Idea_BaseText": {
+    "speaker": "UI",
+    "text": "Reflecting on the battle, <arg 0>\ngleaned the concept of <emoji Item_Gainen><arg 1>!"
+  },
+  "UI_Battle_Result_GetItemTitle": {
+    "speaker": "UI",
+    "text": "Acquired Items"
+  },
+  "UI_Battle_Result_GetRewardTitle": {
+    "speaker": "UI",
+    "text": "Combat Rewards"
+  },
+  "UI_Battle_Result_CharaInfoSkill": {
+    "speaker": "UI",
+    "text": "Skills"
+  },
+  "UI_Battle_Result_CharaInfoStatus": {
+    "speaker": "UI",
+    "text": "Attributes"
+  },
+  "UI_Battle_Result_NewSpellLearning": {
+    "speaker": "UI",
+    "text": "Spells Learned"
+  },
+  "UI_Battle_Result_RoleSlotExpand": {
+    "speaker": "UI",
+    "text": "You can now equip more roles!"
+  },
+  "UI_Battle_Result_NewCmnRole": {
+    "speaker": "UI",
+    "text": "Roles Earned"
+  },
+  "UI_Battle_Result_TanmeiGeneration": {
+    "speaker": "UI",
+    "text": "Generational Transition"
+  },
+  "UI_Battle_Result_GrowUpTanmeiRole": {
+    "speaker": "UI",
+    "text": "Altered Roles"
+  },
+  "UI_Battle_Result_ForgetTanmeiSkill": {
+    "speaker": "UI",
+    "text": "Inherited Techs Forgotten"
+  },
+  "UI_Battle_Result_LearningTanmeiSkill": {
+    "speaker": "UI",
+    "text": "Inherited Techs Learned"
+  },
+  "UI_Battle_Dialog_GameOver": {
+    "speaker": "UI",
+    "text": "Game Over"
+  },
+  "UI_Battle_Dialog_GameOverText01": {
+    "speaker": "UI",
+    "text": "Your combat retinue was bested.\nAttempt this battle again?\n<color=#FF8686>Your initial combo rate increases when reattempting.</color>"
+  },
+  "UI_Battle_Dialog_Btn_BackToTitle": {
+    "speaker": "UI",
+    "text": "Return to Title Screen"
+  },
+  "UI_Battle_Dialog_GameOverText02": {
+    "speaker": "UI",
+    "text": "Your combat retinue was bested.\nReturning to the title screen."
+  },
+  "UI_Battle_Dialog_Btn_Ok": {
+    "speaker": "UI",
+    "text": "OK"
+  },
+  "UI_Battle_Dialog_MagicChantStop": {
+    "speaker": "UI",
+    "text": "Stop Chanting"
+  },
+  "UI_Battle_Dialog_MagicChantStopText": {
+    "speaker": "UI",
+    "text": "Stop chanting this spell?"
+  },
+  "UI_Battle_Dialog_Btn_MagicChantStop": {
+    "speaker": "UI",
+    "text": "Stop"
+  },
+  "UI_Battle_Dialog_Btn_Cancel": {
+    "speaker": "UI",
+    "text": "Cancel"
+  },
+  "UI_Battle_Dialog_RetryTitle": {
+    "speaker": "UI",
+    "text": "Reattempt"
+  },
+  "UI_Battle_Dialog_RetryText01": {
+    "speaker": "UI",
+    "text": "Take 1 LP from each surviving member of your\ncombat retinue and reattempt this battle?\n<color=#FF8686>Your initial combo rate increases when reattempting.</color>"
+  },
+  "UI_Battle_Dialog_RetryText02": {
+    "speaker": "UI",
+    "text": "No one in your retinue has any LP left,\nso you cannot reattempt this battle.\nReturn to the title screen?"
+  },
+  "UI_Battle_Menu_ToggleBtnText01": {
+    "speaker": "UI",
+    "text": "Combat Details"
+  },
+  "UI_Battle_Menu_ToggleBtnText02": {
+    "speaker": "UI",
+    "text": "Formations"
+  },
+  "UI_Battle_Menu_ToggleBtnText03": {
+    "speaker": "UI",
+    "text": "Icon List"
+  },
+  "UI_Battle_Dialog_Btn_Retry": {
+    "speaker": "UI",
+    "text": "Reattempt"
+  },
+  "UI_Battle_Dialog_Btn_Load": {
+    "speaker": "UI",
+    "text": "Load"
+  },
+  "UI_Battle_Dialog_Btn_Tips": {
+    "speaker": "UI",
+    "text": "Tips"
+  },
+  "UI_Battle_Dialog_Btn_Back": {
+    "speaker": "UI",
+    "text": "Back"
+  },
+  "UI_BattleCondition_Poison": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectPoison>Poisoned!"
+  },
+  "UI_BattleCondition_Surprise": {
+    "speaker": "UI",
+    "text": "Your surprise attack was successful!"
+  },
+  "UI_BattleCondition_HPWing": {
+    "speaker": "UI",
+    "text": "Reduce the enemy's HP to <arg 0>% or less!"
+  },
+  "UI_BattleCondition_TurnWin": {
+    "speaker": "UI",
+    "text": "<arg 0> turn(s) remaining"
+  },
+  "UI_BattleCondition_TurnLose": {
+    "speaker": "UI",
+    "text": "<arg 0> turn(s) remaining"
+  },
+  "UI_BattleCondition_TurnWinStart": {
+    "speaker": "UI",
+    "text": "Survive <arg 0> turn(s)!"
+  },
+  "UI_BattleCondition_TurnLoseStart": {
+    "speaker": "UI",
+    "text": "Claim victory within <arg 0> turn(s)!"
+  },
+  "UI_BattleCondition_Reinforce": {
+    "speaker": "UI",
+    "text": "Enemy reinforcements have arrived!"
+  },
+  "UI_BattleCondition_Revival": {
+    "speaker": "UI",
+    "text": "The enemy returned to life!"
+  },
+  "UI_BattleCondition_LineChange": {
+    "speaker": "UI",
+    "text": "The timeline has been disturbed!"
+  },
+  "UI_Battle_TurnNumber": {
+    "speaker": "UI",
+    "text": "<arg 0>"
+  },
+  "UI_Battle_BPNumber": {
+    "speaker": "UI",
+    "text": "x<decimal 0 0>"
+  },
+  "UI_Battle_Racetype_Enemy_Unknown": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Unknown>"
+  },
+  "UI_Battle_Racetype_Enemy_Beast": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Beast>"
+  },
+  "UI_Battle_Racetype_Enemy_Plant": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Plant>"
+  },
+  "UI_Battle_Racetype_Enemy_Reptiles": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Reptiles>"
+  },
+  "UI_Battle_Racetype_Enemy_Aquatic": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Aquatic>"
+  },
+  "UI_Battle_Racetype_Enemy_Material": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Material>"
+  },
+  "UI_Battle_Racetype_Enemy_Insect": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Insect>"
+  },
+  "UI_Battle_Racetype_Enemy_Winged": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Wings>"
+  },
+  "UI_Battle_Racetype_Enemy_Spirit": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Spirit>"
+  },
+  "UI_Battle_Racetype_Enemy_Asmodian": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Asmodian>"
+  },
+  "UI_Battle_Racetype_Enemy_Mecha": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Mecha>"
+  },
+  "UI_Battle_Racetype_Enemy_Human": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Human>"
+  },
+  "UI_Battle_Racetype_Enemy_Element": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Element>"
+  },
+  "UI_Battle_Racetype_Enemy_Blood": {
+    "speaker": "UI",
+    "text": "<emoji Enemy_Blood>"
+  },
+  "UI_Battle_SlayerUp": {
+    "speaker": "UI",
+    "text": "<emoji SlayerUp>"
+  },
+  "UI_T_WazaDetailOnOffBtnText": {
+    "speaker": "UI",
+    "text": "<button Bt_ArtsInfo>"
+  },
+  "UI_T_TimeLineDetailOnOffBtnText": {
+    "speaker": "UI",
+    "text": "<button Bt_KomaInfo>"
+  },
+  "UI_Battle_Enemy_Single_Sign01": {
+    "speaker": "UI",
+    "text": "A"
+  },
+  "UI_Battle_Enemy_Single_Sign02": {
+    "speaker": "UI",
+    "text": "B"
+  },
+  "UI_Battle_Enemy_Single_Sign03": {
+    "speaker": "UI",
+    "text": "C"
+  },
+  "UI_Battle_Enemy_Single_Sign04": {
+    "speaker": "UI",
+    "text": "D"
+  },
+  "UI_Battle_Enemy_Single_Sign05": {
+    "speaker": "UI",
+    "text": "E"
+  },
+  "UI_Battle_Enemy_Single_Sign06": {
+    "speaker": "UI",
+    "text": "F"
+  },
+  "UI_Battle_Enemy_Single_Sign07": {
+    "speaker": "UI",
+    "text": "G"
+  },
+  "UI_Battle_Enemy_Single_Sign08": {
+    "speaker": "UI",
+    "text": "H"
+  },
+  "UI_Battle_Enemy_Single_Sign09": {
+    "speaker": "UI",
+    "text": "I"
+  },
+  "UI_Battle_Enemy_Single_Sign10": {
+    "speaker": "UI",
+    "text": "J"
+  },
+  "UI_Battle_Enemy_Single_Sign11": {
+    "speaker": "UI",
+    "text": "K"
+  },
+  "UI_Battle_Enemy_Single_Sign12": {
+    "speaker": "UI",
+    "text": "L"
+  },
+  "UI_Battle_Enemy_Single_Sign13": {
+    "speaker": "UI",
+    "text": "M"
+  },
+  "UI_Battle_Enemy_Single_Sign14": {
+    "speaker": "UI",
+    "text": "N"
+  },
+  "UI_Battle_Enemy_Single_Sign15": {
+    "speaker": "UI",
+    "text": "O"
+  },
+  "UI_Battle_Enemy_Single_Sign16": {
+    "speaker": "UI",
+    "text": "P"
+  },
+  "UI_Battle_Enemy_Single_Sign17": {
+    "speaker": "UI",
+    "text": "Q"
+  },
+  "UI_Battle_Enemy_Single_Sign18": {
+    "speaker": "UI",
+    "text": "R"
+  },
+  "UI_Battle_Enemy_Single_Sign19": {
+    "speaker": "UI",
+    "text": "S"
+  },
+  "UI_Battle_Enemy_Single_Sign20": {
+    "speaker": "UI",
+    "text": "T"
+  },
+  "UI_Battle_Enemy_Single_Sign21": {
+    "speaker": "UI",
+    "text": "U"
+  },
+  "UI_Battle_Enemy_Single_Sign22": {
+    "speaker": "UI",
+    "text": "V"
+  },
+  "UI_Battle_Enemy_Single_Sign23": {
+    "speaker": "UI",
+    "text": "W"
+  },
+  "UI_Battle_Enemy_Single_Sign24": {
+    "speaker": "UI",
+    "text": "X"
+  },
+  "UI_Battle_Enemy_Single_Sign25": {
+    "speaker": "UI",
+    "text": "Y"
+  },
+  "UI_Battle_Enemy_Single_Sign26": {
+    "speaker": "UI",
+    "text": "Z"
+  },
+  "UI_Battle_Enemy_Suffix_Sign01": {
+    "speaker": "UI",
+    "text": " A"
+  },
+  "UI_Battle_Enemy_Suffix_Sign02": {
+    "speaker": "UI",
+    "text": " B"
+  },
+  "UI_Battle_Enemy_Suffix_Sign03": {
+    "speaker": "UI",
+    "text": " C"
+  },
+  "UI_Battle_Enemy_Suffix_Sign04": {
+    "speaker": "UI",
+    "text": " D"
+  },
+  "UI_Battle_Enemy_Suffix_Sign05": {
+    "speaker": "UI",
+    "text": " E"
+  },
+  "UI_Battle_Enemy_Suffix_Sign06": {
+    "speaker": "UI",
+    "text": " F"
+  },
+  "UI_Battle_Enemy_Suffix_Sign07": {
+    "speaker": "UI",
+    "text": " G"
+  },
+  "UI_Battle_Enemy_Suffix_Sign08": {
+    "speaker": "UI",
+    "text": " H"
+  },
+  "UI_Battle_Enemy_Suffix_Sign09": {
+    "speaker": "UI",
+    "text": " I"
+  },
+  "UI_Battle_Enemy_Suffix_Sign10": {
+    "speaker": "UI",
+    "text": " J"
+  },
+  "UI_Battle_Enemy_Suffix_Sign11": {
+    "speaker": "UI",
+    "text": " K"
+  },
+  "UI_Battle_Enemy_Suffix_Sign12": {
+    "speaker": "UI",
+    "text": " L"
+  },
+  "UI_Battle_Enemy_Suffix_Sign13": {
+    "speaker": "UI",
+    "text": " M"
+  },
+  "UI_Battle_Enemy_Suffix_Sign14": {
+    "speaker": "UI",
+    "text": " N"
+  },
+  "UI_Battle_Enemy_Suffix_Sign15": {
+    "speaker": "UI",
+    "text": " O"
+  },
+  "UI_Battle_Enemy_Suffix_Sign16": {
+    "speaker": "UI",
+    "text": " P"
+  },
+  "UI_Battle_Enemy_Suffix_Sign17": {
+    "speaker": "UI",
+    "text": " Q"
+  },
+  "UI_Battle_Enemy_Suffix_Sign18": {
+    "speaker": "UI",
+    "text": " R"
+  },
+  "UI_Battle_Enemy_Suffix_Sign19": {
+    "speaker": "UI",
+    "text": " S"
+  },
+  "UI_Battle_Enemy_Suffix_Sign20": {
+    "speaker": "UI",
+    "text": " T"
+  },
+  "UI_Battle_Enemy_Suffix_Sign21": {
+    "speaker": "UI",
+    "text": " U"
+  },
+  "UI_Battle_Enemy_Suffix_Sign22": {
+    "speaker": "UI",
+    "text": " V"
+  },
+  "UI_Battle_Enemy_Suffix_Sign23": {
+    "speaker": "UI",
+    "text": " W"
+  },
+  "UI_Battle_Enemy_Suffix_Sign24": {
+    "speaker": "UI",
+    "text": " X"
+  },
+  "UI_Battle_Enemy_Suffix_Sign25": {
+    "speaker": "UI",
+    "text": " Y"
+  },
+  "UI_Battle_Enemy_Suffix_Sign26": {
+    "speaker": "UI",
+    "text": " Z"
+  },
+  "UI_BattleEvent_BaseText": {
+    "speaker": "UI",
+    "text": "<arg 0>: '<arg 1>'"
+  },
+  "UI_BattleEvent_BaseTextNoName": {
+    "speaker": "UI",
+    "text": "'<arg 0>'"
+  },
+  "UI_Battle_WazaList_ParalyzeMecha_Message": {
+    "speaker": "UI",
+    "text": "Unable to move due to <emoji BtlEffectParalysisMech>mech paralysis."
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "SUB_W17_WRLD_SIUG_INITIAL_000_CUT_000_000": {
+    "speaker": "King_Din",
+    "text": "Be welcome in Brighthome, the shining homeland!\nAnd thus does yet another fallen hero plunge\nhimself into the sacred battle as a citizen of our\nmost fair territory!"
+  },
+  "SUB_W17_WRLD_SIUG_INITIAL_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am a vampire, and immortal. In no way\ncan I be considered a 'fallen hero.'"
+  },
+  "SUB_W17_WRLD_SIUG_INITIAL_000_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Isn't that interesting! Ah, but your \narrival here in Brighthome means but\none thing: you are indeed dead."
+  },
+  "SUB_W17_WRLD_SIUG_INITIAL_000_CUT_000_030": {
+    "speaker": "King_Din",
+    "text": "Henceforth, you shall\nbe known as Count."
+  },
+  "SUB_W17_WRLD_SIUG_INITIAL_000_CUT_000_040": {
+    "speaker": "King_Din",
+    "text": "And in my estimation, Count, you are a match\nfor one of our more peculiar warrior bands.\nAs such, you are hereby assigned to the\ngroup known as the Generals."
+  },
+  "SUB_W17_WRLD_SIUG_INITIAL_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Me? Dead? The lunacy of it all."
+  },
+  "SUB_W17_WRLD_SIUG_INITIAL_100_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Me? A fallen hero?\nI cannot imagine."
+  },
+  "SUB_W17_SCAN_SIUG_INITIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What is this Emerald Wave flowing forth?\nHas a new power arisen within me?"
+  },
+  "SUB_W17_SCAN_SIUG_INITIAL_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Heh. Intriguing."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It seems this is where the\nGenerals make their home."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_010": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Oh ho! If it isn't our newest recruit!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are with the Generals?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_030": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Indeed! My name is Philosopher,\nand you are... Hmm... Let me think..."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am the Dismal King, vampire lord."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_050": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Ah, yes! You're Count. I assume this new\nmoniker is because there's a vampire in\nanother world who bears that title, mmm?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_060": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Now then, introductions! We'll start with me.\nAs I said, I'm called Philosopher—and although\nI don't remember being one, I DO possess quite\nthe knack for analysis!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_070": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "This is Champion, a stoic man demanding of\nboth himself and others. Perhaps a little TOO\ndemanding, if I may be so bold, because the\nrest of us tend to give him a wide berth."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_080": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Ho there, Champion! Say hello\nto our newest member, Count."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am no count; I am the Dismal King."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_100": {
+    "speaker": "Champion_Einherjar",
+    "text": "Everybody gets a new name from the king—just\none'a the rules. Speakin' of, make sure you follow\n'em and fight like a demon, 'cause that's what it\nmeans to be a true warrior."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_110": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "This is Warrior, protector of the weak and a\nhero true. Though he looks something of a lark,\nyou'll never see even a trace of laughter in\nthose steely eyes! Methinks he's hiding it."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_120": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Ho, Irmran! Perhaps you would share one\nof your poems for our newest member?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_130": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "My name is Warrior,\nbut my stanzas are gorier,\nand I rhyme all the time,\nso don't tell me it's a crime!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_140": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am no warrior;\nI am the Dismal King."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_150": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "This fine specimen here is Lifetaker.\nI've no idea if the man kills for money,\nprinciple, or the sheer pleasure of it,\nbut a truly dangerous sort is he."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_160": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Ho, Lifetaker! This is Count."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_170": {
+    "speaker": "Killer_Einherjar",
+    "text": "You're no mere man."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_180": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am not. I am a vampire."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_190": {
+    "speaker": "Killer_Einherjar",
+    "text": "Your head will be mine."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_200": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "This is Hero, our leader. He's a righteous and\ncompassionate sort—a real good egg! That said,\nhe refuses to acknowledge King Din as his lord.\nSomething about not serving two masters?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_210": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Ho, Yunchang! This is our\nnewest member, Count."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_220": {
+    "speaker": "Brave_Einherjar",
+    "text": "Mmm. This is the first time we've had someone\nnew join our warrior band. I don't know what\nKing Din's plotting here, but just do as we\ntell you and we won't have any trouble."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_230": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You people cannot stop bleating about this\n'warrior band,' but I haven't a clue as to\nwhat it means. Who even is your enemy?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_240": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "No need to be hasty there, Count!\nWe'll get to it after introductions."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_250": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "And finally, we have our battlefield tactician, General.\nDon't let his appearance fool you: he has a brilliant military\nmind, which can be rough on us when he decides to use\nthe full scope of our capabilities in battle."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_260": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Ho, General! I've brought our\nnewest reinforcement, Count."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_270": {
+    "speaker": "General_Einherjar",
+    "text": "The stats King Din sent regarding this man are\nnaught but idle hopes. Even supposing he IS a\nvampire, I'd be a fool thrice over to put faith\nin such stats when drawing up my battle plans!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_280": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Thus do I put to you the question anew:\nWho or what does this warrior band\nof yours seek to do battle with?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_290": {
+    "speaker": "General_Einherjar",
+    "text": "Explain it to him, Philosopher."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_300": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Brighthome is under constant assault from\nthe forces of Chaos. As none of the living\ncan stand against them, King Din has chosen\nto summon fallen heroes to fight for him."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_310": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "These legions of the fallen managed to hold\nback the incursions of Chaos, and we now seek\nto drive them from this world for good and all."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_320": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This makes it sound as if\nyour war is nigh over."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_330": {
+    "speaker": "General_Einherjar",
+    "text": "It is NOT!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_340": {
+    "speaker": "General_Einherjar",
+    "text": "Though my plans are perfect and our execution\nwithout flaw, we still face the likelihood of other\nbands losing their own battles—and if the king's\nforces crumble, victory will as well!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_000_350": {
+    "speaker": "General_Einherjar",
+    "text": "I will be devising an entirely new strategy to\nthose that have come before now that I have\na new asset to work with. Steady on, Generals!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_000": {
+    "speaker": "General_Einherjar",
+    "text": "All right, Generals! Ears on and eyes front!\nTo this point, we've employed a frontal\napproach and made gradual advances on\nthe enemy as King Din requested."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_010": {
+    "speaker": "General_Einherjar",
+    "text": "But isolated victories are meaningless for\nour purpose, which is to conquer Chaos and\nbring peace to this land. So this operation\nwill be the one that decides the victor!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_020": {
+    "speaker": "General_Einherjar",
+    "text": "Step one of the plan: The Generals\nadvance and secure the ruins."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_030": {
+    "speaker": "General_Einherjar",
+    "text": "Step two: We leave the defense of that\nposition to another warrior band and\nmove to our next target—the temple."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_040": {
+    "speaker": "General_Einherjar",
+    "text": "We'll avoid the enemy stronghold as we cut a\nroundabout path. Their attention will be on the\nruins, so they won't expect us at the temple—\nwhich we'll take in one fell stroke!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_050": {
+    "speaker": "General_Einherjar",
+    "text": "Step three: Once the temple is in our\nhands, we move to the Cleft of Chaos,\nseal it up, and end this damnable war\nfor good! Questions?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_060": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "I worry that taking the temple in 'one fell\nstroke' is not so simple a matter, General—\nand that is not to mention that it lies on\nthe very doorstep of the Cleft of Chaos."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_070": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "One fell stroke? More like one swell joke!\nThis here plan makes folk choke and croak!\nYou say it'll be easy? Maybe even breezy?\nThis whole thing makes me queasy and uneasy!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_080": {
+    "speaker": "Champion_Einherjar",
+    "text": "If General says the plan's solid, it's solid.\nBut while I ain't worried about our end,\nI AM worried about whatever mopes we're\ngonna turn the defense of the ruins over to."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_090": {
+    "speaker": "General_Einherjar",
+    "text": "Worry not. The Guvs will defend the ruins,\nand they're not the sort to crack under\npressure and abandon their posts."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_100": {
+    "speaker": "Brave_Einherjar",
+    "text": "Then all that's left is to execute the plan. I don't want to\nsee any of you lot cutting corners! Now then, Count.\nYou may be the greenhorn here, but you're still playing\na significant role in the battle to come—and I expect\nyou to get out there and give it your all!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You direct this comment to one such as I?\nIt seems I shall have to demonstrate the\nfull scope of the Dismal King's might."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_000_CUT_010_120": {
+    "speaker": "General_Einherjar",
+    "text": "Good enough then, Generals.\nLet's go to work."
+  },
+  "SUB_W17_EVAR_SIUG_RUIN_000_CUT_000_000": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "As you might guess by their allegiances,\nthe fiends of Chaos are rather disordered,\nwhich means they're not great at defending\na position. This is what we're counting on."
+  },
+  "SUB_W17_EVAR_SIUG_RUIN_000_CUT_000_010": {
+    "speaker": "Brave_Einherjar",
+    "text": "The whole operation will fall apart if we\nkeep dawdling, so let's get out there and\nshow 'em the power of the Generals!"
+  },
+  "SUB_W17_EVAR_SIUG_RUIN_000_CUT_010_000": {
+    "speaker": "Guv",
+    "text": "Hard to believe we're this close to the Cleft\nand you Generals still swept up the enemy!\nWorry not, we'll hold the defenses until\nyou take the temple and seal the Cleft."
+  },
+  "SUB_W17_EVAR_SIUG_RUIN_000_CUT_010_010": {
+    "speaker": "Brave_Einherjar",
+    "text": "Thanks, Guv. And don't worry—\nwe'll have the temple in no time."
+  },
+  "SUB_W17_EVAR_SIUG_RUIN_000_CUT_010_020": {
+    "speaker": "Gov",
+    "text": "Hm? I don't recognize you, stranger.\nAre you new here to Brighthome?"
+  },
+  "SUB_W17_EVAR_SIUG_RUIN_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am the Dismal King. And while technically\na newcomer here, the insult of your words\nis plain to all and chafes me greatly."
+  },
+  "SUB_W17_EVAR_SIUG_RUIN_000_CUT_010_040": {
+    "speaker": "Guv",
+    "text": "I certainly did not mean to chafe the Dismal King!\n...Pffft! Bwaaaa ha ha ha ha! The Dismal King!\nWhat madness! Tell me, O King, what name did\nour true king, Din, see fit to bestow upon you?"
+  },
+  "SUB_W17_EVAR_SIUG_RUIN_000_CUT_010_050": {
+    "speaker": "Brave_Einherjar",
+    "text": "He's Count."
+  },
+  "SUB_W17_EVAR_SIUG_RUIN_000_CUT_010_060": {
+    "speaker": "Guv",
+    "text": "Count, is it? In that case, I shall be\nCOUNTING on you to do fine work\nout there! Bwaaa ha ha ha!"
+  },
+  "SUB_W17_EVAR_SIUG_TEMPLE_000_CUT_000_000": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "I don't care for the vibe Chaos is giving\noff at this place; I fear it will prove a\nrather tough nut to crack."
+  },
+  "SUB_W17_EVAR_SIUG_TEMPLE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Whatever form they take, the fiends\nof Chaos are unworthy of our fear."
+  },
+  "SUB_W17_EVAR_SIUG_TEMPLE_000_CUT_000_020": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Oh, how I envy such baseless confidence!\nYou being here has clearly had an influence\non General, what with this reckless plan\nhe's cooked up for us."
+  },
+  "SUB_W17_EVAR_SIUG_TEMPLE_000_CUT_000_030": {
+    "speaker": "Brave_Einherjar",
+    "text": "Enough chatter! Let's take the temple quickly;\nGuv might've been laughing, but those were the\neyes of a man prepared to die, and I don't want\nany of you lot to let his days end here."
+  },
+  "SUB_W17_EVAR_SIUG_TEMPLE_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The Dismal King disappoints no one."
+  },
+  "SUB_W17_EVAR_SIUG_TEMPLE_000_CUT_010_000": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "That's the end, my friend,\n'cause we win yet again."
+  },
+  "SUB_W17_EVAR_SIUG_TEMPLE_000_CUT_010_010": {
+    "speaker": "Killer_Einherjar",
+    "text": "......"
+  },
+  "SUB_W17_EVAR_SIUG_TEMPLE_000_CUT_010_020": {
+    "speaker": "General_Einherjar",
+    "text": "Well done, Generals.\nThe plan proceeds apace."
+  },
+  "SUB_W17_EVAR_SIUG_TEMPLE_000_CUT_010_030": {
+    "speaker": "General_Einherjar",
+    "text": "Now onward to the Cleft of Chaos!"
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_000_000": {
+    "speaker": "Brave_Einherjar",
+    "text": "This is the final battle.\nKnuckle up, Generals!"
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_000_010": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Bad news! The Guvs have\nwithdrawn from the ruins!"
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_000_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "Gutless, the whole lot of 'em!"
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_000_030": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Not a matter of courage. Guv held fast,\nbut King Din ordered them to withdraw."
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_000_040": {
+    "speaker": "Brave_Einherjar",
+    "text": "What!? Why!?"
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_000_050": {
+    "speaker": "General_Einherjar",
+    "text": "We'll never seal up the Cleft of Chaos\nwith only a single base of operations.\nReady yourselves, all! We're falling back!"
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_000_060": {
+    "speaker": "Brave_Einherjar",
+    "text": "We'll have to fight our way back.\nThis won't be easy."
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_010_000": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "We're calling a retreat when\nwe've got our foes beat?\nI don't dispense what's dense,\nbut this makes no sense!"
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A successful escape can also\nbe its own sort of victory."
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_020_000": {
+    "speaker": "Champion_Einherjar",
+    "text": "Times like these are when the true value of\na warrior is called into question. So long as\nyour spirit is true, ya can give it your all no\nmatter what situation ya find yourself in!"
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And you claim to have so\ntrue a spirit, Champion?"
+  },
+  "SUB_W17_EVAR_SIUG_HOLE_000_CUT_020_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "Sure do! Not that it's the kinda thing\nyou go showin' off to others."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_000": {
+    "speaker": "Guv",
+    "text": "I swore my band would hold our ground,\nking's order or no—and I now swear anew\nto make amends for my shameful actions."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_010": {
+    "speaker": "General_Einherjar",
+    "text": "You've done nothing save follow the orders\nthat were given you. So hold your head high,\nfor we'll be counting on you in the future\nwhen we work together once more."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What was that?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_030": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "General. Such is his ritual\nwhen a plan goes sideways."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_040": {
+    "speaker": "Champion_Einherjar",
+    "text": "Sorta his way to mentally reset.\nHe'll be back to normal soon."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "For what possible reason could\nKing Din have ordered a withdrawal?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_060": {
+    "speaker": "Brave_Einherjar",
+    "text": "He claimed he didn't want to lose more\nvaluable warriors, but I'm unconvinced."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_070": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "I fear General's ritual is going\nto take longer than usual today."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, there. I think he's done."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_090": {
+    "speaker": "General_Einherjar",
+    "text": "It all makes sense now! King Din\ndoesn't seek victory—he wants\nthis war to go on forever!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_100": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Sadly, I came to the same conclusion myself.\nIt's not King Din himself, per se, but more\njust the sort of world Brighthome is."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_110": {
+    "speaker": "Brave_Einherjar",
+    "text": "And why didn't you SAY anything\nabout this conclusion, Philosopher!?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_120": {
+    "speaker": "General_Einherjar",
+    "text": "Because it would have done naught but harm morale.\nWe've no way out of this, after all, so it's more\nconstructive to throw ourselves in battle each day\nbelieving that victory will come."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_130": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I see a way out."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_140": {
+    "speaker": "Champion_Einherjar",
+    "text": "What, killing King Din? If Philosopher\nis right about this place, lopping off\nthe king's head would be meaningless."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_150": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It wouldn't be worth the exertion to slay a\nself-proclaimed hegemon like him. No, if the\nway of this world is one of eternal conflict,\nyou have but to leave it. Nothing more."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_160": {
+    "speaker": "Brave_Einherjar",
+    "text": "Leave Brighthome? Lunacy!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_170": {
+    "speaker": "Champion_Einherjar",
+    "text": "We came here 'cause we died.\nTellin' us to leave is basically\ntellin' us to die for good!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_180": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "All is unknown; we know not what might happen \nif we abandon this world, where we might go,\nor even how we would leave in the first place.\nWe know nothing."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_190": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "That idea's really fraught.\nMakes more sense than it ought.\nAnd it's running through our minds,\nbut we're pretending that it's not!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_200": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what of you, Warrior?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_210": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Why was I brought here? It's not really clear.\nWas it to make amends? Make friends? Depends.\nIf you're asking me, I don't see the point.\nSo if you wanna go, I say we blow this joint!\n"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_220": {
+    "speaker": "Killer_Einherjar",
+    "text": "You have shown your true colors, unhuman one.\nYou create unease in people and then beckon\nthem unto sin. That is what you are."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_230": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You've no unease, Lifetaker?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_240": {
+    "speaker": "Killer_Einherjar",
+    "text": "I gave up such things long ago.\nAll that remains is to find an\nopening where I can kill you."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_250": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I wish you luck in that."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_260": {
+    "speaker": "General_Einherjar",
+    "text": "Can you really do it, Count?\nLeave Brighthome, I mean."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_010_CUT_000_270": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I'll know once I go\nto King Din's castle."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_000": {
+    "speaker": "King_Din",
+    "text": "I don't recall summoning you, Count.\nWhat is the meaning of this!?"
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have no business with you. Begone."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_020": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "This is the room where I awakened."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There's no question that the wave\nguiding me leads through this door."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It seems I came to this\nworld only to meet you."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "But now, each of you must determine for\nhimself whether or not to step over the\nthreshold and witness what lies beyond."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_060": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "This place is a bore! Snore! A chore!\nSo take me somewhere fun,\n'cause I'm ready to be done."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_070": {
+    "speaker": "General_Einherjar",
+    "text": "Perhaps I'll set off in search of\nthe perfect victory I seek."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_080": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "The inquisitive spirit toward the unknown\nwhich sleeps within me has been awakened!\n...Or at least that's what it feels like."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_090": {
+    "speaker": "Champion_Einherjar",
+    "text": "So the true challenge lies ahead?\nGuess I still got a ways to go."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_100": {
+    "speaker": "Killer_Einherjar",
+    "text": "I will kill you, unhuman one."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_000_CUT_000_110": {
+    "speaker": "Brave_Einherjar",
+    "text": "I'm Hero! I'm Hero! I'm Hero!\nAnd I'm gonna take that step!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It seems this is where the\nGenerals make their home."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_000_010": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Oh ho! If it isn't our newest recruit!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_010": {
+    "speaker": "General_Einherjar",
+    "text": "No matter how many times we fight,\nwe haven't been able to secure victory.\nHas there been a flaw in my strategies?\nIs our warrior band not strong enough?"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_020": {
+    "speaker": "General_Einherjar",
+    "text": "No! It's because of our commander, King Din!\nHe has no desire to win the war, which means\nvictory will forever slip through our grasp!"
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_030": {
+    "speaker": "General_Einherjar",
+    "text": "And that's why we're time going to\nuse a different strategy this time."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_040": {
+    "speaker": "General_Einherjar",
+    "text": "King Din himself will lead our main\nforce and assault the fortress."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_050": {
+    "speaker": "General_Einherjar",
+    "text": "At the same time, the Generals\nwill make for his castle."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_060": {
+    "speaker": "General_Einherjar",
+    "text": "Once there, we will withdraw entirely from the\nwar here in Brighthome, for there is no meaning\nin continuing to fight on a battlefield where we\ncan never achieve victory."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I'm to leave this world so shortly\nafter arriving? A shame; I'd hoped\nto do a little sightseeing first."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_080": {
+    "speaker": "Champion_Einherjar",
+    "text": "General thinks withdrawing from battle is\nour best option, and our job is to follow\nhis orders to the end."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_090": {
+    "speaker": "Brave_Einherjar",
+    "text": "I remain unconvinced by this strategy.\nThis is the first time something like\nthis has happened, and I..."
+  },
+  "SUB_W17_EVAR_SIUG_EINHERJAR_100_CUT_010_100": {
+    "speaker": "Killer_Einherjar",
+    "text": "Don't worry. I won't allow\nKing Din's soldiers to interfere."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_100_CUT_000_000": {
+    "speaker": "General_Einherjar",
+    "text": "This room is where it started for\neach of us—which means this room\nis where we can end it."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_100_CUT_000_010": {
+    "speaker": "General_Einherjar",
+    "text": "I'm heading off on a journey\nto a battlefield where I can\nachieve a perfect victory!"
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_100_CUT_000_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "If I wanna grow more,\nI need a new fight."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_100_CUT_000_030": {
+    "speaker": "Killer_Einherjar",
+    "text": "It doesn't matter where I go,\nbecause I'll always have fresh meat."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_100_CUT_000_040": {
+    "speaker": "Brave_Einherjar",
+    "text": "Is this the end of my heroic dream?"
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_100_CUT_000_050": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "I can't say I hated the endless\nbattle in Brighthome, but still."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_100_CUT_000_060": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Will I ever atone? Unknown."
+  },
+  "SUB_W17_EVAR_SIUG_CASTLE_100_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I feel as if I'm caught up in a current,\nand I care not for it."
+  }
+}

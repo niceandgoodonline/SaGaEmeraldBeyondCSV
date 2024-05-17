@@ -1,0 +1,1014 @@
+{
+    "DEFENSE_PARAM": {
+        "param": [
+            "70", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "SKILL_LEVEL_BONUS_A": {
+        "param": [
+            "0", 
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "SKILL_LEVEL_BONUS_B": {
+        "param": [
+            "2", 
+            "5", 
+            "5", 
+            "5", 
+            "5", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "MARTIAL_DODGE_RATE": {
+        "param": [
+            "20", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "MARTIAL_GUARD_REDUCTION": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "DODGE_IN_AIR_BONUS": {
+        "param": [
+            "50", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "EAT_HP": {
+        "param": [
+            "50", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "RAGE_DAMAGE_BONUS": {
+        "param": [
+            "20", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "BATTLE_SCENE_DIFFICULTY_DEFINE": {
+        "param": [
+            "350", 
+            "600", 
+            "1200", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "BATTLE_LIMIT_RANK_OFFSET": {
+        "param": [
+            "10", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "SEASON_INTERVAL": {
+        "param": [
+            "2", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "LIMIT_ELEMENT": {
+        "param": [
+            "40", 
+            "-20", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "START_EFFECT_ATK_DOWN": {
+        "param": [
+            "-30", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "START_EFFECT_DEF_DOWN": {
+        "param": [
+            "-30", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "START_EFFECT_SPD_DOWN": {
+        "param": [
+            "-24", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "SUMMON_FROG_ENEMY": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "E_M0400_A"
+    }, 
+    "SUMMON_DEMON_ENEMY": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "E_M1010_A"
+    }, 
+    "SUMMON_ELEMENTAL_ENEMY": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "E_M0900_A"
+    }, 
+    "SUMMON_FAIRY_ENEMY": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "E_M0120_A"
+    }, 
+    "SUMMON_BAT_ENEMY": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "E_M0820_A"
+    }, 
+    "SUMMON_ORDER_ENEMY": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "E_SUM_LBOSS_M070X_A"
+    }, 
+    "OVERATTACK_CHASE_BONUS": {
+        "param": [
+            "10", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OVERATTACK_DEFEAT_BONUS": {
+        "param": [
+            "20", 
+            "20", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OVERATTACK_RATE_LEVEL": {
+        "param": [
+            "150", 
+            "200", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OVERATTACK_RESTART_PROB": {
+        "param": [
+            "0", 
+            "40", 
+            "100", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OVERATTACK_RESTART_INIT": {
+        "param": [
+            "100", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OVERATTACK_RESTART_ADDRATE": {
+        "param": [
+            "2", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OVERATTACK_RANDOM_MIN": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OVERATTACK_RANDOM_MAX": {
+        "param": [
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OVERATTACK_REVENGE_BONUS": {
+        "param": [
+            "40", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OVERATTACK_TURN_EFFECT_MAX_TURN": {
+        "param": [
+            "10", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "HATE_BASE": {
+        "param": [
+            "40", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "HATE_TURN_RATE": {
+        "param": [
+            "80", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "HATE_TURN_VALUE": {
+        "param": [
+            "5", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_RATE": {
+        "param": [
+            "100", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_MASTER_ARTS": {
+        "param": [
+            "100", 
+            "80", 
+            "90", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_COUNT_RATE": {
+        "param": [
+            "100", 
+            "50", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_OWNARTS_RANK": {
+        "param": [
+            "2", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_OWNARTS_RATE": {
+        "param": [
+            "50", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_OWNARTS_BASE": {
+        "param": [
+            "16", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_PROB_A_00_05": {
+        "param": [
+            "0", 
+            "3", 
+            "4", 
+            "5", 
+            "6", 
+            "7"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_PROB_A_06_11": {
+        "param": [
+            "7", 
+            "8", 
+            "8", 
+            "9", 
+            "9", 
+            "10"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_PROB_A_POINT_01": {
+        "param": [
+            "-1", 
+            "0", 
+            "3", 
+            "6", 
+            "9", 
+            "12"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_PROB_A_POINT_02": {
+        "param": [
+            "15", 
+            "18", 
+            "21", 
+            "24", 
+            "27", 
+            "30"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_PROB_B_POINT_01": {
+        "param": [
+            "0", 
+            "3", 
+            "6", 
+            "10", 
+            "15", 
+            "21"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_PROB_B_POINT_02": {
+        "param": [
+            "28", 
+            "36", 
+            "45", 
+            "55", 
+            "66", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_PROB_B_01_06": {
+        "param": [
+            "1", 
+            "2", 
+            "3", 
+            "4", 
+            "5", 
+            "6"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_PROB_B_07_11": {
+        "param": [
+            "7", 
+            "8", 
+            "9", 
+            "10", 
+            "11", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INSPIRATION_TRACE_RATE": {
+        "param": [
+            "100", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "SS_EFFECT_SUCCESS": {
+        "param": [
+            "100", 
+            "120", 
+            "140", 
+            "160", 
+            "180", 
+            "20"
+        ], 
+        "strparam": "None"
+    }, 
+    "MONSTER_ARTS_HP_COST": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "MONSTER_RELEASE_DAMAGE_BONUS": {
+        "param": [
+            "10", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "FORMATION_BONUS_QUICKNESS_GUARD_01": {
+        "param": [
+            "40", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "FORMATION_BONUS_QUICKNESS_GUARD_02": {
+        "param": [
+            "80", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "BUFF_LIMIT_ATTACK": {
+        "param": [
+            "30", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "BUFF_LIMIT_DEFNSE": {
+        "param": [
+            "30", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "BUFF_LIMIT_SPEED": {
+        "param": [
+            "24", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "BUFF_LIMIT_MAGIC": {
+        "param": [
+            "30", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "PLAYER_RANK_BATTLE_EVALUATE_EASY": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "PLAYER_RANK_BATTLE_EVALUATE_NORMAL": {
+        "param": [
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "PLAYER_RANK_BATTLE_EVALUATE_HARD": {
+        "param": [
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "strparam": "None"
+    }, 
+    "PLAYER_RANK_BATTLE_EVALUATE_VERYHARD": {
+        "param": [
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "strparam": "None"
+    }, 
+    "PLAYER_RANK_POTENTIAL_PARAM": {
+        "param": [
+            "5", 
+            "315", 
+            "140", 
+            "18", 
+            "20", 
+            "72"
+        ], 
+        "strparam": "None"
+    }, 
+    "PLAYER_RANK_POTENTIAL_BONUS": {
+        "param": [
+            "100", 
+            "80", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "MISSION_RANK_POINT_01_05": {
+        "param": [
+            "0", 
+            "20", 
+            "80", 
+            "100", 
+            "120", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "MISSION_RANK_POINT_06_10": {
+        "param": [
+            "160", 
+            "200", 
+            "240", 
+            "280", 
+            "320", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OUTACTOR_FIELDOFVIEW_OFFSET": {
+        "param": [
+            "60", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OUTACTOR_OUTRANGE_ANGLE": {
+        "param": [
+            "15", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OUTACROT_CYLINDER_OFFSET": {
+        "param": [
+            "50", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "OUTACTOR_ENEMYLENGTH_MIN": {
+        "param": [
+            "8", 
+            "10", 
+            "10", 
+            "10", 
+            "10", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "BGM_EASY": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "BGM_BATTLE_NORMAL_001"
+    }, 
+    "BGM_NORMAL": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "BGM_BATTLE_NORMAL_001"
+    }, 
+    "BGM_HARD": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "BGM_BATTLE_NORMAL_002"
+    }, 
+    "BGM_VERYHARD": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "BGM_BATTLE_NORMAL_002"
+    }, 
+    "SHORTLIVED_OLD_COUNT": {
+        "param": [
+            "1", 
+            "3", 
+            "6", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "SHORTLIVED_FORGET_ARTS": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "SHORTLIVED_LEARN_ARTS": {
+        "param": [
+            "1", 
+            "1", 
+            "2", 
+            "2", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "TRADE_EXHIBIT_PARAM": {
+        "param": [
+            "400", 
+            "9900", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "TRADE_RECOMMEND_PROB": {
+        "param": [
+            "35", 
+            "15", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "TRAINING_LICENSE_BATTLE_COUNT": {
+        "param": [
+            "3", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "TRAINING_HP_GROW_RATE": {
+        "param": [
+            "10", 
+            "50", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "TRAINING_SKILL_LEVEL_GROW_RATE": {
+        "param": [
+            "10", 
+            "50", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "TRAINING_ROLE_GROW_RATE": {
+        "param": [
+            "17", 
+            "9", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "ROLE_EFFECT_DEATH_DAMAGE": {
+        "param": [
+            "300", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "LP_KNIGHT_ADDLP": {
+        "param": [
+            "3", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "FORMATION_ACTOR_SCALE": {
+        "param": [
+            "67", 
+            "90", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "FORMATION_GRID_SIZE": {
+        "param": [
+            "70", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "FORMATION_ENEMY_BOUNDINGBOX_BORDER": {
+        "param": [
+            "0", 
+            "100", 
+            "200", 
+            "300", 
+            "400", 
+            "500"
+        ], 
+        "strparam": "None"
+    }, 
+    "FORMATION_ENEMY_BOUNDINGBOX_DISTANCE": {
+        "param": [
+            "0", 
+            "0", 
+            "0", 
+            "30", 
+            "50", 
+            "100"
+        ], 
+        "strparam": "None"
+    }, 
+    "INITIALIZE_STATUS_HP": {
+        "param": [
+            "130", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INITIALIZE_STATUS_SKILL_LEVEL": {
+        "param": [
+            "80", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }, 
+    "INITIALIZE_STATUS_PARAMETER": {
+        "param": [
+            "150", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "strparam": "None"
+    }
+}

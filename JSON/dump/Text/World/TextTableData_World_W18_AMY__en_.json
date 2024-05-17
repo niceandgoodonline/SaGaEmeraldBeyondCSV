@@ -1,0 +1,82 @@
+{
+  "W18_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Capitol City: Seat of the Union"
+  },
+  "W18_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The city that awaited you on the other side of the door feels quite familiar. Could there be a cat here?"
+  },
+  "W18_EVAR_AMYA_NEKO_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat"
+  },
+  "W18_EVAR_AMYA_NEKO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There should be a cat around here."
+  },
+  "W18_EVAR_AMYA_NEKO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Cat"
+  },
+  "W18_EVAR_AMYA_ABOUT_HERE_000_TITLE": {
+    "speaker": "UI",
+    "text": "'It'"
+  },
+  "W18_EVAR_AMYA_ABOUT_HERE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Discuss what happened in the elevator."
+  },
+  "W18_EVAR_AMYA_ABOUT_HERE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Kate"
+  },
+  "W18_EVAR_AMYA_ARTIST_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Chance Meeting"
+  },
+  "W18_EVAR_AMYA_ARTIST_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Kate wants to go to the cafe in Grand Capitol Hotel."
+  },
+  "W18_EVAR_AMYA_ARTIST_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go with Her"
+  },
+  "W18_EVAR_AMYA_MEETING_010_TITLE": {
+    "speaker": "UI",
+    "text": "Tracking the Perp"
+  },
+  "W18_EVAR_AMYA_MEETING_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the person who abducted Kate."
+  },
+  "W18_EVAR_AMYA_MEETING_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Confront the Man"
+  },
+  "W18_EVAR_AMYA_MELANCHOLY_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Head of Security"
+  },
+  "W18_EVAR_AMYA_MELANCHOLY_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Kate has stopped in front of a building. Does she sense something amiss?"
+  },
+  "W18_EVAR_AMYA_MELANCHOLY_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Her"
+  },
+  "W18_EVAR_AMYA_CAUSE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Impatience"
+  },
+  "W18_EVAR_AMYA_CAUSE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the woman who bumped into Kate. Why is she in such a rush?"
+  },
+  "W18_EVAR_AMYA_CAUSE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Her"
+  }
+}

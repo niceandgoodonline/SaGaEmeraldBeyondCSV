@@ -1,0 +1,78 @@
+{
+  "SUB_W04_WRLD_COMM_LPRECOVERY_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You recovered 1 LP!"
+  },
+  "SUB_W04_WRLD_COMM_MAXLP_CHANGE_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "Your maximum LP was decreased by 1."
+  },
+  "SUB_W04_EVAR_COMM_BASE_SHIPYARD_STRONG_RAFT_000_CUT_000": {
+    "speaker": "UI",
+    "text": "You've acquired the ultimate raft!\nYou can now tackle large cyclones\nwithout swapping to another ship."
+  },
+  "SUB_W04_EVAR_COMM_BASE_SHIPYARD_DIALOG_000_CUT_000": {
+    "speaker": "UI",
+    "text": "Shipyard"
+  },
+  "SUB_W04_EVAR_COMM_BASE_SHIPYARD_DIALOG_000_CUT_010": {
+    "speaker": "UI",
+    "text": "Choose a ship to sail."
+  },
+  "SUB_W04_EVAR_COMM_BASE_SHIPYARD_DIALOG_000_CUT_020": {
+    "speaker": "UI",
+    "text": "Raft."
+  },
+  "SUB_W04_EVAR_COMM_BASE_SHIPYARD_DIALOG_000_CUT_030": {
+    "speaker": "UI",
+    "text": "Sloop."
+  },
+  "SUB_W04_EVAR_COMM_BASE_SHIPYARD_DIALOG_000_CUT_040": {
+    "speaker": "UI",
+    "text": "Sailboat."
+  },
+  "SUB_W04_EVAR_COMM_BASE_SHIPYARD_DIALOG_000_CUT_050": {
+    "speaker": "UI",
+    "text": "Do not change."
+  },
+  "SUB_W04_EVAR_COMM_BASE_SHIPYARD_DIALOG_000_CUT_060": {
+    "speaker": "UI",
+    "text": "The ultimate raft."
+  },
+  "SUB_W04_EVAR_COMM_BASE_SHIPYARD_NO_CHANGE_000_CUT_000": {
+    "speaker": "UI",
+    "text": "Ship chosen."
+  },
+  "SUB_W04_EVAR_COMM_BASE_NORTHHARBOR_WORLDQUEST_000_CUT_000": {
+    "speaker": "UI",
+    "text": "A large cyclone has appeared. You will need\na sturdier ship—such as a sailboat—if you want\nto join in the battle taking place at the base of the storm."
+  },
+  "SUB_W04_EVAR_COMM_PARTY_LEAVE_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "Caution"
+  },
+  "SUB_W04_EVAR_COMM_PARTY_LEAVE_000_CUT_000_010": {
+    "speaker": "UI",
+    "text": "A member of your group has left.\nCheck your retinue and formation."
+  },
+  "SUB_W04_EVAR_COMM_GHOSTSHIP_LASTBATTLE_011_CUT_000_000": {
+    "speaker": "Ivar",
+    "text": "Farewell ye two—and take care."
+  },
+  "SUB_W04_EVAR_COMM_GHOSTSHIP_LASTBATTLE_011_CUT_000_010": {
+    "speaker": "Ivar",
+    "text": "Yar, there they go."
+  },
+  "SUB_W04_EVAR_COMM_GHOSTSHIP_LASTBATTLE_011_CUT_000_020": {
+    "speaker": "Ivar",
+    "text": "Guess I be a guardian now...\nBut what in all the hells do I do?"
+  },
+  "SUB_W04_EVAR_COMM_GHOSTSHIP_LASTBATTLE_011_CUT_000_030": {
+    "speaker": "Ivar",
+    "text": "Well, I won't find me answer just\nsittin' here havin' a think."
+  },
+  "SUB_W04_EVAR_COMM_GHOSTSHIP_LASTBATTLE_011_CUT_000_040": {
+    "speaker": "Ivar",
+    "text": "Hoist the sails, lads!\nWe're pushin' off!"
+  }
+}

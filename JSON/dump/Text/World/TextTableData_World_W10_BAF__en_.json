@@ -1,0 +1,70 @@
+{
+  "W10_EVAR_BOFO_RETURN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Connectivity Room Door"
+  },
+  "W10_EVAR_BOFO_RETURN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You've obtained a triangle. It's time to return to the Twilight Area and search for the next."
+  },
+  "W10_EVAR_BOFO_RETURN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Twilight Area"
+  },
+  "W10_EVAR_BOFO_RETURN_040_TITLE": {
+    "speaker": "UI",
+    "text": "Connectivity Room Door"
+  },
+  "W10_EVAR_BOFO_RETURN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You've now obtained all of the triangles. It's time to unravel the truth about them and the president."
+  },
+  "W10_EVAR_BOFO_RETURN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Twilight Area"
+  },
+  "W10_EVAR_BOFO_CLT_06_120_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yellow Division: Civilization Research"
+  },
+  "W10_EVAR_BOFO_CLT_06_120_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps the time has come to enlist their help with your search for a triangle."
+  },
+  "W10_EVAR_BOFO_CLT_06_120_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Pay Them a Visit"
+  },
+  "W10_GIMK_BOFO_CLT_06_MON_01_TITLE": {
+    "speaker": "UI",
+    "text": "Clue to the Next Triangle"
+  },
+  "W10_GIMK_BOFO_CLT_06_MON_01_DETAIL": {
+    "speaker": "UI",
+    "text": "Are the triangular objects in the lower level connected to this fiend in some way?"
+  },
+  "W10_GIMK_BOFO_CLT_06_MON_01_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W10_GIMK_BOFO_CLT_06_MON_04_TITLE": {
+    "speaker": "UI",
+    "text": "Clue to the Next Triangle?"
+  },
+  "W10_GIMK_BOFO_CLT_06_MON_04_DETAIL": {
+    "speaker": "UI",
+    "text": "Are the triangular objects in the lower level connected to this fiend in some way?"
+  },
+  "W10_GIMK_BOFO_CLT_06_MON_04_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out?"
+  },
+  "W10_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Delta Base"
+  },
+  "W10_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a space station like something from a sci-fi movie on the other side of the door. Can you really find a triangle in such a place?"
+  }
+}

@@ -1,0 +1,4157 @@
+{
+  "WLLSW_OLD_01": {
+    "DropCategory": "LongSword",
+    "ItemRank": "9",
+    "ItemSetPattern": "['34:1']"
+  },
+  "WLLSW_OLD_02": {
+    "DropCategory": "LongSword",
+    "ItemRank": "35",
+    "ItemSetPattern": "['53:1']"
+  },
+  "WLLSW01_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','7:1','34:1','44:1','46:1','59:1']"
+  },
+  "WLLSW01_B": {
+    "DropCategory": "LongSword",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','44:1','47:3','59:1']"
+  },
+  "WLLSW01_C": {
+    "DropCategory": "LongSword",
+    "ItemRank": "57",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW01_D": {
+    "DropCategory": "LongSword",
+    "ItemRank": "130",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW01_L": {
+    "DropCategory": "LongSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW01_PURSUIT_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW01_PURSUIT_B": {
+    "DropCategory": "LongSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW01_PURSUIT_C": {
+    "DropCategory": "LongSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW02_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "['59:1']"
+  },
+  "WLLSW02_B": {
+    "DropCategory": "LongSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW02_C": {
+    "DropCategory": "LongSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW02_D": {
+    "DropCategory": "LongSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW03_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW03_B": {
+    "DropCategory": "LongSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW03_C": {
+    "DropCategory": "LongSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW03_D": {
+    "DropCategory": "LongSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW04_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLLSW04_B": {
+    "DropCategory": "LongSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLLSW04_C": {
+    "DropCategory": "LongSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLLSW04_D": {
+    "DropCategory": "LongSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLLSW05_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW05_B": {
+    "DropCategory": "LongSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW05_C": {
+    "DropCategory": "LongSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW05_D": {
+    "DropCategory": "LongSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW06_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW07_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "35",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW07_B": {
+    "DropCategory": "LongSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW07_C": {
+    "DropCategory": "LongSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW08_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW09_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "35",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW09_B": {
+    "DropCategory": "LongSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW09_C": {
+    "DropCategory": "LongSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW09_D": {
+    "DropCategory": "LongSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW10_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW11_A": {
+    "DropCategory": "LongSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP01_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','7:1','34:1','44:1','46:1']"
+  },
+  "WLRAP01_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','44:1','47:3']"
+  },
+  "WLRAP01_C": {
+    "DropCategory": "Rapier",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP01_GUARD_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP01_GUARD_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP02_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "48",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLRAP02_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "90",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLRAP02_C": {
+    "DropCategory": "Rapier",
+    "ItemRank": "124",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLRAP02_D": {
+    "DropCategory": "Rapier",
+    "ItemRank": "161",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLRAP03_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP03_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP03_C": {
+    "DropCategory": "Rapier",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP03_D": {
+    "DropCategory": "Rapier",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP04_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP04_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP04_C": {
+    "DropCategory": "Rapier",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP04_D": {
+    "DropCategory": "Rapier",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP05_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP05_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP05_C": {
+    "DropCategory": "Rapier",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP05_D": {
+    "DropCategory": "Rapier",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP06_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP06_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP06_C": {
+    "DropCategory": "Rapier",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP07_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP07_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP08_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP08_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP08_C": {
+    "DropCategory": "Rapier",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP09_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP10_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP10_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP11_A": {
+    "DropCategory": "Rapier",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP11_B": {
+    "DropCategory": "Rapier",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLRAP11_C": {
+    "DropCategory": "Rapier",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG01_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','7:1','34:1','44:1','46:1']"
+  },
+  "WLDAG01_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','44:1','47:3']"
+  },
+  "WLDAG01_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG02_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG02_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG02_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG03_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "48",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLDAG03_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "90",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLDAG03_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "124",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLDAG03_D": {
+    "DropCategory": "Dagger",
+    "ItemRank": "161",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLDAG04_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG04_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG04_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG04_D": {
+    "DropCategory": "Dagger",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG05_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "35",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG05_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "106",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG05_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "180",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG06_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG06_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG06_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG06_D": {
+    "DropCategory": "Dagger",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG07_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "63",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG07_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "142",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG07_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG08_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG08_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG08_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG08_D": {
+    "DropCategory": "Dagger",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG09_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "35",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG09_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG09_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG09_D": {
+    "DropCategory": "Dagger",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG10_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG10_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG10_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG11_A": {
+    "DropCategory": "Dagger",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG11_B": {
+    "DropCategory": "Dagger",
+    "ItemRank": "27",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG11_C": {
+    "DropCategory": "Dagger",
+    "ItemRank": "54",
+    "ItemSetPattern": "]"
+  },
+  "WLDAG11_D": {
+    "DropCategory": "Dagger",
+    "ItemRank": "114",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE_OLD_01": {
+    "DropCategory": "Axe",
+    "ItemRank": "0",
+    "ItemSetPattern": "['43:1','52:1']"
+  },
+  "WLAXE01_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','7:1','34:1','44:1','46:1']"
+  },
+  "WLAXE01_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','44:1','47:3']"
+  },
+  "WLAXE01_C": {
+    "DropCategory": "Axe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE02_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE02_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE02_C": {
+    "DropCategory": "Axe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE02_D": {
+    "DropCategory": "Axe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE03_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE03_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE03_C": {
+    "DropCategory": "Axe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE03_D": {
+    "DropCategory": "Axe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE04_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE04_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE04_C": {
+    "DropCategory": "Axe",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE05_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE05_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE05_C": {
+    "DropCategory": "Axe",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE06_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "48",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLAXE06_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "90",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLAXE06_C": {
+    "DropCategory": "Axe",
+    "ItemRank": "124",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLAXE06_D": {
+    "DropCategory": "Axe",
+    "ItemRank": "161",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WLAXE07_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "48",
+    "ItemSetPattern": "['59:1']"
+  },
+  "WLAXE07_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE07_C": {
+    "DropCategory": "Axe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE07_D": {
+    "DropCategory": "Axe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE08_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE08_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE09_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE09_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE10_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE10_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE11_A": {
+    "DropCategory": "Axe",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE11_B": {
+    "DropCategory": "Axe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLAXE11_C": {
+    "DropCategory": "Axe",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW_OLD_01": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "['43:1','52:1']"
+  },
+  "WHGSW01_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','7:1','34:1','44:1','46:1','62:1']"
+  },
+  "WHGSW01_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','44:1','47:3','62:1']"
+  },
+  "WHGSW01_C": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW01_D": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW01_GUARD_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW01_GUARD_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW01_GUARD_C": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW02_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "['62:1']"
+  },
+  "WHGSW02_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "['62:1']"
+  },
+  "WHGSW02_C": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW02_D": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW03_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW03_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW03_C": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW03_D": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW04_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHGSW04_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHGSW04_C": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHGSW04_D": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHGSW05_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "['44:1']"
+  },
+  "WHGSW05_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "['44:1']"
+  },
+  "WHGSW05_C": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "['44:1']"
+  },
+  "WHGSW05_D": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW06_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW06_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW07_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW08_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "106",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW08_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW09_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "35",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW09_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW09_C": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW09_D": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW10_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW10_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW11_A": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW11_B": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW_EXCALIBUR_01": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW_EXCALIBUR_02": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW_EXCALIBUR_03": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW_EXCALIBUR_04": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW_OLD_01": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW01_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','7:1','44:1','46:1']"
+  },
+  "WHSSW01_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','44:1','47:3']"
+  },
+  "WHSSW01_C": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW02_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW02_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW02_C": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW02_D": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW03_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHSSW03_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHSSW03_C": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHSSW03_D": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHSSW04_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW04_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW04_C": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW05_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW05_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW05_C": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW05_D": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW06_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW06_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW07_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW07_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW07_C": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW08_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW08_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW08_C": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW08_D": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW09_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW09_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW10_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW10_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW10_C": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW11_A": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW11_B": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW_HIDEYOSHI": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW_IEYASU": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHSSW_NOBUNAGA": {
+    "DropCategory": "SmuraiSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW01_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','7:1','44:1','46:1']"
+  },
+  "WHPSW01_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','44:1','47:3']"
+  },
+  "WHPSW01_C": {
+    "DropCategory": "Halberd",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW02_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "48",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHPSW02_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "90",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHPSW02_C": {
+    "DropCategory": "Halberd",
+    "ItemRank": "124",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHPSW02_D": {
+    "DropCategory": "Halberd",
+    "ItemRank": "161",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "WHPSW03_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW03_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW03_C": {
+    "DropCategory": "Halberd",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW03_D": {
+    "DropCategory": "Halberd",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW04_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW04_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW04_C": {
+    "DropCategory": "Halberd",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW04_D": {
+    "DropCategory": "Halberd",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW05_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW05_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW05_C": {
+    "DropCategory": "Halberd",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW05_D": {
+    "DropCategory": "Halberd",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW06_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW06_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW07_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW07_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW08_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW08_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW08_C": {
+    "DropCategory": "Halberd",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW09_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "35",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW09_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW09_C": {
+    "DropCategory": "Halberd",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW09_D": {
+    "DropCategory": "Halberd",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW10_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW10_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW11_A": {
+    "DropCategory": "Halberd",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW11_B": {
+    "DropCategory": "Halberd",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "WHPSW11_C": {
+    "DropCategory": "Halberd",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GLONE_OLD_01": {
+    "DropCategory": "Pistol",
+    "ItemRank": "0",
+    "ItemSetPattern": "['43:1']"
+  },
+  "GLONE_OLD_02": {
+    "DropCategory": "Pistol",
+    "ItemRank": "0",
+    "ItemSetPattern": "['6:1','7:1','44:1','46:1']"
+  },
+  "GLONE01_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "0",
+    "ItemSetPattern": "['6:1','7:1','44:1','46:1','60:1']"
+  },
+  "GLONE01_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','44:1','47:3','60:1']"
+  },
+  "GLONE01_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "['8:3','47:3','60:1']"
+  },
+  "GLONE01_D": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "GLONE01_E": {
+    "DropCategory": "Pistol",
+    "ItemRank": "124",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "GLONE01_F": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "GLONE02_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GLONE02_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GLONE02_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GLONE02_D": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GLONE03_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GLONE03_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GLONE04_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "0",
+    "ItemSetPattern": "['60:1']"
+  },
+  "GLONE04_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','47:3','60:1']"
+  },
+  "GLONE04_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GLONE04_D": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GLONE05_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "['60:1']"
+  },
+  "GLONE05_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GLONE05_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GLONE05_D": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GLONE06_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GLONE06_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GLONE07_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GLONE07_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GLONE07_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GLONE07_D": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GLONE08_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GLONE08_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GLONE08_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GLONE09_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GLONE09_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GLONE09_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GLONE10_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GLONE10_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GLONE10_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GLONE10_D": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GLONE11_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "GLONE11_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GLONE11_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GLONE12_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GLONE13_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "['44:1']"
+  },
+  "GLONE13_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "90",
+    "ItemSetPattern": "['44:1']"
+  },
+  "GLONE13_C": {
+    "DropCategory": "Pistol",
+    "ItemRank": "124",
+    "ItemSetPattern": "['44:1']"
+  },
+  "GLONE13_D": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GLONE14_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GLONE14_B": {
+    "DropCategory": "Pistol",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GLONE15_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GLONE16_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GLONE17_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GLONE18_A": {
+    "DropCategory": "Pistol",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GHMAC_OLD_01": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "GHMAC_OLD_02": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "GHMAC_OLD_03": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GHMAC_OLD_04": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHMAC01_A": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "0",
+    "ItemSetPattern": "['6:1','7:1','44:1','46:1','61:1']"
+  },
+  "GHMAC01_B": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "22",
+    "ItemSetPattern": "['8:3','44:1','47:3','61:1']"
+  },
+  "GHMAC01_C": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "22",
+    "ItemSetPattern": "['44:1']"
+  },
+  "GHMAC01_D": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "90",
+    "ItemSetPattern": "['44:1']"
+  },
+  "GHMAC01_E": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHMAC02_A": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "48",
+    "ItemSetPattern": "['8:3','47:3','61:1']"
+  },
+  "GHMAC02_B": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "90",
+    "ItemSetPattern": "['8:3','47:3','61:1']"
+  },
+  "GHMAC02_C": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "124",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "GHMAC02_D": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "161",
+    "ItemSetPattern": "['8:3','47:3']"
+  },
+  "GHMAC02_E": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "180",
+    "ItemSetPattern": "]"
+  },
+  "GHMAC02_2_A": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA01_ZERO": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA01_A": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA01_B": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA01_C": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA01_D": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA01_2_A": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA02_A": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA02_B": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA02_C": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHFLA02_D": {
+    "DropCategory": "Flamethrower",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GHELE01_A": {
+    "DropCategory": "TaserGun",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GHELE01_B": {
+    "DropCategory": "TaserGun",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GHELE01_C": {
+    "DropCategory": "TaserGun",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GHELE01_D": {
+    "DropCategory": "TaserGun",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHELE01_2_A": {
+    "DropCategory": "TaserGun",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GHELE02_A": {
+    "DropCategory": "TaserGun",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "GHELE02_B": {
+    "DropCategory": "TaserGun",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GHELE02_C": {
+    "DropCategory": "TaserGun",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHELE02_D": {
+    "DropCategory": "TaserGun",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GHBOM01_A": {
+    "DropCategory": "Bazooka",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GHBOM01_B": {
+    "DropCategory": "Bazooka",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GHBOM01_C": {
+    "DropCategory": "Bazooka",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GHBOM01_D": {
+    "DropCategory": "Bazooka",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHBOM01_2_A": {
+    "DropCategory": "Bazooka",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GHBOM02_A": {
+    "DropCategory": "Bazooka",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "GHBOM02_B": {
+    "DropCategory": "Bazooka",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GHBOM02_C": {
+    "DropCategory": "Bazooka",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHBOM02_D": {
+    "DropCategory": "Bazooka",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GHCHE01_A": {
+    "DropCategory": "GrenadeLauncher",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GHCHE01_B": {
+    "DropCategory": "GrenadeLauncher",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GHCHE01_C": {
+    "DropCategory": "GrenadeLauncher",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "GHCHE01_D": {
+    "DropCategory": "GrenadeLauncher",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHCHE01_2_A": {
+    "DropCategory": "GrenadeLauncher",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "GHCHE02_A": {
+    "DropCategory": "GrenadeLauncher",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "GHCHE02_B": {
+    "DropCategory": "GrenadeLauncher",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "GHCHE02_C": {
+    "DropCategory": "GrenadeLauncher",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "GHCHE02_D": {
+    "DropCategory": "GrenadeLauncher",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_SWORD00": {
+    "DropCategory": "LongSword",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_SWORD01": {
+    "DropCategory": "LongSword",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_GUN00": {
+    "DropCategory": "Pistol",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_GUN01": {
+    "DropCategory": "Pistol",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "GLONE_DW": {
+    "DropCategory": "Pistol",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR01_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR02_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR03_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR04_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR05_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR06_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR07_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR08_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR09_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR10_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR11_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR12_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR13_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR14_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR15_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR16_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR17_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MAMCR18_DW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "WLLSW01_MW": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "WHGSW01_MW": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "GLONE01_MW": {
+    "DropCategory": "Pistol",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "GHMAC01_MW": {
+    "DropCategory": "MachineGun",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACL01_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACL02_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "0",
+    "ItemSetPattern": "['9:1','48:1']"
+  },
+  "MACL03_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "0",
+    "ItemSetPattern": "['6:1']"
+  },
+  "MACL04_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MANA01_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','9:1','48:1']"
+  },
+  "MANA02_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "0",
+    "ItemSetPattern": "['5:1','6:1','9:1','48:1']"
+  },
+  "MANA03_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "MANA04_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "MANA05_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "63",
+    "ItemSetPattern": "]"
+  },
+  "MANA05_B": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MANA05_C": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MANA06_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "48",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MANA07_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "90",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MANA08_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "124",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MANA09_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MANA09_B": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MANA10_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MANA10_B": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MANA_BONE01": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "MANA_BONE02": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "MANA_BONE03": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MANA_BONE04": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MANA_BEAST01": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "22",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MANA_BEAST02": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "90",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MANA_BEAST03": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "161",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MANA_BEAST04": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MANA_SNAKE01": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "22",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MANA_SNAKE02": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "63",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MANA_SNAKE03": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "MANA_SNAKE04": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "180",
+    "ItemSetPattern": "]"
+  },
+  "MANA11_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "0",
+    "ItemSetPattern": "['6:1','9:1','48:1','61:1']"
+  },
+  "MANA12_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "22",
+    "ItemSetPattern": "['10:3','49:3','61:1']"
+  },
+  "MANA13_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "48",
+    "ItemSetPattern": "['10:3','49:3','61:1']"
+  },
+  "MANA14_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "90",
+    "ItemSetPattern": "['10:3','49:3','61:1']"
+  },
+  "MANA15_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "124",
+    "ItemSetPattern": "['10:3','49:3','61:1']"
+  },
+  "MANA15_B": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MANA16_A": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MAFA01_A": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "22",
+    "ItemSetPattern": "['6:1','10:3','49:3']"
+  },
+  "MAFA02_A": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "48",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MAFA03_A": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "90",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MAFA04_A": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "124",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MAFA05_A": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MAFA06_A": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MAFA07_A": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MAFA08_A": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "MAFA09_A": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MARO00_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','9:1','48:1']"
+  },
+  "MARO00_B": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MARO01_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','9:1','48:1']"
+  },
+  "MARO02_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "22",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MARO03_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "48",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MARO04_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "90",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MARO05_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MARO05_B": {
+    "DropCategory": "Robe",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MARO06_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "MARO06_B": {
+    "DropCategory": "Robe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "MARO07_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "MARO07_B": {
+    "DropCategory": "Robe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "MARO08_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "MARO08_B": {
+    "DropCategory": "Robe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "MARO09_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "124",
+    "ItemSetPattern": "['10:3','49:3']"
+  },
+  "MARO10_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "MARO11_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "MARO11_B": {
+    "DropCategory": "Robe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MARO11_C": {
+    "DropCategory": "Robe",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MARO_ALL01": {
+    "DropCategory": "Robe",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "MARO_ALL02": {
+    "DropCategory": "Robe",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "MARO_ALL03": {
+    "DropCategory": "Robe",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MARO12_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "MARO12_B": {
+    "DropCategory": "Robe",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "MARO12_C": {
+    "DropCategory": "Robe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MARO12_D": {
+    "DropCategory": "Robe",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "MARO13_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "MARO14_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "MARO15_A": {
+    "DropCategory": "Robe",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MACW01_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACW02_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACW03_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACW04_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACW05_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACW06_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACW07_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACW08_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "MACW09_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAIN01_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "0",
+    "ItemSetPattern": "['11:1','50:1']"
+  },
+  "SAIN01_B": {
+    "DropCategory": "Inner",
+    "ItemRank": "0",
+    "ItemSetPattern": "['6:1']"
+  },
+  "SAIN02_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "0",
+    "ItemSetPattern": "['6:1','11:1','50:1','58:3']"
+  },
+  "SAIN03_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "22",
+    "ItemSetPattern": "['12:3','51:3','58:3']"
+  },
+  "SAIN04_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "48",
+    "ItemSetPattern": "['12:3','51:3','58:3']"
+  },
+  "SAIN05_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "90",
+    "ItemSetPattern": "['12:3','51:3','58:3']"
+  },
+  "SAIN06_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "124",
+    "ItemSetPattern": "['12:3','51:3','58:3']"
+  },
+  "SAIN06_B": {
+    "DropCategory": "Inner",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAIN07_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAIN08_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAIN09_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "142",
+    "ItemSetPattern": "]"
+  },
+  "SAIN09_B": {
+    "DropCategory": "Inner",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SAIN10_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAIN11_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAIN12_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAIN13_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAIN13_B": {
+    "DropCategory": "Inner",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAIN14_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAIN14_B": {
+    "DropCategory": "Inner",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAHE01_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','11:1','50:1']"
+  },
+  "SAHE02_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "0",
+    "ItemSetPattern": "['11:1','50:1','55:3']"
+  },
+  "SAHE03_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "22",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','55:3']"
+  },
+  "SAHE04_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAHE05_A": {
+    "DropCategory": "Inner",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAHE05_B": {
+    "DropCategory": "Inner",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SAHE06_A": {
+    "DropCategory": "Head",
+    "ItemRank": "90",
+    "ItemSetPattern": "['55:3']"
+  },
+  "SAHE07_A": {
+    "DropCategory": "Head",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAHE07_B": {
+    "DropCategory": "Head",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SAHE08_A": {
+    "DropCategory": "Head",
+    "ItemRank": "48",
+    "ItemSetPattern": "['12:3','51:3']"
+  },
+  "SAHE09_A": {
+    "DropCategory": "Head",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAHE10_A": {
+    "DropCategory": "Head",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAHE10_B": {
+    "DropCategory": "Head",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAHE11_A": {
+    "DropCategory": "Head",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','6:1','12:3','51:3','52:1','57:3']"
+  },
+  "SAHE12_A": {
+    "DropCategory": "Head",
+    "ItemRank": "22",
+    "ItemSetPattern": "['12:3','45:1','51:3','57:3','60:1','63:1']"
+  },
+  "SAHE13_A": {
+    "DropCategory": "Head",
+    "ItemRank": "48",
+    "ItemSetPattern": "['12:3','45:1','51:3','57:3','60:1','63:1']"
+  },
+  "SAHE14_A": {
+    "DropCategory": "Head",
+    "ItemRank": "90",
+    "ItemSetPattern": "['12:3','45:1','51:3','57:3','60:1','63:1']"
+  },
+  "SAHE15_A": {
+    "DropCategory": "Head",
+    "ItemRank": "124",
+    "ItemSetPattern": "['12:3','45:1','51:3','57:3','60:1','63:1']"
+  },
+  "SAHE15_B": {
+    "DropCategory": "Head",
+    "ItemRank": "161",
+    "ItemSetPattern": "['51:3','57:3']"
+  },
+  "SAHE16_A": {
+    "DropCategory": "Head",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SAHE17_A": {
+    "DropCategory": "Head",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAHE18_A": {
+    "DropCategory": "Head",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAHE18_B": {
+    "DropCategory": "Head",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAHE18_C": {
+    "DropCategory": "Head",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAHE18_D": {
+    "DropCategory": "Head",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAHE18_E": {
+    "DropCategory": "Head",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAHE18_F": {
+    "DropCategory": "Head",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAHE18_G": {
+    "DropCategory": "Head",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAHE18_H": {
+    "DropCategory": "Head",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAHE19_A": {
+    "DropCategory": "Head",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAHE20_A": {
+    "DropCategory": "Head",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAHE21_A": {
+    "DropCategory": "Head",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAHE22_A": {
+    "DropCategory": "Head",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAHE23_A": {
+    "DropCategory": "Head",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAHE24_A": {
+    "DropCategory": "Head",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAHE25_A": {
+    "DropCategory": "Head",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAHE26_A": {
+    "DropCategory": "Head",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAGL01_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "0",
+    "ItemSetPattern": "['4:1','5:1','11:1','45:1','50:1']"
+  },
+  "SAGL02_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "0",
+    "ItemSetPattern": "['4:1','5:1','11:1','45:1','50:1','59:1','63:1']"
+  },
+  "SAGL03_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAGL04_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "22",
+    "ItemSetPattern": "['12:3','45:1','51:3','59:1','63:1']"
+  },
+  "SAGL05_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "48",
+    "ItemSetPattern": "['12:3','45:1','51:3','59:1','63:1']"
+  },
+  "SAGL06_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "124",
+    "ItemSetPattern": "['12:3','45:1','51:3','59:1','63:1']"
+  },
+  "SAGL06_B": {
+    "DropCategory": "Glove",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAGL07_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAGL07_B": {
+    "DropCategory": "Glove",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAGL08_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAGL09_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAGL10_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SAGL11_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAGL12_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAGL13_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAGL13_B": {
+    "DropCategory": "Glove",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SAGL14_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAGL15_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAGL16_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAGL17_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAGL18_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAGL18_B": {
+    "DropCategory": "Glove",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAGL19_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAGL20_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAGL20_B": {
+    "DropCategory": "Glove",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAGL21_A": {
+    "DropCategory": "Glove",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAGL21_B": {
+    "DropCategory": "Glove",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SASH00_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1']"
+  },
+  "SASH00_B": {
+    "DropCategory": "Shoes",
+    "ItemRank": "0",
+    "ItemSetPattern": "['11:1','50:1']"
+  },
+  "SASH00_C": {
+    "DropCategory": "Shoes",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SASH00_D": {
+    "DropCategory": "Shoes",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SASH01_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','11:1','45:1','50:1']"
+  },
+  "SASH02_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','56:3']"
+  },
+  "SASH03_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "22",
+    "ItemSetPattern": "['12:3','45:1','51:3','56:3','62:1','63:1']"
+  },
+  "SASH04_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "48",
+    "ItemSetPattern": "['12:3','45:1','51:3','56:3','62:1','63:1']"
+  },
+  "SASH04_B": {
+    "DropCategory": "Shoes",
+    "ItemRank": "90",
+    "ItemSetPattern": "['56:3','62:1','63:1']"
+  },
+  "SASH05_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "124",
+    "ItemSetPattern": "['12:3','45:1','51:3','56:3','62:1','63:1']"
+  },
+  "SASH05_B": {
+    "DropCategory": "Shoes",
+    "ItemRank": "161",
+    "ItemSetPattern": "['56:3']"
+  },
+  "SASH06_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SASH07_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "22",
+    "ItemSetPattern": "['45:1']"
+  },
+  "SASH08_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SASH09_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "63",
+    "ItemSetPattern": "]"
+  },
+  "SASH09_B": {
+    "DropCategory": "Shoes",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SASH09_C": {
+    "DropCategory": "Shoes",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SASH10_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SASH10_B": {
+    "DropCategory": "Shoes",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SASH11_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SASH12_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SASH12_B": {
+    "DropCategory": "Shoes",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SASH13_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SASH14_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SASH15_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SASH16_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SASH16_B": {
+    "DropCategory": "Shoes",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SASH16_C": {
+    "DropCategory": "Shoes",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SASH17_A": {
+    "DropCategory": "Shoes",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SASH17_A2": {
+    "DropCategory": "Shoes",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SASH17_B": {
+    "DropCategory": "Shoes",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SASH17_B2": {
+    "DropCategory": "Shoes",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAAC00_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1','52:1']"
+  },
+  "SAAC01_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1']"
+  },
+  "SAAC02_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1']"
+  },
+  "SAAC03_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1']"
+  },
+  "SAAC04_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1']"
+  },
+  "SAAC05_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1']"
+  },
+  "SAAC06_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "['3:1','4:1','5:1']"
+  },
+  "SAAC07_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC08_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC09_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC10_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC11_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC12_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC13_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC14_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC14_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC15_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC15_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC16_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC16_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC17_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC17_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC18_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC18_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC19_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC19_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC20_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC20_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC21_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC21_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC22_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC22_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC23_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC23_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SAAC24_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC25_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC26_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC27_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC28_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC29_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC30_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC31_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC32_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC33_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC34_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC35_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC35_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC36_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC37_A": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC37_B": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_RING_FOOL": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_RING_ATK": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_RING_DEF": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_RING_AGL": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_RING_MAG": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_DUMBBELL_1": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_DUMBBELL_2": {
+    "DropCategory": "Acce",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_DUMBBELL_3": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_DUMBBELL_4": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_WATCH_1": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_WATCH_2": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_WATCH_3": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_WATCH_4": {
+    "DropCategory": "Acce",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_TICKET_0": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_TICKET_1": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_TICKET_2": {
+    "DropCategory": "Acce",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_TICKET_3": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_TICKET_4": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_TICKET_5": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_GIVEAWAY_1": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_GIVEAWAY_2": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_GIVEAWAY_3": {
+    "DropCategory": "Acce",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_GIVEAWAY_4": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_GIVEAWAY_5": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_GIVEAWAY_6": {
+    "DropCategory": "Acce",
+    "ItemRank": "124",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_GIVEAWAY_7": {
+    "DropCategory": "Acce",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_GIVEAWAY_8": {
+    "DropCategory": "Acce",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_ABILITY_UP_1": {
+    "DropCategory": "Acce",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_ABILITY_UP_2": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_ABILITY_UP_3": {
+    "DropCategory": "Acce",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "SAAC_MASTR_CROWN_1": {
+    "DropCategory": "Acce",
+    "ItemRank": "200",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_MANA00": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_MANA01": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_SAGL00": {
+    "DropCategory": "Glove",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_SAGL01": {
+    "DropCategory": "Glove",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_SAHE00": {
+    "DropCategory": "Head",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_SAHE01": {
+    "DropCategory": "Head",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_SASH00": {
+    "DropCategory": "Shoes",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "BLADGEAR_SASH01": {
+    "DropCategory": "Shoes",
+    "ItemRank": "161",
+    "ItemSetPattern": "]"
+  },
+  "MANA01_DM": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "MAFA01_DM": {
+    "DropCategory": "FullArmor",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "MARO01_DM": {
+    "DropCategory": "Robe",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAIN01_DS": {
+    "DropCategory": "Inner",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAHE01_DS": {
+    "DropCategory": "Head",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAGL01_DS": {
+    "DropCategory": "Glove",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SASH01_DS": {
+    "DropCategory": "Shoes",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAAC01_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC02_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC03_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC04_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC05_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC06_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC07_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC08_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC09_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC10_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC11_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC12_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC13_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SAAC14_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SAAC15_DS": {
+    "DropCategory": "Acce",
+    "ItemRank": "90",
+    "ItemSetPattern": "]"
+  },
+  "SAAC01_MS": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC02_MS": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC03_MS": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC04_MS": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC05_MS": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC06_MS": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC07_MS": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SAAC08_MS": {
+    "DropCategory": "Acce",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "DIVA_SLOT01_RES": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "DIVA_SLOT02_RES": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "DIVA_SLOT03_RES": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "DIVA_SLOT04_RES": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_001": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_002": {
+    "DropCategory": "GreatSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_003": {
+    "DropCategory": "LongSword",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_004": {
+    "DropCategory": "Pistol",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_005": {
+    "DropCategory": "NormalArmor",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_006": {
+    "DropCategory": "Head",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_007": {
+    "DropCategory": "Shoes",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_008": {
+    "DropCategory": "Glove",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_009": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_010": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_011": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_012": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_013": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_014": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_015": {
+    "DropCategory": "Acce",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_016": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_017": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_018": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_019": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_020": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_021": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_022": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_023": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_024": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_025": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_026": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_027": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_028": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_029": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_030": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_031": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_032": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_033": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_034": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_035": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_036": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_037": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_038": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_039": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_040": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_041": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_042": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_043": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_044": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_045": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_046": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_047": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_048": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_049": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "ITEM_050": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_SPIRIT_STONE": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_FE_MOKU": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_FE_KA": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_FE_DO": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "['52:1']"
+  },
+  "SOZAI_FE_KIN": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_FE_SUI": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_CRYSTAL_MOKU": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "108",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_CRYSTAL_KA": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "108",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_CRYSTAL_DO": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "108",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_CRYSTAL_KIN": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "108",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_CRYSTAL_SUI": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "108",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_MULLOCK": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "['0:1','13:1']"
+  },
+  "SOZAI_IRON_ORE": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "22",
+    "ItemSetPattern": "['1:3','13:1','20:3','21:3','22:3','35:3','41:3','42:3','53:1','54:3']"
+  },
+  "SOZAI_MAGIC_STONE": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "64",
+    "ItemSetPattern": "['1:3','13:1','20:3','21:3','22:3','35:3','41:3','42:3','54:3']"
+  },
+  "SOZAI_OBSIDIAN": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "126",
+    "ItemSetPattern": "['1:3','13:1','20:3','21:3','22:3','41:3','42:3']"
+  },
+  "SOZAI_NATIVE_SILVER": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_METEORITE": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "192",
+    "ItemSetPattern": "['21:3']"
+  },
+  "SOZAI_SUPERALLOY": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "192",
+    "ItemSetPattern": "['22:3']"
+  },
+  "SOZAI_FUR": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "['15:1']"
+  },
+  "SOZAI_MAGICAL_BEAST_FUR": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "48",
+    "ItemSetPattern": "['15:1','24:3','39:3','40:3']"
+  },
+  "SOZAI_BIG_BEAST_FUR": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "140",
+    "ItemSetPattern": "['15:1','24:3','39:3','40:3']"
+  },
+  "SOZAI_INSECT_SHELL": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "['16:1']"
+  },
+  "SOZAI_BEAST_BONE": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "['17:1']"
+  },
+  "SOZAI_MAGICAL_BEAST_BONE": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "48",
+    "ItemSetPattern": "['17:1','26:3','32:3','38:3','41:3']"
+  },
+  "SOZAI_BIG_BEAST_BONE": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "140",
+    "ItemSetPattern": "['17:1','26:3','32:3','38:3','41:1']"
+  },
+  "SOZAI_BEAST_FANG": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "['18:1','34:3','36:3']"
+  },
+  "SOZAI_MAGICAL_BEAST_FANG": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "48",
+    "ItemSetPattern": "['18:1','27:3','29:3','34:3','36:3']"
+  },
+  "SOZAI_BIG_BEAST_FANG": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "140",
+    "ItemSetPattern": "['18:1','27:3','29:3']"
+  },
+  "SOZAI_BEAST_CLAW": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "['19:1']"
+  },
+  "SOZAI_MAGICAL_BEAST_CLAW": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "48",
+    "ItemSetPattern": "['19:1','28:3','31:3','37:3']"
+  },
+  "SOZAI_BIG_BEAST_CLAW": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "140",
+    "ItemSetPattern": "['19:1','28:3','31:3','37:3']"
+  },
+  "SOZAI_FIBER": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_SCRUB": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "['2:1','14:1','52:1']"
+  },
+  "SOZAI_HINOKI": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "48",
+    "ItemSetPattern": "['2:1','14:1','23:3','30:3']"
+  },
+  "SOZAI_OAK": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "108",
+    "ItemSetPattern": "['2:1','14:1','23:3','30:3']"
+  },
+  "SOZAI_COCONUT": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_GELATIN": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_LIGULATE_FLOWER": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "22",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_DISK_FLOWER": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "108",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_SNAKESKIN": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_FEATHER": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_ALURA": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_SCREAM_ROOT": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "['52:1']"
+  },
+  "SOZAI_DEMON_BLOOD": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "48",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_ORB": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "48",
+    "ItemSetPattern": "['35:1','53:1']"
+  },
+  "SOZAI_SQUID_FIN": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "108",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_DRAGON_SCALE": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "108",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_001": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_002": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_003": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_004": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_005": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_006": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_007": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_008": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_009": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_010": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_011": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_012": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_013": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_014": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_015": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_016": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_017": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_018": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_019": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  },
+  "SOZAI_020": {
+    "DropCategory": "_NOT_SPECIFIED_",
+    "ItemRank": "0",
+    "ItemSetPattern": "]"
+  }
+}

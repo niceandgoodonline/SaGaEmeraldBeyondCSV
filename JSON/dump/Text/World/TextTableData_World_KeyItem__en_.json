@@ -1,0 +1,826 @@
+{
+  "KEY_ITEM_W02_POWER_KEY_BLA_NAME": {
+    "speaker": "UI",
+    "text": "Grete's Black Staff"
+  },
+  "KEY_ITEM_W02_POWER_KEY_BLA_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "An ebony staff with a carving of a black swan. It's enchanted with water magic."
+  },
+  "KEY_ITEM_W02_POWER_KEY_BLA_02_NAME": {
+    "speaker": "UI",
+    "text": "Grey Staff"
+  },
+  "KEY_ITEM_W02_POWER_KEY_BLA_02_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A magical staff with an eerie aura."
+  },
+  "KEY_ITEM_W02_POWER_KEY_RED_01_NAME": {
+    "speaker": "UI",
+    "text": "Salamander Scale"
+  },
+  "KEY_ITEM_W02_POWER_KEY_RED_01_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A flaming scale of the Salamander. It greatly amplifies the red witches' magical power."
+  },
+  "KEY_ITEM_W02_POWER_KEY_RED_02_NAME": {
+    "speaker": "UI",
+    "text": "Detoxicant"
+  },
+  "KEY_ITEM_W02_POWER_KEY_RED_02_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A detoxifying agent that works well against water-based poisons—the sorts that extinguish flames."
+  },
+  "KEY_ITEM_W02_POWER_KEY_RED_03_NAME": {
+    "speaker": "UI",
+    "text": "Mismatched Fireproof Gloves"
+  },
+  "KEY_ITEM_W02_POWER_KEY_RED_03_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Two fireproof gloves, one from each sister. A different name is embroidered on each."
+  },
+  "KEY_ITEM_W02_DISASTER_PIECE_NAME": {
+    "speaker": "UI",
+    "text": "Calamity Shard"
+  },
+  "KEY_ITEM_W02_DISASTER_PIECE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A sinister fragment that brings evil to the witches' world."
+  },
+  "KEY_ITEM_W03_POISON_BOTTLE_NAME": {
+    "speaker": "UI",
+    "text": "Bottle of Deadly Poison"
+  },
+  "KEY_ITEM_W03_POISON_BOTTLE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A bottle of poison obtained from a freed witch."
+  },
+  "KEY_ITEM_W12_WOODPILE_NAME": {
+    "speaker": "UI",
+    "text": "Firewood"
+  },
+  "KEY_ITEM_W12_WOODPILE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Wood cut into small pieces and bundled."
+  },
+  "KEY_ITEM_W12_MATCH_NAME": {
+    "speaker": "UI",
+    "text": "Matches"
+  },
+  "KEY_ITEM_W12_MATCH_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Strange matches that can thaw ice."
+  },
+  "KEY_ITEM_W12_ARTEFACT_NAME": {
+    "speaker": "UI",
+    "text": "Artifact Piece"
+  },
+  "KEY_ITEM_W12_ARTEFACT_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A piece of an artifact that dates back to the Imperial era."
+  },
+  "KEY_ITEM_W10_DISK_NAME": {
+    "speaker": "UI",
+    "text": "Biochip"
+  },
+  "KEY_ITEM_W10_DISK_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A storage chip to help restore the relic database."
+  },
+  "KEY_ITEM_W10_CODE_NAME": {
+    "speaker": "UI",
+    "text": "Passcode"
+  },
+  "KEY_ITEM_W10_CODE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A code used to open something...somewhere."
+  },
+  "KEY_ITEM_W10_TRIANGLE_NAME": {
+    "speaker": "UI",
+    "text": "Triangular Scrap"
+  },
+  "KEY_ITEM_W10_TRIANGLE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A page torn from a book."
+  },
+  "KEY_ITEM_W10_KATANA_NAME": {
+    "speaker": "UI",
+    "text": "Mysterious Sword Fragment (?)"
+  },
+  "KEY_ITEM_W10_KATANA_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "This sword seems to have a story behind it."
+  },
+  "KEY_ITEM_W10_JEWEL_NAME": {
+    "speaker": "UI",
+    "text": "Philosopher's Stone Fragment?"
+  },
+  "KEY_ITEM_W10_JEWEL_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Might be a nice accessory, actually."
+  },
+  "KEY_ITEM_W10_GIZUMO_NAME": {
+    "speaker": "UI",
+    "text": "Gizmo Part"
+  },
+  "KEY_ITEM_W10_GIZUMO_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Someone is collecting these."
+  },
+  "KEY_ITEM_W10_MAG_DATA_NAME": {
+    "speaker": "UI",
+    "text": "Label for Relic Specimen 440"
+  },
+  "KEY_ITEM_W10_MAG_DATA_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A label applied to the case for a specimen known as the Beast King."
+  },
+  "KEY_ITEM_W10_BOOK_NAME": {
+    "speaker": "UI",
+    "text": "Page of a Cursed Tome"
+  },
+  "KEY_ITEM_W10_BOOK_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "You received this page as a little souvenir."
+  },
+  "KEY_ITEM_W10_TAILE_NAME": {
+    "speaker": "UI",
+    "text": "Tail of the Undying Dragon"
+  },
+  "KEY_ITEM_W10_TAILE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "You received this in place of a reward."
+  },
+  "KEY_ITEM_W10_KEY_RY_NAME": {
+    "speaker": "UI",
+    "text": "Red/Yellow Lift Key"
+  },
+  "KEY_ITEM_W10_KEY_RY_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "The key to the lift that allows connection between the Red and Yellow Divisions on the lower levels."
+  },
+  "KEY_ITEM_W10_KEY_RB_NAME": {
+    "speaker": "UI",
+    "text": "Green/Red Lift Key"
+  },
+  "KEY_ITEM_W10_KEY_RB_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "The key to the lift that allows connection between the Green and Red Divisions on the lower levels."
+  },
+  "KEY_ITEM_W10_KEY_BY_NAME": {
+    "speaker": "UI",
+    "text": "Yellow/Green Lift Key"
+  },
+  "KEY_ITEM_W10_KEY_BY_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "The key to the lift that allows connection between the Yellow and Green Divisions on the lower levels."
+  },
+  "KEY_ITEM_W10_SEED_NAME": {
+    "speaker": "UI",
+    "text": "Improved Monophid Seed"
+  },
+  "KEY_ITEM_W10_SEED_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "The seed of a selectively bred monophid, one harmless to humans and animals. Where could you even grow this?"
+  },
+  "KEY_ITEM_W10_EGG_NAME": {
+    "speaker": "UI",
+    "text": "Tsuchinoko Egg"
+  },
+  "KEY_ITEM_W10_EGG_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "The egg of the tsuchinoko. Will it hatch?"
+  },
+  "KEY_ITEM_W10_CLYSTAL_NAME": {
+    "speaker": "UI",
+    "text": "Crystal"
+  },
+  "KEY_ITEM_W10_CLYSTAL_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "It looks like this can be processed further."
+  },
+  "KEY_ITEM_W10_KEY_6_NAME": {
+    "speaker": "UI",
+    "text": "Abandoned Zone Key"
+  },
+  "KEY_ITEM_W10_KEY_6_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A key that lets you access the abandoned zone."
+  },
+  "KEY_ITEM_W04_JADE_JAR_NAME": {
+    "speaker": "UI",
+    "text": "Jade Urn"
+  },
+  "KEY_ITEM_W04_JADE_JAR_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A precious decoration stolen by pirates."
+  },
+  "KEY_ITEM_W04_CONTRACT_NAME": {
+    "speaker": "UI",
+    "text": "Lighthouse Lease"
+  },
+  "KEY_ITEM_W04_CONTRACT_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "The lease for the lighthouse. The scientist has signed it."
+  },
+  "KEY_ITEM_W04_SUGAR_NAME": {
+    "speaker": "UI",
+    "text": "Sugar"
+  },
+  "KEY_ITEM_W04_SUGAR_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Sugar is a specialty of the south. You should take it to the Northern Trade Port."
+  },
+  "KEY_ITEM_W04_GHOST_AXE_NAME": {
+    "speaker": "UI",
+    "text": "Ghost's Axe"
+  },
+  "KEY_ITEM_W04_GHOST_AXE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A precious axe given to you by a wandering ghost. You should return it to its rightful owner."
+  },
+  "KEY_ITEM_W04_MONSTER_SURVEY_01_NAME": {
+    "speaker": "UI",
+    "text": "Fiend Research Logbook 1"
+  },
+  "KEY_ITEM_W04_MONSTER_SURVEY_01_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A memory board with detailed data on the smaller fiends of the sea."
+  },
+  "KEY_ITEM_W04_MONSTER_SURVEY_02_NAME": {
+    "speaker": "UI",
+    "text": "Fiend Research Logbook 2"
+  },
+  "KEY_ITEM_W04_MONSTER_SURVEY_02_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A memory board with a survey on the biggest fiends of the sea."
+  },
+  "KEY_ITEM_W04_TIME_CONTROLLER_NAME": {
+    "speaker": "UI",
+    "text": "Waterlogged Device"
+  },
+  "KEY_ITEM_W04_TIME_CONTROLLER_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A mysterious device covered in barnacles after years of sitting at the bottom of the sea."
+  },
+  "KEY_ITEM_W04_RUBY_NAME": {
+    "speaker": "UI",
+    "text": "Jewel of the Sea: Ruby"
+  },
+  "KEY_ITEM_W04_RUBY_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A treasure of the Mare Nostrum. This mysterious red jewel boasts revitalizing properties."
+  },
+  "KEY_ITEM_W04_SAPPHIRE_NAME": {
+    "speaker": "UI",
+    "text": "Jewel of the Sea: Sapphire"
+  },
+  "KEY_ITEM_W04_SAPPHIRE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A treasure of the Mare Nostrum. This mysterious blue jewel boasts revitalizing properties."
+  },
+  "KEY_ITEM_W04_BALTASAR_HEART_NAME": {
+    "speaker": "UI",
+    "text": "Baltasar's Heart"
+  },
+  "KEY_ITEM_W04_BALTASAR_HEART_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "The heart of Baltasar the pirate—and the key to his immortality."
+  },
+  "KEY_ITEM_W04_BLUE_DRAGONS_EGG_NAME": {
+    "speaker": "UI",
+    "text": "Deus Maris's Egg"
+  },
+  "KEY_ITEM_W04_BLUE_DRAGONS_EGG_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "The egg that will one day hatch into the god of the Mare Nostrum."
+  },
+  "KEY_ITEM_W04_PIRATES_FLAG_NAME": {
+    "speaker": "UI",
+    "text": "Pirate Flag"
+  },
+  "KEY_ITEM_W04_PIRATES_FLAG_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A flag that serves as proof of a pirate's defeat. Take it to the Southern Trade Port for a reward."
+  },
+  "KEY_ITEM_W09_HORSE_TICKET_NAME": {
+    "speaker": "UI",
+    "text": "Coach Ticket"
+  },
+  "KEY_ITEM_W09_HORSE_TICKET_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A ticket for the coach. It lets you move two blocks."
+  },
+  "KEY_ITEM_W09_VEHICLE_TICKET_NAME": {
+    "speaker": "UI",
+    "text": "Motorcar Ticket"
+  },
+  "KEY_ITEM_W09_VEHICLE_TICKET_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A ticket for the motorcar. It lets you move three blocks."
+  },
+  "KEY_ITEM_W09_TRAM_TICKET_NAME": {
+    "speaker": "UI",
+    "text": "Tram Ticket"
+  },
+  "KEY_ITEM_W09_TRAM_TICKET_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A ticket for the tram. It lets you move one block."
+  },
+  "KEY_ITEM_W09_IDOL_SIGNATURE_NAME": {
+    "speaker": "UI",
+    "text": "Autographed Singer Photo"
+  },
+  "KEY_ITEM_W09_IDOL_SIGNATURE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A signed photo of an up-and-coming singer in Avalon. This is a cheap item."
+  },
+  "KEY_ITEM_W09_IDOL_SIGNATURE_02_NAME": {
+    "speaker": "UI",
+    "text": "Autographed Hit-Singer Photo"
+  },
+  "KEY_ITEM_W09_IDOL_SIGNATURE_02_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A photo signed with love by a hugely popular singer. This is a valuable item."
+  },
+  "KEY_ITEM_W09_GOLD_MEDAL_NAME": {
+    "speaker": "UI",
+    "text": "Gold Medal"
+  },
+  "KEY_ITEM_W09_GOLD_MEDAL_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A beautiful medal made in Avalon and earned as a reward. This is a valuable item."
+  },
+  "KEY_ITEM_W09_ANNIVERSARY_GIFT_NAME": {
+    "speaker": "UI",
+    "text": "Museum Gift"
+  },
+  "KEY_ITEM_W09_ANNIVERSARY_GIFT_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A special trinket celebrating the museum's bicentennial anniversary. This is a cheap item."
+  },
+  "KEY_ITEM_W09_MEMORIAL_PLATE_NAME": {
+    "speaker": "UI",
+    "text": "Billionth-Visitor Shield"
+  },
+  "KEY_ITEM_W09_MEMORIAL_PLATE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A golden shield to commemorate your being the billionth visitor to the museum. This is a valuable item."
+  },
+  "KEY_ITEM_W09_CERTIFICATE_NAME": {
+    "speaker": "UI",
+    "text": "Commendation"
+  },
+  "KEY_ITEM_W09_CERTIFICATE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A certificate of praise for those who have cooperated with and contributed to a police investigation. This is a valuable item."
+  },
+  "KEY_ITEM_W09_OLD_CROWN_NAME": {
+    "speaker": "UI",
+    "text": "Old Crown"
+  },
+  "KEY_ITEM_W09_OLD_CROWN_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A mysterious accessory rich in history. This is a valuable item."
+  },
+  "KEY_ITEM_W09_MEDAL_NAME": {
+    "speaker": "UI",
+    "text": "Bronze Medal"
+  },
+  "KEY_ITEM_W09_MEDAL_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A medal made in Avalon that is often earned as a reward. This is a cheap item."
+  },
+  "KEY_ITEM_W09_VINTAGE_WINE_NAME": {
+    "speaker": "UI",
+    "text": "Vintage Wine"
+  },
+  "KEY_ITEM_W09_VINTAGE_WINE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A fine wine obtained from a pub in Avalon. This is a valuable item."
+  },
+  "KEY_ITEM_W09_BISCUIT_NAME": {
+    "speaker": "UI",
+    "text": "Biscuits"
+  },
+  "KEY_ITEM_W09_BISCUIT_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Despite their price, these nicely browned biscuits are a tasty treat. This is a cheap item."
+  },
+  "KEY_ITEM_W09_OLD_TIARA_NAME": {
+    "speaker": "UI",
+    "text": "Old Tiara"
+  },
+  "KEY_ITEM_W09_OLD_TIARA_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "An eerie, but luxurious tiara. This is a valuable item."
+  },
+  "KEY_ITEM_W09_RUSTY_SWORD_NAME": {
+    "speaker": "UI",
+    "text": "Rusty Sword"
+  },
+  "KEY_ITEM_W09_RUSTY_SWORD_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "This storied curio once belonged to a knight of yore, but has since rusted. This is a valuable item."
+  },
+  "KEY_ITEM_W09_LEATHER_HANDBAG_NAME": {
+    "speaker": "UI",
+    "text": "Leather Handbag"
+  },
+  "KEY_ITEM_W09_LEATHER_HANDBAG_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A leather bag common to Avalon. This is a cheap item."
+  },
+  "KEY_ITEM_W09_ANIMAL_PERFUME_NAME": {
+    "speaker": "UI",
+    "text": "Musky Cologne"
+  },
+  "KEY_ITEM_W09_ANIMAL_PERFUME_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A rare cologne whose sweet scent envelops the body. This is a valuable item."
+  },
+  "KEY_ITEM_W09_CAVIAR_NAME": {
+    "speaker": "UI",
+    "text": "Stinky Fish Eggs"
+  },
+  "KEY_ITEM_W09_CAVIAR_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Rare sturgeon eggs that make for high-quality caviar. This is a valuable item."
+  },
+  "KEY_ITEM_W09_TRUFFLE_NAME": {
+    "speaker": "UI",
+    "text": "Muddy Mushrooms"
+  },
+  "KEY_ITEM_W09_TRUFFLE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Rare truffles that smell delectable. This is a valuable item."
+  },
+  "KEY_ITEM_W09_BAKED_BREAD_NAME": {
+    "speaker": "UI",
+    "text": "Fresh-Baked Bread"
+  },
+  "KEY_ITEM_W09_BAKED_BREAD_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Bread from the finest bakery in all of Avalon. This is a cheap item."
+  },
+  "KEY_ITEM_W09_STUFFED_BIRD_NAME": {
+    "speaker": "UI",
+    "text": "Taxidermy Bird"
+  },
+  "KEY_ITEM_W09_STUFFED_BIRD_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A taxidermied peacock that some fancy noble might like. This is a valuable item."
+  },
+  "KEY_ITEM_W09_UNAGIPIE_PASTRY_NAME": {
+    "speaker": "UI",
+    "text": "Eel Pie"
+  },
+  "KEY_ITEM_W09_UNAGIPIE_PASTRY_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "It's delicious and tastes like happiness, but the ingredients are questionable. This is a cheap item."
+  },
+  "KEY_ITEM_W09_SURPRISED_JUICE_NAME": {
+    "speaker": "UI",
+    "text": "Surprise-ade"
+  },
+  "KEY_ITEM_W09_SURPRISED_JUICE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A strange libation of unknown origins. Drink it for a little surprise! This is a cheap item."
+  },
+  "KEY_ITEM_W09_DIAMOND_NAME": {
+    "speaker": "UI",
+    "text": "Diamond"
+  },
+  "KEY_ITEM_W09_DIAMOND_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Gems produced by lostlings. The more offered to the Crown, the better your reward."
+  },
+  "KEY_ITEM_W09_GOLD_WAND_NAME": {
+    "speaker": "UI",
+    "text": "Old Gold Wand"
+  },
+  "KEY_ITEM_W09_GOLD_WAND_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "It's impossible to determine the worth of this wand. Some sort of power emanates from it."
+  },
+  "KEY_ITEM_W09_GOLD_RING_NAME": {
+    "speaker": "UI",
+    "text": "Old Gold Ring"
+  },
+  "KEY_ITEM_W09_GOLD_RING_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "It's impossible to determine the worth of this ring. Some sort of power emanates from it."
+  },
+  "KEY_ITEM_W09_GOLD_NECKLACE_NAME": {
+    "speaker": "UI",
+    "text": "Old Gold Necklace"
+  },
+  "KEY_ITEM_W09_GOLD_NECKLACE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "It's impossible to determine the worth of this necklace. Some sort of power emanates from it."
+  },
+  "KEY_ITEM_W06_ANTIBODY_STOMACH_NAME": {
+    "speaker": "UI",
+    "text": "Digestica Antibody"
+  },
+  "KEY_ITEM_W06_ANTIBODY_STOMACH_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "An ultimate power sealed within the Digestica."
+  },
+  "KEY_ITEM_W06_ANTIBODY_LUNGS_NAME": {
+    "speaker": "UI",
+    "text": "Respiquary Antibody"
+  },
+  "KEY_ITEM_W06_ANTIBODY_LUNGS_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "An ultimate power sealed within the Respiquary."
+  },
+  "KEY_ITEM_W06_ANTIBODY_BRAIN_NAME": {
+    "speaker": "UI",
+    "text": "Cognitheon Antibody"
+  },
+  "KEY_ITEM_W06_ANTIBODY_BRAIN_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "An ultimate power sealed within the Cognitheon."
+  },
+  "KEY_ITEM_W06_ANTIBODY_HEART_NAME": {
+    "speaker": "UI",
+    "text": "Circuleum Antibody"
+  },
+  "KEY_ITEM_W06_ANTIBODY_HEART_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "An ultimate power sealed within the Circuleum."
+  },
+  "KEY_ITEM_W06_MUCUS_NAME": {
+    "speaker": "UI",
+    "text": "Mucus"
+  },
+  "KEY_ITEM_W06_MUCUS_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A sticky liquid harvested from mucolisks."
+  },
+  "KEY_ITEM_W06_MITOCHONDRIA_NAME": {
+    "speaker": "UI",
+    "text": "Mitochondria "
+  },
+  "KEY_ITEM_W06_MITOCHONDRIA_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A squishy object received from High Priest Valkoinen."
+  },
+  "KEY_ITEM_W19_SEEDS_NAME": {
+    "speaker": "UI",
+    "text": "Seed"
+  },
+  "KEY_ITEM_W19_SEEDS_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A strange seed that will sprout into vines when planted in a waterfall basin. Climb the vine to move to a higher area."
+  },
+  "KEY_ITEM_W19_INSECTS_NAME": {
+    "speaker": "UI",
+    "text": "Bug"
+  },
+  "KEY_ITEM_W19_INSECTS_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "When released, this bug will eat vines, causing a waterfall to appear in their place. Use the waterfall to move to a lower area."
+  },
+  "KEY_ITEM_W19_WHISTLE_NAME": {
+    "speaker": "UI",
+    "text": "Eagle Flute"
+  },
+  "KEY_ITEM_W19_WHISTLE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Play the flute to have the eagle help you."
+  },
+  "KEY_ITEM_W19_SCALE_NAME": {
+    "speaker": "UI",
+    "text": "Shell Piece"
+  },
+  "KEY_ITEM_W19_SCALE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A shell piece that seems to fit on the petrified turtle."
+  },
+  "KEY_ITEM_W19_TOOTH_NAME": {
+    "speaker": "UI",
+    "text": "Bear Tooth"
+  },
+  "KEY_ITEM_W19_TOOTH_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A sharp tooth that seems to fit in the mouth of the petrified bear."
+  },
+  "KEY_ITEM_W19_NUT_NAME": {
+    "speaker": "UI",
+    "text": "Walnut"
+  },
+  "KEY_ITEM_W19_NUT_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A large walnut that will make the petrified squirrel's day."
+  },
+  "KEY_ITEM_W19_WINGS_NAME": {
+    "speaker": "UI",
+    "text": "Bat Wing"
+  },
+  "KEY_ITEM_W19_WINGS_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A large wing that seems to match the petrified bat."
+  },
+  "KEY_ITEM_W19_EGGS_NAME": {
+    "speaker": "UI",
+    "text": "Bird Egg"
+  },
+  "KEY_ITEM_W19_EGGS_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A snake stole this egg and was looking to eat it. It clearly belongs elsewhere."
+  },
+  "KEY_ITEM_W19_BRANCH_NAME": {
+    "speaker": "UI",
+    "text": "Stick"
+  },
+  "KEY_ITEM_W19_BRANCH_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A stick from the beaver's dam."
+  },
+  "KEY_ITEM_W14_WATER_NAME": {
+    "speaker": "UI",
+    "text": "Bottle of Water"
+  },
+  "KEY_ITEM_W14_WATER_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A bottle of fresh water."
+  },
+  "KEY_ITEM_W14_ANTIDOTE_NAME": {
+    "speaker": "UI",
+    "text": "Antidote"
+  },
+  "KEY_ITEM_W14_ANTIDOTE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A witchy potion that can neutralize all manner of poisons."
+  },
+  "KEY_ITEM_W19_ANT_NAME": {
+    "speaker": "UI",
+    "text": "Lost Ant"
+  },
+  "KEY_ITEM_W19_ANT_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "This ant is lost. Take it back to its colony."
+  },
+  "KEY_ITEM_W19_CUCKOO_NAME": {
+    "speaker": "UI",
+    "text": "Cuckoo"
+  },
+  "KEY_ITEM_W19_CUCKOO_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A cuckoo that wants to go back to its nest."
+  },
+  "KEY_ITEM_W19_OWL_NAME": {
+    "speaker": "UI",
+    "text": "Owl"
+  },
+  "KEY_ITEM_W19_OWL_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "An owl that wants to go back to its nest."
+  },
+  "KEY_ITEM_W19_DRAGONFLY_NAME": {
+    "speaker": "UI",
+    "text": "Dragonfly"
+  },
+  "KEY_ITEM_W19_DRAGONFLY_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "This dragonfly is lost. Take it back to its friend."
+  },
+  "KEY_ITEM_W08_EARTHWORM_NORMAL_NAME": {
+    "speaker": "UI",
+    "text": "Worm"
+  },
+  "KEY_ITEM_W08_EARTHWORM_NORMAL_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Food for the residents of Cordycep. Acceptably nutritious at the end of the day."
+  },
+  "KEY_ITEM_W08_EARTHWORM_RARE_NAME": {
+    "speaker": "UI",
+    "text": "Healthy Worm"
+  },
+  "KEY_ITEM_W08_EARTHWORM_RARE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Food for the residents of Cordycep. A lively specimen chock-full of nutrients."
+  },
+  "KEY_ITEM_W08_STONE_NORMAL_NAME": {
+    "speaker": "UI",
+    "text": "Regular Stone"
+  },
+  "KEY_ITEM_W08_STONE_NORMAL_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A stone that looks and feels normal. Someone is collecting such things."
+  },
+  "KEY_ITEM_W08_STONE_RARE_NAME": {
+    "speaker": "UI",
+    "text": "High-Quality Stone"
+  },
+  "KEY_ITEM_W08_STONE_RARE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A beautiful stone with a smooth texture. Someone is collecting such things."
+  },
+  "KEY_ITEM_W13_ENERGY_NAME": {
+    "speaker": "UI",
+    "text": "Energy Inhibitor"
+  },
+  "KEY_ITEM_W13_ENERGY_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A device that controls the sand's energy functions, making it difficult for it to undergo complicated movements."
+  },
+  "KEY_ITEM_W13_BREAK_NAME": {
+    "speaker": "UI",
+    "text": "Dispersal Inhibitor"
+  },
+  "KEY_ITEM_W13_BREAK_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A device that prevents the sand from falling apart, making it difficult for it to take defensive actions."
+  },
+  "KEY_ITEM_W13_FOCUS_NAME": {
+    "speaker": "UI",
+    "text": "Clustering Inhibitor"
+  },
+  "KEY_ITEM_W13_FOCUS_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A device that prevents the sand from clumping, making it difficult for it to take offensive actions."
+  },
+  "KEY_ITEM_W13_MOVE_NAME": {
+    "speaker": "UI",
+    "text": "Shifting Inhibitor"
+  },
+  "KEY_ITEM_W13_MOVE_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A device that prevents the sand from shifting, making it difficult for it to take quick movements."
+  },
+  "KEY_ITEM_C01_LAST_TICKET_NAME": {
+    "speaker": "UI",
+    "text": "Ticket for the Beyond"
+  },
+  "KEY_ITEM_C01_LAST_TICKET_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "What horrifically challenging visions await you in the Beyond?"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_1_NAME": {
+    "speaker": "UI",
+    "text": "Mr. S's Challenge 1"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_1_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before."
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_2_NAME": {
+    "speaker": "UI",
+    "text": "Mr. S's Challenge 2"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_2_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before."
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_3_NAME": {
+    "speaker": "UI",
+    "text": "Mr. S's Challenge 3"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_3_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before."
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_4_NAME": {
+    "speaker": "UI",
+    "text": "Mr. S's Challenge 4"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_4_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before."
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_5_NAME": {
+    "speaker": "UI",
+    "text": "Mr. S's Challenge 5"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_5_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before."
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_6_NAME": {
+    "speaker": "UI",
+    "text": "Mr. S's Challenge 6"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_6_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before."
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_7_NAME": {
+    "speaker": "UI",
+    "text": "Mr. S's Challenge 7"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_7_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before."
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_8_NAME": {
+    "speaker": "UI",
+    "text": "Mr. S's Challenge 8"
+  },
+  "KEY_ITEM_C01_YARIKOMI_TICKET_8_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "Mr. S is taking no prisoners. Prepare for a trial like one you've never faced before."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "W07_EVAR_DIVA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Your Next Destination Awaits"
+  },
+  "W07_EVAR_DIVA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You weren't able to find your heart in this world. You'll have to look elsewhere."
+  },
+  "W07_EVAR_DIVA_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Cinq"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_000_TITLE": {
+    "speaker": "UI",
+    "text": "At Wit's End"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You weren't able to find any information leading to your heart in this world. You'll have to look elsewhere."
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Soul Temple"
+  },
+  "W07_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cinq: World of the Four Tribes"
+  },
+  "W07_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After emerging from the door, you find yourself in a world where people obey spirits. Which tribe can best lead you to your heart?"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_300_TITLE": {
+    "speaker": "UI",
+    "text": "Coping With Disappointment"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_300_DETAIL": {
+    "speaker": "UI",
+    "text": "You refused to accept a reward for your efforts. Was that the right decision?"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Soul Temple"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_310_TITLE": {
+    "speaker": "UI",
+    "text": "Coping With Disappointment"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_310_DETAIL": {
+    "speaker": "UI",
+    "text": "You refused to accept a reward for your efforts. Was that the right decision?"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_310_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Soul Temple"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_320_TITLE": {
+    "speaker": "UI",
+    "text": "Coping With Disappointment"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_320_DETAIL": {
+    "speaker": "UI",
+    "text": "You refused to accept a reward for your efforts. Was that the right decision?"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_320_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Soul Temple"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_330_TITLE": {
+    "speaker": "UI",
+    "text": "Coping With Disappointment"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_330_DETAIL": {
+    "speaker": "UI",
+    "text": "You refused to accept a reward for your efforts. Was that the right decision?"
+  },
+  "W07_EVAR_DIVA_TEMPLESOUL_330_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Soul Temple"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "W08_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cordycep: The World inside a Hole"
+  },
+  "W08_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After passing through the door, you find yourself in a narrow underground space. Will anything or anyone capture your heart here? And more importantly, how will you get around?"
+  },
+  "W08_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Bashar"
+  },
+  "W08_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W08_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W08_EVAR_SIUG_KENZOKU_010_TITLE": {
+    "speaker": "UI",
+    "text": "Naml"
+  },
+  "W08_EVAR_SIUG_KENZOKU_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W08_EVAR_SIUG_KENZOKU_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W08_EVAR_SIUG_KENZOKU_020_TITLE": {
+    "speaker": "UI",
+    "text": "Dufda"
+  },
+  "W08_EVAR_SIUG_KENZOKU_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W08_EVAR_SIUG_KENZOKU_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  }
+}

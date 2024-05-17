@@ -1,0 +1,34 @@
+{
+  "W11_EVAR_SIUG_AREA_IN_TITLE": {
+    "speaker": "UI",
+    "text": "Kamala"
+  },
+  "W11_EVAR_SIUG_AREA_IN_DETAIL": {
+    "speaker": "UI",
+    "text": "You find a world where all life is connected on the other side of the door. You cannot wait to see what darkness you find in this land."
+  },
+  "W11_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Kikir"
+  },
+  "W11_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W11_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W11_EVAR_SIUG_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Temple Entrance"
+  },
+  "W11_EVAR_SIUG_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The linking of lives gives birth to darkness—a fact the people of this world do not yet realize."
+  },
+  "W11_EVAR_SIUG_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Kamala"
+  }
+}

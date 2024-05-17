@@ -1,0 +1,438 @@
+{
+  "W01_LTXT_MIDO_MIYAKOUNIV_000_TITLE": {
+    "speaker": "UI",
+    "text": "Miyako Imperial University"
+  },
+  "W01_LTXT_MIDO_MIYAKOUNIV_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The school attended by Tsunanori Mido. It's considered one of the top universities in the nation, and has produced many international award recipients."
+  },
+  "W01_LTXT_MIDO_RAKUGAKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Rakugaku Academy"
+  },
+  "W01_LTXT_MIDO_RAKUGAKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A combined junior and senior high school for well-to-do young women. Tsunanori Mido's little sister attends here."
+  },
+  "W01_LTXT_MIDO_HOUSEOFMIDO_000_TITLE": {
+    "speaker": "UI",
+    "text": "Mido Residence"
+  },
+  "W01_LTXT_MIDO_HOUSEOFMIDO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Tsunanori Mido's home. Its main building, exquisite in design and built before the war, is famous in its own right. It's also home to a big cute doggo."
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_000_TITLE": {
+    "speaker": "UI",
+    "text": "To Gokakudo Temple"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The center of the barrier enveloping Miyako City. Use the power of the spirits to fortify the barrier and your job will be done."
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Put an End to Everything"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_100_TITLE": {
+    "speaker": "UI",
+    "text": "To Gokakudo Temple"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The center of the barrier enveloping Miyako City. Use the power of the spirits to fortify the barrier and your job will be done."
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Let's Finish This"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "He Who Waits at Gokakudo Temple"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The problems at all the barriers have been sorted. Time to wrap things up at Gokakudo Temple."
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_BATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Put an End to Everything"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_BATTLE_220_TITLE": {
+    "speaker": "UI",
+    "text": "Time to End It All"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_BATTLE_220_DETAIL": {
+    "speaker": "UI",
+    "text": "Destroy the barrier and unleash Miyako City in the direction of the Conjoined Worlds."
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_BATTLE_220_BUTTON": {
+    "speaker": "UI",
+    "text": "Put an End to Everything"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_200_TITLE": {
+    "speaker": "UI",
+    "text": "Gokakudo Temple"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_200_DETAIL": {
+    "speaker": "UI",
+    "text": "Something is going on with the barrier. It's centered around Gokakudo Temple, so you should head over there and check it out."
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Gokakudo Temple"
+  },
+  "W01_EVAR_MIDO_SEQUOIAMALL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sequoia Mall"
+  },
+  "W01_EVAR_MIDO_SEQUOIAMALL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The eastern barrier is likely in this shopping mall."
+  },
+  "W01_EVAR_MIDO_SEQUOIAMALL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Mall"
+  },
+  "W01_EVAR_MIDO_SEQUOIAMALL_010_TITLE": {
+    "speaker": "UI",
+    "text": "Sequoia Mall"
+  },
+  "W01_EVAR_MIDO_SEQUOIAMALL_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The talisman must be repaired if the eastern barrier is to be mended."
+  },
+  "W01_EVAR_MIDO_SEQUOIAMALL_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Try Repairing It Again"
+  },
+  "W01_EVAR_MIDO_SANGENIN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sangen-in Temple"
+  },
+  "W01_EVAR_MIDO_SANGENIN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The northern barrier is likely located in Sangen-in Temple, which is among Miyako City's most notable tourist destinations."
+  },
+  "W01_EVAR_MIDO_SANGENIN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Sangen-in Temple"
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Komainu Jizo Children's Park"
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The western barrier is likely located in this children's park."
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Children's Park"
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_001_TITLE": {
+    "speaker": "UI",
+    "text": "Komainu Jizo Children's Park"
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_001_DETAIL": {
+    "speaker": "UI",
+    "text": "There's something suspicious about the Jizo at the children's park, but you can't figure out what."
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Jizo Again"
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_010_TITLE": {
+    "speaker": "UI",
+    "text": "Komainu Jizo Children's Park"
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The Jizo must be repaired if the western barrier is to be mended."
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Attempt the Jizo Again"
+  },
+  "W01_EVAR_MIDO_RAKUSUITOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Rakusuiro Tower"
+  },
+  "W01_EVAR_MIDO_RAKUSUITOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The southern barrier is likely located in Miyako City's most famous landmark, Rakusuiro Tower."
+  },
+  "W01_EVAR_MIDO_RAKUSUITOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Rakusuiro Tower"
+  },
+  "W01_EVAR_MIDO_SEQUOIAMALL_200_TITLE": {
+    "speaker": "UI",
+    "text": "Sequoia Mall"
+  },
+  "W01_EVAR_MIDO_SEQUOIAMALL_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The eastern barrier is likely located in this shopping mall."
+  },
+  "W01_EVAR_MIDO_SEQUOIAMALL_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Mall"
+  },
+  "W01_EVAR_MIDO_SANGENIN_200_TITLE": {
+    "speaker": "UI",
+    "text": "Sangen-in Temple"
+  },
+  "W01_EVAR_MIDO_SANGENIN_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The northern barrier is likely located in Sangen-in Temple, which is among Miyako City's most notable tourist destinations."
+  },
+  "W01_EVAR_MIDO_SANGENIN_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Sangen-in Temple"
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_200_TITLE": {
+    "speaker": "UI",
+    "text": "Komainu Jizo Children's Park"
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The western barrier is likely located in this children's park."
+  },
+  "W01_EVAR_MIDO_ZIZOUPARK_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Children's Park"
+  },
+  "W01_EVAR_MIDO_RAKUSUITOWER_200_TITLE": {
+    "speaker": "UI",
+    "text": "Rakusuiro Tower"
+  },
+  "W01_EVAR_MIDO_RAKUSUITOWER_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The southern barrier is likely located in Miyako City's most famous landmark, Rakusuiro Tower."
+  },
+  "W01_EVAR_MIDO_RAKUSUITOWER_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate Rakusuiro Tower"
+  },
+  "W01_EVAR_MIDO_CATHEDRAL_200_TITLE": {
+    "speaker": "UI",
+    "text": "Shrine"
+  },
+  "W01_EVAR_MIDO_CATHEDRAL_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The mysterious man intends to escape to the Junction via the shrine. Give pursuit and find out what he's planning."
+  },
+  "W01_EVAR_MIDO_CATHEDRAL_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shrine"
+  },
+  "W01_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Cathedral Project"
+  },
+  "W01_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Cathedral Project is an initiative created to investigate the Heavens—but why were <i>you</i> chosen for it?"
+  },
+  "W01_WRLD_MIDO_INITIAL_100_TITLE": {
+    "speaker": "UI",
+    "text": "The Cathedral Project"
+  },
+  "W01_WRLD_MIDO_INITIAL_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Cathedral Project is an initiative created to investigate the Heavens. It's only natural that you, a proud member of the Mido family, would be chosen for it."
+  },
+  "W01_WRLD_MIDO_INITIAL_200_TITLE": {
+    "speaker": "UI",
+    "text": "The Cathedral Project"
+  },
+  "W01_WRLD_MIDO_INITIAL_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The Cathedral Project is an initiative created to investigate the Heavens. You can't help but feel like there's something sketchy about the whole endeavor."
+  },
+  "W01_WRLD_MIDO_INITIAL_300_TITLE": {
+    "speaker": "UI",
+    "text": "The Cathedral Project"
+  },
+  "W01_WRLD_MIDO_INITIAL_300_DETAIL": {
+    "speaker": "UI",
+    "text": "The Cathedral Project is an initiative created to investigate the Heavens. Do what you must as a member of the Mido family."
+  },
+  "W01_WRLD_MIDO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Back Home in Miyako City"
+  },
+  "W01_WRLD_MIDO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After a long journey, you've finally made it back to Miyako City. However, it seems like hardly any time has passed over here."
+  },
+  "W01_WRLD_MIDO_RETURN_100_TITLE": {
+    "speaker": "UI",
+    "text": "Back Home in Miyako City"
+  },
+  "W01_WRLD_MIDO_RETURN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "After a long journey, you've finally made it back to Miyako City. Your handler tried to stop you, but you managed to give her the slip."
+  },
+  "W01_WRLD_MIDO_RETURN_200_TITLE": {
+    "speaker": "UI",
+    "text": "Back Home in Miyako City"
+  },
+  "W01_WRLD_MIDO_RETURN_200_DETAIL": {
+    "speaker": "UI",
+    "text": "After a long journey, you've finally made it back to Miyako City. Unfortunately, something seems off..."
+  },
+  "W01_WRLD_MIDO_RETURN_210_TITLE": {
+    "speaker": "UI",
+    "text": "Tsunanori Mido's Decision"
+  },
+  "W01_WRLD_MIDO_RETURN_210_DETAIL": {
+    "speaker": "UI",
+    "text": "After fighting the mysterious man, you've reaffirmed what you must do as a member of the Mido family."
+  },
+  "W01_WRLD_MIDO_RETURN_220_TITLE": {
+    "speaker": "UI",
+    "text": "A Truth Uncovered"
+  },
+  "W01_WRLD_MIDO_RETURN_220_DETAIL": {
+    "speaker": "UI",
+    "text": "The man from the Heavens revealed the truth, and now you've returned to Miyako City to settle things for good."
+  },
+  "W01_WRLD_MIDO_RETURN_300_TITLE": {
+    "speaker": "UI",
+    "text": "The Ruined Shrine"
+  },
+  "W01_WRLD_MIDO_RETURN_300_DETAIL": {
+    "speaker": "UI",
+    "text": "After a long journey, you've finally made it back to Miyako City. But upon your return, you find the shrine destroyed and a mysterious man lurking about."
+  },
+  "W01_WRLD_MIDO_RETURN_400_TITLE": {
+    "speaker": "UI",
+    "text": "Returning Home to Miyako City"
+  },
+  "W01_WRLD_MIDO_RETURN_400_DETAIL": {
+    "speaker": "UI",
+    "text": "After a long journey, you've finally made it back to Miyako City."
+  },
+  "W01_EVAR_MIDO_RAKUGAKU_300_TITLE": {
+    "speaker": "UI",
+    "text": "Meeting With Tomoko"
+  },
+  "W01_EVAR_MIDO_RAKUGAKU_300_DETAIL": {
+    "speaker": "UI",
+    "text": "The mysterious man's words have piqued your curiosity. Go to Rakugaku Academy and speak with Tomoko."
+  },
+  "W01_EVAR_MIDO_RAKUGAKU_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Rakugaku Academy"
+  },
+  "W01_EVAR_MIDO_HOME_300_TITLE": {
+    "speaker": "UI",
+    "text": "Go Home"
+  },
+  "W01_EVAR_MIDO_HOME_300_DETAIL": {
+    "speaker": "UI",
+    "text": "The mysterious man's words have piqued your curiosity. Return home and talk to your parents."
+  },
+  "W01_EVAR_MIDO_HOME_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Mido Estate"
+  },
+  "W01_EVAR_MIDO_OOIKE_300_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Tomoko"
+  },
+  "W01_EVAR_MIDO_OOIKE_300_DETAIL": {
+    "speaker": "UI",
+    "text": "Tomoko's been abducted. You must save her!"
+  },
+  "W01_EVAR_MIDO_OOIKE_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Oike"
+  },
+  "W01_EVAR_MIDO_HOME_310_TITLE": {
+    "speaker": "UI",
+    "text": "Enter Your Home"
+  },
+  "W01_EVAR_MIDO_HOME_310_DETAIL": {
+    "speaker": "UI",
+    "text": "Was Tomoko's startling confession true? Go home and confront your parents."
+  },
+  "W01_EVAR_MIDO_HOME_310_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Mido Estate"
+  },
+  "W01_EVAR_MIDO_STATION_300_TITLE": {
+    "speaker": "UI",
+    "text": "Dad's at the Station"
+  },
+  "W01_EVAR_MIDO_STATION_300_DETAIL": {
+    "speaker": "UI",
+    "text": "Your dad is at the station. What does he have to say?"
+  },
+  "W01_EVAR_MIDO_STATION_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Rakuto Station"
+  },
+  "W01_EVAR_MIDO_MALL_300_TITLE": {
+    "speaker": "UI",
+    "text": "Mother's at the Mall"
+  },
+  "W01_EVAR_MIDO_MALL_300_DETAIL": {
+    "speaker": "UI",
+    "text": "Your father bid you farewell like it was nothing. How is that possible? Surely your mother will have something to say."
+  },
+  "W01_EVAR_MIDO_MALL_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Sequoia Mall"
+  },
+  "W01_EVAR_MIDO_RAKUGAKU_310_TITLE": {
+    "speaker": "UI",
+    "text": "Meeting With Tomoko"
+  },
+  "W01_EVAR_MIDO_RAKUGAKU_310_DETAIL": {
+    "speaker": "UI",
+    "text": "Tomoko must have something to say—you're siblings, after all."
+  },
+  "W01_EVAR_MIDO_RAKUGAKU_310_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Rakugaku Academy"
+  },
+  "W01_EVAR_MIDO_SEIDO_300_TITLE": {
+    "speaker": "UI",
+    "text": "Meeting With the Mysterious Man"
+  },
+  "W01_EVAR_MIDO_SEIDO_300_DETAIL": {
+    "speaker": "UI",
+    "text": "So this is what the mysterious man was talking about! You should meet with him again now that you know the truth."
+  },
+  "W01_EVAR_MIDO_SEIDO_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Shrine"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_300_TITLE": {
+    "speaker": "UI",
+    "text": "Mend the Barrier"
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_300_DETAIL": {
+    "speaker": "UI",
+    "text": "The <i>kugutsu</i> puppets all acknowledge you as Tsunanori Mido. Perhaps something will change if you use the power of the spirits you've gathered to mend the barrier."
+  },
+  "W01_EVAR_MIDO_GOKAKUDO_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Gokakudo Temple"
+  },
+  "W01_EVAR_MIDO_CATHEDRAL_300_TITLE": {
+    "speaker": "UI",
+    "text": "A Man Must Choose"
+  },
+  "W01_EVAR_MIDO_CATHEDRAL_300_DETAIL": {
+    "speaker": "UI",
+    "text": "Will you really destroy Ama-no-Iwato?"
+  },
+  "W01_EVAR_MIDO_CATHEDRAL_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Ama-no-Iwato"
+  }
+}

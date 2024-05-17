@@ -1,0 +1,94 @@
+{
+  "W13_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Professor"
+  },
+  "W13_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W13_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W13_EVAR_SIUG_KENZOKU_010_TITLE": {
+    "speaker": "UI",
+    "text": "Junkman"
+  },
+  "W13_EVAR_SIUG_KENZOKU_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W13_EVAR_SIUG_KENZOKU_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W13_EVAR_SIUG_KENZOKU_020_TITLE": {
+    "speaker": "UI",
+    "text": "Wiseman"
+  },
+  "W13_EVAR_SIUG_KENZOKU_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W13_EVAR_SIUG_KENZOKU_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W13_EVAR_SIUG_ROUTE0_FERRY_END_100_TITLE": {
+    "speaker": "UI",
+    "text": "Pandora on the Cruise Ship and Warrior's Darkness"
+  },
+  "W13_EVAR_SIUG_ROUTE0_FERRY_END_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You found Pandora on the cruise ship, but is it really possible to close it? And can Warrior face the darkness he created?"
+  },
+  "W13_EVAR_SIUG_ROUTE0_FERRY_END_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Close Pandora"
+  },
+  "W13_EVAR_SIUG_ROUTE1_WARSHIP_END_100_TITLE": {
+    "speaker": "UI",
+    "text": "Pandora on the Battleship and Warrior's Darkness"
+  },
+  "W13_EVAR_SIUG_ROUTE1_WARSHIP_END_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You found Pandora on the battleship, but is it really possible to close it? And can Warrior face the darkness he created?"
+  },
+  "W13_EVAR_SIUG_ROUTE1_WARSHIP_END_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Close Pandora"
+  },
+  "W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_100_TITLE": {
+    "speaker": "UI",
+    "text": "Pandora on the Airship and Warrior's Darkness"
+  },
+  "W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You found Pandora on the airship, but is it really possible to close it? And can Warrior face the darkness he created?"
+  },
+  "W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Close Pandora"
+  },
+  "W13_EVAR_SIUG_ROUTE3_DIVING_END_100_TITLE": {
+    "speaker": "UI",
+    "text": "Pandora on the Submarine and Warrior's Darkness"
+  },
+  "W13_EVAR_SIUG_ROUTE3_DIVING_END_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You found Pandora on the submarine, but is it really possible to close it? And can Warrior face the darkness he created?"
+  },
+  "W13_EVAR_SIUG_ROUTE3_DIVING_END_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Close Pandora"
+  },
+  "W13_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Crowrealm: The World of Sand"
+  },
+  "W13_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world covered in sand on the other side of the door. The truth behind Warrior's darkness lies somewhere beneath the dunes."
+  }
+}

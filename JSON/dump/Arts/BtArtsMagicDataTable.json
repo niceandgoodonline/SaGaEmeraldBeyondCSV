@@ -1,0 +1,137 @@
+{
+    "MAG_MG_A_01_Mo01": {
+        "Element": "Wood", 
+        "ElementLv": 5, 
+        "ElementJP": "Moku"
+    }, 
+    "MAG_MG_A_02_Mo02": {
+        "Element": "Wood", 
+        "ElementLv": 8, 
+        "ElementJP": "Moku"
+    }, 
+    "MAG_MG_A_03_Mo03": {
+        "Element": "Wood", 
+        "ElementLv": 17, 
+        "ElementJP": "Moku"
+    }, 
+    "MAG_MG_A_04_Mo04": {
+        "Element": "Wood", 
+        "ElementLv": 23, 
+        "ElementJP": "Moku"
+    }, 
+    "MAG_MG_A_05_Mo05": {
+        "Element": "Wood", 
+        "ElementLv": 32, 
+        "ElementJP": "Moku"
+    }, 
+    "MAG_MG_B_01_Ka01": {
+        "Element": "Fire", 
+        "ElementLv": 5, 
+        "ElementJP": "Ka"
+    }, 
+    "MAG_MG_B_02_Ka02": {
+        "Element": "Fire", 
+        "ElementLv": 10, 
+        "ElementJP": "Ka"
+    }, 
+    "MAG_MG_B_03_Ka03": {
+        "Element": "Fire", 
+        "ElementLv": 16, 
+        "ElementJP": "Ka"
+    }, 
+    "MAG_MG_B_03_Ka13_A": {
+        "Element": "Fire", 
+        "ElementLv": 999, 
+        "ElementJP": "Ka"
+    }, 
+    "MAG_MG_B_04_Ka04": {
+        "Element": "Fire", 
+        "ElementLv": 24, 
+        "ElementJP": "Ka"
+    }, 
+    "MAG_MG_B_05_Ka05": {
+        "Element": "Fire", 
+        "ElementLv": 33, 
+        "ElementJP": "Ka"
+    }, 
+    "MAG_MG_C_01_Do01": {
+        "Element": "Earth", 
+        "ElementLv": 5, 
+        "ElementJP": "Do"
+    }, 
+    "MAG_MG_C_02_Do02": {
+        "Element": "Earth", 
+        "ElementLv": 8, 
+        "ElementJP": "Do"
+    }, 
+    "MAG_MG_C_03_Do03": {
+        "Element": "Earth", 
+        "ElementLv": 17, 
+        "ElementJP": "Do"
+    }, 
+    "MAG_MG_C_04_Do04": {
+        "Element": "Earth", 
+        "ElementLv": 22, 
+        "ElementJP": "Do"
+    }, 
+    "MAG_MG_C_05_Do05": {
+        "Element": "Earth", 
+        "ElementLv": 32, 
+        "ElementJP": "Do"
+    }, 
+    "MAG_MG_C_05_Do15_A": {
+        "Element": "Earth", 
+        "ElementLv": 999, 
+        "ElementJP": "Do"
+    }, 
+    "MAG_MG_D_01_Ki01": {
+        "Element": "Metal", 
+        "ElementLv": 0, 
+        "ElementJP": "Kin"
+    }, 
+    "MAG_MG_D_02_Ki02": {
+        "Element": "Metal", 
+        "ElementLv": 0, 
+        "ElementJP": "Kin"
+    }, 
+    "MAG_MG_D_03_Ki03": {
+        "Element": "Metal", 
+        "ElementLv": 0, 
+        "ElementJP": "Kin"
+    }, 
+    "MAG_MG_D_04_Ki04": {
+        "Element": "Metal", 
+        "ElementLv": 0, 
+        "ElementJP": "Kin"
+    }, 
+    "MAG_MG_D_05_Ki05": {
+        "Element": "Metal", 
+        "ElementLv": 0, 
+        "ElementJP": "Kin"
+    }, 
+    "MAG_MG_E_01_Su01": {
+        "Element": "Water", 
+        "ElementLv": 5, 
+        "ElementJP": "Sui"
+    }, 
+    "MAG_MG_E_02_Su02": {
+        "Element": "Water", 
+        "ElementLv": 9, 
+        "ElementJP": "Sui"
+    }, 
+    "MAG_MG_E_03_Su03": {
+        "Element": "Water", 
+        "ElementLv": 16, 
+        "ElementJP": "Sui"
+    }, 
+    "MAG_MG_E_04_Su04": {
+        "Element": "Water", 
+        "ElementLv": 21, 
+        "ElementJP": "Sui"
+    }, 
+    "MAG_MG_E_05_Su05": {
+        "Element": "Water", 
+        "ElementLv": 34, 
+        "ElementJP": "Sui"
+    }
+}

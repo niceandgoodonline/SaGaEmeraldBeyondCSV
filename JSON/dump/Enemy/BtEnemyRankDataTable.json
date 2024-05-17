@@ -1,0 +1,2002 @@
+{
+    "Rank_001": {
+        "Attack": 14, 
+        "Defense": 16, 
+        "growRank": 1, 
+        "HP": 156, 
+        "Parameter": 10, 
+        "SkillLv": 4
+    }, 
+    "Rank_002": {
+        "Attack": 14, 
+        "Defense": 16, 
+        "growRank": 1, 
+        "HP": 160, 
+        "Parameter": 10, 
+        "SkillLv": 4
+    }, 
+    "Rank_003": {
+        "Attack": 14, 
+        "Defense": 16, 
+        "growRank": 2, 
+        "HP": 165, 
+        "Parameter": 11, 
+        "SkillLv": 4
+    }, 
+    "Rank_004": {
+        "Attack": 15, 
+        "Defense": 17, 
+        "growRank": 2, 
+        "HP": 169, 
+        "Parameter": 11, 
+        "SkillLv": 5
+    }, 
+    "Rank_005": {
+        "Attack": 15, 
+        "Defense": 17, 
+        "growRank": 3, 
+        "HP": 174, 
+        "Parameter": 11, 
+        "SkillLv": 5
+    }, 
+    "Rank_006": {
+        "Attack": 16, 
+        "Defense": 18, 
+        "growRank": 3, 
+        "HP": 178, 
+        "Parameter": 11, 
+        "SkillLv": 6
+    }, 
+    "Rank_007": {
+        "Attack": 16, 
+        "Defense": 18, 
+        "growRank": 4, 
+        "HP": 183, 
+        "Parameter": 12, 
+        "SkillLv": 6
+    }, 
+    "Rank_008": {
+        "Attack": 17, 
+        "Defense": 18, 
+        "growRank": 4, 
+        "HP": 187, 
+        "Parameter": 12, 
+        "SkillLv": 7
+    }, 
+    "Rank_009": {
+        "Attack": 17, 
+        "Defense": 19, 
+        "growRank": 5, 
+        "HP": 192, 
+        "Parameter": 12, 
+        "SkillLv": 7
+    }, 
+    "Rank_010": {
+        "Attack": 18, 
+        "Defense": 19, 
+        "growRank": 5, 
+        "HP": 196, 
+        "Parameter": 12, 
+        "SkillLv": 8
+    }, 
+    "Rank_011": {
+        "Attack": 18, 
+        "Defense": 20, 
+        "growRank": 6, 
+        "HP": 201, 
+        "Parameter": 13, 
+        "SkillLv": 8
+    }, 
+    "Rank_012": {
+        "Attack": 19, 
+        "Defense": 20, 
+        "growRank": 6, 
+        "HP": 205, 
+        "Parameter": 13, 
+        "SkillLv": 9
+    }, 
+    "Rank_013": {
+        "Attack": 19, 
+        "Defense": 20, 
+        "growRank": 7, 
+        "HP": 210, 
+        "Parameter": 13, 
+        "SkillLv": 9
+    }, 
+    "Rank_014": {
+        "Attack": 20, 
+        "Defense": 21, 
+        "growRank": 7, 
+        "HP": 214, 
+        "Parameter": 13, 
+        "SkillLv": 10
+    }, 
+    "Rank_015": {
+        "Attack": 20, 
+        "Defense": 21, 
+        "growRank": 8, 
+        "HP": 219, 
+        "Parameter": 14, 
+        "SkillLv": 10
+    }, 
+    "Rank_016": {
+        "Attack": 20, 
+        "Defense": 22, 
+        "growRank": 8, 
+        "HP": 223, 
+        "Parameter": 14, 
+        "SkillLv": 10
+    }, 
+    "Rank_017": {
+        "Attack": 21, 
+        "Defense": 22, 
+        "growRank": 9, 
+        "HP": 228, 
+        "Parameter": 14, 
+        "SkillLv": 11
+    }, 
+    "Rank_018": {
+        "Attack": 21, 
+        "Defense": 22, 
+        "growRank": 9, 
+        "HP": 232, 
+        "Parameter": 14, 
+        "SkillLv": 11
+    }, 
+    "Rank_019": {
+        "Attack": 22, 
+        "Defense": 23, 
+        "growRank": 10, 
+        "HP": 237, 
+        "Parameter": 15, 
+        "SkillLv": 12
+    }, 
+    "Rank_020": {
+        "Attack": 22, 
+        "Defense": 23, 
+        "growRank": 10, 
+        "HP": 241, 
+        "Parameter": 15, 
+        "SkillLv": 12
+    }, 
+    "Rank_021": {
+        "Attack": 23, 
+        "Defense": 24, 
+        "growRank": 11, 
+        "HP": 246, 
+        "Parameter": 15, 
+        "SkillLv": 13
+    }, 
+    "Rank_022": {
+        "Attack": 23, 
+        "Defense": 24, 
+        "growRank": 11, 
+        "HP": 250, 
+        "Parameter": 15, 
+        "SkillLv": 13
+    }, 
+    "Rank_023": {
+        "Attack": 24, 
+        "Defense": 24, 
+        "growRank": 12, 
+        "HP": 255, 
+        "Parameter": 16, 
+        "SkillLv": 14
+    }, 
+    "Rank_024": {
+        "Attack": 24, 
+        "Defense": 25, 
+        "growRank": 12, 
+        "HP": 259, 
+        "Parameter": 16, 
+        "SkillLv": 14
+    }, 
+    "Rank_025": {
+        "Attack": 24, 
+        "Defense": 25, 
+        "growRank": 13, 
+        "HP": 264, 
+        "Parameter": 16, 
+        "SkillLv": 15
+    }, 
+    "Rank_026": {
+        "Attack": 25, 
+        "Defense": 26, 
+        "growRank": 13, 
+        "HP": 268, 
+        "Parameter": 16, 
+        "SkillLv": 15
+    }, 
+    "Rank_027": {
+        "Attack": 25, 
+        "Defense": 26, 
+        "growRank": 14, 
+        "HP": 273, 
+        "Parameter": 17, 
+        "SkillLv": 15
+    }, 
+    "Rank_028": {
+        "Attack": 26, 
+        "Defense": 26, 
+        "growRank": 14, 
+        "HP": 277, 
+        "Parameter": 17, 
+        "SkillLv": 16
+    }, 
+    "Rank_029": {
+        "Attack": 26, 
+        "Defense": 27, 
+        "growRank": 15, 
+        "HP": 282, 
+        "Parameter": 17, 
+        "SkillLv": 16
+    }, 
+    "Rank_030": {
+        "Attack": 27, 
+        "Defense": 27, 
+        "growRank": 15, 
+        "HP": 286, 
+        "Parameter": 17, 
+        "SkillLv": 17
+    }, 
+    "Rank_031": {
+        "Attack": 27, 
+        "Defense": 28, 
+        "growRank": 16, 
+        "HP": 291, 
+        "Parameter": 18, 
+        "SkillLv": 17
+    }, 
+    "Rank_032": {
+        "Attack": 28, 
+        "Defense": 28, 
+        "growRank": 16, 
+        "HP": 295, 
+        "Parameter": 18, 
+        "SkillLv": 18
+    }, 
+    "Rank_033": {
+        "Attack": 28, 
+        "Defense": 28, 
+        "growRank": 17, 
+        "HP": 300, 
+        "Parameter": 18, 
+        "SkillLv": 18
+    }, 
+    "Rank_034": {
+        "Attack": 28, 
+        "Defense": 29, 
+        "growRank": 17, 
+        "HP": 304, 
+        "Parameter": 18, 
+        "SkillLv": 18
+    }, 
+    "Rank_035": {
+        "Attack": 29, 
+        "Defense": 29, 
+        "growRank": 18, 
+        "HP": 309, 
+        "Parameter": 19, 
+        "SkillLv": 19
+    }, 
+    "Rank_036": {
+        "Attack": 29, 
+        "Defense": 30, 
+        "growRank": 18, 
+        "HP": 313, 
+        "Parameter": 19, 
+        "SkillLv": 19
+    }, 
+    "Rank_037": {
+        "Attack": 30, 
+        "Defense": 30, 
+        "growRank": 19, 
+        "HP": 318, 
+        "Parameter": 19, 
+        "SkillLv": 20
+    }, 
+    "Rank_038": {
+        "Attack": 30, 
+        "Defense": 30, 
+        "growRank": 19, 
+        "HP": 322, 
+        "Parameter": 19, 
+        "SkillLv": 20
+    }, 
+    "Rank_039": {
+        "Attack": 31, 
+        "Defense": 31, 
+        "growRank": 20, 
+        "HP": 327, 
+        "Parameter": 20, 
+        "SkillLv": 21
+    }, 
+    "Rank_040": {
+        "Attack": 31, 
+        "Defense": 31, 
+        "growRank": 20, 
+        "HP": 331, 
+        "Parameter": 20, 
+        "SkillLv": 21
+    }, 
+    "Rank_041": {
+        "Attack": 31, 
+        "Defense": 32, 
+        "growRank": 21, 
+        "HP": 336, 
+        "Parameter": 20, 
+        "SkillLv": 22
+    }, 
+    "Rank_042": {
+        "Attack": 32, 
+        "Defense": 32, 
+        "growRank": 21, 
+        "HP": 340, 
+        "Parameter": 20, 
+        "SkillLv": 22
+    }, 
+    "Rank_043": {
+        "Attack": 32, 
+        "Defense": 32, 
+        "growRank": 22, 
+        "HP": 345, 
+        "Parameter": 21, 
+        "SkillLv": 22
+    }, 
+    "Rank_044": {
+        "Attack": 33, 
+        "Defense": 33, 
+        "growRank": 22, 
+        "HP": 349, 
+        "Parameter": 21, 
+        "SkillLv": 23
+    }, 
+    "Rank_045": {
+        "Attack": 33, 
+        "Defense": 33, 
+        "growRank": 23, 
+        "HP": 354, 
+        "Parameter": 21, 
+        "SkillLv": 23
+    }, 
+    "Rank_046": {
+        "Attack": 34, 
+        "Defense": 34, 
+        "growRank": 23, 
+        "HP": 358, 
+        "Parameter": 21, 
+        "SkillLv": 24
+    }, 
+    "Rank_047": {
+        "Attack": 34, 
+        "Defense": 34, 
+        "growRank": 24, 
+        "HP": 363, 
+        "Parameter": 22, 
+        "SkillLv": 24
+    }, 
+    "Rank_048": {
+        "Attack": 34, 
+        "Defense": 34, 
+        "growRank": 24, 
+        "HP": 367, 
+        "Parameter": 22, 
+        "SkillLv": 25
+    }, 
+    "Rank_049": {
+        "Attack": 35, 
+        "Defense": 35, 
+        "growRank": 25, 
+        "HP": 372, 
+        "Parameter": 22, 
+        "SkillLv": 25
+    }, 
+    "Rank_050": {
+        "Attack": 35, 
+        "Defense": 35, 
+        "growRank": 25, 
+        "HP": 376, 
+        "Parameter": 22, 
+        "SkillLv": 25
+    }, 
+    "Rank_051": {
+        "Attack": 36, 
+        "Defense": 36, 
+        "growRank": 26, 
+        "HP": 381, 
+        "Parameter": 23, 
+        "SkillLv": 26
+    }, 
+    "Rank_052": {
+        "Attack": 36, 
+        "Defense": 36, 
+        "growRank": 26, 
+        "HP": 385, 
+        "Parameter": 23, 
+        "SkillLv": 26
+    }, 
+    "Rank_053": {
+        "Attack": 37, 
+        "Defense": 36, 
+        "growRank": 27, 
+        "HP": 390, 
+        "Parameter": 23, 
+        "SkillLv": 27
+    }, 
+    "Rank_054": {
+        "Attack": 37, 
+        "Defense": 37, 
+        "growRank": 27, 
+        "HP": 394, 
+        "Parameter": 23, 
+        "SkillLv": 27
+    }, 
+    "Rank_055": {
+        "Attack": 37, 
+        "Defense": 37, 
+        "growRank": 28, 
+        "HP": 399, 
+        "Parameter": 24, 
+        "SkillLv": 28
+    }, 
+    "Rank_056": {
+        "Attack": 38, 
+        "Defense": 38, 
+        "growRank": 28, 
+        "HP": 403, 
+        "Parameter": 24, 
+        "SkillLv": 28
+    }, 
+    "Rank_057": {
+        "Attack": 38, 
+        "Defense": 38, 
+        "growRank": 29, 
+        "HP": 408, 
+        "Parameter": 24, 
+        "SkillLv": 29
+    }, 
+    "Rank_058": {
+        "Attack": 39, 
+        "Defense": 38, 
+        "growRank": 29, 
+        "HP": 412, 
+        "Parameter": 24, 
+        "SkillLv": 29
+    }, 
+    "Rank_059": {
+        "Attack": 39, 
+        "Defense": 39, 
+        "growRank": 30, 
+        "HP": 417, 
+        "Parameter": 25, 
+        "SkillLv": 29
+    }, 
+    "Rank_060": {
+        "Attack": 40, 
+        "Defense": 39, 
+        "growRank": 30, 
+        "HP": 421, 
+        "Parameter": 25, 
+        "SkillLv": 30
+    }, 
+    "Rank_061": {
+        "Attack": 40, 
+        "Defense": 40, 
+        "growRank": 31, 
+        "HP": 426, 
+        "Parameter": 25, 
+        "SkillLv": 30
+    }, 
+    "Rank_062": {
+        "Attack": 40, 
+        "Defense": 40, 
+        "growRank": 31, 
+        "HP": 430, 
+        "Parameter": 25, 
+        "SkillLv": 31
+    }, 
+    "Rank_063": {
+        "Attack": 41, 
+        "Defense": 40, 
+        "growRank": 32, 
+        "HP": 435, 
+        "Parameter": 26, 
+        "SkillLv": 31
+    }, 
+    "Rank_064": {
+        "Attack": 41, 
+        "Defense": 40, 
+        "growRank": 32, 
+        "HP": 439, 
+        "Parameter": 26, 
+        "SkillLv": 32
+    }, 
+    "Rank_065": {
+        "Attack": 42, 
+        "Defense": 40, 
+        "growRank": 33, 
+        "HP": 444, 
+        "Parameter": 26, 
+        "SkillLv": 32
+    }, 
+    "Rank_066": {
+        "Attack": 42, 
+        "Defense": 40, 
+        "growRank": 33, 
+        "HP": 448, 
+        "Parameter": 26, 
+        "SkillLv": 32
+    }, 
+    "Rank_067": {
+        "Attack": 43, 
+        "Defense": 40, 
+        "growRank": 34, 
+        "HP": 453, 
+        "Parameter": 27, 
+        "SkillLv": 33
+    }, 
+    "Rank_068": {
+        "Attack": 43, 
+        "Defense": 40, 
+        "growRank": 34, 
+        "HP": 457, 
+        "Parameter": 27, 
+        "SkillLv": 33
+    }, 
+    "Rank_069": {
+        "Attack": 43, 
+        "Defense": 40, 
+        "growRank": 35, 
+        "HP": 462, 
+        "Parameter": 27, 
+        "SkillLv": 34
+    }, 
+    "Rank_070": {
+        "Attack": 44, 
+        "Defense": 40, 
+        "growRank": 35, 
+        "HP": 466, 
+        "Parameter": 27, 
+        "SkillLv": 34
+    }, 
+    "Rank_071": {
+        "Attack": 44, 
+        "Defense": 40, 
+        "growRank": 36, 
+        "HP": 471, 
+        "Parameter": 28, 
+        "SkillLv": 35
+    }, 
+    "Rank_072": {
+        "Attack": 45, 
+        "Defense": 40, 
+        "growRank": 36, 
+        "HP": 475, 
+        "Parameter": 28, 
+        "SkillLv": 35
+    }, 
+    "Rank_073": {
+        "Attack": 45, 
+        "Defense": 40, 
+        "growRank": 37, 
+        "HP": 480, 
+        "Parameter": 28, 
+        "SkillLv": 35
+    }, 
+    "Rank_074": {
+        "Attack": 46, 
+        "Defense": 40, 
+        "growRank": 37, 
+        "HP": 484, 
+        "Parameter": 28, 
+        "SkillLv": 36
+    }, 
+    "Rank_075": {
+        "Attack": 46, 
+        "Defense": 40, 
+        "growRank": 38, 
+        "HP": 489, 
+        "Parameter": 29, 
+        "SkillLv": 36
+    }, 
+    "Rank_076": {
+        "Attack": 46, 
+        "Defense": 40, 
+        "growRank": 38, 
+        "HP": 493, 
+        "Parameter": 29, 
+        "SkillLv": 37
+    }, 
+    "Rank_077": {
+        "Attack": 47, 
+        "Defense": 40, 
+        "growRank": 39, 
+        "HP": 498, 
+        "Parameter": 29, 
+        "SkillLv": 37
+    }, 
+    "Rank_078": {
+        "Attack": 47, 
+        "Defense": 40, 
+        "growRank": 39, 
+        "HP": 502, 
+        "Parameter": 29, 
+        "SkillLv": 38
+    }, 
+    "Rank_079": {
+        "Attack": 48, 
+        "Defense": 40, 
+        "growRank": 40, 
+        "HP": 507, 
+        "Parameter": 30, 
+        "SkillLv": 38
+    }, 
+    "Rank_080": {
+        "Attack": 48, 
+        "Defense": 40, 
+        "growRank": 40, 
+        "HP": 511, 
+        "Parameter": 30, 
+        "SkillLv": 38
+    }, 
+    "Rank_081": {
+        "Attack": 49, 
+        "Defense": 40, 
+        "growRank": 41, 
+        "HP": 516, 
+        "Parameter": 30, 
+        "SkillLv": 39
+    }, 
+    "Rank_082": {
+        "Attack": 49, 
+        "Defense": 40, 
+        "growRank": 41, 
+        "HP": 520, 
+        "Parameter": 30, 
+        "SkillLv": 39
+    }, 
+    "Rank_083": {
+        "Attack": 49, 
+        "Defense": 40, 
+        "growRank": 42, 
+        "HP": 525, 
+        "Parameter": 31, 
+        "SkillLv": 40
+    }, 
+    "Rank_084": {
+        "Attack": 50, 
+        "Defense": 40, 
+        "growRank": 42, 
+        "HP": 529, 
+        "Parameter": 31, 
+        "SkillLv": 40
+    }, 
+    "Rank_085": {
+        "Attack": 50, 
+        "Defense": 40, 
+        "growRank": 43, 
+        "HP": 534, 
+        "Parameter": 31, 
+        "SkillLv": 40
+    }, 
+    "Rank_086": {
+        "Attack": 51, 
+        "Defense": 40, 
+        "growRank": 43, 
+        "HP": 538, 
+        "Parameter": 31, 
+        "SkillLv": 41
+    }, 
+    "Rank_087": {
+        "Attack": 51, 
+        "Defense": 40, 
+        "growRank": 44, 
+        "HP": 543, 
+        "Parameter": 32, 
+        "SkillLv": 41
+    }, 
+    "Rank_088": {
+        "Attack": 51, 
+        "Defense": 40, 
+        "growRank": 44, 
+        "HP": 547, 
+        "Parameter": 32, 
+        "SkillLv": 42
+    }, 
+    "Rank_089": {
+        "Attack": 52, 
+        "Defense": 40, 
+        "growRank": 45, 
+        "HP": 552, 
+        "Parameter": 32, 
+        "SkillLv": 42
+    }, 
+    "Rank_090": {
+        "Attack": 52, 
+        "Defense": 40, 
+        "growRank": 45, 
+        "HP": 556, 
+        "Parameter": 32, 
+        "SkillLv": 43
+    }, 
+    "Rank_091": {
+        "Attack": 53, 
+        "Defense": 40, 
+        "growRank": 46, 
+        "HP": 561, 
+        "Parameter": 33, 
+        "SkillLv": 43
+    }, 
+    "Rank_092": {
+        "Attack": 53, 
+        "Defense": 40, 
+        "growRank": 46, 
+        "HP": 565, 
+        "Parameter": 33, 
+        "SkillLv": 43
+    }, 
+    "Rank_093": {
+        "Attack": 54, 
+        "Defense": 40, 
+        "growRank": 47, 
+        "HP": 570, 
+        "Parameter": 33, 
+        "SkillLv": 44
+    }, 
+    "Rank_094": {
+        "Attack": 54, 
+        "Defense": 40, 
+        "growRank": 47, 
+        "HP": 574, 
+        "Parameter": 33, 
+        "SkillLv": 44
+    }, 
+    "Rank_095": {
+        "Attack": 54, 
+        "Defense": 40, 
+        "growRank": 48, 
+        "HP": 579, 
+        "Parameter": 34, 
+        "SkillLv": 45
+    }, 
+    "Rank_096": {
+        "Attack": 55, 
+        "Defense": 40, 
+        "growRank": 48, 
+        "HP": 583, 
+        "Parameter": 34, 
+        "SkillLv": 45
+    }, 
+    "Rank_097": {
+        "Attack": 55, 
+        "Defense": 40, 
+        "growRank": 49, 
+        "HP": 588, 
+        "Parameter": 34, 
+        "SkillLv": 46
+    }, 
+    "Rank_098": {
+        "Attack": 56, 
+        "Defense": 40, 
+        "growRank": 49, 
+        "HP": 592, 
+        "Parameter": 34, 
+        "SkillLv": 46
+    }, 
+    "Rank_099": {
+        "Attack": 56, 
+        "Defense": 40, 
+        "growRank": 50, 
+        "HP": 597, 
+        "Parameter": 35, 
+        "SkillLv": 46
+    }, 
+    "Rank_100": {
+        "Attack": 57, 
+        "Defense": 40, 
+        "growRank": 50, 
+        "HP": 601, 
+        "Parameter": 35, 
+        "SkillLv": 47
+    }, 
+    "Rank_101": {
+        "Attack": 57, 
+        "Defense": 40, 
+        "growRank": 51, 
+        "HP": 606, 
+        "Parameter": 35, 
+        "SkillLv": 47
+    }, 
+    "Rank_102": {
+        "Attack": 57, 
+        "Defense": 40, 
+        "growRank": 51, 
+        "HP": 610, 
+        "Parameter": 35, 
+        "SkillLv": 48
+    }, 
+    "Rank_103": {
+        "Attack": 58, 
+        "Defense": 40, 
+        "growRank": 52, 
+        "HP": 615, 
+        "Parameter": 36, 
+        "SkillLv": 48
+    }, 
+    "Rank_104": {
+        "Attack": 58, 
+        "Defense": 40, 
+        "growRank": 52, 
+        "HP": 619, 
+        "Parameter": 36, 
+        "SkillLv": 49
+    }, 
+    "Rank_105": {
+        "Attack": 59, 
+        "Defense": 40, 
+        "growRank": 53, 
+        "HP": 624, 
+        "Parameter": 36, 
+        "SkillLv": 49
+    }, 
+    "Rank_106": {
+        "Attack": 59, 
+        "Defense": 40, 
+        "growRank": 53, 
+        "HP": 628, 
+        "Parameter": 36, 
+        "SkillLv": 49
+    }, 
+    "Rank_107": {
+        "Attack": 59, 
+        "Defense": 40, 
+        "growRank": 54, 
+        "HP": 633, 
+        "Parameter": 37, 
+        "SkillLv": 50
+    }, 
+    "Rank_108": {
+        "Attack": 60, 
+        "Defense": 40, 
+        "growRank": 54, 
+        "HP": 637, 
+        "Parameter": 37, 
+        "SkillLv": 50
+    }, 
+    "Rank_109": {
+        "Attack": 60, 
+        "Defense": 40, 
+        "growRank": 55, 
+        "HP": 642, 
+        "Parameter": 37, 
+        "SkillLv": 51
+    }, 
+    "Rank_110": {
+        "Attack": 61, 
+        "Defense": 40, 
+        "growRank": 55, 
+        "HP": 646, 
+        "Parameter": 37, 
+        "SkillLv": 51
+    }, 
+    "Rank_111": {
+        "Attack": 61, 
+        "Defense": 40, 
+        "growRank": 56, 
+        "HP": 651, 
+        "Parameter": 38, 
+        "SkillLv": 51
+    }, 
+    "Rank_112": {
+        "Attack": 62, 
+        "Defense": 40, 
+        "growRank": 56, 
+        "HP": 655, 
+        "Parameter": 38, 
+        "SkillLv": 52
+    }, 
+    "Rank_113": {
+        "Attack": 62, 
+        "Defense": 40, 
+        "growRank": 57, 
+        "HP": 660, 
+        "Parameter": 38, 
+        "SkillLv": 52
+    }, 
+    "Rank_114": {
+        "Attack": 62, 
+        "Defense": 40, 
+        "growRank": 57, 
+        "HP": 664, 
+        "Parameter": 38, 
+        "SkillLv": 53
+    }, 
+    "Rank_115": {
+        "Attack": 63, 
+        "Defense": 40, 
+        "growRank": 58, 
+        "HP": 669, 
+        "Parameter": 39, 
+        "SkillLv": 53
+    }, 
+    "Rank_116": {
+        "Attack": 63, 
+        "Defense": 40, 
+        "growRank": 58, 
+        "HP": 673, 
+        "Parameter": 39, 
+        "SkillLv": 54
+    }, 
+    "Rank_117": {
+        "Attack": 64, 
+        "Defense": 40, 
+        "growRank": 59, 
+        "HP": 678, 
+        "Parameter": 39, 
+        "SkillLv": 54
+    }, 
+    "Rank_118": {
+        "Attack": 64, 
+        "Defense": 40, 
+        "growRank": 59, 
+        "HP": 682, 
+        "Parameter": 39, 
+        "SkillLv": 54
+    }, 
+    "Rank_119": {
+        "Attack": 64, 
+        "Defense": 40, 
+        "growRank": 60, 
+        "HP": 687, 
+        "Parameter": 40, 
+        "SkillLv": 55
+    }, 
+    "Rank_120": {
+        "Attack": 65, 
+        "Defense": 40, 
+        "growRank": 60, 
+        "HP": 691, 
+        "Parameter": 40, 
+        "SkillLv": 55
+    }, 
+    "Rank_121": {
+        "Attack": 65, 
+        "Defense": 40, 
+        "growRank": 61, 
+        "HP": 696, 
+        "Parameter": 40, 
+        "SkillLv": 56
+    }, 
+    "Rank_122": {
+        "Attack": 66, 
+        "Defense": 40, 
+        "growRank": 61, 
+        "HP": 700, 
+        "Parameter": 40, 
+        "SkillLv": 56
+    }, 
+    "Rank_123": {
+        "Attack": 66, 
+        "Defense": 40, 
+        "growRank": 62, 
+        "HP": 705, 
+        "Parameter": 41, 
+        "SkillLv": 57
+    }, 
+    "Rank_124": {
+        "Attack": 67, 
+        "Defense": 40, 
+        "growRank": 62, 
+        "HP": 709, 
+        "Parameter": 41, 
+        "SkillLv": 57
+    }, 
+    "Rank_125": {
+        "Attack": 67, 
+        "Defense": 40, 
+        "growRank": 63, 
+        "HP": 714, 
+        "Parameter": 41, 
+        "SkillLv": 57
+    }, 
+    "Rank_126": {
+        "Attack": 67, 
+        "Defense": 40, 
+        "growRank": 63, 
+        "HP": 718, 
+        "Parameter": 41, 
+        "SkillLv": 58
+    }, 
+    "Rank_127": {
+        "Attack": 68, 
+        "Defense": 40, 
+        "growRank": 64, 
+        "HP": 723, 
+        "Parameter": 42, 
+        "SkillLv": 58
+    }, 
+    "Rank_128": {
+        "Attack": 68, 
+        "Defense": 40, 
+        "growRank": 64, 
+        "HP": 727, 
+        "Parameter": 42, 
+        "SkillLv": 59
+    }, 
+    "Rank_129": {
+        "Attack": 69, 
+        "Defense": 40, 
+        "growRank": 65, 
+        "HP": 732, 
+        "Parameter": 42, 
+        "SkillLv": 59
+    }, 
+    "Rank_130": {
+        "Attack": 69, 
+        "Defense": 40, 
+        "growRank": 65, 
+        "HP": 736, 
+        "Parameter": 42, 
+        "SkillLv": 59
+    }, 
+    "Rank_131": {
+        "Attack": 69, 
+        "Defense": 40, 
+        "growRank": 66, 
+        "HP": 741, 
+        "Parameter": 43, 
+        "SkillLv": 60
+    }, 
+    "Rank_132": {
+        "Attack": 70, 
+        "Defense": 40, 
+        "growRank": 66, 
+        "HP": 745, 
+        "Parameter": 43, 
+        "SkillLv": 60
+    }, 
+    "Rank_133": {
+        "Attack": 70, 
+        "Defense": 40, 
+        "growRank": 67, 
+        "HP": 750, 
+        "Parameter": 43, 
+        "SkillLv": 61
+    }, 
+    "Rank_134": {
+        "Attack": 71, 
+        "Defense": 40, 
+        "growRank": 67, 
+        "HP": 754, 
+        "Parameter": 43, 
+        "SkillLv": 61
+    }, 
+    "Rank_135": {
+        "Attack": 71, 
+        "Defense": 40, 
+        "growRank": 68, 
+        "HP": 759, 
+        "Parameter": 44, 
+        "SkillLv": 62
+    }, 
+    "Rank_136": {
+        "Attack": 71, 
+        "Defense": 40, 
+        "growRank": 68, 
+        "HP": 763, 
+        "Parameter": 44, 
+        "SkillLv": 62
+    }, 
+    "Rank_137": {
+        "Attack": 72, 
+        "Defense": 40, 
+        "growRank": 69, 
+        "HP": 768, 
+        "Parameter": 44, 
+        "SkillLv": 62
+    }, 
+    "Rank_138": {
+        "Attack": 72, 
+        "Defense": 40, 
+        "growRank": 69, 
+        "HP": 772, 
+        "Parameter": 44, 
+        "SkillLv": 63
+    }, 
+    "Rank_139": {
+        "Attack": 73, 
+        "Defense": 40, 
+        "growRank": 70, 
+        "HP": 777, 
+        "Parameter": 45, 
+        "SkillLv": 63
+    }, 
+    "Rank_140": {
+        "Attack": 73, 
+        "Defense": 40, 
+        "growRank": 70, 
+        "HP": 781, 
+        "Parameter": 45, 
+        "SkillLv": 64
+    }, 
+    "Rank_141": {
+        "Attack": 74, 
+        "Defense": 40, 
+        "growRank": 71, 
+        "HP": 786, 
+        "Parameter": 45, 
+        "SkillLv": 64
+    }, 
+    "Rank_142": {
+        "Attack": 74, 
+        "Defense": 40, 
+        "growRank": 71, 
+        "HP": 790, 
+        "Parameter": 45, 
+        "SkillLv": 64
+    }, 
+    "Rank_143": {
+        "Attack": 74, 
+        "Defense": 40, 
+        "growRank": 72, 
+        "HP": 795, 
+        "Parameter": 46, 
+        "SkillLv": 65
+    }, 
+    "Rank_144": {
+        "Attack": 75, 
+        "Defense": 40, 
+        "growRank": 72, 
+        "HP": 799, 
+        "Parameter": 46, 
+        "SkillLv": 65
+    }, 
+    "Rank_145": {
+        "Attack": 75, 
+        "Defense": 40, 
+        "growRank": 73, 
+        "HP": 804, 
+        "Parameter": 46, 
+        "SkillLv": 66
+    }, 
+    "Rank_146": {
+        "Attack": 76, 
+        "Defense": 40, 
+        "growRank": 73, 
+        "HP": 808, 
+        "Parameter": 46, 
+        "SkillLv": 66
+    }, 
+    "Rank_147": {
+        "Attack": 76, 
+        "Defense": 40, 
+        "growRank": 74, 
+        "HP": 813, 
+        "Parameter": 47, 
+        "SkillLv": 67
+    }, 
+    "Rank_148": {
+        "Attack": 76, 
+        "Defense": 40, 
+        "growRank": 74, 
+        "HP": 817, 
+        "Parameter": 47, 
+        "SkillLv": 67
+    }, 
+    "Rank_149": {
+        "Attack": 77, 
+        "Defense": 40, 
+        "growRank": 75, 
+        "HP": 822, 
+        "Parameter": 47, 
+        "SkillLv": 67
+    }, 
+    "Rank_150": {
+        "Attack": 77, 
+        "Defense": 40, 
+        "growRank": 75, 
+        "HP": 826, 
+        "Parameter": 47, 
+        "SkillLv": 68
+    }, 
+    "Rank_151": {
+        "Attack": 78, 
+        "Defense": 40, 
+        "growRank": 76, 
+        "HP": 831, 
+        "Parameter": 48, 
+        "SkillLv": 68
+    }, 
+    "Rank_152": {
+        "Attack": 78, 
+        "Defense": 40, 
+        "growRank": 76, 
+        "HP": 835, 
+        "Parameter": 48, 
+        "SkillLv": 69
+    }, 
+    "Rank_153": {
+        "Attack": 78, 
+        "Defense": 40, 
+        "growRank": 77, 
+        "HP": 840, 
+        "Parameter": 48, 
+        "SkillLv": 69
+    }, 
+    "Rank_154": {
+        "Attack": 79, 
+        "Defense": 40, 
+        "growRank": 77, 
+        "HP": 844, 
+        "Parameter": 48, 
+        "SkillLv": 69
+    }, 
+    "Rank_155": {
+        "Attack": 79, 
+        "Defense": 40, 
+        "growRank": 78, 
+        "HP": 849, 
+        "Parameter": 49, 
+        "SkillLv": 70
+    }, 
+    "Rank_156": {
+        "Attack": 80, 
+        "Defense": 40, 
+        "growRank": 78, 
+        "HP": 853, 
+        "Parameter": 49, 
+        "SkillLv": 70
+    }, 
+    "Rank_157": {
+        "Attack": 80, 
+        "Defense": 40, 
+        "growRank": 79, 
+        "HP": 858, 
+        "Parameter": 49, 
+        "SkillLv": 71
+    }, 
+    "Rank_158": {
+        "Attack": 81, 
+        "Defense": 40, 
+        "growRank": 79, 
+        "HP": 862, 
+        "Parameter": 49, 
+        "SkillLv": 71
+    }, 
+    "Rank_159": {
+        "Attack": 81, 
+        "Defense": 40, 
+        "growRank": 80, 
+        "HP": 867, 
+        "Parameter": 50, 
+        "SkillLv": 72
+    }, 
+    "Rank_160": {
+        "Attack": 81, 
+        "Defense": 40, 
+        "growRank": 80, 
+        "HP": 869, 
+        "Parameter": 50, 
+        "SkillLv": 72
+    }, 
+    "Rank_161": {
+        "Attack": 81, 
+        "Defense": 40, 
+        "growRank": 81, 
+        "HP": 873, 
+        "Parameter": 50, 
+        "SkillLv": 72
+    }, 
+    "Rank_162": {
+        "Attack": 82, 
+        "Defense": 40, 
+        "growRank": 81, 
+        "HP": 874, 
+        "Parameter": 50, 
+        "SkillLv": 72
+    }, 
+    "Rank_163": {
+        "Attack": 82, 
+        "Defense": 40, 
+        "growRank": 82, 
+        "HP": 878, 
+        "Parameter": 51, 
+        "SkillLv": 72
+    }, 
+    "Rank_164": {
+        "Attack": 82, 
+        "Defense": 40, 
+        "growRank": 82, 
+        "HP": 880, 
+        "Parameter": 51, 
+        "SkillLv": 73
+    }, 
+    "Rank_165": {
+        "Attack": 82, 
+        "Defense": 40, 
+        "growRank": 83, 
+        "HP": 883, 
+        "Parameter": 51, 
+        "SkillLv": 73
+    }, 
+    "Rank_166": {
+        "Attack": 82, 
+        "Defense": 40, 
+        "growRank": 83, 
+        "HP": 885, 
+        "Parameter": 51, 
+        "SkillLv": 73
+    }, 
+    "Rank_167": {
+        "Attack": 83, 
+        "Defense": 40, 
+        "growRank": 84, 
+        "HP": 889, 
+        "Parameter": 52, 
+        "SkillLv": 73
+    }, 
+    "Rank_168": {
+        "Attack": 83, 
+        "Defense": 40, 
+        "growRank": 84, 
+        "HP": 891, 
+        "Parameter": 52, 
+        "SkillLv": 73
+    }, 
+    "Rank_169": {
+        "Attack": 83, 
+        "Defense": 40, 
+        "growRank": 85, 
+        "HP": 894, 
+        "Parameter": 52, 
+        "SkillLv": 74
+    }, 
+    "Rank_170": {
+        "Attack": 83, 
+        "Defense": 40, 
+        "growRank": 85, 
+        "HP": 896, 
+        "Parameter": 52, 
+        "SkillLv": 74
+    }, 
+    "Rank_171": {
+        "Attack": 83, 
+        "Defense": 40, 
+        "growRank": 86, 
+        "HP": 900, 
+        "Parameter": 53, 
+        "SkillLv": 74
+    }, 
+    "Rank_172": {
+        "Attack": 84, 
+        "Defense": 40, 
+        "growRank": 86, 
+        "HP": 901, 
+        "Parameter": 53, 
+        "SkillLv": 74
+    }, 
+    "Rank_173": {
+        "Attack": 84, 
+        "Defense": 40, 
+        "growRank": 87, 
+        "HP": 905, 
+        "Parameter": 53, 
+        "SkillLv": 74
+    }, 
+    "Rank_174": {
+        "Attack": 84, 
+        "Defense": 40, 
+        "growRank": 87, 
+        "HP": 907, 
+        "Parameter": 53, 
+        "SkillLv": 75
+    }, 
+    "Rank_175": {
+        "Attack": 84, 
+        "Defense": 40, 
+        "growRank": 88, 
+        "HP": 910, 
+        "Parameter": 54, 
+        "SkillLv": 75
+    }, 
+    "Rank_176": {
+        "Attack": 84, 
+        "Defense": 40, 
+        "growRank": 88, 
+        "HP": 912, 
+        "Parameter": 54, 
+        "SkillLv": 75
+    }, 
+    "Rank_177": {
+        "Attack": 85, 
+        "Defense": 40, 
+        "growRank": 89, 
+        "HP": 916, 
+        "Parameter": 54, 
+        "SkillLv": 75
+    }, 
+    "Rank_178": {
+        "Attack": 85, 
+        "Defense": 40, 
+        "growRank": 89, 
+        "HP": 918, 
+        "Parameter": 54, 
+        "SkillLv": 76
+    }, 
+    "Rank_179": {
+        "Attack": 85, 
+        "Defense": 40, 
+        "growRank": 90, 
+        "HP": 921, 
+        "Parameter": 55, 
+        "SkillLv": 76
+    }, 
+    "Rank_180": {
+        "Attack": 85, 
+        "Defense": 40, 
+        "growRank": 90, 
+        "HP": 923, 
+        "Parameter": 55, 
+        "SkillLv": 76
+    }, 
+    "Rank_181": {
+        "Attack": 85, 
+        "Defense": 40, 
+        "growRank": 91, 
+        "HP": 927, 
+        "Parameter": 55, 
+        "SkillLv": 76
+    }, 
+    "Rank_182": {
+        "Attack": 86, 
+        "Defense": 40, 
+        "growRank": 91, 
+        "HP": 928, 
+        "Parameter": 55, 
+        "SkillLv": 76
+    }, 
+    "Rank_183": {
+        "Attack": 86, 
+        "Defense": 40, 
+        "growRank": 92, 
+        "HP": 932, 
+        "Parameter": 56, 
+        "SkillLv": 77
+    }, 
+    "Rank_184": {
+        "Attack": 86, 
+        "Defense": 40, 
+        "growRank": 92, 
+        "HP": 934, 
+        "Parameter": 56, 
+        "SkillLv": 77
+    }, 
+    "Rank_185": {
+        "Attack": 86, 
+        "Defense": 40, 
+        "growRank": 93, 
+        "HP": 937, 
+        "Parameter": 56, 
+        "SkillLv": 77
+    }, 
+    "Rank_186": {
+        "Attack": 86, 
+        "Defense": 40, 
+        "growRank": 93, 
+        "HP": 939, 
+        "Parameter": 56, 
+        "SkillLv": 77
+    }, 
+    "Rank_187": {
+        "Attack": 87, 
+        "Defense": 40, 
+        "growRank": 94, 
+        "HP": 943, 
+        "Parameter": 57, 
+        "SkillLv": 77
+    }, 
+    "Rank_188": {
+        "Attack": 87, 
+        "Defense": 40, 
+        "growRank": 94, 
+        "HP": 945, 
+        "Parameter": 57, 
+        "SkillLv": 78
+    }, 
+    "Rank_189": {
+        "Attack": 87, 
+        "Defense": 40, 
+        "growRank": 95, 
+        "HP": 948, 
+        "Parameter": 57, 
+        "SkillLv": 78
+    }, 
+    "Rank_190": {
+        "Attack": 87, 
+        "Defense": 40, 
+        "growRank": 95, 
+        "HP": 950, 
+        "Parameter": 57, 
+        "SkillLv": 78
+    }, 
+    "Rank_191": {
+        "Attack": 88, 
+        "Defense": 40, 
+        "growRank": 96, 
+        "HP": 954, 
+        "Parameter": 58, 
+        "SkillLv": 78
+    }, 
+    "Rank_192": {
+        "Attack": 88, 
+        "Defense": 40, 
+        "growRank": 96, 
+        "HP": 955, 
+        "Parameter": 58, 
+        "SkillLv": 78
+    }, 
+    "Rank_193": {
+        "Attack": 88, 
+        "Defense": 40, 
+        "growRank": 97, 
+        "HP": 959, 
+        "Parameter": 58, 
+        "SkillLv": 79
+    }, 
+    "Rank_194": {
+        "Attack": 88, 
+        "Defense": 40, 
+        "growRank": 97, 
+        "HP": 961, 
+        "Parameter": 58, 
+        "SkillLv": 79
+    }, 
+    "Rank_195": {
+        "Attack": 88, 
+        "Defense": 40, 
+        "growRank": 98, 
+        "HP": 964, 
+        "Parameter": 59, 
+        "SkillLv": 79
+    }, 
+    "Rank_196": {
+        "Attack": 89, 
+        "Defense": 40, 
+        "growRank": 98, 
+        "HP": 966, 
+        "Parameter": 59, 
+        "SkillLv": 79
+    }, 
+    "Rank_197": {
+        "Attack": 89, 
+        "Defense": 40, 
+        "growRank": 99, 
+        "HP": 970, 
+        "Parameter": 59, 
+        "SkillLv": 79
+    }, 
+    "Rank_198": {
+        "Attack": 89, 
+        "Defense": 40, 
+        "growRank": 99, 
+        "HP": 972, 
+        "Parameter": 59, 
+        "SkillLv": 80
+    }, 
+    "Rank_199": {
+        "Attack": 89, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 975, 
+        "Parameter": 60, 
+        "SkillLv": 80
+    }, 
+    "Rank_200": {
+        "Attack": 89, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 977, 
+        "Parameter": 60, 
+        "SkillLv": 80
+    }, 
+    "Rank_201": {
+        "Attack": 90, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 981, 
+        "Parameter": 60, 
+        "SkillLv": 80
+    }, 
+    "Rank_202": {
+        "Attack": 90, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 982, 
+        "Parameter": 60, 
+        "SkillLv": 80
+    }, 
+    "Rank_203": {
+        "Attack": 90, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 986, 
+        "Parameter": 61, 
+        "SkillLv": 81
+    }, 
+    "Rank_204": {
+        "Attack": 90, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 988, 
+        "Parameter": 61, 
+        "SkillLv": 81
+    }, 
+    "Rank_205": {
+        "Attack": 90, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 991, 
+        "Parameter": 61, 
+        "SkillLv": 81
+    }, 
+    "Rank_206": {
+        "Attack": 91, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 993, 
+        "Parameter": 61, 
+        "SkillLv": 81
+    }, 
+    "Rank_207": {
+        "Attack": 91, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 997, 
+        "Parameter": 62, 
+        "SkillLv": 82
+    }, 
+    "Rank_208": {
+        "Attack": 91, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 999, 
+        "Parameter": 62, 
+        "SkillLv": 82
+    }, 
+    "Rank_209": {
+        "Attack": 91, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1002, 
+        "Parameter": 62, 
+        "SkillLv": 82
+    }, 
+    "Rank_210": {
+        "Attack": 91, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1004, 
+        "Parameter": 62, 
+        "SkillLv": 82
+    }, 
+    "Rank_211": {
+        "Attack": 92, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1008, 
+        "Parameter": 63, 
+        "SkillLv": 82
+    }, 
+    "Rank_212": {
+        "Attack": 92, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1009, 
+        "Parameter": 63, 
+        "SkillLv": 83
+    }, 
+    "Rank_213": {
+        "Attack": 92, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1013, 
+        "Parameter": 63, 
+        "SkillLv": 83
+    }, 
+    "Rank_214": {
+        "Attack": 92, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1015, 
+        "Parameter": 63, 
+        "SkillLv": 83
+    }, 
+    "Rank_215": {
+        "Attack": 92, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1018, 
+        "Parameter": 64, 
+        "SkillLv": 83
+    }, 
+    "Rank_216": {
+        "Attack": 93, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1020, 
+        "Parameter": 64, 
+        "SkillLv": 83
+    }, 
+    "Rank_217": {
+        "Attack": 93, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1024, 
+        "Parameter": 64, 
+        "SkillLv": 84
+    }, 
+    "Rank_218": {
+        "Attack": 93, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1026, 
+        "Parameter": 64, 
+        "SkillLv": 84
+    }, 
+    "Rank_219": {
+        "Attack": 93, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1029, 
+        "Parameter": 65, 
+        "SkillLv": 84
+    }, 
+    "Rank_220": {
+        "Attack": 93, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1031, 
+        "Parameter": 65, 
+        "SkillLv": 84
+    }, 
+    "Rank_221": {
+        "Attack": 94, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1035, 
+        "Parameter": 65, 
+        "SkillLv": 84
+    }, 
+    "Rank_222": {
+        "Attack": 94, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1036, 
+        "Parameter": 65, 
+        "SkillLv": 85
+    }, 
+    "Rank_223": {
+        "Attack": 94, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1040, 
+        "Parameter": 66, 
+        "SkillLv": 85
+    }, 
+    "Rank_224": {
+        "Attack": 94, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1042, 
+        "Parameter": 66, 
+        "SkillLv": 85
+    }, 
+    "Rank_225": {
+        "Attack": 94, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1045, 
+        "Parameter": 66, 
+        "SkillLv": 85
+    }, 
+    "Rank_226": {
+        "Attack": 95, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1047, 
+        "Parameter": 66, 
+        "SkillLv": 85
+    }, 
+    "Rank_227": {
+        "Attack": 95, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1051, 
+        "Parameter": 67, 
+        "SkillLv": 86
+    }, 
+    "Rank_228": {
+        "Attack": 95, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1053, 
+        "Parameter": 67, 
+        "SkillLv": 86
+    }, 
+    "Rank_229": {
+        "Attack": 95, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1056, 
+        "Parameter": 67, 
+        "SkillLv": 86
+    }, 
+    "Rank_230": {
+        "Attack": 95, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1058, 
+        "Parameter": 67, 
+        "SkillLv": 86
+    }, 
+    "Rank_231": {
+        "Attack": 96, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1062, 
+        "Parameter": 68, 
+        "SkillLv": 86
+    }, 
+    "Rank_232": {
+        "Attack": 96, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1063, 
+        "Parameter": 68, 
+        "SkillLv": 87
+    }, 
+    "Rank_233": {
+        "Attack": 96, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1067, 
+        "Parameter": 68, 
+        "SkillLv": 87
+    }, 
+    "Rank_234": {
+        "Attack": 96, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1069, 
+        "Parameter": 68, 
+        "SkillLv": 87
+    }, 
+    "Rank_235": {
+        "Attack": 97, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1072, 
+        "Parameter": 69, 
+        "SkillLv": 87
+    }, 
+    "Rank_236": {
+        "Attack": 97, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1074, 
+        "Parameter": 69, 
+        "SkillLv": 88
+    }, 
+    "Rank_237": {
+        "Attack": 97, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1078, 
+        "Parameter": 69, 
+        "SkillLv": 88
+    }, 
+    "Rank_238": {
+        "Attack": 97, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1080, 
+        "Parameter": 69, 
+        "SkillLv": 88
+    }, 
+    "Rank_239": {
+        "Attack": 97, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1083, 
+        "Parameter": 70, 
+        "SkillLv": 88
+    }, 
+    "Rank_240": {
+        "Attack": 98, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1085, 
+        "Parameter": 70, 
+        "SkillLv": 88
+    }, 
+    "Rank_241": {
+        "Attack": 98, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1089, 
+        "Parameter": 70, 
+        "SkillLv": 89
+    }, 
+    "Rank_242": {
+        "Attack": 98, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1090, 
+        "Parameter": 70, 
+        "SkillLv": 89
+    }, 
+    "Rank_243": {
+        "Attack": 98, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1094, 
+        "Parameter": 71, 
+        "SkillLv": 89
+    }, 
+    "Rank_244": {
+        "Attack": 98, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1096, 
+        "Parameter": 71, 
+        "SkillLv": 89
+    }, 
+    "Rank_245": {
+        "Attack": 99, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1099, 
+        "Parameter": 71, 
+        "SkillLv": 89
+    }, 
+    "Rank_246": {
+        "Attack": 99, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1101, 
+        "Parameter": 71, 
+        "SkillLv": 90
+    }, 
+    "Rank_247": {
+        "Attack": 99, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1105, 
+        "Parameter": 72, 
+        "SkillLv": 90
+    }, 
+    "Rank_248": {
+        "Attack": 99, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1107, 
+        "Parameter": 72, 
+        "SkillLv": 90
+    }, 
+    "Rank_249": {
+        "Attack": 99, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1110, 
+        "Parameter": 72, 
+        "SkillLv": 90
+    }, 
+    "Rank_250": {
+        "Attack": 100, 
+        "Defense": 40, 
+        "growRank": 100, 
+        "HP": 1112, 
+        "Parameter": 72, 
+        "SkillLv": 90
+    }
+}

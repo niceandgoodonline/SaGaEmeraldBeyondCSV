@@ -1,0 +1,22 @@
+{
+  "W06_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Invading the Kosmos"
+  },
+  "W06_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a twisty, squirmy world on the other side of the door. Will you find your heart here?"
+  },
+  "W06_EVAR_DIVA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Return via the Expulsitory"
+  },
+  "W06_EVAR_DIVA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You weren't able to find your heart in this world. You'll have to look elsewhere."
+  },
+  "W06_EVAR_DIVA_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave the Kosmos"
+  }
+}

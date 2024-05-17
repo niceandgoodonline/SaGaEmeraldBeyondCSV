@@ -1,0 +1,46 @@
+{
+  "W11_EVAR_BOFO_AREA_IN_TITLE": {
+    "speaker": "UI",
+    "text": "Kamala: The World of Maidens"
+  },
+  "W11_EVAR_BOFO_AREA_IN_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world teeming with vegetation and water on the other side of the door. Will you really find a triangle here?"
+  },
+  "W11_EVAR_BOFO_TRIANGLE_330_TITLE": {
+    "speaker": "UI",
+    "text": "Clerics of the Imeru"
+  },
+  "W11_EVAR_BOFO_TRIANGLE_330_DETAIL": {
+    "speaker": "UI",
+    "text": "The green line is directing you to two clerics of the Imeru. Will they guide you to another triangle?"
+  },
+  "W11_EVAR_BOFO_TRIANGLE_330_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Imeru Clerics"
+  },
+  "W11_EVAR_BOFO_RETURN_999_TITLE": {
+    "speaker": "UI",
+    "text": "The Temple Entrance"
+  },
+  "W11_EVAR_BOFO_RETURN_999_DETAIL": {
+    "speaker": "UI",
+    "text": "You can leave Kamala through here."
+  },
+  "W11_EVAR_BOFO_RETURN_999_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Twilight Area"
+  },
+  "W11_GIMK_BOFO_TRIANGLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Fiend Egg"
+  },
+  "W11_GIMK_BOFO_TRIANGLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You are being guided to an egg containing a fiend of Ancikar. What is the connection between the triangles and Ancikar?"
+  },
+  "W11_GIMK_BOFO_TRIANGLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Destroy the Egg"
+  }
+}

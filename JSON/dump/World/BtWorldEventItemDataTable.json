@@ -1,0 +1,1377 @@
+{
+  "EP_MAJYO_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "WLLSW01_A",
+    "ItemNum": "1"
+  },
+  "EP_MAJYO_02": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "EP_MAJYO_03": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_ROCK",
+    "ItemNum": "5"
+  },
+  "EP_MAJYO_04": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_M0000",
+    "ItemNum": "1"
+  },
+  "EP_MAJYO_05": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_FIGHT",
+    "ItemNum": "1"
+  },
+  "EP_MAJYO_06": {
+    "LabelType": "MechaBody",
+    "ItemLabel": "MBody_Diva_No5_01_Test",
+    "ItemNum": "1"
+  },
+  "REW_TEST_DUMMY_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W12_MARION_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "5"
+  },
+  "REW_W12_MORGANE_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC03_A",
+    "ItemNum": "1"
+  },
+  "REW_W12_MORGANE_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC09_A",
+    "ItemNum": "1"
+  },
+  "REW_W12_ERIC_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_IRON_ORE",
+    "ItemNum": "1"
+  },
+  "REW_W12_ESPERANCE_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W12_REMI_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "8"
+  },
+  "REW_W12_SANDRINE_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAHE17_A",
+    "ItemNum": "1"
+  },
+  "REW_W12_CABIN_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "3"
+  },
+  "REW_W12_FARM_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_04",
+    "ItemNum": "1"
+  },
+  "REW_W12_THERMAE_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_05",
+    "ItemNum": "1"
+  },
+  "REW_W12_CHAPEL_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_06",
+    "ItemNum": "1"
+  },
+  "REW_W12_TOWER_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_07",
+    "ItemNum": "1"
+  },
+  "REW_W01_PAGODA_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WHSSW02_A",
+    "ItemNum": "1"
+  },
+  "REW_W01_REPORT_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W01_FATHER_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC06_A",
+    "ItemNum": "1"
+  },
+  "REW_W01_CAVE_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W01_PRIMADONNA_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W01_SEQUOIA_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_MOKU",
+    "ItemNum": "10"
+  },
+  "REW_W01_SANGENIN_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "10"
+  },
+  "REW_W01_JIZO_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KIN",
+    "ItemNum": "10"
+  },
+  "REW_W10_MAG000_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC24_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_MAG507_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_INSECT_SHELL",
+    "ItemNum": "5"
+  },
+  "REW_W10_MAG098_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC13_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_MAG056_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_ALURA",
+    "ItemNum": "5"
+  },
+  "REW_W10_MAG001_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_W10_CONTAINER_WEAPON",
+    "ItemNum": "1"
+  },
+  "REW_W10_MAG002_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_W10_CONTAINER_ACCE",
+    "ItemNum": "1"
+  },
+  "REW_W10_MAGEND_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "GHFLA02_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_CLT002_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WLDAG02_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_CLT002_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAGL14_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_CLTEND_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "GHELE02_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_LIF000_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAGL04_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_LIF001_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "MANA03_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_LIF001_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC21_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_LIF002_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SASH08_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_LIF002_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC18_A",
+    "ItemNum": "1"
+  },
+  "REW_W10_LIFEND_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "GHBOM02_A",
+    "ItemNum": "1"
+  },
+  "REW_W03_WELL_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_W03_WELL",
+    "ItemNum": "1"
+  },
+  "REW_W15_TRADE_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W07_MISSION141_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KA",
+    "ItemNum": "5"
+  },
+  "REW_W07_MISSION142_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "5"
+  },
+  "REW_W07_MISSION231_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "3"
+  },
+  "REW_W07_MISSION232_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KIN",
+    "ItemNum": "5"
+  },
+  "REW_W07_MISSION101_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KA",
+    "ItemNum": "5"
+  },
+  "REW_W07_MISSION102_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_IRON_ORE",
+    "ItemNum": "2"
+  },
+  "REW_W07_MISSION201_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "3"
+  },
+  "REW_W07_MISSION202_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_MOKU",
+    "ItemNum": "5"
+  },
+  "REW_W07_MISSION301_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KIN",
+    "ItemNum": "5"
+  },
+  "REW_W07_MISSION302_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_FUR_RARE",
+    "ItemNum": "3"
+  },
+  "REW_W07_MISSION401_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "5"
+  },
+  "REW_W07_MISSION402_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "5"
+  },
+  "REW_W07_VICTORYFIRE_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KA",
+    "ItemNum": "15"
+  },
+  "REW_W07_VICTORYFIRE_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KA",
+    "ItemNum": "50"
+  },
+  "REW_W07_VICTORYFIRE_02": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC31_A",
+    "ItemNum": "1"
+  },
+  "REW_W07_VICTORYWOOD_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_MOKU",
+    "ItemNum": "15"
+  },
+  "REW_W07_VICTORYWOOD_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_MOKU",
+    "ItemNum": "50"
+  },
+  "REW_W07_VICTORYWOOD_02": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC32_A",
+    "ItemNum": "1"
+  },
+  "REW_W07_VICTORYWIND_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KIN",
+    "ItemNum": "15"
+  },
+  "REW_W07_VICTORYWIND_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KIN",
+    "ItemNum": "50"
+  },
+  "REW_W07_VICTORYWIND_02": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC30_A",
+    "ItemNum": "1"
+  },
+  "REW_W07_VICTORYWATER_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "15"
+  },
+  "REW_W07_VICTORYWATER_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "50"
+  },
+  "REW_W07_VICTORYWATER_02": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC33_A",
+    "ItemNum": "1"
+  },
+  "REW_W18_SIMTEST_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "GLONE01_A",
+    "ItemNum": "1"
+  },
+  "REW_W18_MEETING_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAIN01_B",
+    "ItemNum": "1"
+  },
+  "REW_W06_EP1_STOMACH_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "5"
+  },
+  "REW_W06_EP1_CANCER_STOMACH_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_ORB",
+    "ItemNum": "1"
+  },
+  "REW_W06_EP1_LUNGS_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KIN",
+    "ItemNum": "5"
+  },
+  "REW_W06_EP1_CANCER_LUNGS_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_ORB",
+    "ItemNum": "1"
+  },
+  "REW_W06_EP1_BRAIN_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KA",
+    "ItemNum": "5"
+  },
+  "REW_W06_EP1_CANCER_BRAIN_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_ORB",
+    "ItemNum": "1"
+  },
+  "REW_W06_EP1_HEART_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KA",
+    "ItemNum": "5"
+  },
+  "REW_W06_EP1_TRI_HEART_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "3"
+  },
+  "REW_W06_EP1_TRI_HEART_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "10"
+  },
+  "REW_W06_EP1_TRI_HEART_02": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "20"
+  },
+  "REW_W06_EP1_CANCER_HEART_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_ORB",
+    "ItemNum": "1"
+  },
+  "REW_W06_EP2_STOMACH_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "10"
+  },
+  "REW_W06_EP2_HEART_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KA",
+    "ItemNum": "10"
+  },
+  "REW_W06_EP2_LUNGS_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KIN",
+    "ItemNum": "10"
+  },
+  "REW_W06_EP2_BRAIN_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_MOKU",
+    "ItemNum": "10"
+  },
+  "REW_W06_EP2_BOSS_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "MARO07_A",
+    "ItemNum": "1"
+  },
+  "REW_W06_EP2_BOSS_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "WLRAP06_A",
+    "ItemNum": "1"
+  },
+  "REW_W06_EP2_BOSS_02": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "10"
+  },
+  "REW_W04_CRUISESHIP_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "10"
+  },
+  "REW_W04_PIRATE_BOUNTY_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "2"
+  },
+  "REW_W04_PIRATE_BOUNTY_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "2"
+  },
+  "REW_W04_LIGHTHOUSE_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WLAXE05_A",
+    "ItemNum": "1"
+  },
+  "REW_W04_GHOSTSHIP_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "1"
+  },
+  "REW_W04_GHOST_AXE_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WLAXE07_A",
+    "ItemNum": "1"
+  },
+  "REW_W04_BOX_MONSTER_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SASH16_A",
+    "ItemNum": "1"
+  },
+  "REW_W04_BASE_ENDING_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "2"
+  },
+  "REW_W04_BASE_ENDING_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "2"
+  },
+  "REW_W04_BASE_ENDING_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "2"
+  },
+  "REW_W04_BASE_ENDING_03": {
+    "LabelType": "Equip",
+    "ItemLabel": "WHPSW07_A",
+    "ItemNum": "1"
+  },
+  "REW_W04_LIBERATOR": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "1"
+  },
+  "REW_W04_RESEARCHER_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SASH07_A",
+    "ItemNum": "1"
+  },
+  "REW_W04_BIRD_QUEST_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC17_A",
+    "ItemNum": "1"
+  },
+  "REW_W02_STORY_BLACK_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "15"
+  },
+  "REW_W02_STORY_BLUE_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_MOKU",
+    "ItemNum": "15"
+  },
+  "REW_W02_STORY_RED_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KA",
+    "ItemNum": "15"
+  },
+  "REW_W02_STORY_YELLOW_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "15"
+  },
+  "REW_W02_STORY_WHITE_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_KIN",
+    "ItemNum": "15"
+  },
+  "REW_W02_LAST_BATTLE_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W02_LAST_BATTLE_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "4"
+  },
+  "REW_W02_WHITE_MINE_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE",
+    "ItemNum": "2"
+  },
+  "REW_W14_BOSS1_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "1"
+  },
+  "REW_W14_BOSS2_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "3"
+  },
+  "REW_W14_BOSS3_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "5"
+  },
+  "REW_W14_INTERVAL1_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "20"
+  },
+  "REW_W14_INTERVAL2_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W14_BLACKSMITH_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WHSSW_HIDEYOSHI",
+    "ItemNum": "1"
+  },
+  "REW_W14_BLACKSMITH_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "WHSSW_IEYASU",
+    "ItemNum": "1"
+  },
+  "REW_W14_BLACKSMITH_02": {
+    "LabelType": "Equip",
+    "ItemLabel": "WHSSW_NOBUNAGA",
+    "ItemNum": "1"
+  },
+  "REW_W14_MERCHANT_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WLRAP08_A",
+    "ItemNum": "1"
+  },
+  "REW_W14_DROWN_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_NATIVE_SILVER",
+    "ItemNum": "3"
+  },
+  "REW_W14_WITCH_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAAC27_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_DIG_MISS_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE_S",
+    "ItemNum": "1"
+  },
+  "REW_W13_DIG_MISS_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_MARMOR_HIGH",
+    "ItemNum": "1"
+  },
+  "REW_W13_DIG_MISS_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_SARMOR_HIGH",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS0_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WHPSW11_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS0_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "MANA12_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS0_02": {
+    "LabelType": "Equip",
+    "ItemLabel": "MANA13_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS1_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "GHBOM02_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS1_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAHE13_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS1_02": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAHE14_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS2_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "GLONE14_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS2_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "SASH03_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS2_02": {
+    "LabelType": "Equip",
+    "ItemLabel": "SASH04_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS3_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WLAXE10_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS3_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAGL04_A",
+    "ItemNum": "1"
+  },
+  "REW_W13_BOSS3_02": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAGL05_A",
+    "ItemNum": "1"
+  },
+  "REW_W09_SQUARE_ONE_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_ORB",
+    "ItemNum": "1"
+  },
+  "REW_W09_MARKET_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "GLONE16_A",
+    "ItemNum": "1"
+  },
+  "REW_W09_CEMETERY_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WHGSW_EXCALIBUR_01",
+    "ItemNum": "1"
+  },
+  "REW_W09_LAST_BATTLE_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "1"
+  },
+  "REW_W09_LAST_BATTLE_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W09_LAST_BATTLE_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "4"
+  },
+  "REW_W03_GLUTTONY00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SASH00_C",
+    "ItemNum": "1"
+  },
+  "REW_W03_LUST00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SNAKESKIN",
+    "ItemNum": "5"
+  },
+  "REW_W03_RAGE00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WHGSW01_GUARD_A",
+    "ItemNum": "1"
+  },
+  "REW_W03_SLOTH00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_ALURA",
+    "ItemNum": "5"
+  },
+  "REW_W03_KING00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WEAPON_HIGH",
+    "ItemNum": "1"
+  },
+  "REW_W03_KING01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WEAPON_HIGH",
+    "ItemNum": "1"
+  },
+  "REW_W03_DOLORES00": {
+    "LabelType": "Equip",
+    "ItemLabel": "WLAXE09_A",
+    "ItemNum": "1"
+  },
+  "REW_W15_INDUSTRIAL_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_MARMOR_HIGH",
+    "ItemNum": "1"
+  },
+  "REW_W15_MINE_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W15_RANCH_00": {
+    "LabelType": "Equip",
+    "ItemLabel": "SAHE09_A",
+    "ItemNum": "1"
+  },
+  "REW_W15_DAM_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_SUI",
+    "ItemNum": "10"
+  },
+  "REW_W15_PARK_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_ORB",
+    "ItemNum": "1"
+  },
+  "REW_W17_TEMPLE_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_IRON_ORE",
+    "ItemNum": "1"
+  },
+  "REW_W17_TEMPLE_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "MACL01_A",
+    "ItemNum": "1"
+  },
+  "REW_W17_TEMPLE_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_W17_MARMOR_LOW",
+    "ItemNum": "1"
+  },
+  "REW_W17_TEMPLE_03": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_W17_MARMOR_HIGH",
+    "ItemNum": "1"
+  },
+  "REW_W17_RUIN_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "5"
+  },
+  "REW_W17_RUIN_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_IRON_ORE",
+    "ItemNum": "1"
+  },
+  "REW_W17_RUIN_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "1"
+  },
+  "REW_W17_RUIN_03": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W17_FORT_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "5"
+  },
+  "REW_W17_FORT_01": {
+    "LabelType": "Equip",
+    "ItemLabel": "WHGSW_OLD_01",
+    "ItemNum": "1"
+  },
+  "REW_W17_FORT_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_W17_WEAPON_LOW",
+    "ItemNum": "2"
+  },
+  "REW_W17_FORT_03": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_W17_WEAPON_HIGH",
+    "ItemNum": "1"
+  },
+  "REW_W17_CITY_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FIBER",
+    "ItemNum": "2"
+  },
+  "REW_W17_CITY_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W17_CITY_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "3"
+  },
+  "REW_W17_CHURCH_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "5"
+  },
+  "REW_W17_CHURCH_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_W17_SARMOR_LOW",
+    "ItemNum": "1"
+  },
+  "REW_W17_CHURCH_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_W17_SARMOR_HIGH",
+    "ItemNum": "1"
+  },
+  "REW_W19_BEAVER_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_LIGULATE_FLOWER",
+    "ItemNum": "1"
+  },
+  "REW_W19_GAMEEND_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SCRUB",
+    "ItemNum": "5"
+  },
+  "REW_W19_GAMEEND_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "5"
+  },
+  "REW_W19_GAMEEND_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "10"
+  },
+  "REW_W08_BOSS_MECH_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W08_BOSS_MECH_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "4"
+  },
+  "REW_W08_BOSS_FLOWER_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_LIGULATE_FLOWER",
+    "ItemNum": "3"
+  },
+  "REW_W08_BOSS_FLOWER_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_DISK_FLOWER",
+    "ItemNum": "5"
+  },
+  "REW_W08_BOSS_WHALE_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_BONE_RARE",
+    "ItemNum": "1"
+  },
+  "REW_W08_BOSS_WHALE_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_BONE_RARE",
+    "ItemNum": "3"
+  },
+  "REW_W08_SAVE_HUMAN_1ST_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_HUMAN_1ST_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_HUMAN_2ND_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_HUMAN_3RD_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_INSECT_1ST_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_INSECT_1ST_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_INSECT_2ND_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_INSECT_3RD_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_FROG_1ST_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_FROG_1ST_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_FROG_2ND_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_SAVE_FROG_3RD_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_FE_DO",
+    "ItemNum": "20"
+  },
+  "REW_W08_STONE_00": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "2"
+  },
+  "REW_W08_STONE_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_03",
+    "ItemNum": "2"
+  },
+  "REW_W08_STONE_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W08_EARTHWORM_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_BEAST_BONE",
+    "ItemNum": "5"
+  },
+  "REW_W08_EARTHWORM_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_MAGICAL_BEAST_BONE",
+    "ItemNum": "2"
+  },
+  "REW_W08_EARTHWORM_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_BONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W11_SHREN_01_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W11_SHREN_01_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W11_SHREN_01_03": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_FUR_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W11_SHREN_02_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W11_SHREN_02_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W11_SHREN_02_03": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_FUR_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W11_SHREN_03_01": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_WOOD_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W11_SHREN_03_02": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_STONE_RARE",
+    "ItemNum": "2"
+  },
+  "REW_W11_SHREN_03_03": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_FUR_RARE",
+    "ItemNum": "2"
+  },
+  "REW_IDEA_DEDICATION": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_DEDICATION",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_IDEAL": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_IDEAL",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_GENIUS": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_GENIUS",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_HONOR": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_HONOR",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_GUARD": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_GUARD",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_TRADITION": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_TRADITION",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_FREE": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_FREE",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_DICIPLINE": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_DICIPLINE",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_GLITTER": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_GLITTER",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_OBEDIENCE": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_OBEDIENCE",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_VITALITY": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_VITALITY",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_HARMONY": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_HARMONY",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_ORDER": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_ORDER",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_AMBITION": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_AMBITION",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_SILENCE": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_SILENCE",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_UPHEABAL": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_UPHEABAL",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_AUTHORITY": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_AUTHORITY",
+    "ItemNum": "1"
+  },
+  "REW_IDEA_REINCARNATION": {
+    "LabelType": "Idea",
+    "ItemLabel": "IDEA_REINCARNATION",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_KA_EASY": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_KA_E",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_KIN_EASY": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_KIN_E",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_SUI_EASY": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_SUI_E",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_MOKU_EASY": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_MOKU_E",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_KA_NORMAL": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_KA_N",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_KIN_NORMAL": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_KIN_N",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_SUI_NORMAL": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_SUI_N",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_MOKU_NORMAL": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_MOKU_N",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_KA_HARD": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_KA_H",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_KIN_HARD": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_KIN_H",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_SUI_HARD": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_SUI_H",
+    "ItemNum": "1"
+  },
+  "REW_SOUL_MOKU_HARD": {
+    "LabelType": "Soul",
+    "ItemLabel": "SOUL_E_BOSS_ELEMENT_MOKU_H",
+    "ItemNum": "1"
+  },
+  "REW_W11_POLLEN_00": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_001",
+    "ItemNum": "1"
+  },
+  "REW_W11_POLLEN_01": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_002",
+    "ItemNum": "1"
+  },
+  "REW_W11_POLLEN_02": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_003",
+    "ItemNum": "1"
+  },
+  "REW_W11_POLLEN_03": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_004",
+    "ItemNum": "1"
+  },
+  "REW_W11_POLLEN_04": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_005",
+    "ItemNum": "1"
+  },
+  "REW_W99_001": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_01",
+    "ItemNum": "3"
+  },
+  "REW_W99_002": {
+    "LabelType": "DropItem",
+    "ItemLabel": "DL_DROP_02",
+    "ItemNum": "1"
+  },
+  "REW_W99_003": {
+    "LabelType": "Equip",
+    "ItemLabel": "WLLSW10_A",
+    "ItemNum": "1"
+  },
+  "REW_W99_004": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_005": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_006": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_007": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_008": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_009": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_010": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_011": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_012": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_013": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_014": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_015": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_016": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_017": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_018": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_019": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_020": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_021": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_022": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_023": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_024": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_025": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_026": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_027": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_028": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_029": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  },
+  "REW_W99_030": {
+    "LabelType": "Sozai",
+    "ItemLabel": "SOZAI_SPIRIT_STONE",
+    "ItemNum": "1"
+  }
+}

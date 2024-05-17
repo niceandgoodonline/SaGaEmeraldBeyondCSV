@@ -1,0 +1,182 @@
+{
+  "SUB_C01_GMCK_SIUG_EMERALDRIDE_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "An inferior life-form—and yet, I feel as\nthough I have seen this somewhere before. \nIs it a member of my thrall, perhaps?\nOr an enemy I once fought?"
+  },
+  "SUB_C01_GMCK_SIUG_EMERALDRIDE_000_CUT_000_001": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You again, inferior life-form?\nWhat is it this time?"
+  },
+  "SUB_C01_GMCK_SIUG_EMERALDRIDE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What!?"
+  },
+  "SUB_C01_GMCK_SIUG_TRADEDRUM_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Who put this thing here? It looks\nlike a trap—one which compels you\nto touch it."
+  },
+  "SUB_C01_GMCK_SIUG_TRADEDRUM_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What!?"
+  },
+  "SUB_C01_WRLD_SIUG_ERYTHEIA_000_CUT_000_000": {
+    "speaker": "Erytheia",
+    "text": "Oh boy. Oooh boy. Is this what\nit's like outside of the Kosmos?\fPlease, Canker! Pinch my cellular wall\nand wake me from this horrid nightmare!\nI don't want to be alone here!"
+  },
+  "SUB_C01_WRLD_SIUG_ERYTHEIA_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What are you doing here, blob?\nDid you take care of Canker?"
+  },
+  "SUB_C01_WRLD_SIUG_ERYTHEIA_000_CUT_000_020": {
+    "speaker": "Erytheia",
+    "text": "Foreign body detected! Oh, thank goodness!\nWell, I have no use for Canker anymore.\nAaaaaand away you go!"
+  },
+  "SUB_C01_WRLD_SIUG_ERYTHEIA_000_CUT_000_030": {
+    "speaker": "Erytheia",
+    "text": "Now let us sally forth together!\nYou and I will need to get used to\nbeing in the same boat, as it were."
+  },
+  "SUB_C01_WRLD_SIUG_INITIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "To think such a place lay beyond this door.\nAh, but I suppose infinite portals would\nlead off to infinite worlds."
+  },
+  "SUB_C01_WRLD_SIUG_INITIAL_000_CUT_000_010": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "I feel as though I have seen this place\nbefore—and that I have ventured through\nthese doors times beyond counting."
+  },
+  "SUB_C01_WRLD_SIUG_INITIAL_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are familiar with this\nplace then, Philosopher?"
+  },
+  "SUB_C01_WRLD_SIUG_INITIAL_000_CUT_000_030": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Do you mean to suggest you\nare not, my dear Count!?"
+  },
+  "SUB_C01_WRLD_SIUG_INITIAL_000_CUT_000_040": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "I believe we have made a terrible,\n<i>terrible</i> mistake."
+  },
+  "SUB_C01_WRLD_SIUG_INITIAL_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Allay your fears; we will find\nour door soon enough."
+  },
+  "SUB_C01_SCAN_SIUG_INITIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So the door is mine to choose, is it?"
+  },
+  "SUB_C01_WRLD_SIUG_KENZOKU_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Though meager it may be, my power has grown.\nI am pleased that venturing through that world\nwas not the waste of time I feared it to be."
+  },
+  "SUB_C01_WRLD_SIUG_EINHERJAR_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I now have powerful servants under my sway\nin the form of this warrior band. As such,\nthe time is nigh for me to return to my throne."
+  },
+  "SUB_C01_WRLD_SIUG_EINHERJAR_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I now have powerful servants under my sway\nin the form of this warrior band. As such,\nthe time is nigh for me to return to my throne.\fAnd yet, is there any point\nin my clinging to such?"
+  },
+  "SUB_C01_WRLD_SIUG_EINHERJAR_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A journey to unleash the darkness of my warrior\nband sounds positively delightful. Should any\namong them awaken to their inner darkness,\nI just might be able to make knights of them."
+  },
+  "SUB_C01_WRLD_SIUG_EINHERJAR_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I truly hope that an individual deserving\nof sanguine gear is found on this journey."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_000": {
+    "speaker": "Man_Overworld_Plate",
+    "text": "And where do you think you're going?\nThe Dismal King ought to return to the\nDark Castle—that is the plan."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I go where I please.\nNow name yourself, churl!"
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_020": {
+    "speaker": "Man_Overworld_Plate",
+    "text": "Who I am does not matter; all that matters is\nthat you are the Dismal King, he who must spread\nthe Dismal Myth across the Conjoined Worlds.\nAnd yet, myth must remain in the realm of myth."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_030": {
+    "speaker": "Man_Overworld_Plate",
+    "text": "But you have done enough. For you see,\nI occasionally update the Conjoined Worlds'\nshared memory. In doing so, the Conjoined\nWorlds' loose sense of unity is maintained."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And you claim my journey with my\nwarrior band was your plan all along?"
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_050": {
+    "speaker": "Man_Overworld_Plate",
+    "text": "At least until your initial encounter, yes. But you have\nfreedom of will, so I cannot predict how you will act—\nnot even now. Yet while not all has gone according\nto my plan, enough has to satisfy our needs. All that\nremains now is for you to return to your dismal land. "
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So you would send me back to Yomi\nby force, if necessary?"
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_070": {
+    "speaker": "Man_Overworld_Plate",
+    "text": "Yes, though I would prefer for you to return of\nyour own will; I'd rather not exert the effort\nunless it is absolutely necessary."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The avoidance of exertion is also\naccording to your 'plan,' is it not?\fAs such, I shall act accordingly—but I will\nnot be returning to the dismal land! Instead,\nI will continue my journey in a new world\nbeyond that door."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_000_090": {
+    "speaker": "Man_Overworld_Plate",
+    "text": "You are the very nuisance I believed you\nto be, Dismal King! Alas, I fear we must\nkeep you under our thumb for the sake\nof the Conjoined Worlds' diversity."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Victory is mine. We have earned\nthe right to move freely."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_010_010": {
+    "speaker": "General_Einherjar",
+    "text": "I demand an even more perfect victory!"
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_010_020": {
+    "speaker": "Brave_Einherjar",
+    "text": "I want to go to a world where\nI can be a true hero!"
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_010_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "I'm gonna aim higher—into infinity,\njust like Yer Majesty does!"
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_010_040": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Gotta love all the worlds! Mind unfurled!\nGet tied down by one and you're done, son!"
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_010_050": {
+    "speaker": "Killer_Einherjar",
+    "text": "So long as there are things to kill\nin my future, I will decide what\nlives are to be ended."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_010_060": {
+    "speaker": "Philosopher_Einherjar",
+    "text": "Will we be taking a tour of endless worlds?\nThat DOES sound positively titillating—\nand yet, imagine the hassle."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_010_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then let us strike out beyond the\nguidance of the Emerald Wave!"
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_100_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have achieved victory this day."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_100_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And yet, I believe I used perhaps\ntoo much of my power."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_100_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "My future lies beyond that door."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_100_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, but I have infinite time and no\nneed to rush. Rest is required now."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_100_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "When I awake, I will venture\nout beyond the door."
+  },
+  "SUB_C01_EVNT_SIUG_LASTBATTLE_100_CUT_100_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "But for now...I slumber."
+  }
+}

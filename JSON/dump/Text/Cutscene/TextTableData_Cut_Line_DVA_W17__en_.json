@@ -1,0 +1,1222 @@
+{
+  "SUB_W17_WRLD_DIVA_INITIAL_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "This is Brighthome. You have been summoned\nhere by its king, so make sure to go along with\nthings as appropriate. Oh, and maybe practice\nyour curtsey and all that, mmm?"
+  },
+  "SUB_W17_WRLD_DIVA_INITIAL_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Ye may be fine with just 'going along,'\nlove, but I cannae promise to do that."
+  },
+  "SUB_W17_WRLD_DIVA_INITIAL_000_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "You make me sound like some sort of\nboot-licking glad-hander! You really should\ntreat your commander with more respect."
+  },
+  "SUB_W17_SCAN_DIVA_INITIAL_WAVE_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This land's king should be in that castle.\nI'll go offer my greetings."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_000_000": {
+    "speaker": "King_Din",
+    "text": "Be welcome in Brighthome, my new warrior!\nI am Din, the king of this land, and full glad\nam I that you have answered my call. "
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "So you're the one who\ncalled me here?"
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Just so. I have summoned you hence so you\nmight join the battle against the forces\nof Chaos spreading o'er this land."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_000_030": {
+    "speaker": "King_Din",
+    "text": "We are set against them in battle without end,\nand require aid from warriors across the\nConjoined Worlds that we might continue\nour brave endeavor."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Then your war is not going well?"
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_000_050": {
+    "speaker": "King_Din",
+    "text": "Our brave allies continue their valorous fight\nacross the land—and while we have seen many\nvictories, so too have we known much of defeat.\nAlas, Chaos is not a foe easily laid low."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_000_060": {
+    "speaker": "King_Din",
+    "text": "I would have you join us as we attempt to\ndrive our foes back unto the Cleft of Chaos,\nlocated to the far north of this castle."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Do ye truly believe I can make\na difference in this struggle?"
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_000_080": {
+    "speaker": "King_Din",
+    "text": "Be this false vanity, or do you truly not\ncomprehend your own worth as a warrior?"
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Jinks, what was that!?"
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_010_010": {
+    "speaker": "King_Din",
+    "text": "The nearby village and fields were set upon\nby the forces of Chaos, and the battle to\nsee them safe is now underway.\fAnd while I know it unseemly to ask this so\nsoon after your arrival in our world, I would\nhave you lend us your aid, that we might\ndrive our hated foe into obscurity."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Participating in this war may lead to\nfinding my heart—so in a way, ye are\nattempting to guide me."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_010_030": {
+    "speaker": "King_Din",
+    "text": "There are warriors from across the Conjoined\nWorlds here in Brighthome, and their reasons\nfor fighting—as well as the nature of their\nhearts—are as varied as their homeworlds.\fYet through the war with Chaos will those\nhearts shine all the brighter! So yes,\nmy warrior: bearing witness to this may\nindeed lead to the answers you seek."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Then I will join your battle\nagainst the power of Chaos."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_010_050": {
+    "speaker": "King_Din",
+    "text": "Then I hereby decree you to be our\nnewest warrior, and grant you the\nproud appellation of Seer."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but I'm D05-72314, commonly known as\nSongstress Diva No. 5. I don't require a new name."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_010_070": {
+    "speaker": "King_Din",
+    "text": "All who find their way to Brighthome\nare granted a name by the king, Seer.\nThis is the way of things."
+  },
+  "SUB_W17_EVAR_DIVA_CASTLE_TUT_000_CUT_010_080": {
+    "speaker": "Diva_No5",
+    "text": "I will add the appellation of\n'Seer' to my database, then."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "Oh, you must be King Din's newest warrior.\nI'm President, and I lead the warrior band\nin this village and the surrounding area.\nIt's good to meet you."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "This situation certainly isn't going well;\nthe enemy has nearly made it all the way\nto the castle's stoop."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "This war is unfolding across all Brighthome—\nand when things are going poorly for us on the\nother side of the bridges, the forces of Chaos are\nable to harry us as they like on this side."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "That said, they're nowhere near as strong here\nas they are at the positions closest to the\nCleft of Chaos, which is why a man like me\ncan still be of some use.\fMy field is governance, you see.\nNot war."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Ye were summoned here by\nKing Din as well, then?"
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Indeed. From what I understand, the people\nof this world can't hold their own in the war\nagainst the forces of Chaos, so they call on\nthe power of fighters from other worlds."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Well, I'm searching for my heart.\nMight ye know anything about that?"
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_070": {
+    "speaker": "Chief",
+    "text": "As I said, with battle unfolding all across\nBrighthome, we've not the luxury of worrying\nabout anything but war. That's likely why \nKing Din is expecting so much of you."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Truly? But I've only just\narrived in this world."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_090": {
+    "speaker": "Chief",
+    "text": "You have the power to see unobstructed.\nTo see much. To forecast. To watch. \nThat's why you were given your name."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Perhaps you refer to my scanning functionality?\nBecause otherwise, I'm a machine that doesn't\npossess any special powers of note."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_110": {
+    "speaker": "Chief",
+    "text": "Fair enough. Now then, while you'll often\nfind yourself facing many choices, you can\nonly aid one particular area at a time.\fAnd while the war will get worse in locations\nwhere you don't help, you can't do anything\nabout that. You're just one soldier, after all,\nso try to keep that in mind."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "Understood. I'll have to consider my\ncourse carefully while also bearing in\nmind the war situation. So to start,\nI suppose I should pop by the fields."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_010_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "You must be Seer, our new warrior.\nI'm President, and I lead the fighters in this village\nand the surrounding area. Thanks for the help."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "So sorry I'm late, love."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_010_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "Honestly, I was a little disappointed when\nyou went there—but it wasn't <i>wrong</i>, per se.\nWhen it comes to where you go, all you can\ndo is make whatever choice you think is best."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_010_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "But as you get deeper into the war and head over\nthe bridges, you need to have a plan in place—\nbecause any locations on this side that you leave\non their own will be targeted by the enemy.\fAnd look, I know our ultimate goal is to\nstrike at the Cleft of Chaos, but if all\nwe think about is advancing the line..."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Then positions on this side of the\nbridge could easily fall to Chaos."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_010_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Yep. Slow and steady progress is the best\ncourse—or at least that's what I think.\nEveryone else seems to just want big\nflashy results, though, so who knows."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_TUT_010_CUT_000_080": {
+    "speaker": "Chief",
+    "text": "Now, c'mon. Let's work together\nand liberate Brighthome from the\nclutches of Chaos."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Well, you must be King Din's new warrior!\nI'm Manikin—I lead the warrior band that\nprotects these fields."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "The war's unfolding all across Brighthome, and\nwhen things are going bad on the other side of\nthe bridges, the forces of Chaos show up here.\nHell, sometimes they even come to these fields!"
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_030": {
+    "speaker": "Doll",
+    "text": "That said, the enemy's pretty weak here\ncompared to their strength near the\nCleft of Chaos, which is how a fellow\nlike me can still be useful.\fSo if you need someone to watch over\na field, I'm your guy."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Ye were summoned here\nby King Din as well?"
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_050": {
+    "speaker": "Doll",
+    "text": "Sure was! No idea why the king needed a wooden\nthing like me to help out, but here I am—and I want\nto do the best job I can to aid the people and fields\nof this world."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Well, I'm searching for my heart.\nMight ye know anything about that?"
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_070": {
+    "speaker": "Doll",
+    "text": "Ha ha ha! Buddy, my head's made of wood,\nso there's no way I'd know about that kind\nof thing. All I know is that King Din seems\nto be expecting a lot from you."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Truly? But I've only just\narrived in this world."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_090": {
+    "speaker": "Doll",
+    "text": "Yeah, but he named you the Seer, right?\nThat means you've got the power to see\nthings unobstructed—to predict the future,\nwatch what unfolds, and understand it."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_110": {
+    "speaker": "Doll",
+    "text": "But no matter how much you can see, you can still\nonly help one place at a time—so the others will\njust have to figure out some other way to get by.\fI know that sounds rough, but trust me,\nyou'll get used to it. Just remember that\nyou're not fighting alone, so get out\nthere and do the best you can, okay? "
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "Understood. I'll have to consider my\ncourse carefully while also bearing in\nmind the war situation. So to start,\nI suppose I should pop by the village."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_010_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Well, you must be King Din's new warrior!\nI'm Manikin—I lead the warrior band that\nprotects these fields."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "So sorry I'm late, love."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_010_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "Yeah, it wasn't great watching you head\nto the village before us, but I figured\nyou'd make it out this way eventually.\nAnd now look! Here you are."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_010_CUT_000_030": {
+    "speaker": "Doll",
+    "text": "Just remember that the closer you get to\nthe Cleft of Chaos in the hinterlands,\nthe harder it will be for you to come\nback here and help out.\fBasically, while you're off helping at one\nlocation, positions elsewhere might fall to\nthe forces of Chaos. It's a huge bummer,\nbut them's the breaks."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "So a constant understanding of the\ncomplete situation is the first step\ntoward victory, then."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_010_CUT_000_050": {
+    "speaker": "Doll",
+    "text": "Yep. As for me, my job is to keep\nan eye on things—and thankfully,\nI am GREAT at standing completely\nmotionless and staring at stuff!"
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_TUT_010_CUT_000_080": {
+    "speaker": "Doll",
+    "text": "Now get out there and let's give this\nfight all we've got—for Brighthome's\npeople AND its fields!"
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_000": {
+    "speaker": "Bully",
+    "text": "So you're the newcomer, eh, Seer? Tongues around\nhere are all a'wag about how you're the greatest\nthing since milled bread, which is why the king\nis expecting all these great things from you.\fMe though? I don't trust that kind of talk—\nand folks like you who encourage it really\nchap my cheeks. So I think it's time to knock\nyou around and show you what's what."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "A traditional Brighthome welcome, is it?\nHow lovely! I'm chuffed at the chance to\nexperience such a thing!"
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_020": {
+    "speaker": "Bully",
+    "text": "Heh. You ain't half bad, Seer.\nThe name's Bully—or at least that's\nwhat people around here call me."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_030": {
+    "speaker": "Bully",
+    "text": "Yeah, that's what I thought:\nall talk, no fists.\fWell, I'm Bully—leader of the warrior band\nin these parts. Pretty short name, but you\nseem a bit dense, so write it down somewhere\nif it helps you remember."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "This place is a mine, aye? Is the ore\nunearthed here used for weapons, then?"
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_050": {
+    "speaker": "Bully",
+    "text": "I only just got here myself, so I don't\nknow a whole lot more than you.\nBasically, stuff that's dug up here gets\nsent to King Din's castle."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Oh, so it's the king's mine?"
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Let's use it to help nearby areas."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Let's send more to the king."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_090": {
+    "speaker": "Bully",
+    "text": "Heh. I like the way you think, Seer—\nsending all this junk off to the king\nalways struck me as a hell of a waste. "
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Though King Din may be steamed,\nwe have a war to win."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_110": {
+    "speaker": "Bully",
+    "text": "We couldn't fight the forces of Chaos if we\nwere afraid of what the damn king might do!\nLook, I'll just sock him one if he complains,\nso don't worry that pretty face about it."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_TUT_000_CUT_000_120": {
+    "speaker": "Bully",
+    "text": "So the king's boots ain't been tonguewashed\nenough for your liking, eh? Sure thing, Seer.\nI hear ya loud and clear."
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_TUT_000_CUT_000_000": {
+    "speaker": "Lord",
+    "text": "You must be the new war asset I keep hearing\nabout. I take it you're traveling the world like\na one-woman commando unit? Ah, but that\nmakes me jealous...\fAnyway, I'm Warden, and it's my job\nto watch over the graveyard."
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_TUT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I'd not think there was anything worth\nstealing in a cemetery, love."
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_TUT_000_CUT_000_020": {
+    "speaker": "Lord",
+    "text": "Not unless you count the dead that are pulling\nthemselves out of the dirt and roaming the land!\nHell, that's the dictionary definition of Chaos,\nain't it, pal?\fThat's why the enemy's always got\ntheir beady little eyes fixed on\nthe corpses here."
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_TUT_000_CUT_000_030": {
+    "speaker": "Lord",
+    "text": "On top of that, we've got bodies piling up like\ncordwood, and not enough hands to see 'em\nproperly buried. We're pretty much cleaning\nup after the other warrior bands' messes."
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_TUT_000_CUT_000_040": {
+    "speaker": "Lord",
+    "text": "Also, King Din might've named me Warden,\nbut I don't see why I've gotta resign myself\nto watching over some moldering old graves.\fI should be out there saving grand castles,\nsacred temples, and ancient ruins. I mean,\nhell, any idiot can keep an eye on a grave,\nbut I was meant for greater things!"
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_TUT_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Is there anything I\ncan do to help ye?"
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_TUT_000_CUT_000_060": {
+    "speaker": "Lord",
+    "text": "You're good...uh, people, for offering.\nMaybe just tend the graves or somethin'?"
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_TUT_000_CUT_000_000": {
+    "speaker": "Vacuum",
+    "text": "Hey! You there! I KNOW you're not here\nto steal my prey, right? Riiight!?\fHmm... Now that I look more closely,\nI don't think I've seen your face before.\nWhich warrior band are you with?"
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_TUT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I'm Seer."
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_TUT_000_CUT_000_020": {
+    "speaker": "Vacuum",
+    "text": "Ah, right. The new 'reinforcements.'\nI heard a warrior with the power to\nturn the tide of the war was coming—\nthough can't say I'm seeing it in you."
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_TUT_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I've no power such as that."
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_TUT_000_CUT_000_040": {
+    "speaker": "Vacuum",
+    "text": "Still, so long as I get to keep fighting my heart\nout, I don't really care what you do or how the\nwar effort's going overall. I chew up fiends and\nspit 'em out, and that's what makes sense to me."
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_TUT_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "So ye fight because your heart\ntells ye to do so, then?"
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_TUT_000_CUT_000_060": {
+    "speaker": "Vacuum",
+    "text": "I'm just a fighter invited here by King Din.\nIf you wanna know all the whys and hows,\nyou'll have to ask the big man himself."
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_TUT_000_CUT_000_070": {
+    "speaker": "Vacuum",
+    "text": "Now, are you gonna stand here griping\nat me all day, or are you gonna get out\nthere and scope some more positions?"
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_TUT_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I'll be off.\nTerribly sorry for the bother."
+  },
+  "SUB_W17_EVAR_DIVA_CITY_TUT_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Was this town abandoned due to\nthe invasion of Chaos, perhaps?"
+  },
+  "SUB_W17_EVAR_DIVA_CITY_TUT_000_CUT_000_010": {
+    "speaker": "Fiore",
+    "text": "Some people yet live here,\nand we fight to protect them.\fI am Floral. You are Seer, the one\npeople are talking about, yes?"
+  },
+  "SUB_W17_EVAR_DIVA_CITY_TUT_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "People talk about me? Oh my days!\nWhat are they saying?"
+  },
+  "SUB_W17_EVAR_DIVA_CITY_TUT_000_CUT_000_030": {
+    "speaker": "Fiore",
+    "text": "Good and bad in equal measure—the good\nbeing that you might be the one who can\nbring an end to this wretched war."
+  },
+  "SUB_W17_EVAR_DIVA_CITY_TUT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "And the bad?"
+  },
+  "SUB_W17_EVAR_DIVA_CITY_TUT_000_CUT_000_050": {
+    "speaker": "Fiore",
+    "text": "I will not speak of it, for I place no\nstock in rumor. Rather, I would like to\nascertain the truth of you for myself."
+  },
+  "SUB_W17_EVAR_DIVA_CITY_TUT_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "What should I do then?"
+  },
+  "SUB_W17_EVAR_DIVA_CITY_TUT_000_CUT_000_070": {
+    "speaker": "Fiore",
+    "text": "Test your mettle against the forces of\nChaos here in town so I might determine\nthe truth of you. Epuyke nogonoa kowo!"
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_000_CUT_000_000": {
+    "speaker": "Arsenal",
+    "text": "I am Gunner. You are Seer, yes?\nWe have succeeded in retaking\nthe stronghold, and I thank you\nfor your assistance. "
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "With this fortress claimed, our forces could\nset out for the Cleft of Chaos from the shortest\npossible distance—which is a cracking strategy\nfor turning the war to our favor!"
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_000_CUT_000_020": {
+    "speaker": "Arsenal",
+    "text": "Indeed. This fortress was built to deal with\nthe mighty fiends that emerge from the Cleft,\nbut it had fallen into enemy hands long ago."
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Should we set out for\nthe Cleft, then?"
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_000_CUT_000_040": {
+    "speaker": "Arsenal",
+    "text": "No, the time is not yet right. We will better\nour chances at successfully cutting off the\nCleft if we take all the positions around it."
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I concur with that assessment.\nLet's set our sights on a sure victory!"
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_TUT_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "We're near the Cleft of Chaos, and yet there\nare no fiends here. The person who protects\nthis temple must be a proper fighter indeed!"
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_TUT_000_CUT_000_010": {
+    "speaker": "Sorceress",
+    "text": "Correct! I am Sorceress,\nthe fighter to whom you refer."
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_TUT_000_CUT_000_020": {
+    "speaker": "Sorceress",
+    "text": "I was surprised to see another warrior\nband here, but then I realized you must\nbe the newcomer, Seer."
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_TUT_000_CUT_000_030": {
+    "speaker": "Sorceress",
+    "text": "Ah, what fine timing! The forces of Chaos\nhave come, drawn as they are to your power.\nNow you can show me just what King Din's\nsecret weapon is made of!"
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_TUT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Conflict resolved."
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_TUT_000_CUT_000_050": {
+    "speaker": "Sorceress",
+    "text": "You clearly know how to fight, Seer. Perhaps\nyou truly are the one who will bring an end\nto the war with Chaos—not that the prospect\nthrills me, if I'm being honest."
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_000": {
+    "speaker": "Gadget",
+    "text": "Welcome to Hell, Seer. You find that\nheart you're looking for yet?"
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Has Chaos reduced this\nplace to a ruin, then?"
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_020": {
+    "speaker": "Gadget",
+    "text": "This place was a ruin well before the\nCleft of Chaos even opened. This is\nwhy it attracts the forces of Chaos,\nand why it has become Hell itself."
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "This location does not match any existing\nHells noted in my database, but the idea\nof a keeper of Hell is one I have many\npreexisting entries for."
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_040": {
+    "speaker": "Gadget",
+    "text": "You're calling me the keeper of Hell,\nyou heartless machine?"
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I am. Were ye summoned\nhere by King Din as well?"
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_060": {
+    "speaker": "Gadget",
+    "text": "Sure was! I'm Gadget. I have a true name,\nbut right now, I just use the name given\nto me by the man I work for, King Din."
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "King Din says warriors' hearts shine bright\nby fighting with Chaos, and that I might\nfind a clue regarding my own heart if\nI were to witness such things."
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_080": {
+    "speaker": "Gadget",
+    "text": "You wanna see my heart shine? Then stand back\nand watch me send everything that emerges from\nthe Cleft of Chaos to Hell! Bwaaa ha ha ha!"
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_TUT_000_CUT_000_090": {
+    "speaker": "Gadget",
+    "text": "And with that, it appears we have enemies\nclosing in. I'll be certain to share a couple\nwith you, Seer!"
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I've been to the temple and the ruins—\nand as the king said, there certainly\nare loads of different warriors there!"
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_010_CUT_000_010": {
+    "speaker": "Arsenal",
+    "text": "Those warriors are interested in nothing save\ndemonstrating their own strength—they could\nnot care less about the war or cooperating\nwith our other positions across the land.\fThat said, they are also the only reason\nyou and I are able to continue fighting\nso close to the Cleft."
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_010_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I suspect ye could get them to cooperate\nwith ye here at the stronghold now."
+  },
+  "SUB_W17_EVAR_DIVA_FORT_TUT_010_CUT_000_030": {
+    "speaker": "Arsenal",
+    "text": "I wager this is true—and hope so\nas well. For now is our chance\nto march on the Cleft of Chaos!"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_000_000": {
+    "speaker": "King_Din",
+    "text": "So you have arrived at last.\nWell done, Seer."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "We've yet to secure the ruins."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Be that as it may, we cannot let\nslip this opportunity to strike\nat the Cleft of Chaos."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I agree."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "We've yet to secure the temple."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It's dangerous here, Your Majesty!"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "I would bear witness to the\nfinal battle for myself."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Then we'll deliver ye victory!"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_040_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "The legendary treasure is\nfilled with heaps of power!"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_040_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Do not let up! Strike at them\nand seal the Cleft!"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_040_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "We cannae lose now!"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_010_000": {
+    "speaker": "King_Din",
+    "text": "And with that, the Cleft is sealed.\nFor a time, at least, peace will\nreign across the land."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Can the Cleft not be\nsealed off entirely?"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "We have attempted many approaches—such\nas blockading it with soil or water—but ever\ndoes the maw of Chaos yawn wide.\fAll we can do is enjoy a moment's peace\nuntil the time comes when we must\nsummon warriors once more."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "And are ye satisfied with that?"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "The Cleft's appearance leads to the arrival\nof warriors across the worlds, and we are\nable to meet their kind only when it is open."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_010_050": {
+    "speaker": "King_Din",
+    "text": "I would not end that for all the world,\nfor having met with you is one of the\nsupreme delights of my life!"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "The warriors I encountered in the war each\nhad their own hearts—hearts as varied as\nthe worlds they came from. But where am\nI going to find my own heart?"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "So this isn't the end, then?"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "The Cleft of Chaos will open again erelong,\nat which point our battle will flare anew.\nWarriors will then arrive in Brighthome once\nmore, for such is the way of things here."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "I don't think an eternal war would be\npossible even for a machine like me.\nDo ye really keep fighting forever?"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "We do, Seer. Brighthome is a world locked\nin eternal conflict—but this only makes our\nfleeting moments of peace all the sweeter."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_010_050": {
+    "speaker": "King_Din",
+    "text": "I thank you one and all,\nmy brave warrior bands!"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_010_060": {
+    "speaker": "Constantine",
+    "text": "Sadly, there are many worlds that engage\nin the futility of such endless conflicts...\nAh, well! Time for us to be off."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_020_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "I am chuffed I was able to be of at\nleast some small aid to Brighthome."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_030_CUT_010_000": {
+    "speaker": "King_Din",
+    "text": "And thus is the Cleft blocked off.\nYour strength was formidable, Seer—\nrather too formidable, in fact."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_030_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "What does that mean?"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_030_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "I so enjoy watching our warriors do battle that\nI often find myself wishing the war might go on\nforever. Thus did I call you here to shore up\nthe fighting strength of our bands, but now..."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_030_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Wait. Ye think this victory was a <i>mistake</i>?\nYe think all the warriors here fighting\nwith all they had was a <i>mistake</i>!?"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_030_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "I have no further use for you, Seer.\nBegone from my sight."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_030_CUT_010_041": {
+    "speaker": "Constantine",
+    "text": "Ha ha ha! Oh, that King Din is a card,\nall right–a wild card! I do so love\npeople like that."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_030_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "I dinnae even know why I came to this world now,\nand can no longer properly evaluate the results\nof all this in order to find my answer."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_040_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "So the Cleft cannae be closed even\nwith the legendary weapon in play?"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_040_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "Correct. The Cleft of Chaos will open again erelong,\nat which point our battle will flare anew. New warriors\nwill then arrive in Brighthome, making this but a single\npage in our great history."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_040_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "And the legendary treasure?\nWhat of that?"
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_040_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "A legend must ever remain a legend."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_040_CUT_010_041": {
+    "speaker": "Constantine",
+    "text": "Well, I suppose this means we of the\nNational Extradimensional Exploratory\nTask Force have become yet another page\nin that particular legend."
+  },
+  "SUB_W17_EVAR_DIVA_HOLE_040_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Thinking of it in that way makes me\na wee bit happy. So ta, Brighthome!"
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "We're close to the Cleft of Chaos, yet there\nare no fiends here. The fighter who protects\nthis temple must be proper capable."
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_000_CUT_000_010": {
+    "speaker": "Sorceress",
+    "text": "Correct! I am Sorceress,\nthe fighter to whom you refer."
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_000_CUT_000_020": {
+    "speaker": "Sorceress",
+    "text": "I was surprised to see another warrior\nband here, but then I realized you must\nbe the newcomer, Seer."
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_000_CUT_000_030": {
+    "speaker": "Sorceress",
+    "text": "Ah, what fine timing! The forces of Chaos\nhave come, drawn as they are to your power.\nNow you can show me just what King Din's\nsecret weapon is made of!"
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Conflict resolved."
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_000_CUT_000_050": {
+    "speaker": "Sorceress",
+    "text": "Perhaps you truly are the one who will bring\nan end to the battle with Chaos. I pray this\nmight be so, for I have grown weary of war."
+  },
+  "SUB_W17_EVAR_DIVA_TEMPLE_000_CUT_000_060": {
+    "speaker": "Sorceress",
+    "text": "So...you know. Get on that."
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_000_CUT_000_000": {
+    "speaker": "Gadget",
+    "text": "Why have you come to Hell?\nIs finding your heart truly so important?"
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Since I don't know where my heart is,\nI've no choice but to go everywhere\nin search of it."
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_000_CUT_000_020": {
+    "speaker": "Gadget",
+    "text": "A machine in search of a heart, eh?\nHard to imagine I'd run into someone\nlike you anywhere but a hell like this!"
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye were summoned here by\nKing Din as well, then?"
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_000_CUT_000_040": {
+    "speaker": "Gadget",
+    "text": "Sure was! I'm Gadget. I have a true name,\nbut right now, I just use the name given\nto me by the man I work for, King Din."
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Beg pardon, but can ye maybe\nhelp to find my heart, Gadget?"
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_000_CUT_000_060": {
+    "speaker": "Gadget",
+    "text": "As though 'help' could even exist in Hell.\nIf you cling to the thread of salvation,\nsooner or later it will snap and send you\nplummeting into the abyss."
+  },
+  "SUB_W17_EVAR_DIVA_RUIN_000_CUT_000_070": {
+    "speaker": "Gadget",
+    "text": "And with that, the enemies close in.\nLet us see how you fare, Seer!"
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_000_CUT_000_000": {
+    "speaker": "Lord",
+    "text": "If you've come for a grave, you can dig your own.\nI don't have enough hands to be digging one for\neverybody who keels over right now."
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I do not require a grave.\nWere those fiends grave robbers?"
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_000_CUT_000_020": {
+    "speaker": "Lord",
+    "text": "They sure as hell were! The dastards come\nhere, dig up corpses, and turn 'em into\nservants of Chaos.\fAnd if they manage to take the graveyard,\nwe'll be up to our armpits in enemies\ntrying to send us into our own graves."
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye must be an incredible warrior\nto have been tasked with protecting\nsuch an important position."
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_000_CUT_000_040": {
+    "speaker": "Lord",
+    "text": "Yeah, I'm incredible—ask any of the other\nwarriors around here, and they'll all tell\nya no one holds a candle to Warden!"
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but you're just grand!\nAnd with that, farewell."
+  },
+  "SUB_W17_EVAR_DIVA_GRAVEYARD_000_CUT_000_060": {
+    "speaker": "Lord",
+    "text": "Don't leave! I've got more to say!\n...Bah. She's gone."
+  },
+  "SUB_W17_EVAR_DIVA_FORT_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This fortress was built by the followers\nof Chaos, then? I'm surprised they have\nsuch technical capabilities."
+  },
+  "SUB_W17_EVAR_DIVA_FORT_000_CUT_000_010": {
+    "speaker": "Arsenal",
+    "text": "They did not build this stronghold—\nthey stole it from us. This is why\nit's proven so difficult to reclaim."
+  },
+  "SUB_W17_EVAR_DIVA_FORT_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "So if we did retake it, it would\nprove advantageous?"
+  },
+  "SUB_W17_EVAR_DIVA_FORT_000_CUT_000_030": {
+    "speaker": "Arsenal",
+    "text": "That is correct. Also, I am Gunner,\nthe leader of the warrior band here.\nThank you for your aid, Seer."
+  },
+  "SUB_W17_EVAR_DIVA_FORT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Happy to help, love."
+  },
+  "SUB_W17_EVAR_DIVA_CITY_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Was this town perhaps abandoned\ndue to the invasion of Chaos?"
+  },
+  "SUB_W17_EVAR_DIVA_CITY_000_CUT_000_010": {
+    "speaker": "Fiore",
+    "text": "It was—and soon, every place in this\nworld will suffer the same fate."
+  },
+  "SUB_W17_EVAR_DIVA_CITY_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "So we're going to lose, then?"
+  },
+  "SUB_W17_EVAR_DIVA_CITY_000_CUT_000_030": {
+    "speaker": "Fiore",
+    "text": "If the warrior bands were truly so powerful,\nthis war would not have dragged on so long.\nAlas, the reality of the war with Chaos is\nnot so kind as all that."
+  },
+  "SUB_W17_EVAR_DIVA_CITY_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Aye, that's what I thought.\nThis is not a problem I can\nsolve on my lonesome, I fear."
+  },
+  "SUB_W17_EVAR_DIVA_CITY_000_CUT_000_050": {
+    "speaker": "Fiore",
+    "text": "Don't be so sure about that!\nYou're the Seer, after all."
+  },
+  "SUB_W17_EVAR_DIVA_CITY_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I'm just an ordinary machine."
+  },
+  "SUB_W17_EVAR_DIVA_CITY_000_CUT_000_070": {
+    "speaker": "Fiore",
+    "text": "I am Floral, and the land tells me all.\nThe forces of Chaos will be upon us soon.\nI pray you might fight them off, Seer!\nEpuyke nogonoa kowo!"
+  },
+  "SUB_W17_EVAR_DIVA_MINE_000_CUT_000_000": {
+    "speaker": "Bully",
+    "text": "Oh, joy. King Din's little plaything\nis back. Not looking all that reliable\nthis time, are you, plaything?"
+  },
+  "SUB_W17_EVAR_DIVA_MINE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Some machines are sold as toys,\nbut I'm not one such unit."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_000_CUT_000_020": {
+    "speaker": "Bully",
+    "text": "Shut the hell up! If that's the case,\nI'll MAKE you into a plaything!"
+  },
+  "SUB_W17_EVAR_DIVA_MINE_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "That exceeded my anticipated combat\nstrength. I'll have to revise my data."
+  },
+  "SUB_W17_EVAR_DIVA_MINE_000_CUT_000_040": {
+    "speaker": "Bully",
+    "text": "Aw, damn it all."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_000_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Thanks a ton for your help out here\nin the fields. I mean, not that we're\ngrowing anything, but still."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Why are ye here as a guard\nif there are no crops?"
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_000_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "'Cause I'm Manikin, a glorified scarecrow\nwho can't do anything BUT protect fields!"
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "But ye must have an important duty\nif King Din summoned ye here."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_000_CUT_000_040": {
+    "speaker": "Doll",
+    "text": "No idea. Glorified scarecrow, remember?\nBut there WAS something I realized this\none time when I was staring motionlessly\nat the fields..."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Which is?"
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_000_CUT_000_060": {
+    "speaker": "Doll",
+    "text": "There are no crows in Brighthome!"
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Oh, that's true! I hadn't realized!\nGosh, but ye're brilliant, love."
+  },
+  "SUB_W17_EVAR_DIVA_FIELD_000_CUT_000_080": {
+    "speaker": "Doll",
+    "text": "Thanks!"
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_000_CUT_000_000": {
+    "speaker": "Vacuum",
+    "text": "Oh, I'm so glad you're here, Seer!\nI've been waiting for you to come\nfor SO LONG!"
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Well, I'd be dead chuffed to help,\nbut I'm not sure how to do that."
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_000_CUT_000_020": {
+    "speaker": "Vacuum",
+    "text": "You can take me the hell out of here,\nbecause I absolutely cannot STAND\nbeing here one second longer!\fC'mon, you can do that, right? Please!\nI'll do anything! I'm begging you!"
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Please calm down, love. If ye leave this\nplace, it will be attacked by the forces\nof Chaos and we'll lose the position."
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_000_CUT_000_040": {
+    "speaker": "Vacuum",
+    "text": "I chew up fiends and spit 'em back out!\nThen I do it again! And again! And AGAIN!\nI can't take it anymore! I CAAAAAAN'T!"
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "King Din summoned ye here, and there's\nnothing I can do about that. So sorry."
+  },
+  "SUB_W17_EVAR_DIVA_CHURCH_000_CUT_000_060": {
+    "speaker": "Vacuum",
+    "text": "No! Don't go! Don't leave me here!"
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_000_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "If the forces of Chaos are showing up this\nclose to the castle, this war might finally\nbe close to ending...in our defeat.\fOh. Hello there. I'm President."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "The battle is not yet decided, though.\nI'm Seer—let's fight Chaos together."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_000_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "So you're Seer. Well, considering you only\njust arrived, I see why you would trust\nin King Din's power.\fBut for the rest of us, it doesn't mean\nsquat. That guy doesn't do a damn thing;\nwhatever we accomplish, we do on our own."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_000_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "I know the warrior bands are doing their best,\nbut there's been no indication that the forces\nof Chaos are weakening—so if you think I'm\nlosing heart, that's why."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Aye, and I don't even have a heart to lose.\nI apologize if I said something out of turn,\nlove, but I cannae stop fighting if I want\nto find my own heart."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_000_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Well, you certainly seem confident,\nso...I guess I'll trust you."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "It's appreciated."
+  },
+  "SUB_W17_EVAR_DIVA_REBEL_000_CUT_000_000": {
+    "speaker": "Immunity",
+    "text": "Blargh! It's just as I feared! \nThe rebels have appeared!"
+  },
+  "SUB_W17_EVAR_DIVA_REBEL_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "So this went as you predicted, then?"
+  },
+  "SUB_W17_EVAR_DIVA_REBEL_000_CUT_000_020": {
+    "speaker": "Immunity",
+    "text": "My name's Immunity, and it's my job to\nkeep the warriors King Din summoned from\nbetraying him and joining up with Chaos."
+  },
+  "SUB_W17_EVAR_DIVA_REBEL_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "But if the rebels have appeared,\ndoesn't that mean ye failed?"
+  },
+  "SUB_W17_EVAR_DIVA_REBEL_000_CUT_000_040": {
+    "speaker": "Immunity",
+    "text": "Not my fault! I mean, King Din may have\nnamed me Immunity, but I can't immunize\npeople from wanting to REBEL! Heck,\nall I really do is carry oxygen..."
+  },
+  "SUB_W17_EVAR_DIVA_REBEL_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Then we'd best stamp out these\nrebels before their numbers grow!"
+  },
+  "SUB_W17_EVAR_DIVA_REBEL_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "But they turned traitor and managed\nto press the attack this far. I take that\nto mean ye failed, love?"
+  },
+  "SUB_W17_EVAR_DIVA_REBEL_010_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Then we must do something about\nthe rebels straight away!"
+  },
+  "SUB_W17_EVAR_DIVA_ITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Where in the hells be that legendary treasure,\nby gar!? I searched this blasted castle from\nstem to stern, and I ain't been findin' the\ngods-damned thing anywhere!"
+  },
+  "SUB_W17_EVAR_DIVA_ITEM_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Ye were summoned here by\nKing Din as well, then?"
+  },
+  "SUB_W17_EVAR_DIVA_ITEM_000_CUT_000_020": {
+    "speaker": "Buccaneer",
+    "text": "Yar, lass! Announce yerself before ye appear\nand start yer yammerin'! Ye made me jump\noutta me skin, so ye did!\fGar, but I be Pirate. Who be ye?"
+  },
+  "SUB_W17_EVAR_DIVA_ITEM_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Seer."
+  },
+  "SUB_W17_EVAR_DIVA_ITEM_000_CUT_000_040": {
+    "speaker": "Buccaneer",
+    "text": "Gahar har har! King Din's\nlittle trump card!\fSorry to break it to ye, lass, but there\nalready be a treasure hidden here in Brighthome\nthat can turn the tide of the war without ye—\nand I was called here to be sniffin' it out!"
+  },
+  "SUB_W17_EVAR_DIVA_ITEM_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but I'd love to see a treasure\nlike that for myself."
+  },
+  "SUB_W17_EVAR_DIVA_ITEM_000_CUT_000_060": {
+    "speaker": "Buccaneer",
+    "text": "Gwuh!? Er, I mean, no! No, this whole\ncastle is bare as bleached bones."
+  },
+  "SUB_W17_EVAR_DIVA_ITEM_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "My sensors haven't detected a treasure like\nthe one ye describe, but I suppose it wouldn't\nbe a legend if it could be so easily found."
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Gar, curse me bones!\nIt ain't here, neither!"
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "They say it's hardest to find\nwhat's right under one's nose."
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Manikin is going to be proper upset\nif this woman digs up the fields."
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "It would have been found by the\nminers already if it were here."
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Poor form to rob graves, love."
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "My sensors aren't picking\nup any readings here."
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Theft is a crime!"
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "My sensors aren't picking\nup any readings here."
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "That doesn't appear to be any\nkind of divine relic, though."
+  },
+  "SUB_W17_EVAR_DIVA_NOTFINDITEM_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "No legends here."
+  },
+  "SUB_W17_FUNC_DIVA_FINDITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Gahar har har! I've found it!\nThe legendary treasure!"
+  },
+  "SUB_W17_FUNC_DIVA_FINDITEM_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Brilliant! Now use it to turn\nthe tide of the war!"
+  },
+  "SUB_W17_FUNC_DIVA_FINDITEM_000_CUT_000_020": {
+    "speaker": "Buccaneer",
+    "text": "Gar, ye be followin' me,\nye detestable contrivance!\fAnd aye, I'll turn the tide—but I'll\nbe keepin' the treasure afterwards!"
+  },
+  "SUB_W17_FUNC_DIVA_FINDITEM_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, that's only fair; ye be the\none who found it, after all."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "You pitched in to fight too, Guv?\nMuch appreciated."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_001": {
+    "speaker": "Doll",
+    "text": "Heya, Guv! You helped with the\nfighting? Thanks for that!"
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_002": {
+    "speaker": "Bully",
+    "text": "Been a minute and a half, eh, Guv?\nYou and I gotta scrap next time!"
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_003": {
+    "speaker": "Lord",
+    "text": "You were out there fighting, Guv?\nMy apologies—I did not realize."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_004": {
+    "speaker": "Vacuum",
+    "text": "Ha ha ha! Been a long time, Guv!\nLet's spar again sometime."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_005": {
+    "speaker": "Fiore",
+    "text": "Why, if it isn't Guv!\nI thank you for joining the fight."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_006": {
+    "speaker": "Arsenal",
+    "text": "Your presence here explains\nour victory, Guv. Thank you."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_007": {
+    "speaker": "Sorceress",
+    "text": "Well, well. If it isn't Guv.\nSurprised you're still out there\nfighting and not retired already."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_008": {
+    "speaker": "Gadget",
+    "text": "You're looking pretty tired there, Guv.\nReady for your trip to Hell so soon?"
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "How have ye been, love?"
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_020": {
+    "speaker": "Guv",
+    "text": "You're Seer, yes? Ah, it's no wonder I felt\nthat dazzling radiance; with a warrior like\nyou here, I can finally retire in peace."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_030": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from town. I pray your fight\ngoes well, m'lady."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_031": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the fields.\nI pray your fight goes well, m'lady."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_032": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the mine.\nI pray your fight goes well, m'lady."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_033": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the cemetery.\nI pray your fight goes well, m'lady."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_034": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the church. I pray your\nfight goes well, m'lady."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_035": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from town. I pray your fight\ngoes well, m'lady."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_036": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the stronghold. I pray\nyour fight goes well, m'lady."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_037": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the temple. I pray your\nfight goes well, m'lady."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_038": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the ruins. I pray your\nfight goes well, m'lady."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Life certainly is a rich tapestry."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_020_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I see no sign of Guv or his wife.\nI wonder what became of them."
+  },
+  "SUB_W17_EVAR_DIVA_VILLAGE_020_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I hope to meet them again someday."
+  },
+  "SUB_W17_FUNC_DIVA_HELP_000_CUT_000_000": {
+    "speaker": "Guv",
+    "text": "Ah! You must be the newcomer."
+  },
+  "SUB_W17_FUNC_DIVA_HELP_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I'm Seer. Ye know much."
+  },
+  "SUB_W17_FUNC_DIVA_HELP_000_CUT_000_020": {
+    "speaker": "Guv",
+    "text": "Warriors of all stripes are called to this\nplace. But no matter who or what they are,\nevery newcomer has a certain youthful vitality\nto them—a vitality I sense now in you."
+  },
+  "SUB_W17_FUNC_DIVA_HELP_000_CUT_000_030": {
+    "speaker": "Guv",
+    "text": "Alas, such vitality is something a wizened old man\nlike me has lost. I'm a warrior as well, you see—\nthough a worn and battered one. Guv is the name\ngiven to me by the king, and all I'll answer to."
+  },
+  "SUB_W17_FUNC_DIVA_HELP_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "I've only just come to this world, so the\nthings I don't understand far outnumber\nthe ones I do. Please teach me, love!"
+  },
+  "SUB_W17_FUNC_DIVA_HELP_000_CUT_000_050": {
+    "speaker": "Guv",
+    "text": "Ha! You've quite the silver tongue,\nnewcomer! Just make certain you\nfight as well as you flatter."
+  },
+  "SUB_W17_FUNC_DIVA_HELP_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Aye, be assured I do."
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_000": {
+    "speaker": "Simon",
+    "text": "With the battle ended, we no longer need\nto use the names given to us by the king.\nI am called Simon."
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I am D05-72314, commonly known\nas Songstress Diva No. 5."
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_020": {
+    "speaker": "Simon",
+    "text": "Did you get your hands on the\nheart you were looking for?"
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I don't know. Did ye come here\nfor something yourself, Simon?"
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_040": {
+    "speaker": "Simon",
+    "text": "The members of my squadron all perished\nin battle—and when I failed to fulfill\nmy objective, I joined them in death.\fThe next thing I knew, I was waking\nhere in Brighthome with a new name.\nSo no. No big impressive goals for me."
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh my days, does that mean I'm ALSO dead!?\nWas I destroyed somewhere along the way!?\nI've no data to indicate as much, but...\nI'll need to retrace my steps and find out!"
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_060": {
+    "speaker": "Simon",
+    "text": "Is my following you\nout of the question?"
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "There's a high probability that your life\nsystems only function within Brighthome."
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_080": {
+    "speaker": "Simon",
+    "text": "I have no intention of fighting here for the\nrest of eternity. If I leave this place and\nvanish, that's just what was meant to be."
+  },
+  "SUB_W17_EVAR_DIVA_SIMON_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Then let's go search\nfor my heart together."
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_000_CUT_000_000": {
+    "speaker": "Guv",
+    "text": "So you're our new warrior, yes?\nEverything is in order for you."
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "You are to be my combat instructor,\nthen? Thank you for having me."
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_000_CUT_000_020": {
+    "speaker": "Guv",
+    "text": "My name is Guv, and I must admit I don't\nconsider myself to be much of an instructor.\nIn any case, let's begin, shall we?\nTime is of the essence here in Brighthome."
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "All right. Thank you very much."
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Do you have some kind of power\nto summon fiends, then?"
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_000_CUT_010_010": {
+    "speaker": "Guv",
+    "text": "Ah, no, we just have a great many\nof them lurking all about the place.\nThere's always a fight to be had\nhere in Brighthome."
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Heavens. This world seems like a much\ndarker place than its name would suggest."
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_001_CUT_000_000": {
+    "speaker": "Guv",
+    "text": "Time for your next bit of training.\nAre you ready?"
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_001_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I am, thank you."
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_001_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Not at the moment, nae."
+  },
+  "SUB_W17_EVAR_DIVA_BATTLE_002_CUT_000_000": {
+    "speaker": "Guv",
+    "text": "This is your last trial.\nAre you ready?"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "W15_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Vermiglio: The Triangular World"
+  },
+  "W15_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world choked by stagnant air on the other side of the door. This place is clearly already in the grasp of darkness, and you cannot wait to explore it in full."
+  },
+  "W15_EVAR_SIUG_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Through Dreamland's Gate"
+  },
+  "W15_EVAR_SIUG_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Your work in this world is done. It's time to depart."
+  },
+  "W15_EVAR_SIUG_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave This World"
+  },
+  "W15_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Trigon Employee Stella"
+  },
+  "W15_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W15_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W15_EVAR_SIUG_KENZOKU_010_TITLE": {
+    "speaker": "UI",
+    "text": "Trigon Employee Nero"
+  },
+  "W15_EVAR_SIUG_KENZOKU_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W15_EVAR_SIUG_KENZOKU_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W15_EVAR_SIUG_KENZOKU_020_TITLE": {
+    "speaker": "UI",
+    "text": "Barbara"
+  },
+  "W15_EVAR_SIUG_KENZOKU_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W15_EVAR_SIUG_KENZOKU_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  }
+}

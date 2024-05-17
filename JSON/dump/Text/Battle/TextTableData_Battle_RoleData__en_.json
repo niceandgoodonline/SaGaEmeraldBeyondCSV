@@ -1,0 +1,3098 @@
+{
+  "Btl_SOUL_MUSASHI_RoleName": {
+    "speaker": "UI",
+    "text": "Musashi"
+  },
+  "Btl_SOUL_MUSASHI_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_TOKI_RoleName": {
+    "speaker": "UI",
+    "text": "Sukune"
+  },
+  "Btl_SOUL_TOKI_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_KOMACHI_RoleName": {
+    "speaker": "UI",
+    "text": "Komachi"
+  },
+  "Btl_SOUL_KOMACHI_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_BOU_RoleName": {
+    "speaker": "UI",
+    "text": "Boh"
+  },
+  "Btl_SOUL_BOU_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0000_RoleName": {
+    "speaker": "UI",
+    "text": "Rockeater"
+  },
+  "Btl_SOUL_M0000_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Interrupt Evade Chance +25%"
+  },
+  "Btl_SOUL_M0001_RoleName": {
+    "speaker": "UI",
+    "text": "Mad Phage"
+  },
+  "Btl_SOUL_M0001_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Interrupt Evade Chance +50%"
+  },
+  "Btl_SOUL_M0001_B_RoleName": {
+    "speaker": "UI",
+    "text": "Land Hermit"
+  },
+  "Btl_SOUL_M0001_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Interrupt Evade Chance +50%"
+  },
+  "Btl_SOUL_M0002_RoleName": {
+    "speaker": "UI",
+    "text": "Forest Hermit"
+  },
+  "Btl_SOUL_M0002_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Interrupt Evade Chance +75%"
+  },
+  "Btl_SOUL_M0003_RoleName": {
+    "speaker": "UI",
+    "text": "Lightning Glutton"
+  },
+  "Btl_SOUL_M0003_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Interrupt Evade Chance +75%"
+  },
+  "Btl_SOUL_M0010_RoleName": {
+    "speaker": "UI",
+    "text": "Werewolf"
+  },
+  "Btl_SOUL_M0010_RoleDescription": {
+    "speaker": "UI",
+    "text": "Block Chance +3% / <emoji Fire>Heat Resistance +5%"
+  },
+  "Btl_SOUL_M0011_RoleName": {
+    "speaker": "UI",
+    "text": "Hati"
+  },
+  "Btl_SOUL_M0011_RoleDescription": {
+    "speaker": "UI",
+    "text": "Block Chance +3% / <emoji Fire>Heat Resistance +8%"
+  },
+  "Btl_SOUL_M0012_RoleName": {
+    "speaker": "UI",
+    "text": "Skoll"
+  },
+  "Btl_SOUL_M0012_RoleDescription": {
+    "speaker": "UI",
+    "text": "Block Chance +3% / <emoji Fire>Heat Resistance +10%"
+  },
+  "Btl_SOUL_M0020_RoleName": {
+    "speaker": "UI",
+    "text": "War Hog"
+  },
+  "Btl_SOUL_M0020_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0021_RoleName": {
+    "speaker": "UI",
+    "text": "Boar Infantry"
+  },
+  "Btl_SOUL_M0021_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0022_RoleName": {
+    "speaker": "UI",
+    "text": "Porcine Charger"
+  },
+  "Btl_SOUL_M0022_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0100_RoleName": {
+    "speaker": "UI",
+    "text": "Sephira"
+  },
+  "Btl_SOUL_M0100_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / Accuracy +30%"
+  },
+  "Btl_SOUL_M0101_RoleName": {
+    "speaker": "UI",
+    "text": "Ishtar"
+  },
+  "Btl_SOUL_M0101_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / Accuracy +20%"
+  },
+  "Btl_SOUL_M0102_RoleName": {
+    "speaker": "UI",
+    "text": "Valkyrie"
+  },
+  "Btl_SOUL_M0102_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1% / Accuracy +10%"
+  },
+  "Btl_SOUL_M0110_RoleName": {
+    "speaker": "UI",
+    "text": "Earth Dragon"
+  },
+  "Btl_SOUL_M0110_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Fire>Heat Resistance +10%"
+  },
+  "Btl_SOUL_M0111_RoleName": {
+    "speaker": "UI",
+    "text": "Red Dragon"
+  },
+  "Btl_SOUL_M0111_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Fire>Heat Resistance +10%"
+  },
+  "Btl_SOUL_M0112_RoleName": {
+    "speaker": "UI",
+    "text": "Blue Dragon"
+  },
+  "Btl_SOUL_M0112_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_SOUL_M0113_RoleName": {
+    "speaker": "UI",
+    "text": "Dark Forest"
+  },
+  "Btl_SOUL_M0113_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Fire>Heat Resistance +10%"
+  },
+  "Btl_SOUL_M0114_RoleName": {
+    "speaker": "UI",
+    "text": "Gold Dragon"
+  },
+  "Btl_SOUL_M0114_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Lightning>Shock Resistance +10%"
+  },
+  "Btl_SOUL_M0115_RoleName": {
+    "speaker": "UI",
+    "text": "White Dragon"
+  },
+  "Btl_SOUL_M0115_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Lightning>Shock Resistance +10%"
+  },
+  "Btl_SOUL_M0120_RoleName": {
+    "speaker": "UI",
+    "text": "Puca"
+  },
+  "Btl_SOUL_M0120_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +3%"
+  },
+  "Btl_SOUL_M0121_RoleName": {
+    "speaker": "UI",
+    "text": "Rascal"
+  },
+  "Btl_SOUL_M0121_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +2% / Spell Power +3%"
+  },
+  "Btl_SOUL_M0123_RoleName": {
+    "speaker": "UI",
+    "text": "Prankster"
+  },
+  "Btl_SOUL_M0123_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +2% / Spell Power +3%"
+  },
+  "Btl_SOUL_M0210_RoleName": {
+    "speaker": "UI",
+    "text": "Jumbo Moch"
+  },
+  "Btl_SOUL_M0210_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_SOUL_M0211_RoleName": {
+    "speaker": "UI",
+    "text": "Young Moch"
+  },
+  "Btl_SOUL_M0211_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_SOUL_M0212_RoleName": {
+    "speaker": "UI",
+    "text": "Elder Moch"
+  },
+  "Btl_SOUL_M0212_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_SOUL_M0220_RoleName": {
+    "speaker": "UI",
+    "text": "Sunflower"
+  },
+  "Btl_SOUL_M0220_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Fire>Heat Resistance +5%"
+  },
+  "Btl_SOUL_M0221_RoleName": {
+    "speaker": "UI",
+    "text": "Amaranth"
+  },
+  "Btl_SOUL_M0221_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Fire>Heat Resistance +8%"
+  },
+  "Btl_SOUL_M0222_RoleName": {
+    "speaker": "UI",
+    "text": "Asphodelus"
+  },
+  "Btl_SOUL_M0222_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Fire>Heat Resistance +10%"
+  },
+  "Btl_SOUL_M0230_RoleName": {
+    "speaker": "UI",
+    "text": "Alraune"
+  },
+  "Btl_SOUL_M0230_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0231_RoleName": {
+    "speaker": "UI",
+    "text": "Galgenmannlein"
+  },
+  "Btl_SOUL_M0231_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0232_RoleName": {
+    "speaker": "UI",
+    "text": "Passionroot"
+  },
+  "Btl_SOUL_M0232_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0300_RoleName": {
+    "speaker": "UI",
+    "text": "Viper"
+  },
+  "Btl_SOUL_M0300_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0301_RoleName": {
+    "speaker": "UI",
+    "text": "Basilisk"
+  },
+  "Btl_SOUL_M0301_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0302_RoleName": {
+    "speaker": "UI",
+    "text": "Rattler"
+  },
+  "Btl_SOUL_M0302_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0310_RoleName": {
+    "speaker": "UI",
+    "text": "Barghest"
+  },
+  "Btl_SOUL_M0310_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / <emoji Stab>Pierce Resistance +5%"
+  },
+  "Btl_SOUL_M0311_RoleName": {
+    "speaker": "UI",
+    "text": "Padfoot"
+  },
+  "Btl_SOUL_M0311_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / <emoji Stab>Pierce Resistance +8%"
+  },
+  "Btl_SOUL_M0312_RoleName": {
+    "speaker": "UI",
+    "text": "Failinis"
+  },
+  "Btl_SOUL_M0312_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / <emoji Stab>Pierce Resistance +10%"
+  },
+  "Btl_SOUL_M0320_RoleName": {
+    "speaker": "UI",
+    "text": "Lizard Fortress"
+  },
+  "Btl_SOUL_M0320_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Slash>Slash Resistance +5%"
+  },
+  "Btl_SOUL_M0321_RoleName": {
+    "speaker": "UI",
+    "text": "Lizard Tyrant"
+  },
+  "Btl_SOUL_M0321_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Slash>Slash Resistance +8%"
+  },
+  "Btl_SOUL_M0322_RoleName": {
+    "speaker": "UI",
+    "text": "Carbonia"
+  },
+  "Btl_SOUL_M0322_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Slash>Slash Resistance +10%"
+  },
+  "Btl_SOUL_M0400_RoleName": {
+    "speaker": "UI",
+    "text": "Rana Warrior"
+  },
+  "Btl_SOUL_M0400_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Ice>Cold Resistance +5%"
+  },
+  "Btl_SOUL_M0401_RoleName": {
+    "speaker": "UI",
+    "text": "Rana Combatant"
+  },
+  "Btl_SOUL_M0401_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_SOUL_M0401_B_RoleName": {
+    "speaker": "UI",
+    "text": "Megawhale Servant"
+  },
+  "Btl_SOUL_M0401_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_SOUL_M0402_RoleName": {
+    "speaker": "UI",
+    "text": "Red Rana"
+  },
+  "Btl_SOUL_M0402_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3%"
+  },
+  "Btl_SOUL_M0403_RoleName": {
+    "speaker": "UI",
+    "text": "Yedoma"
+  },
+  "Btl_SOUL_M0403_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_SOUL_M0403_B_RoleName": {
+    "speaker": "UI",
+    "text": "Rana Conjurer"
+  },
+  "Btl_SOUL_M0403_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_SOUL_M0410_RoleName": {
+    "speaker": "UI",
+    "text": "Kraken"
+  },
+  "Btl_SOUL_M0410_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0411_RoleName": {
+    "speaker": "UI",
+    "text": "Verdigris"
+  },
+  "Btl_SOUL_M0411_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0412_RoleName": {
+    "speaker": "UI",
+    "text": "Scowl Squid"
+  },
+  "Btl_SOUL_M0412_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0413_RoleName": {
+    "speaker": "UI",
+    "text": "Gargantua"
+  },
+  "Btl_SOUL_M0413_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0420_RoleName": {
+    "speaker": "UI",
+    "text": "Blue Drake"
+  },
+  "Btl_SOUL_M0420_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Resistance +10%"
+  },
+  "Btl_SOUL_M0421_RoleName": {
+    "speaker": "UI",
+    "text": "Petros Drake"
+  },
+  "Btl_SOUL_M0421_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Resistance +10% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0422_RoleName": {
+    "speaker": "UI",
+    "text": "Kelpie"
+  },
+  "Btl_SOUL_M0422_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Resistance +10%"
+  },
+  "Btl_SOUL_M0423_RoleName": {
+    "speaker": "UI",
+    "text": "Cockatrice"
+  },
+  "Btl_SOUL_M0423_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Resistance +10% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0500_RoleName": {
+    "speaker": "UI",
+    "text": "Golden Baum"
+  },
+  "Btl_SOUL_M0500_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1% / <emoji Strike>Blunt Resistance +5%"
+  },
+  "Btl_SOUL_M0501_RoleName": {
+    "speaker": "UI",
+    "text": "Gelatinous Matter"
+  },
+  "Btl_SOUL_M0501_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1% / <emoji Strike>Blunt Resistance +8%"
+  },
+  "Btl_SOUL_M0502_RoleName": {
+    "speaker": "UI",
+    "text": "Mycotic Predator"
+  },
+  "Btl_SOUL_M0502_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1% / <emoji Strike>Blunt Resistance +10%"
+  },
+  "Btl_SOUL_M0510_RoleName": {
+    "speaker": "UI",
+    "text": "Psychic Ogre"
+  },
+  "Btl_SOUL_M0510_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +5% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0511_RoleName": {
+    "speaker": "UI",
+    "text": "Disintegrator"
+  },
+  "Btl_SOUL_M0511_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +5% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0512_RoleName": {
+    "speaker": "UI",
+    "text": "Toxin Master"
+  },
+  "Btl_SOUL_M0512_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0520_RoleName": {
+    "speaker": "UI",
+    "text": "Haniwa"
+  },
+  "Btl_SOUL_M0520_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / Raises Overdrive Activation Rate"
+  },
+  "Btl_SOUL_M0521_RoleName": {
+    "speaker": "UI",
+    "text": "Hill Haniwa"
+  },
+  "Btl_SOUL_M0521_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / Raises Overdrive Activation Rate"
+  },
+  "Btl_SOUL_M0522_RoleName": {
+    "speaker": "UI",
+    "text": "Hani Stone"
+  },
+  "Btl_SOUL_M0522_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / Raises Overdrive Activation Rate"
+  },
+  "Btl_SOUL_M0700_RoleName": {
+    "speaker": "UI",
+    "text": "Rumblebug"
+  },
+  "Btl_SOUL_M0700_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +2% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0701_RoleName": {
+    "speaker": "UI",
+    "text": "Grass Masher"
+  },
+  "Btl_SOUL_M0701_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0702_RoleName": {
+    "speaker": "UI",
+    "text": "Wild Ebony"
+  },
+  "Btl_SOUL_M0702_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0703_RoleName": {
+    "speaker": "UI",
+    "text": "Beast Eater"
+  },
+  "Btl_SOUL_M0703_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +2% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0710_RoleName": {
+    "speaker": "UI",
+    "text": "Atlach-Nacha"
+  },
+  "Btl_SOUL_M0710_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Critical Attack Combo Rate +3%"
+  },
+  "Btl_SOUL_M0711_RoleName": {
+    "speaker": "UI",
+    "text": "Sanguine Arachnida"
+  },
+  "Btl_SOUL_M0711_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Critical Attack Combo Rate +3%"
+  },
+  "Btl_SOUL_M0712_RoleName": {
+    "speaker": "UI",
+    "text": "Lord Arachnida"
+  },
+  "Btl_SOUL_M0712_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Critical Attack Combo Rate +3%"
+  },
+  "Btl_SOUL_M0720_RoleName": {
+    "speaker": "UI",
+    "text": "Lesser Ant"
+  },
+  "Btl_SOUL_M0720_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_SOUL_M0721_RoleName": {
+    "speaker": "UI",
+    "text": "Greater Ant"
+  },
+  "Btl_SOUL_M0721_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_SOUL_M0722_RoleName": {
+    "speaker": "UI",
+    "text": "Kaiser Ant"
+  },
+  "Btl_SOUL_M0722_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_SOUL_M0800_RoleName": {
+    "speaker": "UI",
+    "text": "Vulture"
+  },
+  "Btl_SOUL_M0800_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3%"
+  },
+  "Btl_SOUL_M0801_RoleName": {
+    "speaker": "UI",
+    "text": "Songbird"
+  },
+  "Btl_SOUL_M0801_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3%"
+  },
+  "Btl_SOUL_M0802_RoleName": {
+    "speaker": "UI",
+    "text": "Skydiver"
+  },
+  "Btl_SOUL_M0802_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3%"
+  },
+  "Btl_SOUL_M0803_RoleName": {
+    "speaker": "UI",
+    "text": "Skytanker"
+  },
+  "Btl_SOUL_M0803_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3%"
+  },
+  "Btl_SOUL_M0810_RoleName": {
+    "speaker": "UI",
+    "text": "Maggot Ball"
+  },
+  "Btl_SOUL_M0810_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% Per Space Between Characters"
+  },
+  "Btl_SOUL_M0811_RoleName": {
+    "speaker": "UI",
+    "text": "Dwarf Star"
+  },
+  "Btl_SOUL_M0811_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% Per Space Between Characters"
+  },
+  "Btl_SOUL_M0812_RoleName": {
+    "speaker": "UI",
+    "text": "Sundancer"
+  },
+  "Btl_SOUL_M0812_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% Per Space Between Characters"
+  },
+  "Btl_SOUL_M0820_RoleName": {
+    "speaker": "UI",
+    "text": "Decobat"
+  },
+  "Btl_SOUL_M0820_RoleDescription": {
+    "speaker": "UI",
+    "text": "Evade Chance +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0820_B_RoleName": {
+    "speaker": "UI",
+    "text": "Soaring Rat"
+  },
+  "Btl_SOUL_M0820_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "Evade Chance +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0821_RoleName": {
+    "speaker": "UI",
+    "text": "Ashbeak"
+  },
+  "Btl_SOUL_M0821_RoleDescription": {
+    "speaker": "UI",
+    "text": "Evade Chance +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0822_RoleName": {
+    "speaker": "UI",
+    "text": "Melodic Bat"
+  },
+  "Btl_SOUL_M0822_RoleDescription": {
+    "speaker": "UI",
+    "text": "Evade Chance +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M0900_RoleName": {
+    "speaker": "UI",
+    "text": "Metal Elemental"
+  },
+  "Btl_SOUL_M0900_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / Spell Power +3%"
+  },
+  "Btl_SOUL_M0900_B_RoleName": {
+    "speaker": "UI",
+    "text": "Faerie Stone"
+  },
+  "Btl_SOUL_M0900_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +1% / Spell Power +4%"
+  },
+  "Btl_SOUL_M0901_RoleName": {
+    "speaker": "UI",
+    "text": "Water Elemental"
+  },
+  "Btl_SOUL_M0901_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / <emoji Ice>Cold Power +3%"
+  },
+  "Btl_SOUL_M0902_RoleName": {
+    "speaker": "UI",
+    "text": "Fire Elemental"
+  },
+  "Btl_SOUL_M0902_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / <emoji Fire>Heat Power +3%"
+  },
+  "Btl_SOUL_M0903_RoleName": {
+    "speaker": "UI",
+    "text": "Nature Elemental"
+  },
+  "Btl_SOUL_M0903_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / <emoji Lightning>Shock Power +3%"
+  },
+  "Btl_SOUL_M0904_RoleName": {
+    "speaker": "UI",
+    "text": "Earth Elemental"
+  },
+  "Btl_SOUL_M0904_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / Spell Power +3%"
+  },
+  "Btl_SOUL_M0904_B_RoleName": {
+    "speaker": "UI",
+    "text": "Float"
+  },
+  "Btl_SOUL_M0904_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / Spell Power +5%"
+  },
+  "Btl_SOUL_M1000_RoleName": {
+    "speaker": "UI",
+    "text": "Greater Devil"
+  },
+  "Btl_SOUL_M1000_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M1001_RoleName": {
+    "speaker": "UI",
+    "text": "Ifrit"
+  },
+  "Btl_SOUL_M1001_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M1002_RoleName": {
+    "speaker": "UI",
+    "text": "Calcabrina"
+  },
+  "Btl_SOUL_M1002_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M1003_RoleName": {
+    "speaker": "UI",
+    "text": "Malacoda"
+  },
+  "Btl_SOUL_M1003_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M1004_RoleName": {
+    "speaker": "UI",
+    "text": "Ariel"
+  },
+  "Btl_SOUL_M1004_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M1010_RoleName": {
+    "speaker": "UI",
+    "text": "Lilith"
+  },
+  "Btl_SOUL_M1010_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M1011_RoleName": {
+    "speaker": "UI",
+    "text": "Succubus"
+  },
+  "Btl_SOUL_M1011_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M1012_RoleName": {
+    "speaker": "UI",
+    "text": "Harpyia"
+  },
+  "Btl_SOUL_M1012_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_M1020_RoleName": {
+    "speaker": "UI",
+    "text": "Skeleton"
+  },
+  "Btl_SOUL_M1020_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1% / <emoji Stab>Pierce Resistance +5%"
+  },
+  "Btl_SOUL_M1021_RoleName": {
+    "speaker": "UI",
+    "text": "Skeleton Dancer"
+  },
+  "Btl_SOUL_M1021_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1% / <emoji Stab>Pierce Resistance +8%"
+  },
+  "Btl_SOUL_M1022_RoleName": {
+    "speaker": "UI",
+    "text": "Vanitas"
+  },
+  "Btl_SOUL_M1022_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / <emoji Stab>Pierce Resistance +10%"
+  },
+  "Btl_SOUL_M2000_RoleName": {
+    "speaker": "UI",
+    "text": "Kaffaljidhma"
+  },
+  "Btl_SOUL_M2000_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / <emoji Stab>Pierce Power +2%"
+  },
+  "Btl_SOUL_M2001_RoleName": {
+    "speaker": "UI",
+    "text": "Mira"
+  },
+  "Btl_SOUL_M2001_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / <emoji Stab>Pierce Power +2%"
+  },
+  "Btl_SOUL_M2002_RoleName": {
+    "speaker": "UI",
+    "text": "Menkar"
+  },
+  "Btl_SOUL_M2002_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / <emoji Stab>Pierce Power +2%"
+  },
+  "Btl_SOUL_M2003_RoleName": {
+    "speaker": "UI",
+    "text": "Cetus"
+  },
+  "Btl_SOUL_M2003_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / <emoji Stab>Pierce Power +2%"
+  },
+  "Btl_SOUL_M2004_RoleName": {
+    "speaker": "UI",
+    "text": "Diphda"
+  },
+  "Btl_SOUL_M2004_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / <emoji Stab>Pierce Power +2%"
+  },
+  "Btl_SOUL_M2100_RoleName": {
+    "speaker": "UI",
+    "text": "Boreas"
+  },
+  "Btl_SOUL_M2100_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Power +10% When Frenzied"
+  },
+  "Btl_SOUL_M2101_RoleName": {
+    "speaker": "UI",
+    "text": "Notus"
+  },
+  "Btl_SOUL_M2101_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Power +10% When Frenzied"
+  },
+  "Btl_SOUL_M2102_RoleName": {
+    "speaker": "UI",
+    "text": "Eurus"
+  },
+  "Btl_SOUL_M2102_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Power +10% When Frenzied"
+  },
+  "Btl_SOUL_M2103_RoleName": {
+    "speaker": "UI",
+    "text": "Zephyrus"
+  },
+  "Btl_SOUL_M2103_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Power +10% When Frenzied"
+  },
+  "Btl_SOUL_M2200_RoleName": {
+    "speaker": "UI",
+    "text": "Vair"
+  },
+  "Btl_SOUL_M2200_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Action Order Up (S)"
+  },
+  "Btl_SOUL_M2201_RoleName": {
+    "speaker": "UI",
+    "text": "Vairy"
+  },
+  "Btl_SOUL_M2201_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Action Order Up (S)"
+  },
+  "Btl_SOUL_M2202_RoleName": {
+    "speaker": "UI",
+    "text": "Effarouche"
+  },
+  "Btl_SOUL_M2202_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Action Order Up (S)"
+  },
+  "Btl_SOUL_M2203_RoleName": {
+    "speaker": "UI",
+    "text": "Orgules"
+  },
+  "Btl_SOUL_M2203_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Action Order Up (S)"
+  },
+  "Btl_SOUL_M2204_RoleName": {
+    "speaker": "UI",
+    "text": "Gyronny"
+  },
+  "Btl_SOUL_M2204_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Action Order Up (S)"
+  },
+  "Btl_SOUL_E_C01_TUTORIAL_MONSTER_RoleName": {
+    "speaker": "UI",
+    "text": "Wandering Moch"
+  },
+  "Btl_SOUL_E_C01_TUTORIAL_MONSTER_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_C01_DOOREVIL_A_RoleName": {
+    "speaker": "UI",
+    "text": "Malevolent Door Spirit"
+  },
+  "Btl_SOUL_E_C01_DOOREVIL_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_MOKU_E_RoleName": {
+    "speaker": "UI",
+    "text": "Lesser Wood Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_MOKU_E_RoleDescription": {
+    "speaker": "UI",
+    "text": "Interrupt Evade Chance +25%"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_MOKU_N_RoleName": {
+    "speaker": "UI",
+    "text": "Wood Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_MOKU_N_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_MOKU_H_RoleName": {
+    "speaker": "UI",
+    "text": "Greater Wood Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_MOKU_H_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_MOKU_RoleName": {
+    "speaker": "UI",
+    "text": "Divine Wood Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_MOKU_RoleDescription": {
+    "speaker": "UI",
+    "text": "Soul Tech BP Cost -1"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KA_E_RoleName": {
+    "speaker": "UI",
+    "text": "Lesser Fire Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KA_E_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KA_N_RoleName": {
+    "speaker": "UI",
+    "text": "Fire Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KA_N_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KA_H_RoleName": {
+    "speaker": "UI",
+    "text": "Greater Fire Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KA_H_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KA_RoleName": {
+    "speaker": "UI",
+    "text": "Divine Fire Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KA_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell BP Cost -1"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_DO_E_RoleName": {
+    "speaker": "UI",
+    "text": "Lesser Earth Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_DO_E_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_DO_N_RoleName": {
+    "speaker": "UI",
+    "text": "Earth Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_DO_N_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_DO_H_RoleName": {
+    "speaker": "UI",
+    "text": "Greater Earth Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_DO_H_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_DO_RoleName": {
+    "speaker": "UI",
+    "text": "Divine Earth Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_DO_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KIN_E_RoleName": {
+    "speaker": "UI",
+    "text": "Lesser Metal Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KIN_E_RoleDescription": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -5%"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KIN_N_RoleName": {
+    "speaker": "UI",
+    "text": "Metal Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KIN_N_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KIN_H_RoleName": {
+    "speaker": "UI",
+    "text": "Greater Metal Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KIN_H_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KIN_RoleName": {
+    "speaker": "UI",
+    "text": "Divine Metal Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_KIN_RoleDescription": {
+    "speaker": "UI",
+    "text": "BP Cost -1 After Losing Health"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_SUI_E_RoleName": {
+    "speaker": "UI",
+    "text": "Lesser Water Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_SUI_E_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +5%"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_SUI_N_RoleName": {
+    "speaker": "UI",
+    "text": "Water Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_SUI_N_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_SUI_H_RoleName": {
+    "speaker": "UI",
+    "text": "Greater Water Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_SUI_H_RoleDescription": {
+    "speaker": "UI",
+    "text": "None"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_SUI_RoleName": {
+    "speaker": "UI",
+    "text": "Divine Water Spirit"
+  },
+  "Btl_SOUL_E_BOSS_ELEMENT_SUI_RoleDescription": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 3 Onward"
+  },
+  "Btl_SOUL_E_W01_KOMAINU_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Komainu"
+  },
+  "Btl_SOUL_E_W01_KOMAINU_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / <emoji Stab>Pierce Resistance +10%"
+  },
+  "Btl_SOUL_E_W01_AMYA_MYSTERY_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Seahorse"
+  },
+  "Btl_SOUL_E_W01_AMYA_MYSTERY_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Resistance +10%"
+  },
+  "Btl_SOUL_E_W01_GHOSTTOWN_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Torrent"
+  },
+  "Btl_SOUL_E_W01_GHOSTTOWN_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3%"
+  },
+  "Btl_SOUL_E_W01_YAMAGUMO_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Mountain Spider"
+  },
+  "Btl_SOUL_E_W01_YAMAGUMO_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Critical Attack Combo Rate +3%"
+  },
+  "Btl_SOUL_E_W01_LAKE_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Giant Rana"
+  },
+  "Btl_SOUL_E_W01_LAKE_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_SOUL_E_W01_BOSS_KORYU_A_RoleName": {
+    "speaker": "UI",
+    "text": "Huanglong"
+  },
+  "Btl_SOUL_E_W01_BOSS_KORYU_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Fire>Heat Resistance +10%"
+  },
+  "Btl_SOUL_E_W02_CELESTIAL_WING_GUARDIAN_RoleName": {
+    "speaker": "UI",
+    "text": "Witch's Guardian"
+  },
+  "Btl_SOUL_E_W02_CELESTIAL_WING_GUARDIAN_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1% / Accuracy +20%"
+  },
+  "Btl_SOUL_E_W02_CRYSTAL_MONSTER_RoleName": {
+    "speaker": "UI",
+    "text": "Crystal Fiend"
+  },
+  "Btl_SOUL_E_W02_CRYSTAL_MONSTER_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W02_CALAMITY_RoleName": {
+    "speaker": "UI",
+    "text": "The Calamity"
+  },
+  "Btl_SOUL_E_W02_CALAMITY_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +2% / Spell Power +3%"
+  },
+  "Btl_SOUL_E_W03_BOSS_KING_A_RoleName": {
+    "speaker": "UI",
+    "text": "Dismal King"
+  },
+  "Btl_SOUL_E_W03_BOSS_KING_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Power +10% When Frenzied"
+  },
+  "Btl_SOUL_E_W04_PEDRO_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Pedro"
+  },
+  "Btl_SOUL_E_W04_PEDRO_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% Per Space Between Characters"
+  },
+  "Btl_SOUL_E_W04_AZURE_00_B_RoleName": {
+    "speaker": "UI",
+    "text": "Guardian Spirit"
+  },
+  "Btl_SOUL_E_W04_AZURE_00_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / Accuracy +30%"
+  },
+  "Btl_SOUL_E_W04_MASTER_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Mr. S"
+  },
+  "Btl_SOUL_E_W04_MASTER_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W04_SEAGOD_A_RoleName": {
+    "speaker": "UI",
+    "text": "Deus Maris"
+  },
+  "Btl_SOUL_E_W04_SEAGOD_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_SOUL_E_W04_LIBERATOR_A_RoleName": {
+    "speaker": "UI",
+    "text": "Emancipator"
+  },
+  "Btl_SOUL_E_W04_LIBERATOR_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / Accuracy +30%"
+  },
+  "Btl_SOUL_E_W06_EVILCELL_A_RoleName": {
+    "speaker": "UI",
+    "text": "Malignancy"
+  },
+  "Btl_SOUL_E_W06_EVILCELL_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W06_EVILCELL_B_RoleName": {
+    "speaker": "UI",
+    "text": "Extreme Malignancy"
+  },
+  "Btl_SOUL_E_W06_EVILCELL_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W06_SAFED_A_RoleName": {
+    "speaker": "UI",
+    "text": "Priest Safed"
+  },
+  "Btl_SOUL_E_W06_SAFED_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W06_VALKOINEN_A_RoleName": {
+    "speaker": "UI",
+    "text": "High Priest Valkoinen"
+  },
+  "Btl_SOUL_E_W06_VALKOINEN_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W06_CANCER_A_RoleName": {
+    "speaker": "UI",
+    "text": "Canker"
+  },
+  "Btl_SOUL_E_W06_CANCER_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W06_CANCER_B_RoleName": {
+    "speaker": "UI",
+    "text": "Canker"
+  },
+  "Btl_SOUL_E_W06_CANCER_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W06_PARASITE_A_RoleName": {
+    "speaker": "UI",
+    "text": "Parasite"
+  },
+  "Btl_SOUL_E_W06_PARASITE_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W06_SUPERPARASITE_A_RoleName": {
+    "speaker": "UI",
+    "text": "Extreme Parasite"
+  },
+  "Btl_SOUL_E_W06_SUPERPARASITE_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W07_EVAR_MISSION232_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Violet Beast"
+  },
+  "Btl_SOUL_E_W07_EVAR_MISSION232_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Slash>Slash Resistance +8%"
+  },
+  "Btl_SOUL_E_W07_EVAR_MISSION401_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Red Giant"
+  },
+  "Btl_SOUL_E_W07_EVAR_MISSION401_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1% / <emoji Fire>Heat Resistance +15%"
+  },
+  "Btl_SOUL_E_W08_M0722_A_RoleName": {
+    "speaker": "UI",
+    "text": "Naml"
+  },
+  "Btl_SOUL_E_W08_M0722_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_SOUL_E_W08_M0403_A_RoleName": {
+    "speaker": "UI",
+    "text": "Dufda"
+  },
+  "Btl_SOUL_E_W08_M0403_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_SOUL_E_W08_FOSSIL_A_RoleName": {
+    "speaker": "UI",
+    "text": "Yang Guardian"
+  },
+  "Btl_SOUL_E_W08_FOSSIL_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_SOUL_E_W08_FOSSIL_B_RoleName": {
+    "speaker": "UI",
+    "text": "Yin Guardian"
+  },
+  "Btl_SOUL_E_W08_FOSSIL_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W08_SOILMASTER_M0220_A_RoleName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_SOUL_E_W08_SOILMASTER_M0220_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Fire>Heat Resistance +10%"
+  },
+  "Btl_SOUL_E_W08_SOILMASTER_M2004_A_RoleName": {
+    "speaker": "UI",
+    "text": "Lord of the Earth"
+  },
+  "Btl_SOUL_E_W08_SOILMASTER_M2004_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3%"
+  },
+  "Btl_SOUL_E_W10_MANUSCRIPT_MONSTER_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Archive Fiend"
+  },
+  "Btl_SOUL_E_W10_MANUSCRIPT_MONSTER_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / <emoji Stab>Pierce Resistance +8%"
+  },
+  "Btl_SOUL_E_W10_CURSE_KING_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Cursed Monarch"
+  },
+  "Btl_SOUL_E_W10_CURSE_KING_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W10_DRIFTING_LIZARD_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Drifting Lizard"
+  },
+  "Btl_SOUL_E_W10_DRIFTING_LIZARD_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Slash>Slash Resistance +5%"
+  },
+  "Btl_SOUL_E_W10_TSUCHINOKO_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Tsuchinoko"
+  },
+  "Btl_SOUL_E_W10_TSUCHINOKO_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W10_MONOFFID_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Monophid"
+  },
+  "Btl_SOUL_E_W10_MONOFFID_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W10_NENKIN_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Myxomycete"
+  },
+  "Btl_SOUL_E_W10_NENKIN_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / <emoji Strike>Blunt Resistance +5%"
+  },
+  "Btl_SOUL_E_W10_MUTANT303_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Rogue Species #303"
+  },
+  "Btl_SOUL_E_W10_MUTANT303_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_SOUL_E_W10_QWEEN_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Rogue Species 303: Green Queen"
+  },
+  "Btl_SOUL_E_W10_QWEEN_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Resistance +15% / Status Ailment Resistance"
+  },
+  "Btl_SOUL_E_W10_QWEEN_00_B_RoleName": {
+    "speaker": "UI",
+    "text": "Rogue Species 303: Yellow Queen"
+  },
+  "Btl_SOUL_E_W10_QWEEN_00_B_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +15% / Interrupt Evade Chance +25%"
+  },
+  "Btl_SOUL_E_W10_QWEEN_00_C_RoleName": {
+    "speaker": "UI",
+    "text": "Rogue Species 303: Red Queen"
+  },
+  "Btl_SOUL_E_W10_QWEEN_00_C_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1% / <emoji Strike>Blunt Resistance +5%"
+  },
+  "Btl_SOUL_E_W10_SPRIGGAN_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Spriggan"
+  },
+  "Btl_SOUL_E_W10_SPRIGGAN_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Interrupt Evade Chance +25%"
+  },
+  "Btl_SOUL_E_W12_BOOK_KEEPER_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Tome Guardian"
+  },
+  "Btl_SOUL_E_W12_BOOK_KEEPER_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / Interrupt Evade Chance +25%"
+  },
+  "Btl_SOUL_E_W12_M0120_A_RoleName": {
+    "speaker": "UI",
+    "text": "Buffoon"
+  },
+  "Btl_SOUL_E_W12_M0120_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +3%"
+  },
+  "Btl_SOUL_E_W12_BOSS_GOD_00_A_RoleName": {
+    "speaker": "UI",
+    "text": "Iron Maiden"
+  },
+  "Btl_SOUL_E_W12_BOSS_GOD_00_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Power +10% When Frenzied"
+  },
+  "Btl_SOUL_E_W19_M1011_A_RoleName": {
+    "speaker": "UI",
+    "text": "Queen Bee"
+  },
+  "Btl_SOUL_E_W19_M1011_A_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / Status Ailment Resistance"
+  },
+  "Btl_ROLE_001_RoleName": {
+    "speaker": "UI",
+    "text": "Punisher"
+  },
+  "Btl_ROLE_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3%"
+  },
+  "Btl_ROLE_002_RoleName": {
+    "speaker": "UI",
+    "text": "Striker"
+  },
+  "Btl_ROLE_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3%"
+  },
+  "Btl_ROLE_003_RoleName": {
+    "speaker": "UI",
+    "text": "Point Man"
+  },
+  "Btl_ROLE_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3%"
+  },
+  "Btl_ROLE_004_RoleName": {
+    "speaker": "UI",
+    "text": "Cannoneer"
+  },
+  "Btl_ROLE_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Power +3%"
+  },
+  "Btl_ROLE_005_RoleName": {
+    "speaker": "UI",
+    "text": "Ice Sculptor"
+  },
+  "Btl_ROLE_005_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Power +3%"
+  },
+  "Btl_ROLE_006_RoleName": {
+    "speaker": "UI",
+    "text": "Engineer"
+  },
+  "Btl_ROLE_006_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Power +3%"
+  },
+  "Btl_ROLE_007_RoleName": {
+    "speaker": "UI",
+    "text": "Sagacious"
+  },
+  "Btl_ROLE_007_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Ice Power +3% / Spell Power +3%"
+  },
+  "Btl_ROLE_008_RoleName": {
+    "speaker": "UI",
+    "text": "Fencer"
+  },
+  "Btl_ROLE_008_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Resistance +10%"
+  },
+  "Btl_ROLE_009_RoleName": {
+    "speaker": "UI",
+    "text": "Hardy"
+  },
+  "Btl_ROLE_009_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Resistance +10%"
+  },
+  "Btl_ROLE_010_RoleName": {
+    "speaker": "UI",
+    "text": "Beguiler"
+  },
+  "Btl_ROLE_010_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Resistance +10%"
+  },
+  "Btl_ROLE_011_RoleName": {
+    "speaker": "UI",
+    "text": "Heatproof"
+  },
+  "Btl_ROLE_011_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +10%"
+  },
+  "Btl_ROLE_012_RoleName": {
+    "speaker": "UI",
+    "text": "Coldproof"
+  },
+  "Btl_ROLE_012_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_ROLE_013_RoleName": {
+    "speaker": "UI",
+    "text": "Shockproof"
+  },
+  "Btl_ROLE_013_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Resistance +10%"
+  },
+  "Btl_ROLE_014_RoleName": {
+    "speaker": "UI",
+    "text": "Learned"
+  },
+  "Btl_ROLE_014_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Power +3% / Spell Resistance +5%"
+  },
+  "Btl_ROLE_015_RoleName": {
+    "speaker": "UI",
+    "text": "Unflinching"
+  },
+  "Btl_ROLE_015_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_016_RoleName": {
+    "speaker": "UI",
+    "text": "Tenacious"
+  },
+  "Btl_ROLE_016_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +10% / Status Ailment Resistance"
+  },
+  "Btl_ROLE_017_RoleName": {
+    "speaker": "UI",
+    "text": "Dependable"
+  },
+  "Btl_ROLE_017_RoleDescription": {
+    "speaker": "UI",
+    "text": "Block Chance +3% / Status Ailment Resistance"
+  },
+  "Btl_ROLE_018_RoleName": {
+    "speaker": "UI",
+    "text": "Upbeat"
+  },
+  "Btl_ROLE_018_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +10% / Status Ailment Resistance"
+  },
+  "Btl_ROLE_019_RoleName": {
+    "speaker": "UI",
+    "text": "Congenial"
+  },
+  "Btl_ROLE_019_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_020_RoleName": {
+    "speaker": "UI",
+    "text": "Neatnik"
+  },
+  "Btl_ROLE_020_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_021_RoleName": {
+    "speaker": "UI",
+    "text": "Pliable"
+  },
+  "Btl_ROLE_021_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_022_RoleName": {
+    "speaker": "UI",
+    "text": "Indomitable"
+  },
+  "Btl_ROLE_022_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_023_RoleName": {
+    "speaker": "UI",
+    "text": "Rationalist"
+  },
+  "Btl_ROLE_023_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% / Status Ailment Resistance"
+  },
+  "Btl_ROLE_024_RoleName": {
+    "speaker": "UI",
+    "text": "Linkmaker"
+  },
+  "Btl_ROLE_024_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "Btl_ROLE_025_RoleName": {
+    "speaker": "UI",
+    "text": "Slow Starter"
+  },
+  "Btl_ROLE_025_RoleDescription": {
+    "speaker": "UI",
+    "text": "United Attack Starting Combo Rate +1% Per Turn Elapsed"
+  },
+  "Btl_ROLE_026_RoleName": {
+    "speaker": "UI",
+    "text": "Uncompromising"
+  },
+  "Btl_ROLE_026_RoleDescription": {
+    "speaker": "UI",
+    "text": "United Attack Starting Combo Rate +5% Per Absent Combat Retinue Member"
+  },
+  "Btl_ROLE_027_RoleName": {
+    "speaker": "UI",
+    "text": "Tuner"
+  },
+  "Btl_ROLE_027_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% Per Space Between Characters"
+  },
+  "Btl_ROLE_028_RoleName": {
+    "speaker": "UI",
+    "text": "Pioneer"
+  },
+  "Btl_ROLE_028_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +5% at Start of United Attack"
+  },
+  "Btl_ROLE_029_RoleName": {
+    "speaker": "UI",
+    "text": "Dreamer"
+  },
+  "Btl_ROLE_029_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +10% at End of United Attack / <emoji Slash>Slash Power +3%"
+  },
+  "Btl_ROLE_030_RoleName": {
+    "speaker": "UI",
+    "text": "Fastidious"
+  },
+  "Btl_ROLE_030_RoleDescription": {
+    "speaker": "UI",
+    "text": "Critical Attack Combo Rate +3%"
+  },
+  "Btl_ROLE_031_RoleName": {
+    "speaker": "UI",
+    "text": "Schemer"
+  },
+  "Btl_ROLE_031_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Affliction Rate Rises with Combo Rate / Combo Range 0"
+  },
+  "Btl_ROLE_032_RoleName": {
+    "speaker": "UI",
+    "text": "Standard-Bearer"
+  },
+  "Btl_ROLE_032_RoleDescription": {
+    "speaker": "UI",
+    "text": "Action Order Up (S) / Combo Rate +3% at Start of United Attack"
+  },
+  "Btl_ROLE_033_RoleName": {
+    "speaker": "UI",
+    "text": "Amiable"
+  },
+  "Btl_ROLE_033_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Range 0 / Combo Rate +4%"
+  },
+  "Btl_ROLE_034_RoleName": {
+    "speaker": "UI",
+    "text": "Unorthodox"
+  },
+  "Btl_ROLE_034_RoleDescription": {
+    "speaker": "UI",
+    "text": "Inverts Combo Range / Overdrive Active Rate Up"
+  },
+  "Btl_ROLE_035_RoleName": {
+    "speaker": "UI",
+    "text": "Scrupulous"
+  },
+  "Btl_ROLE_035_RoleDescription": {
+    "speaker": "UI",
+    "text": "Accuracy +20% / Combo Rate +1%"
+  },
+  "Btl_ROLE_036_RoleName": {
+    "speaker": "UI",
+    "text": "Birdbane"
+  },
+  "Btl_ROLE_036_RoleDescription": {
+    "speaker": "UI",
+    "text": "Flying Foes' Accuracy -15%"
+  },
+  "Btl_ROLE_037_RoleName": {
+    "speaker": "UI",
+    "text": "Impetuous"
+  },
+  "Btl_ROLE_037_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied / Status Ailment Resistance"
+  },
+  "Btl_ROLE_038_RoleName": {
+    "speaker": "UI",
+    "text": "Breaker"
+  },
+  "Btl_ROLE_038_RoleDescription": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -30% / Accuracy +10%"
+  },
+  "Btl_ROLE_039_RoleName": {
+    "speaker": "UI",
+    "text": "Ward"
+  },
+  "Btl_ROLE_039_RoleDescription": {
+    "speaker": "UI",
+    "text": "Block Chance +10%"
+  },
+  "Btl_ROLE_040_RoleName": {
+    "speaker": "UI",
+    "text": "Unbeing"
+  },
+  "Btl_ROLE_040_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Power +3% / <emoji Slash>Slash Resistance +10%"
+  },
+  "Btl_ROLE_041_RoleName": {
+    "speaker": "UI",
+    "text": "Wary"
+  },
+  "Btl_ROLE_041_RoleDescription": {
+    "speaker": "UI",
+    "text": "Counterattack Damage Resistance +50%"
+  },
+  "Btl_ROLE_042_RoleName": {
+    "speaker": "UI",
+    "text": "Lookout"
+  },
+  "Btl_ROLE_042_RoleDescription": {
+    "speaker": "UI",
+    "text": "Evade Chance +3%"
+  },
+  "Btl_ROLE_043_RoleName": {
+    "speaker": "UI",
+    "text": "Survival Instinct"
+  },
+  "Btl_ROLE_043_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Resistance +10%"
+  },
+  "Btl_ROLE_044_RoleName": {
+    "speaker": "UI",
+    "text": "Resourceful"
+  },
+  "Btl_ROLE_044_RoleDescription": {
+    "speaker": "UI",
+    "text": "Interrupt Evade Chance +25% / Evade Chance +3%"
+  },
+  "Btl_ROLE_045_RoleName": {
+    "speaker": "UI",
+    "text": "Prompt"
+  },
+  "Btl_ROLE_045_RoleDescription": {
+    "speaker": "UI",
+    "text": "Action Order Up"
+  },
+  "Btl_ROLE_046_RoleName": {
+    "speaker": "UI",
+    "text": "Anchor"
+  },
+  "Btl_ROLE_046_RoleDescription": {
+    "speaker": "UI",
+    "text": "Action Order Down / <emoji Stab>Pierce Power +3%"
+  },
+  "Btl_ROLE_047_RoleName": {
+    "speaker": "UI",
+    "text": "Devoted"
+  },
+  "Btl_ROLE_047_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order -12 / Status Ailment Resistant"
+  },
+  "Btl_ROLE_048_RoleName": {
+    "speaker": "UI",
+    "text": "Diversion"
+  },
+  "Btl_ROLE_048_RoleDescription": {
+    "speaker": "UI",
+    "text": "More Likely to Be Targeted / <emoji Strike>Blunt Damage +3%"
+  },
+  "Btl_ROLE_049_RoleName": {
+    "speaker": "UI",
+    "text": "Ambusher"
+  },
+  "Btl_ROLE_049_RoleDescription": {
+    "speaker": "UI",
+    "text": "Less Likely to Be Targeted / United Attack Starting Combo Rate +5% Per Absent Combat Retinue Member"
+  },
+  "Btl_ROLE_050_RoleName": {
+    "speaker": "UI",
+    "text": "Poet"
+  },
+  "Btl_ROLE_050_RoleDescription": {
+    "speaker": "UI",
+    "text": "Less Likely to Be Targeted While Chanting"
+  },
+  "Btl_ROLE_051_RoleName": {
+    "speaker": "UI",
+    "text": "Contrarian"
+  },
+  "Btl_ROLE_051_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Resistance +10%"
+  },
+  "Btl_ROLE_052_RoleName": {
+    "speaker": "UI",
+    "text": "Steamroller"
+  },
+  "Btl_ROLE_052_RoleDescription": {
+    "speaker": "UI",
+    "text": "Delay +1"
+  },
+  "Btl_ROLE_053_RoleName": {
+    "speaker": "UI",
+    "text": "Merciless"
+  },
+  "Btl_ROLE_053_RoleDescription": {
+    "speaker": "UI",
+    "text": "Critical Attack Damage +5%"
+  },
+  "Btl_ROLE_054_RoleName": {
+    "speaker": "UI",
+    "text": "Finisher"
+  },
+  "Btl_ROLE_054_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +5% at End of Combos"
+  },
+  "Btl_ROLE_055_RoleName": {
+    "speaker": "UI",
+    "text": "Condemner"
+  },
+  "Btl_ROLE_055_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +20% When Quelling Conditionals"
+  },
+  "Btl_ROLE_056_RoleName": {
+    "speaker": "UI",
+    "text": "Seasoned Duelist"
+  },
+  "Btl_ROLE_056_RoleDescription": {
+    "speaker": "UI",
+    "text": "Enables the Use of Dual-Wield Techs"
+  },
+  "Btl_ROLE_057_RoleName": {
+    "speaker": "UI",
+    "text": "Guns Blazing"
+  },
+  "Btl_ROLE_057_RoleDescription": {
+    "speaker": "UI",
+    "text": "Enables the Use of Guns Akimbo Techs"
+  },
+  "Btl_ROLE_058_RoleName": {
+    "speaker": "UI",
+    "text": "Sword & Gun Master"
+  },
+  "Btl_ROLE_058_RoleDescription": {
+    "speaker": "UI",
+    "text": "Enables the Use of Sword & Gun Techs"
+  },
+  "Btl_ROLE_059_RoleName": {
+    "speaker": "UI",
+    "text": "Self-Defense"
+  },
+  "Btl_ROLE_059_RoleDescription": {
+    "speaker": "UI",
+    "text": "Defensive Resistances +10%"
+  },
+  "Btl_ROLE_060_RoleName": {
+    "speaker": "UI",
+    "text": "Persistent"
+  },
+  "Btl_ROLE_060_RoleDescription": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "Btl_ROLE_061_RoleName": {
+    "speaker": "UI",
+    "text": "Enlightened"
+  },
+  "Btl_ROLE_061_RoleDescription": {
+    "speaker": "UI",
+    "text": "Full-Retinue-Attack Resistance +10%"
+  },
+  "Btl_ROLE_062_RoleName": {
+    "speaker": "UI",
+    "text": "Playmaker"
+  },
+  "Btl_ROLE_062_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max BP +1 / Expand Combo Range"
+  },
+  "Btl_ROLE_063_RoleName": {
+    "speaker": "UI",
+    "text": "Soloist"
+  },
+  "Btl_ROLE_063_RoleDescription": {
+    "speaker": "UI",
+    "text": "Showstopper BP +1 / <emoji Strike>Blunt Power +3%"
+  },
+  "Btl_ROLE_064_RoleName": {
+    "speaker": "UI",
+    "text": "Live Wire"
+  },
+  "Btl_ROLE_064_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Power +3% / <emoji Lightning>Shock Resistance +10%"
+  },
+  "Btl_ROLE_065_RoleName": {
+    "speaker": "UI",
+    "text": "Silencer"
+  },
+  "Btl_ROLE_065_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +10% Against Chanting Enemies / <emoji Fire>Heat Power +3%"
+  },
+  "Btl_ROLE_066_RoleName": {
+    "speaker": "UI",
+    "text": "Charlatan"
+  },
+  "Btl_ROLE_066_RoleDescription": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -20% / Evade Chance +3%"
+  },
+  "Btl_ROLE_067_RoleName": {
+    "speaker": "UI",
+    "text": "Appeaser"
+  },
+  "Btl_ROLE_067_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +5% During Consecutive Combos With Appeaser Allies"
+  },
+  "Btl_UNIQUE_ROLE_Tsunanori_RoleName": {
+    "speaker": "UI",
+    "text": "Kugutsu Master"
+  },
+  "Btl_UNIQUE_ROLE_Tsunanori_RoleDescription": {
+    "speaker": "UI",
+    "text": "Enables the Swapping of Kugutsu Souls"
+  },
+  "Btl_SUPPORT_ROLE_Tsunanori_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_Ameya_Aisling_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +3%"
+  },
+  "Btl_SUPPORT_ROLE_Siugnas_Darkking_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_Formina_Franklyn_RoleDescription": {
+    "speaker": "UI",
+    "text": "United Attack Starting Combo Rate +1% Per Turn Elapsed"
+  },
+  "Btl_SUPPORT_ROLE_Bonnie_Blair_RoleDescription": {
+    "speaker": "UI",
+    "text": "Evade Chance +3%"
+  },
+  "Btl_SUPPORT_ROLE_Diva_No5_01_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +1%"
+  },
+  "Btl_SUPPORT_ROLE_Musashi_RoleDescription": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -15%"
+  },
+  "Btl_SUPPORT_ROLE_Sukune_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_Komachi_RoleDescription": {
+    "speaker": "UI",
+    "text": "Less Likely to Be Targeted While Chanting"
+  },
+  "Btl_SUPPORT_ROLE_Bou_RoleDescription": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "Btl_SUPPORT_ROLE_LoLo_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Resistance +10%"
+  },
+  "Btl_SUPPORT_ROLE_Shinobu_Kato_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_Macha_Copy_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_General_RoleDescription": {
+    "speaker": "UI",
+    "text": "Parameters and skill levels raised by General."
+  },
+  "Btl_SUPPORT_ROLE_Brave_RoleDescription": {
+    "speaker": "UI",
+    "text": "All Resistances +5% / All Power -3%"
+  },
+  "Btl_SUPPORT_ROLE_Philosopher_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_Killer_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Slash>Slash Resistance +10%"
+  },
+  "Btl_SUPPORT_ROLE_Ilmurran_RoleDescription": {
+    "speaker": "UI",
+    "text": "Block Chance +5%"
+  },
+  "Btl_SUPPORT_ROLE_Champion_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max BP +2"
+  },
+  "Btl_SUPPORT_ROLE_Beh_Cat_RoleDescription": {
+    "speaker": "UI",
+    "text": "Raises Enmity / Defensive Resistances +5%"
+  },
+  "Btl_SUPPORT_ROLE_Heh_Cat_RoleDescription": {
+    "speaker": "UI",
+    "text": "Critical Attack Combo Rate +3%"
+  },
+  "Btl_SUPPORT_ROLE_Eh_Cat_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied / Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_Constantine_RoleDescription": {
+    "speaker": "UI",
+    "text": "Starting Action Order Up"
+  },
+  "Btl_SUPPORT_ROLE_Imakoo_Werewolf_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_Wednesday_RoleDescription": {
+    "speaker": "UI",
+    "text": "Critical Attack Damage +5%"
+  },
+  "Btl_SUPPORT_ROLE_Blath_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Stab>Pierce Resistance +10%"
+  },
+  "Btl_SUPPORT_ROLE_Boudica_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% at Start of United Attacks"
+  },
+  "Btl_SUPPORT_ROLE_Lita_Caryx_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_YellowWitchWillma_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_YellowWitchWillma_Golem_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_SquireAssasin_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_Dolores_RoleDescription": {
+    "speaker": "UI",
+    "text": "United Attack Starting Combo Rate +5% Per Absent Combat Retinue Member"
+  },
+  "Btl_SUPPORT_ROLE_Ivar_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +5% at End of United Attacks"
+  },
+  "Btl_SUPPORT_ROLE_Azure_RoleDescription": {
+    "speaker": "UI",
+    "text": "BP Cost -1 When Near Death"
+  },
+  "Btl_SUPPORT_ROLE_Byaku_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_SUPPORT_ROLE_Erytheia_RoleDescription": {
+    "speaker": "UI",
+    "text": "Hastened Status Ailment Recovery"
+  },
+  "Btl_SUPPORT_ROLE_Nitram_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +10%"
+  },
+  "Btl_SUPPORT_ROLE_Atihana_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +10%"
+  },
+  "Btl_SUPPORT_ROLE_Nahoj_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Lightning> Shock Resistance +10%"
+  },
+  "Btl_SUPPORT_ROLE_Irbas_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Resistance +10%"
+  },
+  "Btl_SUPPORT_ROLE_Gruman_Mole_RoleDescription": {
+    "speaker": "UI",
+    "text": "Guaranteed to Hit When Afflicted with Darkness / Block Chance Up / Evade Chance Up"
+  },
+  "Btl_SUPPORT_ROLE_Gold_SubManager_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% Per Space Between Characters"
+  },
+  "Btl_SUPPORT_ROLE_Scarecrow_RoleDescription": {
+    "speaker": "UI",
+    "text": "Flying Foes' Accuracy -10%"
+  },
+  "Btl_SUPPORT_ROLE_Nana_RoleDescription": {
+    "speaker": "UI",
+    "text": "Full-Retinue-Attack Resistance +10%"
+  },
+  "Btl_SUPPORT_ROLE_BX10_EX_RoleDescription": {
+    "speaker": "UI",
+    "text": "Evade Chance +10% When Near Death"
+  },
+  "Btl_SUPPORT_ROLE_Mech_Bard_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order +6"
+  },
+  "Btl_SUPPORT_ROLE_Sarab_RoleDescription": {
+    "speaker": "UI",
+    "text": "Accuracy +10%"
+  },
+  "Btl_SUPPORT_ROLE_Simon_RoleDescription": {
+    "speaker": "UI",
+    "text": "Block Chance +10% When Near Death"
+  },
+  "Btl_SUPPORT_ROLE_Kina_Kikiri_RoleDescription": {
+    "speaker": "UI",
+    "text": "Counterattack Damage Resistance +50%"
+  },
+  "Btl_SUPPORT_ROLE_Guinevere_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +10% Against Chanting Enemies"
+  },
+  "Btl_SUPPORT_ROLE_Spear_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +20% When Quelling Conditionals"
+  },
+  "Btl_SUPPORT_ROLE_Lancelot_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +20% When Quelling Conditionals"
+  },
+  "Btl_SUPPORT_ROLE_LastEmperor_RoleDescription": {
+    "speaker": "UI",
+    "text": "Showstopper BP +1"
+  },
+  "Btl_SUPPORT_ROLE_Naomi_Waka_RoleDescription": {
+    "speaker": "UI",
+    "text": "Interrupt Evade Chance +50%"
+  },
+  "Btl_SUPPORT_ROLE_Professor_RoleDescription": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "Btl_SUPPORT_ROLE_Emily_Bryant_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order -6"
+  },
+  "Btl_ROLE_BLOOD_001_RoleName": {
+    "speaker": "UI",
+    "text": "Last Love"
+  },
+  "Btl_ROLE_BLOOD_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "Restore 1 LP After Battle / Combo Rate +10% at End of United Attack"
+  },
+  "Btl_ROLE_BLOOD_002_RoleName": {
+    "speaker": "UI",
+    "text": "First Rose"
+  },
+  "Btl_ROLE_BLOOD_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "Restore 1 LP After Battle / Combo Rate +10% at Start of United Attack"
+  },
+  "Btl_ROLE_BLOOD_003_RoleName": {
+    "speaker": "UI",
+    "text": "Lunatic Resistance"
+  },
+  "Btl_ROLE_BLOOD_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "Restore 1 LP After Battle / All Resistances +5%"
+  },
+  "Btl_ROLE_BLOOD_004_RoleName": {
+    "speaker": "UI",
+    "text": "Zenith Guard"
+  },
+  "Btl_ROLE_BLOOD_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "Restore 1 LP After Battle / Block Chance +15%"
+  },
+  "Btl_ROLE_BLOOD_005_RoleName": {
+    "speaker": "UI",
+    "text": "Red Heart"
+  },
+  "Btl_ROLE_BLOOD_005_RoleDescription": {
+    "speaker": "UI",
+    "text": "Restore 1 LP After Battle / Expand Combo Range"
+  },
+  "Btl_ROLE_BLOOD_006_RoleName": {
+    "speaker": "UI",
+    "text": "Evasive Mist"
+  },
+  "Btl_ROLE_BLOOD_006_RoleDescription": {
+    "speaker": "UI",
+    "text": "Restore 1 LP After Battle / Evade Chance +15%"
+  },
+  "Btl_SL_ROLE_1_001_RoleName": {
+    "speaker": "UI",
+    "text": "Juvenile Knight"
+  },
+  "Btl_SL_ROLE_1_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max HP -15% / One-Handed Sword Tech Power +1% / Target's Block Chance -10%"
+  },
+  "Btl_SL_ROLE_1_002_RoleName": {
+    "speaker": "UI",
+    "text": "Young Knight"
+  },
+  "Btl_SL_ROLE_1_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -1 / One-Handed Sword Tech Power +3% / Target's Block Chance -20%"
+  },
+  "Btl_SL_ROLE_1_003_RoleName": {
+    "speaker": "UI",
+    "text": "Mature Knight"
+  },
+  "Btl_SL_ROLE_1_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -2 / Max HP +15% / One-Handed Sword Tech Power +10% / Target's Block Chance -30%"
+  },
+  "Btl_SL_ROLE_1_004_RoleName": {
+    "speaker": "UI",
+    "text": "Elder Knight"
+  },
+  "Btl_SL_ROLE_1_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -3 / Max HP +20% / One-Handed Sword Tech BP Cost -1 / Target's Block Chance -30%"
+  },
+  "Btl_SL_ROLE_2_001_RoleName": {
+    "speaker": "UI",
+    "text": "Juvenile Guard"
+  },
+  "Btl_SL_ROLE_2_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max HP -15% / Two-Handed Sword Tech Power +1% / Block Chance +3%"
+  },
+  "Btl_SL_ROLE_2_002_RoleName": {
+    "speaker": "UI",
+    "text": "Young Guard"
+  },
+  "Btl_SL_ROLE_2_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -1 / Two-Handed Sword Tech Power +3% / Block Chance +5%"
+  },
+  "Btl_SL_ROLE_2_003_RoleName": {
+    "speaker": "UI",
+    "text": "Mature Guard"
+  },
+  "Btl_SL_ROLE_2_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -2 / Max HP +15% / Two-Handed Sword Tech Power +10% / Block Chance +10%"
+  },
+  "Btl_SL_ROLE_2_004_RoleName": {
+    "speaker": "UI",
+    "text": "Elder Guard"
+  },
+  "Btl_SL_ROLE_2_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -3 / Max HP +20% / Two-Handed Sword Tech BP Cost -1 / Block Chance +10%"
+  },
+  "Btl_SL_ROLE_3_001_RoleName": {
+    "speaker": "UI",
+    "text": "Juvenile Gunman"
+  },
+  "Btl_SL_ROLE_3_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max HP -15% / One-Handed Gun Tech Power +1%"
+  },
+  "Btl_SL_ROLE_3_002_RoleName": {
+    "speaker": "UI",
+    "text": "Young Gunman"
+  },
+  "Btl_SL_ROLE_3_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -1% / One-Handed Gun Tech Power +3%"
+  },
+  "Btl_SL_ROLE_3_003_RoleName": {
+    "speaker": "UI",
+    "text": "Mature Gunman"
+  },
+  "Btl_SL_ROLE_3_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -2 / Max HP +15% / One-Handed Gun Tech Power +10%"
+  },
+  "Btl_SL_ROLE_3_004_RoleName": {
+    "speaker": "UI",
+    "text": "Elder Gunman"
+  },
+  "Btl_SL_ROLE_3_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -3 / Max HP +20% / One-Handed Flamethrower Tech BP Cost -1"
+  },
+  "Btl_SL_ROLE_4_001_RoleName": {
+    "speaker": "UI",
+    "text": "Juvenile Shooter"
+  },
+  "Btl_SL_ROLE_4_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max HP -15% / Two-Handed Gun Tech Power +1% / Full-Retinue-Attack Resistance +5%"
+  },
+  "Btl_SL_ROLE_4_002_RoleName": {
+    "speaker": "UI",
+    "text": "Young Shooter"
+  },
+  "Btl_SL_ROLE_4_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -1 / Two-Handed Gun Tech Power +3% / Full-Retinue-Attack Resistance +10%"
+  },
+  "Btl_SL_ROLE_4_003_RoleName": {
+    "speaker": "UI",
+    "text": "Mature Shooter"
+  },
+  "Btl_SL_ROLE_4_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -2 / Max HP +15% / Two-Handed Gun Tech Power +10% / Attack-All Resistance +15%"
+  },
+  "Btl_SL_ROLE_4_004_RoleName": {
+    "speaker": "UI",
+    "text": "Elder Shooter"
+  },
+  "Btl_SL_ROLE_4_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -3 / Max HP +20% / Two-Handed Flamethrower Tech BP Cost -1 / Attack-All Resistance +15%"
+  },
+  "Btl_SL_ROLE_5_001_RoleName": {
+    "speaker": "UI",
+    "text": "Juvenile Monk"
+  },
+  "Btl_SL_ROLE_5_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max HP -15% / Martial Arts Tech Power +1% / Evade Chance +3%"
+  },
+  "Btl_SL_ROLE_5_002_RoleName": {
+    "speaker": "UI",
+    "text": "Young Monk"
+  },
+  "Btl_SL_ROLE_5_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -1 / Martial Arts Tech Power +3% / Evade Chance +6%"
+  },
+  "Btl_SL_ROLE_5_003_RoleName": {
+    "speaker": "UI",
+    "text": "Mature Monk"
+  },
+  "Btl_SL_ROLE_5_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -2 / Max HP +15% / Martial Arts Tech Power +10% / Evade Chance +9%"
+  },
+  "Btl_SL_ROLE_5_004_RoleName": {
+    "speaker": "UI",
+    "text": "Elder Monk"
+  },
+  "Btl_SL_ROLE_5_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -3 / Max HP +20% / Martial Arts Tech BP Cost -1 / Evade Chance +9%"
+  },
+  "Btl_SL_ROLE_6_001_RoleName": {
+    "speaker": "UI",
+    "text": "Juvenile Mage"
+  },
+  "Btl_SL_ROLE_6_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max HP -15% / Spell Power +1% / Spell Resistance +3%"
+  },
+  "Btl_SL_ROLE_6_002_RoleName": {
+    "speaker": "UI",
+    "text": "Young Mage"
+  },
+  "Btl_SL_ROLE_6_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -1 / Spell Power +3% / Spell Resistance +6%"
+  },
+  "Btl_SL_ROLE_6_003_RoleName": {
+    "speaker": "UI",
+    "text": "Mature Mage"
+  },
+  "Btl_SL_ROLE_6_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -2 / Max HP +15% / Spell Power +10% / Spell Resistance +9%"
+  },
+  "Btl_SL_ROLE_6_004_RoleName": {
+    "speaker": "UI",
+    "text": "Elder Mage"
+  },
+  "Btl_SL_ROLE_6_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -3 / Max HP +20% / Spell BP Cost -1 / Spell Resistance +9%"
+  },
+  "Btl_SL_ROLE_7_001_RoleName": {
+    "speaker": "UI",
+    "text": "Juvenile Monster"
+  },
+  "Btl_SL_ROLE_7_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max HP -15% / Monster Tech Power +1% / <emoji Fire>Heat/<emoji Ice>Cold/<emoji Lightning>Shock Resistance +5%"
+  },
+  "Btl_SL_ROLE_7_002_RoleName": {
+    "speaker": "UI",
+    "text": "Young Monster"
+  },
+  "Btl_SL_ROLE_7_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -1 / Monster Tech Power +3% / <emoji Fire>Heat/<emoji Ice>Cold/<emoji Lightning>Shock Resistance +10%"
+  },
+  "Btl_SL_ROLE_7_003_RoleName": {
+    "speaker": "UI",
+    "text": "Mature Monster"
+  },
+  "Btl_SL_ROLE_7_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -2, Max HP +15%, Monster Tech Power +10%, <emoji Fire>Heat/<emoji Ice>Cold/<emoji Lightning>Shock Resistance +15%"
+  },
+  "Btl_SL_ROLE_7_004_RoleName": {
+    "speaker": "UI",
+    "text": "Elder Monster"
+  },
+  "Btl_SL_ROLE_7_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "Max LP -3, Max HP +20%, Monster Tech BP Cost -1, <emoji Fire>Heat/<emoji Ice>Cold/<emoji Lightning>Shock Resistance +15%"
+  },
+  "Btl_ROLE_MECHA_BODY_H_RoleName": {
+    "speaker": "UI",
+    "text": "Diva"
+  },
+  "Btl_ROLE_MECHA_BODY_H_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_MECHA_BODY_D_RoleName": {
+    "speaker": "UI",
+    "text": "Perfect Rampart"
+  },
+  "Btl_ROLE_MECHA_BODY_D_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_MECHA_BODY_I_RoleName": {
+    "speaker": "UI",
+    "text": "Locomotive"
+  },
+  "Btl_ROLE_MECHA_BODY_I_RoleDescription": {
+    "speaker": "UI",
+    "text": "Expand Combo Range"
+  },
+  "Btl_ROLE_MECHA_BODY_F_RoleName": {
+    "speaker": "UI",
+    "text": "Salvager"
+  },
+  "Btl_ROLE_MECHA_BODY_F_RoleDescription": {
+    "speaker": "UI",
+    "text": "Mech Support Techs BP Cost -1"
+  },
+  "Btl_ROLE_MECHA_BODY_C_RoleName": {
+    "speaker": "UI",
+    "text": "Jolt Impact"
+  },
+  "Btl_ROLE_MECHA_BODY_C_RoleDescription": {
+    "speaker": "UI",
+    "text": "Delay +1"
+  },
+  "Btl_ROLE_MECHA_BODY_S_RoleName": {
+    "speaker": "UI",
+    "text": "Sabotage"
+  },
+  "Btl_ROLE_MECHA_BODY_S_RoleDescription": {
+    "speaker": "UI",
+    "text": "Target's Block Chance -30%"
+  },
+  "Btl_ROLE_MECHA_D1_RoleName": {
+    "speaker": "UI",
+    "text": "Troublemaker"
+  },
+  "Btl_ROLE_MECHA_D1_RoleDescription": {
+    "speaker": "UI",
+    "text": "Raises Enmity"
+  },
+  "Btl_ROLE_MECHA_D2_RoleName": {
+    "speaker": "UI",
+    "text": "Perfect Rampart"
+  },
+  "Btl_ROLE_MECHA_D2_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_MECHA_D3_RoleName": {
+    "speaker": "UI",
+    "text": "Reflexive"
+  },
+  "Btl_ROLE_MECHA_D3_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Resistance +15%"
+  },
+  "Btl_ROLE_MECHA_D4_RoleName": {
+    "speaker": "UI",
+    "text": "Xuanwu Program"
+  },
+  "Btl_ROLE_MECHA_D4_RoleDescription": {
+    "speaker": "UI",
+    "text": "Defense +10%"
+  },
+  "Btl_ROLE_MECHA_C1_RoleName": {
+    "speaker": "UI",
+    "text": "Forward Shift"
+  },
+  "Btl_ROLE_MECHA_C1_RoleDescription": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "Btl_ROLE_MECHA_C2_RoleName": {
+    "speaker": "UI",
+    "text": "Jolt Impact"
+  },
+  "Btl_ROLE_MECHA_C2_RoleDescription": {
+    "speaker": "UI",
+    "text": "Delay +1"
+  },
+  "Btl_ROLE_MECHA_C3_RoleName": {
+    "speaker": "UI",
+    "text": "Backward Shift"
+  },
+  "Btl_ROLE_MECHA_C3_RoleDescription": {
+    "speaker": "UI",
+    "text": "Tech Order -1"
+  },
+  "Btl_ROLE_MECHA_C4_RoleName": {
+    "speaker": "UI",
+    "text": "Baihu Program"
+  },
+  "Btl_ROLE_MECHA_C4_RoleDescription": {
+    "speaker": "UI",
+    "text": "Tech Order +1"
+  },
+  "Btl_ROLE_MECHA_I1_RoleName": {
+    "speaker": "UI",
+    "text": "Data Link"
+  },
+  "Btl_ROLE_MECHA_I1_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2%"
+  },
+  "Btl_ROLE_MECHA_I2_RoleName": {
+    "speaker": "UI",
+    "text": "Support Program"
+  },
+  "Btl_ROLE_MECHA_I2_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +2% Per Space Between Characters"
+  },
+  "Btl_ROLE_MECHA_I3_RoleName": {
+    "speaker": "UI",
+    "text": "Breakdown"
+  },
+  "Btl_ROLE_MECHA_I3_RoleDescription": {
+    "speaker": "UI",
+    "text": "Critical Attack Combo Rate +3%"
+  },
+  "Btl_ROLE_MECHA_I4_RoleName": {
+    "speaker": "UI",
+    "text": "Qinglong Program"
+  },
+  "Btl_ROLE_MECHA_I4_RoleDescription": {
+    "speaker": "UI",
+    "text": "Combo Rate +3% Per Space Between Characters"
+  },
+  "Btl_ROLE_MECHA_F1_RoleName": {
+    "speaker": "UI",
+    "text": "Aegis Snipe"
+  },
+  "Btl_ROLE_MECHA_F1_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +20% When Quelling Conditionals"
+  },
+  "Btl_ROLE_MECHA_F2_RoleName": {
+    "speaker": "UI",
+    "text": "Stealth Operative"
+  },
+  "Btl_ROLE_MECHA_F2_RoleDescription": {
+    "speaker": "UI",
+    "text": "Less Likely to Be Targeted"
+  },
+  "Btl_ROLE_MECHA_F3_RoleName": {
+    "speaker": "UI",
+    "text": "Initialization Protocol"
+  },
+  "Btl_ROLE_MECHA_F3_RoleDescription": {
+    "speaker": "UI",
+    "text": "BP Cost -1 From Turn 4 Onward"
+  },
+  "Btl_ROLE_MECHA_F4_RoleName": {
+    "speaker": "UI",
+    "text": "Zhuque Program"
+  },
+  "Btl_ROLE_MECHA_F4_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Affliction Rate Rises With Combo Rate"
+  },
+  "Btl_ROLE_MECHA_S1_RoleName": {
+    "speaker": "UI",
+    "text": "Eagle Eye"
+  },
+  "Btl_ROLE_MECHA_S1_RoleDescription": {
+    "speaker": "UI",
+    "text": "Antiair"
+  },
+  "Btl_ROLE_MECHA_S2_RoleName": {
+    "speaker": "UI",
+    "text": "Driveshifter"
+  },
+  "Btl_ROLE_MECHA_S2_RoleDescription": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "Btl_ROLE_MECHA_S3_RoleName": {
+    "speaker": "UI",
+    "text": "Shooting Mastery"
+  },
+  "Btl_ROLE_MECHA_S3_RoleDescription": {
+    "speaker": "UI",
+    "text": "Mech Shooting Tech Power +5%"
+  },
+  "Btl_ROLE_MECHA_S4_RoleName": {
+    "speaker": "UI",
+    "text": "Huanglong Program"
+  },
+  "Btl_ROLE_MECHA_S4_RoleDescription": {
+    "speaker": "UI",
+    "text": "Attack Power +10%"
+  },
+  "Btl_ROLE_MECHA_H1_RoleName": {
+    "speaker": "UI",
+    "text": "Critical Seeker"
+  },
+  "Btl_ROLE_MECHA_H1_RoleDescription": {
+    "speaker": "UI",
+    "text": "Critical Attack Damage +10%"
+  },
+  "Btl_ROLE_MECHA_H2_RoleName": {
+    "speaker": "UI",
+    "text": "Combat Mastery"
+  },
+  "Btl_ROLE_MECHA_H2_RoleDescription": {
+    "speaker": "UI",
+    "text": "Mech Melee Tech Power +5%"
+  },
+  "Btl_ROLE_MECHA_H3_RoleName": {
+    "speaker": "UI",
+    "text": "Driveshifter"
+  },
+  "Btl_ROLE_MECHA_H3_RoleDescription": {
+    "speaker": "UI",
+    "text": "Raises Overdrive Activation Rate"
+  },
+  "Btl_ROLE_MECHA_H4_RoleName": {
+    "speaker": "UI",
+    "text": "Prima Donna"
+  },
+  "Btl_ROLE_MECHA_H4_RoleDescription": {
+    "speaker": "UI",
+    "text": "Showstopper BP +2"
+  },
+  "Btl_ROLE_MON_001_RoleName": {
+    "speaker": "UI",
+    "text": "Cautious"
+  },
+  "Btl_ROLE_MON_001_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Resistance +15%"
+  },
+  "Btl_ROLE_MON_002_RoleName": {
+    "speaker": "UI",
+    "text": "Instigator"
+  },
+  "Btl_ROLE_MON_002_RoleDescription": {
+    "speaker": "UI",
+    "text": "Raises Enmity / Defensive Resistances +10%"
+  },
+  "Btl_ROLE_MON_003_RoleName": {
+    "speaker": "UI",
+    "text": "Inquisitive"
+  },
+  "Btl_ROLE_MON_003_RoleDescription": {
+    "speaker": "UI",
+    "text": "Critical Attack Combo Rate +3%"
+  },
+  "Btl_ROLE_MON_004_RoleName": {
+    "speaker": "UI",
+    "text": "Hothead"
+  },
+  "Btl_ROLE_MON_004_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +20% When Frenzied / Status Ailment Resistance"
+  },
+  "Btl_ROLE_MON_005_RoleName": {
+    "speaker": "UI",
+    "text": "Meditator"
+  },
+  "Btl_ROLE_MON_005_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_MON_006_RoleName": {
+    "speaker": "UI",
+    "text": "Immunized"
+  },
+  "Btl_ROLE_MON_006_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_MON_007_RoleName": {
+    "speaker": "UI",
+    "text": "Metabolic"
+  },
+  "Btl_ROLE_MON_007_RoleDescription": {
+    "speaker": "UI",
+    "text": "Hastened Status Ailment Recovery"
+  },
+  "Btl_ROLE_MON_008_RoleName": {
+    "speaker": "UI",
+    "text": "Way of the Talpidae"
+  },
+  "Btl_ROLE_MON_008_RoleDescription": {
+    "speaker": "UI",
+    "text": "Guaranteed to Hit When Afflicted with Darkness / Block Chance Up / Evade Chance Up"
+  },
+  "Btl_ROLE_MON_009_RoleName": {
+    "speaker": "UI",
+    "text": "Polarization Detector"
+  },
+  "Btl_ROLE_MON_009_RoleDescription": {
+    "speaker": "UI",
+    "text": "Counterattack Damage Resistance +50%"
+  },
+  "Btl_ROLE_101_RoleName": {
+    "speaker": "UI",
+    "text": "Dismal King"
+  },
+  "Btl_ROLE_101_RoleDescription": {
+    "speaker": "UI",
+    "text": "Status Ailment Resistance"
+  },
+  "Btl_ROLE_102_RoleName": {
+    "speaker": "UI",
+    "text": "Wood's Quickening"
+  },
+  "Btl_ROLE_102_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_103_RoleName": {
+    "speaker": "UI",
+    "text": "Wood's Whisper"
+  },
+  "Btl_ROLE_103_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Resistance +5%"
+  },
+  "Btl_ROLE_104_RoleName": {
+    "speaker": "UI",
+    "text": "Wood's Prosperity"
+  },
+  "Btl_ROLE_104_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_105_RoleName": {
+    "speaker": "UI",
+    "text": "Hazy Silhouette"
+  },
+  "Btl_ROLE_105_RoleDescription": {
+    "speaker": "UI",
+    "text": "Lowers Enmity (L)"
+  },
+  "Btl_ROLE_106_RoleName": {
+    "speaker": "UI",
+    "text": "Wood's Profundity"
+  },
+  "Btl_ROLE_106_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1"
+  },
+  "Btl_ROLE_107_RoleName": {
+    "speaker": "UI",
+    "text": "Fire's Quickening"
+  },
+  "Btl_ROLE_107_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_108_RoleName": {
+    "speaker": "UI",
+    "text": "Flamespeaker"
+  },
+  "Btl_ROLE_108_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Fire>Heat Resistance +5%"
+  },
+  "Btl_ROLE_109_RoleName": {
+    "speaker": "UI",
+    "text": "Fire's Prosperity"
+  },
+  "Btl_ROLE_109_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_110_RoleName": {
+    "speaker": "UI",
+    "text": "Awakened"
+  },
+  "Btl_ROLE_110_RoleDescription": {
+    "speaker": "UI",
+    "text": "All Powers +1"
+  },
+  "Btl_ROLE_111_RoleName": {
+    "speaker": "UI",
+    "text": "Fire's Profundity"
+  },
+  "Btl_ROLE_111_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_112_RoleName": {
+    "speaker": "UI",
+    "text": "Earth's Quickening"
+  },
+  "Btl_ROLE_112_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_113_RoleName": {
+    "speaker": "UI",
+    "text": "Humming Poet"
+  },
+  "Btl_ROLE_113_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order -3"
+  },
+  "Btl_ROLE_114_RoleName": {
+    "speaker": "UI",
+    "text": "Earth's Prosperity"
+  },
+  "Btl_ROLE_114_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_115_RoleName": {
+    "speaker": "UI",
+    "text": "Guardian of the Earth"
+  },
+  "Btl_ROLE_115_RoleDescription": {
+    "speaker": "UI",
+    "text": "Attack-All Resistance +5%"
+  },
+  "Btl_ROLE_116_RoleName": {
+    "speaker": "UI",
+    "text": "Earth's Profundity"
+  },
+  "Btl_ROLE_116_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_117_RoleName": {
+    "speaker": "UI",
+    "text": "Metal's Quickening"
+  },
+  "Btl_ROLE_117_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_118_RoleName": {
+    "speaker": "UI",
+    "text": "Dispersed Thunder"
+  },
+  "Btl_ROLE_118_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Lightning>Shock Resistance +5%"
+  },
+  "Btl_ROLE_119_RoleName": {
+    "speaker": "UI",
+    "text": "Metal's Prosperity"
+  },
+  "Btl_ROLE_119_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_120_RoleName": {
+    "speaker": "UI",
+    "text": "Mage Masher"
+  },
+  "Btl_ROLE_120_RoleDescription": {
+    "speaker": "UI",
+    "text": "Power +20% Against Chanting Enemies"
+  },
+  "Btl_ROLE_121_RoleName": {
+    "speaker": "UI",
+    "text": "Metal's Profundity"
+  },
+  "Btl_ROLE_121_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_122_RoleName": {
+    "speaker": "UI",
+    "text": "Water's Quickening"
+  },
+  "Btl_ROLE_122_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_123_RoleName": {
+    "speaker": "UI",
+    "text": "Virtuous Heart"
+  },
+  "Btl_ROLE_123_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Ice>Cold Resistance +5%"
+  },
+  "Btl_ROLE_124_RoleName": {
+    "speaker": "UI",
+    "text": "Water's Prosperity"
+  },
+  "Btl_ROLE_124_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_125_RoleName": {
+    "speaker": "UI",
+    "text": "Bold Reciter"
+  },
+  "Btl_ROLE_125_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell & Chanting Action Order +3"
+  },
+  "Btl_ROLE_126_RoleName": {
+    "speaker": "UI",
+    "text": "Water's Profundity"
+  },
+  "Btl_ROLE_126_RoleDescription": {
+    "speaker": "UI",
+    "text": "Spell Power +1%"
+  },
+  "Btl_ROLE_127_RoleName": {
+    "speaker": "UI",
+    "text": "First Aid"
+  },
+  "Btl_ROLE_127_RoleDescription": {
+    "speaker": "UI",
+    "text": "Restore 1 LP After Battle"
+  },
+  "Btl_ROLE_128_RoleName": {
+    "speaker": "UI",
+    "text": "Emergency Repairs"
+  },
+  "Btl_ROLE_128_RoleDescription": {
+    "speaker": "UI",
+    "text": "Restore 1 LP After Battle"
+  },
+  "Btl_ROLE_129_RoleName": {
+    "speaker": "UI",
+    "text": "Salamander"
+  },
+  "Btl_ROLE_129_RoleDescription": {
+    "speaker": "UI",
+    "text": "<emoji Strike>Blunt Power +3% / <emoji Fire>Heat Resistance +10%"
+  }
+}

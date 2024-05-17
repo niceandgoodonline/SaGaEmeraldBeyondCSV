@@ -1,0 +1,694 @@
+{
+  "W01_EVAR_AMYA_GETCAT_004_DETAIL": {
+    "speaker": "UI",
+    "text": "The cat seems to be unable to climb down from the tree."
+  },
+  "W01_EVAR_AMYA_GETCAT_009_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is lounging in front of a cozy-looking building."
+  },
+  "W01_LTXT_AMYA_HOUSEOFIZUMI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Izumi Residence"
+  },
+  "W01_LTXT_AMYA_HOUSEOFIZUMI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Yumeha Izumi's home. Your beloved familiar LoLo waits for you here while you're off at school."
+  },
+  "W01_WRLD_AMYA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Graduation Exams"
+  },
+  "W01_WRLD_AMYA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You have come to Miyako City for your Witchterms, the passing of which will make you a full-fledged witch."
+  },
+  "W01_SCAN_AMYA_INITIAL_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Strange Magic"
+  },
+  "W01_SCAN_AMYA_INITIAL_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone claiming to be Macha, goddess of sorcery, has given you a magic unlike that which you're familiar with from Pulchra."
+  },
+  "W01_EVAR_AMYA_FIRSTCAT_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Green Line"
+  },
+  "W01_EVAR_AMYA_FIRSTCAT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A green line stretches before you. Could it lead you to your magic?"
+  },
+  "W01_EVAR_AMYA_FIRSTCAT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Follow the Green Line"
+  },
+  "W01_EVAR_AMYA_GETCAT_001_TITLE": {
+    "speaker": "UI",
+    "text": "A Neighborhood Feline"
+  },
+  "W01_EVAR_AMYA_GETCAT_001_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat awaits you on the grounds of a nearby apartment."
+  },
+  "W01_EVAR_AMYA_GETCAT_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_002_TITLE": {
+    "speaker": "UI",
+    "text": "Beneath the Streetlights"
+  },
+  "W01_EVAR_AMYA_GETCAT_002_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat awaits in the garden of your home."
+  },
+  "W01_EVAR_AMYA_GETCAT_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_003_TITLE": {
+    "speaker": "UI",
+    "text": "Rakunan Station Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_003_DETAIL": {
+    "speaker": "UI",
+    "text": "A content cat is being petted by the employee of a store near Rakunan Station."
+  },
+  "W01_EVAR_AMYA_GETCAT_003_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_KUGUTU_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Walking Puppet"
+  },
+  "W01_EVAR_AMYA_KUGUTU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Ren and Kentaro are gossiping about something or other."
+  },
+  "W01_EVAR_AMYA_KUGUTU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Listen to Ren's Story"
+  },
+  "W01_EVAR_AMYA_FLOG_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Gigantic Frog"
+  },
+  "W01_EVAR_AMYA_FLOG_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Ren's got something he wants to tell you."
+  },
+  "W01_EVAR_AMYA_FLOG_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Listen to Ren's Story"
+  },
+  "W01_EVAR_AMYA_FLOG_010_TITLE": {
+    "speaker": "UI",
+    "text": "A Chance Encounter"
+  },
+  "W01_EVAR_AMYA_FLOG_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The gigantic frog can be found in this pond."
+  },
+  "W01_EVAR_AMYA_FLOG_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Pond"
+  },
+  "W01_EVAR_AMYA_GHOSTSWING_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Haunted Swing"
+  },
+  "W01_EVAR_AMYA_GHOSTSWING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Ren and Kentaro are standing near a deserted park."
+  },
+  "W01_EVAR_AMYA_GHOSTSWING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W01_EVAR_AMYA_RAKUGAKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Strange Guest"
+  },
+  "W01_EVAR_AMYA_RAKUGAKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The green line leads to Rakugaku Academy. Is it all right to go inside?"
+  },
+  "W01_EVAR_AMYA_RAKUGAKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Check It Out"
+  },
+  "W01_EVAR_AMYA_BIRD_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Large Bird"
+  },
+  "W01_EVAR_AMYA_BIRD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's lunch time. What's Kotoha up to?"
+  },
+  "W01_EVAR_AMYA_BIRD_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Her"
+  },
+  "W01_EVAR_AMYA_HITOKIRI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Miyako Imperial University Cat"
+  },
+  "W01_EVAR_AMYA_HITOKIRI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The green line leads to a cat near Miyako Imperial University."
+  },
+  "W01_EVAR_AMYA_HITOKIRI_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Cat"
+  },
+  "W01_EVAR_AMYA_HITOKIRI_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Cavernous Cat"
+  },
+  "W01_EVAR_AMYA_HITOKIRI_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The cat has absconded toward the cave."
+  },
+  "W01_EVAR_AMYA_HITOKIRI_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Check It Out"
+  },
+  "W01_EVAR_AMYA_HITOKIRI_020_TITLE": {
+    "speaker": "UI",
+    "text": "The Disappearing Cat"
+  },
+  "W01_EVAR_AMYA_HITOKIRI_020_DETAIL": {
+    "speaker": "UI",
+    "text": "The cat has absconded toward the cave."
+  },
+  "W01_EVAR_AMYA_HITOKIRI_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Check It Out"
+  },
+  "W01_EVAR_AMYA_HITOKIRI_030_TITLE": {
+    "speaker": "UI",
+    "text": "The Greenlands"
+  },
+  "W01_EVAR_AMYA_HITOKIRI_030_DETAIL": {
+    "speaker": "UI",
+    "text": "The sarubobo you found may have something to do with Lifetaker. Head toward the abandoned village."
+  },
+  "W01_EVAR_AMYA_HITOKIRI_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Village"
+  },
+  "W01_EVAR_AMYA_HAY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Pollen Alert"
+  },
+  "W01_EVAR_AMYA_HAY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The classroom is abuzz with information on the latest pollen alert."
+  },
+  "W01_EVAR_AMYA_HAY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Your Classmates"
+  },
+  "W01_EVAR_AMYA_HAY_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Pollen's Source"
+  },
+  "W01_EVAR_AMYA_HAY_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The source of the pollen seems to be the trees in northeastern part of Miyako City."
+  },
+  "W01_EVAR_AMYA_HAY_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Copse"
+  },
+  "W01_EVAR_AMYA_AKANE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Reunion"
+  },
+  "W01_EVAR_AMYA_AKANE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Yumeha's friends are all done with the music festival. Talk to your teacher before leaving the theater."
+  },
+  "W01_EVAR_AMYA_AKANE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Her"
+  },
+  "W01_EVAR_AMYA_MOVINGTREE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Moving Tree"
+  },
+  "W01_EVAR_AMYA_MOVINGTREE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A university student is loitering near Miyako Imperial University."
+  },
+  "W01_EVAR_AMYA_MOVINGTREE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Her"
+  },
+  "W01_EVAR_AMYA_MOVINGTREE_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Abandoned Tree"
+  },
+  "W01_EVAR_AMYA_MOVINGTREE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The green line leads you to the tree Asahi was talking about."
+  },
+  "W01_EVAR_AMYA_MOVINGTREE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Village"
+  },
+  "W01_EVAR_AMYA_MYSTERY_000_TITLE": {
+    "speaker": "UI",
+    "text": "An Odd Pet"
+  },
+  "W01_EVAR_AMYA_MYSTERY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Ren approaches you as you are leaving school."
+  },
+  "W01_EVAR_AMYA_MYSTERY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Him"
+  },
+  "W01_EVAR_AMYA_MYSTERY_010_TITLE": {
+    "speaker": "UI",
+    "text": "A Swimming Pet"
+  },
+  "W01_EVAR_AMYA_MYSTERY_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Ren's weird pet is in the river. What's that about?"
+  },
+  "W01_EVAR_AMYA_MYSTERY_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Him"
+  },
+  "W01_EVAR_AMYA_KOMAINU_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Stone Statue"
+  },
+  "W01_EVAR_AMYA_KOMAINU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something is up in the park. What could be going on?"
+  },
+  "W01_EVAR_AMYA_KOMAINU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Check It Out"
+  },
+  "W01_EVAR_AMYA_MIRROR_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Shattered Mirror"
+  },
+  "W01_EVAR_AMYA_MIRROR_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've made plans to meet up with Haruna and Yuzuki at Sequoia Mall, but Yuzuki is running late. "
+  },
+  "W01_EVAR_AMYA_MIRROR_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Haruna"
+  },
+  "W01_EVAR_AMYA_MIRROR_010_TITLE": {
+    "speaker": "UI",
+    "text": "Repairing the Mirror"
+  },
+  "W01_EVAR_AMYA_MIRROR_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Try to fix the mirror once more."
+  },
+  "W01_EVAR_AMYA_MIRROR_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Try Again"
+  },
+  "W01_EVAR_AMYA_GETCAT_004_TITLE": {
+    "speaker": "UI",
+    "text": "The Stuck Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_004_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_005_TITLE": {
+    "speaker": "UI",
+    "text": "Rakuhoku Station Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_005_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is sitting next to a worker at the Rakuhoku Station kiosk."
+  },
+  "W01_EVAR_AMYA_GETCAT_005_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_006_TITLE": {
+    "speaker": "UI",
+    "text": "A Napping Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_006_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is lazing about in the front lawn of a nearby home."
+  },
+  "W01_EVAR_AMYA_GETCAT_006_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_007_TITLE": {
+    "speaker": "UI",
+    "text": "A Roadside Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_007_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is sitting on the edge of the road."
+  },
+  "W01_EVAR_AMYA_GETCAT_007_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_008_TITLE": {
+    "speaker": "UI",
+    "text": "A Cat Mascot"
+  },
+  "W01_EVAR_AMYA_GETCAT_008_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is pretending to be a mascot for the nearby store."
+  },
+  "W01_EVAR_AMYA_GETCAT_008_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Saintly Cat"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The green line leads you to a holy edifice. Is the cat inside?"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shrine"
+  },
+  "W01_EVAR_AMYA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Returning to Miyako City"
+  },
+  "W01_EVAR_AMYA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've gotten mana from another world and have come back to Miyako City."
+  },
+  "W01_EVAR_AMYA_GETCAT_009_TITLE": {
+    "speaker": "UI",
+    "text": "An Architecturally Conscious Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_009_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_010_TITLE": {
+    "speaker": "UI",
+    "text": "A Train-Loving Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is staring at the tracks. One wonders if it likes trains."
+  },
+  "W01_EVAR_AMYA_GETCAT_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_011_TITLE": {
+    "speaker": "UI",
+    "text": "A Lantern-Bound Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_011_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is napping in a lantern near Rakusuiro Tower. How did it manage that?"
+  },
+  "W01_EVAR_AMYA_GETCAT_011_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_012_TITLE": {
+    "speaker": "UI",
+    "text": "A Biker Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_012_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is sitting near a motorcycle. The heat from the engine must be keeping it warm."
+  },
+  "W01_EVAR_AMYA_GETCAT_012_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_013_TITLE": {
+    "speaker": "UI",
+    "text": "A Shady Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_013_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is resting in the shade of a tree."
+  },
+  "W01_EVAR_AMYA_GETCAT_013_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_014_TITLE": {
+    "speaker": "UI",
+    "text": "A Staring Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_014_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is staring at a nearby building."
+  },
+  "W01_EVAR_AMYA_GETCAT_014_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_010_TITLE": {
+    "speaker": "UI",
+    "text": "A Beckoning Cat"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Yet another line leading to the shrine has appeared."
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shrine"
+  },
+  "W01_EVAR_AMYA_GETCAT_015_TITLE": {
+    "speaker": "UI",
+    "text": "Rakuto Station Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_015_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is playing with a station attendant at Rakuto Station."
+  },
+  "W01_EVAR_AMYA_GETCAT_015_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_016_TITLE": {
+    "speaker": "UI",
+    "text": "A Hydrophilic Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_016_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is staring at the surface of the water. Did it spy a tasty fish?"
+  },
+  "W01_EVAR_AMYA_GETCAT_016_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_017_TITLE": {
+    "speaker": "UI",
+    "text": "A Drunk Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_017_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is stumbling about near the trees on hotel grounds. Is it all right?"
+  },
+  "W01_EVAR_AMYA_GETCAT_017_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_018_TITLE": {
+    "speaker": "UI",
+    "text": "A Parapet-Bound Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_018_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is lounging on top of the parapet of the nearby bridge. You can't help but envy its sense of balance."
+  },
+  "W01_EVAR_AMYA_GETCAT_018_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_019_TITLE": {
+    "speaker": "UI",
+    "text": "A Dog and a Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_019_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is having a standoff with a canine competitor on the grounds of a mansion."
+  },
+  "W01_EVAR_AMYA_GETCAT_019_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_020_TITLE": {
+    "speaker": "UI",
+    "text": "An Alert Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_020_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat in the northeastern outskirts appears to have sensed something."
+  },
+  "W01_EVAR_AMYA_GETCAT_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_021_TITLE": {
+    "speaker": "UI",
+    "text": "Sequoia Mall Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_021_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is loitering about Sequoia Mall."
+  },
+  "W01_EVAR_AMYA_GETCAT_021_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_020_TITLE": {
+    "speaker": "UI",
+    "text": "A Hiding Cat"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_020_DETAIL": {
+    "speaker": "UI",
+    "text": "A green line leads to the shrine. What's going on there this time?"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shrine"
+  },
+  "W01_EVAR_AMYA_GETCAT_022_TITLE": {
+    "speaker": "UI",
+    "text": "An Apartment Complex Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_022_DETAIL": {
+    "speaker": "UI",
+    "text": "A small cat is hidden betwixt several cramped apartment buildings."
+  },
+  "W01_EVAR_AMYA_GETCAT_022_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_023_TITLE": {
+    "speaker": "UI",
+    "text": "A Waterfall-Loving Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_023_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a cat perched before the falls at Sangen-in Temple. Said falls, incidentally, are said to bring good luck."
+  },
+  "W01_EVAR_AMYA_GETCAT_023_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_030_TITLE": {
+    "speaker": "UI",
+    "text": "A World-Traveling Cat"
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_030_DETAIL": {
+    "speaker": "UI",
+    "text": "Another cat has escaped to a different world...potentially."
+  },
+  "W01_EVAR_AMYA_OUTSIDECAT_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shrine"
+  },
+  "W01_EVAR_AMYA_GETCAT_024_TITLE": {
+    "speaker": "UI",
+    "text": "A Limestone Cave Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_024_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps the cat was tempted by the sound of water in the cave."
+  },
+  "W01_EVAR_AMYA_GETCAT_024_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_025_TITLE": {
+    "speaker": "UI",
+    "text": "A Music-Appreciating Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_025_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is content lounging about Miyako Theater."
+  },
+  "W01_EVAR_AMYA_GETCAT_025_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_026_TITLE": {
+    "speaker": "UI",
+    "text": "A Roadside Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_026_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is traipsing about the side of a large thoroughfare."
+  },
+  "W01_EVAR_AMYA_GETCAT_026_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_027_TITLE": {
+    "speaker": "UI",
+    "text": "School Crossing Cat"
+  },
+  "W01_EVAR_AMYA_GETCAT_027_DETAIL": {
+    "speaker": "UI",
+    "text": "A cat is guarding the path that students traverse each day on their way to school."
+  },
+  "W01_EVAR_AMYA_GETCAT_027_BUTTON": {
+    "speaker": "UI",
+    "text": "Catch the Cat"
+  },
+  "W01_EVAR_AMYA_ENDING_60PT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Farewell, Miyako City"
+  },
+  "W01_EVAR_AMYA_ENDING_60PT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The time has come to pass through the Ama-no-Iwato and return to Pulchra."
+  },
+  "W01_EVAR_AMYA_ENDING_60PT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shrine"
+  },
+  "W01_EVAR_AMYA_ENDING_80PT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Farewell, Miyako City"
+  },
+  "W01_EVAR_AMYA_ENDING_80PT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The time has come to pass through the Ama-no-Iwato and return to Pulchra."
+  },
+  "W01_EVAR_AMYA_ENDING_80PT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shrine"
+  },
+  "W01_EVAR_AMYA_ENDING_100PT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Leaving Miyako City"
+  },
+  "W01_EVAR_AMYA_ENDING_100PT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The time has come to pass through the Ama-no-Iwato and return to Pulchra."
+  },
+  "W01_EVAR_AMYA_ENDING_100PT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shrine"
+  }
+}

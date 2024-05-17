@@ -1,0 +1,198 @@
+{
+  "SUB_W19_COMM_NAMES_GUARDIAN_01": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "First Guardian Deity: Eagle"
+  },
+  "SUB_W19_COMM_NAMES_GUARDIAN_02": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Second Guardian Deity: Bat"
+  },
+  "SUB_W19_COMM_NAMES_GUARDIAN_03": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Third Guardian Deity: Squirrel"
+  },
+  "SUB_W19_COMM_NAMES_GUARDIAN_04": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Fourth Guardian Deity: Bear"
+  },
+  "SUB_W19_COMM_NAMES_GUARDIAN_05": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Fifth Guardian Deity: Turtle"
+  },
+  "SUB_W19_EVAR_COMM_EAGLE_SCREAM_HIGH_000_CUT_000_000": {
+    "speaker": "Eagle",
+    "text": "*High-pitched shriek*"
+  },
+  "SUB_W19_EVAR_COMM_EAGLE_SCREAM_LOW_000_CUT_000_000": {
+    "speaker": "Eagle",
+    "text": "*Low-pitched shriek*"
+  },
+  "SUB_W19_EVAR_COMM_EAGLE_SCREAM_ANGER_000_CUT_000_000": {
+    "speaker": "Eagle",
+    "text": "*Angry shriek*"
+  },
+  "SUB_W19_EVAR_COMM_SQUIRREL_SCREAM_HIGH_000_CUT_000_000": {
+    "speaker": "Squirrel",
+    "text": "*High-pitched chitter*"
+  },
+  "SUB_W19_EVAR_COMM_SQUIRREL_SCREAM_LOW_000_CUT_000_000": {
+    "speaker": "Squirrel",
+    "text": "*Low-pitched chitter*"
+  },
+  "SUB_W19_EVAR_COMM_SQUIRREL_SCREAM_ANGER_000_CUT_000_000": {
+    "speaker": "Squirrel",
+    "text": "*Angry chitter*"
+  },
+  "SUB_W19_EVAR_COMM_SQUIRREL_STONE_000_CUT_000_000": {
+    "speaker": "Squirrel",
+    "text": "Petrified Squirrel"
+  },
+  "SUB_W19_EVAR_COMM_SQUIRREL_STONE_000_CUT_000_010": {
+    "speaker": "Squirrel",
+    "text": "It seems to require a certain food."
+  },
+  "SUB_W19_EVAR_COMM_BEAR_HOWL_HIGH_000_CUT_000_000": {
+    "speaker": "Bear",
+    "text": "*High-pitched roar*"
+  },
+  "SUB_W19_EVAR_COMM_BEAR_HOWL_LOW_000_CUT_000_000": {
+    "speaker": "Bear",
+    "text": "*Low-pitched roar*"
+  },
+  "SUB_W19_EVAR_COMM_BEAR_HOWL_ANGER_000_CUT_000_000": {
+    "speaker": "Bear",
+    "text": "*Angry roar*"
+  },
+  "SUB_W19_EVAR_COMM_BEAR_STONE_000_CUT_000_000": {
+    "speaker": "Bear",
+    "text": "Petrified Bear"
+  },
+  "SUB_W19_EVAR_COMM_BEAR_STONE_000_CUT_000_010": {
+    "speaker": "Bear",
+    "text": "It seems to need its missing teeth."
+  },
+  "SUB_W19_EVAR_COMM_BAT_SCREAM_HIGH_000_CUT_000_000": {
+    "speaker": "Bat",
+    "text": "*High-pitched squeak*"
+  },
+  "SUB_W19_EVAR_COMM_BAT_SCREAM_LOW_000_CUT_000_000": {
+    "speaker": "Bat",
+    "text": "*Low-pitched squeak*"
+  },
+  "SUB_W19_EVAR_COMM_BAT_SCREAM_ANGER_000_CUT_000_000": {
+    "speaker": "Bat",
+    "text": "*Angry squeak*"
+  },
+  "SUB_W19_EVAR_COMM_BAT_STONE_000_CUT_000_000": {
+    "speaker": "Bat",
+    "text": "Petrified Bat"
+  },
+  "SUB_W19_EVAR_COMM_BAT_STONE_000_CUT_000_010": {
+    "speaker": "Bat",
+    "text": "It seems to need its missing wings."
+  },
+  "SUB_W19_EVAR_COMM_TORTOISE_HOWL_HIGH_000_CUT_000_000": {
+    "speaker": "Tortoise",
+    "text": "*High-pitched...grunt?*"
+  },
+  "SUB_W19_EVAR_COMM_TORTOISE_HOWL_LOW_000_CUT_000_000": {
+    "speaker": "Tortoise",
+    "text": "*Low-pitched...grunt?*"
+  },
+  "SUB_W19_EVAR_COMM_TORTOISE_HOWL_ANGER_000_CUT_000_000": {
+    "speaker": "Tortoise",
+    "text": "*Angry...grunt?*"
+  },
+  "SUB_W19_EVAR_COMM_TORTOISE_STONE_000_CUT_000_000": {
+    "speaker": "Tortoise",
+    "text": "Petrified Turtle"
+  },
+  "SUB_W19_EVAR_COMM_TORTOISE_STONE_000_CUT_000_010": {
+    "speaker": "Tortoise",
+    "text": "It seems to need its missing shell piece."
+  },
+  "SUB_W19_FUNC_COMM_BRIDGE_NOT_USABLE_CUT_000": {
+    "speaker": "UI",
+    "text": "If you knock this tree down,\nit should create a bridge to the other side."
+  },
+  "SUB_W19_FUNC_COMM_BRIDGE_USABLE_CUT_000_000": {
+    "speaker": "UI",
+    "text": "Dead-Tree Bridges"
+  },
+  "SUB_W19_FUNC_COMM_BRIDGE_USABLE_CUT_000_010": {
+    "speaker": "UI",
+    "text": "You can knock down dead trees\nto make bridges."
+  },
+  "SUB_W19_FUNC_COMM_CHANGE_CASCADE_TO_IVY_CUT_900": {
+    "speaker": "UI",
+    "text": "You're out of vine seeds!"
+  },
+  "SUB_W19_FUNC_COMM_CHANGE_CASCADE_TO_IVY_CUT_910": {
+    "speaker": "UI",
+    "text": "You can't turn waterfalls into vines."
+  },
+  "SUB_W19_FUNC_COMM_CHANGE_IVY_TO_CASCADE_CUT_900": {
+    "speaker": "UI",
+    "text": "You're out of bugs!"
+  },
+  "SUB_W19_FUNC_COMM_CHANGE_IVY_TO_CASCADE_CUT_910": {
+    "speaker": "UI",
+    "text": "You can't turn vines into waterfalls."
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_CHOICE_CUT_000": {
+    "speaker": "UI",
+    "text": "Ride on the eagle's back."
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_CHOICE_CUT_005": {
+    "speaker": "UI",
+    "text": "Restart from the beginning?\nAll vines and waterfalls will be reset,\nand your bugs and seeds will be replenished.\n\n(Current status)\nSeeds: <decimal 0 0>\nBugs: <decimal 1 0>"
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_CHOICE_CUT_010": {
+    "speaker": "UI",
+    "text": "Continue as-is."
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_CHOICE_CUT_020": {
+    "speaker": "UI",
+    "text": "Start over."
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_CHOICE_CUT_055": {
+    "speaker": "UI",
+    "text": "Are you sure you want to start over from the beginning?"
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_CHOICE_CUT_060": {
+    "speaker": "UI",
+    "text": "No, continue as-is."
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_CHOICE_CUT_070": {
+    "speaker": "UI",
+    "text": "I really want to start over."
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_GAMEOVER_CUT_005": {
+    "speaker": "UI",
+    "text": "Return to the eagle's position?"
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_GAMEOVER_CUT_010": {
+    "speaker": "UI",
+    "text": "Continue exploring."
+  },
+  "SUB_W19_FUNC_COMM_EAGLE_WHISTLE_GAMEOVER_CUT_020": {
+    "speaker": "UI",
+    "text": "Return to the starting point."
+  },
+  "SUB_W19_FUNC_COMM_TUTOFAIL_CHOICE_CUT_000": {
+    "speaker": "UI",
+    "text": "Mission Complete: All seeds and bugs were used."
+  },
+  "SUB_W19_FUNC_COMM_TUTOFAIL_CHOICE_CUT_005": {
+    "speaker": "UI",
+    "text": "Well, looks like you understand how to use\nseeds and bugs, so... Mission accomplished."
+  },
+  "SUB_W19_FUNC_COMM_TUTOFAIL_CHOICE_CUT_010": {
+    "speaker": "UI",
+    "text": "This won't do. I'll get a stick from the beaver, I swear!"
+  },
+  "SUB_W19_FUNC_COMM_TUTOFAIL_CHOICE_CUT_020": {
+    "speaker": "UI",
+    "text": "Yeah, I got it. Time to save some animals."
+  }
+}

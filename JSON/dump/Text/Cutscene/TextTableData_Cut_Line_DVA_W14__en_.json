@@ -1,0 +1,1866 @@
+{
+  "SUB_W14_WRLD_DIVA_INITIAL_000_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "This is Providence. Even I can see the\nvisions here—although there are far too\nmany for me to possibly process them all."
+  },
+  "SUB_W14_WRLD_DIVA_INITIAL_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "This appears to be a world displaying a\nmultitude of possible futures—but who\nare they being displayed for, and why?\nAlso, could anyone really process so many?"
+  },
+  "SUB_W14_WRLD_DIVA_SCAN_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Perhaps the person who generated all\nthese visions sits upon this chair?\nOr maybe it's for whoever views them?\nLet's take a closer look."
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_100_CUT_000_000": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Why, if it isn't D05-72314.\nWhat brings you to Providence?"
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_100_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Are ye the one who created all these visions,\nthen? Also, how do ye know my serial number,\nand what even is the purpose of this place?"
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_100_CUT_000_020": {
+    "speaker": "ProvidenceWatcher",
+    "text": "My, but you do enjoy asking questions!\nPerhaps that's to be expected from a mech."
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_100_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Here's more, then: Can ye direct me\nto the location of my missing heart?\nOr could one of these visions guide me?"
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_100_CUT_000_040": {
+    "speaker": "ProvidenceWatcher",
+    "text": "I know everything about you—<i>and</i> everything\nabout your heart. But yes, why not begin\nyour search within the visions?"
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_100_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Ye claim that's where my heart\ncan be found, then?"
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_100_CUT_000_060": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Do I? I can't claim finding your heart will\nbe so easy as all that, but I'm quite excited\nto watch you find out for yourself!"
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_200_CUT_000_000": {
+    "speaker": "ProvidenceWatcher",
+    "text": "It is just as I told you, no? Finding a heart\nis not so simple a matter—or perhaps you\nhave simply discovered the joys of watching\nall of these visions instead?"
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_200_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "If there's a possibility my heart will be\ninside one of these visions, the only\nreasonable choice is to keep watching."
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_200_CUT_000_020": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Then please, watch all you desire—\nfor that is surely why you were\nguided to this place. Heh heh."
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_200_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I appreciate your hospitality, love."
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_300_CUT_000_000": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Getting flustered that we still haven't\nwon our heart, are we? Well, don't worry—\nthere should be an opportunity soon enough."
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_300_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Nae, it's fine—for if my heart really is within\nthese visions, each one I watch brings me closer\nto it. Still, it's proper kind of ye to worry\nabout me, and I'm grateful for it."
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_300_CUT_000_020": {
+    "speaker": "ProvidenceWatcher",
+    "text": "You truly are a strange one, D05-72314,\nto interpret my behavior as kindness.\nI am merely the one who sits and watches;\nnothing more, and nothing less."
+  },
+  "SUB_W14_EVAR_DIVA_CHAIR_300_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "So all ye do is continuously \nwatch these visions, then?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Is this a vision?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_000_001": {
+    "speaker": "Diva_No5",
+    "text": "Or is this actually happening?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_000_002": {
+    "speaker": "ProvidenceWatcher",
+    "text": "That is the question, isn't it."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Ach!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_000_011": {
+    "speaker": "ProvidenceWatcher",
+    "text": "This is where you die, D05-72314."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_000_020": {
+    "speaker": "ProvidenceWatcher",
+    "text": "You believed my words and continued to watch\nthe visions. And now we have reached the final\none—the vision where your destiny ends."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "So that's merely a vision, then?\nOh, but I'm relieved to hear that!\fI'll just interpret this to mean my\nactions going forward will determine\nthe manner of my actual end."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_000_040": {
+    "speaker": "ProvidenceWatcher",
+    "text": "How absurd. Your final moments might\nplay out in various ways, but the end\nresult ever remains the same.\fI have watched this vision time and time\nagain, D05-72314; your fate was set\nthe moment you arrived in Providence."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Then if this is indeed my destiny,\nI choose to defy it. I won't allow\nmyself to be defeated here!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "It seems my destiny wasn't set in stone."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_010_010": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Are you truly claiming you can\novercome even your own visions?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "'Tis a fundamental principle of probability\ninterpretation that the future is not\npredetermined, which means a vision is\nmerely a single possible scenario.\fSo since nothing was determined to\nbegin with, I 'reversed' nothing."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_010_030": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Engage in whatever sophistry you wish, mech!\nAt some point you <i>will</i> have to confront the fate\nof the worlds, for destiny <i>does</i> exist, and\ndefying it always comes at great cost.\fSo I will continue watching you, D05-72314—\nfor I wish to see the surprise on your face\nwhen that bill finally comes due."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_010_040": {
+    "speaker": "Constantine",
+    "text": "It appears your future was nowhere to\nbe found in here. Ah, but that's a pity."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Ta then, Providence."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_010_CUT_010_000": {
+    "speaker": "ProvidenceWatcher",
+    "text": "I envied you, D05-72314—and even\nthought you might finally be the one\nto change the way I live.\fAnd it turns out I was correct: I meddled\nin a vision for the first and last time,\nand used it to guide your Emerald Wave\nto this very door."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_010_CUT_010_010": {
+    "speaker": "ProvidenceWatcher",
+    "text": "I have been watching you for a long time,\nand know you possess countless futures.\fSo do not worry, Songstress!\nInstead, believe in your waves\nand keep moving ever forward."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_010_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "But why? Are ye saying ye called\nme here to put an end to this?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_010_CUT_010_030": {
+    "speaker": "Constantine",
+    "text": "I wonder who the next observer will be."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_010_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "I do not understand. Is this my heart?\nDid the observer help me find it after all?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_020_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "It appears my fate is not\ndetermined after all."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_020_CUT_010_010": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Is this how you always go about\nachieving things, D05-72314?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_020_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "I cannae say if I achieved anything or not,\nbut I always try my hardest to achieve\nwhat I believe is possible."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_020_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "And I'm sure ye could do the same\nto change your own future."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_020_CUT_010_040": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Sadly, my destiny is linked with a great\nmany others—for yours is not the only fate\nthat I follow, D05-72314."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_020_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Who exactly are ye, then? Are ye what is\npopularly known as a god? Because I can\nfind no information about ye in my database."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_020_CUT_010_060": {
+    "speaker": "ProvidenceWatcher",
+    "text": "If creating the world makes one a 'god,'\nthen I do not qualify. I simply watch,\nas I shall continue to do until the\nConjoined Worlds meet their end."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_020_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "Farewell, Observer. Perhaps I'll\nsee ye again in some other world."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DIVA_020_CUT_010_080": {
+    "speaker": "ProvidenceWatcher",
+    "text": "Oh, I will be watching you until\nthe bitter end, Songstress."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER_000_CUT_000_000": {
+    "speaker": "Villager",
+    "text": "Oh, damn it all! I can't believe the\nfiends caught up with me when\nI was so close to the village!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER_000_CUT_000_010": {
+    "speaker": "Villager",
+    "text": "Well, everyone in town is on the brink\nof starvation, so I've no choice but to\nprotect this food with my very life."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'll engage this fiend, love.\nYe run on ahead."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER_000_CUT_000_030": {
+    "speaker": "Villager",
+    "text": "I don't know who you are,\nbut I owe you big time!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Ye deal with me now, fiend!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Extermination complete."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER2_000_CUT_000_000": {
+    "speaker": "Villager",
+    "text": "Oh, damn it all! I can't believe the\nfiends caught up with me when\nI was so close to the village!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER2_000_CUT_000_010": {
+    "speaker": "Villager",
+    "text": "I can't die now! I have to get\nthese medicinal plants back to\nmy sick little sister!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER2_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "I'll engage this fiend, love.\nYe run on ahead."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER2_000_CUT_000_030": {
+    "speaker": "Villager",
+    "text": "Hey, you're the one who saved me the\nother day! Thank you again! I owe you!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER2_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "It ends here, fiend!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VILLAGER2_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but I do hope that poor man\nmade it back to his village."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_000": {
+    "speaker": "Policeman",
+    "text": "Where the hell is the bomb disposal mech!?\nThis thing's about to blow, and we'll never\nget all the civvies out in time! "
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_010": {
+    "speaker": "Policeman",
+    "text": "THERE you are! Finally! Get over here\nand stop that detonator already!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Aye, sir! Please tell me everything\nye know about the bomb, though."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_030": {
+    "speaker": "Policeman",
+    "text": "The detonator has chips of three colors:\nred, blue, and yellow. If you put 'em back\nin their original order, it stops the timer. "
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Do ye recall the original order?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_050": {
+    "speaker": "Policeman",
+    "text": "I can't remember it clearly, but I don't\nthink any of the chips were in the same\nposition as they are now."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but that's not much information at all.\nCan ye tell me anything else?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_070": {
+    "speaker": "Policeman",
+    "text": "Uh, I think the blue chip was somewhere\nto the right of the red chip?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "All right, let me repeat back."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "There are three chips: red, blue, and yellow.\nIf returned to their original order,\nthe bomb will be deactivated.\fThe original order had all three chips in\ndifferent positions than they are now,\nand the blue chip was somewhere to the\nright of the red one."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Therefore..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "Let's review that again."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "I'm ready to deactivate it."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "I will now begin the\ndeactivation procedures."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Deactivation complete."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_010_010": {
+    "speaker": "Policeman",
+    "text": "You did it! It stopped!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but that's just grand."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_010_030": {
+    "speaker": "Policeman",
+    "text": "Thank you so much. You have no idea\nhow many lives you saved today."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Chuffed to have been of service, love!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach! The timer's still going!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_020_010": {
+    "speaker": "Policeman",
+    "text": "IT'S GONNA BLOW!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BOMB_000_CUT_020_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but this is terrible!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_000": {
+    "speaker": "Soldier",
+    "text": "Everyone, please remain calm! There's a whole\nherd of fiends out there, but we'll be safe\nso long as we stay in this shelter."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_010": {
+    "speaker": "Woman",
+    "text": "Excuse me, but has anyone seen my cat!?\nI don't see Lady Purrs-A-Lot anywhere,\nand I'm afraid she may have run outside!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_020": {
+    "speaker": "Soldier",
+    "text": "No, ma'am, I haven't seen your cat,\nand I'm afraid I can't let you outside.\nNow please just sit down and be calm."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_030": {
+    "speaker": "Woman",
+    "text": "Nooo! Lady Purrs-A-Lot!\nI have to go find her!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_040": {
+    "speaker": "Soldier",
+    "text": "Ma'am, what are you doing!?\nDo NOT go outside!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Ye could be attacked by a fiend out there,\nlove. It's too dangerous to go."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_060": {
+    "speaker": "Woman",
+    "text": "My sweet little kitty might be outside!\nI have to go find her!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "All right—but I'll accompany ye."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Let's search the shelter first."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_090": {
+    "speaker": "Woman",
+    "text": "Oh, thank you, dear!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_100": {
+    "speaker": "Soldier",
+    "text": "No, you idiot! Don't open the door!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "Fiends!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_120": {
+    "speaker": "Woman",
+    "text": "Well, I suppose it's <i>possible</i> that\nshe's still around here, but I've been\nsearching for quite a while now..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_130": {
+    "speaker": "Soldier",
+    "text": "Gah! They've broken down the door!\nWe got fiends incoming, people!\nRun for your lives!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_000_140": {
+    "speaker": "Diva_No5",
+    "text": "Permit me to handle this!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "All the fiends have been sorted.\nLet's resume searching for your cat."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Ma'am? Please respond."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh my days! Her life signs have ceased!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "All the fiends have been sorted.\nHas anyone been harmed?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_020_010": {
+    "speaker": "Woman",
+    "text": "Lady Purrs-A-Lot! There you are!\nOh, Mama has been so worried!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_020_020": {
+    "speaker": "Diva_No5",
+    "text": "I'm pleased ye found your cat."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_000_CUT_020_030": {
+    "speaker": "Woman",
+    "text": "It was all thanks to you, dear!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_000": {
+    "speaker": "Explorer",
+    "text": "It's been over 10 days since I entered this\nsweltering jungle in search of the legendary\nGreat Beast. My provisions have run out,\nand I've now become thoroughly lost.\fYes, this may well be\nthe place I die..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_010": {
+    "speaker": "Explorer",
+    "text": "Hmm? What was that roar?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_020": {
+    "speaker": "Explorer",
+    "text": "The Great Beast! I've found it at last!\nI must catch it immediately!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I wouldn't, love; that wee beastie\nwould kill ye without a doubt."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_040": {
+    "speaker": "Explorer",
+    "text": "Heavens, there's someone else out here!?\nWho are you, and why have you...\fNo, that doesn't matter. I have staked my\nvery life on capturing the Great Beast,\nso I suggest you stay out of my way!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "I cannae talk ye out of it?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I'm going to help ye."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Well, I'll let ye at it, then."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_080": {
+    "speaker": "Explorer",
+    "text": "You are mine, mighty creature!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_090": {
+    "speaker": "Explorer",
+    "text": "GYAAAAAAAAAH!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "The expected result has transpired.\nOh, but he should have listened to me."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "That wee beastie was more powerful\nthan I first surmised; we're lucky\nto have beaten it."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_010_010": {
+    "speaker": "Explorer",
+    "text": "You fool! You thrice-damned fool!\nI came here to CAPTURE the beast,\nand you've gone and SLAIN it!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "I apologize. However, the odds of successful\ncapture stood at no more than five percent,\nand I couldn't expose ye to such danger."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BEAST_000_CUT_010_030": {
+    "speaker": "Explorer",
+    "text": "My beast... Give me back\nmy precious beast!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_000": {
+    "speaker": "Archaeologist",
+    "text": "I feel quite certain the lost treasure of the\nEmpire is concealed deep within these tunnels,\nbut I've no idea which fork to take."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_010": {
+    "speaker": "Archaeologist",
+    "text": "You there! You look like quite\nthe intuitive contraption!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Me?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_030": {
+    "speaker": "Archaeologist",
+    "text": "Which fork would you choose?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Well, if I must..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "The left fork."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "The middle fork."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "The right fork."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_080": {
+    "speaker": "Archaeologist",
+    "text": "Then I shall defer to your\ngreat wisdom. Tally-ho!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "My 'wisdom' is no more than\nbasic statistical analysis."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_010_000": {
+    "speaker": "Archaeologist",
+    "text": "Another fork. Which way this time,\nmy fine adventuring friend!?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Well, if I must..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "The left fork."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "The middle fork."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "The right fork."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_010_050": {
+    "speaker": "Archaeologist",
+    "text": "Very well. We shall proceed thusly."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Will this really lead to treasure?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "Treasure chests! Three of them!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_010": {
+    "speaker": "Archaeologist",
+    "text": "Eureka! This is, without a doubt,\nthe lost treasure of the Empire!\fBut according to the literature,\nonly one chest holds what we seek,\nwhile the others are but fiendish traps."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_020": {
+    "speaker": "Archaeologist",
+    "text": "Hmm? What's this written on the wall?\n'The untrodden path will guide you\nto the treasure.'"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_030": {
+    "speaker": "Archaeologist",
+    "text": "Hmm? What's this written on the wall?\n'The untrodden paths hide traps.'"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_040": {
+    "speaker": "Archaeologist",
+    "text": "Well, friend? Which do you believe\nto be the real treasure?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_050": {
+    "speaker": "Diva_No5",
+    "text": "My sensors are unable to penetrate\nthese chests, so I cannae say what\nmay or may not be inside."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_060": {
+    "speaker": "Diva_No5",
+    "text": "'The untrodden path will guide ye\nto the treasure.' Analyzing..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_070": {
+    "speaker": "Diva_No5",
+    "text": "'The untrodden paths hide traps.'\nAnalyzing..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_080": {
+    "speaker": "Diva_No5",
+    "text": "The treasure is on the left."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_090": {
+    "speaker": "Diva_No5",
+    "text": "The treasure is in the center."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_100": {
+    "speaker": "Diva_No5",
+    "text": "The treasure is on the right."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_020_110": {
+    "speaker": "Archaeologist",
+    "text": "Huzzah! Nothing to\ndo now but open it!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_030_000": {
+    "speaker": "Diva_No5",
+    "text": "The treasure! My analysis was correct!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_030_010": {
+    "speaker": "Archaeologist",
+    "text": "The lost treasure of the Empire\nis mine at last!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_030_020": {
+    "speaker": "Archaeologist",
+    "text": "Your judgment has served me well,\nmy metal friend. Thank you!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_030_030": {
+    "speaker": "Diva_No5",
+    "text": "Chuffed to have been of service, love!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_040_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach! It's empty! Oh, but there's\nsomething written on the bottom..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_040_010": {
+    "speaker": "Archaeologist",
+    "text": "'The punishment for thieves is death.'\nThat doesn't sound good."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_040_020": {
+    "speaker": "Diva_No5",
+    "text": "Tremors! Danger level rising!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_040_030": {
+    "speaker": "Archaeologist",
+    "text": "It's a trap—the tunnels are collapsing!\nRun for it!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_040_040": {
+    "speaker": "Diva_No5",
+    "text": "We cannae escape!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_TREASURE_000_CUT_040_050": {
+    "speaker": "Archaeologist",
+    "text": "GAAAAAAHHH!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD_000_CUT_000_000": {
+    "speaker": "Birdwatcher",
+    "text": "257... 258..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "What are ye doing, love?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD_000_CUT_000_020": {
+    "speaker": "Birdwatcher",
+    "text": "I'm involved in the preservation of the\nwild bird population, and am currently\ninvestigating how many have returned\nto these woods due to our efforts."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD_000_CUT_000_030": {
+    "speaker": "Birdwatcher",
+    "text": "272... 273..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Allow me to help. 274."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD_000_CUT_000_050": {
+    "speaker": "Birdwatcher",
+    "text": "Sweet feathers, that's no bird!\nIt's a fiend!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD_000_CUT_010_000": {
+    "speaker": "Birdwatcher",
+    "text": "With that fiend gone, even more wild birds\nwill now return to our magnificent forests.\nYou've done a great service to all of our\nwinged friends this day!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "I do hope that proves to be true.\nAlso, apologies for my interruption."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_000": {
+    "speaker": "Birdwatcher",
+    "text": "946... 947..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I see ye are still counting\nwild birds, then."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_020": {
+    "speaker": "Birdwatcher",
+    "text": "I am indeed, for an accurate survey of the\nbird population is a necessary component\nof our environmental-protection efforts."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_030": {
+    "speaker": "Birdwatcher",
+    "text": "964... 965..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "This time, I will strive to protect ye\nwithout interrupting your count."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_050": {
+    "speaker": "Birdwatcher",
+    "text": "966. ...No, wait. That was a fiend.\nIt doesn't count."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_055": {
+    "speaker": "Birdwatcher",
+    "text": "Ah, and the one before that was a fiend\nas well, so let's exclude that."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_060": {
+    "speaker": "Birdwatcher",
+    "text": "Ah, and there are four\nmore birds over there."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_065": {
+    "speaker": "Birdwatcher",
+    "text": "Oh! I see six birds there!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_070": {
+    "speaker": "Birdwatcher",
+    "text": "And that makes... Goodness, I've lost\ntrack. Where is the count at now?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "966."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "967."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "968."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "969."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "970."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_130": {
+    "speaker": "Birdwatcher",
+    "text": "Ah, yes. Thank you. One must always\nhave an accurate count, after all!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_140": {
+    "speaker": "Birdwatcher",
+    "text": "986... 987..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_150": {
+    "speaker": "Diva_No5",
+    "text": "I detect no further signs of fiends.\nThat man should be safe now."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_160": {
+    "speaker": "Birdwatcher",
+    "text": "Er, are you certain? Because I thought...\nAaargh! Talking to you has made me lose\ntrack of the count completely!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_170": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but I'm terribly sorry."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_180": {
+    "speaker": "Birdwatcher",
+    "text": "Enough! Do not speak to me again.\nNow farewell."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_190": {
+    "speaker": "Diva_No5",
+    "text": "Wait, love! The cliff! Be caref—"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_200": {
+    "speaker": "Birdwatcher",
+    "text": "GAAAAAAAAAaaaaaaaaa..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BIRD2_000_CUT_000_210": {
+    "speaker": "Diva_No5",
+    "text": "All because I interrupted his count.\nOh, but that's a shame."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_000": {
+    "speaker": "Swordsmith",
+    "text": "It's finished! It's finally complete!\nA blade with the perfect combination of\nflexibility and strength, and a temper\npattern that simply ripples with life!\fAs a swordsmith, this blade will\nsurely be my masterpiece!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_010": {
+    "speaker": "Swordsmith",
+    "text": "All that remains is to give it\na name worthy of its majesty.\fI hereby dub thee...<b>Darkblayde</b>!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Bit of a shoddy name, if I'm honest."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "'Darkblayde' seems a fine name."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_040": {
+    "speaker": "Swordsmith",
+    "text": "You there! What is your problem?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Names are said to hold great power.\nI suggest you consider the name\nof this sword more carefully."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_060": {
+    "speaker": "Swordsmith",
+    "text": "Oh, fine. I'll try again.\nI hereby dub thee...<b>Deathblayde</b>!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Nae, that's name's rubbish."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "'Deathblayde' seems a fine name."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_090": {
+    "speaker": "Swordsmith",
+    "text": "NOW what's your problem?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Many swords throughout history have borne\nthat name, and each was involved in a most\nhorrid tragedy. I cannae recommend using it."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_110": {
+    "speaker": "Swordsmith",
+    "text": "Oh? Hmm. Perhaps so. In that case,\nI hereby dub thee...<b>Dreadblayde</b>!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "Don't care for that one either, love."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "'Dreadblayde' seems a fine name."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_140": {
+    "speaker": "Diva_No5",
+    "text": "Many swords throughout history have\nborne that name as well, among them—"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_150": {
+    "speaker": "Swordsmith",
+    "text": "Shut up, shut up, SHUT UUUUUUP!\nI don't even care anymore!\nI'm done thinking of names!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_160": {
+    "speaker": "Diva_No5",
+    "text": "Why have ye smashed your sword to bits?\nWas it not your masterpiece?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_170": {
+    "speaker": "Swordsmith",
+    "text": "It was SUPPOSED to be my masterpiece,\nbut now I can't even stand to look at it!\nGet out of my sight, damn you!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_180": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear, this has all gone pear-shaped.\nTerribly sorry, love."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_190": {
+    "speaker": "Swordsmith",
+    "text": "Then you will be forevermore\nknown as <b>Darkblayde Hideyoshi</b>!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_200": {
+    "speaker": "Diva_No5",
+    "text": "Actually, love, a search of my database reveals\nthat other swords with that name have been\nrumored to consume the souls of their wielders."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_210": {
+    "speaker": "Swordsmith",
+    "text": "Then you will be forevermore\nknown as <b>Deathblayde Ieyasu</b>!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_220": {
+    "speaker": "Diva_No5",
+    "text": "Actually, love, a search of my database reveals\nthat other swords with that name have been\nrumored to consume the souls of their wielders."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_230": {
+    "speaker": "Swordsmith",
+    "text": "Then you will be forevermore\nknown as <b>Dreadblayde Nobunaga</b>!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_240": {
+    "speaker": "Diva_No5",
+    "text": "Actually, love, a search of my database reveals\nthat other swords with that name have been\nrumored to consume the souls of their wielders."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_250": {
+    "speaker": "Swordsmith",
+    "text": "I am suddenly overcome with an urge\nto put this sword's edge to the test...\nand your hardened exterior will do\nnicely! Bwa ha! Bwaaaa ha ha ha!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_000_260": {
+    "speaker": "Diva_No5",
+    "text": "It appears my data was accurate."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_010_000": {
+    "speaker": "Swordsmith",
+    "text": "What... What have I done!?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_BLACKSMITH_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Why don't I just take that from ye,\nthen—for safety's sake, mind.\fOh, but I do hope ye are able to create\na true masterpiece on your next attempt."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I think I'm inside a living creature.\nOh, and someone else is here!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_010": {
+    "speaker": "MechBoy",
+    "text": "Waaaaaah! Waaaaaah!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Hello there, love! How have ye come\nto be inside this place?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_030": {
+    "speaker": "MechBoy",
+    "text": "I fell into the sea and was swallowed\nby a giant fish and I wanna get out\nof here... Waaah!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "So this is the stomach of a fish? Jinks!\nWe must find a way out of it."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Let's burn something to make smoke."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Let's attack the interior at random."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Let's stand about and wait."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "This fish has consumed a variety of objects.\nIf we set them aflame, we could fill its\nstomach with plumes of smoke."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_090": {
+    "speaker": "MechBoy",
+    "text": "And when the fish coughs out the smoke,\nwe take the opportunity to get away!\nGee, ma'am! You sure are smart!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Ah, and there are matches here! Grand.\nI'll spark a fire at once."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "The stomach is filling with smoke.\nJust another few minutes and—"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_120": {
+    "speaker": "MechBoy",
+    "text": "Oh no, ma'am! Look over there!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Ach! A powder keg! We cannae let the\nflames reach it, love! Douse them!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_140": {
+    "speaker": "MechBoy",
+    "text": "I can't, ma'am! They're too big!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_150": {
+    "speaker": "Diva_No5",
+    "text": "Explosion imminent!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_160": {
+    "speaker": "Diva_No5",
+    "text": "Let's strike the walls around us in hopes\nof causing the fish intestinal distress.\nIf we do this, it will likely respond\nby regurgitating us."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_170": {
+    "speaker": "MechBoy",
+    "text": "Gee, ma'am! You sure are smart!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_180": {
+    "speaker": "Diva_No5",
+    "text": "Strike with all your might!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_190": {
+    "speaker": "MechBoy",
+    "text": "Is it working, ma'am?\nDid the fish open its mouth?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_200": {
+    "speaker": "Diva_No5",
+    "text": "Nae, it seems our efforts\nwere inadequate."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_210": {
+    "speaker": "MechBoy",
+    "text": "Oh no, ma'am! There are fiends\ncoming at us from further down!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_220": {
+    "speaker": "Diva_No5",
+    "text": "This fish also swallowed fiends?\nMy, but it's a hungry one!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_230": {
+    "speaker": "Diva_No5",
+    "text": "There's nothing we can do at present,\nso let's rest and conserve our strength."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_240": {
+    "speaker": "MechBoy",
+    "text": "You want to SLEEP, ma'am? Now?\nGee, I dunno..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_250": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I will engage my sleep mode.\nRest well, love!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_260": {
+    "speaker": "MechBoy",
+    "text": "Well, if you say so."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_270": {
+    "speaker": "Diva_No5",
+    "text": "Sleep mode disengaged. Hopefully this\nfish will be opening its mouth soon."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_280": {
+    "speaker": "Diva_No5",
+    "text": "Good morning, love! ...Love?\nHave ye lost power, then?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_290": {
+    "speaker": "Diva_No5",
+    "text": "Crivens! He stayed here too long\nand was melted by the stomach acid!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_300": {
+    "speaker": "Diva_No5",
+    "text": "But wait. I'm also a mech,\nwhich means..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_000_310": {
+    "speaker": "Diva_No5",
+    "text": "NAAAAAAAE!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_010_000": {
+    "speaker": "MechBoy",
+    "text": "Look, ma'am! The fish\nopened its mouth!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "It seems the fiend battle caused sufficient\nintestinal distress. Now let's fly, love!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_FISH_000_CUT_010_020": {
+    "speaker": "MechBoy",
+    "text": "Yaaay!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_000": {
+    "speaker": "Doctor",
+    "text": "Perfection! Now that our new security\nmech is ready, the city will be safe."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_010": {
+    "speaker": "Doctor",
+    "text": "You there! Madam! I'm sorry, but could you\nhelp me activate this mech? I don't happen\nto have a free hand at the moment."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Aye, of course. What is the\nactivation sequence, then?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_030": {
+    "speaker": "Doctor",
+    "text": "Do you see a lever and switch?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Aye."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_050": {
+    "speaker": "Doctor",
+    "text": "First, pull the lever down.\nNext, press the switch three times.\nFinally, raise the lever again.\nThis will activate the mech."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_055": {
+    "speaker": "Doctor",
+    "text": "First, press the switch two times.\nNext, lower the lever and press the switch once.\nFinally, raise the lever again.\nThis will activate the mech."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Lever, switch three times, lever.\nAye, I understand."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_065": {
+    "speaker": "Diva_No5",
+    "text": "Switch twice, lever, switch once, lever.\nAye, I understand."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_070": {
+    "speaker": "Doctor",
+    "text": "Incidentally, as a safety precaution,\nany error in the start-up sequence\nwill cause the unit to self-destruct.\nSo do be careful, yes?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "I'd no idea the consequences would be\nso dire! I'll be proper careful, then."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_090": {
+    "speaker": "Doctor",
+    "text": "Good. Now begin."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "To start, then..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "Next..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "The lever."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "The switch."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_140": {
+    "speaker": "Doctor",
+    "text": "Success! It's starting up!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_150": {
+    "speaker": "Diva_No5",
+    "text": "This should keep the city safe."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_160": {
+    "speaker": "Doctor",
+    "text": "Egads, you feckless oaf!\nYou've just activated the\nself-destruct mechanism!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_170": {
+    "speaker": "Diva_No5",
+    "text": "I apologize, love!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_180": {
+    "speaker": "Doctor",
+    "text": "WE'RE ALL GOING TO DIIIE!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DOCTOR_000_CUT_000_190": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but I'm just gutted!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_000_000": {
+    "speaker": "Showgirl",
+    "text": "Attention, everyone! If you visit our\ndepartment store today, you'll get\na chance to meet our popular new\nmascot, Spendy McBigbucks!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_000_010": {
+    "speaker": "Showgirl",
+    "text": "Come on! Let's give our customers\na warm welcome, Spendy!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_000_020": {
+    "speaker": "Showgirl",
+    "text": "Er, Spendy? Is something wrong?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_000_030": {
+    "speaker": "Showgirl",
+    "text": "...Spendy?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_000_040": {
+    "speaker": "Mascot_Mall",
+    "text": "GRAAAAAAGH!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_000_050": {
+    "speaker": "Showgirl",
+    "text": "EEEEEEK!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Ach! That mascot is a fiend!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "I cannae imagine how an actual fiend \nended up in a department store."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_010_010": {
+    "speaker": "Showgirl",
+    "text": "I'm sorry, who are you?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "No one of importance, love; I merely\nwanted to see your adorable mascot."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIGURUMI_000_CUT_010_030": {
+    "speaker": "Showgirl",
+    "text": "Huh."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_000": {
+    "speaker": "Assistant",
+    "text": "Oh my gosh, you're late! Don't tell\nme you forgot that <i>Capitol Cuisine!</i>\nis airing live today!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I gather that is some form of\ntelevised cooking program?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_020": {
+    "speaker": "Assistant",
+    "text": "We don't have time for this, chef!\nJust get in the studio!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Am I the chef, then?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_040": {
+    "speaker": "Assistant",
+    "text": "And we're live in three...two..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_050": {
+    "speaker": "Assistant",
+    "text": "Ah, there's nothing better than creating\nyour own meals from scratch. Welcome, friends,\nto a special live edition of...<i>Capitol Cuisine!</i>"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_060": {
+    "speaker": "Assistant",
+    "text": "Today we're making margherita pizza!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_065": {
+    "speaker": "Assistant",
+    "text": "Today we're making homemade flan!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_070": {
+    "speaker": "Assistant",
+    "text": "We'll begin with the dough.\nWhat are the ingredients, chef?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_075": {
+    "speaker": "Assistant",
+    "text": "We'll begin with a caramel sauce.\nWhat are the ingredients, chef?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Buckwheat flour and butter."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_085": {
+    "speaker": "Diva_No5",
+    "text": "Sugar and water."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Flour and yeast."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_095": {
+    "speaker": "Diva_No5",
+    "text": "Salt and water."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Wheat flour and eggs."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_105": {
+    "speaker": "Diva_No5",
+    "text": "Soy sauce."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_110": {
+    "speaker": "Assistant",
+    "text": "Next, we add the toppings.\nWhat are the ingredients, chef?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_115": {
+    "speaker": "Assistant",
+    "text": "Next, we make the custard.\nWhat are the ingredients, chef?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "Tomato sauce, cheese, and basil."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_125": {
+    "speaker": "Diva_No5",
+    "text": "Flour and water."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Chicken and peppers."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_135": {
+    "speaker": "Diva_No5",
+    "text": "Buckwheat flower and bonito."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_140": {
+    "speaker": "Diva_No5",
+    "text": "One heaping cup of mayonnaise."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_145": {
+    "speaker": "Diva_No5",
+    "text": "Eggs and milk."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_150": {
+    "speaker": "Assistant",
+    "text": "And now we pop it in the oven."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_160": {
+    "speaker": "Assistant",
+    "text": "Oooh, I can't wait to try it!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_170": {
+    "speaker": "Assistant",
+    "text": "Oh my, that cooked up nicely!\nLet's try a little, shall we?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_180": {
+    "speaker": "Assistant",
+    "text": "Down the hatch!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_185": {
+    "speaker": "Diva_No5",
+    "text": "How is it, love?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_190": {
+    "speaker": "Assistant",
+    "text": "Ugh! Oh god, I'm gonna hurl!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_200": {
+    "speaker": "Assistant",
+    "text": "Kill the feed! KILL THE FEEEEEED!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_210": {
+    "speaker": "Diva_No5",
+    "text": "How is it, love?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_215": {
+    "speaker": "Assistant",
+    "text": "Mmm! Delicious!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_220": {
+    "speaker": "Assistant",
+    "text": "This is an absolute triumph, chef!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_COOK_000_CUT_000_230": {
+    "speaker": "Assistant",
+    "text": "We'll see you all next week\non <i>Capitol Cuisine!</i>"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_000": {
+    "speaker": "Boy",
+    "text": "Are there really ghosts\nin this abandoned house?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_010": {
+    "speaker": "Girl",
+    "text": "Yeah! My brother totally saw one!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "This isn't a safe place for\nchildren to be unattended."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_030": {
+    "speaker": "Boy",
+    "text": "BWAAAH! G-G-G-GHOOOOOOST!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Ach! So sorry, lovies!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_050": {
+    "speaker": "Boy",
+    "text": "Hey, don't scare us like that!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_060": {
+    "speaker": "Girl",
+    "text": "BWAAAH! G-G-G-GHOOOOOOST!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Where!?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_080": {
+    "speaker": "Boy",
+    "text": "Behind you! Behind you!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Nae, this is a fiend!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "It's safe now, lovies.\nI vanquished the creature."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_010_010": {
+    "speaker": "Girl",
+    "text": "See? I told you there\nwere ghosts here!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_010_020": {
+    "speaker": "Boy",
+    "text": "I'm sorry. I believe you now."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_KIMODAMESHI_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Please return to your homes at once."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_000": {
+    "speaker": "Citizen_A",
+    "text": "Don't shoot! I'm the real one!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_010": {
+    "speaker": "Citizen_B",
+    "text": "Don't listen to her!\n<i>I'm</i> the real one!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh, a twin riddle! What fun! I've a number\nof these in my database, but have never\nencountered one in real life."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_030": {
+    "speaker": "Detective",
+    "text": "No! I was chasin' down a dangerous alien,\nbut when I took my eye off it for a second,\nit shapeshifted into a goddamn civilian!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_040": {
+    "speaker": "Detective",
+    "text": "Now I can't tell 'em apart!\nWhich one do I shoot?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "You must hold your fire."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "You must shoot them both."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_070": {
+    "speaker": "Detective",
+    "text": "Damn it! I was so close to\ngettin' the dirtbag—AND\nto my retirement!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_080": {
+    "speaker": "Citizen_A",
+    "text": "How dare you point your gun\nat a civilian!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_090": {
+    "speaker": "Citizen_B",
+    "text": "I'm filing an official complaint!\nI'll have your badge!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear, now they've both fled.\nThis was all my fault."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_110": {
+    "speaker": "Detective",
+    "text": "The hell did you say!?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "Shooting either one would provide only a\n50 percent chance of hitting your target.\nHowever, if ye shoot both, the odds of\nhitting your target rise to 100 percent.\fIf I had more data about the alien,\nI could likely identify it—but as I\ndon't, it's best to just play the odds."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_130": {
+    "speaker": "Detective",
+    "text": "Are you out of your goddamn mind!?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_140": {
+    "speaker": "Diva_No5",
+    "text": "Do ye have a better solution?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_150": {
+    "speaker": "Citizen_A",
+    "text": "No, stop! I'm human, I swear!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_160": {
+    "speaker": "Citizen_B",
+    "text": "Is this some kind of joke!?\nYou can't be serious!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_170": {
+    "speaker": "Diva_No5",
+    "text": "Oh, look how similarly they react to\nthe threat! The shapeshifter has done\na proper job of mimicking its quarry."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_180": {
+    "speaker": "Citizen_B",
+    "text": "This thing is out of its mind...\nWell, there's no way I'm\ngoing down without a fight!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_000_190": {
+    "speaker": "Diva_No5",
+    "text": "The alien has revealed itself!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "I'm chuffed it wasn't necessary\nto shoot the civilian!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_010_010": {
+    "speaker": "Detective",
+    "text": "Lady, you had me on the edge\nof my seat there. Were you really\ngonna shoot 'em both?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ALIEN_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "I merely provided an accurate\nanalysis of the situation."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_000": {
+    "speaker": "Girl",
+    "text": "Maru! Maruuu!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "What's wrong, love?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_020": {
+    "speaker": "Girl",
+    "text": "I can't find Maru!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Is Maru your friend, then?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_040": {
+    "speaker": "Girl",
+    "text": "Maru's my kitty! But I accidently left\na window open and he ran away."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Please describe its shape and color.\nOh, or simply tell me if it resembles\nthat feline just over there?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_060": {
+    "speaker": "Girl",
+    "text": "Maru!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Your cat looks quite frightened."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_080": {
+    "speaker": "Girl",
+    "text": "So what do we do, ma'am?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Let's run up to him."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Let's approach him slowly."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_110": {
+    "speaker": "Girl",
+    "text": "Okay!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_120": {
+    "speaker": "Girl",
+    "text": "Oh no, he ran away! You're a LIAR!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "There appears to have been an error\nin my databanks. So sorry."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_140": {
+    "speaker": "Girl",
+    "text": "Okay!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_150": {
+    "speaker": "Diva_No5",
+    "text": "Move up slowly and quietly,\nbut at a consistent pace."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_160": {
+    "speaker": "Diva_No5",
+    "text": "Aye, we're closer now,\nbut he still seems frightened."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_170": {
+    "speaker": "Girl",
+    "text": "What now, ma'am?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_180": {
+    "speaker": "Diva_No5",
+    "text": "Lock eyes with him."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_190": {
+    "speaker": "Diva_No5",
+    "text": "Don't make eye contact."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_200": {
+    "speaker": "Girl",
+    "text": "Okay! ...I see you, Maru!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_210": {
+    "speaker": "Girl",
+    "text": "Oh no, he ran away! You're a LIAR!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_220": {
+    "speaker": "Diva_No5",
+    "text": "There appears to have been an error\nin my databanks. So sorry."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_230": {
+    "speaker": "Girl",
+    "text": "Okay, I won't look."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_240": {
+    "speaker": "Diva_No5",
+    "text": "Maru appears to have disengaged\nhis heightened caution mode."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_250": {
+    "speaker": "Diva_No5",
+    "text": "Ye can snatch him up now."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_260": {
+    "speaker": "Girl",
+    "text": "Okay."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_261": {
+    "speaker": "Girl",
+    "text": "Gotcha!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_270": {
+    "speaker": "Girl",
+    "text": "Yay, Maru! You're back!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_280": {
+    "speaker": "Diva_No5",
+    "text": "Oh, what a lovely ending."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_CAT_CAPT_000_CUT_000_290": {
+    "speaker": "Diva_No5",
+    "text": "Thanks so much, robot lady!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ASSASSIN_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I appear to be inside\na body of some sort."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ASSASSIN_000_CUT_000_010": {
+    "speaker": "Assassin",
+    "text": "Red Panther here: I've arrived at the\nheart. Moving to eliminate the target."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ASSASSIN_000_CUT_000_020": {
+    "speaker": "Assassin",
+    "text": "Sorry, pal. It's just business.\nNothing personal."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ASSASSIN_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Nae, what are ye doing? If ye shoot\nthat heart, this body will perish!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ASSASSIN_000_CUT_000_040": {
+    "speaker": "Assassin",
+    "text": "My briefing didn't say anything about another\nagent. Unless... Aw, hell! Don't tell me the\npresident's people caught wind of our plans!?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ASSASSIN_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "What plans are those, then?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ASSASSIN_000_CUT_000_060": {
+    "speaker": "Assassin",
+    "text": "Doesn't matter! Get out of the way\nunless you wanna be put on ice!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_ASSASSIN_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "I seem to have stopped some sort of\nassassination scheme. Brilliant!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MERCHANT_000_CUT_000_000": {
+    "speaker": "Trader",
+    "text": "HEEELP! SOMEBODY HELP ME!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MERCHANT_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MERCHANT_000_CUT_010_000": {
+    "speaker": "Trader",
+    "text": "Thank you. When I stumbled across those\nfiends, I thought I was a dead man."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MERCHANT_000_CUT_010_010": {
+    "speaker": "Trader",
+    "text": "As a merchant, allow me to repay your\nkindness with a reward of your choice."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MERCHANT_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "A health potion."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MERCHANT_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Equipment."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MERCHANT_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Water."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MERCHANT_000_CUT_010_050": {
+    "speaker": "System",
+    "text": "You recovered 1 LP."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WATER_000_CUT_000_000": {
+    "speaker": "Nomad",
+    "text": "My throat...so parched..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WATER_000_CUT_000_010": {
+    "speaker": "Nomad",
+    "text": "Y-you there... Please...\nI need...water..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WATER_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "So sorry, love. I'm fresh out."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WATER_000_CUT_000_030": {
+    "speaker": "Nomad",
+    "text": "Uuurgh..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WATER_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "I'm truly sorry."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WATER_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "I received some water just recently.\nAs I do not require it, ye may have it."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WATER_000_CUT_000_060": {
+    "speaker": "Nomad",
+    "text": "You... You saved my life!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WATER_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Even if something has no utility to me,\nit may be of use to others. I will record\nthis experience as data for future reference."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MESSENGER_000_CUT_000_000": {
+    "speaker": "Soldier",
+    "text": "Impede me not, vile fiends! I must deliver \nthis message from the king forthwith,\nand my duty shall not be denied!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MESSENGER_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I will intercept the fiends.\nProceed to your destination."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MESSENGER_000_CUT_000_020": {
+    "speaker": "Soldier",
+    "text": "My heartiest thanks, blessed lady!\nI am ever in your debt!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MESSENGER_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "I do hope that soldier was able\nto reach his destination."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MESSENGER2_000_CUT_000_000": {
+    "speaker": "Soldier",
+    "text": "Fie! To think I might be ensnared by more\nfell fiends with the castle near in sight! \nBut the peril is no matter; this warning\nmust reach the king at any cost!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MESSENGER2_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I will intercept the fiends.\nProceed to your destination."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MESSENGER2_000_CUT_000_020": {
+    "speaker": "Soldier",
+    "text": "Again!? My debt to you deepens\nall the more, brave lady!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_MESSENGER2_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Stay strong, love."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I am in a forest."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_000_010": {
+    "speaker": "Witch",
+    "text": "Ah, you there. What auspicious timing.\nGo hunt that fiend over there for me;\nI need its claws for various potions."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Ye are speaking to me? Very well."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_000_030": {
+    "speaker": "Witch",
+    "text": "You're a sharp one, aren't you?\n...Well!? Get to it, then!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_000_040": {
+    "speaker": "Witch",
+    "text": "Attack, my pretties!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Ach! Fiends incoming!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_010_000": {
+    "speaker": "Witch",
+    "text": "Excellent work, dearie."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but I would have helped even\nhad ye not sicced fiends on me."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_010_020": {
+    "speaker": "Witch",
+    "text": "Oh, don't be so cross! Look, I'll even\ngive you a potion to compensate.\nWhich would you like, mmm?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "A health potion."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "An antidote."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_WITCH_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Do ye have any gear?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_000": {
+    "speaker": "Daughter",
+    "text": "Help! Someone help me!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "What's the matter?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_020": {
+    "speaker": "Daughter",
+    "text": "I was bitten by this horrid snake earlier!\nI didn't think it was serious, but the\nthing turned out to be venomous,\nand now I'm going to DIE!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I detect the onset of fever and swelling.\nYe definitely require immediate treatment,\nbut I don't have the proper equipment."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_040": {
+    "speaker": "Daughter",
+    "text": "Nooo! I'm too pretty to die!\nYou have to run and get a doctor!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Aye. Scanning for nearby settlements..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_060": {
+    "speaker": "Daughter",
+    "text": "N-need...doctor...\nGetting...woozy..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Ye must stay conscious!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_080": {
+    "speaker": "Daughter",
+    "text": "H-hurry..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "I'm sorry, love, but I wasn't\ndesigned for medical interventions."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but I did acquire an antidote earlier!\nHere, please drink this."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "How does that feel?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_120": {
+    "speaker": "Daughter",
+    "text": "...Gone? Gone! My pain is GONE!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but that's grand. Do take care\nto avoid snakes in the future."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_VIPER_000_CUT_000_140": {
+    "speaker": "Daughter",
+    "text": "Oh, thank you so much!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I'm on a ship, and there's a\nvicious storm blowing!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_010": {
+    "speaker": "Sailor_A",
+    "text": "Ho there, landlubber!\nLend a hand!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "What's the matter?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_030": {
+    "speaker": "Sailor_A",
+    "text": "The ship took a real hit from the storm,\nand we've lost both a sailor and a\ntreasure chest overboard!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_040": {
+    "speaker": "Sailor_B",
+    "text": "Help meeeeee!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_050": {
+    "speaker": "Sailor_A",
+    "text": "If we don't pull 'em both up fast,\nthey'll be at the bottom of the sea!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Urgent action is required!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Let's start with the treasure."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Let's start with the sailor."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "We pulled up the chest.\nNow on to..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Oh dear. Where did the sailor go?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_110": {
+    "speaker": "Sailor_A",
+    "text": "Damn the waves! We're too late!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "My capabilities were inadequate.\nI apologize."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Are ye all right, sailor?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_140": {
+    "speaker": "Sailor_B",
+    "text": "Thank you... You saved my life..."
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_150": {
+    "speaker": "Diva_No5",
+    "text": "And now for the treasure chest!\nOh dear, where did it go?"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_160": {
+    "speaker": "Sailor_A",
+    "text": "Damn the waves! It took the treasure!"
+  },
+  "SUB_W14_EVAR_DIVA_VISION_DROWN_000_CUT_000_170": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but we saved a life,\nand that's far more important."
+  }
+}

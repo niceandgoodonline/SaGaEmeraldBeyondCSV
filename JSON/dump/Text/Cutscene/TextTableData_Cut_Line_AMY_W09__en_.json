@@ -1,0 +1,2698 @@
+{
+  "SUB_W09_WRLD_AMYA_INITIAL_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, this building is HUGE! Also, I saw\nthose vehicles there in Miyako City—\nI think they were called 'trains'?\fI mean, cool and all, but not sure I\ncan expect much mana out of this world."
+  },
+  "SUB_W09_WRLD_AMYA_INITIAL_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "S'cuse me, mister! Where am I?"
+  },
+  "SUB_W09_WRLD_AMYA_INITIAL_000_CUT_000_020": {
+    "speaker": "Train_Conductor",
+    "text": "Why, whatever could it be but\nthe majestic Avalon Station!\fDid you miss your transfer, ma'am? If so, we'll\nget you sorted in a jiffy, for Avalon Station\nis the terminus and starting point for every\nrail line, and one can get anywhere from here!"
+  },
+  "SUB_W09_WRLD_AMYA_INITIAL_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "For real? Good to know. Thanks!"
+  },
+  "SUB_W09_WRLD_AMYA_INITIAL_000_CUT_000_040": {
+    "speaker": "Train_Conductor",
+    "text": "Pleasant travels, miss!"
+  },
+  "SUB_W09_WRLD_AMYA_INITIAL_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "So I guess I'm in Avalon.\nNow where could my cat be...?"
+  },
+  "SUB_W09_WRLD_AMYA_INITIAL_100_CUT_000_000": {
+    "speaker": "Train_Conductor",
+    "text": "Welcome to Avalon Station,\ngood miss!"
+  },
+  "SUB_W09_WRLD_AMYA_INITIAL_100_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Avalon, huh? Doubt I'll find much mana\nin this world, but there should at least\nbe a kitty for me somewhere."
+  },
+  "SUB_W09_SCAN_AMYA_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, and here I thought it was going to\nhave me ride somewhere on this thing.\fWell, since I'm here, I might as well\nsee the sights. Hope you're ready to\nplay tour guide, Mr. Green Line!"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, look at all the people! Wish I could\njust use my magic to soar over all this\nhustle and bustle."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "I say, there's our lostling!"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh? Who are you?\nAlso, who said I was lost?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "You look plenty lost to me, dear—and like\na bit of an odd duck, if I'm honest.\fNow then, my name is Guinevere, and I have\nbeen tasked by the Crown with fetching\nlostlings such as yourself and providing\nthem guidance."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh. Well, my name's Ameya Aisling—\nand while I'm still pretty sure I'm\nnot lost, I AM looking for a lost cat.\nDo you know anything about that?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Whether this cat you seek is here or not,\nyou've an obligation to the Crown to discharge.\nThink of it as an entry tax, if you will—and I\ndo look forward to your prompt payment."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Oh, but please be at ease! I understand you've\nnothing on your person which might be of value\nto the Crown, so we'd be simply chuffed to\noffer you a different means of payment."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, wait. Hang on. A TAX!?\nAre you saying I owe you something\njust because I came to your world?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "I am saying precisely that.\nNow then, you may pay your\nentry tax by gathering these:"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_090": {
+    "speaker": "Guinevere",
+    "text": "They are valuable rocks\nknown as 'diamonds.'"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "You will go forth and gather items of value\non the streets of Avalon. Said items will\nthen be converted into diamonds by way of\na secret process known only to the Crown.\fBut I shall spare you the details,\nfor we've wasted enough time\ndiscussing it already."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "...Okay? So what's with all\nthese little slips of paper?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_120": {
+    "speaker": "Guinevere",
+    "text": "Those, my dear, are transportation tickets.\nYou will use them to travel about the city,\nideally gathering items of value as you do.\fI'll leave it to you to figure out how\nbest to make use of them, for that decision\nwill be the crux of making this a most\nsuccessful enterprise."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Really? Neat! I mean, I'd been hoping to\nsee the city anyway, so that's convenient.\fEr, but I still don't know much about\nwhat items are valuable. Give me a hint!"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_140": {
+    "speaker": "Guinevere",
+    "text": "Were I you, I might perhaps start at the\nCanuds department store; I hear one can\nacquire rather valuable items there."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_110_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "And I need to use these tickets\nto get there, right? Well then,\nI'll give it a shot! Off I go!"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_210_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "THERE you are! I came here\nto meet you, you know!"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_210_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "A grafting right off the cuff?\nThis lostling certainly is assertive!\fYes, well, my name is Guinevere,\nand I have been tasked by the Crown\nwith fetching lostlings such as\nyourself and providing them guidance."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_210_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, my name's Ameya Aisling,\nand I'm looking for a lost cat.\nDo you know anything about that?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_210_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Whether this cat you seek is here or not,\nyou've a duty to the Crown to discharge.\nSpecifically, I need you to gather these:"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_210_CUT_000_090": {
+    "speaker": "Guinevere",
+    "text": "Were I you, I might perhaps start at the\nCanuds department store; I hear one can\nacquire rather valuable items there."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "A moment, miss? I'm Detective Inspector Spear\nfrom Avalon Yard—and if I may, you're as\ndodgy a fellow as I've seen in all my years."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Then you need to meet more witches,\nbecause I'm perfectly normal by\ntheir standards."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Clearly my intuition's as sharp as ever—\nbecause if there's a dodgier way to\nrespond to an accusation of dodginess,\nI can't imagine what it might be.\fLucky for us both, a right dodgy lostling\nsuch as yourself is precisely what I\nneed at the moment."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "As it happens, I know a number of types who\nused to be lostlings—scouted by the queen\nherself back in the day, so they were.\fPoint is, miss, I need your help—and you are\ngoing to give it to me, because otherwise\nI'll see you thrown in the nick."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, no need for the weird threats—\nif you need help, I'm happy to give it.\nSo what do you want me to do?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_060": {
+    "speaker": "Spear",
+    "text": "There's a clever lass. Now then, what I need is\nfor you to put that keen judgement and lostling\npower to work locating certain bits and bobs\non the mean streets of Avalon.\fI know that might seem like a load of old\ncobblers at the moment, but it'll all make\nsense at the end of the day."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Um, okay? And you're giving me\nlittle slips of paper...why?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_080": {
+    "speaker": "Spear",
+    "text": "'Slips of paper'!? Blimey, this is\ngonna be a right mess here...\fThese, miss, are called tickets.\nYou use them to get around the city."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Really? Neat! I'd been hoping to see the\ncity anyway. Oh, but you need to give me\na hint about what sort of 'articles'\nyou're looking for here."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_100": {
+    "speaker": "Spear",
+    "text": "Oh, I've hints in spades, miss.\nFor starters, take a peek 'round\nthe World Theatre, then make\nyour way over to Avalon Yard."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_110": {
+    "speaker": "Spear",
+    "text": "Jack Street, next to us, is chock-full\nof hooligans and cutpurses.\fWouldn't normally send a green young\nlady like yourself to that place, but I think\nyou'll find a piece there that's key to our\nlittle investigation."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_120": {
+    "speaker": "Spear",
+    "text": "Oh, and then there's the Royal Plaza.\nYou'll mostlike find a minstrel there\nperforming for tourists, and I wager\nhe'll have a clue as well. "
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_130": {
+    "speaker": "Spear",
+    "text": "You say you're a witch, yes? If so,\nI assume you can take care of yourself\nwith your cauldrons and newts and whatnot,\nso good luck out there.\fOh, and mum's the word on this investigation,\nso don't go discussing it with any Sid or Nancy who\nwanders by. In fact, just don't go discussing it at all."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, I barely understood a word of that—\nbut the more of the city I see, the better\nthe chances of finding my cat, so off I go!"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh! This is the station where I started!\nI guess this is where I end up when I use\nall my tickets."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "Made it back safely, did you lostling?\nWell done! Now be a dear and show me\nall the valuable items you've gathered\nso I can turn them into diamonds."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_020": {
+    "speaker": "Guinevere",
+    "text": "Heavens, this is simply brilliant!\nThat was merely meant to be a training\ncourse, yet you managed to gather more\nthan any lostling I've ever known!"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Well, this is smashing! If you can get these\nsorts of results from the training course,\nyou'll have your tax sorted in no time—\nand maybe even an audience with His Majesty."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_040": {
+    "speaker": "Guinevere",
+    "text": "Well, better than a swift kick in the bum,\nI suppose. Still, this <i>was</i> just a training\ncourse, so as long as you show better results\non the real thing, it should all be grand."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Well, that's gone all to pot—and you were\nonly on the training course! At this rate,\nit's hard to imagine you'll ever discharge\nyour duty to the Crown.\fWere I you, I'd do it again—and take it\nseriously this time, unless you fancy being\ntossed into the royal dungeons."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Now then, if you feel you adequately\nunderstand your duty, you may proceed\nto the next course. Or if you still lack for\nconfidence, you can try this one again."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Nope! I'm good."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, let's try it again."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, this ring didn't turn into diamonds!\nDoes that mean it isn't worth anything?"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_110_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "This old gold ring here, you mean?\nYes, that is a bit of a mystery.\nMust be something of a special case."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_210_CUT_000_110": {
+    "speaker": "Guinevere",
+    "text": "Did you not bother visiting Canuds?\nOr perhaps you simply failed to find\nanything of value there? Either way,\nI suggest you try again—and harder."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So what happens to all\nthose diamonds now?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "They will be presented to the Crown\nas your entry tax and used to fund\nvarious aspects of the royal family.\fFor while the Crown's finances are handled\nby the government, these diamonds need not\nbe 'officially' accounted for."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm not sure what you mean by that,\nbut it sure sounded like you were\nmaking some big air quotes."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "What I'm saying, love, is that these\ndiamonds are a major source of income\nfor the royal family.\fOn the rare occasion a lostling appears,\nthey're sent to gather valuables for the\nroyal family's benefit—and it is my job\nto see it all goes down swimmingly."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow! I guess you must be a really\nimportant person for Avalon, huh?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Oh, I'm nothing so special;\nmerely a prisoner of the royals\nand nothing more."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Right then! You'll be on a different course\nnext time, and may end up visiting more\ndangerous places and encountering even\ndodgier individuals—so do take care."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, but can I get\nanother hint first?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "Begin with Nobleman's Square. It's where\nthe nobility of Albion tend to congregate,\nbut commoners may visit without issue."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_120_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Heh. Makes sense the nobility would have\nvaluable stuff falling out of their pockets.\nI'll go check it out."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_220_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So what are you going to do\nwith that ring from before?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_220_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "I will have it appraised so I might see\nif it is worth presenting to the king—\nin truth, I suspect it may have even\ngreater value than the diamonds."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_220_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Do those sorts of things\nturn up often?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_220_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Never, my little lostling—and it\nmakes me suspect you might be a\nterrifically special young lady indeed."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_220_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "Try Nobleman's Square. It's where Albion's\nnobility tends to congregate, but commoners\nmay visit without issue.\fAnd of course, such nobles are known\nto possess precious items."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_220_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Precious items, huh? Can't even begin\nto imagine what that might mean..."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_120_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I feel like I'm getting the\nhang of these Avalon streets!"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_120_CUT_000_020": {
+    "speaker": "Guinevere",
+    "text": "Heavens, this is simply brilliant!\nHave you been to Avalon before?"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_120_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Well, this is just smashing!\nLet's keep it up, shall we?"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_120_CUT_000_040": {
+    "speaker": "Guinevere",
+    "text": "Better than a swift kick in the bum,\nI suppose—though I encourage you\nto try harder next time."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_120_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Well, this has gone all to pot. At this rate,\nyou're mere moments from being tossed into\nthe royal dungeons—and I've not the faintest\nwhat might happen to you after that."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_120_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Your fate is yours to decide.\nDo you wish to try again?"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_120_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "So the necklace didn't turn into diamonds?\nRats! Must be because of the curse."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_120_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "This old gold necklace here, you mean?\nYes, it does appear to be something\nof a special case."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_220_CUT_000_110": {
+    "speaker": "Guinevere",
+    "text": "You didn't visit Nobleman's Square?\nOr did you merely run into trouble\nwith the nobles, perhaps?\f*sigh* I fear I may have expected rather\ntoo much from a mere lostling..."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, so exactly ZERO of the items I got at\nthe places you recommended became diamonds!\nWhat's up with that, huh?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "Yes, that is rather a sticky wicket.\nThey're gold and rather old, but I haven't had\nissues with such things not becoming diamonds\nbefore, and I can't speak to why it might be.\fPerhaps His Highness might have some\ninsight into the matter. Or perchance..."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are you, um, gonna finish\nthat sentence?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "I don't know. Am I?\fYes, well, the next course will be the last.\nDo try to complete one final circuit before\nyour lostling power dissipates completely."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_031": {
+    "speaker": "Guinevere",
+    "text": "The next course will be the last.\nDo try to complete one last circuit before\nyour validity as a lostling expires."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, what does THAT mean!?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "If lostlings were to generate too many\ndiamonds, their value would crater overnight.\nThis is why we require but a single lostling\nat any given time, you see."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, question: can't you just make the\ndiamonds yourself? Why do you need to\nrely on lostlings for this whole thing?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_070": {
+    "speaker": "Guinevere",
+    "text": "Was I not clear? This is a power possessed\nby lostlings; we could not do it without you.\nIt is what makes you ever so valuable."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "Now then, this route will be rather\ndifferent: it begins at the royal palace,\nand will likewise conclude there once\nyou make a full circuit of the city."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay! And my hint?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_130_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "Do you truly require one? I wonder...\nRegardless, I would think it worth your\nwhile to pop by the Royal Museum of Albion.\fAs a visitor to our land,\nI'm certain you will find it\nquite the fascinating place."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_230_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So the items I got at Nobleman's Square and\nCanuds both didn't turn into diamonds—\nand both of those were locations you\nstrongly hinted I should visit.\fI'm starting to wonder if the\n'terrifically special' one here\nis actually you."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_230_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Now tell me what's going on!"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_230_CUT_000_020": {
+    "speaker": "Guinevere",
+    "text": "And that is precisely <i>why</i> you are so\nvery special, Ameya Aisling: it seems I can\nhide nothing from your clever mind."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_230_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Well, then! If explanations you want,\nexplanations you shall have.\fSome time ago, I committed a crime.\nAs recompense, I was ordered to find\nlostlings and use them to collect diamonds,\nwhich I then offer up to His Majesty.\fHaving now performed this service for no\nsmall amount of time, I feel I have\nsufficiently atoned for my actions.\nAnd yet..."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_230_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "And yet the king feels otherwise.\nSo what are you going to do?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_230_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Ever one step ahead, aren't you? But yes,\nit is as you say: I am gathering gold items\nto which the king's power does not extend\nso I might use them to barter my freedom."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_230_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Little hard to imagine you winning back your\nfreedom so easily, but hey, what do I know?\nSo, uh, how many more do you need?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_230_CUT_000_070": {
+    "speaker": "Guinevere",
+    "text": "If I can acquire just one more,\nI think that should prove sufficient."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_230_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "Oh, I cannot imagine you require\nany hint I might have to offer."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Back at the royal palace at last.\nI guess I get to see the king now?"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "That will depend on how many diamonds you\nhave gathered. Let's have a gander and see if\nHis Majesty will be chuffed to bits or tossing\nyou into his gaol."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_020": {
+    "speaker": "Guinevere",
+    "text": "Heavens, this is simply brilliant!"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Now this is just smashing!"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_040": {
+    "speaker": "Guinevere",
+    "text": "Well, it's better than a swift kick\nin the bum, I suppose."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Well, this has gone all to pot."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "It appears you can safely expect\nHis Majesty's gratitude. Now let us\ntake these diamonds into the palace."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_070": {
+    "speaker": "Guinevere",
+    "text": "Let us take these diamonds into the palace.\nAs for what will happen next, we'll simply\nhave to see what mood His Majesty is in."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "This scant quantity of diamonds buys\nyou nothing but a one-way ticket\nto the royal dungeons."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "I got this wand at the museum, but I guess\nit's not worth much if it can't be turned into\ndiamonds. It DID strike me as a rather\nunusual item, though."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_130_CUT_000_130": {
+    "speaker": "Guinevere",
+    "text": "An old golden wand, is it?\nYes, that's exactly the sort of thing\nwhich cannot be turned to diamonds."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_230_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So this where I meet the king?"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_230_CUT_000_140": {
+    "speaker": "Guinevere",
+    "text": "No wand, I see. This speaks volumes\nabout your intentions, Ameya Aisling."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_230_CUT_000_150": {
+    "speaker": "Guinevere",
+    "text": "And cheers for bringing me the\nthird golden item I required."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_000_000": {
+    "speaker": "Palace_Guard",
+    "text": "Welcome back, Lady Guinevere.\n'Tis a pleasure to see you again."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "The pleasure is all mine, good sir.\nI've a lostling here who stands\nready to pay her entry tax."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "Excellent work, lostling.\nYou may enter."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_000_030": {
+    "speaker": "Palace_Guard",
+    "text": "And if I may be so bold, Lady Guinevere,\nI eagerly look forward to the day you\nmight return to the palace for good."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, you used to live here?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Ancient history, I'm afraid.\nNow I'm naught but a captive criminal."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_000": {
+    "speaker": "King_Albion",
+    "text": "This fine offering of diamonds\npleases me, lostling."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_010": {
+    "speaker": "King_Albion",
+    "text": "If you require a boon, merely name it\nand I shall see it done."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, sire, I came to this world in search\nof a cat, and I'd like to search for it.\nSoon as I find it, I'm outta here."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_030": {
+    "speaker": "King_Albion",
+    "text": "As you have made an offering worthy of\nsuch a request, your boon is granted."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_040": {
+    "speaker": "King_Albion",
+    "text": "Your efforts in this matter are\nappreciated as well, Guinevere.\nYou may go now."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_050": {
+    "speaker": "Guinevere",
+    "text": "A moment please, Your Majesty!\fI have guided a great many lostlings\nand secured for you a stunning amount\nof diamonds in the process. As such,\nI believe I have earned your forgiveness."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_060": {
+    "speaker": "Queen_Albion",
+    "text": "There can be no forgiveness for one who\nbetrays their own king! Nay, girl, your\natonement will consume a lifetime."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_070": {
+    "speaker": "Guinevere",
+    "text": "I do not ask to cease my atonement,\nYour Highness. I ask only for freedom,\nfor that is all I have ever wanted."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_080": {
+    "speaker": "King_Albion",
+    "text": "What is the meaning of this, Guinevere?\nWould you seek to defy me once more?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_090": {
+    "speaker": "Guinevere",
+    "text": "While no subject of Albion can defy their king,\nthis lostling has shown me your power does not\nextend to otherworldly articles such as these."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_100": {
+    "speaker": "Queen_Albion",
+    "text": "You would use these trinkets to\ndiminish His Majesty's power?\nHow clever...and how foolish!\nGuards! Seize this traitor!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Soooo... I can just leave, then?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_120": {
+    "speaker": "Palace_Guard",
+    "text": "We cannot apprehend Lady Guinevere!\nWe'll not turn our arms against\nour rightful queen!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_130": {
+    "speaker": "Queen_Albion",
+    "text": "Fie, more traitors in our midst!\nBut so be it—if you will not follow my\ncommand, you may join her in death!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, so clearly sneaking out\nof here isn't going to work."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'll save you, Guinevere!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_010_160": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm staying out of this."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_020_000": {
+    "speaker": "King_Albion",
+    "text": "I love you, Guinevere my queen—which is\nexactly why I cannot forgive your crime.\fBut I am a merciful man, and so will permit\nthe freedom you desire in the form of exile.\nNow begone from here and never return!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_020_010": {
+    "speaker": "Guinevere",
+    "text": "Your Majesty..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_020_020": {
+    "speaker": "King_Albion",
+    "text": "I leave Lady Guinevere\nin your hands, lostling."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_020_030": {
+    "speaker": "Palace_Guard",
+    "text": "Please take care of m'lady, miss!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_020_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "I mean, I will, but kinda presumptuous\nof you all to dump her on me!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_100_CUT_020_050": {
+    "speaker": "Guinevere",
+    "text": "Continue your mission, lostling—\nand without delay."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_000_000": {
+    "speaker": "Palace_Guard",
+    "text": "Greetings, Lady Guinevere. I am surprised\nyou have chosen to visit us again.\fYet would it not be best to accept His Majesty's\njudgment that you will not be forgiven and\ncannot escape his power, even with the aid\nof your skilled lostling?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "Spare me your counsel and step aside;\nI've brought a cracking offering that\nis certain to please His Majesty."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "Very well, m'lady."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Even the gatekeepers greet me as a\nnuisance now—but that ends today. "
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, gotta give it a shot, right?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "I pray you might support me\nin this, lostling."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_010_050": {
+    "speaker": "Guinevere",
+    "text": "I am going nowhere, Your Majesty!\nToday is the day I win my freedom!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_010_060": {
+    "speaker": "King_Albion",
+    "text": "Must we go through with this farce again?\nA subject of Albion may not defy their king!\nWhat will it take for that to sink in?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_010_070": {
+    "speaker": "Guinevere",
+    "text": "Ah, but this time\nI come prepared..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_010_080": {
+    "speaker": "Guinevere",
+    "text": "With this barrier, your royal powers\ncannot touch me—indeed, none of you\nfoul cretins can hope to stop me!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_010_090": {
+    "speaker": "Palace_Guard",
+    "text": "Protect His Majesty!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_010_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh boy, this could go REAL wrong..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_010_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "I better stop her."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_010_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "Nope! Staying out of it."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_020_000": {
+    "speaker": "Guinevere",
+    "text": "You have betrayed me, lostling,\nand I will not stand for it!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_020_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I only did what I thought\nwas right, sire!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_020_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Are you unharmed, Your Majesty?\nEr, sorry for sticking my nose in this."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_020_030": {
+    "speaker": "King_Albion",
+    "text": "Death cannot hold Queen Guinevere for long,\nlostling, so there is nothing to regret.\nBut you do have my gratitude for your actions."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_020_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well that's a relief! Also, next time\nyou two fight, maybe take it down\na notch? Anyway, byeeee!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_000": {
+    "speaker": "King_Albion",
+    "text": "I love you, Guinevere my queen—which is\nexactly why I cannot forgive your crime."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_010": {
+    "speaker": "Guinevere",
+    "text": "If you look to kill me, simply call\nthe headsman and be done with it.\nThen this farce will finally be over,\nwhich is all any of us want."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_020": {
+    "speaker": "Lancelot",
+    "text": "If anyone must be punished,\nYour Majesty, let it be me!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_030": {
+    "speaker": "Guinevere",
+    "text": "Lancelot? What are you doing here?\nThere's no point in your dying as well!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_040": {
+    "speaker": "King_Albion",
+    "text": "There can be no going back to our\nyounger days when we could so readily\nforgive each other our trespasses.\fNay, we'll not know such until the day our\ngod calls us home. But on that day, I look\nforward to talking and laughing together\nas once we did."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_050": {
+    "speaker": "King_Albion",
+    "text": "Now leave my sight, the both of you.\nAnd you stand down as well, lostling—\nand go with my gratitude for all that\nyou have done this day."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "So what are you two gonna do next?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_070": {
+    "speaker": "Lancelot",
+    "text": "I will return to hiding and protect the\nkingdom from the shadows, as is my duty.\nI ask only that you might take care of\nthe queen in my stead, lostling."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_080": {
+    "speaker": "Guinevere",
+    "text": "Oh, Lancelot..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_090": {
+    "speaker": "Guinevere",
+    "text": "Would you even have me, lostling?\nEspecially after I fought you and was\nthen rendered powerless?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_200_CUT_030_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, of course I would.\nCome on and join me!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_110_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "You didn't end up getting anything\nfrom His Majesty, Guinevere.\nAre you okay with that?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_110_CUT_010_060": {
+    "speaker": "Guinevere",
+    "text": "For today, I shall have to be.\nBut when the next lostling comes,\nsurely my wish will be granted."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_110_CUT_010_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh-oh. Does that mean\nI wasn't strong enough?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_110_CUT_010_080": {
+    "speaker": "Guinevere",
+    "text": "Those are your words, lostling—not mine.\nRegardless, it is now time for you to\npursue your own goals elsewhere."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_210_CUT_010_080": {
+    "speaker": "Guinevere",
+    "text": "To be perfectly frank...yes. You weren't.\nAnd because you did not heed my words,\nyou are now free to do as you will.\nFarewell, my failed lostling."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_120_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "Right then, let's take a look.\nBlimey, this is a terrible haul!\fWell, we can't have a plonker\nlike you wandering the streets of Avalon,\nso it's off to the dungeons."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_120_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whaaat? But I worked really hard\ngathering all that dumb junk!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_120_CUT_000_040": {
+    "speaker": "Guinevere",
+    "text": "I'm sorry there was nothing more I could do to\nhelp you, lostling. Alas, I fear I haven't the\nfaintest idea what becomes of those banished\nto the dungeons...but best of luck all the same."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_120_CUT_000_050": {
+    "speaker": "Palace_Guard",
+    "text": "This way, you useless pillock!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_120_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I can't believe it! This is all\nbecause of Macha's magic..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_120_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, is this...?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_120_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Kitty! It's really you!\fOh, so THIS must be the reason I\nwasn't able to gather many diamonds.\nMagic sure is mysterious, huh!?"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_000": {
+    "speaker": "Spear",
+    "text": "Well, look who's still in one piece!\nSure am chuffed to see it, miss; Avalon's\nfull of dangerous places and types, much\nas it shames an old bobby like me to admit."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "Now then, let's see if your eye for things\nhas met our expectations. That's what'll\ndetermine whether this investigation\nadvances or not."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_020": {
+    "speaker": "Spear",
+    "text": "Blimey, this is a proper haul!\nSure you're playing fair out there?\nOi, you know what? I don't care.\nResults are all that matters."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Now this here's a right cracking job.\nHis Majesty will be buzzing about this,\nand no mistake."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "Eh, bog-standard, I suppose. But try giving\nit some welly next time, miss—it'll make\neverything run more smoothly down the road."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "Blimey, but this is a\nright dog's dinner!\fMaybe I wasn't clear the first time—just <i>being</i> a\nlostling is a crime, and the only way to stay out\nof the nick is to bring His Majesty diamonds.\nWhat you've got here just won't do at all."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_060": {
+    "speaker": "Spear",
+    "text": "Right then! If you feel confident, we'll take\nthe next step. But if you want to try again,\nwe'll run it back for you."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "So no diamonds from the triangle thingy?\n'Cause I felt a strange power there."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_100": {
+    "speaker": "Spear",
+    "text": "You're not wrong, miss; these 'triangle thingies'\nare vital bits of evidence for our investigation.\nNow then, thanks much for your cooperation,\nand I hope you'll see fit to keep them coming."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_110": {
+    "speaker": "Spear",
+    "text": "You're not wrong, miss; these 'triangle thingies'\nare vital bits of evidence for our investigation.\nIn fact, I've a suspicion there's another one\nof them still out there somewhere."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_310_CUT_000_120": {
+    "speaker": "Spear",
+    "text": "Didn't find all the triangular objects?\nOr could you simply not be arsed to visit\nthe key sites of this investigation?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_320_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So what's the deal with the triangle\nthingies? You never did tell me."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_320_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "Sorry, miss; can't be sharing confidential\ndetails with the likes of you. Just trust me\non this: triangles have the power to change\nthe fate of this world.\f...Or am I just taking the piss\nout of you here?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_320_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I think I know what that means,\nbut still. Gross."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_320_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Ha ha ha! Just make sure you\ndon't let any triangles slip\nbetween your fingers, right?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_320_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "Right then! On to the next.\nThis time, we'll be starting\nat Nobleman's Square."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_320_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "Your goal is to reach Avalon Station—\nand the key site in this part of the\ninvestigation is the Broadcast Tower."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_320_CUT_000_060": {
+    "speaker": "Spear",
+    "text": "Also, you'll probably run into a pickpocket\nor three around these parts. They should\nhave some useful information, so make sure\nto have a proper chinwag with 'em."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_320_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yes sir, Mr. Inspector, sir."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_320_CUT_000_020": {
+    "speaker": "Spear",
+    "text": "Blimey, this is a proper haul!"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_320_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Now this here's a cracking job."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_320_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "Eh, bog-standard, I suppose."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_320_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "Now this is a right dog's dinner!"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_320_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Your fate is yours to decide.\nDo you wish to try again?"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_320_CUT_000_090": {
+    "speaker": "Spear",
+    "text": "Looks like you found all the triangles,\nwhich means I can wrap up my\ninvestigation all nice and neat."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So there are four triangle thingies\nin total, huh? What does that mean\nfor your investigation, anyway?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "Don't be so hasty there—\nstill got places I need you\nto visit on the next course."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_000_020": {
+    "speaker": "Spear",
+    "text": "This one runs from the station\nto the royal palace."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Oh, and stop off at the hospital\non the way. You should be able to\nget to the graveyard from there."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "And what am I going to do\nat a graveyard?"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "Gravekeeper has some kind of information,\nbut that's all I know; bloke refused to\ntalk to a copper."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Maybe he would have be willing\nto talk to one who wasn't as\nphenomenally sketchy as you."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_000_070": {
+    "speaker": "Spear",
+    "text": "Ha! You've a sharp tongue on you,\nmiss, but that's a fair read of me.\fAll the same, I think even as winsome a lass\nas yourself might find loosening his lips to\nbe a bit of a challenge—but don't let me down!"
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_010_000": {
+    "speaker": "Spear",
+    "text": "All right, miss, this is our final course.\nI've got nothing what needs investigated,\nso just kick back and enjoy everything\nAvalon has to offer."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_010_010": {
+    "speaker": "Spear",
+    "text": "Oh, but make sure you don't wind up\nin the king's dungeon—still got that\nlittle ace to worry about."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_330_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "So this is the last lap, then?\nGuess I'll give it my all!"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_330_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "Well, miss? How was it? Goes without saying\nI can't have you ending up in the dungeon,\nso if you don't meet the king, your problems\nare gonna become mine."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_330_CUT_000_060": {
+    "speaker": "Spear",
+    "text": "Cor, you really cracked on here, miss!\nHis Majesty should be proper satisfied,\nso let's get these diamonds to the palace."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_330_CUT_000_070": {
+    "speaker": "Spear",
+    "text": "Eh, nothing for it but to take your diamonds\nto the royal palace and hope His Majesty\nis in a forgiving mood."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_330_CUT_000_080": {
+    "speaker": "Spear",
+    "text": "You having a laugh here, miss?\n'Cause His Majesty's gonna have\nyou strung up by your thumbs."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_330_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "So what do I do with my little souvenir\nfrom the graveyard? It didn't turn into \ndiamonds, but I can still feel it pulsing\nwith a bunch of magical energy.\fI mean, if you don't want it,\nI'd be happy to keep it."
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_330_CUT_000_130": {
+    "speaker": "Spear",
+    "text": "Then let's just have you do that for the time\nbeing, miss; looks better in your mitts than\nmine, anyhow. Though I reckon that's true of\nmost things in this world, eh?"
+  },
+  "SUB_W09_EVAR_AMYA_ENDING_330_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, sure. I mean, not that I should\never trust anything <i>you</i> say."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_000_000": {
+    "speaker": "Spear",
+    "text": "Out of the way, you daft mug! Got a\nlostling here what's got an offering\nof diamonds for His Majesty."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_000_010": {
+    "speaker": "Palace_Guard",
+    "text": "Not so fast there! Who are you and...\nCor blimey, look at those diamonds!\nI've never seen so many before!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "You really think that's enough\ndiamonds to let me grant you an\naudience with His Majesty!?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "What say you look into my eye?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_000_040": {
+    "speaker": "Palace_Guard",
+    "text": "Oh my giddy aunt! Y-you... You're..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "We know the way. Oh, and that's some\nfine work, mate. Keep it up."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_040": {
+    "speaker": "Spear",
+    "text": "Please accept my offering as well,\nYour Majesty!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_050": {
+    "speaker": "King_Albion",
+    "text": "That sword..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_060": {
+    "speaker": "Spear",
+    "text": "Before those dastards used those strange\ntriangles to seal it away, this sword\nsymbolised sovereignty over Albion.\nIt belongs at your side, Your Majesty."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_070": {
+    "speaker": "King_Albion",
+    "text": "By all that's holy... Lancelot!\nIt's you! You've returned to us!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_080": {
+    "speaker": "Lancelot",
+    "text": "I have borrowed the power of this lostling to\nbreak the seal, and am now yours to command.\nWith this sword, I swear to slay all who might\nseek to bring evil to your realm!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_090": {
+    "speaker": "Queen_Albion",
+    "text": "The only one bringing evil to this realm\nis you, Lancelot! Or have you forgotten\nthat you committed the crime of treason\nagainst your own king?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_100": {
+    "speaker": "Lancelot",
+    "text": "I am a criminal and do not deny it. But only\nthe king can pass judgment over me—and\nyour vile hold over him is first among the\nevils that will fall to this blade!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_110": {
+    "speaker": "Queen_Albion",
+    "text": "No matter how much power that sword contains,\nno citizen of Albion is able to defy the king.\nYou should know this more than most, Lancelot.\n...Now give him an order, Your Majesty!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_120": {
+    "speaker": "King_Albion",
+    "text": "Lancelot... Stand down."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_130": {
+    "speaker": "Lancelot",
+    "text": "Your Majesty..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_140": {
+    "speaker": "Queen_Albion",
+    "text": "You always were a fool, Lancelot!\nDid you truly think to march in here\nand slay me like some hero of old?\nTo beg the forgiveness of your king?\fOh, but seeing a man on his knees is a most\nunseemly thing—so let me put an end to your\ndays of pleading by killing you here and now!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh man! If I don't do something,\nhe's gonna get himself killed!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_160": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'll save you, Lancelot!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_170": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm staying out of this."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_180": {
+    "speaker": "Ameya_Aisling",
+    "text": "I knew this wasn't a normal sword, but wow!\nIt sorta makes me the most powerful person\nin this whole world? I'm honestly not even\nsure that I like it..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_190": {
+    "speaker": "Queen_Albion",
+    "text": "Keep such thoughts to yourself if you value your\nlife, you feeble lostling! You may have gathered\npower from throughout the Conjoined Worlds,\nbut this world is ours by right!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_010_200": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, don't you worry—this world has got nothing\nto do with me, and I couldn't be less interested\nin conquering it. But I'm also not just gonna\nhand it over to YOU, either!"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_020_000": {
+    "speaker": "King_Albion",
+    "text": "Lancelot, my dear friend. I am gladdened to\nsee you again, and gladdened even more that\nyou freed me from that woman's cruel yoke."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_020_010": {
+    "speaker": "Lancelot",
+    "text": "And yet, I am a criminal still. Even if I\ndid it to safeguard her, the fact remains\nI absconded with your queen and\npledged to her my eternal love.\fI have betrayed my king, and in\nso doing proven myself unworthy\nto stand at your side."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_020_020": {
+    "speaker": "Lancelot",
+    "text": "But if ever your life is in danger, I shall be\nthere—which is why it remains my fervent\nhope we never again see each other."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_020_030": {
+    "speaker": "King_Albion",
+    "text": "My good Lancelot..."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_020_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "So Lancelot, what are you going to do now?\nEr, or am I supposed to keep calling you\nInspector Spear?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_020_050": {
+    "speaker": "Lancelot",
+    "text": "I must quit this place for a while;\nthe king's majesty would only be\ndiminished by the criminal Lancelot\nrunning about unpunished.\fPerhaps a certain lostling might consider\nletting me accompany her on a journey\nthrough the Conjoined Worlds?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_020_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Of course I would, Lancelot."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_300_CUT_020_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Of course I would, Inspector."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_310_CUT_000_010": {
+    "speaker": "Palace_Guard",
+    "text": "Go on, go on."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_310_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Was that okay? 'Cause it didn't seem like\nyou got anything you wanted out of that."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_310_CUT_010_050": {
+    "speaker": "Spear",
+    "text": "That's the way it goes sometime, miss.\nMy investigation didn't pan out either."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_310_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Does that mean I failed you?"
+  },
+  "SUB_W09_EVAR_AMYA_LAST_310_CUT_010_070": {
+    "speaker": "Spear",
+    "text": "Oh, you did, miss.\nYou very much did.\fI'd thought you might suffice, but there's\nnothing for it but for me to start over\nand try again. Here's hoping you have\nbetter luck with your own goals."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_320_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "Right then, let's take a look.\nBlimey, this is a terrible haul!\fWell, we can't have a plonker\nlike you wandering the streets of Avalon,\nso it's off to the dungeons."
+  },
+  "SUB_W09_EVAR_AMYA_LAST_320_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "You've been angling for a trip to the\ndungeons this whole time, lass, and\nnow you get it. Hope it was worth it."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I wonder what all these people\nare lined up for?"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Cheers, love! I'm the songstress!\nI'm so glad ye came to see me,\nand I hope ye enjoy this wee\nsigned photoprint!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, um, thank you?"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "New song's gonna be a fine one,\nso keep yer ears open!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "What an odd duckling."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Hello there, love—I'm the songstress!\nCheers for supportin' me!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_000_020": {
+    "speaker": "Fan_Utahime",
+    "text": "Oh my gosh, I am your BIGGEST fan!\nPlease take this! PLEASE!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "A gift for me, is it?\nAye, I'll treasure it always."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "And gratitude to you as well, love!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh? Me? Oh, uh... You're welcome?"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "To be honest, I've been in a wee strop today,\nbut gettin' so many gifts from my fans cheered\nme up straightaway. Now please just sit back\nand enjoy my new song!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "The sun comes up and morning calls.\nWithout ye, I cannae go on."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Can ye make yer way back to me, O love?\nCan ye make yer way back to me?"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_021": {
+    "speaker": "Diva_No5",
+    "text": "So I go to Giant Moch Forest and daren't\nlook back. Oh no, I daren't look back."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "The sun rises away, above me so far."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "I must bear the dark as night falls."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_041": {
+    "speaker": "Diva_No5",
+    "text": "I'll be off now 'cause\nvultures are screechin'."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "I howl in the black!\nI'm fiercer than dawn!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Let this fool hop on and\nwe'll be off, Golden Baum!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_061": {
+    "speaker": "Diva_No5",
+    "text": "And I cross the darkness alone."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_010_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "Aye, singin' that perks me right up.\nThanks so much for listenin'!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_020_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, look how much longer the line is!\nThat songstress might actually know\nwhat she's doing..."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_020_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Keep rocking, singer lady!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_020_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh, cheers! 'Tis fine to see ye again!\nI've nothin' but this wee token for ye,\nbut I hope it shows how grateful I am."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_030_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Thank ye all sooo much for comin'!\nI'm afraid the signing's over now,\nso apologies to anyone in the queue."
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_030_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "You made it all the way to the front\nof the queue at the moment it ended?\nOh, now that's just TERRIBLE luck!\fYou must be gutted, lass! You must be cheesed off!\nIf it were me, I'd be screamin' to the heavens,\nyou know? Hell, you must be the most cursed\nlady in the entire universe!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_030_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, it had to happen to someone...\nAlthough I'm usually such a lucky girl!"
+  },
+  "SUB_W09_EVAR_AMYA_RADIOSTATION_030_CUT_000_040": {
+    "speaker": "Constantine",
+    "text": "Hey, good for you! Stiff upper lip and\nall that, eh? Oh, and here's a little\nsympathy present from me to you."
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ooo, this place seems FANCY."
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_000_010": {
+    "speaker": "Bartender",
+    "text": "Welcome, miss. Please take a seat\nand I'll pour you a nice fizzy drink."
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_000_020": {
+    "speaker": "Avalon_Gang",
+    "text": "Oi! I 'eard a rumour what blokes could drink\nfor free at this 'ere pub—gimme a shot of\nthe good stuff and keep it comin', bird!"
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_000_030": {
+    "speaker": "Bartender",
+    "text": "I believe you've entered the\nwrong establishment, sir."
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_000_040": {
+    "speaker": "Avalon_Gang",
+    "text": "Think so, do ya? Well, you got bottles\nand I got a thirst, so what bloody\ndifference does it make?"
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_000_050": {
+    "speaker": "Bartender",
+    "text": "Unfortunately for you, sir,\nwe've a new bouncer on the job.\n...Ahem. ...AHEM."
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "La de dum de dum de... Wait, huh?\nYou're talking about ME!?"
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, this is AMAZING!\nCan I have another?"
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_010_010": {
+    "speaker": "Bartender",
+    "text": "A fizzy drink? Oh, posh. For that bold display,\nI will craft you something from our\nworld-famous mocktail menu!"
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_020_000": {
+    "speaker": "Bartender",
+    "text": "Hm. It appears I chose the wrong patron\nto appoint as our bouncer."
+  },
+  "SUB_W09_EVAR_AMYA_BAR_000_CUT_020_010": {
+    "speaker": "Bartender",
+    "text": "Now then, anyone who finds themselves\nin the wrong place, please do leave."
+  },
+  "SUB_W09_EVAR_AMYA_BAR_010_CUT_000_000": {
+    "speaker": "Bartender",
+    "text": "Ah, our lucky customer! I've a wager\nfor you, love: win a game against me,\nand I'll double your belongings.\nBut lose, and it all goes away.\fAlso, as this is your destiny,\nthere's no getting out of it."
+  },
+  "SUB_W09_EVAR_AMYA_BAR_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Why would I want to get out of that?\nI'm practically a lock to win!"
+  },
+  "SUB_W09_EVAR_AMYA_BAR_010_CUT_000_020": {
+    "speaker": "Bartender",
+    "text": "That confidence makes you my kind of customer.\nNow then! If the card's a heart, you win. \nBut if it's a joker, the game is mine.\nShall we begin, then?"
+  },
+  "SUB_W09_EVAR_AMYA_BAR_010_CUT_010_000": {
+    "speaker": "Bartender",
+    "text": "Seems luck is on your side today—\nand in a way, the heart on this card\nis my own as well. Now go on, love.\nTake your winnings."
+  },
+  "SUB_W09_EVAR_AMYA_BAR_010_CUT_010_010": {
+    "speaker": "Bartender",
+    "text": "Oh, now that's a right shame: you doubled\nup, but actually have nothing to double.\nWell, perhaps you'd take my heartfelt\nfeelings instead, love?"
+  },
+  "SUB_W09_EVAR_AMYA_BAR_010_CUT_020_000": {
+    "speaker": "Bartender",
+    "text": "Well, I see this fickle clown\nis no friend of yours."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_000_CUT_000_000": {
+    "speaker": "Museum_Director",
+    "text": "Welcome to the Royal Museum of Albion,\nyoung lady! To celebrate our bicentennial,\nwe are presenting commemorative gifts to\nour visitors. I do hope you will accept one."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Don't mind if I do, guy. Thanks."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_000_CUT_000_020": {
+    "speaker": "Museum_Director",
+    "text": "Also, our newest exhibit, 'The Hidden\nTreasures Beneath Avalon,' is scheduled\nto open in but a few days."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_000_CUT_000_030": {
+    "speaker": "Museum_Director",
+    "text": "Beneath the streets of Avalon lie not only\nlost treasures, but unimaginably terrifying\ncreatures just waiting to awaken from their\neternal slumber!"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_000_CUT_000_040": {
+    "speaker": "Museum_Director",
+    "text": "But those, of course, will not be part\nof the display. Regardless, please do\ncome back and see it. Pip pip!"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_010_CUT_000_000": {
+    "speaker": "Museum_Director",
+    "text": "Young lady! Young lady!"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Everything okay there, guy?"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_010_CUT_000_020": {
+    "speaker": "Museum_Director",
+    "text": "I almost cannot believe this myself,\nyoung lady, but you are this museum's\none BILLIONTH visitor!"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_010_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wowzers! I mean, I kinda do believe it,\nthough, 'cause I really AM that lucky."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_010_CUT_000_040": {
+    "speaker": "Museum_Director",
+    "text": "I'm chuffed as chips I lived to see this day,\nand must insist you accept this to mark this\nmost monumental of occasions."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_010_CUT_000_050": {
+    "speaker": "Museum_Director",
+    "text": "Might I also recommend you visit our\npermanent exhibit, 'Magic and Folklore'?\fIt contains numerous archaeological specimens\nfrom throughout the grand history of Albion,\nmany of which were said to have been preserved\nthrough powerful magic!"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_010_CUT_000_060": {
+    "speaker": "Museum_Director",
+    "text": "It's quite the spectacle, if I do say so myself.\nIndeed, upon seeing it, you might even begin to\nsuspect that I myself am a sorcerer of the most\narcane and powerful type!"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_010_CUT_000_070": {
+    "speaker": "Museum_Director",
+    "text": "But that, of course, would be folly,\nso please set worry aside and enjoy\nthe exhibit at your leisure."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_040": {
+    "speaker": "Museum_Director",
+    "text": "To you, our esteemed billionth visitor,\nI'm pleased to extend a special invitation\nto a behind-the-scenes tour of our newest\nexhibit, 'Magic and Folklore'!"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Blech! Sounds like a drag."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ooo! Sounds thrilling!"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_070": {
+    "speaker": "Museum_Director",
+    "text": "Then allow me to present\nyou with this."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_080": {
+    "speaker": "Museum_Director",
+    "text": "Ah, but I did have a reason for inviting\nyou into our back garden, so to speak:\nthis golden wand.\fI debated to the last whether or not\nto place it on display, but fearing it\nmay have been included by mistake,\nI chose to remove it from the exhibit."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "Probably the right call.\nI mean, it's a pretty funky wand."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_100": {
+    "speaker": "Museum_Director",
+    "text": "Ah, I suspected a lostling like yourself might\nrecognize its power! I beg of you to see that\nit finds its way to the good Lady Guinevere."
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, you KNEW I was a lostling?\nSo does that mean your whole\n'billionth customer' thing was—"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_120": {
+    "speaker": "Museum_Director",
+    "text": "Shhh! Speak not the remainder of that sentence,\nfor I feel certain neither of us wishes to see\nthe fine reputation of the Museum of Albion\ndragged through the gutter!"
+  },
+  "SUB_W09_EVAR_AMYA_MUSEUM_020_CUT_000_130": {
+    "speaker": "Museum_Director",
+    "text": "Now if you would be so kind,\ntake this with you as well."
+  },
+  "SUB_W09_EVAR_AMYA_POLICEOFFICE_000_CUT_000_000": {
+    "speaker": "Police_Inspector",
+    "text": "Oi! Yer one'a them lostlings, ain'tcha? Well,\nwe'll be needin' your 'elp with an investigation,\nlostling, so I'm gonna go ahead and nick one'a\nthem lovely little items ya gathered."
+  },
+  "SUB_W09_EVAR_AMYA_POLICEOFFICE_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "What!?"
+  },
+  "SUB_W09_EVAR_AMYA_POLICEOFFICE_000_CUT_000_020": {
+    "speaker": "Police_Inspector",
+    "text": "Turns out there's a criminal syndicate what's\nusing the connection 'tween lostlings and the\nroyal family to unjustly enrich 'emselves.\fSo we'll be needin' to take a butchers at this\n'ere item of yours, see if it's connected to\nsaid criminal syndicate. Now be a good lass\nand 'and it over, eh?"
+  },
+  "SUB_W09_EVAR_AMYA_POLICEOFFICE_000_CUT_000_030": {
+    "speaker": "Police_Inspector",
+    "text": "Oi, what's this, lass? You ain't got a damn\nthing on ya! Well you're a right crap of a\nlostling, ain'tcha? Run along, ya skiver!"
+  },
+  "SUB_W09_EVAR_AMYA_SHOPINGSTREET_000_CUT_000_000": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Greetings, madam, and welcome to Deeps. \nWhat can I help you with today? Footwear?\nA bag? A fine hat? Or perhaps we could\ntailor a new dress specially for you?"
+  },
+  "SUB_W09_EVAR_AMYA_SHOPINGSTREET_000_CUT_000_010": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Or perchance you seek something\nelse entirely, lostling?"
+  },
+  "SUB_W09_EVAR_AMYA_SHOPINGSTREET_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, good, you're on to the whole lostling\ndealie. Also, it sounds like you have\nsomething I actually WANT?"
+  },
+  "SUB_W09_EVAR_AMYA_SHOPINGSTREET_000_CUT_000_030": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Here at Deeps, we strive to meet our\ncustomers' every desire—and as such,\nI trust this item will more than satisfy.\fSaid item, however, is provided as-is,\nand solely at the customer's risk.\nCaveat emptor, madam!"
+  },
+  "SUB_W09_EVAR_AMYA_SHOPINGSTREET_000_CUT_010_000": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "We greatly look forward\nto serving you again."
+  },
+  "SUB_W09_EVAR_AMYA_SHOPINGSTREET_010_CUT_000_010": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Have you come in search of another\nitem that might satisfy your needs?"
+  },
+  "SUB_W09_EVAR_AMYA_SHOPINGSTREET_010_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Lemme fight that thing again!"
+  },
+  "SUB_W09_EVAR_AMYA_SHOPINGSTREET_100_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "So do you have any cool stuff\nthat I can only get here?"
+  },
+  "SUB_W09_EVAR_AMYA_SHOPINGSTREET_100_CUT_000_030": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Here at Deeps, we strive to meet our\ncustomers' every desire—and as such,\nI trust this item will more than satisfy.\fSaid item, however, is provided as-is,\nand solely at the customer's risk.\nCaveat emptor, madam!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_000_CUT_000_000": {
+    "speaker": "Rich_Noble",
+    "text": "In times of yore, 'twas the Knights of the\nRound that bolstered the kingdom of Albion.\nBut in this day and age, that mantle has\nfallen to we of the nobility."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "In my world, witches of every color support\nthe Arch Witch, and the Arch Witch supports\nwitches of every color in return.\fIn essence, we witches <i>are</i> Pulchra,\nso individual rank isn't a big deal."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_000_CUT_000_020": {
+    "speaker": "Rich_Noble",
+    "text": "Bosh! Flimshaw! Why, I cannot even imagine\nliving in a place so uncivilised that it lacks\nthe elites capable of handling the great\nburden my fellows and I bear.\fRubbish, I say! Unadulterated codswallop!\nPerhaps I shall educate you as to what\nexactly this great burden consists of!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_000_CUT_000_030": {
+    "speaker": "Rich_Noble",
+    "text": "Oh, good heavens, no!\nMy stars and garters!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yiiikes. Guess I've got no choice\nbut to step in here."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_000_CUT_010_000": {
+    "speaker": "Rich_Noble",
+    "text": "Your assistance was hardly necessary, madam.\nNevertheless, it would be unbecoming of a\nnobleman not to make a show of gratitude\nfor your efforts, so take this trinket."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_000_CUT_020_000": {
+    "speaker": "Rich_Noble",
+    "text": "Do you understand now the great\nburden of the nobility?"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_010_CUT_000_000": {
+    "speaker": "Rich_Noble",
+    "text": "Come closer, my dear lady! Yes, there we are.\nNow then, as you can see, I am a nobleman\nof the great kingdom of Albion, while you\nare but a hardscrabble lostling.\fTherefore, as befits the great burden of\nthe aristocracy, I am obligated to grant\nyou succour. However, if you prefer,\nI can also proffer greater hardship."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm pretty sure the result's the same \neither way, so why don't you pick?"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_010_CUT_000_020": {
+    "speaker": "Rich_Noble",
+    "text": "I thought you might say as much.\nAs you wish, then!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_010_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, that's about what I expected.\nAlso, I won, so make with the succour\nor...whatever."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_010_CUT_010_010": {
+    "speaker": "Rich_Noble",
+    "text": "On its way, my dear lady—for we in the\naristocracy are men of our word all!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_010_CUT_020_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Gah! I lost! Which means..."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_000_000": {
+    "speaker": "Rich_Noble",
+    "text": "As a nobleman of the great kingdom\nof Albion, I possess much in the way\nof titles and territory.\fThis necklace, however—a family heirloom we\nhave treasured for generations—means far more\nto me than any lands or peerage. But tragically,\nthe item has a bit of an issue."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "What, is it cursed or something?"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_000_020": {
+    "speaker": "Rich_Noble",
+    "text": "I'll be hanged! I'd no idea meager\nlostlings such as yourself were\ncapable of discerning such things!\fWell then, do you also possess the power to\ndispel such curses? For that is the burden\nwhich has been imposed upon my house!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Curses and magic aren't the same,\nbut I'm happy to give it a shot."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_000_040": {
+    "speaker": "Rich_Noble",
+    "text": "Then I beg of you to do\nexactly that, my good lady!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Were you able to remove the curse?"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_010_010": {
+    "speaker": "Rich_Noble",
+    "text": "I know not—which is why I have decided the best\nway to free my family from the necklace's curse\nis to part with it entirely. Take it and go,\nmy wretched lostling, for it is yours now!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "So you're giving me a cursed necklace?\nNot exactly thrilled about this, but hey,\nmaybe it was just meant to be."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_010_030": {
+    "speaker": "Rich_Noble",
+    "text": "You speak of fate? A most noble ideal!\nAre you yourself a noblewoman, perchance?"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "What? No! I'm a witch!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_020_010": {
+    "speaker": "Rich_Noble",
+    "text": "I know not—and yet, it seems my house\nhas no choice but to carry on and bear\nthe necklace's curse for all time.\fI thank you for your cooperation\nregardless, lostling, for I know\nyou gave your all to the effort."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_020_CUT_020_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sorry I couldn't be more help."
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_030_CUT_000_000": {
+    "speaker": "Rich_Noble",
+    "text": "I am a nobleman of the great kingdom of Albion—\nand you, young lady, are a lostling of but\nmeager renown. As such, pray consider this\nmy contribution to the kingdom. Huzzah!"
+  },
+  "SUB_W09_EVAR_AMYA_NOBLESQUARE_030_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I gratefully accept!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "So apparently there's a valuable item here,\nbut I have ZERO idea how I'm supposed to\nfigure out which one it is."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_010": {
+    "speaker": "Store_Customer",
+    "text": "Oh dear, just look at that slovenly waif come\nhere to shop. Some sort of foreigner, perhaps?\nPoor ragamuffin must not be aware this shop\ndeals only in goods of quality."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I think I've seen everything, and\nthe most valuable item has to be either\nthe rusty sword, the leather handbag,\nor the old gold ring."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_030": {
+    "speaker": "Store_Customer",
+    "text": "Oh my days, what sort of twisted sensibility\nis this!? Aside from the leather handbag,\nthe rest of those items are pure rubbish."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "So which should I pick...?"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Rusty sword it is!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_051": {
+    "speaker": "Store_Customer",
+    "text": "Just look how happy she is to take that useless\nold poker! Still, I suppose it's to the good that\nour country has such foreigners to happily tote\naway all these old bits and bobs."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Leather handbag it is!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_061": {
+    "speaker": "Store_Customer",
+    "text": "My giddy aunt! Did she overhear the\nsnarky comments I made to myself?\fWell, that's clearly my good deed for the day;\neven a slovenly foreigner shouldn't spend her\nhard-grubbed coin on rubbish, after all!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Old gold ring it is!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_000_CUT_000_071": {
+    "speaker": "Store_Customer",
+    "text": "Well, I'll be switched! Could it be\nthat dusty old ring is actually an\nitem of incredible value?\fNo. No, that couldn't possibly be.\nIt simply couldn't! ...Could it!?"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_010_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I think I've seen everything, and\nthe most valuable item has to be either\nthe musky cologne, the fresh-baked bread,\nor the taxidermy bird."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_010_CUT_000_030": {
+    "speaker": "Store_Customer",
+    "text": "Oh my days, what sort of twisted sensibility\nis this!? A bunch of creepy old junk and some\nbread? The poor girl clearly has horrible taste—\nand also must be rather peckish."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_010_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Musky cologne it is!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_010_CUT_000_051": {
+    "speaker": "Store_Customer",
+    "text": "Look how she delights in the smell of beasts.\nWhat sort of life must this wretched waif live?\nOh, but I shudder to imagine it... Ugh, and now\nI can't STOP imagining it!\fOh, won't someone help me purge\nthis image from my mind!?"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_010_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Fresh-baked bread it is!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_010_CUT_000_061": {
+    "speaker": "Store_Customer",
+    "text": "Well, Canuds <i>does</i> have an excellent bakery—\nand even if that beggared foreigner wasn't so\nclearly starving, I doubt she could have resisted\nthe delicious aroma of their oven-fresh bread."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_010_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Taxidermy bird it is!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_010_CUT_000_071": {
+    "speaker": "Store_Customer",
+    "text": "Well, that's money for old rope,\nand no mistake. That addled girl must\nsimply <i>adore</i> birds—I cannot imagine\nanother reason for such a bizarre choice."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_020_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I think I've seen everything, and\nthe most valuable item has to be either\nthe stinky fish eggs, the old gold ring,\nor those cookies."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_020_CUT_000_030": {
+    "speaker": "Store_Customer",
+    "text": "My days, what sort of twisted sensibility is\nthis? Oh, everyone loves a tin of biscuits to\nbe certain, but everything else is rubbish."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_020_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Stinky fish eggs it is!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_020_CUT_000_051": {
+    "speaker": "Store_Customer",
+    "text": "Why, that's madness! Why would Canuds\neven deign to sell something with such\nan indescribably foul stench!?"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_020_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Cookies it is!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_020_CUT_000_071": {
+    "speaker": "Store_Customer",
+    "text": "...A surprisingly reasonable choice for\na foreigner. Indeed, that's precisely\nthe sort of item a child of her ilk\n<i>should</i> be purchasing."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_030_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, I think I've seen everything, and\nthe most valuable item has to be either\nthe leather handbag, the muddy mushrooms,\nor that taxidermy bird."
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_030_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Muddy mushrooms it is!"
+  },
+  "SUB_W09_EVAR_AMYA_KANUDSDEPARTMENT_030_CUT_000_061": {
+    "speaker": "Store_Customer",
+    "text": "That sad, witless girl must think those\nmushrooms are somehow more natural\nbecause they're caked with mud!\fWhat a simple creature to fall for\na crass sales ploy such as that.\nOh, but it breaks my heart."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_000": {
+    "speaker": "Avalon_Writer",
+    "text": "To sing, or not to sing,\nthat is the question."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, how is that even a question?\nIf you want to sing, belt it out!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_020": {
+    "speaker": "Avalon_Writer",
+    "text": "Hark, and who is this soothsayer that appears\nbefore me? For while I know you not, I cannot\ndeny that your words ring most true.\fFor you see, my muse has now urged me forward\nin the belief that our next performance should\nbe one of song! Not that I will be doing the\nsinging, mind; we have performers for that."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_030": {
+    "speaker": "Avalon_Writer",
+    "text": "And who was that muse but you,\nO magnificent stranger!\fNow hasten to me, and quickly! We must finish\nthis song before the spark of creativity strikes\ntinder and burns away—and it is your divine\nduty to see this task through!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uhhh... Okay?"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_050": {
+    "speaker": "Avalon_Writer",
+    "text": "Are you ready, my muse?\nIf so, step forward!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_060": {
+    "speaker": "Avalon_Writer",
+    "text": "The sun comes up and morning calls.\nWithout you, I cannot go on."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Can you find your way back to me?"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "I should go to Giant Moch Forest\nand never look back!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_090": {
+    "speaker": "Avalon_Writer",
+    "text": "Fantastique! Truly, you are a messenger\nof the muses—now pray continue! "
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_100": {
+    "speaker": "Avalon_Writer",
+    "text": "The sun rises away,\nabove me so far."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "I must bear the dark\nas night falls."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "I gotta go home now because the\nvultures are, um...screeching."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_130": {
+    "speaker": "Avalon_Writer",
+    "text": "Ah. Ahhh! Wonderful!\nI stand at my zenith!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_140": {
+    "speaker": "Avalon_Writer",
+    "text": "I howl in the black!\nI'm fiercer than dawn!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "C'mere, Golden Baum. I'm gonna hop\non you so we can ride awaaaaaay!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_160": {
+    "speaker": "Ameya_Aisling",
+    "text": "And I cross the darkness alone."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_170": {
+    "speaker": "Avalon_Writer",
+    "text": "Oh! Ohhhh! Ohhhh..."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_000_180": {
+    "speaker": "Ameya_Aisling",
+    "text": "Holy wow! I didn't think he'd...\nYeah. Wow."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_010_000": {
+    "speaker": "Avalon_Writer",
+    "text": "I have completed a lyrical masterwork,\nand my next show is bound to be\na great success on every level.\fYou have discharged your divine duty\nthis day, my muse, and I am blessed\nto have met you!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_000_CUT_020_000": {
+    "speaker": "Avalon_Writer",
+    "text": "Mmm. I fear I may have let my excitement get\nthe better of me. But in the cold light of day,\nso to speak, perhaps I'll...skip the singing?\nMmm, yes. Definitely skipping the singing."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_000": {
+    "speaker": "Avalon_Writer",
+    "text": "Success demands ever greater success,\nfor the hunger of men knows no bounds.\nAlas, but how am I to satisfy both\nwith my next song?"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "You should just do whatever\nyou feel like doing!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_020": {
+    "speaker": "Avalon_Writer",
+    "text": "Oh, if only it were so simple, stranger!\nFor to reignite the dim flames of creativity,\nI am about to do no less than sell my very\nsoul to the devil!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_030": {
+    "speaker": "Avalon_Writer",
+    "text": "And from the way you abruptly appeared\nout of nowhere, I can only conclude that\nyou are, in fact, the devil's servant.\fSo inspire me, demon! And when my masterwork\nis complete, you may lay my still-beating\nheart at your master's cloven feet!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "I don't know WHERE to start with that.\nStill, I guess it wouldn't do any harm\nto play along for a little bit..."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_050": {
+    "speaker": "Avalon_Writer",
+    "text": "But soft! Can you hear it?\nThe beating of my heart?"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "The dream of that night haunts me.\nHaunts soul. Haunts heart. Haunts flesh."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "My soul is bouncing up and down\nlike a giant Maggot Ball!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_080": {
+    "speaker": "Avalon_Writer",
+    "text": "Ah, I would expect no less\nfrom the devil's thrall!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_090": {
+    "speaker": "Avalon_Writer",
+    "text": "For you know the truth:\nthey hold dominion over all."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "So I'll head toward that creepy\nGelatinous Matter over there."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Behold that accursed sky! Behold the\naccursed souls quivering in terror!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_120": {
+    "speaker": "Avalon_Writer",
+    "text": "Ah, why do the poisoned whispers of\na demon make my heart sing so!?"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_130": {
+    "speaker": "Avalon_Writer",
+    "text": "We return from whence we came,\ncome to greet the true king."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Joy as we cling to victory at the\nbattle's end! Emerge, O destiny!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "There's no shame in retreat. See the hope\nwithin the sunflowers abloom in our souls.\nWe won't part from this world."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_160": {
+    "speaker": "Avalon_Writer",
+    "text": "Heh. Ha ha. AAAH HA HA HA HA HA HA!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_000_170": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, cripes. Maybe the devil really\n<i>has</i> taken this fella's soul?"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_010_000": {
+    "speaker": "Avalon_Writer",
+    "text": "If this be purgatory, I've nothing\nto fear—for Virgil and Homer will\nsurely be here with me!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm pretty sure this is Avalon,\nactually. Also, are you okay?"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_010_020": {
+    "speaker": "Avalon_Writer",
+    "text": "Ah, 'tis the devil's grim attendant—\nand yet, I still feel my heart beat\nsafely within my chest!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_010_030": {
+    "speaker": "Avalon_Writer",
+    "text": "Well, I have penned a masterpiece that could\nstir even a demon's blackened soul, so I pray\nyou leave my heart intact until the performance\nis ended.\fI will, of course, pay the necessary\ninterest to extend our contract."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_010_040": {
+    "speaker": "Avalon_Writer",
+    "text": "But for now, we must prepare for rehearsal!\nThere are props to make! Arclights to spark!\nScrims to fly in! Costumes to sew!\nTHEATRE TO CREATE!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, look how much he's enjoying this!\nThat's nice to see."
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_010_060": {
+    "speaker": "Avalon_Writer",
+    "text": "My creation has failed. The devil has reneged on\nhis end of the bargain, and I am under no further\nobligation to yield my heart. So take this to your\nvile master instead, demon! Take it and go!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_020_000": {
+    "speaker": "Avalon_Writer",
+    "text": "As if I could merely sell my soul to\nthe devil for a masterpiece—this world\nis not so tepid as all that!\fBut when I think how close I came to losing\nthe favour of my muse... Well, never again!\nI must endure suffering and again confront\nthe blank page head-on!"
+  },
+  "SUB_W09_EVAR_AMYA_WORLDTHEATER_010_CUT_020_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "I guess this stuff isn't easy...\nWell, good luck!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_000_CUT_000_000": {
+    "speaker": "Avalon_Doorman",
+    "text": "Allo there, milady! Welcome to Sorries,\nAvalon's most out-RAGEOUS store!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh? What's so outrageous about it?"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_000_CUT_000_020": {
+    "speaker": "Avalon_Doorman",
+    "text": "Never 'eard of Sorries, eh, milady?\nWell, not to worry, not to worry—just\nstuff one of our famous eel pies in yer\nown pie hole and you'll be sorted!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_000_CUT_010_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I didn't think I'd have\nto fight over it!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_000_CUT_010_010": {
+    "speaker": "Avalon_Doorman",
+    "text": "Well that's what it takes to get yer\ngob on the freshest of eels, innit!?\fAnd 'ere you are, one of Sorries'\nworld-famous, fresh-baked eel pies!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_000_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Thanks!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_000_CUT_020_000": {
+    "speaker": "Avalon_Doorman",
+    "text": "Sorry ya didn't get yerself an\neel pie there. Do come again!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_010_000": {
+    "speaker": "Avalon_Doorman",
+    "text": "'Allo there, milady! Welcome to Sorries,\nAvalon's most out-RAGEOUS store!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_010_010": {
+    "speaker": "Avalon_Doorman",
+    "text": "Right then, 'ere ya go!\nOne Surprise-ade, on the 'ouse!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_010_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I guess I WAS thirsty. Thanks!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_010_030": {
+    "speaker": "Avalon_Doorman",
+    "text": "It's new, it's now, it's Surprise-ade!\nWhat 'appens after ya drink it down?\nOnly one way to find out!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "But I already finished it!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_010_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Huh? What was that explosion...?\nNooo! One of my items was destroyed!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_010_060": {
+    "speaker": "Avalon_Doorman",
+    "text": "SURPRISE, MILADY!"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_020_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "*gulp*"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_020_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "This is good! Like, surprisingly good!\nWhat's in this, anyway?"
+  },
+  "SUB_W09_EVAR_AMYA_SAULEYSSTORE_010_CUT_020_070": {
+    "speaker": "Avalon_Doorman",
+    "text": "It's a SURPRISE, milady! But trust me,\nyer better off not knowin'.\fNow 'ere—have another for the road!"
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_000_CUT_000_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Be welcome here, lostling. Take all the\ntime you like, or hurry on to your destiny—\nfor those who control their own means\nof conveyance control time itself."
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_000_CUT_000_010": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Your transport tickets are no mere scraps of\npaper—and this clock tower does so much more\nthan simply inform people of the time!\fYes, time and movement—these are the\nconstituent elements of our universe."
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_000_CUT_000_020": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "If one can control time and movement,\none's objectives can always be obtained!\fAnd with that, pray permit me to convert\nyour transport tickets into other tickets\nof equal and equivalent value. Cheers!"
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_000_CUT_010_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Begging your pardon, madam, but I don't\nbelieve you have enough tickets."
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_000_CUT_020_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Excellent, madam.\nThen these are for you."
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_END_000_CUT_000_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Do come again, madam! This clock tower\nis always open for lostlings."
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Be welcome here, lostling. Take all the\ntime you like, or hurry on to your destiny—\nfor those who control their own means\nof conveyance control time itself."
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_010": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Here I can convert your transport tickets into\nother tickets of equal and equivalent value.\nThe only condition is that you are restricted\nto but a single conversion per visit."
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_020": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "That said, you do not appear to possess\nthe tickets necessary for conversion."
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_030": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Should you wish to continue this transaction,\nyou'll need courage enough to part with either\none of your valuables or a fragment of your life.\nWould you care to do so now?"
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "No way."
+  },
+  "SUB_W09_EVAR_AMYA_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Sure, why not!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_000": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Another city slumbers beneath the\nmean streets of Avalon—and I'm\nnot speaking of the sewers!\fNo, I speak of a place <i>below</i>\nthe sewers, where the ruins\nof an ancient metropolis lie."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "And this is the entrance?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_020": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Quite so, quite so. But just who built\nthat city, and what is its relationship\nto present-day Avalon?\fOur investigation will illuminate\nthese truths and a good many more,\nshould such be of interest to you?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Of course it would!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "I literally could not care less."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_050": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "A shame young folks these days don't\ngive a ripe fig for archaeology..."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_060": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Wonderful! I've been waiting for someone\nlike you to show. I'll just leave the\nexploration of the ruins to you, then?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wow, real-life ruins... So exciting!\nNow which way should I go?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "I sense some relics over here!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "I sense some fiends over here!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, I got a relic! How cool!\nI should report back."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Looks like I could keep going,\nbut which way?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "I need to get back to the surface,\nbut all I've done so far is fight fiends.\nI haven't found anything fun at all!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Nope. Time to go back."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's keep going!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hmm... Could this be a relic?\nWell, I'd better head back."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_160": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Your help in surveying the ruins has been\ngreatly appreciated, and we would like\nto present you with this small token\nof our gratitude."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_170": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "I say, are you well!? Don't push yourself,\ndear lady; if someone were to die surveying\nthese ruins, we'd certainly lose our permit."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_180": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Ah, I see you've found a relic!\nPlease take this as your reward."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_190": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Well now, this doesn't fit the historical\nperiod of the underground metropolis at all.\nWherever did you come across this?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_200": {
+    "speaker": "Ameya_Aisling",
+    "text": "I kicked a fiend's butt in the ruins\nand it dropped it."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_000_CUT_000_210": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Fascinating! I wager the creature\nmust have brought it here from\nsome other place.\fWell, it's nothing to do with\nour research, so you are welcome\nto keep it if you like."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_000": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Another city slumbers beneath the\nmean streets of Avalon—and I'm\nnot speaking of the sewers!\fNo, I speak of a place <i>below</i>\nthe sewers, where the ruins\nof an ancient metropolis lie.\nHowever, there is an issue..."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let me guess—it's full of fiends?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_020": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "No, we've run out of funding."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh. Well, I don't know anything\nabout that, so byeeeeee!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_040": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Wait, please! I'm not asking for a charitable\ndonation, madam, but merely an investment!\nEven a small one would suffice—and I'll see\nto it you receive an appropriate return."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "And what would this\n'appropriate return' be?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_060": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Oh, I'm certain we'll turn something up.\nWe always do! It's just that... Well,\nthere are two problems, actually.\fFirst, some sod came along and nicked what we\ndug up, so we need to get that back. But more\nurgently, our digging permit is quite limited,\nand we can't afford to waste even a single day."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Is this stuff here what you guys use\nfor money? 'Cause I don't need it,\nso help yourself if you want."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_080": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "A thousand thank-yous, my dear lady!\nI'll see to it that you receive a fine\ncommendation from the Albion\nArchaeological Society!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "If your time's so limited, are you sure\nyou want to waste it on that?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_100": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Of course, of course! Oh, and as you are\nour generous benefactor in this endeavour,\nyou will determine how far down we go."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_110": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Now then! This is the entrance to the ruins,\nand there should still be many fine items\nto find here. What say you?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "This is far enough."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "Nope! Deeper!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_140": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "We have arrived at the centre of the ruins,\na location where we have found some truly\nrare items in the recent past."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_150": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "This is the deepest portion of the ruins.\nEven I have rarely ventured down so far,\nfor it is quite the perilous place. "
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_160": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "What ho! A relic! Here, my dear lady—\nthis should provide an appropriate\nreturn on your investment."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_170": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Oh, I can't wait until my latest paper\nis published in <i>Archaeology Today</i>—\nand it's all thanks to you!"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_180": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Heavens, but this place is dangerous!\nWe'd best give up and head home."
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_190": {
+    "speaker": "Ameya_Aisling",
+    "text": "Those last fiends must have dropped this.\nGuess I'll just hold on to it?"
+  },
+  "SUB_W09_EVAR_AMYA_UNDERCITY_010_CUT_000_200": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Heavens, but that was a proper nightmare!\nI don't think you're suited for investing,\nyoung lady—you take far too many risks.\nSo please just try to be satisfied with this."
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_000_CUT_000_000": {
+    "speaker": "Mech_Bard",
+    "text": "Ho there, young lady! You're a tourist, yes?\nIf so, I invite you to enjoy one of my\nmany poems about the kingdom of Albion!"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Wait, you're a robot.\nWhat's happening?"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_000_CUT_000_020": {
+    "speaker": "Mech_Bard",
+    "text": "As per your request, I shall now\nperform 'Ser Galahad and the Ice Sword.'"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, I didn't request that.\nDidn't request anything, actua—"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_000_CUT_000_040": {
+    "speaker": "Mech_Bard",
+    "text": "Brave and bold Ser Galahad\nHis golden hair a'flutter\nDid bravely reach the dragon's nest\nThat made all others shudder.\fHe lopped the vile beast's head clean off\nWith the Ice Sword in his hand\nAnd thus did the name of Galahad\nRing out throughout the land!"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_000_CUT_000_050": {
+    "speaker": "Mech_Bard",
+    "text": "I have just performed one of the\n60,419 poems in my repertoire and\nwill gratefully accept my fee."
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey! What did you just\nsnatch away from me!?"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Jokes on you, scammer!\nI don't HAVE anything!"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_000_CUT_000_080": {
+    "speaker": "Mech_Bard",
+    "text": "Then piss off and never come back!"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Having a machine recite poetry sure is wild.\nI wonder what it's going to perform?"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_010_CUT_000_020": {
+    "speaker": "Mech_Bard",
+    "text": "As per your request, I shall now\nperform 'Ser Galahad and the Ice Sword.'"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_010_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, fire away."
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_010_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Whoa, the scenery around me is changing.\nThe machine must be doing that."
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_010_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Uh, and it looks like I have to fight?"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_010_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, that machine thing\nisn't even here anymore!"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_010_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "What the heck just happened?"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_020_CUT_000_020": {
+    "speaker": "Mech_Bard",
+    "text": "As per your request, I shall now\nperform 'An Ode to Ser Lancelot.' "
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_020_CUT_000_040": {
+    "speaker": "Mech_Bard",
+    "text": "Ser Lancelot is Albion's pride\nSo brave and bold and true.\nWhenever the kingdom is in peril\nThe stout knight does come through.\fBut now, alas! A dragon comes!\nBreathing flames of fire!\nHe must fell the beast to save his king\nOr Albion shall expire!"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_030_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey! You! What the heck did\nyou do to me last time!?"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_030_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "I know exactly what you're planning,\nso stop it right now!"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_030_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "You're gonna try and make me\nfight again, aren't you!?"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_030_CUT_000_060": {
+    "speaker": "Mech_Bard",
+    "text": "Lancelot, lifting his spear arm high,\nSlew the dragon with a swing\nAnd leaving the fell beast on the ground\nRan on to save his king!"
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_030_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "...Nothing weird? NOTHING?\fOh. Sorry I accused you."
+  },
+  "SUB_W09_EVAR_AMYA_ROYALPALACE_030_CUT_000_080": {
+    "speaker": "Mech_Bard",
+    "text": "If you are satisfied, I will now\ngratefully accept my fee."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_PICKPOCKET_000_CUT_000_000": {
+    "speaker": "Sylvester",
+    "text": "Whoops! Sorry, love."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_PICKPOCKET_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey! All my stuff is gone!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_PICKPOCKET_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hold it right there, you!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_PICKPOCKET_010_CUT_000_020": {
+    "speaker": "Sylvester",
+    "text": "Get yer hands off me, ya nutter!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_PICKPOCKET_010_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "This is MY stuff, you weirdo!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_PICKPOCKET_010_CUT_000_040": {
+    "speaker": "Sylvester",
+    "text": "Fine, just take it!"
+  },
+  "SUB_W09_EVAR_AMYA_STATION_PICKPOCKET_000_CUT_000_000": {
+    "speaker": "Sylvester",
+    "text": "Look like you got a bit of rubbish\non your back there, mate. Yoink!"
+  },
+  "SUB_W09_EVAR_AMYA_STATION_PICKPOCKET_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "...Huh? Hey! All the items\nI collected are GONE!"
+  },
+  "SUB_W09_EVAR_AMYA_STATION_PICKPOCKET_010_CUT_000_000": {
+    "speaker": "Sylvester",
+    "text": "Tch! You need to work harder there,\nya skiver. Here, have this."
+  },
+  "SUB_W09_EVAR_AMYA_STATION_PICKPOCKET_010_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Who WAS that person?"
+  },
+  "SUB_W09_EVAR_AMYA_STATION_PICKPOCKET_010_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Oh, it must have been one of those\n'pickpocket' thieves I heard about!\nLucky I wasn't carrying anything\nI really cared about anyway."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hi there. Hey. Mind giving me back\nall the stuff you took from me?"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_000_010": {
+    "speaker": "Sylvester",
+    "text": "Go on, ya numpty!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, I'm actually a lostling, and I have to\ngather items of value to pay tribute to the\nking or they won't let me look for my cat."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_000_030": {
+    "speaker": "Sylvester",
+    "text": "So you're a lostling. Well, la-di-da!\nStill got no idea what yer on about,\nand I can't give back what I ain't got."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Fine then! I'll just TAKE 'em back!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_010_000": {
+    "speaker": "Sylvester",
+    "text": "This new lostling of yours is a\nright pain in the arse, Spear."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_010_010": {
+    "speaker": "Spear",
+    "text": "Caught in the act, eh, Sylvester?\nWell, too bad for you."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_010_020": {
+    "speaker": "Spear",
+    "text": "What we have here, miss, is a dodgy\npickpocket by the name of Sylvester.\fDeftest hands in all of Avalon, they say—\nand I swear it's true, because I've not\nonce caught her in the act.\fBut seems like you were able to make a\nproper go of it! That's some fine work,\nmiss. Some fine work indeed."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_010_030": {
+    "speaker": "Sylvester",
+    "text": "Bad look for the Avalon rozzers if they\nneed strangers to be doin' their jobs!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_010_040": {
+    "speaker": "Spear",
+    "text": "Keep wailing, Sylvester—we'll have\nyou singing like a bird for the rest\nof your crimes soon enough."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_010_050": {
+    "speaker": "Spear",
+    "text": "For now, the Yard will confiscate all your\nbelongings to use as evidence against you—\nafter which, you'll be expected to repay\nyour victims for every item you nicked."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_010_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "Phew! Now I shouldn't have to\nworry about thieves anymore."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_020_000": {
+    "speaker": "Sylvester",
+    "text": "You sure act smug for such a shabby\nlookin' foreigner, lostling!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_000_CUT_020_010": {
+    "speaker": "Sylvester",
+    "text": "But let's start over.\nHere's what you're owed from me."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_010_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "You're not getting away this time\nuntil I have all my stuff back!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_010_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "I don't know if you're playing dumb or have\nactually forgotten, but you made a lostling\nangry, and that's a HUUUGE mistake!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_010_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Fine then! Maybe a good spanking\nwill refresh your memory!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_010_CUT_010_000": {
+    "speaker": "Sylvester",
+    "text": "Bloody hell, lady! Looks like I pushed\nya too far and woke the beast."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_010_CUT_020_000": {
+    "speaker": "Sylvester",
+    "text": "Yer a right nutter, you are."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_020_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Out of jail already? What's this,\nyour little attempt at revenge?"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_020_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Talk about brazen! Although I'm a lostling,\nso I guess I can't blame you for being at\nleast a LITTLE curious about me."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_020_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "NO MERCY!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_020_CUT_010_000": {
+    "speaker": "Sylvester",
+    "text": "Don't go thinkin' you beat me,\nlostling. 'Cause ya didn't!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_020_CUT_010_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, what's the deal? You made this\nbig whoo-ha about catching Sylvester,\nbut she's already out of jail!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_020_CUT_010_020": {
+    "speaker": "Spear",
+    "text": "Yes, I'm afraid that's one of the\nmore shameful aspects of Avalon—\nor all of Albion itself, rather.\nAfraid I can't say more than that.\fStill, you'll be compensated for your\nlosses, so you'll just have to try and\nbe satisfied with that."
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_020_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "Well, this is your world, so I won't mess\nwith your business. But don't expect me to\ntake it next time it blows up in my face!"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_020_CUT_010_040": {
+    "speaker": "Spear",
+    "text": "......"
+  },
+  "SUB_W09_EVAR_AMYA_PICKPOCKET_020_CUT_020_000": {
+    "speaker": "Sylvester",
+    "text": "Oi! Looks like ol' Sylvester got\nthe better of you this time, numpty!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_000_000": {
+    "speaker": "Market_Master",
+    "text": "Here at the royal market, we have everything\nunder the sun. Now all your shopping needs\ncan be handled at one convenient stop!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_000_010": {
+    "speaker": "Market_Master",
+    "text": "And for those who aren't looking to shop,\nour famous Punch-Up Club is open as well—\nand we're accepting all comers!\fIf you've faith in your fists, come give us\nyour best; our trained fighters stand ready\nto trade blows with all worthy adversaries!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_000_020": {
+    "speaker": "Market_Master",
+    "text": "I give you the pirate Silver,\nConqueror of the Seven Seas!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "*sigh* Looks like I'll have to enroll\nin this so-called club...\fHey! Over here! This lostling will\naccept your challenge!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_000_040": {
+    "speaker": "Market_Master",
+    "text": "My, my! A bold young challenger has appeared!\nSeems they call this one 'The Lostling.'\nJust take a care you don't get lost\non your way to the ring, lass!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_010_000": {
+    "speaker": "Market_Master",
+    "text": "Unbelievable! The Conqueror of the\nSeven Seas has fallen to The Lostling!\nLet's give them a proper hand for putting\nup such a brave fight, lads.\fOh, and you get a participation award\nthere, mate, so don't be disappointed."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_010_010": {
+    "speaker": "Market_Master",
+    "text": "As for The Lostling, her day has just begun!\nNow behold your next challenger:\nthe Warrior-hero Boudica!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_010_020": {
+    "speaker": "Market_Master",
+    "text": "Well, lass? What do you say?\nAudience is frothing to see a\nproper fight between you two."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_010_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "I'm tired now, so nah."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_010_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Let's do it."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_010_050": {
+    "speaker": "Market_Master",
+    "text": "Fine, then! Take your winner's award\nand get the hell out of here!\fOi, did you hear that, lads!? Little lady\nlostling wants to find her mummy and go home!\nLet her have it! I want boos to rain down on\nher from now to St. Swithin's Day!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_010_060": {
+    "speaker": "Market_Master",
+    "text": "And our winner is the pirate Silver, Conqueror\nof the Seven Seas! Let's give The Lostling a big\nhand for fighting so bravely, eh, lads?\fOh, and you get a participation award\nthere, lass, so don't be disappointed."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_020_000": {
+    "speaker": "Market_Master",
+    "text": "Blimey, I can't believe it! The Warrior-\nhero Boudica has fallen to The Lostling!\fLet's give Boudica a proper hand for almost\nturning that one around, eh, lads? Ah, but\nlife is cruel, so you'll only be walking\naway with a participation award."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_020_010": {
+    "speaker": "Market_Master",
+    "text": "Right then, ladies and gents!\nWho wants to see The Lostling\nput up her mitts one more time?"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_020_020": {
+    "speaker": "Market_Master",
+    "text": "Well then, consider yourselves a bunch of\nlucky jammie dodgers, because the market\nis about to hold a very special event!\fYou're up for this, eh, Lostling?"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_020_050": {
+    "speaker": "Market_Master",
+    "text": "That's what I wanted to hear!\nNow prepare to battle the champion\nof the Royal Market Punch-Up Club..."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_020_060": {
+    "speaker": "Market_Master",
+    "text": "Me!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_020_070": {
+    "speaker": "Market_Master",
+    "text": "And our winner is the Warrior-hero Boudica!\nLet's give The Lostling a big hand for\nputting up a right brave scrap, eh, lads?\fAh, but life is cruel, so you'll only\nwalk away with a participation award."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_030_000": {
+    "speaker": "Market_Master",
+    "text": "Blimey, but this one's strong as anything!\nTruly a worthy champion, wouldn't you say, lads?\nNow let's blow the roof off the building for\nthe newest champion of the Royal Market!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_030_010": {
+    "speaker": "Market_Master",
+    "text": "Here's your winner's award, lass."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_030_020": {
+    "speaker": "Market_Master",
+    "text": "Come see us again sometimes, eh?\nHaving the champion around always gets\npeople excited for the Punch-Up Club!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_000_CUT_030_030": {
+    "speaker": "Market_Master",
+    "text": "The Lostling put up quite the fight there,\neh, lads? Let's all give her a big\nhand for all her hard work!\fAh, but life is cruel, so you'll only walk\naway with a participation award. Hope you\ncan avoid getting lost long enough to\nfind us for a rematch! Bwa ha ha!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_000_000": {
+    "speaker": "Market_Master",
+    "text": "Welcome to the Royal Market,\nAvalon's premier shopping destination.\nPlease enjoy all we have to offer."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_000_020": {
+    "speaker": "Market_Master",
+    "text": "I give you now Avalon's most\nhated man...The Yob!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_000_040": {
+    "speaker": "Market_Master",
+    "text": "But a brave challenger has appeared,\none all of us know as...The Lostling!\nHopefully she can shop without losing\nher way—or pay us even if she does! Ha!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_010_000": {
+    "speaker": "Market_Master",
+    "text": "It's over, lads! It's all over!\nThe hated Yob has been defeated\nby The Lass Who Gets Lost in Shops!\fNow let's all jeer the Yob, eh?\nNo participation award for you, Yobber!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_010_010": {
+    "speaker": "Market_Master",
+    "text": "Right then, Lass Who Gets Lost in Shops!\nYou may have won a single morning match,\nbut another challenge awaits you:\nRodrigo the Veteran Hero!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_010_020": {
+    "speaker": "Market_Master",
+    "text": "Well, lass? What do you say?\nAudience is frothing to see a\nproper fight between you two."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_010_050": {
+    "speaker": "Market_Master",
+    "text": "Fine, then! Take your winner's award\nand get the hell out of here!\fOi, did you hear that, lads!? The Lass Who\nGets Lost in Shops has lost her bloody nerve!\nLet her have it! I want boos to rain down\non her from now to St. Swithin's Day!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_010_060": {
+    "speaker": "Market_Master",
+    "text": "And our winner is the Yob! The blasted Yob!\nLet's all boo the hell out of The Lass Who\nGets Lost in Shops for dashing our hopes!\fBlimey, I'm so cheesed off, I'm not\neven giving you a participation award!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_020_000": {
+    "speaker": "Market_Master",
+    "text": "Unbelievable! Rodrigo the Veteran Hero\nhas fallen to The Lass Who Gets\nLost in Shops!\fAh, but life is cruel, so Rodrigo only\nwalks away with a participation award."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_020_010": {
+    "speaker": "Market_Master",
+    "text": "Right then, ladies and gents! Who wants\nto see The Lass Who Gets Lost in Shops\nput up her mitts one more time?"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_020_020": {
+    "speaker": "Market_Master",
+    "text": "Well then, consider yourselves a bunch of\nlucky jammie dodgers, because the market\nis about to hold a very special event!\fYou're up for this, eh,\nLass Who Gets Lost in Shops?"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_020_070": {
+    "speaker": "Market_Master",
+    "text": "And our winner is Rodrigo the Veteran Hero!\nLet's give The Lass Who Gets Lost in Shops\na hand for putting up a right brave scrap.\fAh, but life is cruel, so you'll only\nwalk away with a participation award."
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_030_000": {
+    "speaker": "Market_Master",
+    "text": "Blimey, but this one's strong as anything!\nTruly a worthy champion, wouldn't you say, lads?\nNow let's blow the roof off the building for\nthe newest champion of the Royal Market!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_010_CUT_030_030": {
+    "speaker": "Market_Master",
+    "text": "The Lass Who Gets Lost in Shops put up quite\nthe fight there, eh, lads? Let's all give her\na big hand for all her hard work!\fAh, but life is cruel, so you'll only walk\naway with a participation award. Hope you\ncan avoid getting lost long enough to\nfind us for a rematch! Bwa ha ha!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_020_CUT_000_000": {
+    "speaker": "Market_Master",
+    "text": "Good to see you, champ!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_020_CUT_000_010": {
+    "speaker": "Market_Master",
+    "text": "Now this may seem a touch abrupt...\nbut it's rematch time! You and me!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_020_CUT_000_020": {
+    "speaker": "Market_Master",
+    "text": "Oi! I've done it! You're brown bread,\nand I've reclaimed the title!\fThanks for a proper fight...\n<i>former</i> champ! Bwa ha!"
+  },
+  "SUB_W09_EVAR_AMYA_MARKET_020_CUT_000_030": {
+    "speaker": "Market_Master",
+    "text": "Blimey, she cuffed me around again!\nI gotta get back to training..."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_000": {
+    "speaker": "Avalon_Nurse",
+    "text": "This is a hospital, which means\nonly two types of people come here:\nthe sick and the injured."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_010": {
+    "speaker": "Avalon_Nurse",
+    "text": "As you clearly are not injured,\none can only assume you are sick.\nWe shall operate straightaway."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Actually, I'm totally fine."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_030": {
+    "speaker": "Avalon_Nurse",
+    "text": "Exactly what a sick person <i>would</i> say.\nBecause of the brain lesions, you see."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey, there's nothing wrong with my brain!\n...Well, my teachers might say otherwise,\nbut there's sure as heck no lesions!"
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_050": {
+    "speaker": "Avalon_Nurse",
+    "text": "Do just lie back and keep calm, dear.\nYou'll barely feel a poke, and we'll\nhave you out of here lickity-split!"
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "I SAID, I'm FINE!"
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_070": {
+    "speaker": "Avalon_Nurse",
+    "text": "Aaand...done! Yes, it seems this\noperation was a smashing success.\nI'll prepare your discharge papers."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "What the heck just happened to me? \nI can't remember anything, yet I feel...\nstrangely great? No, I feel AMAZING!\nBetter than I've felt in forever!"
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_090": {
+    "speaker": "Avalon_Nurse",
+    "text": "Oh dear. It appears you're wounded.\nWe'll need to treat that at once."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_000_CUT_000_100": {
+    "speaker": "Avalon_Nurse",
+    "text": "Do take care, now!"
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_010_CUT_000_010": {
+    "speaker": "Avalon_Nurse",
+    "text": "As you do not appear to be either,\nwe will gladly accept a small\ndonation of your blood."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_010_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "You keep your sharpy bits\naway from me, freak!"
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_010_CUT_000_030": {
+    "speaker": "Avalon_Nurse",
+    "text": "Do just lie back and keep calm, dear.\nYou'll barely feel a poke, and we'll\nhave you out of here lickity-split!"
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_010_CUT_000_040": {
+    "speaker": "Avalon_Nurse",
+    "text": "We thank you for your\nprecious plasma."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_020_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Excuse me, I'd like to know how\nto get to the cemetery in back."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_020_CUT_000_020": {
+    "speaker": "Avalon_Nurse",
+    "text": "The only ones with business in a cemetery\nare corpses. We have a hospital right here\nfor the living, which you most clearly are."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_020_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "But a dead body COULD go back there?\nEr, I mean, how exactly do people who die\nat this hospital get to the cemetery?\nI mean, they don't walk, right? Ha ha!"
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_020_CUT_000_040": {
+    "speaker": "Avalon_Nurse",
+    "text": "After being taken to the morgue,\nthey're carted off to the cemetery.\nBut you're too young to have to\nworry about things like that."
+  },
+  "SUB_W09_EVAR_AMYA_HOSPITAL_020_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Ah, the morgue! And no one's around...\nSo if I just pretend to be dead for a\nwhile, someone will come along and\nhaul my corpse off to the cemetery!"
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "Okay, I made it into the cemetery!\nNow to find something that's connected\nto those triangular thingies..."
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Hey there. You know of any graves that\nare related to this triangle pattern?"
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_020": {
+    "speaker": "Grave_Digger",
+    "text": "So you're the errand girl, eh?\nJust look for this seal."
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_030": {
+    "speaker": "Ameya_Aisling",
+    "text": "That seal, got it. Thanks."
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_040": {
+    "speaker": "Ameya_Aisling",
+    "text": "Here it is!"
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "So I just slot the pieces I've\ncollected right into here?"
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_060": {
+    "speaker": "Ameya_Aisling",
+    "text": "There! Done!"
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_070": {
+    "speaker": "Ameya_Aisling",
+    "text": "Do you really want to give up?"
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_080": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yeah, this is a waste of time."
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_090": {
+    "speaker": "Ameya_Aisling",
+    "text": "No! Let's try again."
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Clearly I won't be getting this\nout of here so easily."
+  },
+  "SUB_W09_EVAR_AMYA_CEMETERY_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "Is this what Inspector Spear needed?\nGuess I'll bring it over to him."
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_000_CUT_000_000": {
+    "speaker": "Avalon_Gang",
+    "text": "Come all this way just to give us a donation,\ndidja? 'Cuz I can't imagine why else you'd \ncome all the soddin' way out 'ere."
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Yup. Here you go."
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "What are you talking about?"
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_000_CUT_000_030": {
+    "speaker": "Avalon_Gang",
+    "text": "Well, well, boys! Looks like we got\nus a right philanthropist 'ere!"
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_000_CUT_000_040": {
+    "speaker": "Avalon_Gang",
+    "text": "Got ourselves a right wazzock 'ere,\nain't we? Time to teach this bird\n'ow things work in this country!"
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_000_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "The only wazzock here is YOU!\nUh, that IS a bad thing, right?"
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_100_CUT_000_000": {
+    "speaker": "Avalon_Gang",
+    "text": "Come all this way just to give us a donation,\ndidja? 'Cuz I can't imagine why else you'd \ncome all the soddin' way out 'ere."
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_100_CUT_000_030": {
+    "speaker": "Avalon_Gang",
+    "text": "Oi, one ha'penny. One round ha'penny\nto awaken me inner strength!"
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_100_CUT_000_040": {
+    "speaker": "Avalon_Gang",
+    "text": "What, you penniless?"
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_100_CUT_000_050": {
+    "speaker": "Ameya_Aisling",
+    "text": "Did this triangular thingie turn them\ninto werewolves? Wow. Better take it\nwith me just to be safe."
+  },
+  "SUB_W09_EVAR_AMYA_NEKO_000_CUT_000_000": {
+    "speaker": "Ameya_Aisling",
+    "text": "I think my cat is up there!"
+  },
+  "SUB_W09_EVAR_AMYA_NEKO_000_CUT_000_010": {
+    "speaker": "Ameya_Aisling",
+    "text": "Coach Ticket: Cat"
+  },
+  "SUB_W09_EVAR_AMYA_NEKO_000_CUT_000_020": {
+    "speaker": "Ameya_Aisling",
+    "text": "Give me a minute."
+  },
+  "SUB_W09_EVAR_AMYA_OPENING_310_CUT_000_121": {
+    "speaker": "Spear",
+    "text": "Make for Avalon Yard.\nDon't worry; this won't end\nwith you in a jail cell."
+  },
+  "SUB_W09_EVAR_AMYA_JACKSTREET_000_CUT_010_000": {
+    "speaker": "Avalon_Gang",
+    "text": "Oi, how is it ya got nothin' on ya!?\nThanks for wastin' me time!"
+  }
+}

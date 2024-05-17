@@ -1,0 +1,794 @@
+{
+  "W18_LTXT_COMM_PRESIDENTBLD_000_TITLE": {
+    "speaker": "UI",
+    "text": "Presidential Grounds"
+  },
+  "W18_LTXT_COMM_PRESIDENTBLD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The tallest building in the country and home to the presidential grounds."
+  },
+  "W18_LTXT_COMM_CAPITOL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Capitol"
+  },
+  "W18_LTXT_COMM_CAPITOL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The building where the country's congress meets."
+  },
+  "W18_LTXT_COMM_CONTROL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Inspectorate"
+  },
+  "W18_LTXT_COMM_CONTROL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This building is where many inspectors reside. Two have been chosen to represent each nation in the Union States."
+  },
+  "W18_LTXT_COMM_POLICEHQ_000_TITLE": {
+    "speaker": "UI",
+    "text": "Capitol City Police Department Headquarters"
+  },
+  "W18_LTXT_COMM_POLICEHQ_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The building that houses the CCPD."
+  },
+  "W18_LTXT_COMM_LUXURYHOTEL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Grand Capitol Hotel"
+  },
+  "W18_LTXT_COMM_LUXURYHOTEL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A luxury hotel where VIPs stay and press conferences are occasionally held. The trees growing in the lobby are considered its symbol."
+  },
+  "W18_LTXT_COMM_CONFERENCECTR_000_TITLE": {
+    "speaker": "UI",
+    "text": "Culture Center"
+  },
+  "W18_LTXT_COMM_CONFERENCECTR_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A multipurpose hall used primarily for events and seminars, but also as a polling place during presidential elections."
+  },
+  "W18_LTXT_COMM_OFFICE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Metropolitan Building"
+  },
+  "W18_LTXT_COMM_OFFICE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A giant office building used by companies large and small."
+  },
+  "W18_LTXT_COMM_LAB_000_TITLE": {
+    "speaker": "UI",
+    "text": "National Research Institute"
+  },
+  "W18_LTXT_COMM_LAB_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A facility where the Union States conducts research across various fields. Some of its projects are known by the populace, but these are only the tip of the iceberg."
+  },
+  "W18_LTXT_COMM_APARTMENT_000_TITLE": {
+    "speaker": "UI",
+    "text": "City Tower"
+  },
+  "W18_LTXT_COMM_APARTMENT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A residential apartment complex for citizens of the Union States. All manner of people live here, from students to office workers."
+  },
+  "W18_LTXT_COMM_UNDERSQUARE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Metro Square"
+  },
+  "W18_LTXT_COMM_UNDERSQUARE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A commercial complex that is part of an underground train station. Popular with young people and families, the stage at its center is often used for small-scale events."
+  },
+  "W18_LTXT_COMM_SUBWAYSTA_000_TITLE": {
+    "speaker": "UI",
+    "text": "Central Station"
+  },
+  "W18_LTXT_COMM_SUBWAYSTA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A station on the underground train network that connects various cities. It's quite busy."
+  },
+  "W18_GIMK_COMM_LIFTTOPPOS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the Upper Layer"
+  },
+  "W18_GIMK_COMM_LIFTTOPPOS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An elevator that leads to the Upper Layer, where luxury hotels and official state buildings can be found."
+  },
+  "W18_GIMK_COMM_LIFTTOPPOS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the Upper Layer"
+  },
+  "W18_GIMK_COMM_LIFTTOPPOS_010_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the Upper Layer"
+  },
+  "W18_GIMK_COMM_LIFTTOPPOS_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This elevator technically leads to the Upper Layer, but it's currently locked down by security personnel."
+  },
+  "W18_GIMK_COMM_LIFTHIGHERPOS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the Presidential Grounds"
+  },
+  "W18_GIMK_COMM_LIFTHIGHERPOS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An elevator leading directly to the presidential grounds. You can't use it without an advance appointment."
+  },
+  "W18_GIMK_COMM_LIFTHIGHERPOS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Visit the Presidential Grounds"
+  },
+  "W18_GIMK_COMM_LIFTHIGHERPOS_010_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the Presidential Grounds"
+  },
+  "W18_GIMK_COMM_LIFTHIGHERPOS_010_DETAIL": {
+    "speaker": "UI",
+    "text": "An elevator leading directly to the presidential grounds. You don't have the authority to use it."
+  },
+  "W18_GIMK_COMM_LIFTMIDDLEPOS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the General Layer"
+  },
+  "W18_GIMK_COMM_LIFTMIDDLEPOS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An elevator that leads to the General Layer, where offices and residential buildings can be found. Many people live here."
+  },
+  "W18_GIMK_COMM_LIFTMIDDLEPOS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the General Layer"
+  },
+  "W18_GIMK_COMM_LIFTLOWERUPPOS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the Upper Layer"
+  },
+  "W18_GIMK_COMM_LIFTLOWERUPPOS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An elevator that leads to the Upper Layer, where luxury hotels and official state buildings can be found."
+  },
+  "W18_GIMK_COMM_LIFTLOWERUPPOS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ascend to the Upper Layer"
+  },
+  "W18_GIMK_COMM_LIFTLOWERDWNPOS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the Lower Layer"
+  },
+  "W18_GIMK_COMM_LIFTLOWERDWNPOS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An elevator that leads to the Lower Layer. This is where the subway is located, as well as shops for the basics of life."
+  },
+  "W18_GIMK_COMM_LIFTLOWERDWNPOS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Descend to the Lower Layer"
+  },
+  "W18_GIMK_COMM_LIFTBOTTOMPOS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the General Layer"
+  },
+  "W18_GIMK_COMM_LIFTBOTTOMPOS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An elevator that leads to the General Layer, where office and residential buildings can be found. Many people live here."
+  },
+  "W18_GIMK_COMM_LIFTBOTTOMPOS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ascend to the General Layer"
+  },
+  "W18_GIMK_COMM_LIFTBOTTOMPOS_010_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the General Layer"
+  },
+  "W18_GIMK_COMM_LIFTBOTTOMPOS_010_DETAIL": {
+    "speaker": "UI",
+    "text": "An elevator that would ordinarily take you up.  It's currently undergoing maintenance."
+  },
+  "W18_WRLD_COMM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Below the Earth"
+  },
+  "W18_WRLD_COMM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You find yourself in a city of some kind. You certainly could have arrived in this world from a less-suspicious place, but fortunately, no one seemed to notice your arrival."
+  },
+  "W18_EVAR_COMM_FIRST_ATTACK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Elevator to the Upper Layer"
+  },
+  "W18_EVAR_COMM_FIRST_ATTACK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Perhaps this elevator will take you to the surface?"
+  },
+  "W18_EVAR_COMM_FIRST_ATTACK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Elevator"
+  },
+  "W18_EVAR_COMM_TO_CATHEDRAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Manhole"
+  },
+  "W18_EVAR_COMM_TO_CATHEDRAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This manhole leads out of this world."
+  },
+  "W18_EVAR_COMM_TO_CATHEDRAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Manhole"
+  },
+  "W18_EVAR_COMM_ABOUT_HERE_000_TITLE": {
+    "speaker": "UI",
+    "text": "'That'"
+  },
+  "W18_EVAR_COMM_ABOUT_HERE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Talk to the woman you met in the elevator about the strange phenomenon that occurred there."
+  },
+  "W18_EVAR_COMM_ABOUT_HERE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to the Woman"
+  },
+  "W18_EVAR_COMM_RESERCHER_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Researcher's Request"
+  },
+  "W18_EVAR_COMM_RESERCHER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A scientist at the National Research Institute has a request for you."
+  },
+  "W18_EVAR_COMM_RESERCHER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Institute"
+  },
+  "W18_EVAR_COMM_LOST_CRYSTAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Stolen Crystal"
+  },
+  "W18_EVAR_COMM_LOST_CRYSTAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a lot of commotion around the Capitol. Ask law enforcement what's going on."
+  },
+  "W18_EVAR_COMM_LOST_CRYSTAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to the Police Officer"
+  },
+  "W18_EVAR_COMM_LOST_CRYSTAL_010_TITLE": {
+    "speaker": "UI",
+    "text": "Pursue the Criminal"
+  },
+  "W18_EVAR_COMM_LOST_CRYSTAL_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You discover the person believed to have stolen that crystal from the Capitol. This is your chance to recover it."
+  },
+  "W18_EVAR_COMM_LOST_CRYSTAL_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Call to the Man"
+  },
+  "W18_EVAR_COMM_FORUM_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Debate"
+  },
+  "W18_EVAR_COMM_FORUM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Presidential candidates are currently debating here. You can go inside since you're with a member of the press."
+  },
+  "W18_EVAR_COMM_FORUM_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go Inside"
+  },
+  "W18_EVAR_COMM_BATTLE_SIM_000_TITLE": {
+    "speaker": "UI",
+    "text": "Anti-Alien Battle Simulator"
+  },
+  "W18_EVAR_COMM_BATTLE_SIM_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can ask the researcher to let you use the simulator."
+  },
+  "W18_EVAR_COMM_BATTLE_SIM_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to the Researcher"
+  },
+  "W18_EVAR_COMM_VIP_HOTEL_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Hotel for VIPs"
+  },
+  "W18_EVAR_COMM_VIP_HOTEL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Grand Capitol Hotel is supposedly very fancy."
+  },
+  "W18_EVAR_COMM_VIP_HOTEL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Lobby"
+  },
+  "W18_EVAR_COMM_SINGER_000_TITLE": {
+    "speaker": "UI",
+    "text": "A New Singer's Debut"
+  },
+  "W18_EVAR_COMM_SINGER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is an event to commemorate the major label debut of a hot new artist. You should check it out."
+  },
+  "W18_EVAR_COMM_SINGER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Look Inside"
+  },
+  "W18_EVAR_COMM_ELEMENT_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Dangerous New Energy Source"
+  },
+  "W18_EVAR_COMM_ELEMENT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a commotion going on at the National Research Institute. What could have happened?"
+  },
+  "W18_EVAR_COMM_ELEMENT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Look in on the Research"
+  },
+  "W18_EVAR_COMM_ELEMENT_010_TITLE": {
+    "speaker": "UI",
+    "text": "Disable the Interference Device"
+  },
+  "W18_EVAR_COMM_ELEMENT_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The new energy source is currently out of control. Disable the interference device causing all the trouble."
+  },
+  "W18_EVAR_COMM_ELEMENT_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Try Disabling the Interference Device"
+  },
+  "W18_EVAR_COMM_DISCUSSION_000_TITLE": {
+    "speaker": "UI",
+    "text": "Youth at the Cafe "
+  },
+  "W18_EVAR_COMM_DISCUSSION_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There's a cafe inside the Metropolitan Building."
+  },
+  "W18_EVAR_COMM_DISCUSSION_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cafe "
+  },
+  "W18_EVAR_COMM_CATS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cats at the Inspectorate"
+  },
+  "W18_EVAR_COMM_CATS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There are many cats in front of the Inspectorate, as well as a woman."
+  },
+  "W18_EVAR_COMM_CATS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to the Woman"
+  },
+  "W18_EVAR_COMM_RESEARCH_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Strange Person"
+  },
+  "W18_EVAR_COMM_RESEARCH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There's someone strange in front of the station."
+  },
+  "W18_EVAR_COMM_RESEARCH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Strange Person"
+  },
+  "W18_EVAR_COMM_ARTIST_000_TITLE": {
+    "speaker": "UI",
+    "text": "Meeting at the Cafe"
+  },
+  "W18_EVAR_COMM_ARTIST_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Lita wants to visit the cafe in the Grand Capitol Hotel."
+  },
+  "W18_EVAR_COMM_ARTIST_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Join Lita"
+  },
+  "W18_EVAR_COMM_MEETING_000_TITLE": {
+    "speaker": "UI",
+    "text": "Campaign Rally"
+  },
+  "W18_EVAR_COMM_MEETING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Bailey is holding a rally to support his candidacy."
+  },
+  "W18_EVAR_COMM_MEETING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Observe the Rally"
+  },
+  "W18_EVAR_COMM_MEETING_010_TITLE": {
+    "speaker": "UI",
+    "text": "Pursuit"
+  },
+  "W18_EVAR_COMM_MEETING_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This looks to be the person who abducted Lita at the campaign rally."
+  },
+  "W18_EVAR_COMM_MEETING_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to the Man"
+  },
+  "W18_EVAR_COMM_MEETING_040_TITLE": {
+    "speaker": "UI",
+    "text": "After the Campaign Rally"
+  },
+  "W18_EVAR_COMM_MEETING_040_DETAIL": {
+    "speaker": "UI",
+    "text": "The campaign rally seems to have reached its climax."
+  },
+  "W18_EVAR_COMM_MEETING_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Take a Look"
+  },
+  "W18_EVAR_COMM_MELANCHOLY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Jessica Feeling Glum"
+  },
+  "W18_EVAR_COMM_MELANCHOLY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Jessica is standing in front of the Inspectorate."
+  },
+  "W18_EVAR_COMM_MELANCHOLY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Her"
+  },
+  "W18_EVAR_COMM_MELANCHOLY_010_TITLE": {
+    "speaker": "UI",
+    "text": "The Head of Security"
+  },
+  "W18_EVAR_COMM_MELANCHOLY_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Lita has come to a halt between the buildings. What's on her mind?"
+  },
+  "W18_EVAR_COMM_MELANCHOLY_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Lita"
+  },
+  "W18_EVAR_COMM_ELECTION_000_TITLE": {
+    "speaker": "UI",
+    "text": "Polling Place"
+  },
+  "W18_EVAR_COMM_ELECTION_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The culture center is used as a polling place for this district of the city."
+  },
+  "W18_EVAR_COMM_ELECTION_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Look Inside"
+  },
+  "W18_EVAR_COMM_ELECTION_010_TITLE": {
+    "speaker": "UI",
+    "text": "A Suspicious Box"
+  },
+  "W18_EVAR_COMM_ELECTION_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This person carried a suspicious cardboard box away from the polling place."
+  },
+  "W18_EVAR_COMM_ELECTION_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to the Suspicious Individual"
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_A_000_TITLE": {
+    "speaker": "UI",
+    "text": "An Unexpected Request"
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_A_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Your client is supposedly in the Inspectorate."
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_A_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Client"
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_B_000_TITLE": {
+    "speaker": "UI",
+    "text": "An Unexpected Request"
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_B_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Your client is supposedly in the Inspectorate."
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_B_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Client"
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_A_010_TITLE": {
+    "speaker": "UI",
+    "text": "To the Presidential Grounds"
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_A_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The wave is leading you to an elevator that can access the presidential grounds. It seems helping him with a request will help you fulfill your own goals."
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_A_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Stand in Front of the Elevator"
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_B_010_TITLE": {
+    "speaker": "UI",
+    "text": "To the Presidential Grounds"
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_B_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The wave is leading you to an elevator that can access the presidential grounds. It seems helping him with a request will help you fulfill your own goals."
+  },
+  "W18_EVAR_COMM_WQBOSS_HUM_B_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Stand in Front of the Elevator"
+  },
+  "W18_EVAR_COMM_WQBOSS_MEC_000_TITLE": {
+    "speaker": "UI",
+    "text": "Emergency Situation"
+  },
+  "W18_EVAR_COMM_WQBOSS_MEC_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've been summoned by a member of the anti-alien organization in the National Research Institute. This must be serious."
+  },
+  "W18_EVAR_COMM_WQBOSS_MEC_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Meet With Nishant"
+  },
+  "W18_EVAR_COMM_WQBOSS_MEC_010_TITLE": {
+    "speaker": "UI",
+    "text": "To the Presidential Grounds"
+  },
+  "W18_EVAR_COMM_WQBOSS_MEC_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Intermittent spatial distortions have been observed around the presidential grounds. This is clearly concerning; you should meet with the president at once."
+  },
+  "W18_EVAR_COMM_WQBOSS_MEC_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Stand in Front of the Elevator"
+  },
+  "W18_EVAR_COMM_WQBOSS_MON_000_TITLE": {
+    "speaker": "UI",
+    "text": "Emergency Situation"
+  },
+  "W18_EVAR_COMM_WQBOSS_MON_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've been summoned by a member of the anti-alien organization in the National Research Institute. This must be serious."
+  },
+  "W18_EVAR_COMM_WQBOSS_MON_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Meet With Nishant"
+  },
+  "W18_EVAR_COMM_WQBOSS_MON_010_TITLE": {
+    "speaker": "UI",
+    "text": "To the Presidential Grounds"
+  },
+  "W18_EVAR_COMM_WQBOSS_MON_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Intermittent spatial distortions have been observed around the presidential grounds. This is clearly concerning; you should meet with the president at once."
+  },
+  "W18_EVAR_COMM_WQBOSS_MON_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Stand in Front of the Elevator"
+  },
+  "W18_EVAR_COMM_WQEND_GOV_010_TITLE": {
+    "speaker": "UI",
+    "text": "Door to Another World"
+  },
+  "W18_EVAR_COMM_WQEND_GOV_010_DETAIL": {
+    "speaker": "UI",
+    "text": "This is where you arrived in this world, and it's likely where you can leave it."
+  },
+  "W18_EVAR_COMM_WQEND_GOV_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Stand in Front of the Manhole"
+  },
+  "W18_EVAR_COMM_SECRET_MEETING_000_TITLE": {
+    "speaker": "UI",
+    "text": "Clandestine Meeting"
+  },
+  "W18_EVAR_COMM_SECRET_MEETING_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You received word of a secret meeting taking place at this hotel. You should find out if this is true or not."
+  },
+  "W18_EVAR_COMM_SECRET_MEETING_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Observe"
+  },
+  "W18_EVAR_COMM_NEWS01_000_TITLE": {
+    "speaker": "UI",
+    "text": "End of the First Day"
+  },
+  "W18_EVAR_COMM_NEWS01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's almost night. You should head back to your room for today."
+  },
+  "W18_EVAR_COMM_NEWS01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_KAMAITACHI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Where the Distortion Was Observed"
+  },
+  "W18_EVAR_COMM_KAMAITACHI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the area where an anti-alien organization member detected a spatial distortion."
+  },
+  "W18_EVAR_COMM_KAMAITACHI_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Observe Your Surroundings"
+  },
+  "W18_EVAR_COMM_NEWS02_000_TITLE": {
+    "speaker": "UI",
+    "text": "End of the Second Day"
+  },
+  "W18_EVAR_COMM_NEWS02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's almost night. You should head back to your room for today."
+  },
+  "W18_EVAR_COMM_NEWS02_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_CAUSE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Reason For Fleeing"
+  },
+  "W18_EVAR_COMM_CAUSE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is the suspicious person who left the National Research Institute."
+  },
+  "W18_EVAR_COMM_CAUSE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Call Out to the Suspicious Individual"
+  },
+  "W18_EVAR_COMM_CAUSE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Why So Impatient?"
+  },
+  "W18_EVAR_COMM_CAUSE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "It's the person who bumped into Lita. Why are they in such a rush?"
+  },
+  "W18_EVAR_COMM_CAUSE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Call Out to Them"
+  },
+  "W18_EVAR_COMM_NEWS03_000_TITLE": {
+    "speaker": "UI",
+    "text": "End of the Third Day"
+  },
+  "W18_EVAR_COMM_NEWS03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's almost night. You should head back to your room for today."
+  },
+  "W18_EVAR_COMM_NEWS03_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_RAID_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Assault"
+  },
+  "W18_EVAR_COMM_RAID_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You hear the sound of sirens from inside the building. This is clearly where the crime is taking place."
+  },
+  "W18_EVAR_COMM_RAID_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Look Up at the Building"
+  },
+  "W18_EVAR_COMM_NEWS04_000_TITLE": {
+    "speaker": "UI",
+    "text": "End of the Fourth Day"
+  },
+  "W18_EVAR_COMM_NEWS04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's almost night. You should head back to your room for today."
+  },
+  "W18_EVAR_COMM_NEWS04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_PRESIDENT_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Pair of Officers"
+  },
+  "W18_EVAR_COMM_PRESIDENT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "These two police officers are apparently pursuing aliens. You should speak with them."
+  },
+  "W18_EVAR_COMM_PRESIDENT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Call Out to the Officers"
+  },
+  "W18_EVAR_COMM_NEWS05_000_TITLE": {
+    "speaker": "UI",
+    "text": "End of the Fifth Day"
+  },
+  "W18_EVAR_COMM_NEWS05_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It's almost night. You should head back to your room for today."
+  },
+  "W18_EVAR_COMM_NEWS05_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_NEWS06_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Night Before the Election"
+  },
+  "W18_EVAR_COMM_NEWS06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The presidential election will take place tomorrow. You should head back to your room for today."
+  },
+  "W18_EVAR_COMM_NEWS06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_NEWS07_000_TITLE": {
+    "speaker": "UI",
+    "text": "Election Breaking News"
+  },
+  "W18_EVAR_COMM_NEWS07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You should watch the latest update on the presidential election."
+  },
+  "W18_EVAR_COMM_NEWS07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_NEWS07_010_TITLE": {
+    "speaker": "UI",
+    "text": "Election Breaking News"
+  },
+  "W18_EVAR_COMM_NEWS07_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You should watch the latest update on the presidential election."
+  },
+  "W18_EVAR_COMM_NEWS07_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_NEWS07_020_TITLE": {
+    "speaker": "UI",
+    "text": "Election Breaking News"
+  },
+  "W18_EVAR_COMM_NEWS07_020_DETAIL": {
+    "speaker": "UI",
+    "text": "You should watch the latest update on the presidential election."
+  },
+  "W18_EVAR_COMM_NEWS07_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_NEWS07_030_TITLE": {
+    "speaker": "UI",
+    "text": "Election Breaking News"
+  },
+  "W18_EVAR_COMM_NEWS07_030_DETAIL": {
+    "speaker": "UI",
+    "text": "You should watch the latest update on the presidential election."
+  },
+  "W18_EVAR_COMM_NEWS07_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_NEWS07_040_TITLE": {
+    "speaker": "UI",
+    "text": "Election Breaking News"
+  },
+  "W18_EVAR_COMM_NEWS07_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You should watch the latest update on the presidential election."
+  },
+  "W18_EVAR_COMM_NEWS07_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  },
+  "W18_EVAR_COMM_NEWS07_050_TITLE": {
+    "speaker": "UI",
+    "text": "Election Breaking News"
+  },
+  "W18_EVAR_COMM_NEWS07_050_DETAIL": {
+    "speaker": "UI",
+    "text": "You should watch the latest update on the presidential election."
+  },
+  "W18_EVAR_COMM_NEWS07_050_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to Your Room"
+  }
+}

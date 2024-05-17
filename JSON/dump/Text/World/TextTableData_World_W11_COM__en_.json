@@ -1,0 +1,882 @@
+{
+  "W11_SCAN_COMM_AREAIN_110_TITLE": {
+    "speaker": "UI",
+    "text": "Guided to the Maiden"
+  },
+  "W11_SCAN_COMM_AREAIN_110_DETAIL": {
+    "speaker": "UI",
+    "text": "Fate's guidance is leading you to the maiden."
+  },
+  "W11_LDMK_COMM_MAJIN_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Kutsuwa Village"
+  },
+  "W11_LDMK_COMM_MAJIN_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A race called the Kikir live here."
+  },
+  "W11_LDMK_COMM_MAJIN_2_000_TITLE": {
+    "speaker": "UI",
+    "text": "Kirigi Village"
+  },
+  "W11_LDMK_COMM_MAJIN_2_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A race called the Kikir live here."
+  },
+  "W11_LDMK_COMM_MAJIN_3_000_TITLE": {
+    "speaker": "UI",
+    "text": "Suzumu Village"
+  },
+  "W11_LDMK_COMM_MAJIN_3_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A race called the Kikir live here."
+  },
+  "W11_LDMK_COMM_SATO_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dura Village"
+  },
+  "W11_LDMK_COMM_SATO_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A race called the Imeru live here."
+  },
+  "W11_LDMK_COMM_SATO_2_000_TITLE": {
+    "speaker": "UI",
+    "text": "Doroso Village"
+  },
+  "W11_LDMK_COMM_SATO_2_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A race called the Imeru live here."
+  },
+  "W11_LDMK_COMM_SATO_3_000_TITLE": {
+    "speaker": "UI",
+    "text": "Berta Village"
+  },
+  "W11_LDMK_COMM_SATO_3_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A race called the Imeru live here."
+  },
+  "W11_LDMK_COMM_MIYAKO_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Senia City"
+  },
+  "W11_LDMK_COMM_MIYAKO_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The capital city of the Imeru. It sometimes connects to other worlds."
+  },
+  "W11_LDMK_COMM_ISEKI_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Saru Ruins"
+  },
+  "W11_LDMK_COMM_ISEKI_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone lived here once, but now all that remains is the sound of the wind."
+  },
+  "W11_LDMK_COMM_ISEKI_2_000_TITLE": {
+    "speaker": "UI",
+    "text": "Gorn Ruins"
+  },
+  "W11_LDMK_COMM_ISEKI_2_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone lived here once, but now all that remains is the sound of the wind."
+  },
+  "W11_LDMK_COMM_ISEKI_3_000_TITLE": {
+    "speaker": "UI",
+    "text": "Kieru Ruins"
+  },
+  "W11_LDMK_COMM_ISEKI_3_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone lived here once, but now all that remains is the sound of the wind."
+  },
+  "W11_LDMK_COMM_HANA_A_TITLE": {
+    "speaker": "UI",
+    "text": "Budding Epuyke"
+  },
+  "W11_LDMK_COMM_HANA_A_DETAIL": {
+    "speaker": "UI",
+    "text": "The Epuyke has begun to bud. You can make it grow further by defeating Ancikar's fiends."
+  },
+  "W11_LDMK_COMM_HANA_B_TITLE": {
+    "speaker": "UI",
+    "text": "Seedling Epuyke"
+  },
+  "W11_LDMK_COMM_HANA_B_DETAIL": {
+    "speaker": "UI",
+    "text": "The Epuyke has become a seedling. You'll need to defeat more of Ancikar's fiends if you want it to bloom."
+  },
+  "W11_LDMK_COMM_HANA_C_TITLE": {
+    "speaker": "UI",
+    "text": "Blooming Epuyke"
+  },
+  "W11_LDMK_COMM_HANA_C_DETAIL": {
+    "speaker": "UI",
+    "text": "The Epuyke is blooming with beautiful flowers."
+  },
+  "W11_LDMK_COMM_HANA_D_TITLE": {
+    "speaker": "UI",
+    "text": "Wilted Epuyke"
+  },
+  "W11_LDMK_COMM_HANA_D_DETAIL": {
+    "speaker": "UI",
+    "text": "The Epuyke has wilted. It's almost time for the next maiden to take up the mantle."
+  },
+  "W11_LDMK_COMM_HANA_E_TITLE": {
+    "speaker": "UI",
+    "text": "Blooming Epuyke"
+  },
+  "W11_LDMK_COMM_HANA_E_DETAIL": {
+    "speaker": "UI",
+    "text": "The Epuyke has become a wicked blossom tainted with evil."
+  },
+  "W11_LDMK_COMM_HANA_END_TITLE": {
+    "speaker": "UI",
+    "text": "Where The Epuyke Once Stood"
+  },
+  "W11_LDMK_COMM_HANA_END_DETAIL": {
+    "speaker": "UI",
+    "text": "The Epuyke once stood here, but now it has wilted and vanished. Only a hole remains."
+  },
+  "W11_LDMK_COMM_KOUDOU_100_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cave to Dura Village"
+  },
+  "W11_LDMK_COMM_KOUDOU_100_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This cave will take you to the land above. A small amount of time will pass as you go through."
+  },
+  "W11_LDMK_COMM_KOUDOU_100_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W11_LDMK_COMM_KOUDOU_110_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cave to the Land Below"
+  },
+  "W11_LDMK_COMM_KOUDOU_110_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This cave will take you to the land below. A small amount of time will pass as you go through."
+  },
+  "W11_LDMK_COMM_KOUDOU_110_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W11_LDMK_COMM_KOUDOU_102_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dead-End Cave"
+  },
+  "W11_LDMK_COMM_KOUDOU_102_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This cave leads to nothing."
+  },
+  "W11_LDMK_COMM_KOUDOU_102_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W11_LDMK_COMM_KOUDOU_200_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cave to the Plateau Above"
+  },
+  "W11_LDMK_COMM_KOUDOU_200_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This cave will take you to the land above. A small amount of time will pass as you go through."
+  },
+  "W11_LDMK_COMM_KOUDOU_200_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W11_LDMK_COMM_KOUDOU_210_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cave to the Land Below"
+  },
+  "W11_LDMK_COMM_KOUDOU_210_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This cave will take you to the land below. A small amount of time will pass as you go through."
+  },
+  "W11_LDMK_COMM_KOUDOU_210_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W11_LDMK_COMM_KOUDOU_300_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cave to Doroso Village"
+  },
+  "W11_LDMK_COMM_KOUDOU_300_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This cave will take you to the land above. A small amount of time will pass as you go through."
+  },
+  "W11_LDMK_COMM_KOUDOU_300_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W11_LDMK_COMM_KOUDOU_310_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cave to the Land Below"
+  },
+  "W11_LDMK_COMM_KOUDOU_310_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This cave will take you to the land below. A small amount of time will pass as you go through."
+  },
+  "W11_LDMK_COMM_KOUDOU_310_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W11_LDMK_COMM_KOUDOU_400_000_TITLE": {
+    "speaker": "UI",
+    "text": "Distant Cave"
+  },
+  "W11_LDMK_COMM_KOUDOU_400_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This cave will take you back to the other side. A small amount of time will pass as you go through."
+  },
+  "W11_LDMK_COMM_KOUDOU_400_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W11_GIMK_COMM_TSUTA_00A_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Transport Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_00A_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it."
+  },
+  "W11_GIMK_COMM_TSUTA_00A_1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_00B_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Transport Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_00B_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it."
+  },
+  "W11_GIMK_COMM_TSUTA_00B_1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_02A_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Transport Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_02A_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it."
+  },
+  "W11_GIMK_COMM_TSUTA_02A_1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_02B_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Transport Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_02B_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it."
+  },
+  "W11_GIMK_COMM_TSUTA_02B_1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_04A_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Transport Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_04A_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it."
+  },
+  "W11_GIMK_COMM_TSUTA_04A_1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_04B_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Transport Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_04B_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it."
+  },
+  "W11_GIMK_COMM_TSUTA_04B_1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_05A_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Transport Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_05A_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it."
+  },
+  "W11_GIMK_COMM_TSUTA_05A_1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_05B_1_000_TITLE": {
+    "speaker": "UI",
+    "text": "Transport Nepenthes"
+  },
+  "W11_GIMK_COMM_TSUTA_05B_1_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This will let you move to distant plateaus without encountering fiends. A small amount of time will pass if you choose to ride it."
+  },
+  "W11_GIMK_COMM_TSUTA_05B_1_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Ride the Nepenthes"
+  },
+  "W11_LDMK_COMM_ANA_00A_000_TITLE": {
+    "speaker": "UI",
+    "text": "Trial of Love: Seed Planting Point"
+  },
+  "W11_LDMK_COMM_ANA_00A_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This hole is ideal for planting a nepenthes. Will doing so allow you to overcome the Trial of Love?"
+  },
+  "W11_LDMK_COMM_ANA_00A_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Hole"
+  },
+  "W11_LDMK_COMM_ANA_02A_000_TITLE": {
+    "speaker": "UI",
+    "text": "Trial of Love: Seed Planting Point"
+  },
+  "W11_LDMK_COMM_ANA_02A_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This hole is ideal for planting a nepenthes. Will doing so allow you to overcome the Trial of Love?"
+  },
+  "W11_LDMK_COMM_ANA_02A_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Hole"
+  },
+  "W11_LDMK_COMM_ANA_04A_000_TITLE": {
+    "speaker": "UI",
+    "text": "Trial of Love: Seed Planting Point"
+  },
+  "W11_LDMK_COMM_ANA_04A_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This hole is ideal for planting a nepenthes. Will doing so allow you to overcome the Trial of Love?"
+  },
+  "W11_LDMK_COMM_ANA_04A_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Hole"
+  },
+  "W11_LDMK_COMM_ANA_05A_000_TITLE": {
+    "speaker": "UI",
+    "text": "Trial of Love: Seed Planting Point"
+  },
+  "W11_LDMK_COMM_ANA_05A_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This hole is ideal for planting a nepenthes. Will doing so allow you to overcome the Trial of Love?"
+  },
+  "W11_LDMK_COMM_ANA_05A_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Hole"
+  },
+  "W11_POP_COMM_EGG_00_TITLE": {
+    "speaker": "UI",
+    "text": "Fiend Egg"
+  },
+  "W11_POP_COMM_EGG_00_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense a fiend inside this egg. It should be easy to smash."
+  },
+  "W11_POP_COMM_EGG_00_BUTTON": {
+    "speaker": "UI",
+    "text": "Destroy the Egg"
+  },
+  "W11_POP_COMM_MON_A00_TITLE": {
+    "speaker": "UI",
+    "text": "Aquatic Fiend"
+  },
+  "W11_POP_COMM_MON_A00_DETAIL": {
+    "speaker": "UI",
+    "text": "A fiend oozing with Ancikar's power."
+  },
+  "W11_POP_COMM_MON_A00_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight"
+  },
+  "W11_COMM_EV_DORA_01_001_TITLE": {
+    "speaker": "UI",
+    "text": "Future Epuyke in Dura Village"
+  },
+  "W11_COMM_EV_DORA_01_001_DETAIL": {
+    "speaker": "UI",
+    "text": "Will you meet a maiden and potential future Epuyke here?"
+  },
+  "W11_COMM_EV_DORA_01_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Dura Village"
+  },
+  "W11_COMM_EV_DORA_01_002_TITLE": {
+    "speaker": "UI",
+    "text": "Potential Epuyke and a Journey's Beginning"
+  },
+  "W11_COMM_EV_DORA_01_002_DETAIL": {
+    "speaker": "UI",
+    "text": "Your journey with the maiden has begun. You should talk to her before setting out."
+  },
+  "W11_COMM_EV_DORA_01_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Maiden"
+  },
+  "W11_COMM_EV_DOROSO_01_001_TITLE": {
+    "speaker": "UI",
+    "text": "Future Epuyke in Doroso Village"
+  },
+  "W11_COMM_EV_DOROSO_01_001_DETAIL": {
+    "speaker": "UI",
+    "text": "Will you meet a maiden and potential future Epuyke here?"
+  },
+  "W11_COMM_EV_DOROSO_01_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Doroso Village"
+  },
+  "W11_COMM_EV_BERUTA_01_001_TITLE": {
+    "speaker": "UI",
+    "text": "Future Epuyke in Berta Village"
+  },
+  "W11_COMM_EV_BERUTA_01_001_DETAIL": {
+    "speaker": "UI",
+    "text": "Will you meet a maiden and potential future Epuyke here?"
+  },
+  "W11_COMM_EV_BERUTA_01_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Berta Village"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_001_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Trials: Wisdom"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_001_DETAIL": {
+    "speaker": "UI",
+    "text": "Accept the Trial of Wisdom from the witness in the dead-end cave."
+  },
+  "W11_LDMK_COMM_EPUIKE_1_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witness"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_002_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Trials: Strength"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_002_DETAIL": {
+    "speaker": "UI",
+    "text": "Accept the Trial of Strength from the witness in Kutsuwa Village."
+  },
+  "W11_LDMK_COMM_EPUIKE_1_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witness"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_003_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Trials: Love"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_003_DETAIL": {
+    "speaker": "UI",
+    "text": "Accept the Trial of Love from the witness in Suzumu Village."
+  },
+  "W11_LDMK_COMM_EPUIKE_1_003_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witness"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_004_TITLE": {
+    "speaker": "UI",
+    "text": "Epuyke Festival"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_004_DETAIL": {
+    "speaker": "UI",
+    "text": "The previous maiden has bloomed, and the Epuyke Festival has begun. You should go take it in."
+  },
+  "W11_LDMK_COMM_EPUIKE_1_004_BUTTON": {
+    "speaker": "UI",
+    "text": "Attend the Festival"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_005_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke Festival's End"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_005_DETAIL": {
+    "speaker": "UI",
+    "text": "Once all the pollen has been collected, the festival will come to an end."
+  },
+  "W11_LDMK_COMM_EPUIKE_1_005_BUTTON": {
+    "speaker": "UI",
+    "text": "End the Festival"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_006_TITLE": {
+    "speaker": "UI",
+    "text": "Epuyke Ritual"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_006_DETAIL": {
+    "speaker": "UI",
+    "text": "The time has come for the next maiden to become the Epuyke."
+  },
+  "W11_LDMK_COMM_EPUIKE_1_006_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Ritual"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_007_TITLE": {
+    "speaker": "UI",
+    "text": "Epuyke Hole"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_007_DETAIL": {
+    "speaker": "UI",
+    "text": "The previous maiden's Epuyke has wilted and vanished, leaving only a hole behind. You should plant the seed here."
+  },
+  "W11_LDMK_COMM_EPUIKE_1_007_BUTTON": {
+    "speaker": "UI",
+    "text": "Plant the Seed"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_0065_TITLE": {
+    "speaker": "UI",
+    "text": "Ritual to Become the Epuyke"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_0065_DETAIL": {
+    "speaker": "UI",
+    "text": "The time has come for the next maiden to become the Epuyke. Are you sure you're ready to begin the ritual?"
+  },
+  "W11_LDMK_COMM_EPUIKE_1_0065_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Ritual"
+  },
+  "W11_LDMK_COMM_EPUIKE_2_001_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Trials: Wisdom"
+  },
+  "W11_LDMK_COMM_EPUIKE_2_001_DETAIL": {
+    "speaker": "UI",
+    "text": "Accept the Trial of Wisdom from the witness."
+  },
+  "W11_LDMK_COMM_EPUIKE_2_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witness"
+  },
+  "W11_LDMK_COMM_EPUIKE_2_002_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Trials: Strength"
+  },
+  "W11_LDMK_COMM_EPUIKE_2_002_DETAIL": {
+    "speaker": "UI",
+    "text": "Accept the Trial of Strength from the witness."
+  },
+  "W11_LDMK_COMM_EPUIKE_2_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witness"
+  },
+  "W11_LDMK_COMM_EPUIKE_2_100_TITLE": {
+    "speaker": "UI",
+    "text": "Epuyke Festival"
+  },
+  "W11_LDMK_COMM_EPUIKE_2_100_DETAIL": {
+    "speaker": "UI",
+    "text": "A festival is ongoing."
+  },
+  "W11_LDMK_COMM_EPUIKE_2_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Join In"
+  },
+  "W11_LDMK_COMM_EPUIKE_2_200_TITLE": {
+    "speaker": "UI",
+    "text": "Epuyke Festival"
+  },
+  "W11_LDMK_COMM_EPUIKE_2_200_DETAIL": {
+    "speaker": "UI",
+    "text": "A festival is ongoing."
+  },
+  "W11_LDMK_COMM_EPUIKE_2_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Join In"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_001_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Trials: Wisdom"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_001_DETAIL": {
+    "speaker": "UI",
+    "text": "Accept the Trial of Wisdom from the witness."
+  },
+  "W11_LDMK_COMM_EPUIKE_3_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witness"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_002_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Trials: Power"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_002_DETAIL": {
+    "speaker": "UI",
+    "text": "Accept the Trial of Power from the witness."
+  },
+  "W11_LDMK_COMM_EPUIKE_3_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witness"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_003_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Trials: Love"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_003_DETAIL": {
+    "speaker": "UI",
+    "text": "Accept the Trial of Love from the witness."
+  },
+  "W11_LDMK_COMM_EPUIKE_3_003_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witness"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_100_TITLE": {
+    "speaker": "UI",
+    "text": "Epuyke Festival"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_100_DETAIL": {
+    "speaker": "UI",
+    "text": "A festival is ongoing."
+  },
+  "W11_LDMK_COMM_EPUIKE_3_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Join In"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_200_TITLE": {
+    "speaker": "UI",
+    "text": "Epuyke Festival"
+  },
+  "W11_LDMK_COMM_EPUIKE_3_200_DETAIL": {
+    "speaker": "UI",
+    "text": "A festival is ongoing."
+  },
+  "W11_LDMK_COMM_EPUIKE_3_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Join In"
+  },
+  "W11_GIMK_COMM_KIRARI_01_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_01_DETAIL": {
+    "speaker": "UI",
+    "text": "Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears."
+  },
+  "W11_GIMK_COMM_KIRARI_01_BUTTON": {
+    "speaker": "UI",
+    "text": "Collect Some Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_02_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_02_DETAIL": {
+    "speaker": "UI",
+    "text": "Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears."
+  },
+  "W11_GIMK_COMM_KIRARI_02_BUTTON": {
+    "speaker": "UI",
+    "text": "Collect Some Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_03_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_03_DETAIL": {
+    "speaker": "UI",
+    "text": "Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears."
+  },
+  "W11_GIMK_COMM_KIRARI_03_BUTTON": {
+    "speaker": "UI",
+    "text": "Collect Some Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_04_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_04_DETAIL": {
+    "speaker": "UI",
+    "text": "Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears."
+  },
+  "W11_GIMK_COMM_KIRARI_04_BUTTON": {
+    "speaker": "UI",
+    "text": "Collect Some Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_05_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_05_DETAIL": {
+    "speaker": "UI",
+    "text": "Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears."
+  },
+  "W11_GIMK_COMM_KIRARI_05_BUTTON": {
+    "speaker": "UI",
+    "text": "Collect Some Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_06_TITLE": {
+    "speaker": "UI",
+    "text": "The Epuyke's Pollen"
+  },
+  "W11_GIMK_COMM_KIRARI_06_DETAIL": {
+    "speaker": "UI",
+    "text": "Pollen from the Epuyke has rained down to the ground. It somehow makes you think of falling tears."
+  },
+  "W11_GIMK_COMM_KIRARI_06_BUTTON": {
+    "speaker": "UI",
+    "text": "Collect Some Pollen"
+  },
+  "W11_COMM_EV_DOROSO_01_002_TITLE": {
+    "speaker": "UI",
+    "text": "Search for the Maiden"
+  },
+  "W11_COMM_EV_DOROSO_01_002_DETAIL": {
+    "speaker": "UI",
+    "text": "Could Chup have returned to the village?"
+  },
+  "W11_COMM_EV_DOROSO_01_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Village"
+  },
+  "W11_COMM_EV_DOROSO_01_003_TITLE": {
+    "speaker": "UI",
+    "text": "Report the Maiden's Safety"
+  },
+  "W11_COMM_EV_DOROSO_01_003_DETAIL": {
+    "speaker": "UI",
+    "text": "You should let the clerics and the worried Kup know that Chup is back."
+  },
+  "W11_COMM_EV_DOROSO_01_003_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Clerics"
+  },
+  "W11_COMM_EV_EPUIKE_02_920_TITLE": {
+    "speaker": "UI",
+    "text": "Search for the Maiden"
+  },
+  "W11_COMM_EV_EPUIKE_02_920_DETAIL": {
+    "speaker": "UI",
+    "text": "You can see the Epuyke from this place. Perhaps you can find the maiden here."
+  },
+  "W11_COMM_EV_EPUIKE_02_920_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Maiden"
+  },
+  "W11_COMM_EV_EPUIKE_02_930_TITLE": {
+    "speaker": "UI",
+    "text": "Search for the Maiden"
+  },
+  "W11_COMM_EV_EPUIKE_02_930_DETAIL": {
+    "speaker": "UI",
+    "text": "Pretty stones litter the ground in this place. Perhaps you can find the maiden here."
+  },
+  "W11_COMM_EV_EPUIKE_02_930_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Maiden"
+  },
+  "W11_EVAR_COMM_RUN_231_TITLE": {
+    "speaker": "UI",
+    "text": "Finding a Stone for Kup"
+  },
+  "W11_EVAR_COMM_RUN_231_DETAIL": {
+    "speaker": "UI",
+    "text": "Chup wants to find a pretty stone for her little sister."
+  },
+  "W11_EVAR_COMM_RUN_231_BUTTON": {
+    "speaker": "UI",
+    "text": "Help Her Search"
+  },
+  "W11_COMM_EV_BERUTA_01_002_TITLE": {
+    "speaker": "UI",
+    "text": "A Mother's Feelings"
+  },
+  "W11_COMM_EV_BERUTA_01_002_DETAIL": {
+    "speaker": "UI",
+    "text": "Nana should ask her mother about the contents of the diary you found in the ruins. But will Yuk be willing to talk?"
+  },
+  "W11_COMM_EV_BERUTA_01_002_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Yuk"
+  },
+  "W11_COMM_EV_BATLLE_TITLE": {
+    "speaker": "UI",
+    "text": "Grassland of Trials"
+  },
+  "W11_COMM_EV_BATLLE_DETAIL": {
+    "speaker": "UI",
+    "text": "The Kikir are beckoning to you. You can test your strength here."
+  },
+  "W11_COMM_EV_BATLLE_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Grassland"
+  },
+  "W11_EVAR_COMM_TABLET_000_TITLE": {
+    "speaker": "UI",
+    "text": "Trial of Wisdom: Tablet Fragment"
+  },
+  "W11_EVAR_COMM_TABLET_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This is one of several fragments of a tablet prepared for the Trial of Wisdom. You wonder what will happen when you collect them all."
+  },
+  "W11_EVAR_COMM_TABLET_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Pick Up the Fragment"
+  },
+  "W11_EVAR_COMM_WISDOM_110_TITLE": {
+    "speaker": "UI",
+    "text": "Trial of Wisdom: Deciphering the Tablet"
+  },
+  "W11_EVAR_COMM_WISDOM_110_DETAIL": {
+    "speaker": "UI",
+    "text": "You've collected all of the tablet fragments. Now you're ready to take on the final part of the Trial of Wisdom."
+  },
+  "W11_EVAR_COMM_WISDOM_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to the Witness"
+  },
+  "W11_EVAR_COMM_TIPS_000_TITLE": {
+    "speaker": "UI",
+    "text": "Clerics of Time"
+  },
+  "W11_EVAR_COMM_TIPS_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The clerics are beckoning to you. They appear to have advice for Soyay the Pollinator."
+  },
+  "W11_EVAR_COMM_TIPS_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Listen"
+  },
+  "W11_EVAR_COMM_STRENGTH_110_TITLE": {
+    "speaker": "UI",
+    "text": "Finding the Fiend"
+  },
+  "W11_EVAR_COMM_STRENGTH_110_DETAIL": {
+    "speaker": "UI",
+    "text": "The fiend you need to defeat for the Trial of Strength should be somewhere in this area."
+  },
+  "W11_EVAR_COMM_STRENGTH_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for the Fiend"
+  },
+  "W11_EVAR_COMM_KIERU_300_TITLE": {
+    "speaker": "UI",
+    "text": "Reaching the Kieru Ruins"
+  },
+  "W11_EVAR_COMM_KIERU_300_DETAIL": {
+    "speaker": "UI",
+    "text": "You must pass through this cave in order to advance, but does it even connect to the other side?"
+  },
+  "W11_EVAR_COMM_KIERU_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Cave"
+  },
+  "W11_EVAR_COMM_KIERU_310_TITLE": {
+    "speaker": "UI",
+    "text": "What's Within the Kieru Ruins"
+  },
+  "W11_EVAR_COMM_KIERU_310_DETAIL": {
+    "speaker": "UI",
+    "text": "You have arrived at the ruins in accordance with Nana's destiny. What will you find here?"
+  },
+  "W11_EVAR_COMM_KIERU_310_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Ruins"
+  }
+}

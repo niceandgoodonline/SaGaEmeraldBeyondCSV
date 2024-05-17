@@ -1,0 +1,46 @@
+{
+  "W19_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Are We Under the Capitol?"
+  },
+  "W19_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Your pursuit of the mysterious figure led you to a place resembling a jungle."
+  },
+  "W19_GIMK_BOFO_SWAMP_01_IVY_RIGHT_TITLE": {
+    "speaker": "UI",
+    "text": "Climb the Vines"
+  },
+  "W19_GIMK_BOFO_SWAMP_01_IVY_RIGHT_DETAIL": {
+    "speaker": "UI",
+    "text": "To pursue the mysterious figure, you need to climb some vines."
+  },
+  "W19_GIMK_BOFO_SWAMP_01_IVY_RIGHT_BUTTON": {
+    "speaker": "UI",
+    "text": "Pursue the Mysterious Figure"
+  },
+  "W19_GIMK_BOFO_FOREST_01_IVY_RIGHT_TITLE": {
+    "speaker": "UI",
+    "text": "An Unknown Call"
+  },
+  "W19_GIMK_BOFO_FOREST_01_IVY_RIGHT_DETAIL": {
+    "speaker": "UI",
+    "text": "You hear the sound of an animal crying out."
+  },
+  "W19_GIMK_BOFO_FOREST_01_IVY_RIGHT_BUTTON": {
+    "speaker": "UI",
+    "text": "Climb the Vines"
+  },
+  "W19_GIMK_BOFO_FOREST_03_IVY_CENTER_TITLE": {
+    "speaker": "UI",
+    "text": "Confront the Mysterious Figure"
+  },
+  "W19_GIMK_BOFO_FOREST_03_IVY_CENTER_DETAIL": {
+    "speaker": "UI",
+    "text": "You sense the mysterious figure waiting for you up ahead."
+  },
+  "W19_GIMK_BOFO_FOREST_03_IVY_CENTER_BUTTON": {
+    "speaker": "UI",
+    "text": "Pursue the Mysterious Figure"
+  }
+}

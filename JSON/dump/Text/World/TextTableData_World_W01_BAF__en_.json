@@ -1,0 +1,58 @@
+{
+  "W01_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Through the Stone Gate"
+  },
+  "W01_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After walking through the stone gate, you find yourself in Miyako City, former capital of the East Islands. Is the mysterious man who appeared the key to obtaining another triangle?"
+  },
+  "W01_EVAR_BOFO_GHOSTTOWN_BATTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Vortex of Resentment"
+  },
+  "W01_EVAR_BOFO_GHOSTTOWN_BATTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The mysterious man said you would obtain a triangle by fighting evil spirits. Could this be one of them?"
+  },
+  "W01_EVAR_BOFO_GHOSTTOWN_BATTLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W01_EVAR_BOFO_CAVE_BATTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Phantoms in the Cave"
+  },
+  "W01_EVAR_BOFO_CAVE_BATTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The mysterious man said you would obtain a triangle by fighting phantoms. Could this be one of them?"
+  },
+  "W01_EVAR_BOFO_CAVE_BATTLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W01_EVAR_BOFO_OOIKE_BATTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Monster in the Pond"
+  },
+  "W01_EVAR_BOFO_OOIKE_BATTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The mysterious man said you would obtain a triangle by fighting phantoms. Could this be one of them?"
+  },
+  "W01_EVAR_BOFO_OOIKE_BATTLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  },
+  "W01_EVAR_BOFO_BRIDGE_BATTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Spirit In the Bridge"
+  },
+  "W01_EVAR_BOFO_BRIDGE_BATTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The mysterious man said you would obtain a triangle by fighting evil spirits. Could this be one of them?"
+  },
+  "W01_EVAR_BOFO_BRIDGE_BATTLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  }
+}

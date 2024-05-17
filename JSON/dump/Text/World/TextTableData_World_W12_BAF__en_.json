@@ -1,0 +1,34 @@
+{
+  "W12_EVAR_BOFO_REMNANT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Unfrozen Person"
+  },
+  "W12_EVAR_BOFO_REMNANT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found someone who isn't frozen."
+  },
+  "W12_EVAR_BOFO_REMNANT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Them"
+  },
+  "W12_EVAR_BOFO_RETURN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Exit From Grelon"
+  },
+  "W12_EVAR_BOFO_RETURN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You've obtained another triangle. It's time to leave this world."
+  },
+  "W12_EVAR_BOFO_RETURN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Twilight Area"
+  },
+  "W12_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Grelon: The Frozen World"
+  },
+  "W12_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After walking through the door, you find yourself in a world where everything is frozen. You should seek out someone who isn't and see if they can help you find a triangle."
+  }
+}

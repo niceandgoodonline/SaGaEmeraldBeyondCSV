@@ -1,0 +1,94 @@
+{
+  "W09_EVAR_MIDO_WORLDEXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Avalon Station"
+  },
+  "W09_EVAR_MIDO_WORLDEXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Return to the Heavens and search for your next destination."
+  },
+  "W09_EVAR_MIDO_WORLDEXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W09_EVAR_MIDO_WORLDEXIT_100_TITLE": {
+    "speaker": "UI",
+    "text": "Avalon Station"
+  },
+  "W09_EVAR_MIDO_WORLDEXIT_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Head to the Heavens, then return to Miyako City."
+  },
+  "W09_EVAR_MIDO_WORLDEXIT_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Go to the Heavens"
+  },
+  "W09_EVAR_MIDO_SPIRIT_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Seeking a Spirit's Power"
+  },
+  "W09_EVAR_MIDO_SPIRIT_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Time to look for a spirit's power."
+  },
+  "W09_EVAR_MIDO_SPIRIT_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Search"
+  },
+  "W09_EVAR_MIDO_SPIRIT_KIN_100_TITLE": {
+    "speaker": "UI",
+    "text": "Metal Spirit"
+  },
+  "W09_EVAR_MIDO_SPIRIT_KIN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The spirit here seems reasonably powerful."
+  },
+  "W09_EVAR_MIDO_SPIRIT_KIN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W09_EVAR_MIDO_SPIRIT_KIN_200_TITLE": {
+    "speaker": "UI",
+    "text": "Metal Spirit"
+  },
+  "W09_EVAR_MIDO_SPIRIT_KIN_200_DETAIL": {
+    "speaker": "UI",
+    "text": "The spirit here seems quite strong."
+  },
+  "W09_EVAR_MIDO_SPIRIT_KIN_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W09_EVAR_MIDO_SPIRIT_KIN_300_TITLE": {
+    "speaker": "UI",
+    "text": "Metal Spirit"
+  },
+  "W09_EVAR_MIDO_SPIRIT_KIN_300_DETAIL": {
+    "speaker": "UI",
+    "text": "A most powerful spirit awaits. You'd best be prepared before making your move."
+  },
+  "W09_EVAR_MIDO_SPIRIT_KIN_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W09_EVAR_MIDO_DUMMY_SQUARE_SIX_000_TITLE": {
+    "speaker": "UI",
+    "text": "Luxury Boutique Deeps: Whatever Your Heart Desires"
+  },
+  "W09_EVAR_MIDO_DUMMY_SQUARE_SIX_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A mysterious shop that will provide the buyer with whatever they desire. You sense spiritual power emanating from this place."
+  },
+  "W09_EVAR_MIDO_DUMMY_SQUARE_SIX_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shop"
+  },
+  "W09_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Avalon: The Imperial Capital"
+  },
+  "W09_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a train platform on the other side of the door. Are there any spirits to be found in a city like this?"
+  }
+}

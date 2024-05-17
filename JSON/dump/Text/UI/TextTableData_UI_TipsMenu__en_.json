@@ -1,0 +1,94 @@
+{
+  "UI_TipsCategoryRecent_Title": {
+    "speaker": "UI",
+    "text": "Must-Reads"
+  },
+  "UI_TipsCategoryMenu_Title": {
+    "speaker": "UI",
+    "text": "Tips Menu"
+  },
+  "UI_TipsCategoryBasic_Title": {
+    "speaker": "UI",
+    "text": "Adventuring Basics"
+  },
+  "UI_TipsCategoryWorldKnowledge_Title": {
+    "speaker": "UI",
+    "text": "Exploring the World"
+  },
+  "UI_TipsCategoryBattleKnowledge_Title": {
+    "speaker": "UI",
+    "text": "Combat Fundamentals"
+  },
+  "UI_TipsCategoryBattlePedia_Title": {
+    "speaker": "UI",
+    "text": "Combat Preparations"
+  },
+  "UI_TipsCategoryUnderstanding_Title": {
+    "speaker": "UI",
+    "text": "Character Fundamentals"
+  },
+  "UI_TipsCategoryCharaEnhance_Title": {
+    "speaker": "UI",
+    "text": "Character Enhancement"
+  },
+  "UI_TipsCategoryHeroPower_Title": {
+    "speaker": "UI",
+    "text": "The Protagonists' Mysterious Powers"
+  },
+  "UI_TipsCategoryBattleTechnique_Title": {
+    "speaker": "UI",
+    "text": "Combat Techniques"
+  },
+  "UI_TipsCategorySkill_Title": {
+    "speaker": "UI",
+    "text": "About Skills"
+  },
+  "UI_TipsCategoryTechMagic_Title": {
+    "speaker": "UI",
+    "text": "About Techs & Spells"
+  },
+  "UI_Glossary": {
+    "speaker": "UI",
+    "text": "Glossary"
+  },
+  "UI_GlossaryCategoryTitle01": {
+    "speaker": "UI",
+    "text": "Weapons"
+  },
+  "UI_GlossaryCategoryTitle02": {
+    "speaker": "UI",
+    "text": "Armor"
+  },
+  "UI_GlossaryCategoryTitle03": {
+    "speaker": "UI",
+    "text": "Special Armaments"
+  },
+  "UI_GlossaryCategoryTitle04": {
+    "speaker": "UI",
+    "text": "Buff / Debuff Effects"
+  },
+  "UI_GlossaryCategoryTitle05": {
+    "speaker": "UI",
+    "text": "Status Ailments"
+  },
+  "UI_GlossaryCategoryTitle06": {
+    "speaker": "UI",
+    "text": "Mech Status Ailments"
+  },
+  "UI_GlossaryCategoryTitle07": {
+    "speaker": "UI",
+    "text": "Special Effects"
+  },
+  "UI_GlossaryCategoryTitle08": {
+    "speaker": "UI",
+    "text": "Other Effects"
+  },
+  "UI_Tips_NoHot5": {
+    "speaker": "UI",
+    "text": "There are no must-reads."
+  },
+  "UI_TipsCategory_Title": {
+    "speaker": "UI",
+    "text": "Categories"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_000": {
+    "speaker": "ArchWitch",
+    "text": "With the Calamity begun at last, we must now\nwelcome the Watcher to Pulchra. Make public\nyour honest feelings, Sages, for they will\nbe needed to summon the Watcher hence."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_010": {
+    "speaker": "BlackWiseWitch",
+    "text": "I have come to convey the feelings of the black\nwitches. The fight against the Calamity is a\nfight for witches alone; we have no need for a\nstranger from another world to watch over us."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_020": {
+    "speaker": "RedWiseWitch",
+    "text": "The bigger our audience, the more exciting this\nwill be—so let us ensure the sight of we red\nwitches doing battle is forever seared into\nthe Watcher's memory!\fThat said, we will not tolerate any\nwho might interfere in our struggle."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_030": {
+    "speaker": "WhiteWiseWitch",
+    "text": "When comes the Calamity, so comes the Watcher.\nThis is the way of the world, and the witches of\nwhite obey the natural order of things. We say it\nis time to welcome the Watcher with open arms."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_040": {
+    "speaker": "YellowWiseWitch",
+    "text": "The witches of the yellow care not.\nIf you wish to summon the Watcher,\ndo as you will. It has naught to do with us."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_050": {
+    "speaker": "BlueWiseWitch",
+    "text": "The Calamity is the way of Pulchra—part of the\nworkings of eternity. And if the Watcher be a\npart of that cycle, we must practice acceptance.\fWhen the Calamity is ended, the Watcher\nwill depart. This is the way of it,\nand all we have to say on the matter."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_060": {
+    "speaker": "ArchWitch",
+    "text": "I thank you all for your wise words,\nand hold faith that your feelings will\nbeckon the Watcher to this land."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_070": {
+    "speaker": "RedWiseWitch",
+    "text": "I'm so excited for the war with the\nCalamity, I almost can't stand it!"
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_080": {
+    "speaker": "YellowWiseWitch",
+    "text": "Such an annoying viewpoint.\nBut it's not as if we have a choice."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_090": {
+    "speaker": "BlueWiseWitch",
+    "text": "I wonder how many will survive."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_100": {
+    "speaker": "WhiteWiseWitch",
+    "text": "Let it be a beautiful battle."
+  },
+  "SUB_W02_WRLD_COMM_DISASTER_000_CUT_000_110": {
+    "speaker": "BlackWiseWitch",
+    "text": "Whether the victor be the witches or the\nCalamity, there is but a single result.\nThere is only the fight."
+  },
+  "SUB_W02_EVAR_COMM_ALL_AREA_000_CUT_010_000": {
+    "speaker": "HERO",
+    "text": "Participate in the witches' war."
+  },
+  "SUB_W02_EVAR_COMM_ALL_AREA_000_CUT_010_010": {
+    "speaker": "HERO",
+    "text": "Focus on watching over things."
+  },
+  "SUB_W02_EVAR_COMM_BLACK_AREA01_000_CUT_000_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "This cycle's Calamity is crystallization.\nAnd while I know not the true form of it,\nthere will likely be many chances during\nthe war for study."
+  },
+  "SUB_W02_EVAR_COMM_BLACK_AREA01_010_CUT_000_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "Just a little more, and we'll be able to\ndestroy all the crystals. Victory is close\nat hand, so don't do any strange meddling."
+  },
+  "SUB_W02_EVAR_COMM_BLACK_AREA02_000_CUT_000_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "While the intensity of that fiend spawned\nby the crystals is incredible, I want to put\na stop to it here."
+  },
+  "SUB_W02_EVAR_COMM_BLACK_AREA02_010_CUT_000_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "We managed to push the crystals back,\nbut can't let our guard down."
+  },
+  "SUB_W02_EVAR_COMM_BLACK_AREA03_000_CUT_000_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "If we don't hold our ground, Castle Black Swan\nwill be consumed by crystals—which will spell\nthe end of all witches of the black."
+  },
+  "SUB_W02_EVAR_COMM_BLACK_AREA_000_CUT_010_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "We cannot lose in the presence\nof the Watcher."
+  },
+  "SUB_W02_EVAR_COMM_BLACK_AREA_000_CUT_020_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "Your assistance was not required."
+  },
+  "SUB_W02_EVAR_COMM_BLACK_AREA_000_CUT_030_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "Don't get in the way!"
+  },
+  "SUB_W02_EVAR_COMM_BLACK_AREA03_000_CUT_010_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "Damn your soul, Watcher!\nAre you a secret pawn of the Calamity!?"
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_CLEAR_000_CUT_000_000": {
+    "speaker": "BlackWitchNormal",
+    "text": "Ah, yes. Do you recall what sort of fiend\nhad its sights set on Castle Black Swan?"
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_CLEAR_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "An earth creature."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_CLEAR_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "A fire creature."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_CLEAR_000_CUT_000_030": {
+    "speaker": "BlackWitchNormal",
+    "text": "You fought on the black battlefield?\nBut how, when you are not a witch?"
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLACK_CLEAR_000_CUT_000_040": {
+    "speaker": "BlackWitchNormal",
+    "text": "Ah, yes. I also thought there were quite\na few earth fiends. But thanks to this,\nI now understand that I must obtain the\naid of the witches of the blue."
+  },
+  "SUB_W02_EVAR_COMM_RED_AREA01_000_CUT_000_000": {
+    "speaker": "RedWitchNormal",
+    "text": "At last, the battle of the red witches begins.\nI've been looking forward to this!"
+  },
+  "SUB_W02_EVAR_COMM_RED_AREA01_010_CUT_000_000": {
+    "speaker": "RedWitchNormal",
+    "text": "Over so soon? Oh, but I feel so empty...\nWhere is the thrill? The joy?\nThe exuberance of victory?"
+  },
+  "SUB_W02_EVAR_COMM_RED_AREA02_000_CUT_000_000": {
+    "speaker": "RedWitchNormal",
+    "text": "These crystal fiends are worthy opponents\nto the last. Truly we stand on the field of\nbattle with the Calamity."
+  },
+  "SUB_W02_EVAR_COMM_RED_AREA02_010_CUT_000_000": {
+    "speaker": "RedWitchNormal",
+    "text": "The red witches will never know defeat;\nthat was just a taste of our strength! "
+  },
+  "SUB_W02_EVAR_COMM_RED_AREA03_000_CUT_000_000": {
+    "speaker": "RedWitchNormal",
+    "text": "Behind us stands the Flame Fortress—yet we\nhave not been cornered, for this is where\nthe true battle begins.\fNow look on in awe as I captivate you\nwith the sight of the witches of the red\nfighting for true!"
+  },
+  "SUB_W02_EVAR_COMM_RED_AREA_000_CUT_010_000": {
+    "speaker": "RedWitchNormal",
+    "text": "Did you see, Watcher? You have borne\nwitness to the ferocity of the red!"
+  },
+  "SUB_W02_EVAR_COMM_RED_AREA_000_CUT_020_000": {
+    "speaker": "RedWitchNormal",
+    "text": "You robbed us of our victory!"
+  },
+  "SUB_W02_EVAR_COMM_RED_AREA_000_CUT_030_000": {
+    "speaker": "RedWitchNormal",
+    "text": "Damn it all!"
+  },
+  "SUB_W02_EVAR_COMM_RED_AREA03_000_CUT_010_000": {
+    "speaker": "RedWitchNormal",
+    "text": "So the role of the Watcher is to snatch\naway our deserving victory? Fie!"
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_RED_CLEAR_000_CUT_000_000": {
+    "speaker": "RedWitchNormal",
+    "text": "Surely you observed closely the fiends\nbeing fought, Watcher? I would have\nyou tell me what you saw."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_RED_CLEAR_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "They had the power of earth."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_RED_CLEAR_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "They had the power of water."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_RED_CLEAR_000_CUT_000_030": {
+    "speaker": "RedWitchNormal",
+    "text": "You're failing to watch our opponents closely!\nThose enemies instead have the power of water,\nand we are at a disadvantage against them."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_RED_CLEAR_000_CUT_000_040": {
+    "speaker": "RedWitchNormal",
+    "text": "Well seen! It's key to watch a foe closely.\nOur enemies do indeed have the power of water,\nwhich puts us at a disadvantage."
+  },
+  "SUB_W02_EVAR_COMM_YELLOW_AREA01_000_CUT_000_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "The crystals are borne of the earth,\nand may prove a most difficult foe\nfor us yellow witches."
+  },
+  "SUB_W02_EVAR_COMM_YELLOW_AREA01_010_CUT_000_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "The crystals crumble and are returned\nto the earth. I sense a new beginning!"
+  },
+  "SUB_W02_EVAR_COMM_YELLOW_AREA02_000_CUT_000_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "The power of the earth alone can't hold\nback the crystallization process.\nWhat are we to do?"
+  },
+  "SUB_W02_EVAR_COMM_YELLOW_AREA02_010_CUT_000_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "We've learned a bit more about\nthe properties of the crystals."
+  },
+  "SUB_W02_EVAR_COMM_YELLOW_AREA03_000_CUT_000_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "Once the earth turns to crystal, all is lost.\nThere will be no place left for witches of\nany color to live."
+  },
+  "SUB_W02_EVAR_COMM_YELLOW_AREA_000_CUT_010_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "Being watched like this is\nall rather...unsettling."
+  },
+  "SUB_W02_EVAR_COMM_YELLOW_AREA_000_CUT_020_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "You came in and won the day."
+  },
+  "SUB_W02_EVAR_COMM_YELLOW_AREA_000_CUT_030_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "You came in and lost the fight."
+  },
+  "SUB_W02_EVAR_COMM_YELLOW_AREA03_000_CUT_010_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "Alas, I shall also turn to crystal..."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_CLEAR_000_CUT_000_000": {
+    "speaker": "YellowWitchNormal",
+    "text": "I must ask you something: what kind\nof fiends appeared in battle?"
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_CLEAR_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Metal types."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_CLEAR_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Wood types."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_CLEAR_000_CUT_000_030": {
+    "speaker": "YellowWitchNormal",
+    "text": "Metal, you say? Alas, I believe\nthey were of a wood type."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_YELLOW_CLEAR_000_CUT_000_040": {
+    "speaker": "YellowWitchNormal",
+    "text": "Exactly so. Alas, our side possesses the\npower of metal, which is weak to them.\nWe would do well to ask for aid from\nthe witches of the white."
+  },
+  "SUB_W02_EVAR_COMM_WHITE_AREA01_000_CUT_000_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Calamities are the price we pay for our use\nof magic, and this is why we face them.\nWe are witches, after all."
+  },
+  "SUB_W02_EVAR_COMM_WHITE_AREA01_010_CUT_000_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Even if we contain this Calamity, another\nwill come so long as we continue to wield\nour magic. And yet, what choice have we?"
+  },
+  "SUB_W02_EVAR_COMM_WHITE_AREA02_000_CUT_000_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Our magic is rebounding upon us in\nthe form of these fiends' strength!"
+  },
+  "SUB_W02_EVAR_COMM_WHITE_AREA02_010_CUT_000_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "We're pushing the crystals back bit by bit;\nlet this serve as proof that we witches\ncan continue our existence."
+  },
+  "SUB_W02_EVAR_COMM_WHITE_AREA03_000_CUT_000_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "The Leone Bianco Palazzo is the pride of\nall white witches. It proves our honor,\nour prestige, and our dignity, and we\nwill protect it no matter the cost."
+  },
+  "SUB_W02_EVAR_COMM_WHITE_AREA_000_CUT_010_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "I thank you, Watcher."
+  },
+  "SUB_W02_EVAR_COMM_WHITE_AREA_000_CUT_020_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Why did you intervene?"
+  },
+  "SUB_W02_EVAR_COMM_WHITE_AREA_000_CUT_030_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Why did you fail?"
+  },
+  "SUB_W02_EVAR_COMM_WHITE_AREA03_000_CUT_010_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "You have robbed the white witches\nof our pride this day."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_CLEAR_000_CUT_000_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "I must ask you something, Watcher:\nwhat manner of fiends attacked us?"
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_CLEAR_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "I think they were fire."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_CLEAR_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "I think they were water."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_CLEAR_000_CUT_000_030": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Just so! Sadly, our powers of metal are quite\nweak to fire; I doubt it was mere coincidence\nsuch fiends have appeared in our lands."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_WHITE_CLEAR_000_CUT_000_040": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Do you now? I think it might\nbe the opposite, in fact."
+  },
+  "SUB_W02_EVAR_COMM_BLUE_AREA01_000_CUT_000_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "As magic is used, stagnation builds\nlittle by little. And sometimes,\nit must be cut out at its root."
+  },
+  "SUB_W02_EVAR_COMM_BLUE_AREA01_010_CUT_000_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "The crystals have their own kind of beauty,\nbut it is no match for the beauty of life."
+  },
+  "SUB_W02_EVAR_COMM_BLUE_AREA02_000_CUT_000_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "Are we blue witches the ones being excised?\nFor from the crystals' point of view,\nperhaps <i>we</i> are unclean."
+  },
+  "SUB_W02_EVAR_COMM_BLUE_AREA02_010_CUT_000_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "If we push back the crystals, life will\nbegin to return. We can start anew."
+  },
+  "SUB_W02_EVAR_COMM_BLUE_AREA03_000_CUT_000_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "The trees and forests are turning to crystal.\nWhen this happens to all, time in Pulchra will\ncease to be. Has that moment truly come?"
+  },
+  "SUB_W02_EVAR_COMM_BLUE_AREA_000_CUT_010_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "Having a Watcher changes nothing."
+  },
+  "SUB_W02_EVAR_COMM_BLUE_AREA_000_CUT_020_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "You are quite strong."
+  },
+  "SUB_W02_EVAR_COMM_BLUE_AREA_000_CUT_030_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "Weak—just as I suspected."
+  },
+  "SUB_W02_EVAR_COMM_BLUE_AREA03_000_CUT_010_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "I didn't expect it to end so..."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_CLEAR_000_CUT_000_000": {
+    "speaker": "BlueWitchNormal",
+    "text": "Ah, I almost forgot. I would have you\nanswer honestly: what type of fiends\ndid we just fight?"
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_CLEAR_000_CUT_000_010": {
+    "speaker": "HERO",
+    "text": "Water."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_CLEAR_000_CUT_000_020": {
+    "speaker": "HERO",
+    "text": "Metal."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_CLEAR_000_CUT_000_030": {
+    "speaker": "BlueWitchNormal",
+    "text": "As I thought. Comparing that with what we've\ndiscovered ourselves, we now see our enemies'\nweakness. We've no choice but to seek the aid\nof the witches of the red."
+  },
+  "SUB_W02_EVAR_COMM_WAVE1_OUTPOST_BLUE_CLEAR_000_CUT_000_040": {
+    "speaker": "BlueWitchNormal",
+    "text": "No, I'm afraid water is what gives us witches\nof the blue our strength. I implore you to\nwatch your enemies closely when you fight."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_010_CUT_000": {
+    "speaker": "Mysterious_Woman",
+    "text": "The witches of the black are fell;\nthey rule the world's waters, and take\njoy in parching the forests and the land."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_010_CUT_010": {
+    "speaker": "Mysterious_Woman",
+    "text": "Weakhearted witches of the black will\nbe their own ruination if left alone.\nHeed me well: they must not be aided."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_020_CUT_000": {
+    "speaker": "Mysterious_Woman",
+    "text": "Be not involved with witches of the blue.\nThey have set down roots in this land\nand absorb the life force of the world."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_020_CUT_010": {
+    "speaker": "Mysterious_Woman",
+    "text": "Witches are fated to wither and die,\nand it is not for you to get involved.\nIndeed, to visit the Tree of the Forever\nYoung is to embrace your own end."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_030_CUT_000": {
+    "speaker": "Mysterious_Woman",
+    "text": "The cunning witches of the red; their ambition\nblazes in places unseen. Aye, 'twould be an\neasy thing for them to burn the world to ash."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_030_CUT_010": {
+    "speaker": "Mysterious_Woman",
+    "text": "Involve yourself not with witches of the red.\nInstead, cover this entire castle in crystal.\nIt would be so simple a thing."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_040_CUT_000": {
+    "speaker": "Mysterious_Woman",
+    "text": "The Dusk Pinwheel is ever moving.\nThis is due to the capricious nature\nof the cunning witches of the yellow,\nwho deceive as easily as they draw breath."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_040_CUT_010": {
+    "speaker": "Mysterious_Woman",
+    "text": "Take care, Watcher, for the Dusk Pinwheel\nis ever aiming for the center of the world.\nListen well, and do not approach it."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_050_CUT_000": {
+    "speaker": "Mysterious_Woman",
+    "text": "The witches of the white are skilled at deception;\ntheir power of metal a nuisance which can\nsever even the friendships of witches."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_MYSTERIOUS_VOICE_STORY_050_CUT_010": {
+    "speaker": "Mysterious_Woman",
+    "text": "They cry of justice, but impose their ways\non others. Leave such fallen to their own\ndevices, and involve yourself not with them."
+  },
+  "SUB_W02_EVAR_COMM_00_WORLDQUEST_YELLOW_STORY_RITGRAM_HINT_000_CUT_000": {
+    "speaker": "UI",
+    "text": "Use the Dusk Pinwheel's compass\nto place the pieces in positions\nthat reflect the witches' castles."
+  },
+  "SUB_W02_WRLD_COMM_AMYA_000_CUT_000_100": {
+    "speaker": "Ameya_Aisling",
+    "text": "Castle Black Swan is home\nto the witches of the black."
+  },
+  "SUB_W02_WRLD_COMM_AMYA_000_CUT_000_110": {
+    "speaker": "Ameya_Aisling",
+    "text": "To the west is Leone Bianco Palazzo,\nwhere witches of the white, like me,\nmake our base."
+  },
+  "SUB_W02_WRLD_COMM_AMYA_000_CUT_000_120": {
+    "speaker": "Ameya_Aisling",
+    "text": "To the south is the burning Flame Fortress.\nA perfect place for the witches of the red."
+  },
+  "SUB_W02_WRLD_COMM_AMYA_000_CUT_000_130": {
+    "speaker": "Ameya_Aisling",
+    "text": "The Dusk Pinwheel over there is where\nthe witches of the yellow reside."
+  },
+  "SUB_W02_WRLD_COMM_AMYA_000_CUT_000_140": {
+    "speaker": "Ameya_Aisling",
+    "text": "And finally, the witches of the blue call the\nTree of the Forever Young their domicile."
+  },
+  "SUB_W02_WRLD_COMM_AMYA_000_CUT_000_150": {
+    "speaker": "Ameya_Aisling",
+    "text": "In the center of all this is the Brilliant Tower,\nwhere the Arch Witch maintains the balance\nof mana across all of Pulchra."
+  },
+  "SUB_W02_WRLD_COMM_AMYA_000_CUT_000_160": {
+    "speaker": "Ameya_Aisling",
+    "text": "A once-in-a-generation crisis known as the\nCalamity is the threat that we witches must face.\nThe form that it takes is different each age,\nand this time we're dealing with crystallization."
+  }
+}

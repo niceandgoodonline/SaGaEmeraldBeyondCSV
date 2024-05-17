@@ -1,0 +1,2094 @@
+{
+  "SUB_W12_WRLD_SIUG_INITIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Such quietude... And what is this\ntension I feel in the air?"
+  },
+  "SUB_W12_WRLD_SIUG_INITIAL_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The people are frozen solid? How beautiful.\nIt appears darkness has already visited\nthis town, and we see now its aftermath."
+  },
+  "SUB_W12_WRLD_SIUG_INITIAL_000_CUT_000_020": {
+    "speaker": "General_Einherjar",
+    "text": "Has his curse already befallen this place?\nNo! I refuse to accept it!"
+  },
+  "SUB_W12_WRLD_SIUG_INITIAL_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, so this is your world, General. Even so,\nI am going to stop you before you attempt to\nexplain the situation. Do not rob from me\nthe joy of exploring this beautiful place."
+  },
+  "SUB_W12_WRLD_SIUG_INITIAL_000_CUT_000_040": {
+    "speaker": "General_Einherjar",
+    "text": "Oh, Grelon is beautiful, and no mistake.\nBut whether its beauty is authentic is\nsomething you will have to figure out\nfor yourself, Count."
+  },
+  "SUB_W12_WRLD_SIUG_INITIAL_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Darkness powerful enough to freeze a world?\nYes, I do believe I will enjoy this Grelon—\nand I expect I'll meet some truly enticing\nindividuals who prove worthy of my love."
+  },
+  "SUB_W12_WRLD_SIUG_INITIAL_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "People and buildings have been frozen solid.\nHow beautiful! I expect I will meet some\nvery enticing beings in this place."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Oh wow, mister! You're not frozen!\nBoy, am I ever glad to see you."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And you are?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Alexandre. Are you a traveler?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King.\nExplain why you remain unfrozen, boy."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I'd like to know the answer to that myself!\nThis morning I went into the mine, and when\nI came out, it was like this! This has all\nto be because of the curse..."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Oh, right. You wouldn't know about that, huh?\nSo, there was this emperor a long time ago.\nHe died cursing the people of Grelon, saying he'd\neventually freeze them right down to their hearts."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "I guess 'eventually' turned out\nto be today."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So you claim to have escaped the curse through\nsheer luck? One might well wonder if it was you\nwho triggered this curse in the first place."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "What? No! I didn't do anything,\nMr. Siugnas, I swear!\fAs for why I'm not frozen, the only thing\nI can think of is that it has something to do\nwith these matches I brought into the mine. "
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_090": {
+    "speaker": "Alexandre",
+    "text": "Their light is supposed to ward off evil,\nso maybe they kept me from freezing."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then why do you not use those\nmatches to thaw the frozen?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_110": {
+    "speaker": "Alexandre",
+    "text": "Hey, that's a good idea! Will you come\nwith me while I try to unfreeze people?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Will they even be alive\nonce the ice has thawed?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_000_130": {
+    "speaker": "Alexandre",
+    "text": "Um, you're kind of scaring me, mister.\nLet's just hurry and try to save them."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_010_000": {
+    "speaker": "General_Einherjar",
+    "text": "That child is behind all of this. It is\nso blindingly obvious, I didn't even feel\nthe need to point it out at the time.\nI mean, no one is <i>that</i> stupid!"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You believe he laid the curse\nwhich now has you so upset?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_010_020": {
+    "speaker": "General_Einherjar",
+    "text": "That <i>boy</i>? No, of course not—he's merely\na stooge who put the plan in motion.\nThe true mastermind is hiding somewhere."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I find it hard to believe a young child\ncould create a thing of such beauty—\nbut I DO believe the darkness in you\nis linked to whoever cast this curse."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So not everything in this world is frozen?\nMmm. I had hoped to enjoy this world in \nbeautiful silence, but it appears there\nare factors I failed to account for."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "How can you be so cruel?\nEveryone here is frozen!"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "All I know is the sweet spectacle of this\nfrozen world. If at one point it were not so,\nthere must be a reason. A natural occurrence,\nperhaps? Or some villain's intentional act?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I don't know HOW it happened!"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We have a curse powerful enough to freeze an\nentire world, and a boy curiously unaffected.\nWhat have you done, child?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The first unfrozen being I meet in this\nworld knows the very reason why this is?\fThis is obviously some sort of scheme with\nmyself as its target—but I am Siugnas,\nthe Dismal King, and I gladly accept\nthe challenge that awaits!\fNow let us use your matches to thaw\nthese people and see what transpires."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_000_110": {
+    "speaker": "Alexandre",
+    "text": "I don't really get what you're saying,\nbut it sounds like you're going to help!\nOh, and I'm Alexandre, by the way."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_010_000": {
+    "speaker": "General_Einherjar",
+    "text": "You see the trap, yet blunder willingly\ninto it? In a situation such as this,\nI suppose there is no other choice."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If that boy is the source of this curse,\nwhy invite my aid? I must know the reason.\fIf his intention is to use me,\nI will teach him that the labor\nof the Dismal King is not cheap."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_010_020": {
+    "speaker": "General_Einherjar",
+    "text": "It is a rare gift to behold your anger,\nCount. You clearly have a great many\nsecrets you are keeping from me!"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_100_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As do you, General."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "All I know is the sweet spectacle of this\nfrozen world. If it was not always so,\nthen the answer is clear. You understand\nmy meaning here, I take it?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "But I didn't do anything, I swear!\nThis has to be because of the curse!\fOh, right. You wouldn't know about that, huh?\nSo there's an emperor from a long time ago who\ndied cursing the people of Grelon, saying he'd\neventually freeze 'em right down to their hearts. "
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I'm guessing this is all happening because\nof the curse—and that the reason I'm not\nfrozen is because of these matches."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And how did you come by these\nmagical matches of yours?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "I... Oh, weird! I don't know who gave them to me!\nI found them in my pocket this morning, which is\nwhy I decided to go into the mine, but everything\nbefore that is a blank."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Someone clearly gave the boy these matches\nin an attempt to lure him into darkness.\nIs another fell presence at work here besides\nwhat froze the world? Could it be... Mmm."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Boy, I expect you could use those matches to\nthaw the frozen villagers. That is the role\nsomeone has assigned you to play in this.\nEmbrace it or refuse it: the choice is yours."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_000_110": {
+    "speaker": "Alexandre",
+    "text": "I'll do it! I'll save everyone!"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_000_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then you will have the protection of the\nDismal King as you go about your task.\nAnd yet, I wonder if your countrymen are\nstill alive beneath that hoary frost."
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_010_000": {
+    "speaker": "General_Einherjar",
+    "text": "A freezing curse and matches to melt it?\nAn elaborate scheme for certain,\nbut to what end?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We find ourselves in your world, General.\nHave no possibilities occurred to you?\nOr do you know more than you wish to say?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_010_020": {
+    "speaker": "General_Einherjar",
+    "text": "Need I remind you, Count, that you're\nthe one who bade me tell you nothing?"
+  },
+  "SUB_W12_EVAR_SIUG_REMNANT_200_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah. Indeed I did. In that case,\nI shall return to searching out\nthe enticing beings of this world."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_800_000": {
+    "speaker": "Alexandre",
+    "text": "I've only got eight matches left, which is\nprobably not enough to save everyone."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_800_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Eight matches remain. Understood."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_400_000": {
+    "speaker": "Alexandre",
+    "text": "We've already used half the matches.\nThere's only four left."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_400_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Four left. I see."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_410_000": {
+    "speaker": "General_Einherjar",
+    "text": "That man is all anyone talks about!\nIt's driving me crazy!"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_410_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You refer to the so-called\n'final emperor,' I take it?"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_410_020": {
+    "speaker": "General_Einherjar",
+    "text": "......"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_100_000": {
+    "speaker": "Alexandre",
+    "text": "We've only got one match left."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_100_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then who shall receive it?\nThe choice is yours."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "That was the last match.\nWe can't save anyone else."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then this is the end."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "No! I have to find a way\nto save EVERYONE!"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The fate of this world concerns me not.\nHowever, I do possess an interest in\nwhoever it was that chilled it so."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Boy, tell me all you know of this\nfinal emperor who appears in dreams."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "They say he cast the last rays of light upon\nan empire standing on the brink of collapse.\nHe ended up confined in his palace when his\npeople rebelled, and then the empire crumbled."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "<i>That</i> palace, I gather?"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is no doubt the final emperor is\ninvolved in some one way or another.\nShall we pay his palace a visit?"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "I'd really appreciate it,\nMr. Siugnas, sir!"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I act not for your sake. If the final emperor\ncast the last rays of light over this land,\nthen it was he who plunged it into darkness.\nThis piques my interest in him."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_010_000": {
+    "speaker": "General_Einherjar",
+    "text": "That child is certainly determined to\nkeep you around. He must understand\nhow powerful you truly are."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I care not a whit for the boy. All that interests\nme is the final emperor and his connection to you,\nGeneral—so perhaps it is time you chose to share\nthat story with your Dismal King."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_010_020": {
+    "speaker": "General_Einherjar",
+    "text": "All of his glories were won by me.\nHe much resented this fact,\nand wished me dead because of it."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So you died by the final emperor's hand\nbefore being reborn in Brighthome?"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_010_040": {
+    "speaker": "General_Einherjar",
+    "text": "I'm not such a fool as to die at his hand!\nI saw it coming, and so fled his service.\nBut with me gone, his empire crumbled almost\nimmediately. Ah, but it was madness..."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The foolish emperor in your story makes a\ndisconcerting contrast with the man capable\nof cursing this world so thoroughly.\fPerhaps there was more to him\nthan you realized. Or perhaps..."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_010_060": {
+    "speaker": "General_Einherjar",
+    "text": "Yes? Go on."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_010_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Or perhaps you yet hide something."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_000_CUT_010_080": {
+    "speaker": "General_Einherjar",
+    "text": "......"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_100_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The final emperor appeared in everyone's dreams,\nmeaning he is clearly the origin of the curse.\nAnd now that we know the cause, you are free\nto do whatsoever you please."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_100_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am not wholly satisfied with that.\nIf I were to leave now, all of my\nhard work will have been for naught. "
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_100_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Come, boy. I will lend you my aid in\nsolving the mystery of the final emperor."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Thank you, Mr. Siugnas! The palace\nwhere the final emperor was confined\nis right at the top of that hill."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_200_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If the final emperor froze these people in an\nattempt to plunge this world into darkness,\nwho was it that bequeathed you the matches?\nThere is another force at work in this world."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_200_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As the Dismal King, I would see where this\nworld's darkness leads. But in order to\ndo that, I must first solve the mystery\nof the final emperor."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_200_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "That's great, Mr. Siugnas! In that case, \nI think we should visit the final emperor's\npalace. It's right at the top of that hill."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "That was the last of the matches.\nWe can't save anyone else."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And you would give up?"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "But there's nothing else I can do!"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Boy, who was this 'final emperor'\nthat appeared in the dreams of all?"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "They say he cast the last rays of light upon\nan empire standing on the brink of collapse.\nHe ended up confined in his palace when his\npeople rebelled, and then the empire crumbled."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And I gather the palace\nis that building there?"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is clear the final emperor is \ninvolved in this incident somehow.\nLet us visit his palace."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_090": {
+    "speaker": "Alexandre",
+    "text": "Okay, Mr. Siugnas! And, um, I'm sorry,\nI shouldn't have given up hope so\neasily like I did."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If you need hope to keep moving forward,\nthen I bid you not to stop. For when your\nfeet cease moving, you may lose nothing,\nbut nor do you <i>gain</i> anything.\fBut the Dismal King intends to meet this\nfinal emperor, and for that, I need you."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_000_110": {
+    "speaker": "Alexandre",
+    "text": "If I can be of some help to you, sir,\nthen I'll do whatever I have to until\neverybody is safe again!"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_010_000": {
+    "speaker": "General_Einherjar",
+    "text": "See how determined you are! Does the\nfinal emperor truly interest you so?"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "To a man, all who were frozen saw the final\nemperor in their dreams. This is more than\na mere curse: the frozen people have come\nto regard this regent as a living presence."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_010_020": {
+    "speaker": "General_Einherjar",
+    "text": "And you think the final emperor has returned\nfrom the dead to rule this world anew? Absurd!\nWhat could the man possibly hope to accomplish\nin the Grelon of the present? "
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You must pose such questions to him.\nI care only about discerning the nature\nof the darkness he commands."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_010_040": {
+    "speaker": "General_Einherjar",
+    "text": "Then perhaps he's returned from the dead just\nto satisfy your personal curiosity, Count!\nBecause so far as the present residents of\nGrelon are concerned, he's merely a nuisance."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what is he to you, General?"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_010_CUT_010_060": {
+    "speaker": "General_Einherjar",
+    "text": "He... He is nothing to me!"
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_110_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The dreams of all here involved\nthe final emperor in some way.\nHe is clearly the key to this."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_110_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "You're right, Mr. Siugnas! And if we\nsolve that mystery, we might still\nbe able to unfreeze everyone!\fAnd, um, I'm sorry for giving up.\nI shouldn't have done that."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_999_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then save them we shall."
+  },
+  "SUB_W12_FUNC_SIUG_MATCHES_999_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I must think on this."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_999_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Hey, that's Leia! Leia! Hey, Leia!\nLEIA, CAN YOU HEAR ME!?"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_999_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You know this woman?"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_999_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Oh, Leia is wonderful! She's a scholar\non a survey team who knows all sorts\nof fascinating stories about the past."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_999_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. A scholar may know something\nabout why this world is frozen."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_999_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I'm going to use a match to save her.\nAre you ready?"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_999_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The Dismal King stands ever ready."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_999_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I must think on this."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_000_CUT_000_160": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You might say that. I am Siugnas,\nthe Dismal King. What happened here?"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_000_CUT_000_170": {
+    "speaker": "Leia",
+    "text": "Sadly, I have no idea—though perhaps we\ncould learn more from the other people\nyoung Alexandre frees from the ice.\nWould you be willing to help with this?"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_000_CUT_000_180": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You may rely on me."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_000_CUT_000_190": {
+    "speaker": "Leia",
+    "text": "That's good to hear."
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_000": {
+    "speaker": "Marion",
+    "text": "Hello, Alexandre. What brings you to Duvall?"
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "The library. We're hoping to do\nsome research on ancient symbols."
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_020": {
+    "speaker": "Marion",
+    "text": "How scholarly of you! Well, I know you could\nlearn a great deal about them from Nicolas\nFlamel's <i>Encyclopaedia Alchemica</i>, but I fear\nit is an extremely dangerous book.\fIts most important page is protected by mighty\nguardian beasts charged with keeping its secrets;\neven Leia from the survey team has decided\nnot to attempt it."
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If guardian beasts hold them fast,\nthey must be valuable secrets indeed.\nPermit me to handle them."
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_040": {
+    "speaker": "Marion",
+    "text": "In that case, I'll go prepare our\nsturdiest room for you. Good luck."
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is this the page?\nI can sense its power."
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "The text says not to touch it.\nSo, um... Are you sure you want to?"
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A curse of this nature\nwill have no effect on me."
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, this is the emblem of thawing."
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_090": {
+    "speaker": "Alexandre",
+    "text": "I don't think we have enough artifacts\nto make this shape."
+  },
+  "SUB_W12_EVAR_SIUG_MARION_KEYQUEST_000_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then let us search for more."
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Boy, this slope sure is steep..."
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Your legs tremble. Are you well?"
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "Th-they do not! Er, or maybe they do...\nBut you're a man! You should understand!"
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Yes, she certainly was a beautiful girl—\nbut let not lust distract you from our goal!\nFail successfully, and you will impress me."
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_010_040": {
+    "speaker": "Alexandre",
+    "text": "I know—but I'd still rather do it\nright once and impress Morgane!"
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "This is an artifact, right?"
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The ghost emerged to show us this.\nHow very considerate."
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "I suppose—but I still don't understand\nwhy it would only come out if we failed\nat a skiing challenge."
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps there are some it\ndoes not wish to deal with."
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_030_000": {
+    "speaker": "Alexandre",
+    "text": "I did it! I actually pulled it off!\nMorgane is going to think I'm SO cool!"
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_030_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So her esteem is of more value to\nyou than that of the Dismal King?"
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_030_020": {
+    "speaker": "Alexandre",
+    "text": "Whoops! That's right. It felt so good\nto be skiing that I completely forgot!"
+  },
+  "SUB_W12_EVAR_SIUG_MORGANE_KEYQUEST_000_CUT_030_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The temerity of you!"
+  },
+  "SUB_W12_EVAR_SIUG_ERIC_KEYQUEST_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This tunnel may be old,\nbut you have naught to fear."
+  },
+  "SUB_W12_EVAR_SIUG_ERIC_KEYQUEST_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "I'm counting on you, Mr. Siugnas!"
+  },
+  "SUB_W12_EVAR_SIUG_ERIC_KEYQUEST_000_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Fiends. There must be\nan artifact nearby."
+  },
+  "SUB_W12_EVAR_SIUG_ERIC_KEYQUEST_000_CUT_020_010": {
+    "speaker": "Alexandre",
+    "text": "Could this be one?"
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_000_000": {
+    "speaker": "Guillaume",
+    "text": "Help! Fiends! Fiends appeared out\nof nowhere and tore my fields apart!"
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Wow, that's terrible. Do you think it's\nrelated to the curse of the final emperor?"
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It well could be."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_010_000": {
+    "speaker": "Guillaume",
+    "text": "Well, Alexandre! You saved me again."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Your life was saved by the Dismal King.\nCherish it all the more for that."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_010_020": {
+    "speaker": "Guillaume",
+    "text": "I can't offer much in thanks, but you can\ntake anything you like from the windmill."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What could there be of value\nin this dusty shed?"
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_020_005": {
+    "speaker": "Alexandre",
+    "text": "All I see are bags of flour."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_020_010": {
+    "speaker": "Alexandre",
+    "text": "Wait, hold on... Isn't this an artifact?\nWhat's it even doing here?"
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is mine now."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We will show it to that man."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_020_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I consider this an offering\nto the Dismal King."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That man may know something\nabout this artifact."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_QUEST_000_CUT_020_060": {
+    "speaker": "Alexandre",
+    "text": "I was thinking the same thing."
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_100_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Have you heard about any ancient artifacts\nbeing found in this mine, Esperance?"
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_100_CUT_000_010": {
+    "speaker": "Esperance",
+    "text": "This is a mine, not an archaeological site.\nAlso, the other mines are still frozen,\nand I have my hands VERY full dealing\nwith all of them at the moment.\fNow perhaps you can go unfreeze those\nother mines and stop pestering me with\nall of these inane questions?"
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_100_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Eeep! Sorry we bothered you."
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_100_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I agree Alexandre acted in error when\nhe rescued you. He should have left you\nfrozen and thawed all the mines instead."
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_100_CUT_000_040": {
+    "speaker": "Esperance",
+    "text": "Huh. Touché, I guess. Mustn't forget\nthat Alexandre saved my life.\fMy apologies, Alexandre. I've been terribly\nbusy trying to find out what's going on in\nthe other mines, and I fear it's left my\ntemper rather frayed."
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "In that case, we'll check them out for you!\nIf I see anything out of the ordinary,\nI'll come let you know right away."
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_100_CUT_000_060": {
+    "speaker": "Esperance",
+    "text": "That would be a huge help.\nThank you."
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_100_CUT_000_070": {
+    "speaker": "Esperance",
+    "text": "Do be careful out there, all right?"
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_110_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do you think there could be\nan artifact in this mine?"
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_110_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "The thought <i>did</i> cross my mind...\nLet's see what we can find!"
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_QUEST_110_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Guess I shouldn't have figured\nit would come so easy."
+  },
+  "SUB_W12_EVAR_SIUG_VIRGILE_QUEST_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Why did you agree to help\nwith the firewood?"
+  },
+  "SUB_W12_EVAR_SIUG_VIRGILE_QUEST_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "Because this could also be\nconnected to the artifacts!"
+  },
+  "SUB_W12_EVAR_SIUG_VIRGILE_QUEST_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. In that case, so be it."
+  },
+  "SUB_W12_EVAR_SIUG_VIRGILE_QUEST_030_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "No sign of an artifact."
+  },
+  "SUB_W12_EVAR_SIUG_VIRGILE_QUEST_030_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "I know. Also, this wood\nwas <i>really</i> heavy."
+  },
+  "SUB_W12_EVAR_SIUG_VIRGILE_QUEST_030_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Though I would not wish to do this\nagain, I still consider the experience to be\na valuable one."
+  },
+  "SUB_W12_GIMK_SIUG_WOODPILE_ARTEFACT_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Hang on, I think an artifact just fell out!\nSo Virgile really <i>did</i> see one in the woods!"
+  },
+  "SUB_W12_GIMK_SIUG_WOODPILE_ARTEFACT_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is mine now."
+  },
+  "SUB_W12_GIMK_SIUG_WOODPILE_ARTEFACT_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We will show it to that man."
+  },
+  "SUB_W12_GIMK_SIUG_WOODPILE_ARTEFACT_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I consider this an offering\nto the Dismal King."
+  },
+  "SUB_W12_GIMK_SIUG_WOODPILE_ARTEFACT_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That man may know something\nabout this artifact."
+  },
+  "SUB_W12_GIMK_SIUG_WOODPILE_ARTEFACT_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I was thinking the same thing."
+  },
+  "SUB_W12_EVAR_SIUG_SANDRINE_KEYQUEST_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is an ancient inscription here,\nbut I cannot make any sense of it.\nWhat about you, boy?"
+  },
+  "SUB_W12_EVAR_SIUG_SANDRINE_KEYQUEST_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "Hmm, let me see... 'When the divine sword\nwas sealed in ice by the devil's power,\nGod used the might of spring light to...'\fSorry, Mr. Siugnas, but the word for 'melt'\nhas disappeared from the translation.\nI think someone actually erased it."
+  },
+  "SUB_W12_EVAR_SIUG_SANDRINE_KEYQUEST_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "But not from the original inscription itself.\nThe symbol that corresponds with the erased \nword remains, and that must be our 'melt.' "
+  },
+  "SUB_W12_EVAR_SIUG_SANDRINE_KEYQUEST_000_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "I don't think we have enough\nartifacts to make this shape."
+  },
+  "SUB_W12_EVAR_SIUG_SANDRINE_KEYQUEST_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then let us search for more."
+  },
+  "SUB_W12_EVAR_SIUG_THERMAE_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "These must be the bathhouse\nruins we heard about."
+  },
+  "SUB_W12_EVAR_SIUG_THERMAE_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Look, Mr. Siugnas! The graffiti!"
+  },
+  "SUB_W12_EVAR_SIUG_THERMAE_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This resembles the seal.\nCan you read it, boy?"
+  },
+  "SUB_W12_EVAR_SIUG_THERMAE_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Hmm... The words being used are really old,\nso I'm not entirely sure, but I think it says\nsomething like, 'These baths should all freeze!'"
+  },
+  "SUB_W12_EVAR_SIUG_THERMAE_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A curse upon the baths?\nHumans behave in such strange ways."
+  },
+  "SUB_W12_EVAR_SIUG_THERMAE_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I see nothing else of interest here."
+  },
+  "SUB_W12_EVAR_SIUG_TOWER_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "These must be the watchtower\nruins we heard about.\fA tower, mmm? This takes me back."
+  },
+  "SUB_W12_EVAR_SIUG_TOWER_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Look, Mr. Siugnas! The graffiti!"
+  },
+  "SUB_W12_EVAR_SIUG_TOWER_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This resembles the seal.\nCan you read it, boy?"
+  },
+  "SUB_W12_EVAR_SIUG_TOWER_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Hmm... It's really old language, so I'm not\nentirely sure, but I think it says something\nlike, 'Freeze, you creepy peepers!'"
+  },
+  "SUB_W12_EVAR_SIUG_TOWER_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What could they have been peeping on?\nHow very intriguing."
+  },
+  "SUB_W12_EVAR_SIUG_TOWER_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I see nothing else of interest here."
+  },
+  "SUB_W12_EVAR_SIUG_CHAPEL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "These must be the church\nruins we heard about."
+  },
+  "SUB_W12_EVAR_SIUG_CHAPEL_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Look, Mr. Siugnas! The graffiti!"
+  },
+  "SUB_W12_EVAR_SIUG_CHAPEL_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This resembles the seal.\nCan you read it, boy?"
+  },
+  "SUB_W12_EVAR_SIUG_CHAPEL_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Hmm... The words being used are really old,\nso I'm not entirely sure, but I think it says\nsomething like, 'Freeze, church!'"
+  },
+  "SUB_W12_EVAR_SIUG_CHAPEL_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Words from a believer or a detractor?\nEither way, I sympathize with whoever\nscrawled such a curse."
+  },
+  "SUB_W12_EVAR_SIUG_CHAPEL_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I see nothing else of interest here."
+  },
+  "SUB_W12_EVAR_SIUG_RUINS_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "This is one of those artifacts, isn't it?"
+  },
+  "SUB_W12_EVAR_SIUG_RUINS_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We require more artifacts\nto break the seal."
+  },
+  "SUB_W12_EVAR_SIUG_RUINS_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We have enough artifacts to break the seal.\nLet us return to the palace."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We are arrived at the palace\nof the final emperor."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_000_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Wait, Mr. Siugnas! Thing is, for as long\nas I can remember, I've heard the palace\nis cursed and that I should never, ever,\n<i>ever</i> go in here."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You have nothing to fear from curses\nwhile in the company of the Dismal King."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_000_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "I really admire your confidence, but I don't think\nwe'll be able to get inside. Those gates won't open,\nand even though those walls look climbable,\nthere are other invisible walls that block you off."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A magical barrier and a seal set\nin these gates? Fascinating."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_000_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "I sense great power here—everyone who lives\nnear this place can feel it. That's why we've\nbeen worried all this time that the curse of\nthe final emperor is real."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Even with my power, I cannot lift this;\nit appears the final emperor values his\nprivacy most highly.\fCan you think of anyone who might\nknow more of this seal, boy?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_000_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "Um, I guess maybe the members\nof the survey team?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then let us go and ask them."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_001_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "It's no good, sir—we can't get through.\nThe gates won't open, and there are invisible\nwalls all around. Um, I mean...unless you\nknow something I don't?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_001_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A magical barrier and a seal\nset in the gate? Fascinating."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_001_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The members of the survey team seem\nto know much about the final emperor.\nPerhaps they could tell us something."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Say, Leia? Do you happen to know how to\nopen the gates to the final emperor's palace?"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_010": {
+    "speaker": "Leia",
+    "text": "You know as well as I that there's no way inside\nthat palace. If there was, I'd already be in there\ngiggling with archaeological delight!"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Cease your tomfoolery and look into my eyes!\nThe final emperor. The gates. The seal.\nTell all you know to the Dismal King. Now!"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_030": {
+    "speaker": "Leia",
+    "text": "Y-yes... As I listened to your words,\nit was like the fog cleared from my mind.\nWhat a strange sensation!"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A small taste of my power has thrown\nwide the doors of your memory.\nNow tell us what you recall."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_050": {
+    "speaker": "Leia",
+    "text": "I don't know anything about how the\nseal works; the knowledge and techniques\ninvolved in commanding this sort of power\nhave long since been lost to us.\fAll we know is that the pieces of the gates'\nseal were scattered and likely discarded."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Discarded? Mmm. And yet, the seal\nwe saw earlier did seem to have\nsome pieces embedded within it."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_070": {
+    "speaker": "Leia",
+    "text": "We believe the adherents of the final emperor\nspent a great deal of time assembling the pieces\nof that seal. Sadly, this all happened centuries\nago, and the details have been lost to time."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_080": {
+    "speaker": "Leia",
+    "text": "We'd hoped our recent excavation of historical\nsites would turn up the rest of the pieces.\nNot because we're followers of the final emperor,\nmind; it's merely due to scholarly interest."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You have my gratitude, wise girl,\nfor your knowledge may well prove\nof use to the Dismal King."
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_100": {
+    "speaker": "Alexandre",
+    "text": "But those pieces could be anywhere\nin Grelon! We'll never find them all!"
+  },
+  "SUB_W12_EVAR_SIUG_LEIA_100_CUT_000_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do you forget who you address, boy?\nNothing is beyond the capabilities\nof the Dismal King!"
+  },
+  "SUB_W12_EVAR_SIUG_GABRIEL_100_CUT_100_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The rules of this world do not apply to me.\nI wish to lift this seal and meet this\n'final emperor' for myself."
+  },
+  "SUB_W12_EVAR_SIUG_GABRIEL_100_CUT_100_060": {
+    "speaker": "Gabriel",
+    "text": "So it's you! YOU'RE the one who's been\nfilling Alexandre's head with kooky ideas!"
+  },
+  "SUB_W12_EVAR_SIUG_GABRIEL_100_CUT_100_140": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If there is a key somewhere in this world,\nthat is enough—and this is a fine chance\nto explore and search for it."
+  },
+  "SUB_W12_EVAR_SIUG_ROMAIN_100_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I could do that."
+  },
+  "SUB_W12_EVAR_SIUG_ROMAIN_100_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "No."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_010_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Now let us lift this seal."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_010_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "Huh? Why didn't it work?\nWhat are we missing?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_010_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is a symbol of the freezing curse;\nwe saw one just like it at the ruins.\fAll this symbol can do is emit\nfreezing power. It is in no way\ncapable of lifting a curse."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_010_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Um, could we maybe melt it?\nIf only I still had some matches..."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_010_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That would require a symbol of melting.\nBut if there is a symbol for freezing,\nit stands to reason that its opposite\nexists as well."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_010_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Er, but do you even know what the\nmelting symbol is, Mr. Siugnas?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_010_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I do not use symbols; this is an art that\ndates back to the era of the final emperor.\nIs there some place where we might\nresearch various topics of antiquity?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_010_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "Yes! There's a library in Duvall,\nand a museum in Varsailles."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Now let us open the seal."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_010": {
+    "speaker": "Alexandre",
+    "text": "You heard everyone's dreams about the final\nemperor, right, sir? So what do you think?\nWhat's your sense of him now?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "All seemed troubled by their dreams,\nand the descriptions of him as cruel\nand terrifying may well be true.\fSo let us say I was not disappointed.\nIf anything, I've grown more intrigued."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_021": {
+    "speaker": "Siugnas_Darkking",
+    "text": "All seemed to enjoy their dreams,\nso the descriptions of him as cruel\nand terrifying may well be lies.\fI must admit I have been left rather\ndisappointed by the whole thing."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_022": {
+    "speaker": "Siugnas_Darkking",
+    "text": "All had a different experience in their dreams,\nwhich made it difficult to suss out truth.\nI hope he does not betray my expectations."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Is that right? Well, I feel like there's\nsomething awful waiting for us."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_031": {
+    "speaker": "Alexandre",
+    "text": "Is that right? Well, I feel like there's\nsomething wonderful waiting for us."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_032": {
+    "speaker": "Alexandre",
+    "text": "Is that right? Well, I feel like things\nare about to get very complicated."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If you would turn back, boy,\nthis is your final chance."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "No, Mr. Siugnas. I'm going."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_100_000": {
+    "speaker": "Leia",
+    "text": "A moment, Alexandre."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_100_010": {
+    "speaker": "Alexandre",
+    "text": "Leia? What are you doing here!?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_100_020": {
+    "speaker": "Leia",
+    "text": "I want to go with you to the final emperor's\npalace. As a scholar, I have a great desire\nto be one of the first to see it."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_100_030": {
+    "speaker": "Alexandre",
+    "text": "Well, that's fine with me.\nWhat do you think, Mr. Siugnas?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_100_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A wise king rewards good service.\nYou have my sanction."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_100_050": {
+    "speaker": "Leia",
+    "text": "Wonderful."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_200_000": {
+    "speaker": "Gabriel",
+    "text": "Alexandre, wait a moment."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_200_010": {
+    "speaker": "Alexandre",
+    "text": "Gabriel? What are you doing here!?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_200_020": {
+    "speaker": "Gabriel",
+    "text": "It seems I couldn't put my research behind me\nafter all; I just can't pass up a chance to\nenter the final emperor's palace!"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_200_030": {
+    "speaker": "Alexandre",
+    "text": "Well, that's fine with me.\nWhat do you think, Mr. Siugnas?"
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_200_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do as you will."
+  },
+  "SUB_W12_EVAR_SIUG_FENCEGATE_100_CUT_200_050": {
+    "speaker": "Gabriel",
+    "text": "You have my thanks."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So it was you, Alexandre."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "Long have I sought one who possesses a power such\nas yours! Indeed, I am in awe of how effortlessly\nyou broke the seal that had flummoxed so many for\nso long. You have my eternal gratitude."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And yet, you are still merely Alexandre.\nYou cannot be the final emperor, and it\nis he who I have come so far to see.\nSo you must reclaim your true power!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "Then...you feel the same as I?\nAh, but it is a delight to finally\nmeet someone who understands!\fMy power is sealed away within this palace.\nIf I could just reclaim that, the true\nemperor would finally be reborn!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So you hid yourself among your people as\nAlexandre in order to break your seal?\nThat was quite the complicated scheme.\fAnd yet, if all you sought was to lift\nthe seal, I fail to see why it was\nnecessary to thaw anyone."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "Ah, but I intend to thaw EVERYONE!\nThey are my subjects, after all."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So you consider your people your\nproperty, then? I must admit I see\nthe logic in this."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_080": {
+    "speaker": "Alexandre",
+    "text": "I understand you would not have come so far\nonly to stand in my way now, Siugnas—and\nbecause of this, I would make a final request.\fI want you to destroy the being who seals\naway the final emperor's power. Do that,\nand your wish to meet him can be granted."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Aaah ha ha ha! Long have we journeyed\ntogether, Alexandre, but never have I found\nyou more charming than I do now!\fSo be it! Let the name of the man who\nbrings about your resurrection be\nSiugnas, the Dismal King!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "My thanks, Siugnas. Also, does it\nplease you to have me thank you\nin the form of Alexandre?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Alexandre's gratitude would be naught but\nwind to me. However, I have now met the\ntrue final emperor, and so am satisfied."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "In fact, you have not. When next you\nvisit Grelon, I will greet you in the\ntrue form of the final emperor."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I do look forward to seeing\nwhat becomes of this world."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_000": {
+    "speaker": "General_Einherjar",
+    "text": "So this ends with the final emperor's rebirth.\nBut for the life of me, I can't understand\nWHY the people of Grelon would seek to\nlive under his rule!\fDo you not mark him as a talentless hack\nwhose lone answer for everything was\ncalling upon the powers of darkness!?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "None know this better than you, General.\nWhy did you rack up so many victories\nfor such a man? For of all his subjects,\nnone pursued him so fervently as you!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_020": {
+    "speaker": "General_Einherjar",
+    "text": "I cannot deny it: I lived for his praise.\nThe man entrusted to me an army despite\nmy appearance, and I won every battle so\nI might somehow repay him.\fYet in the end, it wasn't me he\nturned to, but the power of the dark."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_030": {
+    "speaker": "General_Einherjar",
+    "text": "To the final emperor, I was nothing but\nan anonymous retainer. The idea I was an\ninvincible military general propping up the\nemperor was MY impression, not his.\fIn truth, the man likely doesn't\neven remember who I was."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You needn't be so humble, General; I have\nno doubt your presence at his side is what\npushed him towards the darkness. Indeed,\nGrelon owes its present glory to you!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_050": {
+    "speaker": "General_Einherjar",
+    "text": "Regardless, it's a pleasure to work for\nsomeone who values me for a change.\nSo I beg of you, my Dismal King:\nPlease accept my eternal loyalty!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_060": {
+    "speaker": "Siugnas",
+    "text": "Then you shall have the brand."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_070": {
+    "speaker": "Siugnas",
+    "text": "I will give it to you later."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_080": {
+    "speaker": "Siugnas",
+    "text": "I welcome you into my thrall, General.\nI now have you in my gaze at all times."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_090": {
+    "speaker": "Siugnas",
+    "text": "Your blood will become a part of me,\nand will make me the Dismal King.\nTogether into eternity shall we live."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_000_CUT_020_100": {
+    "speaker": "Siugnas",
+    "text": "I appreciate the sentiment.\nLet us leave it there for now."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So it was you after all, boy."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "There never was a 'boy.' The Alexandre you knew\nwas a mere phantom I created to manipulate people\ninto breaking the seal on my palace—a seal which\nhas now been very much sundered."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I come here to meet you of my own\nfree will. Your manipulations were\nof no relevance to the Dismal King."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I will now complete my resurrection and arise\nto reign forevermore as the eternal emperor.\nDo you truly claim this an action of your will?\nThat your choice alone grants me life?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "All things are born of the darkness,\nand all forms of darkness serve\nthe interests of the Dismal King.\fFor this reason, one might say\nall you are born of...is me."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_000_060": {
+    "speaker": "Alexandre",
+    "text": "Pathetic fool! You misunderstand the extent\nof my power, and will pay for your hubris by\nbecoming a sacrifice in my resurrection rite!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_010_000": {
+    "speaker": "General_Einherjar",
+    "text": "Is the final emperor gone for good?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Darkness knows no oblivion. The people of\nthis world will one day seek the dark again,\nand the final emperor will be born anew."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_010_020": {
+    "speaker": "General_Einherjar",
+    "text": "So foolish people get the foolish\nleaders they deserve? Well, at least\nmy hands are clean this time."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are you so certain? Was it not the very\nineptitude of your emperor that led you\nto serve him all the more fervently?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_010_040": {
+    "speaker": "General_Einherjar",
+    "text": "One might say that. I sustained his regime\nwith my unbroken string of victories,\nso perhaps this farce of a resurrection\nis simply the result of my actions.\fIt was just my damned luck to be\nborn in a world led by fools."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_010_CUT_010_050": {
+    "speaker": "General_Einherjar",
+    "text": "But now I serve a far greater darkness,\nO Dismal King, and I ask that you accept\nmy undying loyalty!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Was that you, Alexandre?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "No. I think it was...Leia."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Child—or should I say, final emperor.\nAn impressive performance, feigning\nto accept my aid as you did earlier.\nI wonder what will happen now."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_040": {
+    "speaker": "Leia",
+    "text": "Nothing, dear king. Nothing is what happens.\nWhy, did you expect me to make some grand \ncackling proclamation about how the empire\nwill be reborn or the like?\fNo, the legend of the final emperor is long over,\nso I'm simply going to take some time and\nfigure out how to best use this power."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Are you going to unfreeze everyone?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_060": {
+    "speaker": "Leia",
+    "text": "Of course. Well, except for the jerks who pissed\nme off—they can stay frozen forever.\f...Aaah ha ha! Kidding! Oh my god, your faces!\nNo, out of respect for all of Alexandre's\nhard work, I intend to unfreeze everyone.\fThis is all because of you, Alexandre.\nYou should be very proud."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "This is... No. None of this feels right.\nI'm starting to understand why this place was\nsealed away in the first place, and I don't\nthink we should let the emperor's power out."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If that is your decision,\nI will accept it."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_000_090": {
+    "speaker": "Leia",
+    "text": "*sigh* Do the two of you know what it means\nto 'overstep your bounds'? If not, please allow\nme to teach you right now—but know that the\nfee for the lesson will be <i>your lives.</i>"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Leia, no! Stay with us!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_010_010": {
+    "speaker": "Leia",
+    "text": "...Alexandre? How strange. I was dreaming\nI'd acquired the power of the final emperor."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "It was a dream, Leia. Just a dream."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "Isn't that right, sir?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I suppose it was: a dream that\nwill forever go unachieved."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "Is it okay to leave things like this?\nI mean, Leia doesn't remember anything."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The final emperor may attempt to return\nonce more someday, regardless of the\nresolution you chose now."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "And when that happens, someone will\nhave to stand and face him."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Or someone can turn and run.\nThe choice is yours, boy."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "Well, I don't know if I'm capable of\nstanding, but I'll sure try my best."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Then I wish you well."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_030_000": {
+    "speaker": "General_Einherjar",
+    "text": "So that woman was the final emperor?\nI'm going to be a liability for our\nwarrior band if I keep misjudging\npeople so badly."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_030_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This palace is thick with dark energies.\nAt times, the forms those energies take\nmay vary depending on existing conceptions."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_030_020": {
+    "speaker": "General_Einherjar",
+    "text": "Do you think the final emperor was\ncorrupted by those same dark energies?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_030_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps so—just as you were."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_020_CUT_030_040": {
+    "speaker": "General_Einherjar",
+    "text": "You're saying I was corrupted by the darkness?\nNo, that's what happens <i>next</i> as I serve at\nyour side and get a taste of true power!\nI hope you accept my loyalty, O King!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Ahhh... At long last,\nI am returned to my palace."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Was that you, Alexandre?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "No. I think it was...Gabriel."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "An impressive ruse, final emperor—you\neven went so far as to freeze yourself!\nI wonder what happens next."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_040": {
+    "speaker": "Gabriel",
+    "text": "Nothing, dear king. Nothing is what happens.\nWhy, who could possibly believe that the final\nemperor might appear in this day and age?\fBut though the empire is naught but an\nanachronism at this point, the power here\ncan still be wielded in the modern day—\nand in very modern ways."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Are you going to unfreeze everyone?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_060": {
+    "speaker": "Gabriel",
+    "text": "Ah, that's right. There are still people\ntrapped in the ice, aren't there?\fWell, if you wish it, Alexandre, I will restore\nthem all. Otherwise, they will remain as they\nare now. This choice belongs to you alone—\nsuch is the essence of power."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_070": {
+    "speaker": "Alexandre",
+    "text": "This is... No. None of this feels right.\nI'm starting to understand why this place was\nsealed away in the first place, and I don't\nthink we should let the emperor's power out."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If that is your decision,\nI will accept it."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_000_090": {
+    "speaker": "Gabriel",
+    "text": "You two are more clever than I thought.\nOnly a fool would settle for being ruled\nby such a power—the wise person chooses\nto rule for themselves!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "I never imagined it would end like this."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is but a conclusion\nof your own making."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "But is the emperor's power really gone?\nOr will it be restored one day?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Which would you prefer?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "I don't want to be ruled through force,\nso if the final emperor does return,\nI'll have no choice but to fight him\nwith whatever I can muster."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If that is your decision,\nthere is nothing for me to add."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_021_CUT_030_000": {
+    "speaker": "General_Einherjar",
+    "text": "So that man was the final emperor?\nI'm going to be a liability for our\nwarrior band if I keep misjudging\npeople so badly."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "So you come to me once more, my new sacrificial\nlamb. You have been chosen; this monster that was\nonce hailed as emperor will now use your flesh to gain\na vast new power.\fAnd indeed, perhaps I will need to remain in\nthis land for the rest of time in order to\nkeep such a monstrous form at bay."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Great power is not achieved without great price.\nThe form you now take—and your duty to seal\naway that monster for all eternity—are all\npart of the cost you must pay to be emperor."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_000_020": {
+    "speaker": "LastEmperorDemon",
+    "text": "To protect Grelon, I must eliminate the infernal\nbeings who come here from the Conjoined Worlds.\n<i>This</i> is why I require power—the blame for\nmy actions rests entirely with you and your ilk!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As a king myself, I know well the obligation to\nprotect a realm from threats beyond its borders.\nAnd so, Lord of Grelon and final emperor, I will\ngrant you a boon. Merely ask it of me."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_000_040": {
+    "speaker": "LastEmperorDemon",
+    "text": "You can destroy this vile flesh and release\nmy tormented soul from its sealing duties.\nFor I am so very weary..."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "But if the soul of the final emperor has\nbeen protecting Grelon this whole time,\nwho's going to do it when you're gone!?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_000_060": {
+    "speaker": "LastEmperorDemon",
+    "text": "You have wisdom enough to know\nthe answer to that question."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_000_070": {
+    "speaker": "LastEmperorDemon",
+    "text": "Now, you infernal being!\nShow me the nobility of your soul!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The soul of the final emperor has\nbeen freed. The rest is up to you."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "I know that, sir. All of us who live in Grelon \nmust take on the responsibility of protecting\nit in the final emperor's stead. It won't be\neasy, but it has to be done."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Walk the road you believe in, boy.\nI bid you farewell."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "Thank you, Mr. Siugnas.\nFor everything."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_020_000": {
+    "speaker": "General_Einherjar",
+    "text": "So this world's darkness\nhas been banished?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Darkness knows no oblivion. Though the dark\nwhich once filled the vessel called 'the final\nemperor' has been scattered, it will someday\nfind a new vessel in which to gather."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_020_020": {
+    "speaker": "General_Einherjar",
+    "text": "And you think it might be that boy?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. I am uncertain if he is truly\ncapable of growing into such a being."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_020_040": {
+    "speaker": "General_Einherjar",
+    "text": "Ha ha ha ha! You're actually smiling!\nI thought you were a <i>Dismal</i> King?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_100_CUT_020_050": {
+    "speaker": "General_Einherjar",
+    "text": "Still, I am impressed with how you granted\nGrelon a moment's peace even as you planted\na seed of darkness within that boy.\fAnd though I may be unworthy, O King,\nwill you accept my undying loyalty?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_000_000": {
+    "speaker": "LastEmperorSoul",
+    "text": "So my new form comes at last. Rejoice, for you\nhave been chosen! Your body has all I require:\ncompatibility with my soul, great magical power,\nand the charm to inspire others.\fAnd now, my vessel, I would have you\noffer unto me your flesh!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is much to be gained from usurping\nthe Dismal King, but such a thing will\nnot come easily."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_000_011": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is no place for you, boy.\nStand down, then flee as fast\nas your legs can carry you."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_000_020": {
+    "speaker": "LastEmperorSoul",
+    "text": "I'll not let you escape this time!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_000_021": {
+    "speaker": "Alexandre",
+    "text": "BWAAAH!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "See now the Dismal King! If you believe\nyourself worthy to become a part of me,\nshow me that strength!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_000_040": {
+    "speaker": "LastEmperorSoul",
+    "text": "I will eradicate this filth!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Thank you, Mr. Siugnas.\nFor everything."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I achieved my goal of meeting the final\nemperor, and it proved to be quite the\nenjoyable time."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A shame I had to be expelled from Grelon,\nbut I suppose its fate is now in the hands\nof its people. So farewell, Alexandre."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_020_020": {
+    "speaker": "General_Einherjar",
+    "text": "Even you seemed surprised by the way\nthat one played out. How fascinating."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is no different from your battle plans, General.\nThere is always uncertainty when action becomes\nexecution; a man's talent is determined by how\nhe controls such elements on the battlefield."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_110_CUT_020_040": {
+    "speaker": "General_Einherjar",
+    "text": "Then perhaps I have talent enough to be\nworthy of serving you. O Dismal King,\nI ask that you accept my undying loyalty!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "Who seeks my power? Who has managed to\novercome the trial and enter my palace?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So you are the final emperor.\nIn that form, I can understand\nwhy your subjects fear you so."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_000_019": {
+    "speaker": "Leia",
+    "text": "Your Majesty!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_000_020": {
+    "speaker": "Leia",
+    "text": "Grant me your power! I beg it of you!\nBecome one with me, that I might\nuse your strength to save this world!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "No, Leia! That won't save anything!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_000_040": {
+    "speaker": "Leia",
+    "text": "You mustn't judge a book by its cover,\nAlexandre. Besides, it will be <i>me</i> using\nthis power.... Using it to save the world!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_000_050": {
+    "speaker": "LastEmperorDemon",
+    "text": "I admire your ambition! Now let us see\nif your flesh is as strong as your will."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_000_060": {
+    "speaker": "Leia",
+    "text": "Nngh... So much...power...\nsurging through me!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If you bare your fangs at me,\nI am left with no choice."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Leia, no! Stay with us!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_010_010": {
+    "speaker": "Leia",
+    "text": "I couldn't do it, Alexandre... I couldn't\nhandle the power of the final emperor..."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "Leia! LEIA!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Your pathetic puppet's strings are cut,\nFinal Emperor. What will you do now?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_010_040": {
+    "speaker": "LastEmperorDemon",
+    "text": "Impudent fool! Do you think that was\nall of the power I possessed!?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_010_041": {
+    "speaker": "LastEmperorDemon",
+    "text": "Have a taste of my TRUE might!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "So the final emperor is...gone?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Yes, though he may attempt\nto return someday."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "Well, that's okay. This is our problem now—\nso if he does come back, we'll defeat him.\nWe can't afford to let anyone be tempted\nby that power ever again."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If that is your decision,\nI will accept it."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "Thank you so much for everything, sir.\nI hope I can grow up to be as strong\nas you are someday."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I thank you as well, boy, for it is because\nof you that I was able to so thoroughly\nenjoy my time on this world. Farewell."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_030_000": {
+    "speaker": "General_Einherjar",
+    "text": "That man hasn't changed one bit: He still\nwraps himself in the dark while claiming\nit to be his own power."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_030_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And you once loved that man?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_030_020": {
+    "speaker": "General_Einherjar",
+    "text": "I...might not use that word. I won battle after\nbattle to bring him glory, but he always acted\nas if he was entitled to my victories. He believed\nhis dark powers won the day—not his general."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_030_030": {
+    "speaker": "General_Einherjar",
+    "text": "And while I learn to accept that, I would have\ngiven anything to hear just <i>one</i> word of praise.\nI wanted recognition. I wanted gratitude.\nWere these things so much to ask?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_030_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Such was the feeling that guided you to\nBrighthome, for the battlefield is where\nyou shine the brightest."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_120_CUT_030_050": {
+    "speaker": "General_Einherjar",
+    "text": "Which is why I ask this of you now,\nmy Dismal King: grant me more\nbattlefields on which to fight!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "Who seeks my power? Who has managed to\novercome the trial and enter my palace?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So you are the final emperor.\nIn that form, I can understand\nwhy your subjects fear you so."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_000_019": {
+    "speaker": "Gabriel",
+    "text": "Your Majesty!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_000_020": {
+    "speaker": "Gabriel",
+    "text": "Grant me your power! I beg it of you!\nBecome one with me, that I might use\nyour strength to bring order to this world!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_000_030": {
+    "speaker": "Alexandre",
+    "text": "Gabriel, no!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_000_040": {
+    "speaker": "Gabriel",
+    "text": "Power is an ugly thing, Alexandre.\nFreedom and kindness are beautiful, yes,\nbut beautiful things cannot maintain order\nin this world. Only force can do that."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_000_050": {
+    "speaker": "LastEmperorDemon",
+    "text": "You believe yourself ready for my power?\nGood. Let us see if that is truly the case."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_000_060": {
+    "speaker": "Gabriel",
+    "text": "Nngh... So much...power...\nsurging through me!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If you bare your fangs at me,\nI am left with no choice."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "Gabriel! Stay with us!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_010_010": {
+    "speaker": "Gabriel",
+    "text": "I couldn't handle the power of the\nfinal emperor, Alexandre... But you..."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "GABRIEL!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_020_000": {
+    "speaker": "Alexandre",
+    "text": "So the final emperor is...gone?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Yes, though he may attempt\nto return someday."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_020_020": {
+    "speaker": "Alexandre",
+    "text": "The lust for power is what kept the final\nemperor alive for so long. That's something\nwe all have inside us—and something that\nisn't ever going to change."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The seductive power of the dark is more\npowerful than you can imagine, boy.\nOne day, it may be <i>you</i> who becomes\nthe final emperor."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_020_040": {
+    "speaker": "Alexandre",
+    "text": "I can't deny that, but I still\ndidn't like what I saw of him."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ultimately, the choice will be yours.\nBut for now, farewell."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_121_CUT_020_060": {
+    "speaker": "Alexandre",
+    "text": "Thank you for everything, sir!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_000": {
+    "speaker": "LastEmperorSoul",
+    "text": "So my new form comes at last. Rejoice, for you\nhave been chosen! Your body has all I require:\ncompatibility with my soul, great magical power,\nand the charm to inspire others.\fAnd now, my vessel, I would have you\noffer unto me your flesh!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_010": {
+    "speaker": "Romain",
+    "text": "Remember well the fiend that haunts this\nplace, Alexandre. For when this occurs again\nsomeday, I want you to be the one to save\nthe children of the future."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_020": {
+    "speaker": "Romain",
+    "text": "As for you, demon, the new form you sought\nonce before stands before you now.\nCome and claim it, if you can!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_030": {
+    "speaker": "LastEmperorSoul",
+    "text": "I've no need of senile old fools. Begone! "
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_040": {
+    "speaker": "Romain",
+    "text": "Gah!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_050": {
+    "speaker": "Alexandre",
+    "text": "Romain!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_060": {
+    "speaker": "LastEmperorSoul",
+    "text": "Do not fear, child.\nSoon, you will be mine."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_070": {
+    "speaker": "LastEmperorSoul",
+    "text": "And as for you, my otherworldly visitor,\nI will brook no interference from your ilk!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As a fellow being of darkness, I'd not \nintended to interfere with you here.\fBut you disappoint me, and so I have changed\nmy mind. For the Dismal King is a being of\nultimate perfection, and your might is but\na shadow's memory of my own!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_000_090": {
+    "speaker": "LastEmperorSoul",
+    "text": "Bwaaa ha ha ha! Bold words indeed!\nBut have you the power to back them up?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_010_000": {
+    "speaker": "Alexandre",
+    "text": "So the final emperor is...gone?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As that man said, the final emperor\nmay someday attempt to return again.\nWhat happens then will be up to you."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "But I can't! I'll never be like Romain!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Just as you could never be me, for you and he\nare entirely different people. But for that\nsame reason, you could become a far more\nappealing being, should you wish it.\fI very much look forward to seeing\nif you choose this path."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_010_040": {
+    "speaker": "Alexandre",
+    "text": "I wish I had your confidence,\nbut...okay. I'll try."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "With the curse lifted, those who were once\nfrozen may have been freed. And with that,\nit is time for me to leave this world behind.\nFarewell to you, boy."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_200_CUT_010_060": {
+    "speaker": "Alexandre",
+    "text": "Without you, this all would have turned\nout very differently. Thank you for\neverything you've done for us, sir."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_000": {
+    "speaker": "LastEmperorDemon",
+    "text": "So you come to me once more, my new sacrificial\nlamb. You have been chosen; this monster that was\nonce hailed as emperor will now use your flesh to gain\na vast new power.\fAnd indeed, perhaps I will need to remain in\nthis land for the rest of time in order to\nkeep such a monstrous form at bay."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_010": {
+    "speaker": "Romain",
+    "text": "I have heard these words before, Alexandre—on\nthe day my father sent me fleeing from this palace.\nAnd I have spent every day since thinking about\nhow to release the emperor from his fate."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_020": {
+    "speaker": "Romain",
+    "text": "It is time to follow in my father's footsteps.\nExpel your exhausted self from that body and\nclaim mine instead! Then empower its flesh so\nI might seize command of this world from you!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_030": {
+    "speaker": "Romain",
+    "text": "Move forward with me, Alexandre."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_040": {
+    "speaker": "Alexandre",
+    "text": "I don't understand what you're saying,\nRomain! I don't understand at all!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_041": {
+    "speaker": "LastEmperorDemon",
+    "text": "!?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_050": {
+    "speaker": "Romain",
+    "text": "...There. The first phase is complete."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_051": {
+    "speaker": "Romain",
+    "text": "Now it is your turn, Alexandre."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Wait."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is just as you said, Romain: you have\nsuccessfully crafted the trap and guided\nus inside its gaping maw. Well done."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_080": {
+    "speaker": "Romain",
+    "text": "There is nothing for you here, traveler;\nyour mission lies elsewhere. There is no\ncause for you to wager your life upon this."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A fair point, as I care nothing\nfor the fate of this world.\fHowever, it is a king's duty to guide and\neducate his lessers—and it seems I must\ncorrect a wayward fool who mistakenly\nbelieves he has the better of me!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_010_000": {
+    "speaker": "Romain",
+    "text": "Where did I go wrong? All I ever wanted\nwas to release the final emperor..."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_010_010": {
+    "speaker": "Romain",
+    "text": "I am a sinful man. A horror.\nThere can be no absolution for this."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_010_020": {
+    "speaker": "Alexandre",
+    "text": "Oh, Romain..."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "The final emperor and Romain are both gone.\nDid... Did I do the wrong thing?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The fiend that had fused with the final\nemperor is gone. The curse upon Grelon\nis lifted, and all those who were once\nfrozen should now be thawed.\fI will permit you to determine whether\nthis constitutes victory or failure."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_010_050": {
+    "speaker": "Alexandre",
+    "text": "I do feel like some heavy burden has\nbeen lifted from me, so I think that\nmeans I succeeded. I really did it!"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_020_000": {
+    "speaker": "General_Einherjar",
+    "text": "Imagine wanting to be consumed by a\ndarkness such as that. Humans truly\nare creatures beyond redemption."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And you believe yourself different\nfrom them, General?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_020_020": {
+    "speaker": "General_Einherjar",
+    "text": "As a military man, I seek victory in all\nthings—but only through my own power.\nDoes that make me better? Perhaps not."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The dark lurks within everyone, everywhere.\nShow me that you can tame yours, General!\nFor I know you possess that ability."
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_020_040": {
+    "speaker": "General_Einherjar",
+    "text": "Did I just receive a writ of permission\nfrom the Dismal King himself? And am\nI meant to thank you for that?"
+  },
+  "SUB_W12_EVAR_SIUG_ICECASTLE_210_CUT_020_050": {
+    "speaker": "General_Einherjar",
+    "text": "What I want is to behold a deeper darkness.\nThrough that, I believe I will gain the power\nto dominate it, just as I dominate in war.\fSo please, my Dismal King!\nAccept my undying loyalty!"
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Aw, the door's locked.\nIs there a way to open it?"
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Leave that to me."
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Now is not the time."
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Something is here. Fall back, boy."
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_010_010": {
+    "speaker": "Alexandre",
+    "text": "Oh. Okay."
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Fiends nest within the darkness...\nAh, but this world is a most\npleasant place indeed!"
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_010_030": {
+    "speaker": "Alexandre",
+    "text": "The fiends are here because of the curse!\nGrelon's a peaceful place, I swear!"
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This shed is still pervaded\nwith darkness."
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_010_050": {
+    "speaker": "Alexandre",
+    "text": "And that does it! ...Er, right?"
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It appears so. Let us attempt\nto move that iron box."
+  },
+  "SUB_W12_EVAR_SIUG_FUNICULARBATTLE_000_CUT_010_070": {
+    "speaker": "Alexandre",
+    "text": "We can use this to get to the ski slope\nor down to the bottom of the hill!"
+  },
+  "SUB_W12_FUNC_SIUG_MELTBATTLE_000_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Siugnas, the ice is transforming!"
+  },
+  "SUB_W12_FUNC_SIUG_MELTBATTLE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The ice is turning into a fiend?\nHa ha! Wonderful! Come at me, then!"
+  },
+  "SUB_W12_FUNC_SIUG_MELTBATTLE_000_CUT_000_020": {
+    "speaker": "Alexandre",
+    "text": "I've never seen a real-life fiend before!\nPeople said they roam around in caves and mines,\nbut I always thought those were just stories\nmade up to scare children."
+  },
+  "SUB_W12_FUNC_SIUG_MELTBATTLE_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Could be this is connected to the\nemperor's curse somehow?"
+  },
+  "SUB_W12_FUNC_SIUG_MELTBATTLE_010_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Huh!? The ice is turning into a fiend again!"
+  },
+  "SUB_W12_FUNC_SIUG_MELTBATTLE_020_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Get a new trick, ice fiend? Too bad!\nYou can't surprise me anymore!"
+  },
+  "SUB_W12_FUNC_SIUG_MELTBATTLE_020_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That's the spirit."
+  },
+  "SUB_W12_FUNC_SIUG_MELTBATTLE_030_CUT_000_000": {
+    "speaker": "Alexandre",
+    "text": "Enough with this ice fiend business!"
+  },
+  "SUB_W12_FUNC_SIUG_MELTBATTLE_030_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Oh? I'm quite enjoying myself."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is there any presence in this\nworld capable of enticing me?"
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_010": {
+    "speaker": "Marion",
+    "text": "If you want precious books,\nI've got plenty of those."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_020": {
+    "speaker": "Morgane",
+    "text": "There's nothing more enticing\nthan a good ski run!"
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_030": {
+    "speaker": "Eric",
+    "text": "Enticin'? Around here? Uh..."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_040": {
+    "speaker": "Guillaume",
+    "text": "What could be more enticing than\na golden field of wheat!?"
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_050": {
+    "speaker": "Esperance",
+    "text": "I've no interest in answering\nyour questions."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_060": {
+    "speaker": "Virgile",
+    "text": "You ever tried eating snow?\nIt's pretty nasty."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_070": {
+    "speaker": "Romain",
+    "text": "There are many wonderful animals here,\nbut I doubt that's what you mean."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_080": {
+    "speaker": "Gabriel",
+    "text": "I met an enticing presence once,\nbut that was some twenty years back."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_090": {
+    "speaker": "Remi",
+    "text": "I would like to meet an enticing presence\nmyself one day—although perhaps it's better\nthat I don't. Might just end up thinking\nless of myself in comparison, you know?"
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_100": {
+    "speaker": "Leia",
+    "text": "An 'enticing presence'?\nWho talks like that!?"
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_000_CUT_000_110": {
+    "speaker": "Sandrine",
+    "text": "I know two: myself and Varsailles.\nDo you not agree?"
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So the final emperor himself\nhas come to greet me."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_100_CUT_000_010": {
+    "speaker": "LastEmperor",
+    "text": "Long have I waited for you, my destiny."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_110_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Alas, were I to take you\nfrom this place, your beauty would be lost.\nBut even should we part, the connection\nwe share will endure forever."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_110_CUT_000_010": {
+    "speaker": "Sandrine",
+    "text": "Thank you for this honor, O King."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_120_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul will ever be with mine."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_120_CUT_000_010": {
+    "speaker": "Marion",
+    "text": "Thank you for this honor, O King."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_130_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Alas, were I to take you\nfrom this place, your beauty would be lost.\nBut even should we part, the connection\nwe share will endure forever."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_130_CUT_000_010": {
+    "speaker": "Morgane",
+    "text": "Thank you for this honor, O King."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_140_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul will ever be with mine."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_140_CUT_000_010": {
+    "speaker": "Eric",
+    "text": "Ya honor me, O King."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_150_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul will ever be with mine."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_150_CUT_000_010": {
+    "speaker": "Virgile",
+    "text": "This is a real honor, O King."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_160_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul will ever be with mine."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_160_CUT_000_010": {
+    "speaker": "Gabriel",
+    "text": "Thank you for this honor, O King."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_170_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul will ever be with mine."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_170_CUT_000_010": {
+    "speaker": "Romain",
+    "text": "I thank you for this honor, O King."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_180_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul will ever be with mine."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_180_CUT_000_010": {
+    "speaker": "Remi",
+    "text": "Thank you for this honor, O King."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_190_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul will ever be with mine."
+  },
+  "SUB_W12_EVAR_SIUG_KENZOKU_190_CUT_000_010": {
+    "speaker": "Leia",
+    "text": "You honor me, O King."
+  },
+  "SUB_W12_EVAR_SIUG_RETURN_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have enjoyed my time on this world.\nClearly there was value in my coming."
+  },
+  "SUB_W12_EVAR_SIUG_RETURN_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Farewell, Grelon."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul will ever be with mine."
+  },
+  "SUB_W12_EVAR_SIUG_GUILLAUME_000_CUT_000_010": {
+    "speaker": "Guillaume",
+    "text": "Thank you for this honor, O King."
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul will ever be with mine."
+  },
+  "SUB_W12_EVAR_SIUG_ESPERANCE_000_CUT_000_010": {
+    "speaker": "Esperance",
+    "text": "You honor me, O King."
+  }
+}

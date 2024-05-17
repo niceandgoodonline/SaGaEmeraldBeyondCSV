@@ -1,0 +1,342 @@
+{
+  "C01_WRLD_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "In the Junction"
+  },
+  "C01_WRLD_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After leaving Avalon, you find yourself in a strange space where you must find your own path forward."
+  },
+  "C01_WRLD_DIVA_FIRSTMECH_000_TITLE": {
+    "speaker": "UI",
+    "text": "New Feature Unlocked"
+  },
+  "C01_WRLD_DIVA_FIRSTMECH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something has been released inside you."
+  },
+  "C01_WRLD_DIVA_SECONDMECH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Another Secret Unleashed"
+  },
+  "C01_WRLD_DIVA_SECONDMECH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Something is gradually being released deep inside you. Could it be your heart?"
+  },
+  "C01_WRLD_DIVA_THIRDMECH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Yet Another Secret Unleashed"
+  },
+  "C01_WRLD_DIVA_THIRDMECH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You hope everything that's been released inside you is proving useful, but it's impossible to calculate the answer. Is this what humans call 'unease'?"
+  },
+  "C01_WRLD_DIVA_FOURTHMECH_000_TITLE": {
+    "speaker": "UI",
+    "text": "A Diva Once More"
+  },
+  "C01_WRLD_DIVA_FOURTHMECH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Imakoo kept your body safe and sound. You cannot thank him enough."
+  },
+  "C01_WRLD_DIVA_INITIAL_100_TITLE": {
+    "speaker": "UI",
+    "text": "Back in the Junction"
+  },
+  "C01_WRLD_DIVA_INITIAL_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Apparently it's been a while since you were last in the Junction?"
+  },
+  "C01_WRLD_DIVA_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "On the Other Side of the Door"
+  },
+  "C01_WRLD_DIVA_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You still can't be sure if you gained anything from your experiences on the other side of the door."
+  },
+  "C01_WRLD_DIVA_THIRDMECH_100_TITLE": {
+    "speaker": "UI",
+    "text": "No Regrets"
+  },
+  "C01_WRLD_DIVA_THIRDMECH_100_DETAIL": {
+    "speaker": "UI",
+    "text": "As a mech, you have no lingering regrets to speak of. Not much else to do but give it your all."
+  },
+  "C01_WRLD_DIVA_FOURTHMECH_100_TITLE": {
+    "speaker": "UI",
+    "text": "Constantine's Disappearance"
+  },
+  "C01_WRLD_DIVA_FOURTHMECH_100_DETAIL": {
+    "speaker": "UI",
+    "text": "All of your functions have been unlocked, but Constantine is nowhere to be found."
+  },
+  "C01_SCAN_DIVA_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Probability Scanning"
+  },
+  "C01_SCAN_DIVA_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "As no one else can see the results of your scans, you must decide which door to open."
+  },
+  "C01_SCAN_DIVA_FOURTHMECH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Constantine Found"
+  },
+  "C01_SCAN_DIVA_FOURTHMECH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "What could his true goal be? Even with your memories restored, you can't work out the answer to that question."
+  },
+  "C01_SCAN_DIVA_INITIAL_100_TITLE": {
+    "speaker": "UI",
+    "text": "Where To Go?"
+  },
+  "C01_SCAN_DIVA_INITIAL_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You were told to go wherever you like, but have no idea where that is."
+  },
+  "C01_EVNT_DIVA_LASTBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "To Recover One's Self"
+  },
+  "C01_EVNT_DIVA_LASTBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You lost the power of song, yet yearn to sing again. Will that ever be possible?"
+  },
+  "C01_EVNT_DIVA_LASTBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Sing Again"
+  },
+  "C01_EVNT_DIVA_LASTBATTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "Power Restored"
+  },
+  "C01_EVNT_DIVA_LASTBATTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "You finally have your power back—and it's time to use it for the good of everyone!"
+  },
+  "C01_EVNT_DIVA_LASTBATTLE_100_BUTTON": {
+    "speaker": "UI",
+    "text": "To the Final Battle"
+  },
+  "C01_DOOR_DIVA_LASTBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Pursuing Constantine"
+  },
+  "C01_DOOR_DIVA_LASTBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If you want to learn the answers to everything that has transpired, you need to go after him."
+  },
+  "C01_DOOR_DIVA_LASTBATTLE_100_TITLE": {
+    "speaker": "UI",
+    "text": "No Escape"
+  },
+  "C01_DOOR_DIVA_LASTBATTLE_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Constantine has been using everyone this whole time—and you won't stand for it."
+  },
+  "C01_DOOR_DIVA_W01_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W01_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one is protected by a force field."
+  },
+  "C01_DOOR_DIVA_W01_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W02_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W02_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, the power of spirits flows into this one."
+  },
+  "C01_DOOR_DIVA_W02_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W03_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W03_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, negative energy is flowing into this one."
+  },
+  "C01_DOOR_DIVA_W03_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W04_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W04_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place that is over 95 percent water."
+  },
+  "C01_DOOR_DIVA_W04_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W06_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W06_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place where life-forms are distributed in a very odd way."
+  },
+  "C01_DOOR_DIVA_W06_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W07_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W07_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place with five unbalanced powers."
+  },
+  "C01_DOOR_DIVA_W07_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W08_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W08_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place deep beneath the earth."
+  },
+  "C01_DOOR_DIVA_W08_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W10_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W10_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one can be opened and closed from the other side."
+  },
+  "C01_DOOR_DIVA_W10_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W11_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W11_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place where the volatility of its plant habitat is outside acceptable limits."
+  },
+  "C01_DOOR_DIVA_W11_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W12_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W12_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place where overall activity levels have fallen to less than ten percent."
+  },
+  "C01_DOOR_DIVA_W12_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W13_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W13_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place that is 95 percent sand."
+  },
+  "C01_DOOR_DIVA_W13_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W14_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W14_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one is releasing scanning particles to all of the others."
+  },
+  "C01_DOOR_DIVA_W14_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W15_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W15_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place that is 95 percent affiliated with triangles."
+  },
+  "C01_DOOR_DIVA_W15_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W17_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W17_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place where 80 percent of the land is at war."
+  },
+  "C01_DOOR_DIVA_W17_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W18_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W18_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place where two warring factions are locked in a stalemate."
+  },
+  "C01_DOOR_DIVA_W18_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_W19_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for a Heart"
+  },
+  "C01_DOOR_DIVA_W19_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Though all the doors look the same, this one leads to a place that retains less than five percent of the technology it once boasted has survived."
+  },
+  "C01_DOOR_DIVA_W19_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Open the Door"
+  },
+  "C01_DOOR_DIVA_BATTLE_VH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Door of Combat"
+  },
+  "C01_DOOR_DIVA_BATTLE_VH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A truly grueling battle awaits beyond this door."
+  },
+  "C01_DOOR_DIVA_BATTLE_VH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  }
+}

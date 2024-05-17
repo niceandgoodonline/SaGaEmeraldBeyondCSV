@@ -1,0 +1,1214 @@
+{
+  "SUB_W17_WRLD_BOFO_INITIAL_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "I smell a battlefield.\nNo question about it."
+  },
+  "SUB_W17_WRLD_BOFO_INITIAL_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "I don't like this place at all.\nMaybe we picked the wrong door."
+  },
+  "SUB_W17_WRLD_BOFO_INITIAL_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Gotta be a coincidence. I mean,\nthe battlefield ain't chasin' us—\nwe're the ones chasing IT!\fAnyway, let's get this done\nand find our triangle."
+  },
+  "SUB_W17_SCAN_BOFO_INITIAL_WAVE_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hoo-ee! Look at them fancy digs!\nProbably got a king or queen\nlivin' high on the hog in there."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_000_000": {
+    "speaker": "King_Din",
+    "text": "Be welcome in Brighthome, my new warriors!\nI am Din, the king of this land, and full glad\nam I that you have answered my call. "
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "You sayin' you called us here?"
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Just so. I have summoned you hence so you\nmight join the battle against the forces\nof Chaos spreading o'er this land."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_000_030": {
+    "speaker": "King_Din",
+    "text": "We are set against them in battle without end,\nand require aid from warriors across the\nConjoined Worlds that we might continue\nour brave endeavor."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Don't sound like this war of yours\nis goin' so good, feller."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_000_050": {
+    "speaker": "King_Din",
+    "text": "Our brave allies continue their valorous fight\nacross the land—and while we have seen many\nvictories, so too have we known much of defeat.\nAlas, Chaos is not a foe easily laid low."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_000_060": {
+    "speaker": "King_Din",
+    "text": "I would have you two join us as we attempt to\ndrive our foes back unto the Cleft of Chaos,\nlocated far to the north of this castle."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "We're glad to help if you got a problem,\nbut this don't seem like the kinda situation\nthat's gonna change just by throwin' a couple\nmore bodies at it."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_000_080": {
+    "speaker": "King_Din",
+    "text": "It seems you do not truly comprehend\nyour strength as a warrior."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_010_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Are we under attack!?"
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_010_010": {
+    "speaker": "King_Din",
+    "text": "The nearby village and fields were set upon\nby the forces of Chaos, and the battle to\nsee them safe is now underway.\fAnd while I know it unseemly to ask this so\nsoon after your arrival in our world, I would\nhave you lend us your sword arms, that we might\ndrive our hated foe into the sea."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_010_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Gotcha. But first, we got a question:\nYou seen a strange triangle around here?\nOne that'd fit into this frame?"
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_010_030": {
+    "speaker": "King_Din",
+    "text": "Relics from the Conjoined Worlds can sometimes\nslip into Brighthome, and triangles like the one\nyou describe are among their number.\fThat said, it's possible your relic has\nalready fallen into the hands of Chaos."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "No sir, I don't like the sound of that.\nGuess this means there ain't no choice\nbut to take up the fight against Chaos."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_010_050": {
+    "speaker": "King_Din",
+    "text": "Then I hereby decree you to be our\nnewest warrior, and grant you both\nthe proud appellation of Seer."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_010_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "That some kinda nickname?"
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_010_070": {
+    "speaker": "King_Din",
+    "text": "All who find their way to Brighthome\nare granted a name by the king, Seer.\nThis is the way of things."
+  },
+  "SUB_W17_EVAR_BOFO_CASTLE_TUT_000_CUT_010_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, shoot! That's a name that makes a gal\nfeel mighty tough—even if I am lookin' for\ntriangles and not a new handle."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "Oh, you must be King Din's newest warriors.\nI'm President, and I lead the warrior band in\ncharge of this village and the surrounding area.\nIt's good to meet you both."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "That castle ain't even a hop away!\nHas the enemy really penetrated\nthis far into your territory?"
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "This war is unfolding across all Brighthome—\nand when things are going poorly for us on the\nother side of the bridges, the forces of Chaos are\nable to harry us as they like on this side."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "That said, they're nowhere near as strong here\nas they are at the positions closest to the\nCleft of Chaos, which is why a man like me\ncan still be of some use.\fMy field is governance, you see.\nNot war."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "So King Din called you here too."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Indeed. From what I understand, the people\nof this world can't hold their own in the war\nagainst the forces of Chaos, so they call on\nthe power of fighters from other worlds."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Uh-huh. And how's the war goin'?"
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_070": {
+    "speaker": "Chief",
+    "text": "Like I said, it's raging across Brighthome,\nwhich makes it difficult to get an accurate\npicture of the entire situation. That's likely\nwhy King Din is expecting so much from you."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, we'll do our best, but we still\nain't got a firm grasp on the entire\nsituation here."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_090": {
+    "speaker": "Chief",
+    "text": "You all have the power to see unobstructed.\nTo see much. To forecast. To watch. \nThat's why you were given your names."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Nobody can ever know what's gonna\nhappen on the battlefield—forecastin'\nit is a dang fool's errand."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_110": {
+    "speaker": "Chief",
+    "text": "While you'll often find yourself facing\nmany choices, you can only ever aid\none particular area at a time.\fAnd while the war will get worse in locations\nwhere you don't help, you can't do anything\nabout that. You're just two people, after all,\nso try to keep that in mind."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_000_CUT_000_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "Big responsibility, ain't it? Well, I reckon\nwe should go see how things are at the fields,\nseein' as we went and decided to come here first."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_010_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "You must be our new warriors—and I see King Din\nhas given you both the name of Seer. I'm President,\nand I lead the fighters in charge of this village and\nthe surrounding area. Thanks for the help."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_010_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sorry we took so long."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_010_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "Honestly, I was a little disappointed you went\nto the fields—but it wasn't <i>wrong</i>, per se.\nWhen it comes to where you go, all you can do\nis make whatever choice you think is best."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_010_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "But as you get deeper into the war and head over\nthe bridges, you need to have a plan in place—\nbecause any locations on this side that you leave\non their own will be targeted by the enemy.\fAnd look, I know our ultimate goal is to\nstrike at the Cleft of Chaos, but if all\nwe think about is advancing the line..."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_010_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Then all our positions on this side'a\nthe bridges will be in deep dung."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_010_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Yep. Slow and steady progress is the best\ncourse—or at least that's what I think.\nEveryone else seems to just want big\nflashy results, though, so who knows."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_TUT_010_CUT_000_080": {
+    "speaker": "Chief",
+    "text": "Now, c'mon. Let's work together\nand liberate Brighthome from the\nclutches of Chaos."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Well, you must be King Din's new warriors!\nI'm Manikin—I lead the warrior band that\nprotects these fields."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "The war's unfolding all across Brighthome, and\nwhen things are going bad on the other side of\nthe bridges, the forces of Chaos show up here.\nHell, sometimes they even come to these fields!"
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_030": {
+    "speaker": "Doll",
+    "text": "That said, the enemy's pretty weak here\ncompared to their strength near the\nCleft of Chaos, which is how a fellow\nlike me can still be useful.\fSo if you need someone to watch over\na field, I'm your guy."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "So King Din called you here, too."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_050": {
+    "speaker": "Doll",
+    "text": "Sure did! No idea why the king needed a wooden\nthing like me to help out, but here I am—and\nI want to do the best job I can to aid the people\nand fields of this world."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Uh-huh. And how's the war goin'?"
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_070": {
+    "speaker": "Doll",
+    "text": "Buddy, I'm basically a glorified scarecrow—\nthings like strategy and warfare and all that\nare beyond my pay grade. I'm guessing that's\nwhy King Din is expecting so much from you."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Not quite sure what he's expectin',\nseein' as we just got here and don't\nknow squat about this place."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_090": {
+    "speaker": "Doll",
+    "text": "Yeah, but he named you both Seer, right?\nThat means you've got the power to see\nthings unobstructed—to predict the future,\nwatch what unfolds, and understand it."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_110": {
+    "speaker": "Doll",
+    "text": "But no matter how much you can see, you can still\nonly help one place at a time—so the others will\njust have to figure out some other way to get by.\fI know that sounds rough, but trust me,\nyou'll get used to it. Just remember that\nyou're not fighting alone, so get out\nthere and do the best you can, okay? "
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_000_CUT_000_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "Big responsibility, ain't it? Well, I reckon\nwe should go see how things are in the village,\nseein' as we went and decided to come here first."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_010_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Well, you must be King Din's new warriors!\nI'm Manikin—I lead the warrior band that\nprotects these fields."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_010_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sorry we took so long."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_010_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "Yeah, it wasn't great watching you head\nto the village before us, but I figured\nyou'd make it out this way eventually.\nAnd now look! Here you are."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_010_CUT_000_030": {
+    "speaker": "Doll",
+    "text": "Just remember that the closer you get to\nthe Cleft of Chaos in the hinterlands,\nthe harder it will be for you to come\nback here and help out.\fBasically, while you're off helping at one\nlocation, positions elsewhere might fall to\nthe forces of Chaos. It's a huge bummer,\nbut them's the breaks."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_010_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm really not a big-picture kind of gal.\nMore a 'kick the everlovin' snot outta \nthe enemy in front of me' kind."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_010_CUT_000_050": {
+    "speaker": "Doll",
+    "text": "Well, as for me, my job is to keep\nan eye on things—and thankfully,\nI am GREAT at standing completely\nmotionless and staring at stuff!"
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_TUT_010_CUT_000_080": {
+    "speaker": "Doll",
+    "text": "Now get out there and let's give this\nfight all we've got—for Brighthome's\npeople AND its fields!"
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_000": {
+    "speaker": "Bully",
+    "text": "So you're the newcomer, eh, Seer? Tongues around\nhere are all a'wag about how you two are the\ngreatest thing since milled bread, which is why\nthe king is expecting great things from you.\fMe though? I don't trust that kind of talk—\nand folks like you who encourage it really\nchap my cheeks. So I think it's time to knock\nyou around and show you what's what."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hon, you need to learn to prioritize!\nGonna have to put you in your place\nright quick so we can get back to it."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_020": {
+    "speaker": "Bully",
+    "text": "Heh. You ain't half bad, Seer.\nThe name's Bully—or at least that's\nwhat people around here call me."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_030": {
+    "speaker": "Bully",
+    "text": "Yeah, that's what I thought:\nall talk, no fists.\fWell, I'm Bully—leader of the warrior band\nin these parts. Pretty short name, but you\nseem a bit dense, so write it down somewhere\nif it helps you remember."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "This ain't just any old mine,\nI take it?"
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_050": {
+    "speaker": "Bully",
+    "text": "I only just got here myself, so I don't\nknow a whole lot more than you.\nBasically, stuff that's dug up here gets\nsent to King Din's castle."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "So everything here is headed to\nKing Din back at the castle?"
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's use it to help nearby areas."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "Let's send him more."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_090": {
+    "speaker": "Bully",
+    "text": "Heh. I like the way you think, Seer—\nsending all this junk off to the king\nalways struck me as a hell of a waste. "
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wonder if he'll cotton to us\ntakin' his stuff like this."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_110": {
+    "speaker": "Bully",
+    "text": "We couldn't fight the forces of Chaos if we\nwere afraid of what the damn king might do!\nLook, I'll just sock him one if he complains,\nso don't worry that pretty face about it."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_TUT_000_CUT_000_120": {
+    "speaker": "Bully",
+    "text": "So the king's boots ain't been tonguewashed\nenough for your liking, eh? Sure thing, Seer.\nI hear ya loud and clear."
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_TUT_000_CUT_000_000": {
+    "speaker": "Lord",
+    "text": "You must be the new war assets I keep hearing\nabout. I take it you're traveling the world\nlike some commando unit? Ah, but that\nmakes me jealous...\fAnyway, I'm Warden, and it's my job\nto watch over the graveyard."
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_TUT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "This graveyard an important position?"
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_TUT_000_CUT_000_020": {
+    "speaker": "Lord",
+    "text": "When the dead are pulling themselves out of the\ndirt and roaming the land? You better believe it.\nHell, that's the dictionary definition of Chaos,\nain't it, pal?\fThat's why the enemy's always got\ntheir beady little eyes fixed on\nthe corpses here."
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_TUT_000_CUT_000_030": {
+    "speaker": "Lord",
+    "text": "On top of that, we've got bodies piling up like\ncordwood, and not enough hands to see 'em\nproperly buried. We're pretty much cleaning\nup after the other warrior bands' messes."
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_TUT_000_CUT_000_040": {
+    "speaker": "Lord",
+    "text": "Also, King Din might've named me Warden,\nbut I don't see why I've gotta resign myself\nto watching over some moldering old graves.\fI should be out there saving grand castles,\nsacred temples, and ancient ruins. I mean,\nhell, any idiot can keep an eye on a grave,\nbut I was meant for greater things!"
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_TUT_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Won't do no good to bellyache at us, soldier;\nbetter put in a request with your commanding officer\nto be reassigned somewhere. Anyway, you take care."
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_TUT_000_CUT_000_060": {
+    "speaker": "Lord",
+    "text": "Another who doesn't appreciate my value!"
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_TUT_000_CUT_000_000": {
+    "speaker": "Vacuum",
+    "text": "Hey! You there! I KNOW you're not here\nto steal my prey, right? Riiiiiight!?\fHmm... Now that I look more closely,\nI don't think I've seen your faces before.\nWhich warrior band are you with?"
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_TUT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Oh, we're with the Capitol City\nPolice Departme— Er, we're Seer.\nBoth of us, apparently."
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_TUT_000_CUT_000_020": {
+    "speaker": "Vacuum",
+    "text": "Ah, right. The new 'reinforcements.'\nI heard warriors with the power to\nturn the tide of the war were coming—\nthough can't say I'm seeing it in you."
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_TUT_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Whole lot'a weight gettin' thrown on\nour shoulders around here—but if we're\nin this fight, we're in it to win it."
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_TUT_000_CUT_000_040": {
+    "speaker": "Vacuum",
+    "text": "Well, so long as I get to keep fighting my heart\nout, I don't really care what you do or how the\nwar effort's going overall. I chew up fiends and\nspit 'em out, and that's what makes sense to me."
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_TUT_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey, good for you, darlin'.\nEveryone's got their reason to fight."
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_TUT_000_CUT_000_060": {
+    "speaker": "Vacuum",
+    "text": "I'm just a fighter invited here by King Din.\nIf you wanna know all the whys and hows,\nyou'll have to ask the big man himself."
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_TUT_000_CUT_000_070": {
+    "speaker": "Vacuum",
+    "text": "Now, are you gonna stand here talking\nto me all day, or are you gonna get out\nthere and scope some more positions?"
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_TUT_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'll get right to it."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_TUT_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "This is awful. I guess Chaos invaded\nand made a mess of this here town."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_TUT_000_CUT_000_010": {
+    "speaker": "Fiore",
+    "text": "But some people yet live here,\nand we fight to protect them.\fI am Floral. You are Seer,\nthe ones people are talking about, yes?"
+  },
+  "SUB_W17_EVAR_BOFO_CITY_TUT_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Rumors abound, eh? Hope they're all good."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_TUT_000_CUT_000_030": {
+    "speaker": "Fiore",
+    "text": "Good and bad in equal measure—the good\nbeing that you might be the ones who can\nbring an end to this wretched war."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_TUT_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "And the bad?"
+  },
+  "SUB_W17_EVAR_BOFO_CITY_TUT_000_CUT_000_050": {
+    "speaker": "Fiore",
+    "text": "I will not speak of it, for I place no\nstock in rumor. Rather, I would like to\nascertain the truth of you for myself."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_TUT_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey, I'm with you there—seein' is believin',\nas I always say. Rumors are usually just\npretty lies anyway."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_TUT_000_CUT_000_070": {
+    "speaker": "Fiore",
+    "text": "Then test your mettle against the forces\nof Chaos here in town so I might determine\nthe truth of you. Epuyke nogonoa kowo!"
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_000_CUT_000_000": {
+    "speaker": "Arsenal",
+    "text": "I am Gunner. You are Seer, yes?\nWe have succeeded in retaking\nthe stronghold, and I thank you\nfor your assistance. "
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Finally managed to get all the way here,\nright on the Cleft of Chaos's doorstep."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_000_CUT_000_020": {
+    "speaker": "Arsenal",
+    "text": "Indeed. This fortress was built to deal with\nthe mighty fiends that emerge from the Cleft,\nbut it had fallen into enemy hands long ago."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "So what's the situation?\nWe advancin' on the Cleft?"
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_000_CUT_000_040": {
+    "speaker": "Arsenal",
+    "text": "No, the time is not yet right. We will better\nour chances at successfully cutting off the\nCleft if we take all the positions around it."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sound thinkin'. We'll go check 'em out."
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_TUT_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Looks like we got a temple here. Bit surprisin'\nthere's no fiends, given that we're right in\nthe maw of the beast. Still, don't seem we\nneed to worry about protectin' this place."
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_TUT_000_CUT_000_010": {
+    "speaker": "Sorceress",
+    "text": "You do not! For I, Sorceress, am here!"
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_TUT_000_CUT_000_020": {
+    "speaker": "Sorceress",
+    "text": "I was surprised to see more newcomers,\nbut then realized you two must be Seer."
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_TUT_000_CUT_000_030": {
+    "speaker": "Sorceress",
+    "text": "Ah, but what fine timing! The forces of Chaos\nhave come, drawn as they are to your power.\nNow you can show me just what King Din's\nsecret weapons are made of!"
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_TUT_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "How's that, darlin'!?"
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_TUT_000_CUT_000_050": {
+    "speaker": "Sorceress",
+    "text": "You clearly know how to fight, Seer. Perhaps\nyou truly are the ones who will bring an end\nto the war with Chaos—not that such a thing\nis any fun where I'm concerned."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_000": {
+    "speaker": "Gadget",
+    "text": "Welcome to Hell, Seer. Have you found\nthe triangle you are looking for?"
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure ain't. So is this place\nin ruins because of Chaos?"
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_020": {
+    "speaker": "Gadget",
+    "text": "This place was a ruin well before the\nCleft of Chaos even opened. This is\nwhy it attracts the forces of Chaos,\nand why it has become Hell itself."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Ha! Guess that makes you the\nwatchman of Hell, don't it?"
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_040": {
+    "speaker": "Gadget",
+    "text": "You would name me the watchman of Hell?\nYou are a funny thing."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "You're different from the other warriors.\nDid King Din summon you here?"
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_060": {
+    "speaker": "Gadget",
+    "text": "I am Gadget. I came here with my own name,\nbut that's the one I use now that I'm working\nfor the king."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Pleasure. Anyway, give us a shout if you come\nacross our triangle—we think someone on\nChaos's side may have it."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_080": {
+    "speaker": "Gadget",
+    "text": "There is one thing alone that I can do:\nsend those beasts that come flooding from\nthe Cleft of Chaos to Hell. Kyaaa ha ha!"
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_TUT_000_CUT_000_090": {
+    "speaker": "Gadget",
+    "text": "And with that, it appears we've enemies\nclosing in. I'll be certain to share a couple\nof them with you!"
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_010_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Temple and the ruins both got their share'a\nweirdoes working 'em. Things like humanity\nstart losing all definition when you're stuck\nin the hell of war for too long."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_010_CUT_000_010": {
+    "speaker": "Arsenal",
+    "text": "Those warriors are interested in nothing save\ndemonstrating their own strength—they could not\ncare less about the war or cooperating with our\nother positions across the land.\fThat said, they are also the only reason\nyou and I are able to continue fighting\nso close to the Cleft."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_010_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "I reckoned as much, which is why I went\nto talk to 'em. That said, I think now's\nour chance to attack all at once."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_TUT_010_CUT_000_030": {
+    "speaker": "Arsenal",
+    "text": "I wager this is true—and hope so\nas well. For now is our chance\nto march on the Cleft of Chaos!"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_000_000": {
+    "speaker": "King_Din",
+    "text": "So you have arrived at last.\nWell done, Seer."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "King Din! Sorry, but we ain't\nquite claimed the ruins yet."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Be that as it may, we cannot let\nslip this opportunity to strike\nat the Cleft of Chaos."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Suppose there's no tellin' when we might\nget another shot at this. Let's roll out."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_010_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "King Din! Sorry, but we ain't\nquite claimed the ruins yet."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_020_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "What're you doing all the way out here,\nKing Din!? The war'll be over if you go\nand get yourself killed!"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_020_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "I would bear witness to the\nfinal battle for myself."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_020_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Talk about rampin' up\nthe dang pressure..."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_040_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "This legendary treasure\nis sure helpin' out."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_040_CUT_000_020": {
+    "speaker": "King_Din",
+    "text": "Do not let up! Strike at them\nand seal the Cleft!"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_040_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "On to victory!"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_000": {
+    "speaker": "King_Din",
+    "text": "And with that, the Cleft is sealed.\nFor a time, at least, peace will\nreign across the land."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Shouldn't we close 'er up for good?"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "We have attempted many approaches—such\nas blockading it with soil or water—but ever\ndoes the maw of Chaos yawn wide.\fAll we can do is enjoy a moment's peace\nuntil the time comes when we must\nsummon warriors once more."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Meaning the fight'll just start again\none day. Whole thing's pointless."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "We do not think so. The Cleft's appearance\nleads to the arrival of warriors, and we\nare able to meet their kind from across\nthe worlds only when it is opened."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, I reckon we DID meet a real colorful\ncast of warriors, even if we didn't find\nthe triangle we need."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_060": {
+    "speaker": "King_Din",
+    "text": "Ah, but I recently got my hands on a triangle\nthat found its way into Brighthome from the\nConjoined Worlds. Behold!"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Heck, that's it! Thanks a heap, King Din.\nGetting our hands on this means we'll\nbe able to look back on our experience\nin Brighthome as a real fine thing."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_080": {
+    "speaker": "King_Din",
+    "text": "It has been an unparalleled honor\nto meet you both, Seer!"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "Say, do you think King Din really found\nthat triangle recently like he said?"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "We have it. Prying into the hows\nand whys won't do us no good."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_000_CUT_010_110": {
+    "speaker": "Formina_Franklyn",
+    "text": "Fair enough."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_020_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wait, you mean it ain't over?"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_020_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "The Cleft of Chaos will open again erelong,\nat which point our battle will flare anew.\nWarriors will then arrive in Brighthome once\nmore, for such is the way of things here."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_020_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "This place is an eternal battlefield."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_020_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "Correct, Seer. Brighthome is a world locked\nin eternal conflict—but this only makes our\nfleeting moments of peace all the sweeter.\fNow then, the object you seek is here,\nso I suggest you take it."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_020_CUT_010_041": {
+    "speaker": "Bonnie_Blair",
+    "text": "I got no interest in gettin' caught up\nin another war without end, thanks."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_020_CUT_010_050": {
+    "speaker": "King_Din",
+    "text": "I thank you one and all,\nmy brave warrior bands!"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_030_CUT_010_000": {
+    "speaker": "King_Din",
+    "text": "And thus is the Cleft blocked off.\nYour strength was formidable, Seer—\nrather too formidable, in fact."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_030_CUT_010_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "You make it sound like we did\nsomething you aren't wild about."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_030_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "I so enjoy watching our warriors do battle that\nI often find myself wishing the war might go on\nforever. Thus did I call you here to shore up\nthe fighting strength of our bands, but now..."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_030_CUT_010_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "You must've been a warrior at some point, right?\nSo how can you look at all this and ENJOY it!?\nHell, you know EXACTLY what it means to be\nthe grunt in that position, don't you!?"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_030_CUT_010_031": {
+    "speaker": "Formina_Franklyn",
+    "text": "Bonnie..."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_030_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "The triangle you seek is here.\nTake it and begone."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_030_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "I'd bet you can't even comprehend\nwhat it means to get this triangle!"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_040_CUT_010_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We got legendary power on our side and\nSTILL can't close the Cleft up for good?"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_040_CUT_010_020": {
+    "speaker": "King_Din",
+    "text": "Correct. The Cleft of Chaos will open again erelong,\nat which point our battle will flare anew. New warriors\nwill then arrive in Brighthome, making this but a single\npage in our great history."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_040_CUT_010_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "And what'll happen to\nthe legendary weapon?"
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_040_CUT_010_040": {
+    "speaker": "King_Din",
+    "text": "A legend must ever remain a legend.\nAnd left as-is, the triangle you seek\nwould likely become a legendary\nundiscovered treasure of its own."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_040_CUT_010_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, let's hope that don't happen."
+  },
+  "SUB_W17_EVAR_BOFO_HOLE_040_CUT_010_060": {
+    "speaker": "King_Din",
+    "text": "Thus did I have Pirate search it out.\nOne legend is plenty."
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Looks like we got a temple here. Bit surprisin'\nthere's no fiends, given that we're right in\nthe maw of the beast. Still, don't seem we\nneed to worry about protectin' this place."
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_000_CUT_000_010": {
+    "speaker": "Sorceress",
+    "text": "You do not! For I, Sorceress, am here!"
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_000_CUT_000_020": {
+    "speaker": "Sorceress",
+    "text": "I was surprised to see more newcomers,\nbut then realized you two must be Seer."
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_000_CUT_000_030": {
+    "speaker": "Sorceress",
+    "text": "Ah, but what fine timing! The forces of Chaos\nhave come, drawn as they are to your power.\nNow you can show me just what King Din's\nsecret weapons are made of!"
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "How's that, darlin'!?"
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_000_CUT_000_050": {
+    "speaker": "Sorceress",
+    "text": "Perhaps you truly are the one who will bring\nan end to the battle with Chaos. I pray this\nmight be so, for I have grown weary of war."
+  },
+  "SUB_W17_EVAR_BOFO_TEMPLE_000_CUT_000_060": {
+    "speaker": "Sorceress",
+    "text": "So...you know. Get on that."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_000_CUT_000_000": {
+    "speaker": "Gadget",
+    "text": "Why have you come to this Hell?\nIs the triangle truly so important?"
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure is—but also we're a mite\nworried about the situation here."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_000_CUT_000_020": {
+    "speaker": "Gadget",
+    "text": "You are worried about ME? Ha ha ha!\nHow wonderfully insincere of you."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Did King Din summon you here, too?"
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_000_CUT_000_040": {
+    "speaker": "Gadget",
+    "text": "I am Gadget. I came here with my own name,\nbut that's the one I use now that I am working\nfor the king."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "That means we're on the same team, then.\nYou say the word if somethin' goes sour and you\nneed help, 'cause isolation on the battlefield is a\ngreat way to get yourself dead."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_000_CUT_000_060": {
+    "speaker": "Gadget",
+    "text": "As though 'help' could even exist in Hell.\nIf you cling to the thread of salvation,\nsooner or later it will snap and send you\nplummeting into the abyss."
+  },
+  "SUB_W17_EVAR_BOFO_RUIN_000_CUT_000_070": {
+    "speaker": "Gadget",
+    "text": "And with that, the enemies close in.\nLet us see how you fare!"
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_000_CUT_000_000": {
+    "speaker": "Lord",
+    "text": "If you've come for a grave, you can dig your own.\nI don't have enough hands to be digging one for\neverybody who keels over right now."
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "I ain't plannin' on pushin' up daisies\njust yet. So are them fiends some kinda\ngraverobbers, then?"
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_000_CUT_000_020": {
+    "speaker": "Lord",
+    "text": "They sure as hell are! The dastards come\nhere, dig up corpses, and turn 'em into\nservants of Chaos.\fAnd if they manage to take the graveyard,\nwe'll be up to our armpits in enemies\ntrying to send us into our own graves."
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "So this graveyard's an important strategic\nposition? You must be a heckuva warrior\nif you're charged with watchin' the place."
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_000_CUT_000_040": {
+    "speaker": "Lord",
+    "text": "Hell yeah I'm strong—ask any of the other\nwarriors around here, and they'll all tell ya\nno one holds a candle to the Warden!"
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, keep up the good work, y'hear?"
+  },
+  "SUB_W17_EVAR_BOFO_GRAVEYARD_000_CUT_000_060": {
+    "speaker": "Lord",
+    "text": "Don't leave! I've got more to say!\n...Bah, they're gone."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "The forces of Chaos can even build\na big ol' fortress like this?\nThat's a pretty human way to war."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_000_CUT_000_010": {
+    "speaker": "Arsenal",
+    "text": "They did not build this stronghold—\nthey stole it from us. This is why\nit's proven so difficult to reclaim."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Gotcha. Well then, our first priority should\nbe takin' the place back, 'cause we'll have\nvictory in our sights if we do!"
+  },
+  "SUB_W17_EVAR_BOFO_FORT_000_CUT_000_030": {
+    "speaker": "Arsenal",
+    "text": "That is correct. Also, I am Gunner,\nthe leader of the warrior band here.\nThank you for your aid, Seer."
+  },
+  "SUB_W17_EVAR_BOFO_FORT_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "My pleasure, darlin'."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "This is awful. I guess Chaos invaded\nand made a mess of this here town."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_000_CUT_000_010": {
+    "speaker": "Fiore",
+    "text": "It did—and soon, every place in this\nworld will suffer the same fate."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hey, we ain't lost yet."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_000_CUT_000_030": {
+    "speaker": "Fiore",
+    "text": "If the warrior bands were truly so powerful,\nthis war would not have dragged on so long.\nAlas, the reality of the war with Chaos is\nnot so kind as all that."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "I know people don't survive wars with pretty\nideas alone, but I still reckon we can do\nsomethin' about this one."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_000_CUT_000_050": {
+    "speaker": "Fiore",
+    "text": "Indeed, for you are both Seer."
+  },
+  "SUB_W17_EVAR_BOFO_CITY_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "You're talkin' like you can see the future,\nthere, pardner. What's your story?"
+  },
+  "SUB_W17_EVAR_BOFO_CITY_000_CUT_000_070": {
+    "speaker": "Fiore",
+    "text": "I am Floral, and the land tells me all.\nThe forces of Chaos will be upon us soon.\nI pray you might fight them off, Seer!\nEpuyke nogonoa kowo!"
+  },
+  "SUB_W17_EVAR_BOFO_MINE_000_CUT_000_000": {
+    "speaker": "Bully",
+    "text": "Oh, joy. King Din's little plaything\nis back. Not looking all that reliable\nthis time, are you, plaything?"
+  },
+  "SUB_W17_EVAR_BOFO_MINE_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "King Din called you here same as us.\nNo need for the lip when there ain't\nno difference between us."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_000_CUT_000_020": {
+    "speaker": "Bully",
+    "text": "No difference!? NO DIFFERENCE!?\nI'll SHOW you the difference, plaything!"
+  },
+  "SUB_W17_EVAR_BOFO_MINE_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Guess there was a difference after all."
+  },
+  "SUB_W17_EVAR_BOFO_MINE_000_CUT_000_040": {
+    "speaker": "Bully",
+    "text": "Aw, damn it all."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_000_CUT_000_000": {
+    "speaker": "Doll",
+    "text": "Thanks a ton for your help out here\nin the fields. I mean, not that we're\ngrowing anything, but still."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Then why now make your way\nto the front lines and fight?"
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_000_CUT_000_020": {
+    "speaker": "Doll",
+    "text": "Cause I'm Manikin, a glorified scarecrow\nwho can't do anything BUT protect fields!"
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "So why'd King Din call you here?"
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_000_CUT_000_040": {
+    "speaker": "Doll",
+    "text": "No idea. Glorified scarecrow, remember?\nBut there WAS something I realized this\none time when I was staring motionlessly\nat the fields..."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "You score some intel, feller?\nLet's hear it."
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_000_CUT_000_060": {
+    "speaker": "Doll",
+    "text": "There are no crows in Brighthome!"
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Oh. Okay. Well, you keep up\nthe good work, y'hear?"
+  },
+  "SUB_W17_EVAR_BOFO_FIELD_000_CUT_000_080": {
+    "speaker": "Doll",
+    "text": "Thanks!"
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_000_CUT_000_000": {
+    "speaker": "Vacuum",
+    "text": "Oh, I'm so glad you're here, Seer!\nI've been waiting for you to come\nfor SO LONG!"
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Somethin' wrong?"
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_000_CUT_000_020": {
+    "speaker": "Vacuum",
+    "text": "You gotta take me the hell out of here,\nbecause I absolutely cannot STAND\nbeing here one second longer!\fC'mon, you can do that, right? Please!\nI'll do anything! I'm begging you!"
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Cool your jets. Er, literally, maybe?\nTell me what happened to set this\nwhole mess off."
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_000_CUT_000_040": {
+    "speaker": "Vacuum",
+    "text": "I chew up fiends and spit 'em back out!\nThen I do it again! And again! And AGAIN!\nI can't take it anymore! I CAAAAAAN'T!"
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "I hear that. But King Din called you here,\nand I can't very well take you away without\nso much as a by-your-leave. I'm real sorry."
+  },
+  "SUB_W17_EVAR_BOFO_CHURCH_000_CUT_000_060": {
+    "speaker": "Vacuum",
+    "text": "No! Don't go! Don't leave me here!"
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_000_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "If the forces of Chaos are showing up this\nclose to the castle, this war might finally\nbe close to ending...in our defeat.\fOh. Hello there. I'm President."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Hang in there, feller! Once you get the notion\nof defeat in your head, you're already dead!\nThat's just how the battlefield works."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_000_CUT_000_020": {
+    "speaker": "Chief",
+    "text": "So you're Seer. Well, considering you only\njust arrived, I see why you would trust\nin King Din's power.\fBut for the rest of us, it doesn't mean\na thing. That guy doesn't do a damn thing;\nwhatever we accomplish, we do on our own."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_000_CUT_000_030": {
+    "speaker": "Chief",
+    "text": "I know the warrior bands are doing their best,\nbut there's been no indication that the forces\nof Chaos are weakening—so if you think I'm\nlosing heart, that's why."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, we're gonna do something about it,\nso you just hang in there a little bit longer.\nBelieve in the power of Seer, pardner!"
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_000_CUT_000_050": {
+    "speaker": "Chief",
+    "text": "Well, you certainly seem confident,\nso...I guess I'll trust you."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Appreciated."
+  },
+  "SUB_W17_EVAR_BOFO_REBEL_000_CUT_000_000": {
+    "speaker": "Immunity",
+    "text": "Blargh! It's just as I feared! \nThe rebels have appeared!"
+  },
+  "SUB_W17_EVAR_BOFO_REBEL_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "So you expected this?"
+  },
+  "SUB_W17_EVAR_BOFO_REBEL_000_CUT_000_020": {
+    "speaker": "Immunity",
+    "text": "My name's Immunity, and it's my job to\nkeep the warriors King Din summoned from\nbetraying him and joining up with Chaos."
+  },
+  "SUB_W17_EVAR_BOFO_REBEL_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "But some of 'em did anyway."
+  },
+  "SUB_W17_EVAR_BOFO_REBEL_000_CUT_000_040": {
+    "speaker": "Immunity",
+    "text": "YES, ACTUALLY! THAT'S EXACTLY WHAT THEY DID!\nI mean, King Din may have named me Immunity,\nbut I can't immunize people from wanting to\nrebel! Heck, all I really do is carry oxygen..."
+  },
+  "SUB_W17_EVAR_BOFO_REBEL_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Then we better crush 'em before anyone else\ngets it in their sweet little heads to rebel.\nYou just let us handle this one, feller!"
+  },
+  "SUB_W17_EVAR_BOFO_REBEL_010_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "But some of 'em did anyway."
+  },
+  "SUB_W17_EVAR_BOFO_REBEL_010_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well then, reckon we'll have\nto do somethin' about 'em."
+  },
+  "SUB_W17_EVAR_BOFO_ITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Where in the hells be that legendary treasure,\nby gar!? I searched this blasted castle from\nstem to stern, and I ain't been findin' the\ngods-damned thing anywhere!"
+  },
+  "SUB_W17_EVAR_BOFO_ITEM_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "So King Din called you here, too."
+  },
+  "SUB_W17_EVAR_BOFO_ITEM_000_CUT_000_020": {
+    "speaker": "Buccaneer",
+    "text": "Yar, lasses! Announce yerself before ye appear\nand start yer yammerin'! Ye made me jump\noutta me skin, so ye did!\fGar, but I be Pirate. Who be ye?"
+  },
+  "SUB_W17_EVAR_BOFO_ITEM_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Seer."
+  },
+  "SUB_W17_EVAR_BOFO_ITEM_000_CUT_000_040": {
+    "speaker": "Buccaneer",
+    "text": "Gahar har har! King Din's\nlittle trump cards!\fSorry to break it to ye, but there\nalready be a treasure hidden here in Brighthome\nthat can turn the tide of the war without ye—\nand I was called here to be sniffin' it out!"
+  },
+  "SUB_W17_EVAR_BOFO_ITEM_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure thing, pardner. You seen any\nnoteworthy triangles around while\nyou been busy with the sniffin'?"
+  },
+  "SUB_W17_EVAR_BOFO_ITEM_000_CUT_000_060": {
+    "speaker": "Buccaneer",
+    "text": "Be triangles some manner of treasure?\nIf it be, ye bet yer boots I'll find it!"
+  },
+  "SUB_W17_EVAR_BOFO_ITEM_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "A treasure that can turn the tide of the war?\nBe nice if something like that existed,\nbut I reckon it don't.\fProbably be best not to get our hopes up\nfor the triangle, neither."
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Gar, curse me bones!\nIt ain't here, neither!"
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Our triangle ain't here in town."
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Our triangle ain't buried\nout here in the fields."
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Don't seem like our triangle's been\nhauled in from the mine."
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "Don't think our triangle's been\nburied with anybody here."
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure don't seem like anybody brought\nthe triangle into this here church."
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "Ain't seen hide nor hair\nof our triangle here in town."
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Doesn't seem like the triangle's\nbeen overlooked in this stronghold."
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_080": {
+    "speaker": "Bonnie_Blair",
+    "text": "If the triangle were here in the temple\nit's be showin' its power somehow."
+  },
+  "SUB_W17_EVAR_BOFO_NOTFINDITEM_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure would make a gal wonder what time period\nour triangle were from if we were to find it here\nin the dang ruins!"
+  },
+  "SUB_W17_FUNC_BOFO_FINDITEM_000_CUT_000_000": {
+    "speaker": "Buccaneer",
+    "text": "Gahar har har! I've found it!\nThe legendary treasure!"
+  },
+  "SUB_W17_FUNC_BOFO_FINDITEM_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, ain't you just a peach!\nSo how about our triangle?"
+  },
+  "SUB_W17_FUNC_BOFO_FINDITEM_000_CUT_000_020": {
+    "speaker": "Buccaneer",
+    "text": "Ah, right! Ye be lookin' for a triangle.\nI ain't found nothin' like that, lassies,\nwhich means it likely ain't treasure at all.\nSuch a shame for ye! Gahar har har!"
+  },
+  "SUB_W17_FUNC_BOFO_FINDITEM_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Ain't nothin' to be done about that—but\nhey, you go right ahead and turn the tide'a\nthe war with that legendary weapon.\fAs for us, I reckon our triangle's\nin the hands of some Chaos feller."
+  },
+  "SUB_W17_FUNC_BOFO_FINDITEM_000_CUT_000_040": {
+    "speaker": "Buccaneer",
+    "text": "Aye, I'll do just that—but\nthen the treasure be mine!"
+  },
+  "SUB_W17_FUNC_BOFO_FINDITEM_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Oh, bless your heart."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_000": {
+    "speaker": "Chief",
+    "text": "You pitched in to fight too, Guv?\nMuch appreciated."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_001": {
+    "speaker": "Doll",
+    "text": "Heya, Guv! You helped with the\nfighting? Thanks for that!"
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_002": {
+    "speaker": "Bully",
+    "text": "Been a minute and a half, eh, Guv?\nYou and I gotta scrap next time!"
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_003": {
+    "speaker": "Lord",
+    "text": "You were out there fighting, Guv?\nMy apologies—I did not realize."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_004": {
+    "speaker": "Vacuum",
+    "text": "Ha ha ha! Been a long time, Guv!\nLet's spar again sometime."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_005": {
+    "speaker": "Fiore",
+    "text": "Why, if it isn't Guv!\nI thank you for joining the fight."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_006": {
+    "speaker": "Arsenal",
+    "text": "Your presence here explains\nour victory, Guv. Thank you."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_007": {
+    "speaker": "Sorceress",
+    "text": "Well, well. If it isn't Guv.\nSurprised you're still out there\nfighting and not retired already."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_008": {
+    "speaker": "Gadget",
+    "text": "You're looking pretty tired there, Guv.\nReady for your trip to Hell so soon?"
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_010": {
+    "speaker": "Bonnie_Formina",
+    "text": "You're lookin' mighty spry, Guv."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_020": {
+    "speaker": "Guv",
+    "text": "The two of you are Seer, yes? Ah, no wonder\nI felt that dazzling radiance; with warriors\nlike you here, I can finally retire in peace."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_021": {
+    "speaker": "Guv",
+    "text": "Oh, and you were searching for a\nspecial triangle, yes? Did you have\nany luck in finding it?"
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_022": {
+    "speaker": "Bonnie_Blair",
+    "text": "Not yet."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_030": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from town. I pray your fight\ngoes well, m'ladies."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_031": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the fields.\nI pray your fight goes well, m'ladies."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_032": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the mine.\nI pray your fight goes well, m'ladies."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_033": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl who works in the cemetery.\nI pray your fight goes well, m'ladies."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_034": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the church. I pray your\nfight goes well, m'ladies."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_035": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from town. I pray your fight\ngoes well, m'ladies."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_036": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the stronghold. I pray\nyour fight goes well, m'ladies."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_037": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the temple. I pray your\nfight goes well, m'ladies."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_038": {
+    "speaker": "Guv",
+    "text": "I'm done with the warrior's life. Instead,\nI'm going to live out the rest of my days\nwith a girl from the ruins. I pray your\nfight goes well, m'ladies."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_010_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "World sure do got all kinds."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_020_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Don't see Guv or his lady love around."
+  },
+  "SUB_W17_EVAR_BOFO_VILLAGE_020_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, I'm sure they're livin' a real\nblissful life out there somewhere."
+  },
+  "SUB_W17_FUNC_BOFO_HELP_000_CUT_000_000": {
+    "speaker": "Guv",
+    "text": "Ah! You must be the newcomers."
+  },
+  "SUB_W17_FUNC_BOFO_HELP_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sure are. How'd you figure that?"
+  },
+  "SUB_W17_FUNC_BOFO_HELP_000_CUT_000_020": {
+    "speaker": "Guv",
+    "text": "Age isn't a factor for warriors in Brighthome.\nYoung and old, known and unknown—warriors of\nall stripes are called to this place.\fBut no matter their actual age, every newcomer\nhas a certain youthful vitality to them—\na vitality I sense now in you."
+  },
+  "SUB_W17_FUNC_BOFO_HELP_000_CUT_000_030": {
+    "speaker": "Guv",
+    "text": "Alas, such vitality is something a wizened old man\nlike me has lost. I'm a warrior as well, you see—\nthough a worn and battered one. Guv is the name\ngiven to me by the king, and all I'll answer to."
+  },
+  "SUB_W17_FUNC_BOFO_HELP_000_CUT_000_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "It's a good name, Guv. Glad we've got\na seasoned vet like you around here."
+  },
+  "SUB_W17_FUNC_BOFO_HELP_000_CUT_000_050": {
+    "speaker": "Guv",
+    "text": "Ha! You've quite the silver tongue,\nnewcomer! Just make certain you\nfight as well as you flatter."
+  },
+  "SUB_W17_FUNC_BOFO_HELP_000_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "You know it! By the by, we're out here lookin'\nfor a special triangle. Mind givin' us a holler\nif you happen to stumble across it?"
+  },
+  "SUB_W17_FUNC_BOFO_HELP_000_CUT_000_070": {
+    "speaker": "Guv",
+    "text": "A triangle? Got it."
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_000": {
+    "speaker": "Simon",
+    "text": "With the battle ended, we no longer need\nto use the names given to us by the king.\nI am called Simon."
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Howdy, pard! I'm Bonnie,\nand this here's Formina."
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_020": {
+    "speaker": "Simon",
+    "text": "Did you obtain the triangle\nyou were looking for?"
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Sure did. So what'd you come\nto Brighthome for anyhow?"
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_040": {
+    "speaker": "Simon",
+    "text": "The members of my squadron all perished\nin battle—and when I failed to fulfill my\nobjective, I joined them in death.\fThe next thing I knew, I was waking\nhere in Brighthome with a new name."
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_050": {
+    "speaker": "Bonnie_Blair",
+    "text": "Wait, you mean we might be dead, too?\nOh, go on! But hey, what say we mosey on\noutta here and find out for sure, Formina?"
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_060": {
+    "speaker": "Simon",
+    "text": "Is my following you two\nout of the question?"
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "It's fine by us, but aren't you dead?\nIf so, you might just disappear if you\ndecide to leave Brighthome."
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_080": {
+    "speaker": "Simon",
+    "text": "I have no intention of fighting for all\neternity in Brighthome. If I disappear,\nthat is simply as it was meant to be."
+  },
+  "SUB_W17_EVAR_BOFO_SIMON_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Takes a yard'a guts to say that, pardner.\nBut if you're ready, we'll leave together."
+  }
+}

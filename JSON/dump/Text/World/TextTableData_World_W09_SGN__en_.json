@@ -1,0 +1,46 @@
+{
+  "W09_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Avalon: The Imperial Capital"
+  },
+  "W09_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a train platform on the other side of the door. The city has a sense of order and dignity, yet you sense darkness in back alleys. How did Champion find his own darkness here? You can't wait to find out."
+  },
+  "W09_EVAR_SIUG_WORLDEXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Leaving Avalon Station"
+  },
+  "W09_EVAR_SIUG_WORLDEXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Avalon is a city of great darkness, but the time has come to depart. As you do, you silently wish for the darkness filling it to become even deeper."
+  },
+  "W09_EVAR_SIUG_WORLDEXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Depart"
+  },
+  "W09_EVAR_SIUG_KENZOKU_MOVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Captivating Beings"
+  },
+  "W09_EVAR_SIUG_KENZOKU_MOVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The time has come to reunite with the captivating beings you have met thus far."
+  },
+  "W09_EVAR_SIUG_KENZOKU_MOVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W09_EVAR_SIUG_BASE_ROYAL_PALACE_LASTBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Darkness in the Palace"
+  },
+  "W09_EVAR_SIUG_BASE_ROYAL_PALACE_LASTBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Your treasure hunt is finally over. What awaits you at the heart of this fell city, and what connection does Champion have with darkness? You cannot wait to find out."
+  },
+  "W09_EVAR_SIUG_BASE_ROYAL_PALACE_LASTBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Head to the Palace"
+  }
+}

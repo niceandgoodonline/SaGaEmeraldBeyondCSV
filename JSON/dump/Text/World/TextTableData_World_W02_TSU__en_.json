@@ -1,0 +1,298 @@
+{
+  "W02_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Pulchra: The Witchdom"
+  },
+  "W02_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Beyond the door you found Pulchra, a world inhabited by colorful witches. They are facing the Calamity, and if you hope to acquire a spirit's power you'll need to watch over them as they fight it."
+  },
+  "W02_WRLD_MIDO_INITIAL_001_TITLE": {
+    "speaker": "UI",
+    "text": "An Unknown World"
+  },
+  "W02_WRLD_MIDO_INITIAL_001_DETAIL": {
+    "speaker": "UI",
+    "text": "You found an entirely unknown world on the other side of the door. You'll need to rely on the Emerald Wave to figure out what you're supposed to do here."
+  },
+  "W02_EVAR_MIDO_MOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Mediocre Spirit"
+  },
+  "W02_EVAR_MIDO_MOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Better to claim a weak spirit than no spirit at all. No shame in picking an opponent you know you can beat!"
+  },
+  "W02_EVAR_MIDO_MOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_MOKU_100_TITLE": {
+    "speaker": "UI",
+    "text": "Appropriately Powerful Spirit"
+  },
+  "W02_EVAR_MIDO_MOKU_100_DETAIL": {
+    "speaker": "UI",
+    "text": "When comparing your strength against the spirits you could claim, this one seems about right. Nothing good comes from pushing yourself too hard, after all!"
+  },
+  "W02_EVAR_MIDO_MOKU_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_MOKU_200_TITLE": {
+    "speaker": "UI",
+    "text": "To Be Truly Strong"
+  },
+  "W02_EVAR_MIDO_MOKU_200_DETAIL": {
+    "speaker": "UI",
+    "text": "What was the point in venturing into the Heavens if you don't claim the strongest of all spirits? The challenge is such a thrill!"
+  },
+  "W02_EVAR_MIDO_MOKU_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_MOKU_300_TITLE": {
+    "speaker": "UI",
+    "text": "Spirit of the Blue Forest"
+  },
+  "W02_EVAR_MIDO_MOKU_300_DETAIL": {
+    "speaker": "UI",
+    "text": "A most sinister spirit awaits your challenge. Make sure you're well prepared before engaging it."
+  },
+  "W02_EVAR_MIDO_MOKU_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_MOKU_999_TITLE": {
+    "speaker": "UI",
+    "text": "Spirit of the Blue Forest"
+  },
+  "W02_EVAR_MIDO_MOKU_999_DETAIL": {
+    "speaker": "UI",
+    "text": "Even the most sinister spirit in this world doesn't seem like such a big deal. Now let's get this over with."
+  },
+  "W02_EVAR_MIDO_MOKU_999_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_AQUEDUCT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Ebon Sluice"
+  },
+  "W02_EVAR_MIDO_AQUEDUCT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The entrance to an underground waterway that leads to the black castle."
+  },
+  "W02_EVAR_MIDO_AQUEDUCT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Ebon Sluice"
+  },
+  "W02_EVAR_MIDO_AQUEDUCT_010_TITLE": {
+    "speaker": "UI",
+    "text": "Ebon Sluice"
+  },
+  "W02_EVAR_MIDO_AQUEDUCT_010_DETAIL": {
+    "speaker": "UI",
+    "text": "The entrance to an underground waterway that leads to the black castle."
+  },
+  "W02_EVAR_MIDO_AQUEDUCT_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Ebon Sluice"
+  },
+  "W02_EVAR_MIDO_BLACK_000_TITLE": {
+    "speaker": "UI",
+    "text": "Castle Black Swan"
+  },
+  "W02_EVAR_MIDO_BLACK_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A castle that's home to the Black Witch. Sadly, the path there is blocked by a lake of ice-cold water. Is there no other way to reach it?"
+  },
+  "W02_EVAR_MIDO_BLACK_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Castle Black Swan"
+  },
+  "W02_EVAR_MIDO_BLUE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Tree of the Forever Young"
+  },
+  "W02_EVAR_MIDO_BLUE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A castle within a great tree that's covered in the fresh, eternal vegetation of spring. Home to the sagely Blue Witch."
+  },
+  "W02_EVAR_MIDO_BLUE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Tree of the Forever Young"
+  },
+  "W02_EVAR_MIDO_RED_000_TITLE": {
+    "speaker": "UI",
+    "text": "Flame Fortress"
+  },
+  "W02_EVAR_MIDO_RED_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A perpetually smoldering castle of hellfire. Home to the sagely Red Witch."
+  },
+  "W02_EVAR_MIDO_RED_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Flame Fortress"
+  },
+  "W02_EVAR_MIDO_YELLOW_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dusk Pinwheel"
+  },
+  "W02_EVAR_MIDO_YELLOW_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A windmill that's home to the Yellow Witch. It spins even without wind, allowing it to grind grain nonstop."
+  },
+  "W02_EVAR_MIDO_YELLOW_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dusk Pinwheel"
+  },
+  "W02_EVAR_MIDO_WHITE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Leone Bianco Palazzo"
+  },
+  "W02_EVAR_MIDO_WHITE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A castle constructed of gold and marble. Home to the sagely White Witch."
+  },
+  "W02_EVAR_MIDO_WHITE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter Leone Bianco Palazzo"
+  },
+  "W02_EVAR_MIDO_BRILLIANTTOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Brilliant Tower"
+  },
+  "W02_EVAR_MIDO_BRILLIANTTOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A tower of brilliant light that sits at the center of the world. This is your next destination."
+  },
+  "W02_EVAR_MIDO_BRILLIANTTOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  },
+  "W02_EVAR_MIDO_LASTBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "To End a Calamity"
+  },
+  "W02_EVAR_MIDO_LASTBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Your final task as the Watcher awaits, and once you step into the Brilliant Tower, there's no going back. That said, you also sense a spirit's power for...some reason. What's going on here?"
+  },
+  "W02_EVAR_MIDO_LASTBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  },
+  "W02_EVAR_MIDO_LASTBATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "To End a Calamity"
+  },
+  "W02_EVAR_MIDO_LASTBATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Your final task as the Watcher awaits. Once you step into the Brilliant Tower, there's no going back."
+  },
+  "W02_EVAR_MIDO_LASTBATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  },
+  "W02_EVAR_MIDO_RETURN_100_TITLE": {
+    "speaker": "UI",
+    "text": "Calamity Engulfs All"
+  },
+  "W02_EVAR_MIDO_RETURN_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Calamity has engulfed all, leaving the Witchdom of Pulchra silent as the grave. There is nothing left for you in this world."
+  },
+  "W02_EVAR_MIDO_RETURN_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Brilliant Tower"
+  },
+  "W02_EVAR_MIDO_MOKU_310_TITLE": {
+    "speaker": "UI",
+    "text": "Spirit of the Blue Forest"
+  },
+  "W02_EVAR_MIDO_MOKU_310_DETAIL": {
+    "speaker": "UI",
+    "text": "It might be best to acquire a spirit's power before fulfilling your duty as the Watcher. There seems to be a sinister wood spirit here."
+  },
+  "W02_EVAR_MIDO_MOKU_310_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_KA_310_TITLE": {
+    "speaker": "UI",
+    "text": "Spirit of the Red Tower"
+  },
+  "W02_EVAR_MIDO_KA_310_DETAIL": {
+    "speaker": "UI",
+    "text": "It might be best to acquire a spirit's power before fulfilling your duty as the Watcher. There seems to be a sinister fire spirit here."
+  },
+  "W02_EVAR_MIDO_KA_310_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_SUI_310_TITLE": {
+    "speaker": "UI",
+    "text": "Spirit of the Black Lake"
+  },
+  "W02_EVAR_MIDO_SUI_310_DETAIL": {
+    "speaker": "UI",
+    "text": "It might be best to acquire a spirit's power before fulfilling your duty as the Watcher. There seems to be a sinister water spirit here."
+  },
+  "W02_EVAR_MIDO_SUI_310_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_KIN_310_TITLE": {
+    "speaker": "UI",
+    "text": "Spirit of the White Mine"
+  },
+  "W02_EVAR_MIDO_KIN_310_DETAIL": {
+    "speaker": "UI",
+    "text": "It might be best to acquire a spirit's power before fulfilling your duty as the Watcher. There seems to be a sinister metal spirit here."
+  },
+  "W02_EVAR_MIDO_KIN_310_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_SPIRIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Mediocre Spirit"
+  },
+  "W02_EVAR_MIDO_SPIRIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "It might be best to acquire a spirit's power before fulfilling your duty as the Watcher. No shame in picking an opponent you know you can beat!"
+  },
+  "W02_EVAR_MIDO_SPIRIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_EVAR_MIDO_SPIRIT_100_TITLE": {
+    "speaker": "UI",
+    "text": "Appropriately Powerful Spirit"
+  },
+  "W02_EVAR_MIDO_SPIRIT_100_DETAIL": {
+    "speaker": "UI",
+    "text": "It might be best to acquire a spirit's power before fulfilling your duty as the Watcher. This one seems to be about the right level for you."
+  },
+  "W02_EVAR_MIDO_SPIRIT_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight for the Spirit's Power"
+  },
+  "W02_SCAN_MIDO_INITIAL_WAVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Searching for Spirits"
+  },
+  "W02_SCAN_MIDO_INITIAL_WAVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This world seems to be home to a variety of spirits. But before you could look for them you were caught by the Blue Witch, Lita."
+  },
+  "W02_SCAN_MIDO_LITA_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Watcher's Path"
+  },
+  "W02_SCAN_MIDO_LITA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "There are witches you need to watch over all around Pulchra. While you can go where you like, the red areas are in the most danger."
+  }
+}

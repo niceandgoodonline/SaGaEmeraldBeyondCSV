@@ -1,0 +1,62 @@
+{
+  "SUB_A00_SYSM_COMM_LPALL_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "Your LP was fully restored."
+  },
+  "SUB_A00_SYSM_COMM_LP1_000_CUT_000_000": {
+    "speaker": "UI",
+    "text": "You lost LP."
+  },
+  "SUB_A00_EVAR_COMM_SURPRISE_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "!"
+  },
+  "SUB_A00_EVAR_COMM_SILENCE_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "......"
+  },
+  "SUB_A00_EVAR_COMM_SLEEP_000_CUT_000_000": {
+    "speaker": "HERO",
+    "text": "Zzz..."
+  },
+  "W01_LOCT_COMM_MIYAKOSEIDO_000": {
+    "speaker": "UI",
+    "text": "Miyako City - Shrine"
+  },
+  "W01_LOCT_COMM_MIYAKOSEIDO_010": {
+    "speaker": "UI",
+    "text": "One Fine Afternoon"
+  },
+  "W01_LOCT_COMM_HOKKAITOU_000": {
+    "speaker": "UI",
+    "text": "Time Passes..."
+  },
+  "W01_LOCT_COMM_HOKKAITOU_010": {
+    "speaker": "UI",
+    "text": "Somewhere in Hokkaijima"
+  },
+  "W01_LOCT_COMM_MIYAKOIZUMIKE_000": {
+    "speaker": "UI",
+    "text": "Miyako City - West District"
+  },
+  "W01_LOCT_COMM_MIYAKOIZUMIKE_010": {
+    "speaker": "UI",
+    "text": "7:30 AM"
+  },
+  "W01_LOCT_COMM_MIYAKOIZUMIKE_100": {
+    "speaker": "UI",
+    "text": "Some Time Later..."
+  },
+  "W01_LOCT_COMM_DARKCASTLE_000": {
+    "speaker": "UI",
+    "text": "Yomi, World of Darkness"
+  },
+  "W01_LOCT_COMM_DARKCASTLE_010": {
+    "speaker": "UI",
+    "text": "The Dismal King's Castle"
+  },
+  "SUB_A00_SYSM_COMM_LPALL_010_CUT_000_000": {
+    "speaker": "UI",
+    "text": "Your whole retinue's LP was fully restored."
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "W04_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Mare Nostrum: The Sea World"
+  },
+  "W04_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After passing through the door, you find yourself underwater! Hero's darkness has clearly prepared quite the fascinating experience, and you can't wait to see what becomes of it."
+  },
+  "W04_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Scientist"
+  },
+  "W04_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W04_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W04_EVAR_SIUG_KENZOKU_010_TITLE": {
+    "speaker": "UI",
+    "text": "Architect"
+  },
+  "W04_EVAR_SIUG_KENZOKU_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W04_EVAR_SIUG_KENZOKU_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W04_EVAR_SIUG_KENZOKU_020_TITLE": {
+    "speaker": "UI",
+    "text": "Southern Harbormaster"
+  },
+  "W04_EVAR_SIUG_KENZOKU_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W04_EVAR_SIUG_KENZOKU_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W04_EVAR_SIUG_KENZOKU_030_TITLE": {
+    "speaker": "UI",
+    "text": "Northern Harbormaster"
+  },
+  "W04_EVAR_SIUG_KENZOKU_030_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W04_EVAR_SIUG_KENZOKU_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W04_EVAR_SIUG_KENZOKU_040_TITLE": {
+    "speaker": "UI",
+    "text": "Shipyard Boss"
+  },
+  "W04_EVAR_SIUG_KENZOKU_040_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W04_EVAR_SIUG_KENZOKU_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W04_EVAR_SIUG_BASE_WORLDQUEST_LASTBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Battle to Protect the Egg"
+  },
+  "W04_EVAR_SIUG_BASE_WORLDQUEST_LASTBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A truly ferocious battle over Deus Maris's egg is about to begin, and Ivar must protect it no matter what. You're also dying to know when Hero will show you the darkness inside him."
+  },
+  "W04_EVAR_SIUG_BASE_WORLDQUEST_LASTBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Battle for the Egg"
+  },
+  "W04_EVAR_SIUG_BASE_WORLDQUEST_LASTBATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Battle for Deus Maris's Egg"
+  },
+  "W04_EVAR_SIUG_BASE_WORLDQUEST_LASTBATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "A battle between pirates is about to begin over Deus Maris's egg, a miraculous item said to grant wishes. You're also dying to know when Hero will show you the darkness inside him."
+  },
+  "W04_EVAR_SIUG_BASE_WORLDQUEST_LASTBATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Battle for the Egg"
+  },
+  "W04_EVAR_SIUG_BASE_WORLDQUEST_LASTBATTLE_RAFT_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Strongest Raft in Hand"
+  },
+  "W04_EVAR_SIUG_BASE_WORLDQUEST_LASTBATTLE_RAFT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You now have the finest raft imaginable—but will it be enough to endure the cyclone? You're also dying to know when Hero will show you the darkness inside him."
+  },
+  "W04_EVAR_SIUG_BASE_WORLDQUEST_LASTBATTLE_RAFT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Cyclone"
+  },
+  "W04_EVAR_SIUG_PIRATESHIP_DEATH_COVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Storm in Dead Man's Bay"
+  },
+  "W04_EVAR_SIUG_PIRATESHIP_DEATH_COVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Will taking Deus Maris's egg inside the giant cyclone really make it hatch? You're also dying to know when Hero will show you the darkness inside him."
+  },
+  "W04_EVAR_SIUG_PIRATESHIP_DEATH_COVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Cyclone"
+  },
+  "W04_EVAR_SIUG_PIRATESHIP_LASTBATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Baltasar's Threat"
+  },
+  "W04_EVAR_SIUG_PIRATESHIP_LASTBATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Is it possible to stop Baltasar now he has Deus Maris's egg? You're also dying to know when Hero will show you the darkness inside him."
+  },
+  "W04_EVAR_SIUG_PIRATESHIP_LASTBATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Baltasar"
+  },
+  "W04_EVAR_SIUG_GHOSTSHIP_LAST_BATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Real Battle"
+  },
+  "W04_EVAR_SIUG_GHOSTSHIP_LAST_BATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The time has come for you to defeat the pirate Baltasar and save Deus Maris. You're also dying to know when Hero will show you the darkness inside him."
+  },
+  "W04_EVAR_SIUG_GHOSTSHIP_LAST_BATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Final Battle"
+  },
+  "W04_EVAR_SIUG_GHOSTSHIP_LAST_BATTLE_011_TITLE": {
+    "speaker": "UI",
+    "text": "Returning to Heaven"
+  },
+  "W04_EVAR_SIUG_GHOSTSHIP_LAST_BATTLE_011_DETAIL": {
+    "speaker": "UI",
+    "text": "The time has come to face off with the pirate Baltasar, so you must hurry to the giant cyclone. You're also dying to know when Hero will show you the darkness within him."
+  },
+  "W04_EVAR_SIUG_GHOSTSHIP_LAST_BATTLE_011_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Baltasar"
+  }
+}

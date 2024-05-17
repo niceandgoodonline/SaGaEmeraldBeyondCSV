@@ -1,0 +1,810 @@
+{
+  "SUB_W19_WRLD_SIUG_INITIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. There seems to be little\ndarkness in this world."
+  },
+  "SUB_W19_WRLD_SIUG_INITIAL_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "But the cruelty of nature can oft surpass\neven that of humanity, so perhaps I've a\nchance to find a worthy thrall after all."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are you trying to say\nsomething to me, bird?"
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, you're bowing your head to me?\nHow encouraging that you are so\nquick to recognize my majesty."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? I am to ride upon your back?\nThis ill befits a king, but very well."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Onward, bird! Onward to glory!"
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Look at this vast world spread across\nthe branches of a single tree."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What are those statues?"
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There appear to be statues of animals scattered\nthroughout—or perhaps they are not statues,\nbut animals petrified through some ill means.\nIs this what you wished me to see?"
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So you wish for me to\nsave these creatures?"
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What am I to use these for? I imagine this\nflute is used for summoning you, yes?"
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_020_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "But these seeds and insects..."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. I should get started."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_020_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Let me give this some thought."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_000_CUT_020_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I should go to that patch of vines?\nVery well."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Worry not! I can handle this."
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I can use these vines\nto ascend a level."
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. They appear adequately sturdy."
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Am I to use them to descend as well?\nBah. This all seems a hassle."
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The bugs are eating the vines."
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_030_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I now see the waterfall that\nwas hidden behind the vines."
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_030_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The waterfall should make it quite\nsimple to descend from above to below."
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_030_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So using bugs changes vines into waterfalls.\nBut as I have a limited amount, I must\ncarefully consider when to use them."
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_030_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is clear I am to ascend on vines and\ndescend on waterfalls, but what purpose\ndo these seeds serve?"
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_030_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps they turn waterfalls into vines?\nLet us give that a try."
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_030_050": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "MISSION"
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_030_060": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "Take a stick from the beaver's lodge!"
+  },
+  "SUB_W19_GIMK_SIUG_IVY_000_CUT_030_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What was that just now? Something about\na beaver's dam? But what is a beaver?"
+  },
+  "SUB_W19_GIMK_SIUG_IVY_099_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I've no business here at the moment."
+  },
+  "SUB_W19_EVAR_SIUG_BEAVER_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are you a beaver?"
+  },
+  "SUB_W19_EVAR_SIUG_BEAVER_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I shall help myself to\none of your sticks."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_020_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have claimed a stick.\nIs this sufficient?"
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_020_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have learned to use vines and waterfalls,\nas well as seeds and bugs. But I do not yet\nknow how to rescue these petrified creatures."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_020_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If this is a matter of importance\nto you, might you join me?"
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_020_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, I see. Unpetrifying is a task for\nvisitors from outside this world.\nThat must be a rule of this place."
+  },
+  "SUB_W19_EVAR_SIUG_EAGLE_020_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So be it. I would not want my journey here to\nend without some semblance of a challenge,\nand I had intended to search this world for\na worthy thrall regardless."
+  },
+  "SUB_W19_EVAR_SIUG_TURTLE_PUSHES_TREE_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The shell beast from before indicated\na willingness to lend me its strength."
+  },
+  "SUB_W19_EVAR_SIUG_TURTLE_PUSHES_TREE_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps this tree would prove\na good test of said strength?"
+  },
+  "SUB_W19_EVAR_SIUG_BEAVER_CUTS_TREE_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If I can knock down this tree, I should\nbe able to cross to the other side."
+  },
+  "SUB_W19_EVAR_SIUG_BEAVER_CUTS_TREE_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? Some furball gnaws at the trunk.\nDoes it intend to help me?"
+  },
+  "SUB_W19_EVAR_SIUG_BEAVER_CUTS_TREE_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Well done, furball! This should make\ntoppling trees a trivial matter."
+  },
+  "SUB_W19_FUNC_SIUG_CHANGE_CASCADE_TO_IVY_CUT_001_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the last of my seeds."
+  },
+  "SUB_W19_FUNC_SIUG_CHANGE_CASCADE_TO_IVY_CUT_001_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will turn this waterfall into vines."
+  },
+  "SUB_W19_FUNC_SIUG_CHANGE_CASCADE_TO_IVY_CUT_001_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I must give this more thought."
+  },
+  "SUB_W19_FUNC_SIUG_CHANGE_IVY_TO_CASCADE_CUT_001_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the last of my bugs."
+  },
+  "SUB_W19_FUNC_SIUG_CHANGE_IVY_TO_CASCADE_CUT_001_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will make these vines a waterfall."
+  },
+  "SUB_W19_WRLD_SIUG_EAGLE_WHISTLE_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Given the situation,\nthis seems for the best."
+  },
+  "SUB_W19_WRLD_SIUG_EAGLE_WHISTLE_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Shall we go?"
+  },
+  "SUB_W19_WRLD_SIUG_EAGLE_WHISTLE_GAMEEND_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have unpetrified all the animals."
+  },
+  "SUB_W19_WRLD_SIUG_EAGLE_WHISTLE_GAMEEND_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps I should look around more?"
+  },
+  "SUB_W19_FUNC_SIUG_ALL_GUARDIANS_SAVED_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have saved all the\npetrified animals."
+  },
+  "SUB_W19_FUNC_SIUG_ALL_GUARDIANS_SAVED_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I should let the bird know."
+  },
+  "SUB_W19_EVAR_SIUG_WORLDEXIT_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is there a reason to remain in this world?\nSome animals yet remain petrified, but..."
+  },
+  "SUB_W19_EVAR_SIUG_WORLDEXIT_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will move on regardless."
+  },
+  "SUB_W19_EVAR_SIUG_WORLDEXIT_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "No. I must save them all."
+  },
+  "SUB_W19_EVAR_SIUG_WORLDEXIT_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It does not seem this world will be\noverrun with darkness imminently."
+  },
+  "SUB_W19_EVAR_SIUG_WORLDEXIT_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I should be off."
+  },
+  "SUB_W19_EVAR_SIUG_WORLDEXIT_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Farewell, all."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have unpetrified all the animals."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Such is the benevolence of kings. Though I was\nnot given the chance to behold human darkness,\nI learned this world contains beings of great\nappeal all the same—and this is thanks to you."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Farewell, bird."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As to how the animals may have been petrified,\nI can only assume darkness lurks somewhere\nin this world, and I very much look forward\nto seeing it reveal itself."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_100_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Aaah ha ha ha ha! Excellent!\nShow me the darkness within you!"
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_100_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So the loser of the battle\nis petrified? Interesting."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_100_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is not my duty to unpetrify you, bird.\nYou'll need wait for the next visitor."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_100_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps the petrification is the result\nof a curse upon this world? Or perhaps...\fNo. It matters not. This world has proven\nitself more interesting than I initially\nsuspected, and that is enough for me."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_100_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will be on my way shortly.\nFarewell, creatures."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_200_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You would challenge the Dismal King?"
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_200_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do not think being a small woodland\ncreature entitles you to my mercy!"
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_200_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Wings of darkness, heed my power!"
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_200_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do you think that shell can\nshield you from my strength?"
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_200_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You will be the last to fall, bird!"
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_200_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So the loser of the battle\nis petrified? Interesting."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_200_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "But what possible purpose could these\nbattles serve? Alas, none remain who\nmight answer that question."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_200_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What a fascinating world this is.\nI will sorely miss it."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_300_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Aaah ha ha ha! Excellent, creatures!\nShow the Dismal King your might!"
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_300_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is it over? Ah, but it is never over.\nThe animals have been petrified,\nand the cycle begins anew."
+  },
+  "SUB_W19_EVAR_SIUG_GAMEEND_300_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "But who will unpetrify you next time?\nI hope you find your answer soon."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_04_STONE_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? Some manner of small animal."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_04_STONE_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It appears it was trying to eat something,\nbut what food does such a creature eat?\nSeeds, perhaps? Or berries?"
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_04_STONE_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If I find something like that,\nI will bring it here for you."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_04_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah. I guessed correctly."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_07_STONE_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I believe this creature is known\nas a bear? It's quite large."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_07_STONE_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It would take considerable magical power\nto petrify so gigantic a being."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_07_STONE_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. It appears to be missing some fangs.\nPerhaps I'd best locate them."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_07_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "......"
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_07_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are not so brave as to attack\nthe man who just saved you, then?"
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_07_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So be it. On to the next."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_NEST_02_STONE_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is this a bat? But bats fly upon wings\nof darkness, and this creature has none."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_NEST_02_STONE_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It holds something in its mouth.\nIs this a seed?"
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_NEST_02_STONE_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Even the seed has been petrified.\nI'll not be able to take it until\nI've unpetrified the bat."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_NEST_02_STONE_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Be patient, bat, and I will see\nyour wings returned to you."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_NEST_02_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You need not think me, bat; you are a\nfellow creature of the dark, and it is\nonly natural you receive my blessing."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_NEST_02_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That said, however, I would\nlike that seed of yours."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_NEST_02_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It may be the key to unpetrifying\nanother small creature, you see."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_SWAMP_06_STONE_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This shelled creature is also petrified.\nI wonder if it is this color on the inside\nas well as the outside."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_SWAMP_06_STONE_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. A part of the shell is missing.\nShould I find the lost piece,\nI will return it to you."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_SWAMP_06_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The creature does not move.\nWas it successfully unpetrified?"
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_SWAMP_06_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, it has been. Good."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_SWAMP_06_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You wish to aid me in order to\nexpress your thanks? I accept."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_01_ROUTE2_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This large frog appears to be\nattempting to eat something."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_01_ROUTE2_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is that not a bat wing?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_01_ROUTE2_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I must secure that wing before it\nends up in the creature's stomach!"
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_SWAMP_01_ROUTE2_AUTO_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That is quite the large frog.\nWhat is it eating?"
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_SWAMP_01_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Has it noticed the large fly?"
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_SWAMP_01_ROUTE2_AUTO_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The temerity of this creature,\nto challenge the Dismal King!"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_02_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Bones from some beast, no doubt.\nCould these fangs fit the bear?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_02_EARLY_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Bones from some beast. They're quite\nbeautiful—perhaps I'll take them."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_03_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. The snake is wary of me."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_03_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is it protecting its eggs? I cannot help\nbut desire whatever it safeguards so."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_03_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "These are bird eggs? Was the snake\nmerely protecting a meal, then?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_03_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What should I do with these now?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_04_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? It appears to be\nattempting to eat something."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_04_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That might be one of the bat's wings."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_04_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I'd best secure it before it ends up\nin the creature's stomach."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_05_ROUTE2_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The furball is moving around.\nI should take a closer look."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_05_ROUTE2_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Something appears to be targeting\nthe furball. What shall I do?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_05_ROUTE2_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps the creature was simply curious\nabout what the furball was making?\nCertainly its unlucky day, if so."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_05_ROUTE2_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A reward for your king? I accept."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_06_ROUTE2_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What a gigantic fly. Were it a little\nlarger, I might be able to ride it."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_06_ROUTE2_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "While I'm sure it could handle smaller\ninsects with ease, it has wisdom enough\nnot to threaten the Dismal King. "
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_06_ROUTE2_END_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A fly should live with other flies.\nSuch is your destiny."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_SWAMP_06_ROUTE2_END_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I see you have accepted your destiny.\nFarewell then, fly."
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_NEST_01_AUTO_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A spider? Away with you!\nI've no business with your kind."
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_NEST_01_AUTO_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You believe yourself worthy\nto consume the Dismal King?"
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_NEST_01_AUTO_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You'll not make a meal of me so easily!"
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_NEST_01_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You believe yourself worthy\nto consume the Dismal King?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_03_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So this is your nest, mmm?\nYou've made quite the journey."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_03_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Farewell, insect."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_03_ROUTE2_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is that a seed in the black insect's nest?\nSuch a thing may provide a meal for the\nsmall woodland creature."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_03_ROUTE2_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I'll take that."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_03_ROUTE2_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "With the seed in my possession, I've no\nfurther business with these insects."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_04_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Some black insect."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_04_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It's approaching me. Does it wish\nfor me to take it somewhere?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_04_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I suppose I will take you there,\nas it is on my path."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_04_ROUTE2_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Behold those black insects."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_04_ROUTE2_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "They appear to carrying some sort of seed.\nIf I visit their nest, I may find something\nthe small woodland creature can eat."
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_NEST_05_AUTO_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is that some manner of hive?\nWhat a strange shape it has."
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_NEST_05_AUTO_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Gah! It is full of flying insects!"
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_NEST_05_AUTO_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What in blazes was that?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_05_ROUTE2_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "One of the flying insects has come to me.\nClearly it was being chased by the others."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_05_ROUTE2_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well then, fly. Come with me."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_05_ROUTE2_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I saw another of your kind\nin the swamp. Let us go there."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_06_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is something stuck in the web.\nThe wing of a bat, maybe?"
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_NEST_06_ROUTE2_AUTO_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A large fly is tangled in the web.\nIt will likely prove a fine meal\nfor the spider if left be."
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_NEST_06_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do be more careful, fly."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_01_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "These are juvenile wolves, I believe.\nWhat are they chewing on?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_01_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. A piece of shell."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_01_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That belongs to me, wolves.\nBring it to the Dismal King.\n...Yes! What fine wolves!"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_01_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Hopefully this will unpetrify that\nshelled creature from earlier."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There may be something in this cave.\nI should take a look."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Was this the home of that creature?\nIt appears to have hidden a number\nof items in here."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? Something shines over there."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Fangs. I will take them."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_EARLY_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I see no signs of there being\nanything deeper in this cave."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_EARLY_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will look elsewhere."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_EARLY_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will enter regardless."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_EARLY_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There are fiends here, but nothing\nof any real interest to me."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_EARLY_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Time to depart."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_EARLY_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Let us go deeper."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_EARLY_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As I suspected, there is nothing here,\nand no reason to continue exploring."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_02_ROUTE2_EARLY_CUT_030_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A dead end? Mmm. Such is the\nway of the world sometimes."
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_FOREST_03_AUTO_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A carnivorous plant? I've heard\nsuch things enjoy eating insects."
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_FOREST_03_AUTO_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Be careful around that, insect!"
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_FOREST_03_AUTO_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "In this world where even plants are\nhostile, I must be ever on my guard."
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_FOREST_03_AUTO_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Especially when I've an insect\nin my company, it seems."
+  },
+  "SUB_W19_FUNC_SIUG_PLAT_FOREST_03_ROUTE2_AUTO_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Be wary, fly!"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_03_ROUTE2_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. That is no normal plant. \nI'd best keep my distance."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_03_ROUTE2_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, but there's something in its mouth.\nI seems I must approach after all if I wish\nto claim it."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_03_ROUTE2_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do not think you can consume\nthe Dismal King, plant!"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_03_ROUTE2_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This seems to be part of a shell.\nPerhaps I can use it to unpetrify\nthat shelled creature."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_03_ROUTE2_EARLY_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm, a piece of shell. Well, after all\nthe trouble I went through to get this,\nI'm certainly going to take it."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A bird's nest? Ah, and it appears the\nparent has already left—there are some\nbrown feathers scattered about."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what is that in the nest?\nThe shed skin of a snake?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_EGGS_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Though the eggs are safe, they may\nbe targeted by the snake again."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_EGGS_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I must locate the nest's owner\nand ensure its safety."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_CUCKOO_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, so this must be your nest.\nYour stolen eggs are right there."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_CUCKOO_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What are you doing?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_CUCKOO_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And now you've destroyed the eggs?\nMmm, I see. Perhaps this was never\nyour nest in the first place."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_CUCKOO_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "My apologies, bird! Aaah ha ha ha!"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_OWL_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The bird seems pleased. Mmm."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_04_OWL_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do take care not to have your\neggs stolen again, bird."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_05_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are you the parent of\nthe eggs from that nest?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_05_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I speak to you, bird! Heed me!\fBah. This creature is in such a tizzy\nthat our conversation goes nowhere."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_05_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Its plumage is grey and white. "
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_05_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Shall I take this bird to the nest?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_05_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I shall!"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_05_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Let us hold off."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_06_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do you hear me, bird? It is a dangerous\nthing indeed to ignore the Dismal King!"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_06_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Its plumage is brown,\nor perhaps beige."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_07_ROUTE2_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "See how this beast rampages around\nwhile swinging its horns!"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_07_ROUTE2_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? Look at the tip of that horn.\nThat is a bat wing, is it not?"
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_07_ROUTE2_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There. The bat wing is mine."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_07_ROUTE2_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "But a bat requires two wings to fly,\nso I must acquire a second."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_FOREST_07_ROUTE2_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That is both wings. Now the creature\nshould be able to soar through the\ndismal darkness once more."
+  },
+  "SUB_W19_EVAR_SIUG_KENZOKU_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are worthy creatures, but I cannot\ntake you with me. However, I shall accept\nyour devotion, if not your comradeship."
+  },
+  "SUB_W19_EVAR_SIUG_KENZOKU_010_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are a worthy creature, but I cannot\ntake you with me. However, I shall accept\nyour devotion, if not your comradeship."
+  },
+  "SUB_W19_EVAR_SIUG_KENZOKU_020_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are a worthy creature, but I cannot\ntake you with me. However, I shall accept\nyour devotion, if not your comradeship."
+  },
+  "SUB_W19_EVAR_SIUG_KENZOKU_030_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are a worthy creature, but I cannot\ntake you with me. However, I shall accept\nyour devotion, if not your comradeship."
+  },
+  "SUB_W19_EVAR_SIUG_GUARDIAN_FOREST_04_EARLY_CUT_000_000": {
+    "speaker": "Tsunanori_SIUG",
+    "text": "Hmmm. Maybe I should give it this nut."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_03_ROUTE2_EARLY_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Seeds? Here? I suppose there's no accounting for taste."
+  },
+  "SUB_W19_EVAR_SIUG_PLAT_NEST_04_ROUTE2_EARLY_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It's carrying a seed of some sort. Perhaps their colony would provide a veritable bounty of them."
+  }
+}

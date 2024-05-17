@@ -1,0 +1,3022 @@
+{
+  "SUB_W18_WRLD_DIVA_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Jinks, we emerged from a manhole!\nI do hope they don't mistake me for\na machine from the local waterworks."
+  },
+  "SUB_W18_WRLD_DIVA_000_CUT_000_010": {
+    "speaker": "Constantine",
+    "text": "This is Capitol City, the central hub of\nthe Union States. Perhaps interesting\nevents will be unfolding here!"
+  },
+  "SUB_W18_WRLD_DIVA_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "The amount of energy consumption in this\ncity is substantial; my sensors are picking\nup so many readings that detailed analyses\nwill prove proper difficult."
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "What's happening? I was just in\nCapitol City a moment ago."
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Emergency! I must fight them off!"
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "No further enemy signals detected,\nand we've returned to the elevator.\nWhat just happened there?"
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Hey, you."
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Ah! Sorry! Hello!"
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_030": {
+    "speaker": "Lita_Caryx",
+    "text": "I thought my eyes were playing tricks,\nbut you definitely are a robot. I guess\nsomeone's operating you remotely?"
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I'm not operated by anyone."
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_050": {
+    "speaker": "Lita_Caryx",
+    "text": "And you can carry a conversation!\nThat's amazing.\fLook, I saw what happened: you got on the\nelevator, this place got real weird, then\nstrange creatures made a beeline for you—\nwhich means you're what they were after."
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "But you seemed plenty used to that weird\nplace and those creatures, so how about\nyou tell me what just went down here."
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "Oh, the fiends were nothing so special—\nbut my sensors are now telling me that\nye are the one I should follow."
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_080": {
+    "speaker": "Lita_Caryx",
+    "text": "So I've got a robot admirer now?\nWell, suppose I might as well take\nadvantage of this little meet-cute."
+  },
+  "SUB_W18_EVAR_DIVA_FIRST_ATTACK_000_CUT_010_090": {
+    "speaker": "Lita_Caryx",
+    "text": "That said, I don't really want to have this\nconversation in an elevator, so let's continue\nit at my workplace. It's right up ahead."
+  },
+  "SUB_W18_EVAR_DIVA_TO_CATHEDRAL_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "This manhole may connect\nto the world beyond."
+  },
+  "SUB_W18_EVAR_DIVA_TO_CATHEDRAL_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Let's use it, then."
+  },
+  "SUB_W18_EVAR_DIVA_TO_CATHEDRAL_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Nae, let's stay out."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, great. This is a much better place to\ntalk than an elevator—which again, seriously,\nwho wants to hang out in an elevator?\fRight then! Intros. I'm Shungiku Hanabusa,\nace reporter for the Capitol City Post,\namong other places. Oh, but I wasn't born\nhere in the Union States."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "So there are other nations besides\nthe Union States in this world?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Your circuits seem to be missing some pretty\ncritical facts. That said, you're able to speak\nfluently and your movements are super smooth.\nAre you a prototype or something?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "The contents of my database are lacking,\nand thus is my knowledge of this world.\nI apologize for any trouble."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Don't apologize—just answer my questions.\nTo start with, what's your name?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "I am D05-72314, commonly referred\nto as Songstress Diva No. 5."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Whoa, then you really ARE a robot!\nStill, Diva's an interesting name for...\nWell, whatever you are."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I suppose. I don't know why I'm\ncalled that, but that knowledge is one\nof the reasons I'm searching for my heart."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Looks like I judged you based on your\nappearance, so sorry about that.\fYou definitely seem to have some concerns\nof your own, so if they're things I can\nhelp with, I'd be glad to do so."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Oh, that would be grand! The results of my\nprobability scans show that working together\nwould be to our mutual advantage, so let's\ndo just that, Ms. Hanabusa!"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_110": {
+    "speaker": "Lita_Caryx",
+    "text": "Ha ha ha! Oh man, it's been a LONG time\nsince someone called me 'Ms. Hanabusa.'\nHowzabout you just call me Lita, eh?\nThat's what everyone here does."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_120": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, look at the time!\nThe evening news is about to start.\fSorry to interrupt our chat so I can\nwatch the tube, but us journalists\nneed to keep tabs on what's going on."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Mind if I join ye, love? I'd very much like\nto access more data about this world."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "The incident with the elevator made it to\nthe news, but they don't know the cause.\nWere the security cameras not active?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Whatever happened there isn't going to\nshow up on a security cam. People can go\nto that other place, but stuff like cameras\nalways stay on this side.\fAlso, the entire thing happened in an\ninstant, so the cameras wouldn't have\ncaught us going there, either."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_020": {
+    "speaker": "Lita_Caryx",
+    "text": "But we don't need the news, because I already\nknow who's behind all this. Are you ready?\nAre you reeeally ready? Okay, here we go...\nIt was...aliens."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "Aliens: intelligent life-forms that come\nfrom beyond the current world."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_040": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm super relieved you took that in stride;\nmost people think I'm joking or crazy when\nI talk about aliens, and I end up being\nlaughed out of the room.\fBut here's the thing: no one knows why the\naliens are here, which is why I've launched\na secret investigation to find out."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_050": {
+    "speaker": "Diva_No5",
+    "text": "Are these aliens related to your\npresidential election, then?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_060": {
+    "speaker": "Lita_Caryx",
+    "text": "That's my biggest fear; if aliens were\nto interfere in the election, it would\nessentially overthrow our democracy\nat its very foundations!"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_070": {
+    "speaker": "Lita_Caryx",
+    "text": "So far, it doesn't seem like they've been\ntrying to influence the election. But we're\nentering the final stages now, so if they're\ngoing to make a move, this is the time."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Now then! Judging from—well, whatever you've\ngot going on there—you don't have a home base,\nso you're welcome to crash here at my work for\na bit while you get that sorted out.\fMeanwhile, I'm going to head home.\nI actually live on this floor—can't\nbeat a commute like that!"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Anyway, g'night!"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_020_100": {
+    "speaker": "Diva_No5",
+    "text": "These aliens may have something to do with\nmy heart—but on the other hand, I myself\nam an alien from Lita's perspective.\fPerhaps I could learn something if I\nmanaged to find a real alien, then?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Good morning. You feeling refreshed?\nOr wait, do you not sleep since you're\na mech and all?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, I have a sleep function, but it\njust reduces my power consumption."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, well, if you just start wandering the\nstreets someone's likely to dump you in a\ngarbage truck, so I'll let you use this place\nwhile you're here in Capitol City."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_030_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, hey! It's time for\nthe morning news."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I hear there's lots of money changing hands\nright now. And yeah, the owner of that new\ncommercial building is a hotshot businessman,\nbut it's still a bit shady."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, that reminds me! I heard from a friend at\nthe National Research Institute this morning,\nand he really wants to meet you."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_020": {
+    "speaker": "Diva_No5",
+    "text": "Me?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, I told my friend about it—but no details,\nI promise! He doesn't know where you're from,\nwhat you're here for, or anything like that.\nYou'll be fine talking to him, I promise.\fHey, I'm a reporter, remember?\nI protect my sources."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Still, I won't force you to meet up with him,\nso if you'd rather go somewhere else first,\nthat's fine. I'll just be tagging along behind\nyou wherever you go."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_050": {
+    "speaker": "Diva_No5",
+    "text": "Ye will accompany me?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, duh! I can't very well ignore a juicy\nstory like 'Lost Robot in Search of a Heart,'\neven if the idea of finding your heart in\nCapitol City IS a complete fairy tale."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_070": {
+    "speaker": "Diva_No5",
+    "text": "Does this world not have hearts, then?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Er, sorry. Figure of speech. But hey,\non another matter, how much money\ndo you have on you right now?"
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_090": {
+    "speaker": "Diva_No5",
+    "text": "None."
+  },
+  "SUB_W18_EVAR_DIVA_ABOUT_HERE_000_CUT_050_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Eh, mechs don't need to eat anyway,\nso I guess it's fine. Now let's go to work!"
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_000_000": {
+    "speaker": "Researcher_Nishant",
+    "text": "Oh, you made it! Good, good. Excellent.\nI'm Dr. Nishant, a researcher here at\nthe NRI. Please, come in, come in!"
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "And it's all right for us to see inside\nyour National Research Institute?"
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_000_020": {
+    "speaker": "Researcher_Nishant",
+    "text": "Oh, this area is open to all; it's just\na minor research space for my hobby.\fMy actual laboratory is located elsewhere in\nthe facility—and of course, non-personnel\naren't allowed in there."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Hee hee! Your 'hobby.' I love it."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_010_000": {
+    "speaker": "Researcher_Nishant",
+    "text": "Aaand here we are! My hobby research space.\nThis little piece of equipment right here\nis actually why I wanted to meet you."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_010_010": {
+    "speaker": "Researcher_Nishant",
+    "text": "I call it the 'Anti-Alien Battle Simulator'—\nor A.B.S., for short. Tough name, right?\fYes, well, as the name would indicate,\nit's a simulator where you fight aliens."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_010_020": {
+    "speaker": "Researcher_Nishant",
+    "text": "And seeing as you have already repelled\nsome aliens, Diva, I would very much\nlike you to evaluate the device."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "A battle in virtual space? Aye, I see.\nIf I'm able to help, I'll be happy to."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_010_040": {
+    "speaker": "Researcher_Nishant",
+    "text": "This IS the first time I've had a\nlive test subject in my simulator,\nbut I assure you it's perfectly safe."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Would you like to join me, Lita?"
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Pass. But hey, good luck!"
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_010_070": {
+    "speaker": "Researcher_Nishant",
+    "text": "Right then! If you would be so kind?"
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_010_080": {
+    "speaker": "Diva_No5",
+    "text": "Aye, of course."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_000": {
+    "speaker": "Researcher_Nishant",
+    "text": "Fascinating! Having a living being inside\nthe simulator has produced a series of\nentirely different results!\fIf I can tweak the A.B.S. based on this data,\nour results should improve dramatically!\nI must get started at once..."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "My connection to the virtual space was stable,\nand felt like a real battle. However, it seems\nthe strength of my foes was set far lower than\nthat of the true aliens."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_020": {
+    "speaker": "Researcher_Nishant",
+    "text": "I <i>intended</i> them to be weak! The simulation\nwas based on reports of past incidents, as well\nas observations of the spatial distortions that\noccurred when other victims became involved."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_030": {
+    "speaker": "Researcher_Nishant",
+    "text": "Why, if I made them any stronger, we'd have\nno hope of victory! ...Which I'm just now\nrealizing is such a difficult fact to accept\nthat it likely influenced my research.\fDamn you, blind-trial system! I am unworthy\nto call myself a scientist! The whole purpose\nof this is to find a means to oppose the aliens,\nand I've gone and ruined it all!"
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_040": {
+    "speaker": "Diva_No5",
+    "text": "Don't worry, love! I'll provide you with\nmy own data so you can set your own\ndifficulty however you like."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Sweet! I was hoping you'd say that.\nAnyway, good luck with the continued\nresearch on your hobby, Dr. Nishant."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_060": {
+    "speaker": "Researcher_Nishant",
+    "text": "Yes, yes, thank you—although I fear I've\nbeen neglecting my actual work too much,\nwhich the Institute will NOT be happy about.\fWell, I'll just have to do the best I can\non this in whatever spare time I have."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_070": {
+    "speaker": "Researcher_Nishant",
+    "text": "Feel free to use the simulator anytime,\nDiva. I've already had an entry card\nmade for you, so you can access this part\nof the lab even when I'm not here."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Just don't spend all of your time on\nthis glorified arcade machine, or my\narticle is going to be VERY dull."
+  },
+  "SUB_W18_EVAR_DIVA_RESERCHER_000_CUT_020_090": {
+    "speaker": "Diva_No5",
+    "text": "Aye, and it also won't help me\nlearn where my heart is."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Whoa, what a commotion! There must\nbe some kind of incident going on!"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Wait, love!"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Hey there, John. What's going on?"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_030": {
+    "speaker": "Detective_John",
+    "text": "Always quick to sniff out a\nnew story, aren't you, Lita?\fWell, turns out the crystal on display at\nthe Capitol has been stolen—and according to\neyewitness reports, the culprit JUMPED from\nthe Upper Layer down to the General!\fCrazy, right? Anyway, I'm trying\nto dig up more evidence now."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Sounds like something a video game\ncharacter would do. You really think\nthis witness of yours is reliable?"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm not at liberty to divulge details\nof the investigation. That said,\nlet me know if you turn up anything\nthat might pertain to the case."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Ye cooperate with the police\ndespite being a reporter?"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Any citizen should cooperate with the police.\nThat said, as an information source, they tend\nto be a one-way street for reporters, so I'm\ncertainly not going to tell them anything."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "The culprit must have considerable physical\ncapabilities to be able to snatch up the\ncrystal and jump from the Upper Layer."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "What, you can't do that?"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Aye, but I'm a machine."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "That guy looks plenty suspicious.\nMight be the culprit."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Suspicion is an inherently human feeling—\nperhaps ye might even call it intuition?\nI cannae really comment on it, but I'd\nbelieve ye if that's what ye said."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Beg pardon, but are ye the one who\nstole the crystal from the Capitol?"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_000_030": {
+    "speaker": "Strange_Person",
+    "text": "......"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "I knew it! He's an alien!"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh my days!"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "We got him! I gotta call John."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Are ye an alien?"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_020": {
+    "speaker": "Strange_Person",
+    "text": "......"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_030": {
+    "speaker": "Detective_John",
+    "text": "Caught the thief yourself, eh, Lita?\nImpressive. I'll make sure you get an\nofficial commendation from the force."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Don't. It'll just make gathering\ninfo for stories that much harder."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_050": {
+    "speaker": "Detective_John",
+    "text": "Sure, sure, I getcha. We'll just say\na 'local citizen' cooperated in the\napprehension of the suspect."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "I suppose this means the mystery\nof the aliens is solved."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_070": {
+    "speaker": "Lita_Caryx",
+    "text": "I wouldn't count on it. The police aren't going\nto find anything—they never do. This will just\nbe reported as your run-of-the-mill theft with\nsome criminal out to make a quick buck."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_080": {
+    "speaker": "Diva_No5",
+    "text": "But the crystal does not appear to\nbe anything particularly grand."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_090": {
+    "speaker": "Lita_Caryx",
+    "text": "It's grand enough—and valuable enough—for\na glittery thing that decorates the Capitol.\nHowever, there have long been rumors about\nit not being your ordinary hunk of rock."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "What do ye think the aliens were trying\nto accomplish in stealing it, then?"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_110": {
+    "speaker": "Lita_Caryx",
+    "text": "Not a clue. But we've thrown a wrench\nin the works, which should help\nlead us to the next step."
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "What are ye referring to?"
+  },
+  "SUB_W18_EVAR_DIVA_LOST_CRYSTAL_010_CUT_010_130": {
+    "speaker": "Lita_Caryx",
+    "text": "You'll see—and it's all\nthanks to you, Diva!"
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_INTRO_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I think it's about\ntime to call it a day."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_INTRO_000_CUT_000_001": {
+    "speaker": "Lita_Caryx",
+    "text": "...Hmm? Oh, wait a minute.\nI've got a message."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_INTRO_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "'Secret meeting tonight between an\nAllen supporter and one other individual.\nLocation: Grand Capitol Hotel lounge.'"
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_INTRO_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "That sounds like what we heard on the news\nthis morning. I calculate a 98 percent chance\nthis individual will be the owner of the new\ncommercial facility."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_INTRO_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Could be—and it'd be one heck of a scoop\nto catch someone in the act! That said,\nthis could also be an intentional leak\nby someone with other plans."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_INTRO_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Let's be off then!"
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_INTRO_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Nae, it's too dangerous."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_INTRO_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Right? No self-respecting journalist\nwould let a scoop like this get away."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_INTRO_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, I don't feel like risking my\ncredibility as a journalist on something\nthis flimsy. Let's just head home."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_QUEST_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Look! That's the bigshot owner of that new\ncommercial facility. And like the tip said,\nhe's with one of Allen's supporters—\na local politician of some renown."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_QUEST_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Is that a scoop?"
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_QUEST_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, it's a <i>big</i> scoop. Wining and dining someone\nat a place like this stinks like week-old fish.\nStill, the candidate was smart enough to use\na middleman, which blunts the impact."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_QUEST_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "But the fact a political mover and shaker\nlike this is meeting with the owner gives\nme all the dirt I need for a major story."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_QUEST_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Now c'mon. Let's head back so I can\nget this thing written. Heh heh heh..."
+  },
+  "SUB_W18_FUNC_DIVA_SECRET_MTG_QUEST_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "I'm glad ye seem to \nbe enjoying yourself."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Good work today! Now let's\ncheck out the news."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So that's how things are looking at the moment.\nBut they report on each candidate's approval\nratings every day, so this could totally swing\nthe other direction by tomorrow."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "If they look at approval ratings, the candidates\nand their supporters can change their course of\naction, making such ratings important data that\ncan affect the election's outcome."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "See? You get it. Anyways, let's call\nit a night. I'll see you tomorrow."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_040_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Morning, sunshine!\nNow quick, turn on the news!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_070_000": {
+    "speaker": "Diva_No5",
+    "text": "Yesterday's secret meeting is already\non the news. Did ye give them the\ninformation ye had, Lita?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_070_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I sure did. This could be a huge story,\nso I have to strike while the iron's hot."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_070_020": {
+    "speaker": "Diva_No5",
+    "text": "What astonishing processing speed!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_080_000": {
+    "speaker": "Diva_No5",
+    "text": "A sudden cut on their body at night?\nOh, but that's disturbing. Is there\nno other information on the incidents?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_080_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, the news <i>didn't</i> mention that\nthe people being attacked all have lots\nof social influence. "
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_080_020": {
+    "speaker": "Lita_Caryx",
+    "text": "It's also happening to people who tend to\nwork alone—internet celebrities and that\nsort of thing—rather than politicians or\nbusinesspeople who are always with others."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_080_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Also, none of the victims have any idea who\ncould have attacked them. This stinks to\nhigh heaven of aliens. Aliens, I tell you!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_080_040": {
+    "speaker": "Diva_No5",
+    "text": "Is that so? I wouldn't think such a\ndetermination could be made based on\nthe information we currently have."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_080_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, it's fine: we're working together,\nso I don't think I have to worry about being\nattacked. Now c'mon—you've got places\nyou want to go, and I'm going with you!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_080_060": {
+    "speaker": "Diva_No5",
+    "text": "Aye, let's keep searching for my heart!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_090_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Are you interested in the debate they\nmentioned on the news? I could use my\npress pass to get in if you want."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_090_010": {
+    "speaker": "Diva_No5",
+    "text": "I wouldn't call it 'interest,' exactly,\nbut I do think I should participate in\norder to gain more data about this world."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_090_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Right, well, I don't HAVE to go to,\nso I'll leave it up to you."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_090_030": {
+    "speaker": "Lita_Caryx",
+    "text": "And sure, it'll be packed with reporters\nand broadcast across Capitol City, but\nI bet you'll see some things in person\nthat you'd miss otherwise."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_090_040": {
+    "speaker": "Lita_Caryx",
+    "text": "News reports aren't everything, you know.\nSometimes you have to just get out there,\ngrab life by the lapels, and shake it\nuntil you see what falls out!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_090_050": {
+    "speaker": "Diva_No5",
+    "text": "Ye think the information stored in\nmy database may not be able to\naccount for all things, then?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS01_000_CUT_090_060": {
+    "speaker": "Lita_Caryx",
+    "text": "See? You get it. So if you want to see the\ndebate, I'll just say you're my assistant.\f...We're going, right?\nSay we're going!"
+  },
+  "SUB_W18_EVAR_DIVA_FORUM_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I know I'm sort of dragging you into my work\nhere, so lemme give you the lowdown. Basically,\ndebates are a venue in which participants share\ntheir opinions on topics determined in advance."
+  },
+  "SUB_W18_EVAR_DIVA_FORUM_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Hmm. Strange. The moderator generally keeps\nthings moving, but this one is coming off a\nlittle weird. It's almost like he's backing\nJames Allen on everything he says..."
+  },
+  "SUB_W18_EVAR_DIVA_FORUM_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Could he be a supporter\nof Mr. Allen, then?"
+  },
+  "SUB_W18_EVAR_DIVA_FORUM_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "It's possible—but as a professional moderator,\nit would be a massive breach of ethics.\nI just can't imagine him doing that."
+  },
+  "SUB_W18_EVAR_DIVA_FORUM_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Which candidate do ye like, love?"
+  },
+  "SUB_W18_EVAR_DIVA_FORUM_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "I support a candidate\nnamed Nunya Beezwax!\fAnyway, this is as far from a fair exchange\nof ideas as you can get. I'm glad I got to see\nthis in person; we might not have noticed his\nsubtle bias if we weren't sitting here."
+  },
+  "SUB_W18_EVAR_DIVA_BATTLE_SIM_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Hello, love. I'd like to use\nthe simulator if I could."
+  },
+  "SUB_W18_EVAR_DIVA_BATTLE_SIM_000_CUT_000_010": {
+    "speaker": "Researcher_Nishant",
+    "text": "Ah, Diva! Welcome, welcome.\nNow then, what level would you\nlike the simulation set to?"
+  },
+  "SUB_W18_EVAR_DIVA_BATTLE_SIM_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh, just pick one for me."
+  },
+  "SUB_W18_EVAR_DIVA_BATTLE_SIM_000_CUT_000_030": {
+    "speaker": "Researcher_Nishant",
+    "text": "Let's gather more data on enemies we can beat."
+  },
+  "SUB_W18_EVAR_DIVA_BATTLE_SIM_000_CUT_000_040": {
+    "speaker": "Researcher_Nishant",
+    "text": "Let's make a guess at the capabilities of a normal alien."
+  },
+  "SUB_W18_EVAR_DIVA_BATTLE_SIM_000_CUT_000_050": {
+    "speaker": "Researcher_Nishant",
+    "text": "Let's measure your true power!"
+  },
+  "SUB_W18_EVAR_DIVA_BATTLE_SIM_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Then let the simulation begin!"
+  },
+  "SUB_W18_EVAR_DIVA_BATTLE_SIM_000_CUT_010_000": {
+    "speaker": "Researcher_Nishant",
+    "text": "Oh, but this data is WONDERFUL!\nPlease do come back soon."
+  },
+  "SUB_W18_EVAR_DIVA_VIP_HOTEL_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I briefly considered having you stay here,\nbut then I thought better of it. It's a place\nfor VIPs, which means it's super pricy."
+  },
+  "SUB_W18_EVAR_DIVA_VIP_HOTEL_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "A simple room is more than enough for me.\nOh, but not to imply the space you have me\nin is simple! Far from it! Oh gosh, I'm sorry."
+  },
+  "SUB_W18_EVAR_DIVA_VIP_HOTEL_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Ha ha! No worries. Still, if you weren't\na robot, I would've wanted to take you\nout for a fancy dinner at least once."
+  },
+  "SUB_W18_EVAR_DIVA_VIP_HOTEL_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Question, love: is that tree in\nthe center of the lobby real?"
+  },
+  "SUB_W18_EVAR_DIVA_VIP_HOTEL_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "It sure is—although it used to be outside.\nSee, it was here when the hotel was built\nover a hundred years ago, and the man who\nfounded this place really loved it.\fSome time ago, a redevelopment plan was\nlaunched for Capitol City that involved\ncutting it down, but the hotel fought it\ntooth and nail."
+  },
+  "SUB_W18_EVAR_DIVA_VIP_HOTEL_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Eventually, they reached an agreement where\nthe redevelopment plan paid for the tree to\nbe replanted inside the hotel.\fAs the hotel tells it, there were concerns\nthe tree might immediately wither and die,\nbut it perked right back to life because\nthe founder's soul lives on inside it."
+  },
+  "SUB_W18_EVAR_DIVA_VIP_HOTEL_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Anyway, enough of that! I didn't get any\ntips that require me to be here today,\nso how about we get going?"
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_INTRO_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Hey, sorry, but I just got contacted by\na friend. Mind if we head somewhere?"
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_INTRO_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Has something happened?"
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_INTRO_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Apparently there was a spatial distortion\nsighted in a particular section of the\nGeneral Layer, and I'm thinking it might\nbe connected to the aliens. Wanna go?"
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_INTRO_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I see. Aye, let's go."
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_INTRO_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "My sensors are indicating danger."
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_INTRO_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Guess that means I should reconsider.\nWe'll just head home instead."
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_QUEST_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "According to my source, this is the place\nwhere the spatial distortion was seen.\n...Huh? What in the—"
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_QUEST_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Danger levels rising!"
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_QUEST_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Huh?"
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_QUEST_000_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "What the hell just happened?"
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_QUEST_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "A fiend attempted to pull ye into\nanother dimension, so I crossed over\nand gave it a proper thrashing."
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_QUEST_000_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh my gosh, this explains the people who\nare being cut! Since they're being hurt\nin a different dimension, it seems to\nbe happening instantaneously!"
+  },
+  "SUB_W18_FUNC_DIVA_KAMAITACHI_QUEST_000_CUT_010_030": {
+    "speaker": "Lita_Caryx",
+    "text": "We might have been lured out, but thanks to you,\nwe were able to turn the tables on the culprit.\nCase closed, and no one is the wiser! Now let's\nget back so I can fill my friend in on all this."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Good work today.\nAnd now, it's news time!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So that's what we're looking at today.\nThose two men are vying for the presidency,\nand the news is giving us a good idea\nof what each one stands for."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "Seems a head-scratcher\nof a decision to me."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, you don't know the half of it.\nThe current president has done a lot,\nso there's a heavy responsibility\nwaiting for whoever takes over.\fDo we develop the Union States further,\nor do we seek stability instead?\nIt's going to be a tough choice."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_030_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I'm headed back. G'night."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_030_040": {
+    "speaker": "Diva_No5",
+    "text": "I may be able to acquire data I cannae\notherwise get in this election period.\nWhen Lita wakes, we should travel\nthe city and see what things are like."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_040_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Morning! Man, I slept like a ROCK.\nNow then, I wonder what fascinating\nmysteries might await us today."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_070_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So she's finally making her\nmajor label debut, eh?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_070_010": {
+    "speaker": "Diva_No5",
+    "text": "A new singer..."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_070_020": {
+    "speaker": "Lita_Caryx",
+    "text": "She's massively talented. Like they said\non the news, she was huge even before\nthe label decided to sign her."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_070_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Entertainment news is outside my wheelhouse,\nso I totally forgot today was her big album\nlaunch. But, uh, we can go check it out if\nyou're curious about her."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_070_040": {
+    "speaker": "Diva_No5",
+    "text": "It's like ye know about all of this even\nif ye don't. How curious! Still, I might\nlearn something if we speak to her."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_070_050": {
+    "speaker": "Lita_Caryx",
+    "text": "You think you'll be able to remember\nsomething? Well then, let's get going!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_080_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So she's finally making her\nmajor label debut, eh?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_080_010": {
+    "speaker": "Diva_No5",
+    "text": "Is this new singer\nsomeone ye know?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_080_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Not personally, but she was huge\nlong before the label signed her."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_080_030": {
+    "speaker": "Lita_Caryx",
+    "text": "And while I'm curious about her debut, I'm even\nmore curious about public sentiment around the\nelection—and there's no way to do that other than\npicking the brains of Joe and Jane Lunchpail!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_080_040": {
+    "speaker": "Diva_No5",
+    "text": "Like interrogating perps!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_080_050": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm not a cop, Diva."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS02_000_CUT_080_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Anyway, let's get going."
+  },
+  "SUB_W18_EVAR_DIVA_SINGER_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Whoa, there's already a ton of people here!\nGuess I shouldn't be surprised, seeing as\nshe's giving a free concert."
+  },
+  "SUB_W18_EVAR_DIVA_SINGER_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, we won't get anywhere near the stage\nat this rate. But if you like her music, I'll let\nyou listen to everything I've downloaded\nwhen we get back to the office."
+  },
+  "SUB_W18_EVAR_DIVA_SINGER_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "That's a shame; I'd hoped\nto see her performance."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Something's happening in the lab!"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_010": {
+    "speaker": "Researcher_Nishant",
+    "text": "Huh? What are you two doing here?\nYou really should leave."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Did something happen? Biohazard breach!?\nRadiation leak!? Dimensional tear!?"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_030": {
+    "speaker": "Researcher_Nishant",
+    "text": "Oh, some of our alternative-energy equipment\nhas spiraled out of control and is now in\ndanger of exploding. Nothing major."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Ye were doing such research in the middle\nof the city!? That's mad! What happens\nif the citizens get caught up in it!?"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_050": {
+    "speaker": "Researcher_Nishant",
+    "text": "It's small-scale equipment that's contained\nbehind a three-stage barrier—so even if there\nIS an explosion, the laboratory isn't at risk.\fWe just want people to evacuate\nout of an abundance of caution."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, but that still doesn't explain why\nyou're running an out-of-control energy\nexperiment in the middle of the city."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_070": {
+    "speaker": "Researcher_Nishant",
+    "text": "Well, everything was simply peachy through\nyesterday—but when I increased the output\nfor today's test, we suddenly lost control.\fBefore I fled the lab, I saw a strange device\nattached to the control unit. I think it's\nthe cause of all this, but I don't know what\nit is, much less how to stop it."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Smells like sabotage to me.\nYou think it's the aliens?"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "What sort of device was it?"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_100": {
+    "speaker": "Researcher_Nishant",
+    "text": "It has an array of triangles on it,\nbut I didn't exactly have time to\ninvestigate it carefully."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "I'm familiar with certain triangles,\nand may be able get this sorted."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_000_120": {
+    "speaker": "Researcher_Nishant",
+    "text": "Excellent, excellent. Follow me."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "It's dangerous here, love.\nPlease wait outside."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm not going to stand around\nand miss the scoop of the century,\nthank you very much!"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_010_020": {
+    "speaker": "Researcher_Nishant",
+    "text": "Er, actually, everything you see here is\nhighly, <i>highly</i> classified, so you can't\nwrite about any of this unless you want\na scary visit from some very large men."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_010_030": {
+    "speaker": "Researcher_Nishant",
+    "text": "Ah, yes. Here it is."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "I put my chance of success at 50 percent.\nYe must get away; the danger is too great."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_010_050": {
+    "speaker": "Researcher_Nishant",
+    "text": "But I... Oh, fine. All right."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Right then. Time to get on."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_020_000": {
+    "speaker": "Researcher_Nishant",
+    "text": "Control has been restored!\nThe levels are dropping!"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "And the alarm stopped! Brilliant!"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_020_020": {
+    "speaker": "Lita_Caryx",
+    "text": "You did it! Hooray for you!\nAlso, now I can write my article."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_020_030": {
+    "speaker": "Researcher_Nishant",
+    "text": "Did you not hear what I said earlier?\nConfidential! Secrets! Very large men!"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_020_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Which is all the more reason I HAVE to write it.\nThis is clearly part of an alien attack, which means\nthey know the National Research Institute is part\nof our anti-alien efforts!"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_020_050": {
+    "speaker": "Researcher_Nishant",
+    "text": "And if you're right and they can attack us\nlike this whenever they please, we have no\nreal way to fight back!\fPlease, Lita. Most of my colleagues at the\nInstitute have nothing to do with aliens.\nI can't drag them into this."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_020_060": {
+    "speaker": "Lita_Caryx",
+    "text": "You... You coward!"
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_020_070": {
+    "speaker": "Researcher_Nishant",
+    "text": "Yes, well, I have to clean up this\nincid... Er, this 'unusual situation.'\nI will see you both some other time."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_000_CUT_030_000": {
+    "speaker": "Diva_No5",
+    "text": "Logic circuits overheating.\nEngaging cooling system."
+  },
+  "SUB_W18_EVAR_DIVA_ELEMENT_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Once more!"
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "My news magazine is based in this office\nbuilding, along with a number of other\nbusinesses. Oh, and it also has this\ndelightful little cafe!"
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_010": {
+    "speaker": "Violetta_Kim",
+    "text": "Are you nuts!? Allen is CLEARLY the right\nchoice! What's Bailey ever done, huh?\nNothing! A big stinking pile of nothing!"
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_020": {
+    "speaker": "Violetta_Kim",
+    "text": "Capitol City's economy is amazing right now\nbecause of Allen. And if he wins, things are\nonly going to get better!"
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_030": {
+    "speaker": "Stephan_Eliasson",
+    "text": "Sorry, but I just don't agree. Sure, Allen is\nproactive with business, science, and tech—\nand yes, we'll likely be a stronger country if he\nwins—but he's just too much of a hard-liner."
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_040": {
+    "speaker": "Stephan_Eliasson",
+    "text": "But with Bailey, you get someone who's steady\nand even-keeled. You get a sense of stability,\nwhich is just as important as growth."
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, well. Looks like some of my neighbors\nare engaged in a heated political debate.\nYou get this a lot during election season."
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_060": {
+    "speaker": "Violetta_Kim",
+    "text": "Hey! You there!\nWhat do YOU think about all this!?"
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_070": {
+    "speaker": "Stephan_Eliasson",
+    "text": "Easy, Violetta! You can't just grill\npeople about their personal beliefs."
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_071": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, I don't mind—besides which, I very much\nwant to hear what my new companion thinks.\nSo come on, Diva! Out with it!"
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Why is everyone asking ME!?\nI've no right to vote, so my answer\nmeans nothing one way or the other..."
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_090": {
+    "speaker": "Violetta_Kim",
+    "text": "Okay, fine. Then who do you think\nis going to WIN the election!?"
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Allen."
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "Bailey."
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_120": {
+    "speaker": "Violetta_Kim",
+    "text": "Right!? RIGHT!? You gotta go with the\ntried-and-tested record of success!"
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_130": {
+    "speaker": "Stephan_Eliasson",
+    "text": "An excellent choice. A president should\nbring a sense of stability to the job,\ninstead of flash and trickery."
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_140": {
+    "speaker": "Lita_Caryx",
+    "text": "And there you have it, Diva!\nYour first political debate!\nDid you enjoy it?"
+  },
+  "SUB_W18_EVAR_DIVA_DISCUSSION_000_CUT_000_150": {
+    "speaker": "Diva_No5",
+    "text": "If that was meant to be fun,\nI'm afraid I dinnae get it."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Hmm... That woman looks rather\nout of place for the Institute."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "You think so?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh yeah, my journalist senses are\nkicking in hard. Let's follow her!"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I trust ye. Let's go!"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Nae, it's nothing."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "I guess cracking that code earlier\nwore you down, huh? All right, sure.\nWe can head back."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Hey, you just came out of the NRI, right?\nCutting a pretty weird path through the\ncity, don't you think? What's your deal?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_000_010": {
+    "speaker": "Strange_Person",
+    "text": "......"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Danger levels rising!"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Could the abnormalities in the\nexperimental device be the work\nof the aliens, then?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Doctor Nishant really picked a\nterrible time to lose his nerve.\nWhat the hell are we supposed to—"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_020": {
+    "speaker": "Formina_Franklyn",
+    "text": "Hold it. You two were the ones lurking\naround during the incident at the\nNational Research Institute today."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Huh? Who are you people?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_040": {
+    "speaker": "Bonnie_Blair",
+    "text": "I'm Bonnie Blair, and this little\nrascal here's Formina Franklyn.\fWe're with the Capitol City Police Department, but\nwe're currently on loan to the Office of the President—\nso you two cowpokes can just think of this as a\nfriendly little chat with the president's office!"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "We've already spoken to the director of the\nInstitute—one Doctor Nishant—so please\nhold nothing back during our questioning."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "If you already talked to him, we've got\nnothing to add. The two of us don't know\nanything about what goes on in the NRI.\nWe just happened to be there, is all."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "And the creatures you call 'aliens'?\nWhat about them?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Hey, you're the ones working for the president,\nso maybe stop asking me these inane questions\nand go DO SOMETHING ABOUT THEM before this\nall explodes into a serious incident!"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_090": {
+    "speaker": "Formina_Franklyn",
+    "text": "The Office of the President is well aware of\nthe situation—and while it won't get any public\nattention, I can assure you the NRI has been\ndirected to continue its activities as before."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_100": {
+    "speaker": "Bonnie_Blair",
+    "text": "Also, y'all didn't ask for my opinion,\nbut I don't believe in aliens or UFOs\nor any of that. All a buncha horse plop,\nif ya don't mind my sayin' so."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_110": {
+    "speaker": "Lita_Caryx",
+    "text": "Then I guess there's nothing\nmore for us to discuss."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_120": {
+    "speaker": "Bonnie_Blair",
+    "text": "That mech was the one, right?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_000_CUT_010_130": {
+    "speaker": "Formina_Franklyn",
+    "text": "It sure was—but let's\nleave it be for now."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_010_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Ow! What the heck!?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "All right there, love?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_010_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Yes, I'm fine. Just surprised, is all.\nBut why was she in such a hurry?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Should we go after her?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Well, let's head home."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_INTRO_010_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, I was getting some weird vibes\nfrom her, too. C'mon, she went this way!"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Hey there. You bumped into me earlier—\nwhich is totally fine, these things happen.\nWe were just concerned that something\nmight be wrong. Why the big hurry?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_000_010": {
+    "speaker": "Strange_Person",
+    "text": "......"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Get down, love!"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Can't believe we bumped into an alien\nright here in the city. I swear I'm a\nmagnet for this kind of stuff..."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_010": {
+    "speaker": "Researcher_Nishant",
+    "text": "Goodness gracious! I detected a distortion\nin space-time and came here to investigate,\nand what should I find but the pair of you!\fSo, er, was there an alien here?\nDid I miss it?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, but we handled it. That said,\nI'm actually surprised you came out\nof your lab to see it in person."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_030": {
+    "speaker": "Researcher_Nishant",
+    "text": "I suspect the alien you tangled with is the\none responsible for the incident at the NRI.\nI couldn't risk it coming into contact with any\nof the other researchers, so I came straightaway."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Wait, did something happen\nat the lab!? Are you okay!?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_050": {
+    "speaker": "Researcher_Nishant",
+    "text": "Oh, I'm quite well, thank you.\nOur three-stage barrier managed\nto prevent a large-scale explosion."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm sorry, an explosion!?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "I detected a momentary increase in energy\nlevels earlier; that was clearly the cause.\nWhat manner of incident was it?"
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_080": {
+    "speaker": "Researcher_Nishant",
+    "text": "Well, this is all off the record, but the\nNational Research Institute is currently\nresearching alternative energy—and it's a\nvery challenging thing to keep under control!\fBut this morning, someone attached a device\nto the control system that caused a good deal\nof interference—hence the exploding and the\nbooms and whatnot."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_090": {
+    "speaker": "Diva_No5",
+    "text": "I calculate a 65 percent probability\nthe alien we encountered earlier\nis responsible for this."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Meaning the alien wanted your research\nto fail, and was willing to go to any\nlengths to make it happen.\fI'm just glad the lab's barrier prevented\nan even greater catastrophe here."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_110": {
+    "speaker": "Diva_No5",
+    "text": "We were able to drive the culprit\naway thanks to ye, Lita."
+  },
+  "SUB_W18_FUNC_DIVA_CAUSE_QUEST_010_CUT_010_120": {
+    "speaker": "Researcher_Nishant",
+    "text": "Well, seeing as the two of you have dealt with\nthe culprit, I should head back to the NRI and\nget started on the repair work. Oh, and my little\nlaboratory is safe too, so don't worry about that."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Are there other members of the anti-alien\ngroup besides Dr. Nishant and yourself?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm in contact with about ten people,\nbut for the safety of the organization,\nno one knows everyone's identity."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Does that not make your operations\nterrifically inefficient, though?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "I mean, sure, but you can't ever be too\ncareful when you're working in a big city.\fBut there are also some relationships you can\nonly build when you don't know people, and the\nunknown factor you get with lots of strangers\nliving together is what makes a city great. "
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Anyways, let's see what's on the news."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Three days to go until the election,\nand the aliens are busier than ever.\nThis is honestly exhausting."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "Yet your vitals are stable, love;\nye're healthy as anything!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "That's 'cause being a reporter is\na test of stamina. Anyways, g'night."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_030": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "_NOT_SPECIFIED_"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_040_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Morning. I don't imagine there's going to be\nanything big going down today, but we should\ncheck the news anyway."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_060_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Looks like I was right and the candidates\naren't planning any big moves—which is my\nchance to go track down a huge scoop in\nthe form of a personal-interest story!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_060_010": {
+    "speaker": "Diva_No5",
+    "text": "Is that so?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_060_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, finding a story about someone's private\nlife is the scoopiest of scoops.\nNow let's get out into the world and\ntrack down something interesting!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS03_000_CUT_060_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, let's look for my heart."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "So many cats! Do they all\nbelong to you, then?"
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_000_010": {
+    "speaker": "Jessica",
+    "text": "Oh, heavens no! I'm just taking care of\nthem. These kitties belong to everyone."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Stray cats tend to gather in this particular\ncorner of the Inspectorate, and Jessica here\nis always kind enough to take care of them."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_000_030": {
+    "speaker": "Jessica",
+    "text": "Oh, there's no need for praise, dearie;\nI love taking care of my special kittens!\fHonestly, even though I'm on the staff here,\nI sometimes feel like taking care of them\nis my <i>real</i> job."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Hey, look over there. Is that...?"
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_000_050": {
+    "speaker": "Jessica",
+    "text": "Goodness, there's clearly no escaping\nthe watchful eye of a talented reporter!\fBut yes, dear, that's Noah Bailey, the\npresidential candidate. He's helping to\nclean up this area—and doing so on the\n'down-low,' as the children like to say."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_000_060": {
+    "speaker": "Jessica",
+    "text": "Even though he's a very important politician,\nhe's always wandering around town picking up\ntrash and cleaning graffiti. Oh, but please\ndon't put any of this in a story!"
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Why not?"
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_000_080": {
+    "speaker": "Jessica",
+    "text": "If the whole world learned he was doing this,\nhe couldn't stay on the down-low—and that\nmeans the trash wouldn't get cleaned anymore!"
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, this is a real dilemma. My journalistic\nsenses are screaming for me to turn this into\na story, but I also understand what Jessica\nis saying about it ruining Bailey's good work."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Ye should write it."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Ye should leave it be."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_010_030": {
+    "speaker": "Lita_Caryx",
+    "text": "My my! Someone's feeling bold."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "I cannae think of any reason\nwhy ye should not."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_010_050": {
+    "speaker": "Lita_Caryx",
+    "text": "That is so adorably innocent, I want to\nhug you until your stuffing falls out.\fStill, I love it—and since I don't know for\nsure which option would help Bailey more,\nI'll just write the best story I can."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "You're right. Bailey genuinely seems to\nbe doing a good thing here, and turning\nthat into a scoop for my own personal\ngain feels pretty skeezy."
+  },
+  "SUB_W18_EVAR_DIVA_CATS_000_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "Aye, and Jessica did ask ye\nnot to write it as well."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Wait, now we're in the other dimension!?\nThis must mean..."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "It's just like that first time in the\nelevator. Be careful, love; though we\ncannae see them, I detect enemies nearby."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_020": {
+    "speaker": "Unknown_Person",
+    "text": "Then you have already named everyone\nin this place as your enemy?"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "They've shown themselves.\nMoving to attack!"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "Tsk! So belligerent. Did it ever occur to you to\napproach a problem with dialogue instead of\nsimply running straight at it? I come bearing\nuseful information, if you will but listen."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_050": {
+    "speaker": "Unknown_Person",
+    "text": "You are on a journey in search of your heart?\nWell, the item you seek is not to be found in\nCapitol City, so you should move on to your\nnext destination right away."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Truly? My heart isn't here?"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "I believe ye."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Nae, it's all lies."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_090": {
+    "speaker": "Unknown_Person",
+    "text": "I'm pleased you were willing to parley,\nand leave the rest to you."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "I've no proof your words are true."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_110": {
+    "speaker": "Unknown_Person",
+    "text": "I speak for your sake: there is no\nneed to waste time searching here."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "All right, I believe ye."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "Nae, still lies."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_000_140": {
+    "speaker": "Unknown_Person",
+    "text": "A pity it had to come to this.\nAh, well. Death it is, then."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "My heart is not here..."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "He didn't seem much like an alien,\nbut then again, who knows?"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "If my heart cannot be found here,\nthere's no point in remaining."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_010_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Wait, so you're just going\nto abandon me!?"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Thanks for everything, Lita."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_010_050": {
+    "speaker": "Lita_Caryx",
+    "text": "I know I was making a lot of assumptions\nand presuming upon you, but you're just\nso dang strong! Can't blame a girl for\ndreaming, am I right? "
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Apologies, but I don't understand\nsuch things. Ta now, love!"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "What was going on with that person, then?\nThese aliens must be truly pressed to\napproach me with such a proposal."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_020_010": {
+    "speaker": "Lita_Caryx",
+    "text": "You said your goal was to find your heart, right?\nWouldn't that have been easier if you just went\nalong with what he was suggesting?"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_WARNING_000_CUT_020_020": {
+    "speaker": "Diva_No5",
+    "text": "I don't know. Let's go."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "Are you angry about the first incident?\nThat was merely a test of your strength!\nI thought you realized as much."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "What's your business with me?"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_000_060": {
+    "speaker": "Unknown_Person",
+    "text": "We are the same as you: we have each\ncome to this world with an objective.\fWe do not wish to interfere with your goal,\nnor do we want you to interfere with ours.\nI seek only to know what your objective is."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "I'm searching for my heart."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_000_080": {
+    "speaker": "Unknown_Person",
+    "text": "I don't know how you think you will obtain such\na thing, but at least I know your purpose now.\nHowever, if such is your objective, I would ask\nyou to pursue only this, and nothing more."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "And what's your objective, then?"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_000_100": {
+    "speaker": "Unknown_Person",
+    "text": "There's no need for me to divulge\nsuch information. We hope only that\nyou achieve your goal in short order."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_020_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Was that an alien? What happened?"
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "I believe they want to warn me off doing\nanything that would get in the way of their\nown goals. I imagine they're going to be\nsome trouble for you as well, love."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_020_020": {
+    "speaker": "Lita_Caryx",
+    "text": "As a reporter, I welcome all the trouble I can\nhandle—but as a member of the anti-alien\norganization, I'd rather not provoke them until\nwe have a better idea what we're dealing with."
+  },
+  "SUB_W18_FUNC_DIVA_EVENT_CONTACT_000_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "Understood. I'll search carefully."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_INTRO_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I hear someone sent a tip to the\npolice from the Metropolitan Building."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_INTRO_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Your skills are wide-ranging if you're\nalso able to intercept communications!"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_INTRO_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, I guess I am pretty great.\nNow let's go check it out!"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_INTRO_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, let's go."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_INTRO_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Nae, it's too dangerous."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_INTRO_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Heck yeah, let's get that scoop!"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_INTRO_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Fine, fine. We'll head home."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "The building alarms inside are going off,\nbut it doesn't look like the police have\narrived quite yet."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "We're the first ones here.\nWhat's happening inside?"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "That sounded like a window!"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Ach! It's a person!"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "I had my camera ready in case something\nlike this happened. Also, it looks like the\ncops just showed."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_050": {
+    "speaker": "Detective_John",
+    "text": "Aw, hell. Lita? How'd you get here\nbefore we did—or were you actually\nthe one who tipped us off?"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "We happened to be passing by when we heard the\nalarm—and when I heard breaking glass, I started\ntaking photos. There could be something useful\nthere, so feel free to take a look. "
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_070": {
+    "speaker": "Detective_John",
+    "text": "Appreciate it. Now let's see what we've got...\nHold the damn phone! Forget 'something useful,'\nyou've got shots of the window moments after it\nbroke. Almost feels too good to be true."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "If you have any suspicions, you know how to\nfind me. Oh, and while I'm happy to testify \nto whatever you need, right now I'm out."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_090": {
+    "speaker": "Detective_John",
+    "text": "The alarm that went off was located in\nAllen's campaign office. This whole thing\nstinks to high heaven if you ask me!"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "It seems you've no need of the data I\nrecorded during the incident, then.\nOh, but you're always so impressive!"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_QUEST_000_CUT_000_110": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, I guess so. Still, it feels like\nsomeone may have set this up to\nhappen when I was here. Guess we'll\nfind out for sure tomorrow, huh?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "Question, love: There's an elevator to\nthe upper layer we've not used, aye?\nWhat's up there, exactly?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, you mean the one between the Capitol\nand the Inspectorate? Yeah, they don't\nlet normal folks access that."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "It connects right to the president's office,\nso it's locked down for security purposes.\nOnly the president or members of his\ncabinet are allowed to use it."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "The backbone of your nation,\nin other words."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Pretty much. But there's nothing up there\nexcept for the presidential grounds,\nso it's not particularly interesting."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Anyway, let's watch the news."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "An attack on a campaign office?\nThat's trouble right there."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "Such things don't normally happen?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "No, never. But this election has basically\nbecome a duel between the two candidates,\nand their supporters are desperate."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_030_030": {
+    "speaker": "Lita_Caryx",
+    "text": "And sure, previous elections in the Union\nStates always had your typical skullduggery,\nbut it was nothing like this."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_030_040": {
+    "speaker": "Lita_Caryx",
+    "text": "In any event, I'm headed back to my\nplace to finish some work. Good night."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_040_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Morning! Let's pop the news on."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_NEWS_000_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So it was all an inside job, eh?\nI guess that's one explanation."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_NEWS_000_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "I cannae understand why they'd\nwant to hurt their own side."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_NEWS_000_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "I can think of a few reasons—like wanting\nto hurt the Bailey campaign, for one—but I\nfeel like that's not all there is to this.\fThere may be a bigger crisis here than they're\nletting on. Allen's camp has clearly put their\nfoot in it, but I'm not sure we should think\nabout things so simply."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_NEWS_000_CUT_030_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye think we've been swept up in a wee bit\nof Allen's political shenanigans?"
+  },
+  "SUB_W18_FUNC_DIVA_RAID_NEWS_000_CUT_030_040": {
+    "speaker": "Lita_Caryx",
+    "text": "If that's true, they're gonna\nfind I don't come cheap."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_NEWS_000_CUT_040_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Harassment, huh? Bailey's side will deny it\nto their dying breath, but it's hardly\nsurprising that they're suspected—and this\nis the kind of thing that can swing a vote."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_NEWS_000_CUT_040_010": {
+    "speaker": "Diva_No5",
+    "text": "But the identity of the\nculprit remains unknown."
+  },
+  "SUB_W18_FUNC_DIVA_RAID_NEWS_000_CUT_040_020": {
+    "speaker": "Lita_Caryx",
+    "text": "The public doesn't care who <i>actually</i> did it;\nthey're all about the scandal. That's why you\nalways get an endless stream of this kind of\nthing during elections."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_070_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Anyway, time for us to get\nout there and seize the day!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_080_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Looks like there won't be any major\nelection-related events today."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_080_010": {
+    "speaker": "Lita_Caryx",
+    "text": "That said, unexpected things are sure to\ncrop up—things like this office incident—\nso I'm going to put the job of discovering\nthem into your capable hands!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS04_000_CUT_080_020": {
+    "speaker": "Diva_No5",
+    "text": "I don't imagine they'll have anything to\ndo with my heart, but sharp's the word\nand quick's the action!"
+  },
+  "SUB_W18_EVAR_DIVA_RESEARCH_000_CUT_000_000": {
+    "speaker": "Nigel_Patriot",
+    "text": "Greetings, humans! I am an alien!"
+  },
+  "SUB_W18_EVAR_DIVA_RESEARCH_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, how convenient! I've been\nwanting to interview an alien.\fSo which planet do you hail from?\nOr are you from another galaxy entirely?\nI assume you use a flying saucer, right?\fAlso, how do you like the food?\nOh, and are you here all alone,\nor did you come in a group?"
+  },
+  "SUB_W18_EVAR_DIVA_RESEARCH_000_CUT_000_020": {
+    "speaker": "Nigel_Patriot",
+    "text": "Are YOU an alien too?"
+  },
+  "SUB_W18_EVAR_DIVA_RESEARCH_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye! But also nae."
+  },
+  "SUB_W18_EVAR_DIVA_RESEARCH_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Answer my questions already, alien!"
+  },
+  "SUB_W18_EVAR_DIVA_RESEARCH_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Ach! I'll stop interrupting."
+  },
+  "SUB_W18_EVAR_DIVA_RESEARCH_000_CUT_000_060": {
+    "speaker": "Nigel_Patriot",
+    "text": "Have you ever even seen an alien before?\nAnd I mean besides me, so don't go saying\n'I'm looking at one right now.'"
+  },
+  "SUB_W18_EVAR_DIVA_RESEARCH_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "I don't WANT to meet an alien—also,\nyour little street show here sucks,\nso I'm not leaving a tip. Let's go."
+  },
+  "SUB_W18_EVAR_DIVA_RESEARCH_000_CUT_000_080": {
+    "speaker": "Nigel_Patriot",
+    "text": "In this insular little world, outsiders have\nlong been viewed as witches and monsters—\nand now aliens as well!\fAh, but how will they deal with interference\nthat truly comes from outside their world?\nIt is ever so interesting..."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "The coffee here is amazing, and the hotel cafe\nsells the roasted beans so you can have it at\nhome. Let's drop in for a minute, 'kay?"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "The brew you drink each morning\ncomes from this place, then?"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, look! Emily's in the cafe!"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "That's the singer we saw on\nthe telly the other day."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Yup! I'm gonna say hi."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Hi, there! You're Emily Bryant,\nright? I'm a big fan."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_060": {
+    "speaker": "Emily_Bryant",
+    "text": "Aw, thanks! What's your name?"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm a reporter named Lita Caryx—oh,\nand this is my assistant, Diva.\nI don't really cover entertainment,\nbut it's still awfully nice to meet you."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_080": {
+    "speaker": "Emily_Bryant",
+    "text": "Aw, that's great! It's nice to meet you guys,\ntoo—and Diva is such a pretty name!"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "You seem to be alone.\nAre you waiting for someone?"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_100": {
+    "speaker": "Emily_Bryant",
+    "text": "Yeah, I'm meeting my agent here."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_110": {
+    "speaker": "Lita_Caryx",
+    "text": "No surprise someone as popular as you\nwould have a busy schedule—and how crazy\nis it that you made your big debut just\nbefore the election!?\fYou've got a lot of guts; I would have\nbeen worried about my album getting\nlost in all the noise."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_120": {
+    "speaker": "Emily_Bryant",
+    "text": "Yeah, that was a risk, but I wanted to get it\nout during the election so my music wouldn't\nbe tied to any particular president, you know?\fAnd since I can keep any spotlight on me focused\non news about the debut, I don't have to deal with\na bunch of annoying interviews from people who\nwant to know which of the candidates I support."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_130": {
+    "speaker": "Lita_Caryx",
+    "text": "I guess that's one way\nto think of it."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_140": {
+    "speaker": "Emily_Bryant",
+    "text": "Hee hee! Speaking of which, THIS is\nstarting to feel like an interview!\nGuess you really are a journalist, huh?"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_150": {
+    "speaker": "Lita_Caryx",
+    "text": "Does it!? Oh gosh, sorry about that.\nI wasn't trying to do that, I swear."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_160": {
+    "speaker": "Emily_Bryant",
+    "text": "Aw, it's okay. And since you're a fan,\nI'm gonna go ahead and skip my usual\ninterview fee.\fWhoops! I see my agent there.\nGotta go!"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_170": {
+    "speaker": "Lita_Caryx",
+    "text": "Thanks for talking with me,\nand good luck with everything!"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_180": {
+    "speaker": "Diva_No5",
+    "text": "No one's ever complimented my name before—\nthough it does make me wonder why I'm\ncalled Diva in the first place."
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_190": {
+    "speaker": "Lita_Caryx",
+    "text": "I always figured you were a singer or something.\nEither way, how great was it to get to see a\ncutie like Emily up close?"
+  },
+  "SUB_W18_EVAR_DIVA_ARTIST_000_CUT_000_200": {
+    "speaker": "Diva_No5",
+    "text": "A singer? Me? Heavens no, love."
+  },
+  "SUB_W18_FUNC_DIVA_PRESIDENT_INTRO_000_CUT_000_000": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, I'll be hog-tied and tossed\nin a barrel! <i>More</i> aliens!?"
+  },
+  "SUB_W18_FUNC_DIVA_PRESIDENT_INTRO_000_CUT_000_010": {
+    "speaker": "Formina_Franklyn",
+    "text": "We're going to have more alien sightings\nthan we know what to do with if we keep\ntrying to chase down all of these leads."
+  },
+  "SUB_W18_FUNC_DIVA_PRESIDENT_INTRO_000_CUT_000_020": {
+    "speaker": "Bonnie_Blair",
+    "text": "Yeah, I reckon this is just another street\nperformance—which don't make a lick of sense,\nbecause who in their right mind wants to see\nsomeone <i>pretendin'</i> to be an alien!?\fI swear, I had no idea bein' an\ninvestigator would be so much work."
+  },
+  "SUB_W18_FUNC_DIVA_PRESIDENT_INTRO_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "So the CCPD is chasing aliens now?\nI had no idea..."
+  },
+  "SUB_W18_FUNC_DIVA_PRESIDENT_INTRO_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "We should follow them."
+  },
+  "SUB_W18_FUNC_DIVA_PRESIDENT_INTRO_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "We shouldn't get in their way."
+  },
+  "SUB_W18_FUNC_DIVA_PRESIDENT_INTRO_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "You read my mind. If this is about\naliens, we can't ignore it. C'mon!"
+  },
+  "SUB_W18_FUNC_DIVA_PRESIDENT_INTRO_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Good point. If those two want to waste their\ntime chasing after a bunch of half-baked\nstreet performers, that's their problem."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Hmm. He vanished. Perhaps these aliens\nare more real than we gave them credit\nfor initially."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "Or we just mistook what we saw."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm Lita Caryx with the Post.\nDid something happen? "
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_030": {
+    "speaker": "Bonnie_Blair",
+    "text": "Oh, just a little spate of street performers\nactin' like aliens. We ain't managed to run\nany of 'em down yet, but maybe y'all have?"
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "We have, actually—and they weren't remotely\nentertaining. Frankly, you're better off just\nleaving them be...unless there's something\ncriminal about their activities?"
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Our information suggests there is\none odd 'alien' out here somewhere.\fUnfortunately, we can't pin down exactly\nwhat is odd about them—just that they are.\nHence our investigation."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, the man we ran into wasn't particularly\nodd, unless you count being the world's least\nentertaining entertainer as odd."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "We appreciate your cooperation. Here is our\ncontact information. Please get in touch if\nyou come across anything of note."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Huh? This says you work for the\nPresidential Security Office."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Aw, that's just temporary.\nWe're sorta on loan to 'em from\nthe Capitol City Police Department."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_000_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Sounds like the president might be trying to\ndo something about the aliens. This calls\nfor some good old-fashioned sleuthing!"
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_010_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "I hope I go the rest of my life without\nrunning into an 'alien' street performer.\nWas there some kind of incident?"
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_010_CUT_000_050": {
+    "speaker": "Formina_Franklyn",
+    "text": "Our investigation is designed to prevent an\nincident from occurring. We received information\nabout an odd 'alien' somewhere in the city—\nnot that I place any stock in such things."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_010_CUT_000_060": {
+    "speaker": "Bonnie_Blair",
+    "text": "If you ask little ol' me, aliens and\nUFOs and whatnot ain't nothin'\nbut a big pile'a horse plop."
+  },
+  "SUB_W18_EVAR_DIVA_PRESIDENT_010_CUT_000_070": {
+    "speaker": "Formina_Franklyn",
+    "text": "Here is our contact information.\nPlease get in touch if you come\nacross anything of note."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Home sweet home!\nC'mon, let's watch the news."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "......"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_030_010": {
+    "speaker": "Diva_No5",
+    "text": "Lita?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Allen's quote about the\nplane is pretty odd."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_030_030": {
+    "speaker": "Lita_Caryx",
+    "text": "I mean, sure, the Union States leads the world\nin a lot of technological areas, but VTOL for\npassenger planes is a pipe dream's pipe dream.\nHell, it'd be more magic than science."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_030_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Can the ground withstand it? Is everyone aware of\nhow difficult it would be to control? There are all\nkinds of technical hurdles to overcome, and some\nof those are a long way from being solved.\fI know Allen likes to talk\na big game, but still."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_030_050": {
+    "speaker": "Diva_No5",
+    "text": "But would he really say something\nso completely mad without at least\nsome evidence to back him up?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_030_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, maybe my instincts are wrong.\nAnyways, see you tomorrow."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_030_070": {
+    "speaker": "Diva_No5",
+    "text": "Instincts... Aye, those are\nsomething I lack."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_040_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Something's sure got your goat\nby the look of it. What's up?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_040_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh, I was just thinking about the\nnotion of instincts and intuition—\nbut it's time for the telly now."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_070_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, that's all good to know.\nNow let's get rolling!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_080_000": {
+    "speaker": "Diva_No5",
+    "text": "There's a campaign rally today."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_080_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Yep. It's a valuable opportunity for candidates\nto give speeches straight to their supporters.\nGathering people together in person like that\nhelps to build a sense of solidarity."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_080_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Also, some candidates go press the flesh\nwith their supporters after the speech,\nso a lot of people come just to try and\nmeet someone famous."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_080_030": {
+    "speaker": "Diva_No5",
+    "text": "Like a festival, then! Sounds grand."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS05_000_CUT_080_040": {
+    "speaker": "Lita_Caryx",
+    "text": "You want to check it out? They let anybody\nin there, so if you're interested, just pop\non over to the venue at Metro Square."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, this is weird. What's with the heckling?\nEveryone at this rally should all be on the\nsame page about Bailey."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_000_CUT_000_020": {
+    "speaker": "Strange_Person",
+    "text": "Whaddaya mean Bailey isn't here!?\nYou're supposed to be on top of this!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_000_CUT_000_030": {
+    "speaker": "Rally_Officer",
+    "text": "Everything is fine, sir. A car accident\nhas snarled traffic around the area,\nbut he should be arriving shortly."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_000_CUT_000_040": {
+    "speaker": "Strange_Person",
+    "text": "That's because our traffic policies are\nUSELESS! Also, the fact he's making his\npossible constituents wait is PROOF\nBailey doesn't take us seriously!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh, but why is that man so steamed?\nCasting blame won't solve the problem."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_000_CUT_000_060": {
+    "speaker": "Strange_Person",
+    "text": "Well, if he won't speak, then I will!\nIn fact, I'll give a speech so good,\nBailey is SURE to win!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, this is getting way out of hand.\nI'm not going to be able to cover the\nrally at this rate."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_000_CUT_000_080": {
+    "speaker": "Strange_Person",
+    "text": "Oh, look who it is. Perfect timing.\nYou're coming with me!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Ach! He's taking Lita!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_010_CUT_000_000": {
+    "speaker": "Strange_Person",
+    "text": "I bet this'll be way more fun than\nbusting up the campaign rally."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_010_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Do you even know who I AM, you idiot!?\nThere are serious penalties for interfering\nwith the press in this country!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_010_CUT_000_020": {
+    "speaker": "Strange_Person",
+    "text": "Oh, I know exactly who you are...\nwhich is why you and me are gonna\ngo somewhere VERY far away!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Release my friend at once!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_010_CUT_000_040": {
+    "speaker": "Strange_Person",
+    "text": "Tsk! You again?"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_010_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "Another alien?"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_010_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Interfering this blatantly in a democratic\nelection is NOT going to fly with me."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_010_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Just please don't overdo it!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_010_CUT_010_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Aw, you care. How sweet!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_040_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "We're getting to the good part of the\nrally now. Just listen to those cheers!"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_040_CUT_000_010": {
+    "speaker": "Rally_Officer",
+    "text": "Hey, you're that pair from earlier.\nYou two all right?"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_040_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "We sure are! We talked everything out and\nconvinced those people to turn around\nand just call it a day."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_040_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "An entirely peaceful resolution."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_040_CUT_000_040": {
+    "speaker": "Rally_Officer",
+    "text": "Did someone hire those people\nto sabotage Bailey's rally?"
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_040_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "I asked them about that, but they wouldn't say.\nProbably for the best, since anything that came\nout of their mouths would assuredly be a lie."
+  },
+  "SUB_W18_EVAR_DIVA_MEETING_040_CUT_000_060": {
+    "speaker": "Rally_Officer",
+    "text": "Well, the rally went off without a hitch,\nso I'll stop speculating. Thanks so much\nfor all of your help today."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_000": {
+    "speaker": "Jessica",
+    "text": "Goodness, dearie! We certainly are\nseeing a lot of each other lately."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Or maybe it's just that you've been\nspending more time outside."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_020": {
+    "speaker": "Jessica",
+    "text": "Well, I suppose that's true. There's just so\nmuch to investigate in our work that I have\nto take a breather every now and again."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_030": {
+    "speaker": "Jessica",
+    "text": "In addition to watching out for the usual\nelection-season shenanigans, the head of the\nSecurity Office has also been acting oddly."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_040": {
+    "speaker": "Jessica",
+    "text": "Well then, it's time for me to get back\nto work. Good luck out there, dearie!"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Yep. Someone's definitely\nstirring up trouble."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Jessica is busy, then?"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "No, I'm talking about what she said about\nthe head of the Presidential Security Office,\nTristan Hernandez.\fHe's an old military buddy of\nthe president—they were both\nheroes of the Channel War."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Being chief of the Security Office is a more\nmodest job than you'd think, but the president\napparently trusts Hernandez more than anyone.\nAnd if he's behaving strangely..."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_090": {
+    "speaker": "Diva_No5",
+    "text": "Should we look into it?"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "I do like stirring up trouble..."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "And perhaps the man will have\nsomething to do with my heart!"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_000_CUT_000": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "_NOT_SPECIFIED_"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "How are we going to look into the activities\nof the head of the Presidential Security Office?\nWe lack even the most basic information that\nwould allow me to search for him with my sensors."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, we've got information.\nJust you wait."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Ach! There he is!"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_030": {
+    "speaker": "Tristan_Hernandes",
+    "text": "......"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "And he's alone."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Is that unusual?"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "He's in charge of all things security;\nit's strange for him not to at least have\nSOME other security officers around."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_070": {
+    "speaker": "Researcher_Nishant",
+    "text": "Lita, I just detected a spatial\ndistortion near your location.\nHave you been attacked again?"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "No, nothing's going on here.\nWe're totally fine."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_090": {
+    "speaker": "Researcher_Nishant",
+    "text": "Ah, that's a relief! Well, the distortion\nwas brief as usual, so I wouldn't worry.\nTalk to you soon."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Hm... You know, if we're not the only ones\nwho can get caught up in these weird\nspatial anomaly things..."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_110": {
+    "speaker": "Diva_No5",
+    "text": "Then it could have happened\nto Mr. Hernandez?"
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_120": {
+    "speaker": "Lita_Caryx",
+    "text": "That's exactly what I think—AND I think\nhe was holding a secret meeting."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_130": {
+    "speaker": "Diva_No5",
+    "text": "With the aliens? Oh my days..."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_140": {
+    "speaker": "Lita_Caryx",
+    "text": "Are the chief and the aliens connected?\nIs the president aware of his activities,\nor is he acting alone? Either way, this\nis a major development."
+  },
+  "SUB_W18_EVAR_DIVA_MELANCHOLY_010_CUT_000_150": {
+    "speaker": "Lita_Caryx",
+    "text": "There's not enough evidence to go public,\nbut we've got a lead now—and I never let\na lead escape."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Another day finished up.\nLet's see what's on the tube."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Things sure have been eventful in the\nlead-up to the election, huh? I haven't\nhad a moment's rest since you got here."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_030_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, but don't get me wrong—I'm not griping.\nAlways better to be busy than bored, right?\nAnyway, good night!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_030_020": {
+    "speaker": "Diva_No5",
+    "text": "Lita doesn't see me as an alien even though\nI came here from another world. But what\nis the difference between me and them?\nDo the aliens have hearts, perhaps?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_030_030": {
+    "speaker": "Diva_No5",
+    "text": "Well, she'll likely be covering the\nelection tomorrow, so I should go\nand search for my heart."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_040_000": {
+    "speaker": "Diva_No5",
+    "text": "Ach! Lita isn't here!"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_040_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm baaack! Oh, you're awake. I tried to\nsay something to you before I went to vote,\nbut you were in sleep mode for once."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_040_020": {
+    "speaker": "Diva_No5",
+    "text": "Are ye covering the\npolling place today?"
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_040_030": {
+    "speaker": "Lita_Caryx",
+    "text": "I'll let another reporter handle that;\nmy in-depth coverage of our story\nis going to be FAR more interesting."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_040_040": {
+    "speaker": "Diva_No5",
+    "text": "So ye will help to find my heart?\nOh, thank ye kindly."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_040_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Yep! That's why I decided to vote early.\nOf course, if you're interested in the\npolling place, I'm happy to go back."
+  },
+  "SUB_W18_FUNC_DIVA_NEWS06_000_CUT_040_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Anyway, today's news cycle is going\nto be dominated by the election,\nso let's hurry up and go!"
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "There are so many people!"
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Electronic voting is pretty common outside\nof Capitol City, but here, the old-fashioned\nmethod of voting in person is alive and well.\fIt's almost like a festival—or even\na ritual, I guess. Choosing a president\nis just a really special time."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "While I lack detailed data, I know this is\na nation of some size; to be elected its\npresident is a fine thing indeed."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, it's not an exaggeration to say\nthe president wields total authority,\nespecially when it comes to times of\nemergency and war. That's why...\fHuh? That's strange."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Is your intuition kicking in again?"
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah. She looked like an election\nofficial, but there's no reason for\nher to be wandering around here."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Oh! Wait for me!"
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_000_CUT_000": {
+    "speaker": "_NOT_SPECIFIED_",
+    "text": "_NOT_SPECIFIED_"
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Hi there. Lita Caryx with the Post.\nCare to tell me what's in the\nbox there? Because it looks\nan awful lot like ballot paper."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_010": {
+    "speaker": "Strange_Person",
+    "text": "Ack! I can't believe someone saw me!\nBut yeah, that's right: it's ballot paper.\nWhat are you going to do about it?"
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "You don't have enough ballots there to even make\na dent in the totals for Capitol City, much less\nthe entire Union States. Which means you're\ntrying to pull something else."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm guessing you WANT me to report this in order\nto reduce people's faith in the election—because\nwhoever comes out of a fraudulent election is\ngoing to see their power greatly undermined."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "And the weaker the president is,\nthe easier it will be for aliens\nto infiltrate your country."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "You aliens thought I'd be so hungry for a scoop\nthat I'd fall for an obvious trick like this?\nBoy, that really grinds my gears—I should\npunch you right in your smug face!"
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I wouldn't suggest that."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "C'mon, just a little punch?\nA love tap?\fFine. Boo. No punching.\nWhat a buzzkill you are."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Now get the heck out of my sight you\nlittle alien puke, and don't come back!"
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Right then. Time to contact everyone\nand make sure this doesn't turn into\nsome huge kerfuffle."
+  },
+  "SUB_W18_EVAR_DIVA_ELECTION_010_CUT_000_100": {
+    "speaker": "Diva_No5",
+    "text": "Will the election be completed\nwithout further incident, then?"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, there you have it: the one who\nstarted with the upper hand pulled\nout the victory in the end.\fDespite everything that happened,\nAllen was just the stronger candidate."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "But now the election's over—and once the\ninauguration coverage is done, I imagine\nmy work will calm down for a while. Sooo..."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Say, what do you have on the\nbooks tomorrow? Anything?"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Why do ye ask?"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_010_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I got a call from my contact at the\nNational Research Institute, and he wants\nme to go to the Inspectorate tomorrow."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "Why does he want us to go there?"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_010_050": {
+    "speaker": "Lita_Caryx",
+    "text": "He's a little fuzzy on the details,\nbut apparently an ally at the\nInspectorate needs a favor from us."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "So ye have anti-alien group members there?\nYour group is quite massive, it seems."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_010_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, it's big all right—so big, in fact,\nthat I'm part of the group and don't\neven know the entire scope of things.\fAnyway, sorry to drag you on another\nerrand, but let's head there tomorrow.\nGood night."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_A_000_CUT_010_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Good morning, sunshine!\nLet's get going."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I was told to come to the Inspectorate.\nShould we just...wait here?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_010": {
+    "speaker": "Jessica",
+    "text": "Oh, wonderful! You dears both made it.\nI'm the one who called you, but we\ncan't talk here. Please follow me."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "I can't believe YOU'RE\nour ally here, Jessica!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_030": {
+    "speaker": "Jessica",
+    "text": "And I can't believe that fact evaded an\nace reporter like you! Hee hee hee!\fWell, I suppose I've been doing a good job—\nwhich is good, because all of this wouldn't\nhave been possible otherwise."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_040": {
+    "speaker": "Jessica",
+    "text": "But it's not you I have business\nwith, Lita. It's Diva."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_050": {
+    "speaker": "Jessica",
+    "text": "We want to dispatch the aliens in Capitol City\nbefore the next president takes office—and to\ndo it, we need your help.\fPlease consider this a formal request\nfrom the President of the Union Nations,\nDiva, and weigh it appropriately."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_060": {
+    "speaker": "Diva_No5",
+    "text": "Will this have anything\nto do with my heart?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "I'm sorry, but I cannae do that.\nI'm not qualified to take on the\nresponsibility of a whole nation."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_080": {
+    "speaker": "Jessica",
+    "text": "Well, Lita? You're her friend.\nWhat do you think?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, of course I want to see the aliens driven\nout of the country. But as Diva's friend,\nI understand what she means: this is a\nproblem for our country and our people."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_000_CUT_000_100": {
+    "speaker": "Jessica",
+    "text": "I see. Well then, I suppose I've no choice\nbut to leave the decision in your hands."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "I wonder if my heart can be\nfound beyond this elevator."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_000_010": {
+    "speaker": "Jessica",
+    "text": "You need permission to operate\nthis particular elevator, dear."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_000_020": {
+    "speaker": "Jessica",
+    "text": "Should I take the fact you're proceeding\nto mean you will accept the request I\nmade of you earlier?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I don't know, but I cannae simply abandon\npeople—especially if there's also a chance\nof finding my own heart as well."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_000_040": {
+    "speaker": "Jessica",
+    "text": "I believe you."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Should we go together, love?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Of course! I need to see for myself\nwhether or not you finally get this\nheart you're looking for."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_000_070": {
+    "speaker": "Diva_No5",
+    "text": "Then let's go!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "There's no security here...\nWhat's going on?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Detecting multiple enemies with\na biological signal in the midst.\nThe president is over there!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_020": {
+    "speaker": "Mr_President",
+    "text": "I don't know who you are,\nbut don't come near me!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "Please stay back, love.\nI will rescue the president!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_040": {
+    "speaker": "Mr_President",
+    "text": "STOP!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_050": {
+    "speaker": "Mr_President",
+    "text": "Stop! The enemy—"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Ach! They're reacting to our movements!\nMr. President, get down!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_070": {
+    "speaker": "Mr_President",
+    "text": "Th-they stopped...?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_080": {
+    "speaker": "Diva_No5",
+    "text": "Aye, it's safe now; I accessed their\nnetwork and initiated a forced shutdown."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_090": {
+    "speaker": "Mr_President",
+    "text": "You live up to your reputation, Diva.\nAnd despite the current situation,\nI welcome you to the Office of the\nPresident of the Union States.\fI take this to mean you\nhave accepted my request?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_100": {
+    "speaker": "Diva_No5",
+    "text": "I cannae answer in regards to that;\nI simply cannae ignore a person\nso clearly in need of help."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_110": {
+    "speaker": "Unknown_Person",
+    "text": "My, my! Having you AND the president here\ntogether certainly does save me some trouble—\nfor you both serve as obstacles to our\ncooperation with the next president!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_120": {
+    "speaker": "Diva_No5",
+    "text": "Get back, Mr. President!\nI'll handle this!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_010_130": {
+    "speaker": "Unknown_Person",
+    "text": "Such arrogance! You'll soon realize we have\nonly been toying with you until now!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_000": {
+    "speaker": "Lita_Caryx",
+    "text": "And with that, I believe you've dealt with all\nthe aliens in the vicinity. I shudder to think\nof what might have happened had you not arrived\nwhen you did.\fNow all that remains is to capture the\nremaining aliens before the transfer of power\nto the next administration."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_010": {
+    "speaker": "Diva_No5",
+    "text": "What's the nature of your relationship\nwith the aliens, then?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_020": {
+    "speaker": "Mr_President",
+    "text": "Eight years ago, shortly after I took\noffice, we learned of the existence\nof the aliens.\fWe knew we had to control the narrative of\nsuch an explosive story, so we contacted them\nand began a series of discreet dealings.\fOver time, I forged a policy in which\nI sometimes accept their various demands,\nbut ultimately minimize their influence."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "And they dinnae wish for that\narrangement to continue."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_040": {
+    "speaker": "Mr_President",
+    "text": "Evidently not. Their demands have escalated\nrecently, up to and including things that\npose a threat to the very independence\nof the Union States.\fWe also received credible intelligence that\nthey were in contact with a presidential\ncandidate, at which point we had no choice\nbut to act."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_050": {
+    "speaker": "Mr_President",
+    "text": "The existence of the anti-alien organization—\nas well as you, Diva—pushed us to make the\ndecision we did."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Don't you think the fact you've kept\nthis from the public for eight years\nis problematic, Mr. President?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_070": {
+    "speaker": "Mr_President",
+    "text": "That's a question you would have as\na reporter, yes? But what is your opinion\nas a member of the anti-alien organization?\fDo you truly think we should leave the\nquestion of how to deal with <i>aliens</i>\nup to the wider public?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, judging by how the aliens\nhave been conducting themselves...\nNo. No, we probably shouldn't."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_090": {
+    "speaker": "Mr_President",
+    "text": "We arrived at the same conclusion.\nWe kept the aliens a secret in order\nto protect the Union States, but also\nbecause the aliens themselves wished it."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_100": {
+    "speaker": "Mr_President",
+    "text": "Thanks to you all, the secret has been kept.\nAnd I would ask that you continue to keep\nall that has occurred here in the strictest\nof confidences."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_110": {
+    "speaker": "Mr_President",
+    "text": "Now then, Diva, I hear you came here\nin search of a heart. Were you able\nto find what you needed?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_120": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I still don't even know what my\nheart IS, let alone where I might be\nfinding it. I thought I might come\nacross some kind of lead here, though."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_130": {
+    "speaker": "Mr_President",
+    "text": "I see. Well, such matters are often things\none must look for and discover on their own,\nso please feel free to search at your leisure.\nAnd as for you, Lita?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_A_010_CUT_020_140": {
+    "speaker": "Lita_Caryx",
+    "text": "Are you kidding me? I'm gonna stick around\nand see if this magic heart gets found!"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_HUM_B_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I can't believe Bailey came from behind\nand pulled it out! People are going to\nbe talking about this election for years."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_010_000": {
+    "speaker": "Mr_President",
+    "text": "Greetings. I am the President of the\nUnion States. Welcome to my office."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I can't believe the president\nwas actually an alien!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_010": {
+    "speaker": "Mr_President",
+    "text": "Who are you?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_020": {
+    "speaker": "Diva_No5",
+    "text": "Jinks! Another president!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Wait, Diva."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Jessica sent us here\nto help, Mr. President."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_050": {
+    "speaker": "Mr_President",
+    "text": "Ah, so she did. I take this to mean you\nhave dispatched the impersonator?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_060": {
+    "speaker": "Lita_Caryx",
+    "text": "We have, Mr. President—and I'm\nglad we could be of assistance."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_070": {
+    "speaker": "Mr_President",
+    "text": "I first learned of the aliens eight years\nago when I took over from my predecessor.\fI'd found some of his policy decisions to be\nstrange, but in that instant, the mystery\nwas solved: the Union States' government\nwas being subjected to alien interference."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_080": {
+    "speaker": "Mr_President",
+    "text": "Throughout my eight years in office, I've\nworked to weaken their influence, ignoring\nthe meager scraps they tried to toss our way."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_090": {
+    "speaker": "Diva_No5",
+    "text": "And the aliens dinnae like that?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_100": {
+    "speaker": "Mr_President",
+    "text": "No, they did not. In fact, they found me so\ndifficult to deal with that they attempted\nto interfere with the last election—but I was\nre-elected anyway with the public's support."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_110": {
+    "speaker": "Mr_President",
+    "text": "Which brings us to the current election.\nKnowing my successor would have trouble\ndealing with the aliens, my administration\ndevised a plan to wipe them out.\fSadly, they got the jump on me,\nwhich was an inexcusable blunder\non my part as commander-in-chief."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_120": {
+    "speaker": "Mr_President",
+    "text": "But thanks to all of your brave efforts,\nwe've managed to recover our position.\nNow all that remains is to track down\nthe remaining aliens."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_130": {
+    "speaker": "Lita_Caryx",
+    "text": "But what if more aliens come?\nI mean, you won't be president forever."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_140": {
+    "speaker": "Mr_President",
+    "text": "After I leave office, I plan to lead the anti-\nalien organization. If there is another secret\ninvasion, I will reveal their existence and call\nupon the Union States to stand against them."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_150": {
+    "speaker": "Lita_Caryx",
+    "text": "Gotta say, it feels really good\nto have a hero of the Channel War\nleading our organization."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_160": {
+    "speaker": "Mr_President",
+    "text": "I'd like to offer special thanks to you, Diva.\nIf you have not yet found the heart you were\nsearching for, simply let me know and I will\noffer whatever aid I can."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_170": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I haven't found it yet. I don't even\nknow what my heart IS, let alone where\nI might be finding it. I thought I might come\nacross some kind of lead here, though."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_180": {
+    "speaker": "Mr_President",
+    "text": "We humans place great importance on hearts,\nand yet are often quick to abandon them.\nI pray you are able to find your own."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_HUM_B_010_CUT_020_190": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I'm definitely gonna stick around\nand see if this magic heart gets found."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_MEC_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, there you have it: the one who started\nout with the upper hand pulled out the win.\nDespite everything that happened, Allen was\njust the stronger candidate in the end."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_MEC_000_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "I suppose this will make your life\na bit calmer now, love?"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_MEC_000_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, I'll have plenty of events to cover\nuntil the inauguration, but things won't\nbe anywhere near as nuts as they were\nduring the election."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_MEC_000_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Then perhaps ye might be willing to help\nsearch for my heart? Because I don't know\nhow to even begin getting on with that."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_MEC_000_CUT_010_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Happy to help. Also, I know I said I'd follow you\nwherever, but it turns out you mostly ended\nup following ME around on various stories—\nreal sorry about that. Anyway, good night."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_MEC_000_CUT_010_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Diva, it's an emergency! You have to come\nwith me to the laboratory right now!"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_MEC_000_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh my days! Was there an accident!?"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_MEC_000_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "There's no time. Come on!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_000": {
+    "speaker": "Researcher_Nishant",
+    "text": "Intermittent distortions have been observed\nat the Office of the President. We've never\nseen anything quite like this before."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Something must be happening there."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Yes—and we should expect the worst."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "I'm a bit surprised we're the only\nones here during an emergency."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_040": {
+    "speaker": "Researcher_Nishant",
+    "text": "That's because the police would laugh me out\nof the room if I called them and said 'something\nhappened on the presidential grounds.'"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Then we've no choice\nbut to go ourselves."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "But we need permission to use the elevator\nto the presidential office, and making\na formal application takes forever!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_070": {
+    "speaker": "Researcher_Nishant",
+    "text": "Then we'll just force our way in. Here,\nI hacked this ID to have full elevator\nprivileges, and you're welcome to use it."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Ye hacked it, then?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_090": {
+    "speaker": "Researcher_Nishant",
+    "text": "Desperate times and all. But remember, \ngoing all the way to the top is a surefire\nway to get caught."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Being caught means nothing compared\nto what'll happen if we fail."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_000_CUT_000_110": {
+    "speaker": "Researcher_Nishant",
+    "text": "Then get going—and good luck!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Are you sure about this, Diva?\nYou know you don't have to come."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "I've no other option; I cannae place\nye or Dr. Nishant in danger."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, when you put it that way, thanks.\nHonestly, I'll probably get killed six ways\nfrom Sunday if I go up there alone."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Aye, so I'll support ye."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "But wait a moment."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "I'm ready. Let's go."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_010_000": {
+    "speaker": "メカ",
+    "text": "<b>INTRUDERS DETECTED. ELIMINATING.</b>"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Security mechs."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "No! They're aliens!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "This is the source of the distortion.\nI'll search for the president."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_020_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Mr. President! Are you all right?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_020_020": {
+    "speaker": "Lita_Caryx",
+    "text": "What the—?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "He's still here!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_030": {
+    "speaker": "Diva_No5",
+    "text": "This man is human, love."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_040": {
+    "speaker": "Diva_No5",
+    "text": "We've come to help ye, Mr. President.\nThankfully, ye seem unharmed."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_050": {
+    "speaker": "Mr_President",
+    "text": "So you're members of the anti-alien\norganization—which I suppose would make\nyou Diva. Thank you for saving me."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_060": {
+    "speaker": "Lita_Caryx",
+    "text": "What happened here, Mr. President?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_070": {
+    "speaker": "Mr_President",
+    "text": "My administration is aware of the beings\nyou call aliens, and we have been keeping\na careful watch on their activities.\fThat said, I never expected they might\nmount such a bold attack so soon after\nthe presidential election."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_080": {
+    "speaker": "Diva_No5",
+    "text": "What did the aliens from before\nhope to achieve by replacing ye?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_090": {
+    "speaker": "Mr_President",
+    "text": "They must have been crazy to think they could\ndeceive our people with that thing, and yet it's\nall a bit much for a practical joke."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Do you think they'll try\nsomething like this again?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_110": {
+    "speaker": "Mr_President",
+    "text": "I suspect the answer to that is yes,\nalthough we'll attempt to use more\nproactive measures moving forward.\fWe'll need to hand power over to the\nnext administration, and I'm sure we'll\nneed your organization's help as well."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_120": {
+    "speaker": "Lita_Caryx",
+    "text": "That's very reassuring."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_130": {
+    "speaker": "Mr_President",
+    "text": "Now then, Diva, I hear you came here\nin search of a heart. Were you able\nto find what you needed?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_140": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I still don't even know what my\nheart IS, let alone where I might be\nfinding it. Ye wouldn't happen to\nknow anything about it, would ye?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_150": {
+    "speaker": "Mr_President",
+    "text": "Sadly, one cannot simply will themselves to \nfind their own heart. But we all have something\ninside of us, even if we can't see it—and I\nbelieve that something is our heart."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_160": {
+    "speaker": "Diva_No5",
+    "text": "Yet I've no such thing inside me."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MEC_010_CUT_030_170": {
+    "speaker": "Mr_President",
+    "text": "I'm afraid that's all I can say—\nbut I wish you the best of luck."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_MON_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Bailey really turned things around for himself.\nHe's going to be a different kind of president\nthan what we've had before, and I'm looking\nforward to what happens in the future."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "There's no security here?\nWhat's going on?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Oh, there's someone inside.\nLet's check it out."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, what the heck?\nTWO presidents?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "One is the real president, and the other\nan alien—though the level of concordance\nproduced by comparing their data values\nis proper mad!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_010_040": {
+    "speaker": "Lita_Caryx",
+    "text": "The president's staff look just\nas confused as we are."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "Then I've no choice but to do THIS!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Don't be so reckless!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_020_000": {
+    "speaker": "Diva_No5",
+    "text": "I've succeeded in distinguishing\nbetween the alien and the president."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_020_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Are you CRAZY!? What was your\nplan if you got the wrong one?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_020_020": {
+    "speaker": "Mr_President",
+    "text": "A fair question—and yet, I love\nthe conviction you acted with!"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_020_030": {
+    "speaker": "Diva_No5",
+    "text": "Glad I could help, love."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_020_040": {
+    "speaker": "Mr_President",
+    "text": "So you're members of the anti-alien\norganization—which I suppose would make\nyou Diva. Thank you for saving me."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_020_070": {
+    "speaker": "Diva_No5",
+    "text": "What did the aliens from before\nhope to achieve by replacing ye?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_020_130": {
+    "speaker": "Diva_No5",
+    "text": "Nae, I still don't even know what my\nheart IS, let alone where I might be\nfinding it. I thought I might come\nacross some kind of lead here, though."
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_020_140": {
+    "speaker": "Mr_President",
+    "text": "I see. Well, such matters are often things\none must look for and discover on their own,\nso please feel free to search at your leisure.\nAnd as for you, Lita?"
+  },
+  "SUB_W18_EVAR_DIVA_WQBOSS_MON_010_CUT_020_150": {
+    "speaker": "Lita_Caryx",
+    "text": "Are you kidding me? I'm gonna stick around\nand see if this magic heart gets found!"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_000": {
+    "speaker": "Diva_No5",
+    "text": "And so your next president is decided.\nThat was more than a wee bit exciting!"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, don't get the idea that's how all our\nelections go; this one was particularly\neventful. But hey, now I get to cover the\nevents leading up to the inauguration!"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Ye seem very busy, love, but I still\nhave to go search for my heart."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm happy to help, if you want; it's not\nlike I'll need to be gathering stories\nevery minute of every day, after all."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "Oh, that would be grand! Your information\nnetwork is certainly broader than what\nI have access to, after all."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Need something found, ask a crack reporter!\nNow get that sleep mode activated,\nbecause we've got a busy day tomorrow."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "All right, let's get ready to go."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_070": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, howdy there, partners! We're with\nthe marshal's office, and we're gonna\nneed this cutie here to come with us."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_080": {
+    "speaker": "Diva_No5",
+    "text": "Why!?"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_090": {
+    "speaker": "Bonnie_Blair",
+    "text": "Can't answer that one, hon.\nNow shake your spurs."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Wait! If you're taking her, I'm coming.\nI'm in the middle of covering her for an\nin-depth story."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_110": {
+    "speaker": "Bonnie_Blair",
+    "text": "Sorry, darlin', but she goes alone."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_120": {
+    "speaker": "Diva_No5",
+    "text": "Nae, please let her come!"
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_130": {
+    "speaker": "Bonnie_Blair",
+    "text": "Well, ain't you just a peach!\nBut fine. You want your gal along,\nwe'll go ahead and let 'er come."
+  },
+  "SUB_W18_EVAR_DIVA_RESULTNEWS_GOV_000_CUT_000_140": {
+    "speaker": "Lita_Caryx",
+    "text": "Thanks."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So we're going to the\nOffice of the President?"
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_000_010": {
+    "speaker": "Bonnie_Blair",
+    "text": "We sure are, hon—and you've been\ngiven official permission to tag along!"
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_000_020": {
+    "speaker": "Diva_No5",
+    "text": "Oh, that's a relief."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_000_030": {
+    "speaker": "Formina_Franklyn",
+    "text": "Let's head up."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_000": {
+    "speaker": "Formina_Franklyn",
+    "text": "Go right in here."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "Let's go."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_020": {
+    "speaker": "Mr_President",
+    "text": "Welcome to the Office of the President.\nYou must be Diva and Shungiku Hanabusa.\nAh, but you prefer Lita, yes?\fAs you probably know, I am the\nPresident of the Union States."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_030": {
+    "speaker": "Mr_President",
+    "text": "I called you here today so we could\nspeak about the beings you call aliens.\nPut simply, they do not exist."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_040": {
+    "speaker": "Mr_President",
+    "text": "What? No! But we've seen them!\nAnd we have hard observational data!"
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_050": {
+    "speaker": "Lita_Caryx",
+    "text": "All of which are products\nof government experiments."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "So that means?"
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_070": {
+    "speaker": "Mr_President",
+    "text": "Just as you created an anti-alien organization\nto carry out your activities, the government\nhas also been conducting various experiments in\npreparation for interference from other worlds.\fAn example of this is the unique\n'other dimension' you have experienced."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_080": {
+    "speaker": "Mr_President",
+    "text": "You, Diva, have a higher than normal chance\nto enter such special spaces—and I believe\nyou are well aware of the reason."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_090": {
+    "speaker": "Mr_President",
+    "text": "Your appearance here brought our experiments\nto the next phase. It proved that interference\nfrom the outside is a real possibility."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_100": {
+    "speaker": "Mr_President",
+    "text": "These experiments will now be inherited\nby the next administration—and it's all\nthanks to you, Diva."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_110": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, hang on! What about our organization!?\nWe've been working like dogs to protect this\ncountry and its people, and it was all...\nWhat? A waste!? A fantasy!?"
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_120": {
+    "speaker": "Mr_President",
+    "text": "Sadly, Lita, I need you to bear an even\nheavier burden: you must never let your\norganization know the truth.\fI would have you carry out your activities\njust as before—which is why you must\nforget all that you learned here today."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_130": {
+    "speaker": "Mr_President",
+    "text": "You may regret coming along with\nDiva, but doing so was a choice\nmade by you alone.\fIf you wish my advice, I would suggest you\nleave the organization entirely. I believe\nyou could live more easily that way."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_140": {
+    "speaker": "Mr_President",
+    "text": "Some of your members, such as\nDr. Nishant, will be recruited to\nother government organizations.\nBut as for you..."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_150": {
+    "speaker": "Lita_Caryx",
+    "text": "I understand, Mr. President. I'm a citizen\nof the Union States, and I have pledged my\nallegiance to the flag. I will do my duty.\fBUT! In exchange, I want an exclusive,\nall-access, nothing-off-the-record\ninterview the day you leave office."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_160": {
+    "speaker": "Mr_President",
+    "text": "I agree to your terms—and in truth,\nI rather expected this."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_170": {
+    "speaker": "Lita_Caryx",
+    "text": "Hope you don't regret this, Mr. President!\n'Cause after eight years in office, I have a\nboatload of questions for you."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_180": {
+    "speaker": "Mr_President",
+    "text": "Now, Diva, I would ask you to pack up and\nleave the Union States at once. We intend\nto purge all trace of your existence; not even\nthe next administration will know of you.\fThe eventual appearance of aliens will prove\na great trouble without further experiments—\nand with your knowledge of the world beyond,\nyou would be a cancer for our nation's future."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_190": {
+    "speaker": "Diva_No5",
+    "text": "Me being here WOULD be troublesome,\nwouldn't it? Very well, I'll be off."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_000_CUT_010_200": {
+    "speaker": "Mr_President",
+    "text": "Thank you for understanding."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_010_CUT_000_000": {
+    "speaker": "Constantine",
+    "text": "Ugh. How careless for a world to choose\nits leaders through a <i>popular vote</i>.\nCome now, let's move on."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_010_CUT_000_001": {
+    "speaker": "Lita_Caryx",
+    "text": "So you're leaving us?\nAnd uh...through a manhole?"
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Aye, it looks like a manhole, but it's\nactually a gate to another world.\nBut it wouldn't take ye there even\nif ye were to pass through it."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_010_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "You're probably right about that,\nbut I'm still curious how the thing works.\fI mean, not curious enough to actually\n<i>jump into a manhole</i>, but you know."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "Ye say that, but I hope ye don't attempt\nanything reckless; ye cannae let that\nbold reporter spirit get the best of ye!\fNonetheless, ye've been a great help\nto me, love, so cheers for that."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_010_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "I know our time together was short,\nbut it was also <i>really</i> fun."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_010_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Wow. She's really gone. Thought she might\nopen the manhole cover and leave, but nope.\nShe's just...gone."
+  },
+  "SUB_W18_EVAR_DIVA_WQEND_GOV_010_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, you didn't seem like any old robot\nto me, Diva; I know you've got a heart\nin there somewhere..."
+  }
+}

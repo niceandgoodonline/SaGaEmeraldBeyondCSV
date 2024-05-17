@@ -1,0 +1,3042 @@
+{
+  "SUB_W09_EVAR_SIUG_CANCEL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Hold a moment."
+  },
+  "SUB_W09_WRLD_SIUG_INITIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. We appear to be on a city street.\nBurgs such as these tend to be pervaded\nwith darkness, making them just the sort\nof place I might meet a worthy thrall."
+  },
+  "SUB_W09_WRLD_SIUG_INITIAL_000_CUT_000_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "This here's Avalon, capital of the Kingdom\nof Albion, which connects to all worlds.\nAnd this is Avalon Station, the true heart\nof the whole place."
+  },
+  "SUB_W09_WRLD_SIUG_INITIAL_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, so this is your city, Champion.\nIt seems a fine place—as majestic,\nflashy, and corrupted with darkness\nas I would expect from your home."
+  },
+  "SUB_W09_WRLD_SIUG_INITIAL_000_CUT_000_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "Can't deny there's a darkness here:\na deep one that the city's never\nreally been able to hide."
+  },
+  "SUB_W09_WRLD_SIUG_INITIAL_000_CUT_000_040": {
+    "speaker": "Train_Conductor",
+    "text": "Pleasant travels, sirs!"
+  },
+  "SUB_W09_WRLD_SIUG_INITIAL_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Oh, but I expect my time here\nto be most pleasant indeed."
+  },
+  "SUB_W09_WRLD_SIUG_INITIAL_100_CUT_000_000": {
+    "speaker": "Train_Conductor",
+    "text": "Welcome to Avalon Station,\nmy fine fellow!"
+  },
+  "SUB_W09_WRLD_SIUG_INITIAL_100_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I sense great darkness\nwithin this world."
+  },
+  "SUB_W09_SCAN_SIUG_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It seems my target is right under my nose.\nTo think there might be a potentially\nworthy thrall here in this crowd!"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So many souls crowded into so small\na space... Yes, this is quite the\nfascinating spectacle indeed."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "I say, there's our lostling!"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am busy seeking appealing prospects.\nStay out of my way!"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Heavens, this new lostling is\ncertainly a bit of an odd duck...\fWell, my name is Guinevere, and I have been\ntasked by the Crown with fetching lostlings\nsuch as yourself and providing them guidance."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You would presume to guide the Dismal King?\nVery well. I shall deign to hear what you\nmight have to say."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Whether this 'prospect' you seek is here or not,\nyou've an obligation to the Crown to discharge.\nThink of it as an entry tax, if you will—and I\ndo look forward to your prompt payment."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Oh, but please be at ease! I understand you've\nnothing on your person which might be of value\nto the Crown, so we'd be simply chuffed to\noffer you a different means of payment."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What is a 'tax,' and what could be <i>possibly</i>\nbe of more value than the personage\nof the lord of darkness himself?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "You may pay your entry tax\nby gathering these:"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_090": {
+    "speaker": "Guinevere",
+    "text": "They are valuable rocks\nknown as 'diamonds.'"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "You will go forth and gather items of value\non the streets of Avalon. Said items will\nthen be converted into diamonds by way of\na secret process known only to the Crown.\fBut I shall spare you the details,\nfor we've wasted enough time\ndiscussing it already."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And these slips of paper?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_120": {
+    "speaker": "Guinevere",
+    "text": "Ah, but those are transportation tickets.\nYou use them to travel about the city,\nideally gathering items of great value\nalong the way.\fI'll let you work out how best to use them,\nfor that will be the crux of making this\na most successful enterprise."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_130": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Well, regardless of this diamond nonsense,\ntraveling around the city should prove\nrather interesting."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_140": {
+    "speaker": "Guinevere",
+    "text": "Were I you, I might perhaps start at the\nCanuds department store; I hear one can\nacquire rather valuable items there."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_000_150": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And these scraps will permit me to\nvisit this 'Hannods'? Yes, I see."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_010_000": {
+    "speaker": "Champion_Einherjar",
+    "text": "I know that lady. I'm sure of it!"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Apparently she wanted nothing to do with\nyou and your trite descent into darkness."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_010_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "She a friend, maybe? Family member?\nSomething else entirely? I can't remember..."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_010_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "Well, I won't be much use to ya so long as\nI'm up in my head about this. I need to\nknow who she is, and I'm afraid yer gonna\nhave to figure that one out, Count."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_110_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then I shall get to the bottom of both\nAvalon's deep darkness and the identity \nof this mysterious damsel. For the sake of\nexpediency, let us hope they are connected."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_210_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You there! Woman!\nI would have words with you."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_210_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "Chatting me up right off the cuff?\nThis lostling certainly is assertive!\fYes, well, my name is Guinevere,\nand I have been tasked by the Crown\nwith fetching lostlings such as\nyourself and providing them guidance."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_210_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You would presume to guide the Dismal King?\nVery well. I shall deign to hear what you\nmight have to say."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_210_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Whatever it is you seek here, you've an\nobligation to the Crown to discharge first.\nSpecifically, I need you to gather these:"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_210_CUT_000_090": {
+    "speaker": "Guinevere",
+    "text": "Were I you, I might perhaps start at the\nCanuds department store; I hear one can\nacquire rather valuable items there."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "A moment, lad? I'm Detective Inspector Spear\nfrom Avalon Yard—and if I may, you're as\ndodgy a fellow as I've seen in all my years."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "......"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Now now, let's not get huffy.\nLuckily for us both, I'm in need of\na dodgy lostling such as yourself."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "As it happens, I know a number of chaps who\nused to be lostlings—scouted by the queen\nherself back in the day, so they were.\fPoint is, mate, I need your help—and you are\ngoing to give it to me, because otherwise\nI'll see you thrown in the nick."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well. But do not waste\nmy time with tedious errands!"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_060": {
+    "speaker": "Spear",
+    "text": "There's a clever lad. Now then, what I need is\nfor you to put that keen judgement and lostling\npower to work locating certain bits and bobs\non the mean streets of Avalon.\fI know that might seem like a load of old\ncobblers at the moment, but it'll all make\nsense at the end of the day."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what are these slips of\npaper you've handed me?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_080": {
+    "speaker": "Spear",
+    "text": "'Slips of paper'!? Oi, this is gonna\nbe a proper mess, and no mistake...\fThose slips are called 'tickets,' lad.\nYou use them to get about the city."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Excellent. I had been hoping to see more\nof this city of yours. But where I am to\nacquire these 'bits and bobs' you desire?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_100": {
+    "speaker": "Spear",
+    "text": "I'll explain everything, so listen close.\nYou'll start here, at the World Theatre."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_110": {
+    "speaker": "Spear",
+    "text": "Jack Street, next to us, is chock-full\nof hooligans and cutpurses.\fWouldn't normally send a fancy lad like\nyou to that place, but I think you'll find a\npiece there that's key to our investigation."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_120": {
+    "speaker": "Spear",
+    "text": "Oh, and then there's the Royal Plaza.\nYou'll mostlike find a minstrel there\nperforming for tourists, and I wager\nhe'll have a clue as well. "
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_121": {
+    "speaker": "Spear",
+    "text": "Your ultimate destination is the Avalon\npolice station. But not to worry, lad:\nI won't be having the bobbies nick you."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_130": {
+    "speaker": "Spear",
+    "text": "Figure a bloke like you should be\nable to take care of himself all right,\nso good luck out there.\fOh, and mum's the word on this investigation,\nso don't go discussing it with any Sid or Nancy who\nwanders by. In fact, just don't go discussing it at all."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_000_140": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well. I shall deign to aid in your\ninvestigation as I travel this world."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Have you any memories of that man?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_010_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "Nah, I don't know any detective inspectors—\nin fact, I've never been investigated\nfor anything in my life!"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_010_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "But there's somethin' inside him that doesn't\nfit with the whole 'hard detective' shtick.\nSomethin' he can't quite hide..."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I noticed this as well. Whether the man intends\nit or not, something in his very nature draws\nin darkness; the fact he chose to speak to me\nis proof enough of that."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_310_CUT_010_040": {
+    "speaker": "Champion_Einherjar",
+    "text": "And ya just drag folk into that darkness\nright along with ya. Yer one hell of a\nscary fellow, Count."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And just as I use the last of my tickets,\nI find myself back at Avalon Station."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "Made it back safely, did you lostling?\nWell done! Now be a chap and show me\nall the valuable items you've gathered\nso I can turn them into diamonds."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_020": {
+    "speaker": "Guinevere",
+    "text": "Heavens, this is simply brilliant!\nThat was merely meant to be a training\ncourse, yet you managed to gather more\nthan any lostling I've ever known!"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Well, this is smashing! If you can get these\nsorts of results from the training course,\nyou'll have your tax sorted in no time—\nand maybe even an audience with His Majesty."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_040": {
+    "speaker": "Guinevere",
+    "text": "Well, better than a swift kick in the bum,\nI suppose. Still, this <i>was</i> just a training\ncourse, so as long as you show better results\non the real thing, it should all be grand."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Well, that's gone all to pot—and you were\nonly on the training course! At this rate,\nit's hard to imagine you'll ever discharge\nyour duty to the Crown.\fWere I you, I'd do it again—and take it\nseriously this time, unless you fancy being\ntossed into the royal dungeons."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Now then, if you feel you adequately\nunderstand your duty, you may proceed\nto the next course. Or if you still lack for\nconfidence, you can try this one again."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I see no problem. We move on."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will try again."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There remains a ring."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_110_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "This old gold ring here, you mean?\nYes, that is a bit of a mystery.\nMust be something of a special case."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_210_CUT_000_110": {
+    "speaker": "Guinevere",
+    "text": "Did you not bother visiting Canuds?\nOr perhaps you simply failed to find\nanything of value there? Either way,\nI suggest you try again—and harder."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What will become of these diamonds?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "They will be presented to the Crown\nas your entry tax and used to fund\nvarious aspects of the royal family.\fFor while the Crown's finances are handled\nby the government, these diamonds need not\nbe 'officially' accounted for."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The whole ordeal strikes me\nas a terrific bother. "
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Quite—hence why it is my duty to identify\nthe rare lostling who finds their way here\nand send them to gather valuables that\nmight be converted into diamonds."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And yet I suspect your worth\nis far greater than that."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Oh, I'm nothing so special;\nmerely a prisoner of the royals\nand nothing more."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Right then! You'll be on a different course\nnext time, and may end up visiting more\ndangerous places and encountering even\ndodgier individuals—so do take care."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And where am I headed next?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "Begin with Nobleman's Square. It's where\nthe nobility of Albion tend to congregate,\nbut commoners may visit without issue."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This seems a place where valuable\nitems should exist in plenty."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_010_000": {
+    "speaker": "Champion_Einherjar",
+    "text": "Folks say Albion was once home to an honorable\nband called the Knights of the Round Table.\nAccordin' to legend, they were chosen by the\nqueen and pledged eternal loyalty to the king."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. And their rule of this land\nis what created the darkness that\nnow pervades it?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_010_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "Nah, that's just a legend. You've seen what\na mess the streets of Avalon are: honorable\nknights are nowhere to be seen.\fHell, these're the streets where I looked to\nharden m'self so I could leave a legacy\nas the best there ever was."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_120_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Let us continue your story after this circuit\nof the city, Champion. We've business in\nNobleman's Square—perhaps there we might\nlearn the true source of Avalon's darkness."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_220_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what of that ring?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_220_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "I will have it appraised so I might see\nif it is worth presenting to the king—\nin truth, I suspect it may have even\ngreater value than the diamonds."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_220_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Does that happen often?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_220_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Never, my little lostling—and it\nmakes me suspect you might be a\nterrifically special fellow indeed."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_220_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That I am special is beyond question.\nThe question is, are you?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_220_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "Try Nobleman's Square. It's where Albion's\nnobility tends to congregate, but commoners\nmay visit without issue.\fAnd of course, such nobles are known\nto possess precious items."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_220_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Precious items, is it? Let us see."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_120_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am beginning to grow accustomed\nto traveling through these new,\nnon-carriage forms of conveyance."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_120_CUT_000_020": {
+    "speaker": "Guinevere",
+    "text": "Heavens, this is simply brilliant!\nHave you been to Avalon before?"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_120_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Well, this is just smashing!\nLet's keep it up, shall we?"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_120_CUT_000_040": {
+    "speaker": "Guinevere",
+    "text": "Better than a swift kick in the bum,\nI suppose—though I encourage you\nto try harder next time."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_120_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Well, this has gone all to pot. At this rate,\nyou're mere moments from being tossed into\nthe royal dungeons—and I've not the faintest\nwhat might happen to you after that."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_120_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Your fate is yours to decide.\nDo you wish to try again?"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_120_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The necklace yet remains. Are you unable\nto grasp the value of its darkness?"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_120_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "This old gold necklace here, you mean?\nYes, it does appear to be something\nof a special case."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_220_CUT_000_110": {
+    "speaker": "Guinevere",
+    "text": "You didn't visit Nobleman's Square?\nOr did you merely run into trouble\nwith the nobles, perhaps?\f*sigh* I fear I may have expected rather\ntoo much from a mere lostling..."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Both of the items were from locations you\ntold me to visit; I suspect you know more\nof them then you choose to reveal."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "Heavens, I'm just as surprised as you are!\nThey're gold and quite old, but I've not had\nissues with other gold articles not becoming\ndiamonds, so I can't claim to understand it.\fPerhaps the king will have some insight\non the matter. Or perchance..."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Complete that sentence."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Mmm. Did I trail off? Apologies.\fYes, well, the next course will be the last.\nDo try to complete one last circuit before\nyour lostling power dissipates completely."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_031": {
+    "speaker": "Guinevere",
+    "text": "The next course will be the last.\nDo try to complete one last circuit before\nyour validity as a lostling expires."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What do you mean?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "If lostlings were to generate too many\ndiamonds, their value would crater overnight.\nThis is why we require but a single lostling\nat any given time, you see."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So there is a fixed timeframe to a lostling's\npower, and those who use that power can more\neasily draw out the darkness of Avalon?\nGive me the next slips of paper at once!"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_070": {
+    "speaker": "Guinevere",
+    "text": "Heavens, my lostlings aren't usually quite\nso motivated! I'm chuffed you appreciate\nthe value you bring to Avalon."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "Now then, this route will be rather\ndifferent: it begins at the royal palace,\nand will likewise conclude there once\nyou make a full circuit of the city."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And where would you have me visit?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "Knowing you, it'd be a wonder if\nyou didn't end up there even if I\nheld my tongue in check.\fRegardless, I'd think it worth your while\nto pop by the Royal Museum of Albion.\nAs a visitor to our land, I'm certain\nyou'll find it a fascinating place."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_020_000": {
+    "speaker": "Champion_Einherjar",
+    "text": "The royal family's desperate to get their\nhands on those diamonds—and I'm sure those\norders come straight from the queen."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_020_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "Current queen came to Albion after the\nformer one vanished. Next anyone knew,\nshe was rulin' as the king's co-regent!\fThey say all the pride and dignity\nof Albion disappeared after that."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Interesting. Perhaps she is the source of\nthe darkness that blankets all of Avalon.\nI would very much like to meet this queen."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_020_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "Whenever I won a championship, I got to meet\nthe king and queen as part of the prize—\nbut our conversations were so vapid,\nI barely remember 'em.\fI just remember they prized winning\nand success, as if those were the best\nthings they could possibly conceive of."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_020_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "True darkness is not born of ignorance;\nI suspect Her Majesty understands all\nand is simply playing a part."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_130_CUT_020_050": {
+    "speaker": "Champion_Einherjar",
+    "text": "If anyone was ignorant, it was me.\nI thought I was better than them—\nwas convinced of it, in fact!\nBut I paid for it in the end."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_230_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The items acquired from the locations you\ndirected me to are the only ones that don't\nbecome diamonds. That can be no coincidence."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_230_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The Dismal King will abide no\nmore of your dissembling!"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_230_CUT_000_020": {
+    "speaker": "Guinevere",
+    "text": "You truly are smart as anything, Siugnas;\nI can conceal nothing from your gaze."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_230_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Well, then! If explanations you want,\nexplanations you shall have.\fSome time ago, I committed a crime.\nAs recompense, I was ordered to find\nlostlings and use them to collect diamonds,\nwhich I then offer up to His Majesty.\fHaving now performed this service for no\nsmall amount of time, I feel I have\nsufficiently atoned for my actions.\nAnd yet..."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_230_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And yet your king has not forgiven you,\nso you now seek a way to break free\nfrom your gilded cage."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_230_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Ever one step ahead, aren't you? But yes,\nit is as you say: I am gathering gold items\nto which the king's power does not extend\nso I might use them to barter my freedom.\fSo yes, Siugnas, the Dismal King.\nI do have another motive here."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_230_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "How many more of these\nitems do you require?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_230_CUT_000_070": {
+    "speaker": "Guinevere",
+    "text": "If I can acquire just one more,\nI think that should prove sufficient."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_230_CUT_000_100": {
+    "speaker": "Guinevere",
+    "text": "But I suspect you already\nknow that, don't you?"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And we're back at the royal palace.\nI do look forward to meeting\nthe rulers of this world."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "A royal audience depends on how many diamonds\nyou have gathered. So let's have a gander and see\nif His Majesty will be chuffed to bits or tossing you\ninto his gaol."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_020": {
+    "speaker": "Guinevere",
+    "text": "Heavens, this is simply brilliant!"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Now this is just smashing!"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_040": {
+    "speaker": "Guinevere",
+    "text": "Well, it's better than a swift kick\nin the bum, I suppose."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "Well, this has gone all to pot."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "It appears you can safely expect\nHis Majesty's gratitude. Now let us\ntake these diamonds into the palace."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_070": {
+    "speaker": "Guinevere",
+    "text": "Let us take these diamonds into the palace.\nAs for what will happen next, we'll simply\nhave to see what mood His Majesty is in."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_080": {
+    "speaker": "Guinevere",
+    "text": "This scant quantity of diamonds buys\nyou nothing but a one-way ticket\nto the royal dungeons."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The wand I acquired at the museum isn't\nturning into diamonds, but I feel certain\nthat comes as no surprise to you."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_130_CUT_000_130": {
+    "speaker": "Guinevere",
+    "text": "An old golden wand, is it?\nYes, that's exactly the sort of thing\nwhich cannot be turned to diamonds."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_230_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I do look forward to meeting\nthe rulers of this world."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_230_CUT_000_140": {
+    "speaker": "Guinevere",
+    "text": "No wand, I see. This speaks volumes\nabout your intentions, Siugnas."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_230_CUT_000_150": {
+    "speaker": "Guinevere",
+    "text": "And cheers for bringing me the\nthird golden item I required."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_000_000": {
+    "speaker": "Palace_Guard",
+    "text": "Welcome back, Lady Guinevere.\n'Tis a pleasure to see you again."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "The pleasure is all mine, good sir.\nI've a lostling here who stands\nready to pay his entry tax."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "A lostling, eh? Excellent work!\nYou may enter."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_000_030": {
+    "speaker": "Palace_Guard",
+    "text": "And if I may be so bold, Lady Guinevere,\nI eagerly look forward to the day you\nmight return to the palace for good."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So, you are royalty yourself?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "I am but a captive\nand a criminal."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_000": {
+    "speaker": "King_Albion",
+    "text": "This fine offering of diamonds\npleases me, lostling."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_010": {
+    "speaker": "King_Albion",
+    "text": "If you require a boon, merely name it\nand I shall see it done."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I find the darkness that pervades your\nworld most appealing, and wish to\nfollow it to its source."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_030": {
+    "speaker": "King_Albion",
+    "text": "I'm not certain I understand your request,\nexactly, but in light of your contribution,\nI will allow it. You are dismissed."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_040": {
+    "speaker": "King_Albion",
+    "text": "Your efforts in this matter are\nappreciated as well, Guinevere.\nYou may go now."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_050": {
+    "speaker": "Guinevere",
+    "text": "A moment please, Your Majesty!\fI have guided a great many lostlings\nand secured for you a stunning amount\nof diamonds in the process. As such,\nI believe I have earned your forgiveness."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_060": {
+    "speaker": "Queen_Albion",
+    "text": "There can be no forgiveness for one who\nbetrays their own king! Nay, girl, your\natonement will consume a lifetime."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_070": {
+    "speaker": "Guinevere",
+    "text": "I do not ask to cease my atonement,\nYour Highness. I ask only for freedom,\nfor that is all I have ever wanted."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_080": {
+    "speaker": "King_Albion",
+    "text": "What is the meaning of this, Guinevere?\nWould you seek to defy me once more?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_090": {
+    "speaker": "Guinevere",
+    "text": "While no subject of Albion can defy their king,\nthis lostling has shown me your power does not\nextend to otherworldly articles such as these."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_100": {
+    "speaker": "Queen_Albion",
+    "text": "You would use these trinkets to\ndiminish His Majesty's power?\nHow clever...and how foolish!\nGuards! Seize this traitor!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, now <i>this</i> is interesting!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_120": {
+    "speaker": "Palace_Guard",
+    "text": "We cannot apprehend Lady Guinevere!\nWe'll not turn our arms against\nour rightful queen!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_130": {
+    "speaker": "Queen_Albion",
+    "text": "Fie, more traitors in our midst!\nBut so be it—if you will not follow my\ncommand, you may join her in death!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_140": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what is my part in this?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_150": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will aid Guinevere."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_010_160": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will observe, and nothing more."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_020_000": {
+    "speaker": "King_Albion",
+    "text": "I love you, Guinevere my queen—which is\nexactly why I cannot forgive your crime.\fBut I am a merciful man, and so will permit\nthe freedom you desire in the form of exile.\nNow begone from here and never return!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_020_010": {
+    "speaker": "Guinevere",
+    "text": "Your Majesty..."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_020_020": {
+    "speaker": "King_Albion",
+    "text": "I leave Lady Guinevere\nin your hands, lostling."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_020_030": {
+    "speaker": "Palace_Guard",
+    "text": "Please take care of m'lady, ser!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_020_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are you satisfied with\nthis arrangement?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_020_050": {
+    "speaker": "Guinevere",
+    "text": "Continue your mission, lostling—\nand without delay."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_030_000": {
+    "speaker": "Champion_Einherjar",
+    "text": "Ah, so that's the former Queen Guinevere!\nNo wonder she looked so familiar.\fYa used to see her everywhere—enough that it\nmade a man sick of all the talk of royalty\nand the Knights of the Round Table."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_030_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "Odd I ain't heard of anyone encounterin' her\nsince disappearin' from the palace—especially\nsince she wanders around Avalon doing the whole\n'lostling' thing. Not too subtle, that."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_030_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "No one has been treating her like a queen,\nand she mostlike had some form of curse cast\nupon her as well—a task that would be well\nwithin the ability of her successor.\fBut now, those dark curses have been lifted,\nand this world is well on its way to\nbecoming another tediously dull place."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_030_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "But with the new queen gone, a new history of\nAlbion can be written. And hell, maybe I can\nrewrite my own history—if yer willing to\nguide me to a new beginnin', Dismal King!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_040_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And with that, the queen has managed to\npreserve her dark rule—and for our part,\nwe learned the source of Avalon's darkness."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_040_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "But with Guinevere gone, there'll be no one\nto guide lostlings, and no more diamonds for\nthe royals. Why would a greedy sort like\nthe new queen take that kinda risk?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_040_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Guinevere is no more mortal than I: she will\nreturn to life and resume her grim atonement.\nIt is an eternal cycle of darkness set in motion\nby the new queen. Impressive, really."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_100_CUT_040_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "Still, one day, Guinevere's gonna succeed\nin killin' the queen, and the darkness\nover Avalon will finally lift.\fBut until that day, I gotta keep trainin'.\nSo I beg ya, Dismal King! Guide me to a\nlife of eternal self-improvement!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_000_000": {
+    "speaker": "Palace_Guard",
+    "text": "Greetings, Lady Guinevere. I am surprised\nyou have chosen to visit us again.\fYet would it not be best to accept His Majesty's\njudgment that you will not be forgiven and\ncannot escape his power, even with the aid\nof your skilled lostling?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_000_010": {
+    "speaker": "Guinevere",
+    "text": "Spare me your counsel and step aside;\nI've brought a cracking offering that\nis certain to please His Majesty."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "Very well, m'lady."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_000_030": {
+    "speaker": "Guinevere",
+    "text": "Even the gatekeepers greet me as a\nnuisance now—but that ends today. "
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "An impressive level of confidence.\nBut is it justified?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_000_050": {
+    "speaker": "Guinevere",
+    "text": "With your power, I'm certain of it."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_010_050": {
+    "speaker": "Guinevere",
+    "text": "I am going nowhere, Your Majesty!\nToday is the day I win my freedom!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_010_060": {
+    "speaker": "King_Albion",
+    "text": "Must we go through with this farce again?\nA subject of Albion may not defy their king!\nWhat will it take for that to sink in?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_010_070": {
+    "speaker": "Guinevere",
+    "text": "Ah, but this time\nI come prepared..."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_010_080": {
+    "speaker": "Guinevere",
+    "text": "With this barrier, your royal powers\ncannot touch me—indeed, none of you\nfoul cretins can hope to stop me!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_010_090": {
+    "speaker": "Palace_Guard",
+    "text": "Protect His Majesty!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_010_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The darkness within her is finally laid bare!\nYet what is the role of the Dismal King\nto be in all of this?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_010_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will stop Guinevere."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_010_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "She may do as she will."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_020_000": {
+    "speaker": "Guinevere",
+    "text": "You have betrayed me, lostling,\nand I will not stand for it!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And I had so hoped you might guide this world\ndeeper into the darkness. But alas, it seems\nyou are not ready for such a task."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I expect this is something of a\nregular occurrence with her?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_020_030": {
+    "speaker": "King_Albion",
+    "text": "Indeed. Yet death cannot hold Queen Guinevere\nfor long, so there is nothing to regret.\nStill, you have my gratitude for your work."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_020_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then I have much to look forward to!\nFor with each return from death,\nthe darkness within will deepen.\fUltimately, she will be the one to guide\nthis world to pandemonium, meaning my part\nin this is done for now. Farewell."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_021_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "The relationship between the king and\nQueen Guinevere sure is different from\nhow it's told in the legends.\fReal tragedy for you, Count, to be\ndragged into their lover's quarrel!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_021_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "In time, Queen Guinevere's darkness will\noverpower the king. That will mark the\nbeginning of a very different Albion."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_021_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "I got no interest in these endless cycles of\nconflict. It's <i>new</i> challenges that drive us\nto greater heights—and I trust ya to guide\nme to plenty of those, Dismal King!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_022_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "The relationship between the king and\nQueen Guinevere sure is different from\nhow it's told in the legends.\fThey really gonna just keep\nbuttin' heads like that forever?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_022_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Most likely. The king's power exceeding\nQueen Guinevere's seems to be key to the\npreservation of Albion—though I look forward\nto the day that order breaks down for good."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_000": {
+    "speaker": "King_Albion",
+    "text": "I love you, Guinevere my queen—which is\nexactly why I cannot forgive your crime."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_010": {
+    "speaker": "Guinevere",
+    "text": "If you look to kill me, simply call\nthe headsman and be done with it.\nThen this farce will finally be over,\nwhich is all any of us want."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_020": {
+    "speaker": "Lancelot",
+    "text": "If anyone must be punished,\nYour Majesty, let it be me!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_030": {
+    "speaker": "Guinevere",
+    "text": "Lancelot? What are you doing here?\nThere's no point in your dying as well!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_040": {
+    "speaker": "King_Albion",
+    "text": "There can be no going back to our\nyounger days when we could so readily\nforgive each other our trespasses.\fNay, we'll not know such until the day our\ngod calls us home. But on that day, I look\nforward to talking and laughing together\nas once we did."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_050": {
+    "speaker": "King_Albion",
+    "text": "Now leave my sight, the both of you.\nAnd you stand down as well, lostling—\nand go with my gratitude for all that\nyou have done this day."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What will become of\nthe two of you now?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_070": {
+    "speaker": "Lancelot",
+    "text": "I will return to hiding and protect the\nkingdom from the shadows, as is my duty.\nI ask only that you might take care of\nthe queen in my stead, lostling."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_080": {
+    "speaker": "Guinevere",
+    "text": "Oh, Lancelot..."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_090": {
+    "speaker": "Guinevere",
+    "text": "Would you even have me, lostling?\nEspecially after I fought you and was\nthen rendered powerless?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_030_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I would. Come, Guinevere."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_031_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "The relationship between Queen Guinevere,\nSir Lancelot, and the king is more than a little\nlove triangle, eh?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_031_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I doubt this king could maintain his rule\nwithout the vast amounts of light and dark\nat play within his kingdom.\fThat said, I would very much like to\nsee what would happen were he to be\novercome by said darkness!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_200_CUT_031_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "Just like you turned yer back on the\nlight and dove headlong into the dark!\fBoy, but I admire yer drive—and I hope\nyou'll permit me to accompany ya on yer\njourney into its murky depths!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_110_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You find it to the good for your\ndesires to be quashed like that?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_110_CUT_010_060": {
+    "speaker": "Guinevere",
+    "text": "For today, I shall have to.\nBut when the next lostling comes,\nsurely my wish will be granted."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_110_CUT_010_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are suggesting I proved\ninadequate to the task?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_110_CUT_010_080": {
+    "speaker": "Guinevere",
+    "text": "Those are your words, lostling—not mine.\nRegardless, it is now time for you to\npursue your own goals elsewhere."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_110_CUT_020_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "I still don't get what it was\nthat Queen Guinevere wanted."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_110_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "For some reason, I was unable to draw the\ndarkness out of that woman. How could I,\nof all people, fail to achieve such in a world\nalready so saturated with it?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_110_CUT_020_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "Don't think I've ever seen you like this,\nCount: it's like Avalon is so dark that\neven the Dismal King's at its mercy.\fWell, at least ya got me to lead, right?\nLet me be the proof that ya once\nvisited this most dismal of cities."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_210_CUT_010_080": {
+    "speaker": "Guinevere",
+    "text": "Well, to be perfectly frank...you did.\nAnd because you did not heed my requests,\nyou are now free to do as you will.\nFarewell, my failed lostling."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_210_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Whatever it may have been, it was a goal\nunworthy of forcing a lord of darkness to\ndance to her whims. And yet, I rue my\ninability to claim her darkness for myself!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "Right then, let's take a look...\nBlimey, this is a terrible haul!\fWell, we can't have a gormless blighter\nlike you wandering the streets of Avalon,\nso it's off to the dungeons."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You would presume to imprison\na lord such as I?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_000_040": {
+    "speaker": "Guinevere",
+    "text": "I'm sorry there was nothing more I could do to\nhelp you, lostling. Alas, I fear I haven't the\nfaintest idea what becomes of those banished\nto the dungeons...but best of luck all the same."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_000_050": {
+    "speaker": "Palace_Guard",
+    "text": "This way, you useless pillock!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The Dismal King, confined to a cell?\nWhat madness is this—and how am I to\nseek out the darkness that so fascinates\nme while trapped in this prison!?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_010_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "I'm a champion, and was one long\nbefore King Din gave me the name.\fFrom the moment ya led me here, Count,\nI looked at this journey as a chance to think\nback on my roots as this world's reigning paragon."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_010_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "And those roots were planted here in this cell.\nPoor and starvin', I turned to thievery—but the\npowers that be caught me, beat me, and dumped\nme in this dank hell.\fMy whole goal became escape, and in order\nto do so, I embarked on a gruelin' effort to\nbecome a man worthy of the title of champion."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_010_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "And now, I wanna do it all over again:\ndiscard everything I was and remake myself\nas <i>yer<i> champion! So I beg of ya, Dismal King,\ngive me permission to do just that!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then you shall have the brand."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will give it to you later."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I welcome you into my thrall, Champion.\nI now have you in my gaze at all times."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_010_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Your blood will become a part of me,\nand will make me the Dismal King.\nTogether into eternity shall we live."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_120_CUT_010_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I appreciate the sentiment.\nLet us leave it there for now."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_000": {
+    "speaker": "Spear",
+    "text": "Well, look who's still in one piece!\nSure am chuffed to see it, mate; Avalon's\nfull of dangerous places and types, much\nas it shames an old bobby like me to admit."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "Now then, let's see if your eye for things\nhas met our expectations. That's what'll\ndetermine whether this investigation\nadvances or not."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_020": {
+    "speaker": "Spear",
+    "text": "Blimey, this is a proper haul!\nSure you're playing fair out there?\nOi, you know what? I don't care.\nResults are all that matters."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Now this here's a right cracking job.\nHis Majesty will be buzzing about this,\nand no mistake."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "Eh, bog-standard, I suppose. But try giving it\nsome welly next time, lad—it'll make everything\nrun more smoothly down the road."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "Blimey, but this is a\nright dog's dinner!\fMaybe I wasn't clear the first time—just <i>being</i> a\nlostling is a crime, and the only way to stay out\nof the nick is to bring His Majesty diamonds.\nWhat you've got here just won't do at all."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_060": {
+    "speaker": "Spear",
+    "text": "Right then. If you feel confident,\nwe'll take the next step. But if you want\nto try again, we'll run it back for you."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then it seems that triangle\nwas of no value after all."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_100": {
+    "speaker": "Spear",
+    "text": "Not about value, lad; these 'triangles' are\nvital bits of evidence for our investigation.\nNow then, thanks much for your cooperation,\nand I hope you'll see fit to keep these coming."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_110": {
+    "speaker": "Spear",
+    "text": "Not about value, lad; this 'triangle' is a\nvital bit of evidence for our investigation.\nIn fact, I've a suspicion there's another\none of them still out there somewhere."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_310_CUT_000_120": {
+    "speaker": "Spear",
+    "text": "Didn't find all the triangular objects?\nOr could you simply not be arsed to visit\nthe key sites of this investigation?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what is the purpose\nof these triangles?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "Sorry, mate; can't be sharing confidential\ndetails with the likes of you. Just trust me\non this: triangles have the power to change\nthe fate of this world.\f...Or am I just taking the piss\nout of you here, mate?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Intriguing."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Ha ha ha! Just make sure you\ndon't let any triangles slip\nbetween your fingers, right?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "Right then! On to the next.\nThis time, we'll be starting\nat Nobleman's Square."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "Your goal is to reach Avalon Station—\nand the key site in this part of the\ninvestigation is the Broadcast Tower."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_000_060": {
+    "speaker": "Spear",
+    "text": "Also, you'll probably run into a pickpocket\nor three around these parts. They should\nhave some useful information, so make sure\nto have a proper chinwag with 'em."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Do triangles possess a special meaning\nfor Avalon? Or perhaps Albion as a whole?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_020_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "I've known plenty who thought wearing a triangle\nnecklace or whatnot would give 'em strength—\nbut be it triangles or God, nothin' rains down\nblessings on people too lazy to earn 'em."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That inspector hardly seems a man of faith.\nThis must not be about belief, but rather\nabout <i>these</i> triangles specifically."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_020_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "Wait, so this mystery\nstumps even you? Wow."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_320_CUT_020_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If we could solve the mystery so easily,\nit would take all the fun out of traipsing\nabout Avalon, don't you think?"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_320_CUT_000_020": {
+    "speaker": "Spear",
+    "text": "Blimey, this is a proper haul!"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_320_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Now this here's a cracking job."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_320_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "Eh, bog-standard, I suppose."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_320_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "Now this is a right dog's dinner!"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_320_CUT_000_060": {
+    "speaker": "Guinevere",
+    "text": "Your fate is yours to decide.\nDo you wish to try again?"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_320_CUT_000_090": {
+    "speaker": "Spear",
+    "text": "Looks like you found all the triangles,\nwhich means I can wrap up my\ninvestigation all nice and neat."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have gathered four of your triangles.\nIs this not sufficient?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "Don't be so hasty there—\nstill got places I need you\nto visit on the next course."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_000_020": {
+    "speaker": "Spear",
+    "text": "This one runs from the station\nto the royal palace."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "Oh, and stop off at the hospital\non the way. You should be able to\nget to the graveyard from there."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And where will I find\nanother triangle?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "Gravekeeper has some kind of information,\nbut that's all I know; bloke refused to\ntalk to a copper."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I'll see that he speaks to me."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_000_070": {
+    "speaker": "Spear",
+    "text": "This one could go pear-shaped in a\nhurry, so stay on your toes."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So the gravekeeper guards a secret?\nMmm. At long last, we near the root\nof Avalon's darkness."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_020_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "Still can't figure out who that inspector\nreally is or what he's playin' at here.\nThink it's gonna be a problem, Count?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If you are unwilling to step into the\ndim light of uncertainty, you will\nnever reach the true dark."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_020_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "Ha! Bit of a gambler,\naren't ya, Count!?"
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_010_000": {
+    "speaker": "Spear",
+    "text": "All right, mate, this is our final course.\nI've got nothing what needs investigating,\nso just kick back and enjoy everything\nAvalon has to offer."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_010_010": {
+    "speaker": "Spear",
+    "text": "Oh, but make sure you don't wind up\nin the king's dungeon—still got that\nlittle ace to worry about."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The last one? Mmm.\nI will make the most of it."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_030_000": {
+    "speaker": "Champion_Einherjar",
+    "text": "That inspector looks like he's\nready to make some kind of move."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_030_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Indeed, the taint of darkness\nis receding from him."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_030_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "Just promise me we ain't gonna\nend up in the dungeon, Count."
+  },
+  "SUB_W09_EVAR_SIUG_OPENING_330_CUT_030_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I do so swear."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_330_CUT_000_010": {
+    "speaker": "Spear",
+    "text": "Well, mate? How'd it go? Goes without saying\nI can't have you ending up in the dungeon,\nso if you don't meet the king, your problems\nare gonna become mine."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_330_CUT_000_060": {
+    "speaker": "Spear",
+    "text": "Cor, you really cracked on here, mate.\nHis Majesty should be proper satisfied,\nso let's get these diamonds to the palace."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_330_CUT_000_070": {
+    "speaker": "Spear",
+    "text": "Eh, nothing for it but to take your diamonds\nto the royal palace and hope His Majesty\nis in a forgiving mood."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_330_CUT_000_080": {
+    "speaker": "Spear",
+    "text": "You having a laugh here, mate?\n'Cause His Majesty's gonna have\nyou strung up by your thumbs."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_330_CUT_000_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what of this item I\nacquired in the graveyard?"
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_330_CUT_000_130": {
+    "speaker": "Spear",
+    "text": "Just hold on to that for now, mate;\nlooks better in your mitts than\nit would in the grip of some lowly\ndetective inspector."
+  },
+  "SUB_W09_EVAR_SIUG_ENDING_330_CUT_000_140": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Very well."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_000_000": {
+    "speaker": "Spear",
+    "text": "Out of the way, you daft mug! Got a\nlostling here what's got an offering\nof diamonds for His Majesty."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_000_010": {
+    "speaker": "Palace_Guard",
+    "text": "Not so fast there! Who are you and...\nCor blimey, look at those diamonds!\nI've never seen so many before!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "You really think that's enough\ndiamonds to let me grant you an\naudience with His Majesty!?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_000_030": {
+    "speaker": "Spear",
+    "text": "What say you look into my eye?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_000_040": {
+    "speaker": "Palace_Guard",
+    "text": "Oh my giddy aunt! Y-you... You're..."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_000_050": {
+    "speaker": "Spear",
+    "text": "We know the way. Oh, and that's some\nfine work, mate. Keep it up."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_040": {
+    "speaker": "Spear",
+    "text": "Please accept my offering as well,\nYour Majesty!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_050": {
+    "speaker": "King_Albion",
+    "text": "That sword..."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_060": {
+    "speaker": "Spear",
+    "text": "Before those dastards used those strange\ntriangles to seal it away, this sword\nsymbolised sovereignty over Albion.\nIt belongs at your side, Your Majesty."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_070": {
+    "speaker": "King_Albion",
+    "text": "By all that's holy... Lancelot!\nIt's you! You've returned to us!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_080": {
+    "speaker": "Lancelot",
+    "text": "I have borrowed the power of this lostling to\nbreak the seal, and am now yours to command.\nWith this sword, I swear to slay all who might\nseek to bring evil to your realm!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_090": {
+    "speaker": "Queen_Albion",
+    "text": "The only one bringing evil to this realm\nis you, Lancelot! Or have you forgotten\nthat you committed the crime of treason\nagainst your own king?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_100": {
+    "speaker": "Lancelot",
+    "text": "I am a criminal and do not deny it. But only\nthe king can pass judgment over me—and\nyour vile hold over him is first among the\nevils that will fall to this blade!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_110": {
+    "speaker": "Queen_Albion",
+    "text": "No matter how much power that sword contains,\nno citizen of Albion is able to defy the king.\nYou should know this more than most, Lancelot.\n...Now give him an order, Your Majesty!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_120": {
+    "speaker": "King_Albion",
+    "text": "Lancelot... Stand down."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_130": {
+    "speaker": "Lancelot",
+    "text": "Your Majesty..."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_140": {
+    "speaker": "Queen_Albion",
+    "text": "You always were a fool, Lancelot!\nDid you truly think to march in here\nand slay me like some hero of old?\nTo beg the forgiveness of your king?\fOh, but seeing a man on his knees is a most\nunseemly thing—so let me put an end to your\ndays of pleading by killing you here and now!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_150": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what is my part in all this?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_160": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will help Lancelot."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_170": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will observe and nothing more."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_180": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So this blade is a symbol of sovereignty?\nYet a true ruler needs no symbols to establish\ntheir dominion. Alas, you expose your weakness\nby yearning for the accoutrements of power!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_190": {
+    "speaker": "Queen_Albion",
+    "text": "Keep such thoughts to yourself if you value your\nlife, you feeble lostling! You may have gathered\npower from throughout the Conjoined Worlds,\nbut this world is ours by right!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_010_200": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The one who misunderstands her place is you.\nFor you stand before the Dismal King, a ruler\ntrue who cares naught for your 'rights'!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_020_000": {
+    "speaker": "King_Albion",
+    "text": "Lancelot, my dear friend. I am gladdened to\nsee you again, and gladdened even more that\nyou freed me from that woman's cruel yoke."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_020_010": {
+    "speaker": "Lancelot",
+    "text": "And yet, I am a criminal still. Even if I\ndid it to safeguard her, the fact remains\nI absconded with your queen and\npledged to her my eternal love.\fI have betrayed my king, and in\nso doing proven myself unworthy\nto stand at your side."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_020_020": {
+    "speaker": "Lancelot",
+    "text": "But if ever your life is in danger, I shall be\nthere—which is why it remains my fervent\nhope we never again see each other."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_020_030": {
+    "speaker": "King_Albion",
+    "text": "My good Lancelot..."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_020_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What will you do now?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_020_050": {
+    "speaker": "Lancelot",
+    "text": "I must quit this place for a while;\nthe king's majesty would only be\ndiminished by the criminal Lancelot\nrunning about unpunished.\fPerhaps a certain lostling might consider\nletting me accompany him on a journey\nthrough the Conjoined Worlds?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_020_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Join me, Lancelot."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_020_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Join me, Spear."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_030_000": {
+    "speaker": "Champion_Einherjar",
+    "text": "Can't believe that inspector turned out to be\nthe legendary Sir Lancelot! And he was every part\nthe hero of legend—no, BETTER than the legend!\nHow can I call myself a champion now?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_030_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You have your own path to walk. He may indeed\nbe a living legend, but that does not mean you\nmust follow in his footsteps, for you are a\nchampion in your own right."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_030_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "Yeah, and I'll walk my own champion's path!\nI only hope you, Count—nay, my Dismal King—\nwill be there to see it!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_040_010": {
+    "speaker": "Champion_Einherjar",
+    "text": "Damn! Even the legendary Sir Lancelot's no\nmatch for that queen! But even if it costs \nmy life, I'll never bend the knee or bow my\nhead to her—because I'm Champion!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_040_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps it was that strong will that guided\nyou to Brighthome, Champion. Regardless,\nlong have I known you were different from\nthe other members of our warrior band."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_300_CUT_040_030": {
+    "speaker": "Champion_Einherjar",
+    "text": "And wouldja treat me as <i>yer</i> champion,\nDismal King? Or am I just another servant?\nI'd hear yer answer!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_000_010": {
+    "speaker": "Palace_Guard",
+    "text": "Go on, go on."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You find it to the good for your\ndesires to be quashed like that?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_010_050": {
+    "speaker": "Spear",
+    "text": "That's the way it goes sometime, mate.\nMy investigation didn't pan out either."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are you suggesting I was\ninadequate to the task?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_010_070": {
+    "speaker": "Spear",
+    "text": "Oh, you were, mate.\nYou very much were.\fI'd thought you might suffice, but there's\nnothing for it but for me to start over\nand try again. Here's hoping you have\nbetter luck with your own goals."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_030_000": {
+    "speaker": "Champion_Einherjar",
+    "text": "Inspector there never did let\nhis true identity slip, eh?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_030_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Infuriating, isn't it? Did you hear how he\nspoke to me? The man has no respect\nfor the Dismal King!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_030_020": {
+    "speaker": "Champion_Einherjar",
+    "text": "Are you sayin' even <i>you</i> couldn't\nlure him into the darkness?"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_030_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Were those infernal triangles the key to\nthe darkness? Mark my words, Champion—\na day will come when I redeem myself\nof this humiliation."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_310_CUT_030_040": {
+    "speaker": "Champion_Einherjar",
+    "text": "Well, you can always lure me into the dark\ninstead. 'Cause when the Dismal King's mad,\nit's our job to appease ya!"
+  },
+  "SUB_W09_EVAR_SIUG_LAST_320_CUT_000_020": {
+    "speaker": "Palace_Guard",
+    "text": "Right then, let's take a look...\nBlimey, this is a terrible haul!\fWell, we can't have a gormless blighter\nlike you wandering the streets of Avalon,\nso it's off to the dungeons."
+  },
+  "SUB_W09_EVAR_SIUG_LAST_320_CUT_000_040": {
+    "speaker": "Spear",
+    "text": "You've been angling for a trip to the\ndungeons this whole time, mate, and\nnow you get it. Hope it was worth it."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "People have lined up in droves.\nFor what purpose?"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_000_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Cheers, love! I'm the songstress!\nI'm so glad ye came to see me,\nand I hope ye enjoy this wee\nsigned photoprint!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "......"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_000_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "New song's gonna be a fine one,\nso keep yer ears open!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What in all the worlds was that?"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Hello there, love—I'm the songstress!\nCheers for supportin' me!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_000_020": {
+    "speaker": "Fan_Utahime",
+    "text": "Oh my gosh, I am your BIGGEST fan!\nPlease take this! PLEASE!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_000_030": {
+    "speaker": "Diva_No5",
+    "text": "A gift for me, is it?\nAye, I'll treasure it always."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_000_040": {
+    "speaker": "Diva_No5",
+    "text": "And gratitude to you as well, love!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_000": {
+    "speaker": "Diva_No5",
+    "text": "To be honest, I've been in a wee strop today,\nbut gettin' so many gifts from my fans cheered\nme up straightaway. Now please just sit back\nand enjoy my new song!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_010": {
+    "speaker": "Diva_No5",
+    "text": "The sun comes up and morning calls.\nWithout ye, I cannae go on."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_020": {
+    "speaker": "Diva_No5",
+    "text": "Can ye make yer way back to me, O love?\nCan ye make yer way back to me?"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_021": {
+    "speaker": "Diva_No5",
+    "text": "So I go to Giant Moch Forest and daren't\nlook back. Oh no, I daren't look back."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_030": {
+    "speaker": "Diva_No5",
+    "text": "The sun rises away, above me so far."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_040": {
+    "speaker": "Diva_No5",
+    "text": "I must bear the dark as night falls."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_041": {
+    "speaker": "Diva_No5",
+    "text": "I'll be off now 'cause\nvultures are screechin'."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_050": {
+    "speaker": "Diva_No5",
+    "text": "I howl in the black!\nI'm fiercer than dawn!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_060": {
+    "speaker": "Diva_No5",
+    "text": "Let this fool hop on and\nwe'll be off, Golden Baum!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_061": {
+    "speaker": "Diva_No5",
+    "text": "And I cross the darkness alone."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_010_CUT_010_070": {
+    "speaker": "Diva_No5",
+    "text": "Aye, singin' that perks me right up.\nThanks so much for listenin'!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_020_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The line grows longer still. Clearly this\nwoman possesses something which\nexcites the hearts of mankind."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_020_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Keep up your efforts, singer."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_020_CUT_000_050": {
+    "speaker": "Diva_No5",
+    "text": "Oh, cheers! 'Tis fine to see ye again!\nI've nothin' but this wee token for ye,\nbut I hope it shows how grateful I am."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_030_CUT_000_010": {
+    "speaker": "Diva_No5",
+    "text": "Thank ye all sooo much for comin'!\nI'm afraid the signing's over now,\nso apologies to anyone in the queue."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_030_CUT_000_020": {
+    "speaker": "Constantine",
+    "text": "You made it all the way to the front\nof the queue at the moment it ended?\nOh, now that's just TERRIBLE luck!\fYou must be gutted, mate! You must be cheesed off!\nIf it were me, I'd be screamin' to the heavens,\nyou know? Hell, you must be the most cursed\nbloke in the entire universe!"
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_030_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The weak cling to the notion of luck,\nbut the soul of the Dismal King\nis not so fragile a thing."
+  },
+  "SUB_W09_EVAR_SIUG_RADIOSTATION_030_CUT_000_040": {
+    "speaker": "Constantine",
+    "text": "You poor sod. Here—take this.\nIt's the least I can do."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A small establishment,\nbut I find it quite...cozy."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_000_010": {
+    "speaker": "Bartender",
+    "text": "Welcome, sir! We've a fine variety\nof fizzy drinks if you'd like,\nso please help yourself."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_000_020": {
+    "speaker": "Avalon_Gang",
+    "text": "Oi! I 'eard a rumour what blokes could drink\nfor free at this 'ere pub—gimme a shot of\nthe good stuff and keep it comin', bird!"
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_000_030": {
+    "speaker": "Bartender",
+    "text": "I believe you've entered the\nwrong establishment, sir."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_000_040": {
+    "speaker": "Avalon_Gang",
+    "text": "Think so, do ya? Well, you got bottles\nand I got a thirst, so what bloody\ndifference does it make?"
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_000_050": {
+    "speaker": "Bartender",
+    "text": "Unfortunately for you, sir,\nwe've a new bouncer on the job.\n...Ahem. ...AHEM."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You would presume to make an ostiary\nof the Dismal King? Impressive.\nThis girl may have potential."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, but that was delightful.\nI deem it a sufficient reward."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_010_010": {
+    "speaker": "Bartender",
+    "text": "I'm quite pleased that you're happy, sir.\nBut if you've still a thirst, I could perhaps\ncraft you something from our world-famous\nmocktail menu."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_020_000": {
+    "speaker": "Bartender",
+    "text": "Hm. It appears I chose the wrong patron\nto appoint as our bouncer."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_000_CUT_020_010": {
+    "speaker": "Bartender",
+    "text": "Now then, anyone who finds themselves\nin the wrong place, please do leave."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_010_CUT_000_000": {
+    "speaker": "Bartender",
+    "text": "Ah, our lucky customer! I've a wager\nfor you sir: win a game against me,\nand I'll double your belongings.\nBut lose, and it all goes away.\fAlso, as this is your destiny,\nthere is no getting out of it."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As if I had any intention\nof attempting escape."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_010_CUT_000_020": {
+    "speaker": "Bartender",
+    "text": "Well, you're a confident one, aren't you?\nOh, I do so love a confident customer!\fNow, if the card is a heart, you win. \nBut if it's a joker, the game is mine.\nShall we begin?"
+  },
+  "SUB_W09_EVAR_SIUG_BAR_010_CUT_010_000": {
+    "speaker": "Bartender",
+    "text": "Seems luck is on your side today—\nand in a way, the heart on this card\nis my own as well. Now go on, love.\nTake your winnings."
+  },
+  "SUB_W09_EVAR_SIUG_BAR_010_CUT_010_010": {
+    "speaker": "Bartender",
+    "text": "Oh, now that's a right shame: you doubled\nup, but actually have nothing to double.\nWell, perhaps you'd take my heartfelt\nfeelings instead, love?"
+  },
+  "SUB_W09_EVAR_SIUG_BAR_010_CUT_020_000": {
+    "speaker": "Bartender",
+    "text": "Well, I see this fickle clown\nis no friend of yours."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_000_CUT_000_000": {
+    "speaker": "Museum_Director",
+    "text": "Welcome to the Royal Museum of Albion, good sir.\nTo celebrate our bicentennial anniversary, we are\npresenting commemorative gifts to our visitors.\nI do hope you will accept one."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will deign to accept it."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_000_CUT_000_020": {
+    "speaker": "Museum_Director",
+    "text": "Also, our newest exhibit, 'The Hidden\nTreasures Beneath Avalon,' is scheduled\nto open in but a few days."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_000_CUT_000_030": {
+    "speaker": "Museum_Director",
+    "text": "Beneath the streets of Avalon lie not only\nlost treasures, but unimaginably terrifying\ncreatures just waiting to awaken from their\neternal slumber!"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_000_CUT_000_040": {
+    "speaker": "Museum_Director",
+    "text": "But those, of course, will not be part\nof the display. Regardless, please do\ncome back and see it. Pip pip!"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_010_CUT_000_000": {
+    "speaker": "Museum_Director",
+    "text": "Good sir! Good sir!"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Yes?"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_010_CUT_000_020": {
+    "speaker": "Museum_Director",
+    "text": "I almost cannot believe this myself,\nsir, but you are this museum's\none BILLIONTH visitor!"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_010_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So?"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_010_CUT_000_040": {
+    "speaker": "Museum_Director",
+    "text": "I'm chuffed as chips I lived to see this day,\nand must insist you accept this to mark this\nmost monumental of occasions."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_010_CUT_000_050": {
+    "speaker": "Museum_Director",
+    "text": "Might I also recommend you visit our\npermanent exhibit, 'Magic and Folklore'?\fIt contains numerous archaeological specimens\nfrom throughout the grand history of Albion,\nmany of which were said to have been preserved\nthrough powerful magic!"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_010_CUT_000_060": {
+    "speaker": "Museum_Director",
+    "text": "It's quite the spectacle, if I do say so myself.\nIndeed, upon seeing it, you might even begin to\nsuspect that I myself am a sorcerer of the most\narcane and powerful type!"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_010_CUT_000_070": {
+    "speaker": "Museum_Director",
+    "text": "But that, of course, would be folly,\nso please set worry aside and enjoy\nthe exhibit at your leisure."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_040": {
+    "speaker": "Museum_Director",
+    "text": "To you, our esteemed billionth visitor,\nI'm pleased to extend a special invitation\nto a behind-the-scenes tour of our newest\nexhibit, 'Magic and Folklore'!"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I've no interest in such."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I accept your offer."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_070": {
+    "speaker": "Museum_Director",
+    "text": "Then allow me to present\nyou with this."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_080": {
+    "speaker": "Museum_Director",
+    "text": "Ah, but I did have a reason for inviting\nyou into our back garden, so to speak:\nthis golden wand.\fI debated to the last whether or not\nto place it on display, but fearing it\nmay have been included by mistake,\nI chose to remove it from the exhibit."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. I do not sense much in\nthe way of power from this."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_100": {
+    "speaker": "Museum_Director",
+    "text": "Alas, I'd hoped a lostling such as yourself\nmight sense something from the wand, but it\nis clearly not to be. In that case, perhaps\nI shall ask Lady Guinevere to examine it."
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And it is for this purpose that you\ncrafted the ruse of my being the\nbillionth visitor to this menagerie?"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_120": {
+    "speaker": "Museum_Director",
+    "text": "Pray do not speak such things aloud, sir,\nfor I feel certain neither of us wishes to\nsee the fine reputation of the museum\ndragged through the gutter!"
+  },
+  "SUB_W09_EVAR_SIUG_MUSEUM_020_CUT_000_130": {
+    "speaker": "Museum_Director",
+    "text": "Now if you would be so kind,\ntake this with you as well."
+  },
+  "SUB_W09_EVAR_SIUG_POLICEOFFICE_000_CUT_000_000": {
+    "speaker": "Police_Inspector",
+    "text": "Oi! Yer one'a them lostlings, ain'tcha? Well,\nwe'll be needin' your 'elp with an investigation,\nlostling, so I'm gonna go ahead and nick one'a\nthem lovely little items ya gathered."
+  },
+  "SUB_W09_EVAR_SIUG_POLICEOFFICE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You will do <i>what</i> now?"
+  },
+  "SUB_W09_EVAR_SIUG_POLICEOFFICE_000_CUT_000_020": {
+    "speaker": "Police_Inspector",
+    "text": "Turns out there's a criminal syndicate what's\nusing the connection 'tween lostlings and the\nroyal family to unjustly enrich 'emselves.\fSo we'll be needin' to take a butcher's at this\n'ere item of yours, see if it's connected to\nsaid criminal syndicate. Now be a good lad\nand 'and it over, eh?"
+  },
+  "SUB_W09_EVAR_SIUG_POLICEOFFICE_000_CUT_000_030": {
+    "speaker": "Police_Inspector",
+    "text": "Oi, what's this, mate? You ain't got a damn\nthing on ya! Well you're a right muppet of\na lostling, ain'tcha? Run along, ya skiver!"
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_000_CUT_000_000": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Greetings, sir, and welcome to Deeps. \nWhat can I help you with today? Footwear?\nA bag? A fine hat? Or perhaps we could\ntailor a new suit specially for you?"
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_000_CUT_000_010": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Or perchance you seek something\nelse entirely, lostling?"
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I suspect you know exactly\nwhat it is that I seek."
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_000_CUT_000_030": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Here at Deeps, we strive to meet our\ncustomers' every desire—and as such,\nI trust this item will more than satisfy.\fSaid item, however, is provided as-is,\nand solely at the customer's risk.\nCaveat emptor, sir!"
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_000_CUT_010_000": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "We greatly look forward\nto serving you again."
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_000_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And I expect you will\nhave the opportunity."
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_010_CUT_000_010": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Back for a little more of\nyou-know-what, are you?"
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_010_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This time, it shall be mine!"
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_100_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Have you any special items which\nmight only be procured in this shop?"
+  },
+  "SUB_W09_EVAR_SIUG_SHOPINGSTREET_100_CUT_000_030": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Here at Deeps, we strive to meet our\ncustomers' every desire—and as such,\nif it is a special item you desire, I trust\nthis here will more than satisfy.\fSaid item, however, is provided as-is,\nand solely at the customer's risk.\nCaveat emptor, sir!"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_000_CUT_000_000": {
+    "speaker": "Rich_Noble",
+    "text": "In times of yore, 'twas the Knights of the\nRound that bolstered the kingdom of Albion.\nBut in this day and age, that mantle has\nfallen to we of the nobility."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is the responsibility of all citizenry\nto support the king. Social standing makes\nno difference in such things."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_000_CUT_000_020": {
+    "speaker": "Rich_Noble",
+    "text": "Is that how things work in your country?\nBosh, I saw! Flimshaw!\fWhy, I cannot even imagine living in a place\nso uncivilised that it lacks the elites\ncapable of handling the great burden\nmy fellows and I must bear.\fRubbish, I say! Unadulterated codswallop!\nPerhaps I shall educate you as to what\nexactly this great burden consists of!"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_000_CUT_000_030": {
+    "speaker": "Rich_Noble",
+    "text": "Oh, good heavens, no!\nMy stars and garters!"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "An interesting fellow like that\ndeserves better than to be murdered."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_000_CUT_010_000": {
+    "speaker": "Rich_Noble",
+    "text": "Your assistance was hardly necessary, sir.\nNevertheless, it would be unbecoming of a\nnobleman not to make a show of gratitude\nfor your efforts, so take this trinket."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_000_CUT_020_000": {
+    "speaker": "Rich_Noble",
+    "text": "Do you understand now the great\nburden of the nobility?"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_010_CUT_000_000": {
+    "speaker": "Rich_Noble",
+    "text": "Come closer, my good man! Yes, there we are.\nNow then, as you can see, I am a nobleman\nof the great kingdom of Albion, while you\nare but a hardscrabble lostling.\fTherefore, as befits the great burden of\nthe aristocracy, I am obligated to grant\nyou succour. However, if you prefer,\nI can also proffer greater hardship."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I suspect I know which\nyou might choose."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_010_CUT_000_020": {
+    "speaker": "Rich_Noble",
+    "text": "Quite right! Not really a difficult\nchoice at the end of the day, mmm?"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_010_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That was hardly any great hardship.\nAre you truly satisfied?"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_010_CUT_010_010": {
+    "speaker": "Rich_Noble",
+    "text": "Of course, my good man—for we in the\naristocracy are men of our word all!"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_010_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Clearly, I was destined to lose here.\nIs that how this works?"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_000_000": {
+    "speaker": "Rich_Noble",
+    "text": "As a nobleman of the great kingdom\nof Albion, I possess much in the way\nof titles and territory.\fThis necklace, however—a family heirloom we\nhave treasured for generations—means far more\nto me than any lands or peerage. But tragically,\nthe item has a bit of an issue."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Yes, I do sense a faint\ndarkness emanating from it."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_000_020": {
+    "speaker": "Rich_Noble",
+    "text": "I'll be hanged! I'd no idea meager\nlostlings such as yourself were\ncapable of discerning such things!\fWell then, do you also possess the power to\ndispel such curses? For that is the burden\nwhich has been imposed upon my house!"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Permit me to try."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_000_040": {
+    "speaker": "Rich_Noble",
+    "text": "Then I beg of you to do exactly\nthat, my good man!"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am finished. At this point,\nit is not possible to lift what\nyou consider to be a curse."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_010_010": {
+    "speaker": "Rich_Noble",
+    "text": "Yes, I was very much afraid of that.\nAs such, the best way to free my family\nfrom the necklace's fell hex is to\npart with it for good and all.\fSo take it and go, my wretched lostling!\nIt belongs to you now!"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I find this agreeable, for I doubt it will\ngive one of my station any trouble."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_010_030": {
+    "speaker": "Rich_Noble",
+    "text": "Station you say? Gadzooks! Odds bodkins!\nI'd no idea you were a fellow noble!"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am no noble.\nI am the Dismal King."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_020_010": {
+    "speaker": "Rich_Noble",
+    "text": "It seems my house has no choice but\nto keep calm and carry on bearing\nthe necklace's curse for all time.\fI thank you for your cooperation\nregardless, lostling, for I know\nyou gave your all to the effort."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_020_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then farewell."
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_030_CUT_000_000": {
+    "speaker": "Rich_Noble",
+    "text": "I am a nobleman of the great kingdom of Albion—\nand you, sir, are a lostling of little renown.\nAs such, pray consider this my contribution\nto the kingdom. Huzzah!"
+  },
+  "SUB_W09_EVAR_SIUG_NOBLESQUARE_030_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I see no reason not to accept."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I was told I would find something of\nvalue here, but how am I to sift\nthrough all of this junk?"
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_010": {
+    "speaker": "Store_Customer",
+    "text": "Oh my, what a beautiful young man!\nSome sort of foreigner, perhaps?\fPoor thing looks rather uncomfortable,\nbut I suppose that's to be expected,\nconsidering this shop deals only in\ngoods of quality."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "After looking around, the items which caught\nmy eye are the rusty sword, the leather handbag,\nand the old gold ring."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_030": {
+    "speaker": "Store_Customer",
+    "text": "Oh my days! Fanciable as he is, his eye\nfor quality is atrocious. Aside from the\nleather handbag, the rest of those items\nare pure rubbish."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Which should I choose?"
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will take the rusty sword."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_051": {
+    "speaker": "Store_Customer",
+    "text": "He's truly going to take that old sword?\nWell, a handsome chap holding a piece of\nrubbish is still a handsome chap, at least."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will take the leather handbag."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_061": {
+    "speaker": "Store_Customer",
+    "text": "My giddy aunt! Did he overhear the\ncomments I made to myself?\fWell, a lovely man should be wearing\nlovely things, so I've clearly done\nmy good deed for the day."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will take the old gold ring."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_000_CUT_000_071": {
+    "speaker": "Store_Customer",
+    "text": "Well, I'll be switched! Could it be\nthat dusty old ring is actually an\nitem of incredible value?\fNo. No, that couldn't possibly be.\nIt simply couldn't! ...Could it!?"
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_010_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "After looking around, the items which\ncaught my eye are the fresh-baked bread,\nthe musky cologne, and a taxidermy bird."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_010_CUT_000_030": {
+    "speaker": "Store_Customer",
+    "text": "Oh dear. Fanciable as he is, his eye\nfor quality is simply atrocious!\fA bunch of weird trash and some bread?\nHorrid taste indeed! Also, the dear\nmust be rather peckish."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_010_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will take this musky cologne."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_010_CUT_000_051": {
+    "speaker": "Store_Customer",
+    "text": "See how delights in the smell of beasts!\nStrangely attractive, actually...\nHeavens, but my blush is rising!"
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_010_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will take the fresh-baked bread."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_010_CUT_000_061": {
+    "speaker": "Store_Customer",
+    "text": "What a hungry chap, going straight for\nthe bread. Well, Canuds <i>does</i> have an\nexcellent bakery—even if he wasn't hungry,\nI doubt he could have resisted the aroma."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_010_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will take the taxidermy bird."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_010_CUT_000_071": {
+    "speaker": "Store_Customer",
+    "text": "The man must really like birds—perhaps he \ndelights in taking afternoon tea with wild\nbirds in the garden of his palatial estate?\nYes, that simply <i>must</i> be the case."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_020_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "After looking around, the items which\ncaught my eye are the stinky fish eggs,\nthe old gold ring, and these cookies."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_020_CUT_000_030": {
+    "speaker": "Store_Customer",
+    "text": "Oh dear. Fanciable as he is, his eye\nfor quality is atrocious. I suppose the\nbiscuits might make a fine souvenir,\nbut the rest is utter rubbish!"
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_020_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will take the stinky fish eggs."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_020_CUT_000_051": {
+    "speaker": "Store_Customer",
+    "text": "Why, that's madness! Why would Canuds\neven deign to sell something with such\nan indescribably foul stench!?"
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_020_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will take the cookies."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_020_CUT_000_071": {
+    "speaker": "Store_Customer",
+    "text": "A perfectly reasonable choice for\na foreigner. Indeed, that's precisely\nthe sort of item a man of his calibre\nshould be purchasing."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_030_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "After looking around, the items which caught\nmy eye are the muddy mushrooms, the leather\nhandbag, and that taxidermy bird."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_030_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will take the muddy mushrooms."
+  },
+  "SUB_W09_EVAR_SIUG_KANUDSDEPARTMENT_030_CUT_000_061": {
+    "speaker": "Store_Customer",
+    "text": "That sad man must think those\nmushrooms are somehow more natural\nbecause they're caked with mud!\fDoes he not have a proper chef at his\nestate? Perhaps I should go there and\ncook him a proper Sunday roast..."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_000": {
+    "speaker": "Avalon_Writer",
+    "text": "To sing, or not to sing,\nthat is the question."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That is no question.\nYou should sing."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_020": {
+    "speaker": "Avalon_Writer",
+    "text": "Hark, and who is this soothsayer that appears\nbefore me? For while I know you not, I cannot\ndeny that your words ring most true.\fFor you see, my muse has now urged me forward\nin the belief that our next performance should\nbe one of song! Not that I will be doing the\nsinging, mind; we have performers for that."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_030": {
+    "speaker": "Avalon_Writer",
+    "text": "And who was that muse but you,\nO magnificent stranger!\fNow hasten to me, and quickly! We must finish\nthis song before the spark of creativity strikes\ntinder and burns away—and it is your divine\nduty to see this task through!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I understand little of what you say,\nbut will play along regardless."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_050": {
+    "speaker": "Avalon_Writer",
+    "text": "Are you ready, my muse?\nIf so, step forward!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_060": {
+    "speaker": "Avalon_Writer",
+    "text": "The sun comes up and morning calls.\nWithout you, I cannot go on."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Can you find your way back to me?"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I had best go to Giant Moch Forest\nand never look back."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_090": {
+    "speaker": "Avalon_Writer",
+    "text": "Fantastique! Truly, you are a messenger\nof the muses—now pray continue! "
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_100": {
+    "speaker": "Avalon_Writer",
+    "text": "The sun rises away,\nabove me so far."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I must bear the dark\nas night falls."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Better we head home, as the\nvultures are screeching."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_130": {
+    "speaker": "Avalon_Writer",
+    "text": "Ah. Ahhh! Wonderful!\nI stand at my zenith!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_140": {
+    "speaker": "Avalon_Writer",
+    "text": "I howl in the black!\nI'm fiercer than dawn!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_150": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Come to me, Golden Baum,\nand let this fool ride upon you."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_160": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And I cross the darkness alone."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_170": {
+    "speaker": "Avalon_Writer",
+    "text": "Oh! Ohhhh! Ohhhh..."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_000_180": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What?"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_010_000": {
+    "speaker": "Avalon_Writer",
+    "text": "I have completed a lyrical masterwork,\nand my next show is bound to be\na great success on every level.\fYou have discharged your divine duty\nthis day, my muse, and I am blessed\nto have met you!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_000_CUT_020_000": {
+    "speaker": "Avalon_Writer",
+    "text": "Mmm. I fear I may have let my excitement get\nthe better of me. But in the cold light of day,\nso to speak, perhaps I'll...skip the singing?\nMmm, yes. Definitely skipping the singing."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_000": {
+    "speaker": "Avalon_Writer",
+    "text": "Success demands ever greater success,\nfor the hunger of men knows no bounds.\nAlas, but how am I to satisfy both\nwith my next song?"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You need not worry.\nSimply heed your own desires."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_020": {
+    "speaker": "Avalon_Writer",
+    "text": "Oh, if only it were that simple, stranger!\nFor to reignite the dim flames of creativity,\nI am about to do no less than sell my very\nsoul to the devil!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_030": {
+    "speaker": "Avalon_Writer",
+    "text": "And from the way you abruptly appeared\nout of nowhere, I can only conclude that\nyou are, in fact, the devil's servant.\fSo inspire me, demon! And when my masterwork\nis complete, you may lay my still-beating\nheart at your master's cloven feet!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well. I shall peer into\nthe darkness within you."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_050": {
+    "speaker": "Avalon_Writer",
+    "text": "But soft! Can you hear it?\nThe beating of my heart?"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The dream of that night haunts me.\nHaunts soul. Haunts heart. Haunts flesh."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "My soul leaps vigorously,\nquite like a Maggot Ball."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_080": {
+    "speaker": "Avalon_Writer",
+    "text": "Ah, I would expect no less\nfrom the devil's thrall!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_090": {
+    "speaker": "Avalon_Writer",
+    "text": "For you know the truth:\nthey hold dominion over all."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I venture toward the creepy\nGelatinous Matter yonder."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Behold that accursed sky! Behold the\naccursed souls quivering in terror!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_120": {
+    "speaker": "Avalon_Writer",
+    "text": "Ah, why do the poisoned whispers of\na demon make my heart sing so!?"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_130": {
+    "speaker": "Avalon_Writer",
+    "text": "We return from whence we came,\ncome to greet the true king."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_140": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Joy as we cling to victory at the\nbattle's end! Emerge, O destiny!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_150": {
+    "speaker": "Siugnas_Darkking",
+    "text": "No shame in retreat. See the hope\nwithin the sunflowers abloom in our\nsouls. We'll not part from this world."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_160": {
+    "speaker": "Avalon_Writer",
+    "text": "Heh. Ha ha. AAAH HA HA HA HA HA HA!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_000_170": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Aaah ha ha ha! Yes! Wonderful!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_010_000": {
+    "speaker": "Avalon_Writer",
+    "text": "If this be purgatory, I've nothing\nto be afraid of—for Virgil and Homer\nwill surely be here with me!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Correct. He who has liberated his\nown darkness needs fear nothing."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_010_020": {
+    "speaker": "Avalon_Writer",
+    "text": "Ah, 'tis the devil's grim attendant—\nand yet, I still feel my heart beat\nsafely within my chest!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_010_030": {
+    "speaker": "Avalon_Writer",
+    "text": "Well, I have penned a masterpiece that could\nstir even a demon's blackened soul, so I pray\nyou leave my heart intact until the performance\nis ended.\fI will, of course, pay the necessary\ninterest to extend our contract."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_010_040": {
+    "speaker": "Avalon_Writer",
+    "text": "But for now, we must prepare for rehearsal!\nThere are props to make! Arclights to spark!\nScrims to fly in! Costumes to sew!\nTHEATRE TO CREATE!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What an interesting fellow."
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_010_060": {
+    "speaker": "Avalon_Writer",
+    "text": "My creation has failed. The devil has reneged on\nhis end of the bargain, and I am under no further\nobligation to yield my heart. So take this to your\nvile master instead, demon! Take it and go!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_020_000": {
+    "speaker": "Avalon_Writer",
+    "text": "As if I could merely sell my soul to\nthe devil for a masterpiece—this world\nis not so tepid as all that!\fBut when I think how close I came to losing\nthe favour of my muse... Well, never again!\nI must endure suffering and again confront\nthe blank page head-on!"
+  },
+  "SUB_W09_EVAR_SIUG_WORLDTHEATER_010_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You have come to fear the dark\nonce more? How tedious."
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_000_CUT_000_000": {
+    "speaker": "Avalon_Doorman",
+    "text": "Allo there, guv'nor! Welcome to Sorries,\nAvalon's most out-RAGEOUS store!"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what, exactly, makes this\nparticular store 'outrageous'?"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_000_CUT_000_020": {
+    "speaker": "Avalon_Doorman",
+    "text": "Never 'eard of Sorries, eh, guv'nor?\nWell, not to worry, not to worry—just\nstuff one of our famous eel pies in yer\nown pie hole and you'll be sorted!"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Why was it necessary that I fight?"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_000_CUT_010_010": {
+    "speaker": "Avalon_Doorman",
+    "text": "Cause Sorries 'ere is famous for its\nfresh-baked eel pie—and gettin' yerself\nthe freshest one sometimes takes a bit\nof the ol' knuckledust, eh, guv'nor!?"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This had better be good."
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_000_CUT_020_000": {
+    "speaker": "Avalon_Doorman",
+    "text": "Sorry ya didn't get yerself an eel\npie, guv'nor. Do come again!"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_010_000": {
+    "speaker": "Avalon_Doorman",
+    "text": "Allo there, guv'nor! Welcome to Sorries,\nAvalon's most out-RAGEOUS store!"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_010_010": {
+    "speaker": "Avalon_Doorman",
+    "text": "Right then, 'ere ya go!\nOne Surprise-ade, on the 'ouse!"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This had better be good."
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_010_030": {
+    "speaker": "Avalon_Doorman",
+    "text": "It's new, it's now, it's Surprise-ade!\nWhat 'appens after ya drink it down?\nOnly one way to find out, guv'nor!"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "......"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "*cough* Mmm. It seems the force of the\nexplosion destroyed one of my items."
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_010_060": {
+    "speaker": "Avalon_Doorman",
+    "text": "SURPRISE, GUV'NOR!"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "......"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_020_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Well, that was delightful.\nWhat is it made of?"
+  },
+  "SUB_W09_EVAR_SIUG_SAULEYSSTORE_010_CUT_020_070": {
+    "speaker": "Avalon_Doorman",
+    "text": "It's a SURPRISE, guv'nor! But trust me,\nyer better off not knowin'.\fNow 'ere—have another for the road!"
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_000_CUT_000_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Be welcome here, lostling. Take all the\ntime you like, or hurry on to your destiny—\nfor those who control their own means\nof conveyance control time itself."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_000_CUT_000_010": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Your transport tickets are no mere scraps of\npaper—and this clock tower does so much more\nthan simply inform people of the time!\fYes, time and movement—these are the\nconstituent elements of our universe."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_000_CUT_000_020": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "If one can control time and movement,\none's objectives can always be obtained!\fAnd with that, pray permit me to convert\nyour transport tickets into other tickets\nof equal and equivalent value. Cheers!"
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_000_CUT_010_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Begging your pardon, but I don't\nbelieve you have enough tickets."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_000_CUT_020_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Excellent.\nThen these are for you."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_END_000_CUT_000_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Do come again! This clock tower\nis always open for lostlings."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_000": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Be welcome here, lostling. Take all the\ntime you like, or hurry on to your destiny—\nfor those who control their own means\nof conveyance control time itself."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_010": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Here I can convert your transport tickets into\nother tickets of equal and equivalent value.\nThe only condition is that you are restricted\nto but a single conversion per visit."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_020": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "That said, you do not appear to possess\nthe tickets necessary for conversion."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_030": {
+    "speaker": "Clock_Tower_Keeper",
+    "text": "Should you wish to continue this transaction,\nyou'll need courage enough to part with either\none of your valuables or a fragment of your life.\nWould you care to do so?"
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I refuse."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I accept."
+  },
+  "SUB_W09_EVAR_SIUG_BASE_CLOCK_TOWER_NO_ITEM_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Now I require even more blood."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_000": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Another city slumbers beneath the\nmean streets of Avalon—and I'm\nnot speaking of the sewers!\fNo, I speak of a place <i>below</i>\nthe sewers, where the ruins\nof an ancient metropolis lie."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And this is the entrance\nto the ruins?"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_020": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Quite so, quite so. But just who built\nthat city, and what is its relationship\nto present-day Avalon?\fOur investigation will illuminate\nthese truths and a good many more,\nshould such be of interest to you?"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This does indeed interest me."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I could not be less interested."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_050": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "A shame fellows these days don't\ngive a ripe fig for archaeology..."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_060": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Wonderful! I've been waiting for a bloke\nlike you to show. I'll just leave the\nexploration of the ruins to you, then?"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Now how should I proceed?"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I sense relics in this direction."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I sense fiends in this direction."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Might this be a relic? I've not gone far,\nbut perhaps I should still head back. "
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There appears to be more to explore,\nbut which way?"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I've come quite some way and still have\nnothing to show for it. What now?"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_130": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Return to the surface."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_140": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Continue exploring."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_150": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Might this be a relic?\nI should head back soon."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_160": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Your help in surveying the ruins has been\ngreatly appreciated, and we would like\nto present you with this small token\nof our gratitude."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_170": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "I say, are you well!? Don't push yourself,\nmy good man; if someone were to die surveying\nthese ruins, we'd certainly lose our permit."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_180": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Ah, I see you've found a relic!\nPlease take this as your reward."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_190": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Well now, this doesn't fit the historical\nperiod of the underground metropolis at all.\nWherever did you come across this?"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_200": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It was being held by a fiend\nI battled in the ruins."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_000_CUT_000_210": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Fascinating! I wager the creature\nmust have brought it here from\nsome other place.\fWell, it's nothing to do with\nour research, so you are welcome\nto keep it if you like."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_000": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Another city slumbers beneath the\nmean streets of Avalon—and I'm\nnot speaking of the sewers!\fNo, I speak of a place <i>below</i>\nthe sewers, where the ruins\nof an ancient metropolis lie.\nHowever, there is an issue..."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And what might that be?"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_020": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Er, we've run out of funding."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah. Farewell, then."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_040": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Wait, please! I'm not asking for a charitable\ndonation, sir, but merely an investment!\nEven a small one would suffice—and I'll see\nto it you receive an appropriate return."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I've no need of such things."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_060": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Look, I'm sure we'll turn something up—\nwe always do, after all! It's just that...\nWell, there are two problems, actually.\fFirst, some sod came along and nicked what we\ndug up, so we need to get that back. But more\nurgently, our digging permit is quite limited,\nand we can't afford to waste even a single day."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Oh, very well—but mark for yourself\nthe charity of the Dismal King!"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_080": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "A thousand thank-yous, my good man!\nI'll see to it that you receive a fine\ncommendation from the Albion\nArchaeological Society!"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As I said, I require no such thing.\nSimply do your job!"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_100": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Of course, of course! Oh, and as you are\nour generous benefactor in this endeavour,\nyou will determine how far down we go."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_110": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Now then! This is the entrance to the ruins,\nand there should still be many fine items\nto find here. What say you?"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is adequate."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_130": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Let us go deeper."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_140": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "We have arrived at the centre of the ruins,\na location where we have found some truly\nrare items in the recent past."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_150": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "This is the deepest portion of the ruins.\nEven I have rarely ventured down so far,\nfor it is quite the perilous place. "
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_160": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "What ho! A relic! Here, my good man—\nthis should prove an appropriate\nreturn on your investment."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_170": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Oh, I can't wait until my latest paper\nis published in <i>Archaeology Today</i>—\nand it's all thanks to you!"
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_180": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Heavens, but this place is dangerous!\nWe'd best give up and head home."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_190": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Did that fiend from before drop it?\nI think I will be keeping this one."
+  },
+  "SUB_W09_EVAR_SIUG_UNDERCITY_010_CUT_000_200": {
+    "speaker": "Avalon_Archaeologist",
+    "text": "Heavens, but that was a proper nightmare!\nI don't think you're suited for investing,\nsir—you take far too many risks.\nSo please just try to be satisfied with this."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_000_CUT_000_000": {
+    "speaker": "Mech_Bard",
+    "text": "Ho there, man! You're a tourist, yes?\nIf so, I invite you to enjoy one of my\nmany poems about the kingdom of Albion!"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, a poem. I've not heard a silver-throated\nminstrel in some time."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_000_CUT_000_020": {
+    "speaker": "Mech_Bard",
+    "text": "As per your request, I shall now\nperform 'Ser Galahad and the Ice Sword.'"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Go on, minstrel."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_000_CUT_000_040": {
+    "speaker": "Mech_Bard",
+    "text": "Brave and bold Ser Galahad\nHis golden hair a'flutter\nDid bravely reach the dragon's nest\nThat made all others shudder.\fHe lopped the vile beast's head clean off\nWith the Ice Sword in his hand\nAnd thus did the name of Galahad\nRing out throughout the land!"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_000_CUT_000_050": {
+    "speaker": "Mech_Bard",
+    "text": "I have just performed one of the\n60,419 poems in my repertoire and\nwill gratefully accept my fee."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A fine performance deserves a fine reward."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have nothing to give to you."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_000_CUT_000_080": {
+    "speaker": "Mech_Bard",
+    "text": "Then piss off and never come back!"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A machine that recites poetry?\nMy curiosity is raised."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_010_CUT_000_020": {
+    "speaker": "Mech_Bard",
+    "text": "As per your request, I shall now\nperform 'Ser Galahad and the Ice Sword.'"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_010_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Very well."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_010_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The very scenery around me has changed.\nIs this the machine's doing?"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_010_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A poem of battle? Fascinating."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_010_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And I'm back...but where\nhas the machine gone?"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_010_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. I quite enjoyed that."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_020_CUT_000_020": {
+    "speaker": "Mech_Bard",
+    "text": "As per your request, I shall now\nperform 'An Ode to Ser Lancelot.' "
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_020_CUT_000_040": {
+    "speaker": "Mech_Bard",
+    "text": "Ser Lancelot is Albion's pride\nSo brave and bold and true.\nWhenever the kingdom is in peril\nThe stout knight does come through.\fBut now, alas! A dragon comes!\nBreathing flames of fire!\nHe must fell the beast to save his king\nOr Albion shall expire!"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_030_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So we meet again."
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_030_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You will listen to me!"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_030_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Another poem of battle?"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_030_CUT_000_060": {
+    "speaker": "Mech_Bard",
+    "text": "Lancelot, lifting his spear arm high,\nSlew the dragon with a swing\nAnd leaving the fell beast on the ground\nRan on to save his king!"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_030_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is this the end?"
+  },
+  "SUB_W09_EVAR_SIUG_ROYALPALACE_030_CUT_000_080": {
+    "speaker": "Mech_Bard",
+    "text": "If you are satisfied, I will now\ngratefully accept my fee."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_PICKPOCKET_000_CUT_000_000": {
+    "speaker": "Sylvester",
+    "text": "Whoops! Sorry, love."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_PICKPOCKET_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You would steal from the Dismal King?\nYou do not lack for courage, if so."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_PICKPOCKET_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Stop."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_PICKPOCKET_010_CUT_000_020": {
+    "speaker": "Sylvester",
+    "text": "Get yer hands off me, ya nutter!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_PICKPOCKET_010_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Have you an object such as this?"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_PICKPOCKET_010_CUT_000_040": {
+    "speaker": "Sylvester",
+    "text": "Fine, just take it!"
+  },
+  "SUB_W09_EVAR_SIUG_STATION_PICKPOCKET_000_CUT_000_000": {
+    "speaker": "Sylvester",
+    "text": "Looks like you got a bit of rubbish\non your back there, mate. Yoink!"
+  },
+  "SUB_W09_EVAR_SIUG_STATION_PICKPOCKET_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? My items are gone!\n<i>She</i> has done this!"
+  },
+  "SUB_W09_EVAR_SIUG_STATION_PICKPOCKET_010_CUT_000_000": {
+    "speaker": "Sylvester",
+    "text": "Tch! You need to work harder there,\nya skiver. Here, have this."
+  },
+  "SUB_W09_EVAR_SIUG_STATION_PICKPOCKET_010_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What is this?"
+  },
+  "SUB_W09_EVAR_SIUG_STATION_PICKPOCKET_010_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I sense darkness from her,\nbut...cannot be certain."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Attempting to steal from me?\nI applaud your courage."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_000_010": {
+    "speaker": "Sylvester",
+    "text": "Go on, ya numpty!"
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am a lostling. I gather one such as\nyourself understands what that implies?"
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_000_030": {
+    "speaker": "Sylvester",
+    "text": "So you're a lostling. Well, la-di-da!\nStill got no idea what yer on about,\nand I can't give back what I ain't got."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This would be no fun otherwise."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_010_000": {
+    "speaker": "Sylvester",
+    "text": "This new lostling of yours is a\nright pain in the arse, Spear."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_010_010": {
+    "speaker": "Spear",
+    "text": "Caught in the act, eh, Sylvester?\nWell, too bad for you."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_010_020": {
+    "speaker": "Spear",
+    "text": "What we have here, mate, is a dodgy\npickpocket by the name of Sylvester.\fDeftest hands in all of Avalon, they say—\nand I swear it's true, because I've not\nonce caught her in the act.\fBut seems like you were able to make a\nproper go of it! That's some fine work,\nlad. Some fine work indeed."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_010_030": {
+    "speaker": "Sylvester",
+    "text": "Bad look for the Avalon rozzers if they\nneed strangers to be doin' their jobs!"
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_010_040": {
+    "speaker": "Spear",
+    "text": "Keep wailing, Sylvester—we'll have\nyou singing like a bird for the rest\nof your crimes soon enough."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_010_050": {
+    "speaker": "Spear",
+    "text": "For now, the Yard will confiscate all your\nbelongings to use as evidence against you—\nafter which, you'll be expected to repay\nyour victims for every item you nicked."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "And here I thought I'd finally\nmet someone interesting."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_020_000": {
+    "speaker": "Sylvester",
+    "text": "You sure act smug for such a shabby\nlookin' foreigner, lostling!"
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_000_CUT_020_010": {
+    "speaker": "Sylvester",
+    "text": "But let's start over, mate.\nHere's what you're owed from me."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_010_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So it was you who stole from me."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_010_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I applaud your courage in stealing\nfrom lostlings, but this ends now."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_010_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then let us do things my way."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_010_CUT_010_000": {
+    "speaker": "Sylvester",
+    "text": "Bloody hell, mate! Looks like I pushed\nya too far and woke the beast."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_010_CUT_020_000": {
+    "speaker": "Sylvester",
+    "text": "Yer a right nutter, you are."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_020_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I expected you might be back."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_020_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Thievery is not enough to sate your appetite,\nso you target lostlings for an even greater\nthrill. Am I wrong in this?"
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_020_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is no escape for you."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_020_CUT_010_000": {
+    "speaker": "Sylvester",
+    "text": "Don't go thinkin' you beat me,\nlostling. 'Cause ya didn't!"
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_020_CUT_010_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the darkness of Avalon."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_020_CUT_010_020": {
+    "speaker": "Spear",
+    "text": "Yes, I'm afraid that's one of the more shameful\naspects of Avalon—or all of Albion itself, rather.\nAfraid I can't say more than that.\fStill, you'll be compensated for your\nlosses, so you'll just have to try and\nbe satisfied with that."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_020_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Oh, I've no complaints. Quite the contrary,\nin fact: this experience has made Avalon\nall the more enchanting to my eyes."
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_020_CUT_010_040": {
+    "speaker": "Spear",
+    "text": "......"
+  },
+  "SUB_W09_EVAR_SIUG_PICKPOCKET_020_CUT_020_000": {
+    "speaker": "Sylvester",
+    "text": "Oi! Looks like ol' Sylvester got\nthe better of you this time, numpty!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_000_000": {
+    "speaker": "Market_Master",
+    "text": "Here at the royal market, we have everything\nunder the sun. Now all your shopping needs\ncan be handled at one convenient stop!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_000_010": {
+    "speaker": "Market_Master",
+    "text": "And for those who aren't looking to shop,\nour famous Punch-Up Club is open as well—\nand we're accepting all comers!\fIf you've faith in your fists, come give us\nyour best; our trained fighters stand ready\nto trade blows with all worthy adversaries!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_000_020": {
+    "speaker": "Market_Master",
+    "text": "I give you the pirate Silver,\nConqueror of the Seven Seas!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. It appears I will need to\nparticipate in this contest."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_000_040": {
+    "speaker": "Market_Master",
+    "text": "My, my! A bold young challenger has appeared!\nSeems they call this one 'The Lostling.'\nJust take a care you don't get lost\non your way to the ring, old chap!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_010_000": {
+    "speaker": "Market_Master",
+    "text": "Unbelievable! The Conqueror of the\nSeven Seas has fallen to The Lostling!\nLet's give them a proper hand for putting\nup such a brave fight, lads.\fOh, and you get a participation award\nthere, mate, so don't be disappointed."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_010_010": {
+    "speaker": "Market_Master",
+    "text": "As for The Lostling, his day has just begun!\nNow behold your next challenger:\nthe Warrior-hero Boudica!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_010_020": {
+    "speaker": "Market_Master",
+    "text": "Well, mate? What do you say?\nAudience is frothing to see a\nproper fight between you two."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That is enough."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Naturally, I will continue."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_010_050": {
+    "speaker": "Market_Master",
+    "text": "Fine, then! Take your winner's award\nand get the hell out of here!\fOi, did you hear that, lads!? The little lostling\nwants to find his mummy and go home!\nLet him have it! I want boos to rain down\non him from now to St. Swithin's Day!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_010_060": {
+    "speaker": "Market_Master",
+    "text": "And our winner is the pirate Silver, Conqueror\nof the Seven Seas! Let's give The Lostling a big\nhand for fighting so bravely, eh, lads?\fOh, and you get a participation award\nthere, mate, so don't be disappointed."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_020_000": {
+    "speaker": "Market_Master",
+    "text": "Blimey, I can't believe it! The Warrior-\nhero Boudica has fallen to The Lostling!\fLet's give Boudica a proper hand for almost\nturning that one around, eh, lads? Ah, but\nlife is cruel, so you'll only be walking\naway with a participation award."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_020_010": {
+    "speaker": "Market_Master",
+    "text": "Right then, ladies and gents!\nWho wants to see The Lostling\nput up his mitts one more time?"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_020_020": {
+    "speaker": "Market_Master",
+    "text": "Well then, consider yourselves a bunch of\nlucky jammie dodgers, because the market\nis about to hold a very special event!\fYou're up for this, eh, Lostling?"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_020_050": {
+    "speaker": "Market_Master",
+    "text": "That's what I wanted to hear!\nNow prepare to battle the champion\nof the Royal Market Punch-Up Club..."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_020_060": {
+    "speaker": "Market_Master",
+    "text": "Me!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_020_070": {
+    "speaker": "Market_Master",
+    "text": "And our winner is the Warrior-hero Boudica!\nLet's give The Lostling a big hand for\nputting up a right brave scrap, eh, lads?\fAh, but life is cruel, so you'll only\nwalk away with a participation award."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_030_000": {
+    "speaker": "Market_Master",
+    "text": "Blimey, but this one's strong as anything!\nTruly a worthy champion, wouldn't you say, lads?\nNow let's blow the roof off the building for\nthe newest champion of the Royal Market!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_030_010": {
+    "speaker": "Market_Master",
+    "text": "Here's your prize, mate."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_030_020": {
+    "speaker": "Market_Master",
+    "text": "Come see us again sometimes, eh?\nHaving the champion around always gets\npeople excited for the Punch-Up Club!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_000_CUT_030_030": {
+    "speaker": "Market_Master",
+    "text": "The Lostling put up quite the fight there,\neh, lads? Let's all give him a big\nhand for all his hard work!\fAh, but life is cruel, so you'll only walk\naway with a participation award. Hope you\ncan avoid getting lost long enough to\nfind us for a rematch! Bwa ha ha!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_000_000": {
+    "speaker": "Market_Master",
+    "text": "Welcome to the Royal Market,\nAvalon's premier shopping destination.\nPlease enjoy all we have to offer."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_000_020": {
+    "speaker": "Market_Master",
+    "text": "I give you now Avalon's most\nhated man...The Yob!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_000_040": {
+    "speaker": "Market_Master",
+    "text": "But a brave challenger has appeared,\none all of us know as...The Lostling!\nHopefully he can shop without losing\nhis way—or pay us even if he does! Ha!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_010_000": {
+    "speaker": "Market_Master",
+    "text": "It's over, lads! It's all over!\nThe hated Yob has been defeated\nby The Fellow Who Gets Lost in Shops!\fNow let's all jeer the Yob, eh?\nNo participation award for you, Yobber!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_010_010": {
+    "speaker": "Market_Master",
+    "text": "Right then, Fellow Who Gets Lost in Shops!\nYou may have won a single morning match,\nbut another challenge awaits you:\nRodrigo the Veteran Hero!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_010_020": {
+    "speaker": "Market_Master",
+    "text": "Well, mate? What do you say?\nAudience is frothing to see a\nproper fight between you two."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_010_050": {
+    "speaker": "Market_Master",
+    "text": "Fine, then! Take your prize\nand get the hell out of here!\fOi, did you hear that, lads!? The Fellow Who Gets\nLost in Shops has lost his bloody nerve!\nLet him have it! I want boos to rain down\non him from now to St. Swithin's Day!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_010_060": {
+    "speaker": "Market_Master",
+    "text": "And our winner is the Yob! The blasted Yob!\nLet's all boo the hell out of The Fellow Who\nGets Lost in Shops for dashing our hopes!\fBlimey, I'm so cheesed off, I don't even\nwant to give you a participation award!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_020_000": {
+    "speaker": "Market_Master",
+    "text": "Unbelievable! Rodrigo the Veteran Hero\nhas fallen to The Fellow Who Gets\nLost in Shops!\fAh, but life is cruel, so Rodrigo only\nwalks away with a participation award."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_020_010": {
+    "speaker": "Market_Master",
+    "text": "Right then, ladies and gents! Who wants\nto see The Fellow Who Gets Lost in Shops\nput up his mitts one more time?"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_020_020": {
+    "speaker": "Market_Master",
+    "text": "Well then, consider yourselves a bunch of\nlucky jammie dodgers, because the market\nis about to hold a very special event!\fYou're up for this, eh,\nFellow Who Gets Lost in Shops?"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_020_070": {
+    "speaker": "Market_Master",
+    "text": "And our winner is the Rodrigo the Veteran Hero!\nLet's give The Fellow Who Gets Lost in Shops\na hand for putting up a right brave scrap.\fAh, but life is cruel, so you'll only\nwalk away with a participation award."
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_030_000": {
+    "speaker": "Market_Master",
+    "text": "Blimey, but this one's strong as anything!\nTruly a worthy champion, wouldn't you say, lads?\nNow let's blow the roof off the building for\nthe newest champion of the Royal Market!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_010_CUT_030_030": {
+    "speaker": "Market_Master",
+    "text": "The Fellow Who Gets Lost in Shops put up quite\nthe fight there, eh, lads? Let's all give him\na big hand for all his hard work!\fAh, but life is cruel, so you'll only walk\naway with a participation award. Hope you\ncan avoid getting lost long enough to\nfind us for a rematch! Bwa ha ha!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_020_CUT_000_000": {
+    "speaker": "Market_Master",
+    "text": "Good to see you, champ!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_020_CUT_000_010": {
+    "speaker": "Market_Master",
+    "text": "Now this may seem a touch abrupt...\nbut it's rematch time! You and me!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_020_CUT_000_020": {
+    "speaker": "Market_Master",
+    "text": "Oi! I've done it! You're brown bread,\nand I've reclaimed the title!\fThanks for a proper fight...\n<i>former</i> champ! Bwa ha!"
+  },
+  "SUB_W09_EVAR_SIUG_MARKET_020_CUT_000_030": {
+    "speaker": "Market_Master",
+    "text": "Blimey, he cuffed me around again!\nI gotta get back to training..."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_000": {
+    "speaker": "Avalon_Nurse",
+    "text": "This is a hospital, which means\nonly two types of people come here:\nthe sick and the injured."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_010": {
+    "speaker": "Avalon_Nurse",
+    "text": "As you clearly are not injured,\none can only assume you are sick.\nWe shall operate straightaway."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am in no way unwell."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_030": {
+    "speaker": "Avalon_Nurse",
+    "text": "Exactly what a sick person <i>would</i> say.\nBecause of the brain lesions, you see."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Brain lesions!?"
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_050": {
+    "speaker": "Avalon_Nurse",
+    "text": "Do just lie back and keep calm, sir.\nYou'll barely feel a poke, and we'll\nhave you out of here lickity-split!"
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Keep your hands away, apothecary!\nWhat are you attempting to do!?"
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_070": {
+    "speaker": "Avalon_Nurse",
+    "text": "Aaand...done! Yes, it seems this\noperation was a smashing success.\nI'll prepare your discharge papers."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What just happened?\nI feel somehow...lighter."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_090": {
+    "speaker": "Avalon_Nurse",
+    "text": "Oh dear. It appears you're wounded.\nWe'll need to treat that at once."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_000_CUT_000_100": {
+    "speaker": "Avalon_Nurse",
+    "text": "Do take care, now!"
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_010_CUT_000_010": {
+    "speaker": "Avalon_Nurse",
+    "text": "As you do not appear to be either,\nwe will gladly accept a small\ndonation of your blood."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_010_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A fellow vampire, are we? Well, you will\nhave no blood from the Dismal King!"
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_010_CUT_000_030": {
+    "speaker": "Avalon_Nurse",
+    "text": "Do just lie back and keep calm.\nYou'll barely feel a poke, and we'll\nhave you out of here lickity-split!"
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_010_CUT_000_040": {
+    "speaker": "Avalon_Nurse",
+    "text": "We thank you for your\nprecious plasma."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_010_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What a terrifying woman...\nBlood! I need more blood!"
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_020_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I wish to access the\ncemetery in back."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_020_CUT_000_020": {
+    "speaker": "Avalon_Nurse",
+    "text": "The only ones with business in a cemetery\nare corpses. We have a hospital right here\nfor the living, which you most clearly are."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_020_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are saying I must become a corpse?\nVery well. Where in this place do\nsaid corpses congregate?"
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_020_CUT_000_040": {
+    "speaker": "Avalon_Nurse",
+    "text": "When patients die, they're placed in the\nmorgue and carried out to the cemetery.\nBut you've no need to worry about that\nkind of thing quite yet, sir."
+  },
+  "SUB_W09_EVAR_SIUG_HOSPITAL_020_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is this the morgue? There's no one here.\nAh, to think the Dismal King would play\nthe part of a corpse! How very droll."
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have made it into the graveyard.\nThere should be something here\nconnected to those triangles."
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You there! Master of the sepulchre!\nHave you seen these triangles before?"
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_020": {
+    "speaker": "Grave_Digger",
+    "text": "So you're the errand boy, eh?\nJust look for this seal."
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well."
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Is this it?"
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, so I am to insert\nthe pieces into this."
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So be it."
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Should I give up already?"
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I surrender."
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I shall try again!"
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I suspected as much."
+  },
+  "SUB_W09_EVAR_SIUG_CEMETERY_000_CUT_000_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So this is what that man requires?\nSo be it. Let him have it."
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_000_CUT_000_000": {
+    "speaker": "Avalon_Gang",
+    "text": "Come all this way just to give us a donation,\ndidja? 'Cuz I can't imagine why else you'd \ncome all the soddin' way out 'ere."
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If you wish alms, I will grant them."
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Of what do you speak?"
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_000_CUT_000_030": {
+    "speaker": "Avalon_Gang",
+    "text": "Well, well, boys! Looks like we got\nus a right philanthropist 'ere!"
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_000_CUT_000_040": {
+    "speaker": "Avalon_Gang",
+    "text": "Got ourselves a right wazzock 'ere,\nain't we? Time to teach this git 'ow\nthings work in this country!"
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Such a fool."
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_100_CUT_000_000": {
+    "speaker": "Avalon_Gang",
+    "text": "Come all this way just to give us a donation,\ndidja? 'Cuz I can't imagine why else you'd \ncome all the soddin' way out 'ere."
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_100_CUT_000_030": {
+    "speaker": "Avalon_Gang",
+    "text": "Oi, one ha'penny. One round ha'penny\nto awaken me inner strength!"
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_100_CUT_000_040": {
+    "speaker": "Avalon_Gang",
+    "text": "What, you penniless?"
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_100_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Did this triangle make them transform?\nRegardless, I shall take it with me."
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul shall ever be with mine."
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_000_CUT_010_010": {
+    "speaker": "Palace_Guard",
+    "text": "Thank you for the honour,\nO Dismal King!"
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_010_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul shall ever be with mine."
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_010_CUT_000_010": {
+    "speaker": "Avalon_Shopassistant",
+    "text": "Thank you for the honour,\nO Dismal King!"
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_020_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul shall ever be with mine."
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_020_CUT_000_010": {
+    "speaker": "Bartender",
+    "text": "Thank you for the honour,\nDismal King, sir!"
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_030_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul shall ever be with mine."
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_030_CUT_000_010": {
+    "speaker": "Rich_Noble",
+    "text": "You have my most hearty thanks,\nO Dismal King!"
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_040_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul shall ever be with mine."
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_040_CUT_000_010": {
+    "speaker": "Store_Customer",
+    "text": "You honour me, O Dismal King."
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_050_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul shall ever be with mine."
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_050_CUT_000_010": {
+    "speaker": "Avalon_Writer",
+    "text": "You honour me, sir!\nHonour me, I say!"
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_060_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I deem you worthy. Even should we part,\nyour soul shall ever be with mine."
+  },
+  "SUB_W09_EVAR_SIUG_JACKSTREET_000_CUT_010_000": {
+    "speaker": "Avalon_Gang",
+    "text": "Oi, how is it ya got nothin' on ya!?\nThanks for wastin' me time!"
+  },
+  "SUB_W09_EVAR_SIUG_KENZOKU_060_CUT_000_010": {
+    "speaker": "Sylvester",
+    "text": "Thanks heaps for the honour,\nO Dismal King..."
+  }
+}

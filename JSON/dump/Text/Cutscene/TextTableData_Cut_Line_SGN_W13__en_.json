@@ -1,0 +1,2782 @@
+{
+  "SUB_W13_EVAR_SIUG_DIG_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is something here.\nDig it up at once, Scarecrow."
+  },
+  "SUB_W13_EVAR_SIUG_DIG_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Don't need to tell me twice!"
+  },
+  "SUB_W13_EVAR_SIUG_DIG_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What is this?"
+  },
+  "SUB_W13_EVAR_SIUG_DIG_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I haven't the faintest idea what that is.\nPerhaps we can make use of it."
+  },
+  "SUB_W13_EVAR_SIUG_DIG_000_CUT_010_040": {
+    "speaker": "Sarab",
+    "text": "19141914"
+  },
+  "SUB_W13_EVAR_SIUG_DIG_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "Except that it's broken."
+  },
+  "SUB_W13_EVAR_SIUG_DIG_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. So much for that idea."
+  },
+  "SUB_W13_EVAR_SIUG_DIG06_SUCCESS_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "10711071"
+  },
+  "SUB_W13_EVAR_SIUG_DIG06_SUCCESS_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "It's saying something or other\nabout the sand's energy."
+  },
+  "SUB_W13_EVAR_SIUG_DIG04_SUCCESS_WARSHIP_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "18631863"
+  },
+  "SUB_W13_EVAR_SIUG_DIG04_SUCCESS_WARSHIP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Apparently it'll keep the sand\nfrom falling apart?"
+  },
+  "SUB_W13_EVAR_SIUG_DIG00_SUCCESS_DIVING_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "16031603"
+  },
+  "SUB_W13_EVAR_SIUG_DIG00_SUCCESS_DIVING_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Sounds like it'll keep the sand\nfrom clumping together."
+  },
+  "SUB_W13_EVAR_SIUG_DIG02_SUCCESS_FERRY_000_CUT_000_010": {
+    "speaker": "Sarab",
+    "text": "12411241"
+  },
+  "SUB_W13_EVAR_SIUG_DIG02_SUCCESS_FERRY_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "It's talking about the sand's\nshifting ability."
+  },
+  "SUB_W13_EVAR_SIUG_DIG_MISS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Finally, something useful."
+  },
+  "SUB_W13_EVAR_SIUG_DIG_MISS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I could be useful..."
+  },
+  "SUB_W13_EVAR_SIUG_WORLDEXIT_000_CUT_000_000": {
+    "speaker": "カカシ",
+    "text": "Leave this world?"
+  },
+  "SUB_W13_EVAR_SIUG_WORLDEXIT_000_CUT_000_010": {
+    "speaker": "シウグナス",
+    "text": "No"
+  },
+  "SUB_W13_EVAR_SIUG_WORLDEXIT_000_CUT_000_020": {
+    "speaker": "シウグナス",
+    "text": "Yes"
+  },
+  "SUB_W13_WRLD_SIUG_INITIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I see naught but an ocean of sand,\nwith no doors to be found.\fAh, but there looks to be wreckage\nof some sort in the distance. Let us\nmake for this place with all speed."
+  },
+  "SUB_W13_WRLD_SIUG_INITIAL_000_CUT_000_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Sand and rubble, far as the eye can see...\nIs this wasteland <i>really</i> the Crowrealm?\nMy atonement is incomplete, for I destroyed\nnot just my village, but the world."
+  },
+  "SUB_W13_WRLD_SIUG_INITIAL_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "No rhymes, Warrior? Truly this place weighs\nheavy on your soul. It is your world, then?"
+  },
+  "SUB_W13_WRLD_SIUG_INITIAL_000_CUT_000_030": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Yes. This is the Crowrealm, and it is where\nI must make amends for my past."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Hmm? Someone's coming."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A ship in a sea of sand. Mmm.\nPerhaps this was once a world of water,\nbut this vessel looks to have outlived\nits purpose now."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? What is that thing with a bag over\nits head, and why is it staring at me?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Speak you to me, bagman?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "I haven't seen a human out this way in days.\nWhere exactly did you come from, anyway?\nThe airship? The cruise ship? The submarine?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King.\nI came from another world in search\nof captivating darkness. Who are you?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "I'm Scarecrow. But as for <i>why</i> I'm\na scarecrow, I have no earthly idea!\fAlso, I don't know anything about this\n'captivating darkness' you're on about.\nBut the humans might have an idea,\nso why not head over to the airship?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_071": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Let us accompany this bizarre\nScarecrow to the airship."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_072": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will aid Warrior with\nhis atonement."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Escort me to this airship of which you\nspeak, for I know nothing of this world."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps you might be able to carry out\nyour atonement at this airship, Warrior."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_110": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I can only pray that turns out to be true,\nno matter what it might entail."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_WARSHIP_000_CUT_000_120": {
+    "speaker": "Scarecrow",
+    "text": "......"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne airship, just as promised."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The speed at which this quicksand moves\nwill make crossing it quite the ordeal."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You have a plan, bagman?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I assume we do something\nwith this machine."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "NOPE!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Spookcrow",
+    "text": "YO, SCARECROW! BEEN A HOT MINUTE, BUDDY!\nALSO, WHY ARE YOU WANDERING ALL OVER FROM\nHELL TO BREAKFAST WITH THIS HUMAN, HUH!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You can change the flow\nof the sands, then?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "ME? NAH! I CAN'T DO SQUAT, BUDDY!\nBUT THE ROBOT CAN!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Must you shriek all your\nwords like a bedlamite?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Spookcrow",
+    "text": "SORRY ABOUT THAT! THIS IS JUST THE NATURAL\nVOLUME FOR ME! NOW HANG ON AND I'LL GET\nTHAT SAND CHANGED FOR YOU, BUDDY!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_010_000": {
+    "speaker": "Spookcrow",
+    "text": "HOW'S THAT STRIKE YA, BUDDY!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TWOLEGS_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Good."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the airship, then? It looks to\nhave served its purpose as a vessel,\nbut your statement earlier seemed\nto suggest people now live here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of 'em!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "At last, a place to rest.\nNo sand will breach this area. "
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King.\nClearly you receive few visitors\nfrom other worlds here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "We get none at all, in fact! Hmm... But since\nyou are clearly standing here now, it could\nmean the legend of Pandora is real!\fYou must tell me everything\nyou know about Pandora!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "No. <i>You</i> must look into my eyes\nand breathe deep of the Dismal King."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "Take a deep breath...\nIn...and out..."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "In...and out... Okay, I'm calm now.\nSorry for getting worked up like that."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Professor",
+    "text": "I'm the Professor, and I'm researching the history\nof the Crowrealm. Though a desert now, this land\nonce had something called an 'ocean,' and this\nvery airship once soared through the skies."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Professor",
+    "text": "Alas, now the world is nothing but sand,\nand the airships lie in pieces on the ground.\nAnd what is the cause of this misery, you ask?\nThe answer to that...is said to be Pandora!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Tell me more of Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_100": {
+    "speaker": "Professor",
+    "text": "This world has a legend about an object\ncalled Pandora's Box. Tales say that\nopening the box was forbidden, yet an\noutsider came and did so regardless.\fThis released all manner of calamities into\nthe world, turning it to ruin—but the legend\ngoes on to say the person to close the box\nagain will <i>also</i> be an outsider!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_110": {
+    "speaker": "Professor",
+    "text": "Oh, how I hope the legend is a lie. If it's true,\nit means our world is held sway by the whims\nof outsiders! And in that case, what are the\nrest of us even worth?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Right? What's my worth?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_130": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This box may lead me to the darkness\nI seek. Tell me where I might find it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_140": {
+    "speaker": "Professor",
+    "text": "It's just a legend, friend. Nothing more.\nDo you intend to blindly follow it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_150": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The Dismal King blindly follows nothing.\nBut if Pandora's Box is the key to\nplunging the world further into the\ndark, I would learn more of it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_160": {
+    "speaker": "Professor",
+    "text": "I don't know if I should call you an oddity\nor a nosy parker... Are <i>all</i> people from\nthe outside like you?\fEr, anyway. Be that all as it may,\nI sadly have no idea where Pandora is.\nYou'll just have to find it yourself."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_170": {
+    "speaker": "Scarecrow",
+    "text": "Ooo, ooo! I know where it is!\nIt could be here. Or there.\nOr way out there someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_180": {
+    "speaker": "Professor",
+    "text": "Let me leave you with this warning:\nDo not make friends with the scarecrows.\nThey're all irresponsible oafs to the last,\njust like this straw-headed ninny here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_190": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Were you responsible for making them?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_000_CUT_010_200": {
+    "speaker": "Professor",
+    "text": "Perish the thought! If I had to guess,\nI imagine they came from Pandora itself."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We can enter this machine.\nCome, Scarecrow."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Okay!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I would have thought this a difficult\nenvironment for fiends to survive.\nDo they come from Pandora as well?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are <i>you</i> older than Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well. Let us look inside."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothing! Nothing at all!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Pandora is clearly not here.\nTake me elsewhere."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will return when your services\nagain prove necessary."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "Yep! Counting on you!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TANK_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That is a weapon made by humans.\nAnd as we know not what form Pandora\ntakes, this could well be it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure could!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TANK_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Give me a straight answer, creature.\nIs this Pandora or no?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TANK_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It isn't, then?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TANK_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then this is not Pandora, for I have\nno wish to find such a thing so easily."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Can this machine also change\nthe flow of the sands?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Good question!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is fascinating how these devices change\nthe flow of sands despite their distance.\nDo you know how they work?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I should have expected as much from\na mere bag. I take it your answer to\nmy query is no, then?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then at least tell me why there is\nalways a scarecrow next to the robots."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Fie, you worthless creature."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This machine doesn't appear to be Pandora,\nbut I wonder if it can change the direction\nof the sands."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I wonder!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hi, Sweetcrow! Nice to see you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then tell me where I might find\nan enthralling being worth making\na part of the Dismal King."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "What you're looking for lives in the ♥s\nof all scarecrows...and you're totally\nwelcome to take my ♥ home, lover boy! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You do not meet my standards."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Sweetcrow!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_000_CUT_000_100": {
+    "speaker": "Sweetcrow",
+    "text": "Aww, don't be shy! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "Don't think I know you, friend.\nAre you another junker?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am no junker. I am the Dismal King.\nI have come to this land in search\nof captivating darkness."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "He sure did!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Well now, that's an odd thing to be seeking.\nI mostly look for gears and engine parts\nand showerheads and... Well, you know.\nThings people want."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_000_040": {
+    "speaker": "Junkman",
+    "text": "This place is a veritable mountain of treasure,\nbut because of that, I have a bunch of scoundrels\nin here bugging me. ...See?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "They've been fighting a war ever since\nPandora opened up—even though the\nworld's like it is and no one has any\nclue what the war is for anymore.\fHell, I don't even know if we're supposed\nto destroy this place or protect it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "This is a submarine:\nprotector of the ocean."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If you would wipe them out for your own\ngain, the Dismal King will assist you.\nOtherwise, I suggest you leave them be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "You'd do that for me?\nIt'd be much appreciated,\nbut what do YOU gain from it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Something good, I suspect."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "You're not even sure and you'd do it anyway?\nHey, I respect that. I mean, it's not a real\ntreasure hunt if you know for sure what\nyou're going to get in the end, am I right?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Hey, thanks!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the last place remaining.\nI hope we find Pandora here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I sure hope so!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_000_020": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King.\nI come in search of Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_000_040": {
+    "speaker": "Engineer",
+    "text": "Pandora, eh? Yes, I've heard the rumors:\nClose the box and poof! The war is over.\nHonestly, I have doubts that something\nso convenient actually exists."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_000_050": {
+    "speaker": "Engineer",
+    "text": "Still, war robots continue to be produced\nin this place, as you've no doubt seen.\nSo if Pandora is anywhere, it's likely here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is something here, then?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_000_070": {
+    "speaker": "Engineer",
+    "text": "Who knows? Heck, maybe you'll even find the person\nwho opened Pandora in the first place! But if they were\nhuman like us and somehow managed to survive this\nlong, they'd be a monster in their own right."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Then let's go hunt a monster!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Clearly vast numbers of machines\nwere once manufactured here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "No, listen. <i>Something</i> is still\noperational around here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Hey, look! Monsters over that way."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This machine is still active.\nWhat is its purpose?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "Sand. It's making sand."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "You scarecrows are all the same:\nliars to the last."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That is no sand. Those are tiny robots.\nI see now the truth of the sand covering \nthis world: all of it was manufactured here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "...Pretty sure it's just sand.\nBut even if it <i>was</i> robots,\nwhat good would that do us?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The machines in the desert controlled the\nflow of sand a significant distance away.\nIn other words, they gave orders to it.\n<i>This</i> is Pandora's true identity."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "Okay, let's say you're correct, and the robots\ncovered the world in sand to win the war.\nThe war is over now, but the sand remains.\nSo how are we supposed to remove it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So long as your world remains bound by\nthe vast being that is Pandora, you will\nnot be able to create any new darkness—\nand this angers the Dismal King!\fSo I will see to your problem.\nAfter that, all is up to you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is no end to these sand fiends.\nI find it most vexing."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_010": {
+    "speaker": "Engineer",
+    "text": "Well, we won't solve this problem with\ntired brains. How about I keep watch\nfor a bit while you rest?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_020": {
+    "speaker": "Junkman",
+    "text": "Ho, friend! Find any treasure?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_030": {
+    "speaker": "Scarecrow",
+    "text": "Nope!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_040": {
+    "speaker": "Junkman",
+    "text": "Well, everything good is buried beneath\nthe sand, so all you need to find it is\na little luck...and a secret weapon."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_050": {
+    "speaker": "Junkman",
+    "text": "My little friend here can find all sorts\nof things buried in the sand.\fPoor thing managed to survive the war,\nbut can't seem to put it behind him.\nHoping this little treasure hunt of yours\ncan help him move past it for good."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So the treasure we seek is a means to\ndefeat Pandora? Mmm. This makes sense.\nWhat is your name, creature?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_070": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Serve me well, Sarab."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "Affirmative."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Did you figure out a way\nto fight the sand yet?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We are working on it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Working on it!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_000_CUT_010_000": {
+    "speaker": "Engineer",
+    "text": "It stopped... You did it!\nYou closed Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_000_CUT_010_020": {
+    "speaker": "Junkman",
+    "text": "Your treasure hunt was a success,\nI take it? Excellent!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Well done! Now it's our turn to\nshow our worth: we're going to turn\nthe Crowrealm into a world of sky\nand water and green once more!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "So what's that mean for me?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_000_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You should come with me."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You should remain behind."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Ooo, someone's coming!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the wreck of a winged ship.\nWere wings so small really enough\nto keep it aloft?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "...Mmm? What is that? It is no human,\nnor is it a fiend. It is instead some\ncreature with a bag for a head."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Speak you to me, bagman?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'm a talker, all right!\nHaven't seen a human out this way\nin quite a few days, though.\fSo where'd you come from?\nCruise ship? Battleship? Submarine?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King.\nI came from another world in search\nof captivating darkness. Who are you?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "I'm Scarecrow. But as for <i>why</i> I'm\na scarecrow, I have no earthly idea!\fAlso, I don't know anything about this\n'captivating darkness' you're on about.\nBut the humans might have an idea,\nso why not head over to the airship?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_071": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Let us accompany this bizarre\nScarecrow to the airship."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Escort me to this submarine of which you\nspeak, for I know nothing of this world."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Oh, I'd be delighted! I'm bored to tears\nwith all this standing around. Follow me."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_AIRSHIP_000_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps you might be able to carry out\nyour atonement at this submarine, Warrior."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne submarine, just as promised."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The speed at which this quicksand moves\nwill make crossing it quite the ordeal."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You have a plan?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_HUMANOID_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Quite the giant machine.\nI wonder if it still moves."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_HUMANOID_000_CUT_000_010": {
+    "speaker": "Sweetcrow",
+    "text": "Sure doesn't, sweet thing! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_HUMANOID_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_HUMANOID_000_CUT_000_030": {
+    "speaker": "Sweetcrow",
+    "text": "Scarecrow, baby! Good to see you! ♥\nAnd sure, that's an easy ask. ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_HUMANOID_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You can change the flow\nof the sands, then?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_HUMANOID_000_CUT_000_050": {
+    "speaker": "Sweetcrow",
+    "text": "Not me, hot stuff. But the robot can! ♥\nGo on now, big guy! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_HUMANOID_000_CUT_010_000": {
+    "speaker": "Sweetcrow",
+    "text": "How's that, boo? ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_HUMANOID_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_HUMANOID_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The Dismal King thanks you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the airship, then? It looks\nto be in rather sad shape, but your\nstatement earlier seemed to suggest\nthat people now live here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh sure! Lots of them."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Excellent! There is no sand here.\nLet us brush what remains from\nourselves and take our ease."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "Well, well! Not often we see outsiders\naround these parts. Who might you be?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King.\nI came from another world in\nsearch of captivating darkness."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Oh, joy. Another weirdo. Well, as you can see,\nthe Crowrealm has been devastated by war.\nAlso, we've got darkness everywhere, but you'll\nhave to decide if it's captivating or not."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "True darkness is not simply lying about.\nIt is concealed in the hearts of people."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "Well, you'll find plenty of people like\nthat here; can't live in this world without\nhaving at least a bit of darkness in you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Now that <i>does</i> sound compelling.\nI would very much like to see the\ndarkness in your heart, as well."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_070": {
+    "speaker": "Junkman",
+    "text": "Hey, we all want things, buddy.\nBut people don't generally show stuff\nthey're embarrassed about to others—\nespecially when they're as shady as you.\fStill, if you really are looking for\ndarkness because you're the 'Dismal King'\nor whatever, you should go find Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The box said to have filled the\noutside world with calamities?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_090": {
+    "speaker": "Junkman",
+    "text": "You're surprisingly knowledgeable about it.\nMust've gotten your world too, am I right?\nGuess that explains why you're searching\nfor darkness—and why you're so nuts."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_100": {
+    "speaker": "Junkman",
+    "text": "Well, it can't be long now until this whole\nworld is devoured by Pandora, so I very\nmuch hope you're able to locate it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then you know not where\nit might be found?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_120": {
+    "speaker": "Scarecrow",
+    "text": "Ooo, but <i>I</i> know where it is! It could be here.\nOr there. Or way out that way someplace.\nCould be anywhere, really!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_000_CUT_010_130": {
+    "speaker": "Junkman",
+    "text": "Wiser words were never spoken. Look,\njust have Scarecrow take you where\nyou want to go; that's his job."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TANK_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That is a weapon made by humans.\nAnd as we know not what form Pandora\ntakes, this could well be it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TANK_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure could!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TANK_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Give me a straight answer, creature.\nIs this Pandora or no?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TANK_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It isn't, then?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TANK_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then this is not Pandora, for I have\nno wish to find such a thing so easily."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We can enter this machine.\nCome, Scarecrow."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Okay!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I would have thought this a difficult\nenvironment for fiends to survive.\nDo they come from Pandora as well?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are <i>you</i> older than Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well. Let us look inside."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothing at all!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Pandora is not here.\nTake me elsewhere."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will return when your services\nagain prove necessary."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "Yep! Counting on you!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Can this machine also change\nthe flow of the sands?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Good question!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It is fascinating how these devices change\nthe flow of sands despite their distance.\nDo you know how they work?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I should have expected as much from\na mere bag. I take it your answer to\nmy query is no, then?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then at least tell me why there is\nalways a scarecrow next to the robots."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Fie, you worthless creature."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This machine doesn't appear to be Pandora,\nbut I wonder if it can change the direction\nof the sands."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I wonder!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then tell me where I might find\ncaptivating beings to make as one\nwith the Dismal King."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "You won't find anyone more captivating\nthan a scarecrow, which means you're \nlooking for ME, buddy!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TWOLEGS_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am not amused."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TWOLEGS_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Spookcrow!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_TWOLEGS_000_CUT_000_090": {
+    "speaker": "Spookcrow",
+    "text": "I'M NOT JOKING, BUDDY!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_000_000": {
+    "speaker": "Engineer",
+    "text": "Are you people nuts? What are you doing\nhere? The robots will tear you to shreds\nif they find you!\fOkay, let's back up. I'm the Engineer,\nand I'm looking for a way to turn\nthe tide of this war in our favor."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King.\nWe are here in search of Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "We're searching hard!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_000_030": {
+    "speaker": "Engineer",
+    "text": "Well, war robots continue to be produced\nin this place, so if Pandora is real,\nthis makes as much sense as anywhere."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_000_040": {
+    "speaker": "Scarecrow",
+    "text": "Speaking of which, we've got\na war robot incoming!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That was far too weak to be Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Yes, I suppose it was a little pathetic\nfor an immortal war machine. You'll likely\nhave to keep searching somewhere else."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "<i>So</i> pathetic."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We should look elsewhere."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FERRY_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "We should!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This looks to be the\nwreckage of a ship."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Could be Pandora, yep!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "This <i>is</i> Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You know this for certain?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then why do you not attempt to do anything\nabout Pandora? I would have thought anyone\nof this world would want to see it closed\nand peace restored."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_000_060": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. Knowledge alone\nis satisfaction enough."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "How regrettable that you fail to\nrealize your potential. I am leaving."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "We're leaving!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The inside looks as badly\ndamaged as the outside."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Sure does!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "And yet, I hear a sound."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I did not expect you to come with us,\nfor did you not say knowledge alone\nis satisfaction enough for you?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_040": {
+    "speaker": "Wiseman",
+    "text": "I do not know what lies inside.\nTherefore, I must learn."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then tell us all you know\nabout Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "Pandora is sand. Pandora creates the sand.\nIt buries this world in mountains of sand,\ncausing it to suffocate."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then all we need do is stop it from\nproducing sand? A trifling task!\nHow do we go about it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_080": {
+    "speaker": "Wiseman",
+    "text": "That I do not know."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Then I look forward\nto finding out."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_010_100": {
+    "speaker": "Scarecrow",
+    "text": "Oh yeah, can't wait!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "The sand is fiends.\nThe fiends are sand."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Yet this is no ordinary sand."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_020": {
+    "speaker": "Wiseman",
+    "text": "Pandora controls the sand. Every grain is\na perfect miniature recreation of Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Now I finally understand how it is possible\nto change the direction of the sands:\nPandora is capable of controlling each\nindividual grain like its own limb.\fThis means all we need do is sever its\ncontrol of the sand, for the grains will\nbe powerless without orders."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_040": {
+    "speaker": "Engineer",
+    "text": "Sounds like you found Pandora.\nSo what happens now?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Though we understand what Pandora is,\nwe do not yet know how to defeat it.\nI am giving much thought to the problem."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_060": {
+    "speaker": "Engineer",
+    "text": "Why not try this thing?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_070": {
+    "speaker": "Engineer",
+    "text": "I went ahead and fixed it up earlier.\nI think it's some kind of search mech?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Fascinating. Let us make the attempt."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "And we're off."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_END_000_CUT_000_000": {
+    "speaker": "Wiseman",
+    "text": "The time to battle Pandora has come."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_END_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will show you a whole\nnew world, Wiseman."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "He sure will!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_END_000_CUT_010_000": {
+    "speaker": "Wiseman",
+    "text": "The sand has stopped.\nPandora has been sealed."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_END_000_CUT_010_020": {
+    "speaker": "Engineer",
+    "text": "Can't believe you managed to find Pandora\nand close it... Who <i>are</i> you, anyway?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_END_000_CUT_010_030": {
+    "speaker": "Junkman",
+    "text": "Just some weirdo from a cult—but hey,\nit takes all kinds to save the world.\nSpeaking of which, it's time for you to\nget back and save your <i>own</i> world, yes?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I want to save worlds too!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_END_000_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then come with me."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_END_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You can save it from here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Ooo, someone's coming!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A ship in a sea of sand. Mmm.\nPerhaps this was once a world\nof water, but this vessel looks\nto have served its purpose now."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? What is that thing with a bag over\nits head, and why is it staring at me?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Welcome!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You can speak, I see. I am Siugnas,\nthe Dismal King, and I am here\nin search of captivating darkness."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Hello! I'm Scarecrow, and I've been standing\nhere for three thousand days waiting for\nsomeone like you to come by. Boy, this is\na real glorious moment for me!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Why were you so resolved to wait?\nAre you the caretaker of this area?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "Nah, I just really like talking to people—\nwhich is why I'm so happy to have met you!\nSo where'd you come from? The airship?\nThe battleship? The cruise ship?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_071": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I suppose I should ask this bizarre\ncreature for a tour of the world."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I know nothing of your world, bagman,\nand demand that you show me around."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Hey, I'd be happy to! I was getting bored\nof standing around in the same spot anyway,\nso I'll guide you on your journey to find\na bunch of captivating stuff."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_DIVING_000_CUT_000_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I know not where we should be heading,\nbut let us try to find a place where you\ncan complete your atonement, Warrior."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne cruise ship, just as promised."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The speed at which this quicksand moves\nwill make crossing it quite the ordeal."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You have a plan?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A human weapon. I don't believe\nit will be moving anytime soon."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Strangecrow! I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then you can change the\ndirection of the sands?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "......"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Just deal with the sand."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_010_000": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TANK_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The Dismal King thanks you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "These are the remnants of a ship.\nWill I find the darkness I seek here?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Dunno if you'll find any darkness,\nbut you'll find lots of people!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There do indeed seem to be\npeople living here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_010": {
+    "speaker": "Engineer",
+    "text": "Well? What have you brought me?\nPlease say you have copper wire;\nI desperately need it for my motors."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am no wire salesman.\nI am the Dismal King.\fI have come here seeking something or\nsomeone that might captivate my interest."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "You're not a junkman? Bah. Well, I'm an\nengineer, and I have no interest in abstract\nnonsense like 'captivating interest.'"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Regardless, tell me what is the most\ncaptivating being in this world."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_050": {
+    "speaker": "Engineer",
+    "text": "Not a very high bar in a world that's\nnothing but desert, but I suppose that\nwould be Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. The box from whence countless\ndisasters sprung, if I recall."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "In this world, Pandora is real. It is Pandora\nthat plunged this place into war and ruin,\nand the horror of that continues to this day.\fSo if we hope to free ourselves from all of\nthis someday, we must find a way to survive\nand close Pandora once and for all."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If it really did bring darkness to\nthis world, I must see it at once."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_090": {
+    "speaker": "Engineer",
+    "text": "You're going to close it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That I have not decided; I must first\nexamine it and see if it fascinates me.\nNow tell me where to find it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_110": {
+    "speaker": "Engineer",
+    "text": "I have no idea where Pandora is.\nI suggest you ask a scarecrow."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You. Tell me where Pandora is."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_130": {
+    "speaker": "Scarecrow",
+    "text": "Of course! You simply go this way,\nthen that way, then some way!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_140": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then lead the way."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_000_CUT_010_150": {
+    "speaker": "Scarecrow",
+    "text": "One trip to Pandora, coming up!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Another giant machine.\nCould this be Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "It could!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I assume that means it isn't?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FOURLEGS_000_CUT_000_030": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You. Where is Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FOURLEGS_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then what do you know?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FOURLEGS_000_CUT_000_070": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FOURLEGS_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Fie, you worthless creature."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Can this machine also change\nthe flow of the sands?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I wonder!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Spookcrow",
+    "text": "I CAN DO ANYTHING, BUDDY!\nI'M A FREAKIN' SCARECROW!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then tell me where I might find something\nor someone that will capture my interest."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_TWOLEGS_000_CUT_000_050": {
+    "speaker": "Spookcrow",
+    "text": "CAN'T DO THAT, BUDDY!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We can enter this machine.\nCome, Scarecrow."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Okay!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I would have thought this a difficult\nenvironment for fiends to survive.\nDo they come from Pandora as well?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are <i>you</i> older than Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well. Let us look inside."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothing at all!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Pandora is not here.\nTake me elsewhere."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Now that the fiends are gone,\nI have been given a new power.\nO woe! Woe and calamity!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Use it well, you pitiful creature."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Sorrowcrow!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_INDUSTRIAL_000_CUT_010_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Thank you. Oh, the agony!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_HUMANOID_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Can this machine also change\nthe flow of the sands?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "I wonder!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? Awww, that's easy! ♥\nAlso, heya, baby! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "You just ask for whatever you want, boo. ♥\nThere's nothing a scarecrow can't do! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_HUMANOID_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then tell me where I might find something\nor someone that will capture my interest."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Sure thing, sweet cheeks! ♥ Just ask\nyourself this: what's the most special-est\nplace in the entire Crowrealm, hmm? ♥\nHere's a hint: it's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_HUMANOID_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A riddle, is it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_HUMANOID_000_CUT_000_080": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This looks to be the\nwreckage of a ship."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Yep! This could be Pandora!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "This is not Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You know of Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_000_040": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "Whoopsie! War robot incoming!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. I expected a good deal\nmore from Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "Did I not just tell you\nthis is not Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then where do I find\nthe actual Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I don't know."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well. I'm sure we will\ndiscover it in due time."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "I'll help!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_000_CUT_010_060": {
+    "speaker": "Wiseman",
+    "text": "And just what do you plan to do\nonce you actually find Pandora!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the only place\nwe have yet to look."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas. I came from another world\nseeking captivating darkness, and to that\nend am currently searching for Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So the legends are true—an outsider will\nopen Pandora, and an outsider will close it!\nIs this prophecy? An accurate prediction?\nA cleverly executed program?\fWhatever it may be, one thing is certain:\nhistory will now begin to move."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Professor",
+    "text": "Yes, well, introductions! I'm the Professor,\nand I'm researching the Crowrealm's history.\nI've spent hour after endless hour in this place,\nbut today, you will put an end to that!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You seem oddly willing to place trust in me.\nNo other outsider has succeeded in closing it,\nso what makes you so certain I will succeed?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Professor",
+    "text": "I don't know. No one has ever seen Pandora—\nand even if it IS in here, I can't go in on my own.\nI guess something just convinced me that you're\ngoing to be the one."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then I shall move out."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_000_080": {
+    "speaker": "Scarecrow",
+    "text": "Movin' out!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am convinced Pandora is here,\nyet see no signs of it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Professor",
+    "text": "Pandora's secrets lie deeper within.\nLet's go, so I might witness history!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "Deeper within!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Professor",
+    "text": "Moving sand... So <i>this</i> is the truth of Pandora?\nIt's just digging up sand from somewhere and\nscattering it all across our world?\fAbsurd! Ridiculous! Complete and utter rot!\nI can't believe we let all time come to a\nstandstill because we were afraid of <i>this</i>!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "This isn't sand—it's robots!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, so all the sand in this world is\nactually machines? That explains why\nits flow can be changed."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_010_060": {
+    "speaker": "Professor",
+    "text": "I fear I don't understand."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_010_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We are currently surrounded by countless\nsand machines. Either we get rid of them,\nor you perish. Those are our only options."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_010_080": {
+    "speaker": "Scarecrow",
+    "text": "Gya! I don't want to perish!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_000": {
+    "speaker": "Scarecrow",
+    "text": "We made it!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Each of our individual foes is weak,\nbut they strike us in irksome numbers.\nIt is quite the predicament."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_020": {
+    "speaker": "Professor",
+    "text": "You can do it! That's why the legend says\nyou will be the one to close Pandora!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Nothing is beyond the Dismal King!\nYet we will require a strategy\nif we are to be successful."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_040": {
+    "speaker": "Scarecrow",
+    "text": "We sure will!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_050": {
+    "speaker": "Wiseman",
+    "text": "You will need power equal to Pandora's\nown if you wish to fight it and win."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Tell me all you know."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_070": {
+    "speaker": "Wiseman",
+    "text": "Use this. It hates Pandora, and may prove\na great aid in your upcoming fight."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_080": {
+    "speaker": "Wiseman",
+    "text": "Hate begets nothing!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Wrong. Hate is a fearsome power.\nNow tell me of yourself, creature."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_100": {
+    "speaker": "Sarab",
+    "text": "Sarab will kill Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_110": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Excellent!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_120": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Where are you going?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_000_CUT_020_130": {
+    "speaker": "Scarecrow",
+    "text": "Where are you going?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_000_CUT_000_000": {
+    "speaker": "Professor",
+    "text": "The time has come at last... Oh, to think\nI might witness a turning point in history\nwith my own eyes."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You shall, unless you foolishly\nchoose to avert your gaze."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "So don't do that!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Can you believe it!? I was actually able\nto experience the moment a legend\nbecame reality! I was right to put\nmy faith in you after all."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_000_CUT_010_020": {
+    "speaker": "Wiseman",
+    "text": "Hate really does beget nothing."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_000_CUT_010_030": {
+    "speaker": "Engineer",
+    "text": "You did it! You actually closed Pandora!\nHa ha haaaa... Hey, wait. What the heck are\nwe supposed to do with the rest of our lives?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, what should I do with my life?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_000_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Come with me."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_END_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Live as you always have."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FERRY_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "Human incoming!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FERRY_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A ship in a sea of sand. Mmm.\nPerhaps this was once a world of\nwater, but this vessel looks to have\noutlived its purpose now."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FERRY_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm? What is that thing with a bag over\nits head, and why is it staring at me?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FERRY_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Actually, this place was already\na ruin when I got here!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FERRY_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You can speak, I see. I am Siugnas,\nthe Dismal King. Explain now why\nyou wear a bag on your head."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FERRY_000_CUT_000_050": {
+    "speaker": "Scarecrow",
+    "text": "I'm Scarecrow! I don't know why I look\nlike this, or even where I came from!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FERRY_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Is everyone in this world like you?\nFor I have come here to search for beings\nthat capture my interest. "
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FERRY_000_CUT_000_070": {
+    "speaker": "Scarecrow",
+    "text": "No idea. You should try asking\naround! C'mon, let's go!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FIRSTSTOP_000_CUT_000_000": {
+    "speaker": "Scarecrow",
+    "text": "And there you are!\nOne battleship, just as promised."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FIRSTSTOP_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The speed at which this sand moves\nwill make crossing it quite the ordeal."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FIRSTSTOP_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Oh, right! In that case,\nI know where we should go."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FIRSTSTOP_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You have a plan?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FOURLEGS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It's enormous. Can it move?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FOURLEGS_000_CUT_000_010": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FOURLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Smilecrow. I'd like you to change\nthe flow of the sand, if you would."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FOURLEGS_000_CUT_000_030": {
+    "speaker": "綱紀",
+    "text": "Aha ha ha ha ha! Scarecrow?\nAha ha ha ha ha! The flow of sand?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FOURLEGS_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You can change the flow\nof the sands, then?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FOURLEGS_000_CUT_000_050": {
+    "speaker": "Smilecrow",
+    "text": "What a silly thing to ask a scarecrow!\nAha! Aha ha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FOURLEGS_000_CUT_010_000": {
+    "speaker": "Smilecrow",
+    "text": "The flow of sand! Aha ha ha ha!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FOURLEGS_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "We should be able to proceed now."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_FOURLEGS_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The Dismal King thanks you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This must be the battleship. Much like\nthe ship earlier, it looks very old.\nYou say we will find people inside?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Oh, there's people, all right!\nJust no one captivating!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Excellent! There is no sand here.\nLet us brush what remains from\nourselves and take our ease."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_010": {
+    "speaker": "Wiseman",
+    "text": "The arrival of souls from the\noutside world is an omen."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "How did you know I am\nnot of this world?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I am the Wiseman. I know all."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Then tell me where I might find\nsomeone worthy of becoming one with\nthe Dismal King."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_050": {
+    "speaker": "Wiseman",
+    "text": "Looking to get married, are you?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "......"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_070": {
+    "speaker": "Wiseman",
+    "text": "Don't look at me like that! You're the one\nwho came at me with a bizarre question—\ncan't blame me for not having the answer.\fNow let me proclaim your fate to you,\noutsider. You will find Pandora inside\nthe submarine. What happens after that—\nand on the way—it is up to you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Take me to this submarine."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_090": {
+    "speaker": "Scarecrow",
+    "text": "Sure thing! Follow me!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. What is Pandora, anyway?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_000_CUT_010_110": {
+    "speaker": "Scarecrow",
+    "text": "I wonder!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TWOLEGS_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This machine does not capture\nmy interest at all."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TWOLEGS_000_CUT_000_010": {
+    "speaker": "Spookcrow",
+    "text": "IT'S SO SMALL!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TWOLEGS_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Spookcrow. Think you could\nturn the volume down to a dull roar?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TWOLEGS_000_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then tell me where I might find something\nor someone that will capture my interest."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TWOLEGS_000_CUT_000_040": {
+    "speaker": "Spookcrow",
+    "text": "CAN'T DO THAT, BUDDY!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We can enter this machine.\nCome along."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "Let's go inside!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_000_020": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, it's but a den of fiends inside!\nYou're better off staying here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Yeah, probably no point to it.\nAlso, hey, Sorrowcrow. Been a while."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I would have thought this a difficult\nenvironment for fiends to survive.\nDo they come from Pandora as well?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_000_050": {
+    "speaker": "Sorrowcrow",
+    "text": "Woe, but those things have always been here!\nHonestly, I've no idea if they're older\nthan Pandora or not."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Are <i>you</i> older than Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_000_070": {
+    "speaker": "Sorrowcrow",
+    "text": "Oh, who knows? Lamentation!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well. Let us look inside."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There's nothing here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Nothing at all!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will find nothing to captivate me\nin this place. Take me elsewhere."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_010_030": {
+    "speaker": "Sorrowcrow",
+    "text": "Alas, what misery! However, I can\nat least change the flow of sand now\nthat those horrid fiends are gone."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I will return when your services\nagain prove necessary."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_INDUSTRIAL_000_CUT_010_050": {
+    "speaker": "Scarecrow",
+    "text": "Yep! Counting on you!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_HUMANOID_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I cannot help but be slightly\ncaptivated by its size."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_HUMANOID_000_CUT_000_010": {
+    "speaker": "Scarecrow",
+    "text": "So big!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_HUMANOID_000_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "What's this about being\ncaptivating, now? ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_HUMANOID_000_CUT_000_030": {
+    "speaker": "Scarecrow",
+    "text": "Hello, Sweetcrow. Nice to see you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_HUMANOID_000_CUT_000_040": {
+    "speaker": "Sweetcrow",
+    "text": "What's the most special-est place in the\nentire Crowrealm, hmm? ♥ Here's a hint:\nit's not some dumb robot! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_HUMANOID_000_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A riddle, is it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_HUMANOID_000_CUT_000_060": {
+    "speaker": "Sweetcrow",
+    "text": "Think <i>real</i> hard, honeypants. ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A human-made weapon? I doubt\nI can make this part of myself."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_010": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You think it possible, then?\nOr do I misunderstand?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_030": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I can't imagine you have any\ndarkness within you, either."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_050": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "I fear everything good Strangecrow here says\nalways means both 'yes' and 'no.' My advice is\nto just interpret his answers however you like."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "He is clearly not what I seek."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_090": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of Strangecrow!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_TANK_000_CUT_000_100": {
+    "speaker": "Strangecrow",
+    "text": "Could be."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the wreck of a winged ship.\nWere wings so small really enough\nto keep it aloft?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "I say, who are you!?\nDid you come from the outside!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I did. I am Siugnas, and I am come\nin search of captivating darkness."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "So you're not here to close Pandora? Blast!\nWell, I am the Professor, a researcher of\nthe Crowrealm's history who is also seeking\na way to seal Pandora for good."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What is this 'Pandora' I keep hearing of?\nThe Wiseman told me it was my destiny to\nvisit the submarine and find it there."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_000_050": {
+    "speaker": "Professor",
+    "text": "The Wiseman said that? Then you\nmust go to the submarine at once!\nThis place holds nothing for you!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "But we have an enemy incoming..."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_010_000": {
+    "speaker": "Professor",
+    "text": "Now go! Find the Junkman in the submarine,\nand get his help to close Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_010_010": {
+    "speaker": "Scarecrow",
+    "text": "Please?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Yet I still know not what\nthis 'Pandora' even is."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Very well. If nothing else, it will\nmake this journey entertaining.\nLet us head to the submarine."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This must be the submarine where\nwe will supposedly find 'Pandora.'"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_000_010": {
+    "speaker": "Junkman",
+    "text": "Ah! An outsider has arrived, just as the\nWiseman foretold. He also claimed that the\nclosing of Pandora was all in your hands.\nSo then...will you close it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "First, tell me what 'Pandora' is.\nIf it captures my interest,\nthe Dismal King will aid you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_000_030": {
+    "speaker": "Junkman",
+    "text": "Pandora is the cause of all desolation in\nthis world. It brought calamity to the land\nand launched a war that rages to this day.\fAnd if we hope to right these most\nterrible wrongs, we must close Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I have no interest in saving the world;\nI am here in search of darkness. If Pandora\nallows me to fill this world with an even\ngreater dark, I would use it to that end."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_000_050": {
+    "speaker": "Junkman",
+    "text": "Yeah, you definitely don't look like the\nsavior type—and yet I'm somehow convinced\nthat you're going to do this for us and\nsave our world all the same."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_000_060": {
+    "speaker": "Scarecrow",
+    "text": "For us!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Determined to force your opinions on me,\nare you? Very well. I can decide what to\ndo with this Pandora after I find it.\nPerhaps I will grant your wish after all."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is no sign of anything resembling\nPandora here. It appears your wish will\nremain unfulfilled by the Dismal King."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_010_010": {
+    "speaker": "Junkman",
+    "text": "Nothing yet, but the path goes on.\nNow come! I know we will find it!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_010_020": {
+    "speaker": "Scarecrow",
+    "text": "We'll find it!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There is naught but sand surrounding us,\nyet you still remain convinced of Pandora's\nexistence? Humanity was the thing which\ndestroyed this world. Not Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_010_040": {
+    "speaker": "Junkman",
+    "text": "The sand... Of course! The <i>sand</i> is the\ncause of all this! The <i>sand</i> is Pandora!\fIt was created here in this place,\nand once it spread across the Crowrealm,\nit sent the entire world to ruin."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "That is what you choose to believe?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_010_060": {
+    "speaker": "Scarecrow",
+    "text": "Sand's coming. Oh, and it's taken the\nform of a fiend, so look out for that!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_020_000": {
+    "speaker": "Professor",
+    "text": "I hear you found Pandora!\nDid you manage to close it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_020_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What we found was the truth: Pandora\ndoes not exist. That is clearly what\nthe Wiseman meant by his words."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_020_020": {
+    "speaker": "Professor",
+    "text": "Is this true, Junkman?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_020_030": {
+    "speaker": "Junkman",
+    "text": "Seems so. If this world is going to be saved,\nit will be done not by an outsider, but by\nthe sweat and toil of those who live here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_020_040": {
+    "speaker": "Professor",
+    "text": "Well, I suppose that's not so bad;\nthe Crowrealm is our home, after all,\nso it's only fitting that we should\nbe the main characters in its story.\fYou have my thanks, friend—and I swear to\nyou now, we <i>will</i> take our world back!\nWe cannot thank you enough."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "My journey in this world is complete,\nand the time has come to depart."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_020_060": {
+    "speaker": "Scarecrow",
+    "text": "What should I do?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_020_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Come with me."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_000_CUT_020_090": {
+    "speaker": "Scarecrow",
+    "text": "Take good care of your\nbest pal Scarecrow, okay!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What is the best course of action here?\nIf every sand grain in this world is Pandora,\nwe can't possibly fight <i>all</i> of them."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_010": {
+    "speaker": "Junkman",
+    "text": "You can do it. You <i>will</i>.\nThe prophecy says as much."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You humans simply love prophecies."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_030": {
+    "speaker": "Professor",
+    "text": "Well done! I hear you found Pandora!\nDid you manage to close it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What we found was the truth:\nPandora is all of the grains\nof sand in this world."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_050": {
+    "speaker": "Professor",
+    "text": "The sand is...? But no, that can't be!\nThe sand isn't attacking us!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah, but they only act when ordered to do so.\nIf we can stop the sand from receiving orders,\nit will be only sand."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_070": {
+    "speaker": "Professor",
+    "text": "Wonderful! Now here, take this.\nHe's my little helper and a good,\nfine boy, and I know he'll aid you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Tell me your name."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_090": {
+    "speaker": "Sarab",
+    "text": "Sarab."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Come with me, Sarab."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_010_CUT_020_110": {
+    "speaker": "Scarecrow",
+    "text": "Come with us!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_END_000_CUT_000_000": {
+    "speaker": "Junkman",
+    "text": "You can do it. You <i>will</i>.\nThe prophecy says as much."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_END_000_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The Dismal King needs no prophecy\nto know I will emerge triumphant."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_END_000_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "He won't lose!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_END_000_CUT_010_000": {
+    "speaker": "Junkman",
+    "text": "The prophecy has been fulfilled,\nand Pandora is closed at last."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_END_000_CUT_010_020": {
+    "speaker": "Professor",
+    "text": "The Crowrealm has finally been returned to us,\nand from this day forward, we shall restore it\nto its former glory with our own hands!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_END_000_CUT_010_030": {
+    "speaker": "Wiseman",
+    "text": "I foresaw all!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_END_000_CUT_010_040": {
+    "speaker": "Scarecrow",
+    "text": "I'm going to stay here and help\nwith the restoration."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_END_000_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then I wish you luck."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_END_000_CUT_010_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "No. You will come with me."
+  },
+  "SUB_W13_EVAR_SIUG_KENZOKU_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You are a captivating being,\nand I would take you into my thrall."
+  },
+  "SUB_W13_EVAR_SIUG_KENZOKU_000_CUT_000_010": {
+    "speaker": "Professor",
+    "text": "As you wish, O Dismal King."
+  },
+  "SUB_W13_EVAR_SIUG_KENZOKU_010_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Even if we are separated, your soul\nshall always be one with my own."
+  },
+  "SUB_W13_EVAR_SIUG_KENZOKU_010_CUT_000_010": {
+    "speaker": "Junkman",
+    "text": "Thank you, O Dismal King!"
+  },
+  "SUB_W13_EVAR_SIUG_KENZOKU_020_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You will remain here and acquire\ninfinite knowledge—but your soul\nwill come with me."
+  },
+  "SUB_W13_EVAR_SIUG_KENZOKU_020_CUT_000_010": {
+    "speaker": "Wiseman",
+    "text": "I lack knowledge of the world of\ndarkness, and must remedy this."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FIRSTSTOP_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the way to the airship,\nbut the sands move too quickly."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FIRSTSTOP_100_CUT_000_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "This—<i>all</i> of this—is completely new to me.\nThe dunes didn't exist when I was last here,\nso I've got no idea how to deal with them."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FIRSTSTOP_100_CUT_000_020": {
+    "speaker": "Scarecrow",
+    "text": "I can help! Let's go over there!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FIRSTSTOP_100_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I do not recall asking\nfor your guidance."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the airship, then? It resembles a\nballoon more than any seafaring vessel,\nand I am hard-pressed to imagine it once\nsoared majestically through the skies."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_000_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I remember people making small balloons that\nsoared through the skies when I was younger,\nbut had no idea they could be so large.\nHow long have I been <i>gone</i> from this place!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Excellent! There is no sand here.\nLet us brush what remains from\nourselves and take our ease."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_040": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Then Pandora DID cause all of this!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_050": {
+    "speaker": "Professor",
+    "text": "You know of Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_060": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Oh yes. I know of Pandora.\nBecause I was the one who opened it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_090": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I came from a small village beset by fiends\nand bandits. I didn't have the power to fight\nthem—none of us did—so I decided to borrow\na little from the only source I knew: Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_100": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "The plan worked at first, but it had the\nunintended consequence of creating a new\nconflict outside the village—one that soon\nexploded into a war that consumed us all.\fThe peace I'd fought so hard to achieve was\nlost. Young men and women were conscripted,\nharvests failed, and we all found ourselves\non the brink of starvation and death."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_110": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Knowing Pandora was to blame, I tried to shut\nit again, but its power had already engulfed\nthe whole world and I met with opposition\nin vast, vast numbers. "
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_120": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I tried to shut Pandora.\nI <i>failed</i> to shut Pandora.\nAnd my actions led to the\nruination of the world."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_130": {
+    "speaker": "Professor",
+    "text": "You're saying all of this is the result\nof one person's actions? That's impossible.\nJust how much power does Pandora possess?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_140": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "It will grant any wish you ask of it—at least\nat first. But it cares not for what happens\nafter that wish is granted. I knew this well,\nyet chose to rely on it anyway."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_150": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So if you manage to close Pandora,\nyour atonement will be complete?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_160": {
+    "speaker": "Professor",
+    "text": "I'm sorry, but I simply can't believe this.\nThat box was opened AGES ago, so unless\nyou're an ancient with a time machine,\nwhat you're saying just doesn't add up."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_170": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Whatever the truth may be, our goal\nmust be to see Pandora shut once more.\nThat is the only way to address the\ndarkness in your heart, Warrior. "
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_180": {
+    "speaker": "Professor",
+    "text": "But how will you find it?\nDoes that fellow know where it is?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_190": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "No. I don't. I don't even know what\nthe damnable thing <i>looks</i> like anymore,\nbecause it's always changing its form."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_AIRSHIP_100_CUT_010_200": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Walk forward without fear, Warrior.\nIf we follow the darkness in your heart,\nit will surely lead us to what we seek."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Perhaps we will find Pandora in\nthe darkness of this machine."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_100_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Ah. A fiend nest. Did Pandora\nalso create these fiends?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_100_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Were you created by Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_100_CUT_000_080": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Mmm. Then let us look inside."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_INDUSTRIAL_100_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We will not find Pandora here."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_TANK_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is a weapon made by humans. But if\nPandora is capable of changing its form,\nthis could very well be it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This machine doesn't appear to be Pandora,\nbut perhaps it can change the direction\nof the sand all the same."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_HUMANOID_100_CUT_000_020": {
+    "speaker": "Sweetcrow",
+    "text": "Sand? That's easy, baby! ♥"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_100_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King, and you\nwill address me as such. We are here\nin search of Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_100_CUT_010_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "A query, Warrior: I fail to see how wishing\nfor the safety of your village alone would\nlead to a conflict that engulfed the world.\nDid you actually wish for something else? "
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_100_CUT_010_030": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "You have the right of it, Count.\nIt wasn't enough to save my village;\nI wanted to protect it <i>by my own hand</i>."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_100_CUT_010_040": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I should have closed the box sooner—I know\nthat now. That action alone would have kept\nmy village safe, just as I wished.\fSo you see, this isn't Pandora's fault—\nit's my own for being so damn selfish!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_DIVING_100_CUT_010_050": {
+    "speaker": "Junkman",
+    "text": "But do you REALLY think you\ncan find and close Pandora!?\fNo, I suppose it's better if you don't know.\nAfter all, the most enjoyable treasure hunts\nare the ones when you don't know if you'll be\nsuccessful. Now good luck out there!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The darkness within you led us here, Warrior,\nwhich means here is where we find Pandora.\nAre you prepared to face it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_000_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I'm terrified. The fact Pandora has grown\nthis large means the darkness within me is\nequally as large, right? Clearly I have no\nidea just how deep that darkness runs."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King.\nWe come in search of Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_000_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Such pitiful robots are no match for us.\nPandora is clearly further inside."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_000_070": {
+    "speaker": "Engineer",
+    "text": "If you're going further inside, I'm coming.\nFor who knows what kinds of useful things\nmight be waiting in there!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The machines here aren't operational.\nThis is not Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "It <i>was</i> Pandora once. But it changed\nthe machines it produced over time,\nand this is what now remains."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_020": {
+    "speaker": "Engineer",
+    "text": "Then you think we'll find a facility making\neven larger robots further within?\nA facility that <i>is</i> Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Your suspicions are correct, Warrior.\nThe machines here are still active,\nand they are making sand."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_040": {
+    "speaker": "Engineer",
+    "text": "Are you suggesting <i>Pandora</i> is the\nreason the deserts are expanding?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Exactly so. If Warrior is correct, \nthe very grains of sand in your\ndesert are nothing but machines."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_060": {
+    "speaker": "Engineer",
+    "text": "But what would be the point of making\nrobots so small? They can't possibly\nbe used for fighting!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "They sacrificed size in favor of numbers, and their\ndiminutive stature allows them to infiltrate any\nenemy location... A formidable strategy indeed.\nAnd it all came to pass because of you, Warrior."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_080": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Why did this happen...? All I wanted was\nto protect my village by my own hand,\nand now we've got robots made of sand!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_090": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Your combat instincts gave Pandora the\nknowledge it now uses here, Warrior.\nYour talents are truly genius."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_010_100": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The time has come to make your heart's desire\ncome true, Warrior. Defeat the beast you created,\nand protect both your village and your world\nby the power of your own hand!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_020_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "As there is no limit to the number of sand\nfiends Pandora can create, mere brute force\nwill not be enough to see your dream\nthrough to its conclusion, Warrior."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We have found Pandora, but do not yet know\nhow to close it. We must learn this before\nwe can hope to gain the treasure we seek."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_100_CUT_020_060": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Then the way to close Pandora is also hidden\nunder the sand? Ah, but this is a treasure\nhunt for true!\fNow then, I would have your name."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_000_010": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The time is finally upon us\nto close Pandora, Warrior."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_000_020": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Why am I shaking? Is this fear?\n...No. It must be excitement!\nWe <i>will</i> see Pandora closed, Count!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Pandora is closed, Warrior."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_010_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "That it is—but alas, my village will never\nreturn, and the restoration of the Crowrealm\nwill be a process long and arduous.\fSo my atonement is not yet complete.\nOn the contrary, it has only just begun."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_010_020": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "So let me continue my atonement\nby serving you, O Dismal King!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_010_030": {
+    "speaker": "Siugnas",
+    "text": "Then you shall have the brand."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_010_040": {
+    "speaker": "Siugnas",
+    "text": "Perhaps another time."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_010_050": {
+    "speaker": "Siugnas",
+    "text": "I welcome you into my thrall, Warrior.\nI now have you in my gaze at all times."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_010_060": {
+    "speaker": "Siugnas",
+    "text": "Your blood will become a part of me,\nand will make me the Dismal King.\nTogether into eternity shall we live."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE0_FERRY_END_100_CUT_010_070": {
+    "speaker": "Siugnas",
+    "text": "I appreciate the sentiment.\nLet us leave it there for now."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_FIRSTSTOP_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This is the way to the submarine,\nbut the sands move too quickly."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This submarine is smaller and rounder than\nships that sail the seas. Though it doubtless\nonce moved about under the water, it is now\ntrapped floundering on the sand."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_000_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I remember people going underwater in metal\ncans when I was younger, but had no idea\nthey could be so large. Just how long have\nI been <i>gone</i> from this place!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_080": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Then Pandora DID cause all this!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_090": {
+    "speaker": "Junkman",
+    "text": "That's right—and I don't think there's\na way to stop it from swallowing up the\nentire world. Surprised to hear you know\nof Pandora, however."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_100": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Oh, yes. I know of Pandora.\nBecause I was the one who opened it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_110": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I came from a small village beset by fiends\nand bandits. I didn't have the power to fight\nthem—none of us did—so I decided to borrow\na little from the only source I knew: Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_120": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "The plan worked at first, but it had the\nunintended consequence of creating a new\nconflict outside the village—one that soon\nexploded into a war that consumed us all.\fThe peace I'd fought so hard to achieve was\nlost. Young men and women were conscripted,\nharvests failed, and we all found ourselves\non the brink of starvation and death."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_130": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Knowing Pandora was to blame, I tried to shut\nit again, but its power had already engulfed\nthe whole world and I met with opposition\nin vast, vast numbers. "
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_140": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I tried to shut Pandora.\nI <i>failed</i> to shut Pandora.\nAnd my actions led to the\nruination of the world."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_150": {
+    "speaker": "Junkman",
+    "text": "So YOU were the one who gave us this\nruined world? No wonder the pair of you\nseemed so very strange."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_160": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Pandora will grant any wish you ask—at least\nat first. But it cares not for what happens\nafter that wish is granted. I knew this well,\nyet chose to rely on it anyway."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_170": {
+    "speaker": "Siugnas_Darkking",
+    "text": "So if you manage to close Pandora,\nyour atonement will be complete?\fThen let us set off on a journey to\nclose the thing, for only that will\nlead us to the darkness in your heart."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_180": {
+    "speaker": "Junkman",
+    "text": "Nice idea, but how will you find it?\nWait, dumb question. Clearly that guy\nright there knows, since he's the one\nwho opened it to begin with."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_190": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Me? Ha! I don't even know what the\ndamnable thing <i>looks</i> like anymore,\nbecause it's always changing its form!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_DIVING_100_CUT_010_200": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Walk forward without fear, Warrior.\nIf we follow the darkness in your heart,\nit will surely lead us to what we seek."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_100_CUT_000_020": {
+    "speaker": "Wiseman",
+    "text": "Fear not. The darkness within you cannot\ngrow larger than you yourself."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_100_CUT_000_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "What know you of Pandora?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_100_CUT_000_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I take that to mean you know how to\nclose Pandora. Why do you not do so?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_100_CUT_000_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "It seems closing Pandora is your task\nafter all, Warrior. Let us move forward\nand tackle it with gusto."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE1_WARSHIP_100_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "We have found Pandora, but lack the\nknowledge to close it. We must find\nsome way to emerge victorious over it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FIRSTSTOP_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There looks to be something ahead,\nbut the flow of sand is fast enough\nto impede our passing."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Those who are destined to die ever cling\nto life, yet even this most sizeable ship\nis now exposing its corpse for all to see."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_100_CUT_000_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "My village was quite a ways from the sea,\nso this is my first time seeing a ship so large.\nBrighthome wasn't home to any oceans,\nas you well know."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_100_CUT_010_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "There are signs of life inside."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_100_CUT_010_070": {
+    "speaker": "Engineer",
+    "text": "Pandora plunged this world first into\nwar and then into ruin—and that is how\nit remains. We who reside here must now\nlive on and one day see it closed."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_100_CUT_010_080": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Yet I'm the one who opened the\ndoor to Pandora to begin with."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_100_CUT_010_130": {
+    "speaker": "Engineer",
+    "text": "You people sure say some strange things.\nEr, not that I blame you for wanting to\nescape into your own reality rather than\ncontinue in a barren wasteland like this."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_FERRY_100_CUT_010_160": {
+    "speaker": "Engineer",
+    "text": "Well, I'm counting on the two of you\nto close Pandora, but do you even know\nwhere you're going to find it?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_WARSHIP_100_CUT_000_050": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Something comes, Count!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_100_CUT_000_060": {
+    "speaker": "Professor",
+    "text": "Closing Pandora will be no easy task.\nI feel how much pressure you're under,\nbut I'm convinced you'll pull through\nand be the ones to finally close it."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE2_AIRSHIP_100_CUT_020_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "If you would forge a legend, you must\nfirst build the facts it is based on.\nTo that end, you require another\nstrategy in order to close Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This battleship has fallen to ruin, yet its\ndesire to cause destruction can still be felt.\nWhat manner of people will we find in here?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_100_CUT_000_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "I remember being captivated by battleships\nlike these when I was a child—I must have\nhad a craving for power even then. Just how\nlong have I been <i>gone</i> from this place!?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_100_CUT_010_080": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Then Pandora DID cause all this!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_100_CUT_010_090": {
+    "speaker": "Wiseman",
+    "text": "You were the one who first opened\nits lid. I knew so all along."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_100_CUT_010_160": {
+    "speaker": "Wiseman",
+    "text": "You cannot atone for what is done,\nbut you can do new good."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_100_CUT_010_170": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Let us make for the submarine,\nfor there will we find Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_100_CUT_010_180": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Pandora is constantly changing forms.\nI wonder what it looks like now?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_WARSHIP_100_CUT_010_190": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Its current form is no doubt a\nprojection of the dark within you."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_100_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "I am Siugnas, the Dismal King. I came from\nanother world in search of captivating\ndarkness, and am currently on the way\nto the submarine to close Pandora."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_100_CUT_000_030": {
+    "speaker": "Professor",
+    "text": "You came to seal Pandora!? Excellent!\nI am the Professor, a researcher of the\nCrowrealm's history who is also seeking\na way to seal Pandora for good.\fHow did you learn that Pandora is\nin the submarine? Did your powers\nof darkness tell you this?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_100_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "One calling himself the Wiseman told us\nwe would find it there. We will not know\nif his words are true until we go there\nourselves and see, however."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_100_CUT_000_050": {
+    "speaker": "Professor",
+    "text": "If the Wiseman said that,\nit is the truth."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_AIRSHIP_100_CUT_000_060": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Something comes, Count!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_100_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "This must be the submarine.\nAre you ready to face Pandora, Warrior?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_100_CUT_000_020": {
+    "speaker": "Siugnas_Darkking",
+    "text": "The act of closing Pandora and atoning for\nyour sins will reveal the darkness in your\nheart—for that was the cause of all of this,\nand not Pandora itself.\f...And I would see that darkness."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_100_CUT_000_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You must face Pandora with that fear\nin your heart. That is how I wish it\nto be done."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_100_CUT_010_030": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Look around you. Naught but sand.\nYou never opened anything, Warrior.\fHear me, humans! There is no such thing\nas Pandora! You did this to your world\nwith your own actions, and blamed Pandora\nso you might avoid that truth!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_100_CUT_010_040": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Your weak hearts created a darkness of\nalmost incalculable size, and it is\na thing <i>most</i> fascinating!"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_100_CUT_020_050": {
+    "speaker": "Siugnas_Darkking",
+    "text": "You had nothing to atone for, Warrior.\nYet you felt you bore a great weight\non your shoulders, which is why you\ncould make no amends in Brighthome."
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_100_CUT_020_060": {
+    "speaker": "Scarecrow",
+    "text": "And will I gain a stronger heart\nif I serve you, O Dismal King?"
+  },
+  "SUB_W13_EVAR_SIUG_ROUTE3_DIVING_100_CUT_020_070": {
+    "speaker": "Siugnas_Darkking",
+    "text": "Heh. Good. I see you have not\nchanged as a result of all this."
+  },
+  "SUB_W13_EVAR_SIUG_RETURN_000_CUT_000_000": {
+    "speaker": "Siugnas_Darkking",
+    "text": "In the end, your atonement remains\nincomplete. Is this acceptable?"
+  },
+  "SUB_W13_EVAR_SIUG_RETURN_000_CUT_000_010": {
+    "speaker": "Ilmurran_Einherjar",
+    "text": "Yes. I managed to settle things with Pandora,\nwhich is enough for me. Now I can finally get\nback to living like I always have!"
+  }
+}

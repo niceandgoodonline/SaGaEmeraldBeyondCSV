@@ -1,0 +1,106 @@
+{
+  "W07_EVAR_MIDO_RETURN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Your Next Destination Awaits"
+  },
+  "W07_EVAR_MIDO_RETURN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired the spirit's power. Head to your next destination."
+  },
+  "W07_EVAR_MIDO_RETURN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Cinq"
+  },
+  "W07_EVAR_MIDO_RETURN_040_TITLE": {
+    "speaker": "UI",
+    "text": "Return to Miyako City"
+  },
+  "W07_EVAR_MIDO_RETURN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You’ve acquired all the spiritual power you need. Time to head back to the heavens and search for the door to Miyako City."
+  },
+  "W07_EVAR_MIDO_RETURN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Cinq"
+  },
+  "W07_EVAR_MIDO_TEMPLESOUL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Coping With Disappointment"
+  },
+  "W07_EVAR_MIDO_TEMPLESOUL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You opted not to receive a reward. Was that really the correct choice?"
+  },
+  "W07_EVAR_MIDO_TEMPLESOUL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Soul Temple"
+  },
+  "W07_EVAR_MIDO_TEMPLESOUL_001_TITLE": {
+    "speaker": "UI",
+    "text": "At Wit's End"
+  },
+  "W07_EVAR_MIDO_TEMPLESOUL_001_DETAIL": {
+    "speaker": "UI",
+    "text": "You fought the spirit you already had. Where's the spirit you're meant to find in this world?"
+  },
+  "W07_EVAR_MIDO_TEMPLESOUL_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Soul Temple"
+  },
+  "W07_EVAR_MIDO_SPIRIT_KA_000_TITLE": {
+    "speaker": "UI",
+    "text": "Seeking a Fire Spirit's Power"
+  },
+  "W07_EVAR_MIDO_SPIRIT_KA_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Can the power of a fire spirit be acquired in a place like this?"
+  },
+  "W07_EVAR_MIDO_SPIRIT_KA_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Spirit"
+  },
+  "W07_EVAR_MIDO_SPIRIT_MOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Seeking a Wood Spirit's Power"
+  },
+  "W07_EVAR_MIDO_SPIRIT_MOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Can the power of a wood spirit be acquired in a place like this?"
+  },
+  "W07_EVAR_MIDO_SPIRIT_MOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Spirit"
+  },
+  "W07_EVAR_MIDO_SPIRIT_KIN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Seeking a Metal Spirit's Power"
+  },
+  "W07_EVAR_MIDO_SPIRIT_KIN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Can the power of a metal spirit be acquired in a place like this?"
+  },
+  "W07_EVAR_MIDO_SPIRIT_KIN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Spirit"
+  },
+  "W07_EVAR_MIDO_SPIRIT_SUI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Seeking a Water Spirit's Power"
+  },
+  "W07_EVAR_MIDO_SPIRIT_SUI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Can the power of a water spirit be acquired in a place like this?"
+  },
+  "W07_EVAR_MIDO_SPIRIT_SUI_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Challenge the Spirit"
+  },
+  "W07_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Cinq: World of the Four Tribes"
+  },
+  "W07_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found the ruins of what was likely a temple on the other side of the door. Four tribes inhabit this world—and who knows which one can help you track down spirits?"
+  }
+}

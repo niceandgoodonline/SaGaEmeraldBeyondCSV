@@ -1,0 +1,298 @@
+{
+  "TANGRAM_PIECE_NAME_W03_GLUTTONY_KEY": {
+    "speaker": "UI",
+    "text": "Gluttony's Key"
+  },
+  "TANGRAM_PIECE_NAME_W03_GLUTTONY_KEY_DESC": {
+    "speaker": "UI",
+    "text": "A key imbued with Gluttony's desire."
+  },
+  "TANGRAM_PIECE_NAME_W03_LUST_KEY": {
+    "speaker": "UI",
+    "text": "Lust's Key"
+  },
+  "TANGRAM_PIECE_NAME_W03_LUST_KEY_DESC": {
+    "speaker": "UI",
+    "text": "A key imbued with Lust's desire."
+  },
+  "TANGRAM_PIECE_NAME_W03_SLOTH_KEY": {
+    "speaker": "UI",
+    "text": "Sloth's Key"
+  },
+  "TANGRAM_PIECE_NAME_W03_SLOTH_KEY_DESC": {
+    "speaker": "UI",
+    "text": "A key imbued with Sloth's desire."
+  },
+  "TANGRAM_PIECE_NAME_W03_RAGE_KEY": {
+    "speaker": "UI",
+    "text": "Wrath's Key"
+  },
+  "TANGRAM_PIECE_NAME_W03_RAGE_KEY_DESC": {
+    "speaker": "UI",
+    "text": "A key imbued with Wrath's desire."
+  },
+  "TANGRAM_PIECE_NAME_W12_SYMBOLPART01": {
+    "speaker": "UI",
+    "text": "Artifact Fragment"
+  },
+  "TANGRAM_PIECE_NAME_W12_SYMBOLPART01_DESC": {
+    "speaker": "UI",
+    "text": "A fragment of an artifact from the Imperial era."
+  },
+  "TANGRAM_PIECE_NAME_W12_SYMBOLPART02": {
+    "speaker": "UI",
+    "text": "Artifact Fragment"
+  },
+  "TANGRAM_PIECE_NAME_W12_SYMBOLPART02_DESC": {
+    "speaker": "UI",
+    "text": "A fragment of an artifact from the Imperial era."
+  },
+  "TANGRAM_PIECE_NAME_W12_SYMBOLPART03": {
+    "speaker": "UI",
+    "text": "Artifact Fragment"
+  },
+  "TANGRAM_PIECE_NAME_W12_SYMBOLPART03_DESC": {
+    "speaker": "UI",
+    "text": "A fragment of an artifact from the Imperial era."
+  },
+  "TANGRAM_PIECE_NAME_W12_SYMBOLPART04": {
+    "speaker": "UI",
+    "text": "Rhombic Artifact Fragment"
+  },
+  "TANGRAM_PIECE_NAME_W12_SYMBOLPART04_DESC": {
+    "speaker": "UI",
+    "text": "A fragment of an artifact from the Imperial era."
+  },
+  "TANGRAM_PIECE_NAME_W10_TRIANGLE": {
+    "speaker": "UI",
+    "text": "Triangular Scrap of Paper"
+  },
+  "TANGRAM_PIECE_NAME_W10_TRIANGLE_DESC": {
+    "speaker": "UI",
+    "text": "Seems to be a scrap of paper ripped from a book."
+  },
+  "Tangram_Piece_Name_W01_JizoRed": {
+    "speaker": "UI",
+    "text": "Red Tile"
+  },
+  "Tangram_Piece_Name_W01_JizoRed_Description": {
+    "speaker": "UI",
+    "text": "A tile from which emanates a most mysterious power."
+  },
+  "Tangram_Piece_Name_W01_JizoYellow": {
+    "speaker": "UI",
+    "text": "Yellow Tile"
+  },
+  "Tangram_Piece_Name_W01_JizoYellow_Description": {
+    "speaker": "UI",
+    "text": "A tile from which emanates a most mysterious power."
+  },
+  "Tnagram_Piece_Name_W01_JizoWhite": {
+    "speaker": "UI",
+    "text": "White Tile"
+  },
+  "Tnagram_Piece_Name_W01_JizoWhite_Description": {
+    "speaker": "UI",
+    "text": "A tile from which emanates a most mysterious power."
+  },
+  "Tangram_Piece_Name_W01_JizoBlack": {
+    "speaker": "UI",
+    "text": "Black Tile"
+  },
+  "Tangram_Piece_Name_W01_JizoBlack_Description": {
+    "speaker": "UI",
+    "text": "A tile from which emanates a most mysterious power."
+  },
+  "Tangram_Piece_Name_W01_JizoBlue": {
+    "speaker": "UI",
+    "text": "Blue Tile"
+  },
+  "Tangram_Piece_Name_W01_JizoBlue_Description": {
+    "speaker": "UI",
+    "text": "A tile from which emanates a most mysterious power."
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_1_1": {
+    "speaker": "UI",
+    "text": "Lela's Epuyke Tablet"
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_1_1_DESC": {
+    "speaker": "UI",
+    "text": "One of three fragments of the tablet required for Lela's Trial of Wisdom."
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_1_2": {
+    "speaker": "UI",
+    "text": "Lela's Epuyke Tablet"
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_1_2_DESC": {
+    "speaker": "UI",
+    "text": "One of three fragments of the tablet required for Lela's Trial of Wisdom."
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_1_3": {
+    "speaker": "UI",
+    "text": "Lela's Epuyke Tablet"
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_1_3_DESC": {
+    "speaker": "UI",
+    "text": "One of three fragments of the tablet required for Lela's Trial of Wisdom."
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_2_1": {
+    "speaker": "UI",
+    "text": "Chup's Epuyke Tablet"
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_2_1_DESC": {
+    "speaker": "UI",
+    "text": "One of three fragments of the tablet required for Chup's Trial of Wisdom."
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_2_2": {
+    "speaker": "UI",
+    "text": "Chup's Epuyke Tablet"
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_2_2_DESC": {
+    "speaker": "UI",
+    "text": "One of three fragments of the tablet required for Chup's Trial of Wisdom."
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_2_3": {
+    "speaker": "UI",
+    "text": "Chup's Epuyke Tablet"
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_2_3_DESC": {
+    "speaker": "UI",
+    "text": "One of three fragments of the tablet required for Chup's Trial of Wisdom."
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_3_1": {
+    "speaker": "UI",
+    "text": "Nana's Epuyke Tablet"
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_3_1_DESC": {
+    "speaker": "UI",
+    "text": "One of three fragments of the tablet required for Nana's Trial of Wisdom."
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_3_2": {
+    "speaker": "UI",
+    "text": "Nana's Epuyke Tablet"
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_3_2_DESC": {
+    "speaker": "UI",
+    "text": "One of three fragments of the tablet required for Nana's Trial of Wisdom."
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_3_3": {
+    "speaker": "UI",
+    "text": "Nana's Epuyke Tablet"
+  },
+  "TANGRAM_PIECE_NAME_W11_SEKIBAN_3_3_DESC": {
+    "speaker": "UI",
+    "text": "One of three fragments of the tablet required for Nana's Trial of Wisdom."
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM01": {
+    "speaker": "UI",
+    "text": "Ritgram Shard 1"
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM01_DESC": {
+    "speaker": "UI",
+    "text": "A mysterious geometrical shape known as a Ritgram Shard."
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM02": {
+    "speaker": "UI",
+    "text": "Ritgram Shard 2"
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM02_DESC": {
+    "speaker": "UI",
+    "text": "A mysterious geometrical shape known as a Ritgram Shard."
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM03": {
+    "speaker": "UI",
+    "text": "Ritgram Shard 3"
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM03_DESC": {
+    "speaker": "UI",
+    "text": "A mysterious geometrical shape known as a Ritgram Shard."
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM04": {
+    "speaker": "UI",
+    "text": "Ritgram Shard 4"
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM04_DESC": {
+    "speaker": "UI",
+    "text": "A mysterious geometrical shape known as a Ritgram Shard."
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM05": {
+    "speaker": "UI",
+    "text": "Ritgram Shard 5"
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM05_DESC": {
+    "speaker": "UI",
+    "text": "A mysterious geometrical shape known as a Ritgram Shard."
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM06": {
+    "speaker": "UI",
+    "text": "Ritgram Shard 6"
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM06_DESC": {
+    "speaker": "UI",
+    "text": "A mysterious geometrical shape known as a Ritgram Shard."
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM07": {
+    "speaker": "UI",
+    "text": "Ritgram Shard 7"
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM07_DESC": {
+    "speaker": "UI",
+    "text": "A mysterious geometrical shape known as a Ritgram Shard."
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM08": {
+    "speaker": "UI",
+    "text": "Ritgram Shard 8"
+  },
+  "TANGRAM_PIECE_NAME_C01_TRIANGULUM08_DESC": {
+    "speaker": "UI",
+    "text": "A mysterious geometrical shape known as a Ritgram Shard."
+  },
+  "TANGRAM_PIECE_NAME_W09_SIGN01": {
+    "speaker": "UI",
+    "text": "Avalon's Triangle"
+  },
+  "TANGRAM_PIECE_NAME_W09_SIGN01_DESC": {
+    "speaker": "UI",
+    "text": "A triangle that possesses an enigmatic power. A number of them must be collected."
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_BLA": {
+    "speaker": "UI",
+    "text": "Fragment of the Black Witch's Heart"
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_BLA_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A fragment of a black heart that emanates sadness."
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_BLU": {
+    "speaker": "UI",
+    "text": "Fragment of the Blue Witch's Heart"
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_BLU_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A fragment of a blue heart that emanates sadness."
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_RED": {
+    "speaker": "UI",
+    "text": "Fragment of the Red Witch's Heart"
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_RED_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A fragment of a red heart that emanates sadness."
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_YEL": {
+    "speaker": "UI",
+    "text": "Fragment of the Yellow Witch's Heart"
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_YEL_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A fragment of a yellow heart that emanates sadness."
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_WHI": {
+    "speaker": "UI",
+    "text": "Fragment of the White Witch's Heart"
+  },
+  "Tangram_Piece_Name_W02_WITCH_HEART_WHI_DESCRIPTION": {
+    "speaker": "UI",
+    "text": "A fragment of a white heart that emanates sadness."
+  }
+}

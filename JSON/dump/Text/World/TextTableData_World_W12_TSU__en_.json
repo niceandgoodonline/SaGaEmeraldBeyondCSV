@@ -1,0 +1,106 @@
+{
+  "W12_EVAR_MIDO_REMNANT_000_TITLE": {
+    "speaker": "UI",
+    "text": "An Unfrozen Person"
+  },
+  "W12_EVAR_MIDO_REMNANT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found someone who isn't frozen."
+  },
+  "W12_EVAR_MIDO_REMNANT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk"
+  },
+  "W12_EVAR_MIDO_SUI_000_TITLE": {
+    "speaker": "UI",
+    "text": "Mediocre Spirit"
+  },
+  "W12_EVAR_MIDO_SUI_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Apparently there's a spirit here you could easily wipe the floor with."
+  },
+  "W12_EVAR_MIDO_SUI_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W12_EVAR_MIDO_SUI_100_TITLE": {
+    "speaker": "UI",
+    "text": "Appropriately Powerful Spirit"
+  },
+  "W12_EVAR_MIDO_SUI_100_DETAIL": {
+    "speaker": "UI",
+    "text": "Apparently there's a reasonably powerful spirit here."
+  },
+  "W12_EVAR_MIDO_SUI_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W12_EVAR_MIDO_SUI_200_TITLE": {
+    "speaker": "UI",
+    "text": "To Be Strong"
+  },
+  "W12_EVAR_MIDO_SUI_200_DETAIL": {
+    "speaker": "UI",
+    "text": "Apparently there's a spirit here that would be a worthy challenge for one who is truly strong."
+  },
+  "W12_EVAR_MIDO_SUI_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W12_EVAR_MIDO_SUI_300_TITLE": {
+    "speaker": "UI",
+    "text": "Absurdly Powerful Spirit"
+  },
+  "W12_EVAR_MIDO_SUI_300_DETAIL": {
+    "speaker": "UI",
+    "text": "Apparently there's an incredibly powerful spirit here."
+  },
+  "W12_EVAR_MIDO_SUI_300_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight the Spirit"
+  },
+  "W12_EVAR_MIDO_SUI_001_TITLE": {
+    "speaker": "UI",
+    "text": "A Spirit's Presence"
+  },
+  "W12_EVAR_MIDO_SUI_001_DETAIL": {
+    "speaker": "UI",
+    "text": "It feels like there's a spirit here, but you can't be certain."
+  },
+  "W12_EVAR_MIDO_SUI_001_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Presence"
+  },
+  "W12_EVAR_MIDO_RETURN_010_TITLE": {
+    "speaker": "UI",
+    "text": "Exit to the Heavens"
+  },
+  "W12_EVAR_MIDO_RETURN_010_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired a spirit's power. Head back to the Heavens and search for a world that has another one."
+  },
+  "W12_EVAR_MIDO_RETURN_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Heavens"
+  },
+  "W12_EVAR_MIDO_RETURN_040_TITLE": {
+    "speaker": "UI",
+    "text": "Exit to the Heavens"
+  },
+  "W12_EVAR_MIDO_RETURN_040_DETAIL": {
+    "speaker": "UI",
+    "text": "You acquired power from all the spirits. Time to head back to the Heavens and search for the door to Miyako City."
+  },
+  "W12_EVAR_MIDO_RETURN_040_BUTTON": {
+    "speaker": "UI",
+    "text": "Return to the Heavens"
+  },
+  "W12_WRLD_MIDO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Grelon: The Frozen World"
+  },
+  "W12_WRLD_MIDO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You found a world on the other side of the door where everything is encased in ice—which is odd, because the world isn't that cold. Find someone who isn't frozen and see what they know."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "W19_WRLD_SIUG_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "The World of the Colossal Tree"
+  },
+  "W19_WRLD_SIUG_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You descended upon the Great Tree—a world teeming with life. It's too early to tell if there is darkness in this world."
+  },
+  "W19_EVAR_SIUG_KENZOKU_000_TITLE": {
+    "speaker": "UI",
+    "text": "Wolf Pup"
+  },
+  "W19_EVAR_SIUG_KENZOKU_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W19_EVAR_SIUG_KENZOKU_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W19_EVAR_SIUG_KENZOKU_010_TITLE": {
+    "speaker": "UI",
+    "text": "Beaver"
+  },
+  "W19_EVAR_SIUG_KENZOKU_010_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W19_EVAR_SIUG_KENZOKU_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W19_EVAR_SIUG_KENZOKU_020_TITLE": {
+    "speaker": "UI",
+    "text": "Owl"
+  },
+  "W19_EVAR_SIUG_KENZOKU_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W19_EVAR_SIUG_KENZOKU_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W19_EVAR_SIUG_KENZOKU_030_TITLE": {
+    "speaker": "UI",
+    "text": "Ant"
+  },
+  "W19_EVAR_SIUG_KENZOKU_030_DETAIL": {
+    "speaker": "UI",
+    "text": "Someone captivating is in this area."
+  },
+  "W19_EVAR_SIUG_KENZOKU_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Speak to Them"
+  },
+  "W19_EVAR_SIUG_WORLDEXIT_000_TITLE": {
+    "speaker": "UI",
+    "text": "To the Conjoined Worlds"
+  },
+  "W19_EVAR_SIUG_WORLDEXIT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Is there still darkness to be found in this world?"
+  },
+  "W19_EVAR_SIUG_WORLDEXIT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave the Great Tree"
+  }
+}

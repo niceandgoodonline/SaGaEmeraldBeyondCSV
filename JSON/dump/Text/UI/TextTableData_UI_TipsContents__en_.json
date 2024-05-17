@@ -1,0 +1,1634 @@
+{
+  "Tips_BT01_007_00_Caption": {
+    "speaker": "UI",
+    "text": "United Attacks"
+  },
+  "Tips_WL00_001_00_Caption": {
+    "speaker": "UI",
+    "text": "Adventuring Basics 1"
+  },
+  "Tips_WL00_001_00_Description": {
+    "speaker": "UI",
+    "text": "Try pressing the <b>Scan</b> button after arriving in a world for the first time.\nParticles will fly throughout the area. When the <b>scan</b> is complete,\na <b>vision</b> will appear at your destination.\nEven if you've already done a <b>scan</b> in a world,\nthere are some occasions when you can <b>scan</b> again."
+  },
+  "Tips_WL00_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Adventuring Basics 2"
+  },
+  "Tips_WL00_002_00_Description": {
+    "speaker": "UI",
+    "text": "The string of light connecting a <b>vision</b> to\na protagonist is called a <b>wave</b>.\nInteracting with <b>visions</b> causes all sorts of events to occur,\nand engaging with such events drives the game forward.\nThere are even times when new <b>visions</b> appear as you progress."
+  },
+  "Tips_WL00_003_00_Caption": {
+    "speaker": "UI",
+    "text": "Story Events"
+  },
+  "Tips_WL00_003_00_Description": {
+    "speaker": "UI",
+    "text": "Visions often contain <b>story events</b> that drive the game forward.\nBy pressing the <b>Rewind</b> button during such events,\nyou can go back through the story and make new choices if you wish.\nVisions of this type sometimes contain other events as well,\nsuch as fights or ritgram puzzles."
+  },
+  "Tips_WL00_007_00_Caption": {
+    "speaker": "UI",
+    "text": "Combat Events"
+  },
+  "Tips_WL00_007_00_Description": {
+    "speaker": "UI",
+    "text": "Visions sometimes contain <b>combat events</b>.\nIf you see combat information being displayed,\nmake use of it to plan your strategy."
+  },
+  "Tips_WL00_008_00_Caption": {
+    "speaker": "UI",
+    "text": "Ritgram Events"
+  },
+  "Tips_WL00_008_00_Description": {
+    "speaker": "UI",
+    "text": "Visions may sometimes cause <b>ritgram events</b> to occur.\nIf a shard acquired elsewhere is required to solve it,\nyou will see <emoji Item_TgmPeace_big>shard information displayed.\nYou can choose whether or not to tackle visions like these\nafter ensuring you have the necessary <emoji Item_TgmPeace_big>shards."
+  },
+  "Tips_BA_000_00_Caption": {
+    "speaker": "UI",
+    "text": "About Ritgrams"
+  },
+  "Tips_BA_000_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Ritgrams</b> are puzzles solved by combining <emoji Item_TgmPeace_big>shards to create shapes.\nOnce all the <emoji Item_TgmPeace_big>shards have been put together to create a specific shape, the puzzle will be complete.\nSome <b>ritgrams</b> can only be completed by removing <emoji Item_TgmPeace_big>shards\nthat have already been placed and replacing them with something else,\nwhile others have only one specific way they can be solved."
+  },
+  "Tips_BA_001_00_Caption": {
+    "speaker": "UI",
+    "text": "Ritgram Notes"
+  },
+  "Tips_BA_001_00_Description": {
+    "speaker": "UI",
+    "text": "You can review all the ritgrams you've encountered\nvia the <b>Ritgrams Notes</b> section of the menu.\nIf there's a ritgram you're eager to solve, you can check\nthere to see if you have all the <emoji Item_TgmPeace_big>shards required\nto solve it before heading to the event that contains it."
+  },
+  "Tips_BA_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Saving and Loading"
+  },
+  "Tips_BA_002_00_Description": {
+    "speaker": "UI",
+    "text": "If you'd like to record the progress you've made on your\nadventure—or pick things up from a previous record—\ntry pressing the <b>Save / Load</b> button. Make sure not\nto turn off the power or close the game while any kind\nof saving or loading is in progress."
+  },
+  "Tips_BA_003_00_Caption": {
+    "speaker": "UI",
+    "text": "Starting the Game"
+  },
+  "Tips_BA_003_00_Description": {
+    "speaker": "UI",
+    "text": "Choose <b>New Game</b> to begin a brand new adventure.\nEven if you already have a playthrough going,\nstarting a new game will allow you to undertake\na new adventure with a different protagonist.\nChoosing <b>Continue</b> will resume your adventure\nfrom your most recently saved data."
+  },
+  "Tips_BA_004_00_Caption": {
+    "speaker": "UI",
+    "text": "Play Using Other Data"
+  },
+  "Tips_BA_004_00_Description": {
+    "speaker": "UI",
+    "text": "Resume your adventure using saved data belonging to\na protagonist other than the one you're currently using.\nStart the game with the <b>Play Using Other Data</b>\noption on the title screen. You can have saved data for\na variety of protagonists and store it on a per-playthrough\nbasis. Saved data can be deleted here as well."
+  },
+  "Tips_BA_005_00_Caption": {
+    "speaker": "UI",
+    "text": "Once You've Beaten It..."
+  },
+  "Tips_BA_005_00_Description": {
+    "speaker": "UI",
+    "text": "After completing the game, you can kick off a new playthrough\nvia the <b>New Game</b> option on the title screen.\nIf you would like to access data saved before this point,\nyou can find it by choosing the <b>Play Using Other Data</b> option\non the title screen."
+  },
+  "Tips_WL00_010_00_Caption": {
+    "speaker": "UI",
+    "text": "Checking Visions"
+  },
+  "Tips_WL00_010_00_Description": {
+    "speaker": "UI",
+    "text": "Pressing the <b>Scan Results</b> button will bring up\na list of all currently available visions and waves.\nIf there are any visions that interest you, marking it will\nbring up an indicator that leads you straight to it."
+  },
+  "Tips_WL00_004_00_Caption": {
+    "speaker": "UI",
+    "text": "Vision Types"
+  },
+  "Tips_WL00_004_00_Description": {
+    "speaker": "UI",
+    "text": "Visions marked with a <emoji ScanWavePin01> symbol are critical to\nthe main story, whereas visions marked with\na <emoji ScanWavePin03> symbol are side events that bear no direct\nrelation to the main story. Finally, visions\nmarked with a <emoji ScanWavePin02> symbol contain battles,\nmaking them the perfect choice for those looking\nto power up their retinue."
+  },
+  "Tips_RE00_000_00_Caption": {
+    "speaker": "UI",
+    "text": "The Junction"
+  },
+  "Tips_RE00_000_00_Description": {
+    "speaker": "UI",
+    "text": "The many worlds are connected by a place called <b>the Junction</b>.\nWhile there, try pressing the <b>Scan</b> button.\nParticles will fly around you, and when the scan is complete,\na door leading to your destination will appear.\nFollow the wave to the door and begin your adventure!"
+  },
+  "Tips_RE00_001_00_Caption": {
+    "speaker": "UI",
+    "text": "Direct Warp"
+  },
+  "Tips_RE00_001_00_Description": {
+    "speaker": "UI",
+    "text": "The act of traveling directly to a specific world is called\n<b>direct warping</b>. In the Junction, it is possible to\nhop directly to any world you've previously visited.\nAfter navigating to the Scan Results screen,\nswap to the <b>Direct Warp</b> tab and choose a world to visit."
+  },
+  "Tips_RE00_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Emerald Ride"
+  },
+  "Tips_RE00_002_00_Description": {
+    "speaker": "UI",
+    "text": "Pressing the <b>Emerald Ride</b> button while in the Junction\nwill place you directly on top of a wave, allowing you to travel\nthrough the area at high speeds. Give it a try the next time you\nfind a lot of distance between yourself and a door."
+  },
+  "Tips_RE00_003_00_Caption": {
+    "speaker": "UI",
+    "text": "High-Speed Mech Movement"
+  },
+  "Tips_RE00_003_00_Description": {
+    "speaker": "UI",
+    "text": "Pressing the <b>High Speed</b> button while in the Junction\nwill allow a mech to travel at higher speeds than normal.\nGive it a try the next time you find a lot of distance\nbetween yourself and the door you're planning to use."
+  },
+  "Tips_WL21_000_00_Caption": {
+    "speaker": "UI",
+    "text": "World-Specific Actions"
+  },
+  "Tips_WL21_000_00_Description": {
+    "speaker": "UI",
+    "text": "There are a number of special actions that can only\nbe performed in specific worlds. Whenever you visit\na new world, listen closely to whatever the various\ninhabitants have to say, and try not to skip any\nhelp messages that happen to pop up."
+  },
+  "Tips_WL08_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Cordycep"
+  },
+  "Tips_WL08_000_00_Description": {
+    "speaker": "UI",
+    "text": "Tope can tunnel through various places here.\nTry walking along walls to find them."
+  },
+  "Tips_WL09_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Avalon"
+  },
+  "Tips_WL09_000_00_Description": {
+    "speaker": "UI",
+    "text": "Pressing the <b>Panorama Map</b> button will let\nyou scope out the entirety of Avalon."
+  },
+  "Tips_WL14_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Providence"
+  },
+  "Tips_WL14_000_00_Description": {
+    "speaker": "UI",
+    "text": "You can spin the world while sitting in the chair,\nand intervene in any visions that appear directly\nin front of you."
+  },
+  "Tips_WL19_000_00_Caption": {
+    "speaker": "UI",
+    "text": "The Great Tree"
+  },
+  "Tips_WL19_000_00_Description": {
+    "speaker": "UI",
+    "text": "Pressing the <b>Call Eagle</b> button will let\nyou blow a flute that summons an eagle friend.\nDoing so gives you a bird's-eye view of the world,\nand even lets you return to your starting location\nwith your seeds and bugs reset if you so choose."
+  },
+  "Tips_BT01_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Combat Basics"
+  },
+  "Tips_BT01_000_00_Description": {
+    "speaker": "UI",
+    "text": "Choose what techs and spells characters will use,\nas well as who their targets will be. Once actions have\nbeen entered for all characters, press the <b>Confirm</b>\nbutton to proceed to the confirmation screen.\nOnce there, press the <b>Engage!</b> button to\njump into the action. Victory is achieved by defeating\nevery enemy on the battlefield."
+  },
+  "Tips_BT01_001_00_Caption": {
+    "speaker": "UI",
+    "text": "Actions (Techs/Spells/Defend)"
+  },
+  "Tips_BT01_001_00_Description": {
+    "speaker": "UI",
+    "text": "Generally speaking, there are two types of actions:\n<b>techs</b>, which are performed immediately,\nand <b>spells</b>, which take some time to chant\nbefore they can be performed. A character who is\nnot assigned either of these actions will <b>defend</b>."
+  },
+  "Tips_BT01_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Defense"
+  },
+  "Tips_BT01_002_00_Description": {
+    "speaker": "UI",
+    "text": "There are two types of defense: <b>blocking</b> and <b>evading</b>.\n<b>Blocking</b> reduces the power of incoming attacks,\nwhile <b>evading</b> dodges the attack completely.\nSome weapons and techs make it more likely for defensive\nmaneuvers to occur before or after a character acts."
+  },
+  "Tips_BT01_003_00_Caption": {
+    "speaker": "UI",
+    "text": "HP"
+  },
+  "Tips_BT01_003_00_Description": {
+    "speaker": "UI",
+    "text": "A character's <b>HP</b> decreases as they take damage.\nShould a character's <b>HP</b> reach 0 during battle,\nthey will be removed from the action.\nWhile <b>HP</b> is completely restored after each battle,\nthere's no way to replenish it during a fight."
+  },
+  "Tips_BT01_004_00_Caption": {
+    "speaker": "UI",
+    "text": "LP"
+  },
+  "Tips_BT01_004_00_Description": {
+    "speaker": "UI",
+    "text": "<b>LP</b> is lost when a character's HP reaches zero. When all of a character's <b>LP</b> has been depleted, they will no longer be able to participate in battles. Should this happen, remove them from your combat retinue and give them some time to rest—their <b>LP</b> will gradually return as they sit on the sidelines. The entire retinue's <b>LP</b> will be completely restored when you change worlds, and it's also possible to keep members in the action nonstop by giving them roles that restore LP."
+  },
+  "Tips_BT01_005_00_Caption": {
+    "speaker": "UI",
+    "text": "BP"
+  },
+  "Tips_BT01_005_00_Description": {
+    "speaker": "UI",
+    "text": "Performing techs and spells consumes <emoji BtlBPCost><b>BP</b>,\nwhich is shared amongst the entire retinue.\nEach tech and spell has its own set <emoji BtlBPCost><b>BP</b> cost,\nso try to make the most of the resources you have.\nAny <emoji BtlBPCost><b>BP</b> used will be replenished at the start of each turn.\nNote that the enemy is subject to the same <emoji BtlBPCost><b>BP</b> limitations\nas the player."
+  },
+  "Tips_BT01_006_00_Caption": {
+    "speaker": "UI",
+    "text": "The Timeline"
+  },
+  "Tips_BT01_006_00_Description": {
+    "speaker": "UI",
+    "text": "The <b>timeline</b> along the bottom of the screen shows\nthe order in which characters will act during combat.\nThe farther a character is to the left, the sooner they will act.\nConversely, being farther to the right means acting later.\nSome techs and spells can change a character's action order."
+  },
+  "Tips_BT01_007_00_Description": {
+    "speaker": "UI",
+    "text": "When allies string together the <emoji CoopRange01>combo ranges of their techs and spells, they will perform a United Attack. Actions that <emoji CoopRange04>cannot be used in a combo will break the string, and actions with a <emoji CoopRange05>combo range of 0 will be skipped. The more characters that participate in a United Attack, the higher your shared combo rate will climb—and the more damage you will dish out."
+  },
+  "Tips_BT01_008_00_Caption": {
+    "speaker": "UI",
+    "text": "Overdrive"
+  },
+  "Tips_BT01_008_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Overdrive</b> happens when a handful of chosen characters\nperform another United Attack after the first one ends.\nYour retinue has a chance of kicking into <b>overdrive</b> when\nyour combo rate reaches 150%, with <b>overdrive</b> being\nguaranteed once you've reached 200%. Your combo rate also\naffects how many characters participate in an <b>overdrive</b> combo."
+  },
+  "Tips_BT01_009_00_Caption": {
+    "speaker": "UI",
+    "text": "Showstoppers"
+  },
+  "Tips_BT01_009_00_Description": {
+    "speaker": "UI",
+    "text": "Characters surrounded by two empty spaces on either side of them in the timeline will execute a <b>showstopper</b>. During a showstopper, the character will execute a United Attack by themselves using the techs and spells that they have learned. The showstopper will continue for as long as there is <emoji BtlBPCost>BP remaining to consume. Effects which activate at the start or conclusion of a United Attack will not be applied."
+  },
+  "Tips_BT01_010_00_Caption": {
+    "speaker": "UI",
+    "text": "Reattempt"
+  },
+  "Tips_BT01_010_00_Description": {
+    "speaker": "UI",
+    "text": "The vast majority of battles can be <b>reattempted</b> so long\nas the characters in your battle retinue have LP remaining.\nYou will have a higher starting combo rate in battles you\n<b>reattempt</b>, while growths and LP losses incurred will\nbe carried over. Should a battle give you trouble over and over\nyou might want to try other approaches, like changing your\n<b>formation</b> or <b>enhancing your armaments</b>."
+  },
+  "Tips_BT01_011_00_Caption": {
+    "speaker": "UI",
+    "text": "Combat Information"
+  },
+  "Tips_BT01_011_00_Description": {
+    "speaker": "UI",
+    "text": "You can review information about a battle before jumping\ninto it, giving you the chance to review details about\nenemies you've fought before, items that can be acquired,\nand any trials you've accepted from Mr. S.\nAfter looking over this information, you can either jump\nright into the action or take a moment to prepare."
+  },
+  "Tips_BT01_012_00_Caption": {
+    "speaker": "UI",
+    "text": "Acquired Items"
+  },
+  "Tips_BT01_012_00_Description": {
+    "speaker": "UI",
+    "text": "Defeating enemies in battle lets you acquire items once the\nengagement is complete. Also, should you destroy things\nlike stones or chunks of ore that appear during battle,\nyou just might receive special items for your trouble.\nBattles with stones or wooden boxes can be won without\ndestroying them, but if you're interested in acquiring\nas many items as possible, make an effort to target them."
+  },
+  "Tips_BT02_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Combat Retinue"
+  },
+  "Tips_BT02_000_00_Description": {
+    "speaker": "UI",
+    "text": "Choose five members of your group to take to the battlefield as\nyour combat retinue. Members who currently have 0 LP or are\nundergoing Mr. S's tutelage cannot join the combat retinue.\nShould you ever find yourself up against foes that are giving\nyou trouble, try putting different characters into your retinue."
+  },
+  "Tips_BT02_001_00_Caption": {
+    "speaker": "UI",
+    "text": "Formations"
+  },
+  "Tips_BT02_001_00_Description": {
+    "speaker": "UI",
+    "text": "Battles are fought with your retinue organized into what's called a <b>formation</b>. Your <b>formation</b> affects many things, including your starting <emoji BtlBPCost>BP and how it increases throughout a fight, what modifiers are applied to your attack power and defense, and what other effects are shared across your retinue. There are also times when a character's placement within a <b>formation</b> yields further effects. <b>Formations</b> are sometimes acquired when someone joins your retinue for the first time."
+  },
+  "Tips_BT02_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Support Retinue"
+  },
+  "Tips_BT02_002_00_Description": {
+    "speaker": "UI",
+    "text": "It is possible to designate a sixth person as a <b>support retinue</b> member who will assist in fights without directly participating in combat. Some characters even possess special <b>support roles</b> that yield helpful benefits in battle and activate only when placed in your <b>support retinue</b>. Not that some characters are actually incapable of fighting, and cannot participate in any capacity outside of your <b>support retinue</b>."
+  },
+  "Tips_BT02_003_00_Caption": {
+    "speaker": "UI",
+    "text": "Equipping Weapons and Armor"
+  },
+  "Tips_BT02_003_00_Description": {
+    "speaker": "UI",
+    "text": "Armaments are separated into <b>weapons, main armor, and auxiliary armor</b> depending on where they are equipped. The number and type of armaments a character can equip is determined by their race. Additionally, there are some armaments that are race-specific. A character who has no weapon equipped will fight using martial arts."
+  },
+  "Tips_BT02_004_00_Caption": {
+    "speaker": "UI",
+    "text": "Setting Techs and Spells"
+  },
+  "Tips_BT02_004_00_Description": {
+    "speaker": "UI",
+    "text": "Any <b>techs and spells</b> you have learned can be equipped and removed\nat will. However, <b>techs</b> cannot be performed in battle unless you've\nalso equipped a weapon capable of using it. Some armaments come with\ntheir own <b>tech or spell</b> attached, which will be indicated with a\nlight bulb icon. In such cases, you must equip the weapon before the\n<b>tech or spell</b> can be set."
+  },
+  "Tips_BT02_005_00_Caption": {
+    "speaker": "UI",
+    "text": "Mech Equipment"
+  },
+  "Tips_BT02_005_00_Description": {
+    "speaker": "UI",
+    "text": "Mechs do not possess specific equipment slots for weapons,\nmain armor, and auxiliary armor. Armaments can be equipped to\nany open slot, and mech techs will be automatically set depending\non the armaments they are outfitted with."
+  },
+  "Tips_BT02_006_00_Caption": {
+    "speaker": "UI",
+    "text": "Equipping Roles and Souls"
+  },
+  "Tips_BT02_006_00_Description": {
+    "speaker": "UI",
+    "text": "Characters can be equipped with something called <b>roles</b>.\n<b>Roles</b> possess a wide range of effects, and can be used to enhance members or your retinue in various ways. Some <b>roles</b> can be acquired by learning techs and spells, but there are others that some characters are simply born with. There are a number of <b> roles</b>—called <emoji Role_Soul><b>souls</b>—that can only be equipped by <i>kugutsu</i>. <emoji Role_Soul><b>Souls</b> are equipped to different slots than other <b>roles</b>."
+  },
+  "Tips_BT02_007_00_Caption": {
+    "speaker": "UI",
+    "text": "Optimize Armaments"
+  },
+  "Tips_BT02_007_00_Description": {
+    "speaker": "UI",
+    "text": "Pressing the <b>Optimize Armaments</b> button will\nautomatically set you up with an armament and tech/spell\nloadout that fits the conditions you specify."
+  },
+  "Tips_BT02_010_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Item_Material_Moku_big>Materials"
+  },
+  "Tips_BT02_010_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Item_Material_Moku_big><b>Materials</b> are used to enhance weapons and armor,\nand can be acquired by winning battles.\nMaterials can also be earned as rewards\nfor completing trials assigned by Mr. S."
+  },
+  "Tips_BT02_011_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Item_Gainen_big>Concepts"
+  },
+  "Tips_BT02_011_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Item_Gainen_big><b>Concepts</b> are used to enhance weapons and armor,\nand can be gleaned by advancing the story or winning battles.\nUnlike <emoji Item_Material_Moku_big>materials, <emoji Item_Gainen_big><b>concepts</b> can never be lost once acquired."
+  },
+  "Tips_BT02_012_00_Caption": {
+    "speaker": "UI",
+    "text": "Enhancing Armaments"
+  },
+  "Tips_BT02_012_00_Description": {
+    "speaker": "UI",
+    "text": "Armaments in your possession can be combined with other things\nto create <b>new armaments</b>. Doing this, however, requires\ncomponents called <emoji Item_Material_Moku_big>materials, and may sometimes\nrequire special components called <emoji Item_Gainen_big>concepts as well."
+  },
+  "Tips_WL00_009_00_Caption": {
+    "speaker": "UI",
+    "text": "Trading"
+  },
+  "Tips_WL00_009_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Trading</b> is a system by which you can exchange items\nwith others by putting your own items up for sale or bidding\non things that have been put up by someone else. If you trade\ndiligently, you may stumble on some delightfully unusual finds.\n<b>Item Trading</b> can be done at any time, and trades are\nupdated every time you change worlds or finish a battle."
+  },
+  "Tips_BT_MONSTER_008_00_Caption": {
+    "speaker": "UI",
+    "text": "Mr. S's Trials"
+  },
+  "Tips_BT_MONSTER_008_00_Description": {
+    "speaker": "UI",
+    "text": "Earn items by accepting trials from Mr. S and completing\nthem in combat. The number of trials available increases\nas various conditions are met, so be sure to attempt them\noften and win as many valuable items as possible."
+  },
+  "Tips_BT_CHARACTER_010_00_Caption": {
+    "speaker": "UI",
+    "text": "Mr. S's Tutelage"
+  },
+  "Tips_BT_CHARACTER_010_00_Description": {
+    "speaker": "UI",
+    "text": "Retinue members can be tutored to improve their parameters.\nMr. S is the only tutor available at the beginning,\nbut pupils can become tutors themselves by training until they\nacquire a special license—such training is more effective when\nthere is a large difference between the tutor's skill and that of\nthe pupil they are training. Note that members who are currently\nin your combat retinue or have no LP cannot be tutored."
+  },
+  "Tips_BT03_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Attributes"
+  },
+  "Tips_BT03_000_00_Description": {
+    "speaker": "UI",
+    "text": "Parameters that increase as characters do battle.\nA character's parameters are more likely to increase\nfollowing battles against mighty foes.\nThe parameters of mechs cannot increase."
+  },
+  "Tips_BT03_001_00_Caption": {
+    "speaker": "UI",
+    "text": "Strength"
+  },
+  "Tips_BT03_001_00_Description": {
+    "speaker": "UI",
+    "text": "<align='left'>Strength affects the following:\n- The power of techs that require raw might\nCompatible techs and spells:\n<emoji Weapon_LongSword>longsword techs, <emoji Weapon_Ax>axe techs, <emoji Weapon_LargeSword>greatsword techs,\n<emoji Weapon_Blade>katana techs, <emoji Weapon_Taijutsu>martial arts techs, <emoji Weapon_Mecha_Proximity>mech melee techs"
+  },
+  "Tips_BT03_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Dexterity"
+  },
+  "Tips_BT03_002_00_Description": {
+    "speaker": "UI",
+    "text": "<align='left'>Dexterity affects the following:\n- The power of techs that require fine motor skills\n- The likelihood of afflicting status ailments with techs\n- Resistance to some ailments (<emoji BtlEffectParalysis>paralysis, <emoji BtlEffectStone>petrification, stun)\nCompatible techs and spells:\n<emoji Weapon_Knife>Dagger techs, <emoji Weapon_Blade>katana techs, <emoji Weapon_Halberd>halberd techs, <emoji Weapon_Handgun>one-handed gun techs, <emoji Weapon_machineGun>machine gun techs, <emoji Weapon_Flamethrower>flamethrower techs, <emoji Weapon_BombGun>boomer techs, <emoji Weapon_ChemicalGun>catalyzer techs, <emoji Weapon_Mecha_Shooting>mech shooting techs"
+  },
+  "Tips_BT03_003_00_Caption": {
+    "speaker": "UI",
+    "text": "Mobility"
+  },
+  "Tips_BT03_003_00_Description": {
+    "speaker": "UI",
+    "text": "<align='left'>Mobility affects the following:\n- The power of techs that require nimble movement\nCompatible techs and spells:\n<emoji Weapon_FineSword>Foil techs, <emoji Weapon_Taijutsu>martial arts techs, <emoji Weapon_Mecha_Proximity>mech melee techs"
+  },
+  "Tips_BT03_004_00_Caption": {
+    "speaker": "UI",
+    "text": "Endurance"
+  },
+  "Tips_BT03_004_00_Description": {
+    "speaker": "UI",
+    "text": "<align='left'>Endurance affects the following:\n- The power of techs that slam your body into an opponent's\n- Reduction of damage caused by physical techs\n- Resistance to some ailments (<emoji BtlEffectPoison>poison, <emoji BtlEffectStink>stench, sudden death)\n- Recovery rate from some ailments (<emoji BtlEffectParalysis>paralysis, <emoji BtlEffectPoison>poison, <emoji BtlEffectStink>stench)\nCompatible techs and spells:\n<emoji Weapon_Taijutsu>Martial arts techs"
+  },
+  "Tips_BT03_005_00_Caption": {
+    "speaker": "UI",
+    "text": "Intelligence"
+  },
+  "Tips_BT03_005_00_Description": {
+    "speaker": "UI",
+    "text": "<align='left'>Intelligence affects the following:\n- The power of techs that require cleverness\n- The likelihood of afflicting status ailments with spells\n- Resistance to some ailments (<emoji BtlEffectConfusion>confusion, <emoji BtlEffectDarkness>darkness, distract)\nCompatible techs and spells:\n<emoji Weapon_Magic>Spells, <emoji Weapon_Mecha_Shooting>mech shooting techs"
+  },
+  "Tips_BT03_006_00_Caption": {
+    "speaker": "UI",
+    "text": "Acuity"
+  },
+  "Tips_BT03_006_00_Description": {
+    "speaker": "UI",
+    "text": "<align='left'>Acuity affects the following:\n- Reduction of damage caused by non-physical techs\n- Resistance to some ailments (<emoji BtlEffectParalysis>paralysis, <emoji BtlEffectPoison>poison, <emoji BtlEffectConfusion>confusion, <emoji BtlEffectDarkness>darkness, <emoji BtlEffectStone>petrification, <emoji BtlEffectStink>stench, stun, sudden death, distract)\n- Recovery rate from some ailments (<emoji BtlEffectAnger>frenzy, <emoji BtlEffectConfusion>confusion, <emoji BtlEffectDarkness>darkness)"
+  },
+  "Tips_BT03_007_00_Caption": {
+    "speaker": "UI",
+    "text": "Attack Types and Resistances"
+  },
+  "Tips_BT03_007_00_Description": {
+    "speaker": "UI",
+    "text": "Attacks that cause damage can be classified into seven <b>types</b>:\n<emoji Slash>slash, <emoji Strike>blunt, <emoji Stab>pierce, <emoji Fire>heat, <emoji Ice>cold,\n<emoji Lightning>shock, and <emoji Neutral>neutral. Characters also have resistances\nto these same <b>attack types</b>, and the greater one's <b>resistance</b>,\nthe less damage they take from such attacks."
+  },
+  "Tips_BT03_008_00_Caption": {
+    "speaker": "UI",
+    "text": "The Five Elements"
+  },
+  "Tips_BT03_008_00_Description": {
+    "speaker": "UI",
+    "text": "In the world of SaGa Emerald Beyond, the universe is thought\nto be composed entirely of <b>five distinct elements</b>:\n<emoji Element_Moku>wood, <emoji Element_Ka>fire, <emoji Element_Do>earth, <emoji Element_Gon>metal, and <emoji Element_Sui>water.\nSpells typically correspond to one of the <b>five elements</b>;\nthe higher one's skill level with an element,\nthe more damage spells of that type will do."
+  },
+  "Tips_BT03_009_00_Caption": {
+    "speaker": "UI",
+    "text": "Skills"
+  },
+  "Tips_BT03_009_00_Description": {
+    "speaker": "UI",
+    "text": "When you win battles in which you used techs and spells, there is a chance your <b>skill</b> levels corresponding to those actions will increase. The higher your <b>skill</b> level, the more damage corresponding actions will do. Some techs and spells are unaffected by skill levels, such as <emoji Weapon_Inheritance>inherited techs and <emoji Weapon_Mecha_Support>mech support techs. As your skill levels increase, you will unlock new slots in which roles can be equipped. <b>Skill</b> levels are more likely to increase following battles against tough foes."
+  },
+  "Tips_BT03_010_00_Caption": {
+    "speaker": "UI",
+    "text": "Ranking Up Techs & Skills"
+  },
+  "Tips_BT03_010_00_Description": {
+    "speaker": "UI",
+    "text": "Characters grow more proficient with techs and spells the more\nthey use them, which sometimes results in them <b>ranking up</b>.\nWhen a tech or spell's rank increases, it is typically improved in some\nway—such as reducing its <emoji BtlBPCost>BP cost or increases its power.\nDifferent techs and spells have different maximum ranks,\nwhich you'll know you've reached when the tech or spell\nis displayed with a crown symbol."
+  },
+  "Tips_BT03_011_00_Caption": {
+    "speaker": "UI",
+    "text": "Glimmers"
+  },
+  "Tips_BT03_011_00_Description": {
+    "speaker": "UI",
+    "text": "Characters will sometimes <b>glimmer</b> new techs during battle.\nShould a <b>glimmer</b> occur, it will be added to that character's\nrepertoire and performed on the spot, and is then available from\nthe next turn on. The kinds of techs that can be glimmered depends\non the weapon a character has equipped.\nGlimmers are more likely to occur during battles against mighty foes."
+  },
+  "Tips_BT04_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Your Retinue"
+  },
+  "Tips_BT04_000_00_Description": {
+    "speaker": "UI",
+    "text": "Your retinue can consist of <b>humanoids</b>, <b><i>kugutsu</i></b>, <b>monsters</b>,\nand <b>mechs</b>, which differ from each other in a number of ways.\nIn addition to having specific armaments they can equip,\ntechs and spells they can perform, and roles they can use,\nthey also grow in different ways."
+  },
+  "Tips_BT04_001_00_Caption": {
+    "speaker": "UI",
+    "text": "Humanoids"
+  },
+  "Tips_BT04_001_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Humanoids</b> consist of <b>humans</b>, <b>vampires</b>, <b>knights</b>,\n<b>wastrels</b>, and <b>ephemerals</b>. Of these, <b>humans</b>, <b>vampires</b>,\n<b>knights</b>, and <b>ephemerals</b> can learn techs by glimmering them."
+  },
+  "Tips_BT04_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Humans"
+  },
+  "Tips_BT04_002_00_Description": {
+    "speaker": "UI",
+    "text": "The defining trait of <b>humans</b> is their ability to use custom techs.\n<b>Witches</b>, who specialize in magic—as well as the <b>squires</b> who\nserve them—are <b>human</b> as well. Though <b>humans</b> can typically\nmake use of a wide variety of techs and spells, it must be noted that\n<b>squires</b> are incapable of learning spells."
+  },
+  "Tips_BT04_003_00_Caption": {
+    "speaker": "UI",
+    "text": "Vampires"
+  },
+  "Tips_BT04_003_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Vampires</b> can suck the blood of <b>humanoids</b> to increase\nthe number of <b>thralls</b> and <b>knights</b> under their command.\nBy equipping <emoji Weapon_Blood_big><b>sanguine gear</b>, they can also\nmake use of <emoji Role_Blood><b>sanguine roles</b>."
+  },
+  "Tips_BT_CHARACTER_016_00_Caption": {
+    "speaker": "UI",
+    "text": "Thralls"
+  },
+  "Tips_BT_CHARACTER_016_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Vampires</b> can turn <b>humanoids</b> into <b>thralls</b> by\nsucking their blood. The maximum LP of anyone turned into\na <b>thrall</b> will be reduced by 1, but they will retain any\nracial traits they had originally. <b>Vampires</b> acquire LP\nand <emoji Weapon_Blood><b>blood techs</b> by turning <b>humanoids</b>\ninto thralls."
+  },
+  "Tips_BT_CHARACTER_018_00_Caption": {
+    "speaker": "UI",
+    "text": "Knights"
+  },
+  "Tips_BT_CHARACTER_018_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Vampires</b> can turn <b>thralls</b> into <b>knights</b> by granting them special equipment called <emoji Weapon_Blood_big><b>sanguine gear</b>. A character who is <b>knighted</b> in this way will have their maximum LP increased by 3, and become able to use the same <emoji Role_Blood><b>sanguine roles</b> and <emoji Weapon_Blood><b>blood techs</b> that <b>vampires</b> do. <b>Vampires</b> are capable of swapping <emoji Weapon_Blood_big><b>sanguine gear</b> among <b>knights</b>. Once knighted, characters lose whatever racial traits they originally had."
+  },
+  "Tips_BT04_004_00_Caption": {
+    "speaker": "UI",
+    "text": "Wastrels"
+  },
+  "Tips_BT04_004_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Knights</b> turn into <b>wastrels</b> when divested of their <emoji Weapon_Blood><b>sanguine gear</b>\nby a <b>vampire</b>. <b>Wastrels</b> will have their maximum LP reduced to 1\nand lose the ability to use both <emoji Role_Blood><b>sanguine roles</b> and <emoji Weapon_Blood><b>blood techs</b>.\nThey will also lose the ability to learn new spells or glimmer new techs.\nA retinue member that has been turned into a <b>wastrel</b> can never\nbe returned to their original state."
+  },
+  "Tips_BT04_005_00_Caption": {
+    "speaker": "UI",
+    "text": "Ephemerals"
+  },
+  "Tips_BT04_005_00_Description": {
+    "speaker": "UI",
+    "text": "When an <b>ephemeral's</b> LP reaches 0, they can carry over their fighting style, techs, and spells into their next life through a process called <b>inheritance</b>. They can also make use of special techs called <emoji Weapon_Inheritance><b>inherited techs</b> that are learned through the <b>inheritance</b> process. Note that some characters possess a combination of traits inherent to both <b>ephemerals</b> and monsters."
+  },
+  "Tips_BT04_006_00_Caption": {
+    "speaker": "UI",
+    "text": "Ephemeral Roles"
+  },
+  "Tips_BT04_006_00_Description": {
+    "speaker": "UI",
+    "text": "Ephemerals are always equipped with an <emoji Role_Inheritance01><b>ephemeral role</b>.\nAs an ephemeral fights, their <emoji Role_Inheritance01><b>ephemeral role</b>\nwill gradually change from <emoji Role_Inheritance01><b>juvenile</b> to <emoji Role_Inheritance02><b>young</b> to <emoji Role_Inheritance03><b>mature</b>,\nand finally to <emoji Role_Inheritance04><b>elder</b>. The role grows stronger\nas it changes, but also decreases the character's maximum LP."
+  },
+  "Tips_BT04_007_00_Caption": {
+    "speaker": "UI",
+    "text": "Inheritance"
+  },
+  "Tips_BT04_007_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Inheritance</b> occurs when an ephemeral's LP runs out, causing their <emoji Role_Inheritance01>ephemeral role to change and starting the tech <emoji Weapon_Inheritance>inheritance process. Skills that were improved during the ephemeral's previous life will be carried over, but there may be times where the fighting style they are most proficient in changes after they are reborn. The longer an ephemeral lives, the more <emoji Weapon_Inheritance>inherited techs they can leave for future generations."
+  },
+  "Tips_BT04_008_00_Caption": {
+    "speaker": "UI",
+    "text": "Relic-Bearers"
+  },
+  "Tips_BT04_008_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Relic-bearers</b> equip special armaments called <emoji Weapon_Magu_big><b>relics</b>.\nWhen a <b>relic-bearer</b> finishes off a monster in combat, they then\nabsorb their abilities, making it possible to use <emoji Weapon_Magu_big><b>monster techs</b>.\nOnly one monster can be absorbed per <emoji Weapon_Magu_big><b>relic</b>,\nso if you'd like to absorb a new monster, you must first <b>unleash</b> one\nthat you've already absorbed."
+  },
+  "Tips_BT04_009_00_Caption": {
+    "speaker": "UI",
+    "text": "Kugutsu"
+  },
+  "Tips_BT04_009_00_Description": {
+    "speaker": "UI",
+    "text": "<b><i>Kugutsu</i></b> can equip items called <emoji Role_Soul><b>souls</b>,\nwhich allows the use of associated <emoji Weapon_Soul><b>soul techs</b>.\nWhile <b><i>kugutsu</i></b> cannot glimmer new techs, they can copy and\nlearn techs used by other allies through a process called <b>mimicking</b>.\n<b><i>Kugutsu</i></b> can only equip a single weapon at a time."
+  },
+  "Tips_BT04_010_00_Caption": {
+    "speaker": "UI",
+    "text": "Souls"
+  },
+  "Tips_BT04_010_00_Description": {
+    "speaker": "UI",
+    "text": "There are two types of <emoji Role_Soul><b>souls</b>: those that represent a character's\nvery identity, and more general <emoji Role_Soul><b>souls</b> that can only be swapped\nout by a character who possesses the <emoji Role_Common><b>Kugutsu Puppetmaster</b> role.\nGeneral <emoji Role_Soul><b>souls</b> can be acquired by defeating enemies,\nThese sometimes come with <emoji Weapon_Soul><b>soul techs</b> attached as well,\nwhich can be used if equipped after the <emoji Role_Soul><b>soul</b> has been set."
+  },
+  "Tips_BT04_011_00_Caption": {
+    "speaker": "UI",
+    "text": "Mimicking"
+  },
+  "Tips_BT04_011_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Mimicking</b> is an act which, provided the <i>kugutsu</i> has already performed a tech of their own, might occur if someone has performed a tech that can be performed with the weapon the <i>kugutsu</i> has equipped, and if said tech is of a higher rank than the techs in the <i>kugutsu's</i> possession or is a tech the <i>kugutsu</i> does not know yet. Note that some techs cannot be <b>mimicked</b>."
+  },
+  "Tips_BT04_012_00_Caption": {
+    "speaker": "UI",
+    "text": "Monsters"
+  },
+  "Tips_BT04_012_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Monsters</b> make do with the weapons and main armor they were\nborn with, meaning accessories are the only armaments they can equip.\nBy equipping <emoji Weapon_Magu_big>relics as accessories,\nthey can also absorb and unleash other <b>monsters</b>.\nOn top of that, they also possess <b>monster</b>-specific techs.\nSome <b>monsters</b> also possess traits inherent to ephemerals."
+  },
+  "Tips_BT04_013_00_Caption": {
+    "speaker": "UI",
+    "text": "Mechs"
+  },
+  "Tips_BT04_013_00_Description": {
+    "speaker": "UI",
+    "text": "Weapons, main armor, and auxiliaries can be equipped to any open slot.\nTechs will be automatically set depending on the armaments equipped.\n<b>Mechs</b> can perform three kinds of techs: <emoji Weapon_Mecha_Proximity><b>mech melee techs</b>,\n<emoji Weapon_Mecha_Shooting><b>mech shooting techs</b>, and <emoji Weapon_Mecha_Support><b>mech support techs</b>.\nWhat's more, should they be equipped with a <emoji Weapon_Magu_big><b>relic</b>, they can also\nmake use of <emoji Weapon_Magu_big><b>monster techs</b>, and they will have the ability\nto <b>Absorb</b> and <b>Unleash</b> monsters as well."
+  },
+  "Tips_BT05_003_00_Caption": {
+    "speaker": "UI",
+    "text": "Every Protagonist Is Special"
+  },
+  "Tips_BT05_003_00_Description": {
+    "speaker": "UI",
+    "text": "Each protagonist has a special ability that makes them unique.\nUsing these will be key in each of their adventures."
+  },
+  "Tips_BT05_000_00_Caption": {
+    "speaker": "UI",
+    "text": "<i>Kugutsu</i> Puppetmaster"
+  },
+  "Tips_BT05_000_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Role_Common><b>Kugutsu Puppetmaster</b> is a role that can only be used\nby Tsunanori Mido. This role grants him the ability to swap out\n<emoji Role_Soul>souls equipped to <i>kugutsu</i>, and also serves as proof\nhe was born into a family of puppetmasters."
+  },
+  "Tips_BT_CHARACTER_020_00_Caption": {
+    "speaker": "UI",
+    "text": "Kitty Collector"
+  },
+  "Tips_BT_CHARACTER_020_00_Description": {
+    "speaker": "UI",
+    "text": "By gathering cats that have been scattered across the worlds,\nAmeya can reclaim both her abilities and special <emoji Weapon_Cat_big><b>cat items</b>.\nDoing this increases not just the number of abilities at Ameya's\ndisposal, but the power of her weapons as well.\nIf you ever want to take a look at the furry feline friends\nyou've collected, check out your <b>Cat <emoji Weapon_Cat> Album</b>."
+  },
+  "Tips_BT05_001_00_Caption": {
+    "speaker": "UI",
+    "text": "Vampire"
+  },
+  "Tips_BT05_001_00_Description": {
+    "speaker": "UI",
+    "text": "As a vampire, Siugnas has the power to turn humanoids into thralls\nby sucking their blood. He can then turn his thralls into knights by\ngiving them special armaments called <emoji Weapon_Blood_big>sanguine gear.\nTry making good use of the <b>Thrall Management</b> screen,\nwhich is unlocked as you progress through his story."
+  },
+  "Tips_BT_CHARACTER_019_00_Caption": {
+    "speaker": "UI",
+    "text": "Exchanging Mech Frames"
+  },
+  "Tips_BT_CHARACTER_019_00_Description": {
+    "speaker": "UI",
+    "text": "Diva No. 5 is capable of switching <emoji Weapon_Mecha_big>mech frames.\nHer HP, attributes, and resistances, as well as fixed techs and role, change based on her current <emoji Weapon_Mecha_big>mech frame.\nMake good use of this ability to seize victory."
+  },
+  "Tips_BT05_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Sharing the Spotlight"
+  },
+  "Tips_BT05_002_00_Description": {
+    "speaker": "UI",
+    "text": "Bonnie and Formina take turns leading the group\ndepending on what's going on in the story.\nWhile playing events that push the main story forward,\nyou will be able to remove them from your combat retinue,\nbut not from your support retinue."
+  },
+  "Tips_BT06_000_00_Caption": {
+    "speaker": "UI",
+    "text": "United Attacks and Combo Range"
+  },
+  "Tips_BT06_000_00_Description": {
+    "speaker": "UI",
+    "text": "Even if your <emoji CoopRange01><b>combo range</b> is linked together properly,\na <b>United Attack</b> won't activate if enemies also occupy it.\nBut if you manage to defeat the enemy that's interfering with your\n<b>United Attack</b> or get it out of the way by, for example, \nhitting it with a delay attack, a <b>United Attack</b> will occur.\nIf enemies and allies are jumbled together on the timeline,\ntake a good look at your <emoji CoopRange01><b>combo range</b> and consider\nall of your options carefully. Furthermore, you'll want to keep\nin mind that blocking is impossible when your combo rate is high."
+  },
+  "Tips_BT06_001_00_Caption": {
+    "speaker": "UI",
+    "text": "Additional Combo Bonus"
+  },
+  "Tips_BT06_001_00_Description": {
+    "speaker": "UI",
+    "text": "When another ally joins a United Attack that's already in progress,\nan <b>additional combo bonus</b> will be added to your combo rate.\nFor example, this bonus can occur in situations where an ally joins\na United Attack with a chain or interrupt, or when a character that was\npreviously not located within a United Attack's combo range gets\nadded as a result of an enemy being defeated."
+  },
+  "Tips_BT06_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Vanquish Bonus"
+  },
+  "Tips_BT06_002_00_Description": {
+    "speaker": "UI",
+    "text": "Defeating an enemy during a United Attack will add a <b>vanquish bonus</b> to your combo rate. There may be times when it's worth leaving a low-health enemy alive so they can be used to secure a <b>vanquish bonus</b> the next time you perform a United Attack."
+  },
+  "Tips_BT06_003_00_Caption": {
+    "speaker": "UI",
+    "text": "Combo Capture"
+  },
+  "Tips_BT06_003_00_Description": {
+    "speaker": "UI",
+    "text": "Defeating an enemy during a United Attack allows you to claim\nthe <emoji CoopRange01>combo range of the defeated enemy's tech for yourself.\nEnemies that perform techs with a wide <emoji CoopRange01>combo range can be\ndifficult to deal with, but defeating one can open up the possibility of\nworking an ally positioned far away on the timeline into a United Attack."
+  },
+  "Tips_BT06_004_00_Caption": {
+    "speaker": "UI",
+    "text": "Vengeance Combo"
+  },
+  "Tips_BT06_004_00_Description": {
+    "speaker": "UI",
+    "text": "Should an ally who was supposed to participate in a United Attack fall immediately before it occurs, a <b>vengeance bonus</b> will be added to your combo rate, causing the United Attack to begin with an elevated combo rate. There may be some benefit in working near-death allies into your United Attacks assuming they might not get the chance to join."
+  },
+  "Tips_BT06_005_00_Caption": {
+    "speaker": "UI",
+    "text": "Critical Hits"
+  },
+  "Tips_BT06_005_00_Description": {
+    "speaker": "UI",
+    "text": "There may be times where an enemy is vulnerable to <emoji Slash>slash, <emoji Strike>blunt,\n<emoji Stab>pierce, <emoji Fire>heat, <emoji Ice>cold, or <emoji Lightning>shock attacks.\nIf they are, targeting them with an attack of that type will\ndish out a <b>critical</b> hit, causing more damage than usual.\nIt isn't possible to block attacks that target vulnerabilities,\nso the return on actions that do so is typically quite good."
+  },
+  "Tips_BT06_006_00_Caption": {
+    "speaker": "UI",
+    "text": "Action Order"
+  },
+  "Tips_BT06_006_00_Description": {
+    "speaker": "UI",
+    "text": "The <b>action order</b> at the start of a turn is determined by your\nformation and the effects of equipped roles. It can also be affected by\nwhat techs a character performed (or had performed on them) the\nprevious turn. If you would like more control over this aspect of combat,\ntry choosing techs and spells that affect the <b>action order</b>.\nThis can also be changed in the midst of combat by using conditional\ntechs or attacks with delay effects."
+  },
+  "Tips_BT06_007_00_Caption": {
+    "speaker": "UI",
+    "text": "Defense and Active Defense"
+  },
+  "Tips_BT06_007_00_Description": {
+    "speaker": "UI",
+    "text": "By not performing a tech or spell, a character will instead <b>defend</b>, allowing them to <b>block or evade attacks</b>. However, depending on what techs or spells a character uses and what weapon they have equipped, there are times when it is possible to <b>block or evade even if attacking</b>. Keep an eye out for weapons, techs, and spells that say they allow for blocking and evading <emoji GuardForward><b>before</b> or <emoji GuardBehind><b>after</b> acting. Keep in mind that enemy techs can possess the same defensive properties."
+  },
+  "Tips_BT06_008_00_Caption": {
+    "speaker": "UI",
+    "text": "Enemy Races and Race-Specific Effectiveness"
+  },
+  "Tips_BT06_008_00_Description": {
+    "speaker": "UI",
+    "text": "Enemies you'll fight along the way can be\nclassified into the following <b>races</b>:\n<emoji Enemy_Beast>beasts, <emoji Enemy_Spirit>spirits, <emoji Enemy_Plant>plants, <emoji Enemy_Reptiles>reptiles, <emoji Enemy_Aquatic>aquatic life-forms,\n<emoji Enemy_Material>substances, <emoji Enemy_Insect>insects, <emoji Enemy_Wings>winged, <emoji Enemy_Asmodian>demons, <emoji Enemy_Element>elements,\n<emoji Enemy_Mecha>mechs, <emoji Enemy_Human>humans, and <emoji Enemy_Blood>vampires.\nSome techs and spells possess <b>race-specific effectiveness</b> that causes them to deal additional damage when used against enemies of specific races."
+  },
+  "Tips_BT06_009_00_Caption": {
+    "speaker": "UI",
+    "text": "Airborne Foes"
+  },
+  "Tips_BT06_009_00_Description": {
+    "speaker": "UI",
+    "text": "<b>Airborne foes</b> can be particularly difficult to land clean hits on.\nShould you have trouble making contact with <b>airborne foes</b>,\ntry using attacks that have <b>antiair</b> properties."
+  },
+  "Tips_BT06_010_00_Caption": {
+    "speaker": "UI",
+    "text": "Object-Type Enemy Information"
+  },
+  "Tips_BT06_010_00_Description": {
+    "speaker": "UI",
+    "text": "Objects that appear as enemies in battle come in varying levels\nof durability, with some being easier to destroy than others.\nEach object has its own type resistances, so if you come up\nagainst an object you had difficulty destroying in the past,\nperhaps try hitting it with attacks of a different type."
+  },
+  "Tips_BT06_011_00_Caption": {
+    "speaker": "UI",
+    "text": "Likelihood to Be Targeted"
+  },
+  "Tips_BT06_011_00_Description": {
+    "speaker": "UI",
+    "text": "The more a retinue member attacks an enemy,\nthe more likely that enemy is to attack them back.\nUsing techs or spells with a <b>provoke</b> effect will\nincrease your chances of being targeted even more."
+  },
+  "Tips_BT06_012_00_Caption": {
+    "speaker": "UI",
+    "text": "Battle Ranks"
+  },
+  "Tips_BT06_012_00_Description": {
+    "speaker": "UI",
+    "text": "Emerging victorious in combat can cause your <b>battle rank</b> to increase. The rate at which it increases is sped up by winning difficult battles, winning with few casualties, or winning battles where your own retinue is more powerful than your enemy. Raising your <b>battle rank</b> impacts the strength, variety, and number of enemies you encounter throughout the game—and when your foes are tougher, the HP, parameters, and skill levels of your own characters grow more quickly as well. Furthermore, the higher your battle rank is, the more likely you are to glimmer new techniques. There is a limit to how high your battle rank can get at any given point, and changing worlds will make it so that it can go up again. Winning easy battles will not cause your battle rank to increase. Battle rewards will <b>double</b> once you've reached the maximum battle rank. "
+  },
+  "Tips_BT07_000_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Skill_OneHandedSword>One-Handed Sword Tech Skill"
+  },
+  "Tips_BT07_000_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of <emoji Weapon_OneHandedSword>general one-handed sword techs, <emoji Weapon_LongSword>longsword techs, <emoji Weapon_FineSword>foil techs, <emoji Weapon_Knife>dagger techs, <emoji Weapon_Ax>axe techs, <emoji Weapon_TwoSwords>dual-wield techs, and <emoji Weapon_GunSword>sword & gun techs."
+  },
+  "Tips_BT07_001_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Skill_DoubleHandedSword>Two-Handed Sword Tech Skill"
+  },
+  "Tips_BT07_001_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of <emoji Weapon_DoubleHandedSword>general two-handed sword techs, <emoji Weapon_LargeSword>greatsword techs, <emoji Weapon_Blade>katana techs, and <emoji Weapon_Halberd>halberd techs."
+  },
+  "Tips_BT07_002_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Skill_OneHandedFirearm>One-Handed Gun Tech Skill"
+  },
+  "Tips_BT07_002_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of <emoji Weapon_OneHandedFirearm>one-handed gun techs, <emoji Weapon_TwoGun>guns akimbo techs, and <emoji Weapon_GunSword>sword & gun techs."
+  },
+  "Tips_BT07_003_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Skill_OneHandedFirearm>Two-Handed Gun Tech Skill"
+  },
+  "Tips_BT07_003_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of <emoji Weapon_DoubleHandedFirearm>general two-handed gun techs, <emoji Weapon_machineGun>machine gun techs, <emoji Weapon_Flamethrower>flamethrower techs, <emoji Weapon_ElectricGun>zapper techs, <emoji Weapon_BombGun>boomer techs, and <emoji Weapon_ChemicalGun>catalyzer techs."
+  },
+  "Tips_BT07_004_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Skill_Taijutsu>Martial Arts Tech Skill"
+  },
+  "Tips_BT07_004_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of <emoji Weapon_Taijutsu_big>martial arts techs."
+  },
+  "Tips_BT07_005_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Skill_Magu>Monster Tech Skill"
+  },
+  "Tips_BT07_005_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of <emoji Weapon_Magu_big>monster techs."
+  },
+  "Tips_BT07_006_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Skill_Mecha_Proximity>Mech Melee Tech Skill"
+  },
+  "Tips_BT07_006_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of <emoji Weapon_Mecha_Proximity>mech melee techs."
+  },
+  "Tips_BT07_007_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Skill__Mecha_Shooting>Mech Shooting Tech Skill"
+  },
+  "Tips_BT07_007_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of <emoji Weapon_Mecha_Shooting>mech shooting techs."
+  },
+  "Tips_BT07_008_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Skill_Magic>Spell Skill"
+  },
+  "Tips_BT07_008_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of <emoji Weapon_Magic_big>spells."
+  },
+  "Tips_BT08_000_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_OneHandedSword>General One-Handed Sword Techs"
+  },
+  "Tips_BT08_000_00_Description": {
+    "speaker": "UI",
+    "text": "A number of weapon types are classified as <emoji Weapon_OneHandedSword>one-handed swords,\nand such techs can be used no matter which one-handed weapon you wield. <emoji Weapon_OneHandedSword>One-handed sword techs greatly increase your combo rate when used in United Attacks."
+  },
+  "Tips_BT08_001_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_LongSword>Longsword Techs"
+  },
+  "Tips_BT08_001_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_LongSword>Longswords are a type of <emoji Weapon_OneHandedSword>one-handed sword that\nallow the use of <emoji Weapon_LongSword>longsword techs.\nMany <emoji Weapon_LongSword>longsword techs allow their user to act quickly,\nand they greatly increase combo rates when used in United Attacks."
+  },
+  "Tips_BT08_002_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_FineSword>Foil Techs"
+  },
+  "Tips_BT08_002_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_FineSword>Foils are a type of <emoji Weapon_OneHandedSword>one-handed sword that\nallow the use of <emoji Weapon_FineSword>foil techs.\nAlthough <emoji Weapon_FineSword>foil techs are typically <emoji Stab>piercing in nature,\nthere are many that do <emoji Ice>cold or <emoji Lightning>shock damage as well,\nletting their user cover a wide variety of attack types.\n<emoji Weapon_FineSword>Foil techs greatly increase your combo rate\nwhen used in United Attacks."
+  },
+  "Tips_BT08_003_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Knife>Dagger Techs"
+  },
+  "Tips_BT08_003_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Knife>Daggers are a type of <emoji Weapon_OneHandedSword>one-handed sword that\nallow the use of <emoji Weapon_Knife>dagger techs.\nOne interesting thing about <emoji Weapon_Knife>dagger techs is that\nthey do not generate much enmity. \n<emoji Weapon_Knife>Dagger techs greatly increase your combo rate\nwhen used in United Attacks."
+  },
+  "Tips_BT08_004_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Ax>Axe Techs"
+  },
+  "Tips_BT08_004_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Ax>Axes are a type of <emoji Weapon_OneHandedSword>one-handed sword that\nallow the use of <emoji Weapon_Ax>axe techs.\nWhile <emoji Weapon_Ax>axe techs boast impressive power, they have poor\naccuracy compared to other <emoji Weapon_OneHandedSword>one-handed swords.\n<emoji Weapon_Ax>Axe techs greatly increase your combo rate\nwhen used in United Attacks."
+  },
+  "Tips_BT08_005_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_TwoSwords>Dual-Wield Techs"
+  },
+  "Tips_BT08_005_00_Description": {
+    "speaker": "UI",
+    "text": "Techs that can be performed when a character has\ntwo <emoji Weapon_OneHandedSword>one-handed swords equipped.\nIn addition to the above condition, a character must also\nbe equipped with the special <emoji Role_Common>Seasoned Duelist role\nto gain access to these techs. Dual-wield techs greatly\nincrease your combo rate when used in United Attacks."
+  },
+  "Tips_BT08_006_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_GunSword>Sword & Gun Techs"
+  },
+  "Tips_BT08_006_00_Description": {
+    "speaker": "UI",
+    "text": "Techs that can be performed when a character has both\na <emoji Weapon_OneHandedSword>one-handed sword and a <emoji Weapon_OneHandedFirearm>one-handed gun equipped.\nIn addition to the above condition, a character must also\nbe equipped with the special <emoji Role_Common>Sword & Gun Master role\nto gain access to these techs. Sword & gun techs greatly\nincrease your combo rate when used in United Attacks."
+  },
+  "Tips_BT08_007_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_DoubleHandedSword>General Two-Handed Sword Techs"
+  },
+  "Tips_BT08_007_00_Description": {
+    "speaker": "UI",
+    "text": "A number of weapon types are classified as <emoji Weapon_DoubleHandedSword>two-handed swords,\nand such techs can be used no matter which two-handed weapon you wield. An interesting thing about <emoji Weapon_DoubleHandedSword>two-handed sword techs is that they generate large amounts of enmity. <emoji Weapon_DoubleHandedSword>Two-handed sword techs greatly increase your combo rate when used in showstoppers."
+  },
+  "Tips_BT08_008_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_LargeSword>Greatsword Techs"
+  },
+  "Tips_BT08_008_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_LargeSword>Greatswords are a type of <emoji Weapon_DoubleHandedSword>two-handed sword that allow the use of <emoji Weapon_LargeSword>greatsword techs. <emoji Weapon_LargeSword>Greatsword techs possess a variety of properties, granting their wielders access to attacks that deal <emoji Slash>slash, <emoji Strike>blunt, and <emoji Stab> pierce damage. An interesting thing about <emoji Weapon_LargeSword>greatsword techs is that they generate large amounts of enmity. <emoji Weapon_LargeSword>Greatsword techs greatly increase your combo rate when used in showstoppers."
+  },
+  "Tips_BT08_009_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Blade>Katana Techs"
+  },
+  "Tips_BT08_009_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Blade>Katana are a type of <emoji Weapon_DoubleHandedSword>two-handed sword that allow the use of <emoji Weapon_Blade>katana techs. Those who wield a <emoji Weapon_Blade>katana will have access to conditional techs like interrupts and counterattacks. An interesting thing about <emoji Weapon_Blade>katana techs is that they generate large amounts of enmity. <emoji Weapon_Blade>Katana techs greatly increase your combo rate when used in showstoppers."
+  },
+  "Tips_BT08_010_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Halberd>Halberd Techs"
+  },
+  "Tips_BT08_010_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Halberd>Halberds are a type of <emoji Weapon_DoubleHandedSword>two-handed sword that\nallow the use of <emoji Weapon_Halberd>halberd techs.\nMany of this weapon's techs slow the wielder's action order.\nAn interesting thing about <emoji Weapon_Halberd>halberd techs\nis that they generate large amounts of enmity.\n<emoji Weapon_Halberd>Halberd techs greatly increase your combo rate\nwhen used in showstoppers."
+  },
+  "Tips_BT08_011_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_OneHandedFirearm>One-Handed Gun Techs"
+  },
+  "Tips_BT08_011_00_Description": {
+    "speaker": "UI",
+    "text": "Techs that can be used when equipped with a <emoji Weapon_OneHandedFirearm>one-handed gun.\nThose who wield a <emoji Weapon_OneHandedFirearm>one-handed gun will have access to conditional\ntechs like chains and interrupts.\nMany of their attacks possess <b>antiair</b> properties,\nmaking them effective against airborne enemies.\n<emoji Weapon_OneHandedFirearm>One-handed gun techs greatly increase your combo rate\nwhen used in United Attacks."
+  },
+  "Tips_BT08_012_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_TwoGun>Guns Akimbo Techs"
+  },
+  "Tips_BT08_012_00_Description": {
+    "speaker": "UI",
+    "text": "Techs that can be performed when a character has two <emoji Weapon_OneHandedFirearm>one-handed guns equipped. In addition to the above condition, a character must also be equipped with the special <emoji Role_Common>Guns Blazing role to gain access to these techs. Many of their attacks possess <b>antiair</b> properties, making them effective against airborne enemies. <emoji Weapon_TwoGun>Guns akimbo techs greatly increase your combo rate when used in United Attacks."
+  },
+  "Tips_BT08_013_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_DoubleHandedFirearm>General Two-Handed Gun Techs"
+  },
+  "Tips_BT08_013_00_Description": {
+    "speaker": "UI",
+    "text": "A number of weapon types are classified as <emoji Weapon_DoubleHandedFirearm>two-handed guns,\nand such techs can be used no matter which two-handed gun you wield.\nMany of this weapon's techs slow the wielder's action order.\n<emoji Weapon_DoubleHandedFirearm>Two-handed gun techs generate large amounts of enmity, and many of their attacks possess <b>antiair</b> properties, making them effective against airborne enemies. <emoji Weapon_DoubleHandedFirearm>Two-handed gun techs greatly increase your combo rate when used in showstoppers."
+  },
+  "Tips_BT08_014_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_machineGun>Machine Gun Techs"
+  },
+  "Tips_BT08_014_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_machineGun>Machine guns are a type of <emoji Weapon_DoubleHandedFirearm>two-handed gun that\nallow the use of <emoji Weapon_machineGun>machine gun techs.\nAn interesting thing about <emoji Weapon_machineGun>machine gun techs is that they generate large amounts of enmity. Many of their attacks possess <b>antiair</b> properties, making them effective against airborne enemies. <emoji Weapon_machineGun>Machine gun techs greatly increase your combo rate when used in showstoppers."
+  },
+  "Tips_BT08_015_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Flamethrower>Flamethrower Techs"
+  },
+  "Tips_BT08_015_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Flamethrower>Flamethrowers are a type of <emoji Weapon_DoubleHandedFirearm>two-handed gun that\nallow the use of <emoji Weapon_Flamethrower>flamethrower techs.\nAll of this weapon's techs have <emoji Fire>heat properties. An interesting thing about <emoji Weapon_Flamethrower>flamethrower techs is that they generate large amounts of enmity. Many of their attacks possess <b>antiair</b> properties, making them effective against airborne enemies. <emoji Weapon_Flamethrower>Flamethrower techs greatly increase your combo rate when used in showstoppers."
+  },
+  "Tips_BT08_016_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_ElectricGun>Zapper Techs"
+  },
+  "Tips_BT08_016_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_ElectricGun>Zappers are a type of <emoji Weapon_DoubleHandedFirearm>two-handed gun that\nallow the use of <emoji Weapon_ElectricGun>zapper techs.\n<emoji Weapon_ElectricGun>Zappers have techs with <emoji Lightning>shock properties, as well as techs that cause ailments like stun and <emoji BtlEffectParalysis>paralysis. <emoji Weapon_ElectricGun>Zapper techs generate large amounts of enmity, and many of their attacks possess <b>antiair</b> properties, making them effective against airborne enemies. <emoji Weapon_ElectricGun>Zapper techs greatly increase your combo rate when used in showstoppers."
+  },
+  "Tips_BT08_017_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_BombGun>Boomer Techs"
+  },
+  "Tips_BT08_017_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_BombGun>Boomers are a type of <emoji Weapon_DoubleHandedFirearm>two-handed gun that\nallow the use of <emoji Weapon_BombGun>boomer techs.\nMany of this weapon's techs slow the wielder's action order.\nAn interesting thing about <emoji Weapon_BombGun>boomer techs is that they generate large amounts of enmity. Many of their attacks possess <b>antiair</b> properties, making them effective against airborne enemies. <emoji Weapon_BombGun>Boomer techs greatly increase your combo rate when used in showstoppers."
+  },
+  "Tips_BT08_018_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_ChemicalGun>Catalyzer Techs"
+  },
+  "Tips_BT08_018_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_ChemicalGun>Catalyzers are a type of <emoji Weapon_DoubleHandedFirearm>two-handed gun that allow the use of <emoji Weapon_ChemicalGun>catalyzer techs. <emoji Weapon_ChemicalGun>Catalyzers have techs with <emoji Ice>cold properties, as well as techs that cause <emoji BtlEffectPoison>poison and reduce enemy parameters. <emoji Weapon_ChemicalGun>Catalyzer techs generate large amounts of enmity, and many of their attacks possess <b>antiair</b> properties, making them effective against airborne enemies. <emoji Weapon_ChemicalGun>Catalyzer techs greatly increase your combo rate when used in showstoppers."
+  },
+  "Tips_BT08_019_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Taijutsu>Martial Arts Techs"
+  },
+  "Tips_BT08_019_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Taijutsu>Martial arts techs can be used when a character has no weapons equipped. Punches possess properties that let the user <emoji GuardBehind>defend after they act, meaning they can evade the attacks of those who act after they do. What's more, many kick techs allow the user to act quickly, and body slams can be used to slow down one's action order. <emoji Weapon_Taijutsu>Martial arts techs greatly increase your combo rate when used in United Attacks."
+  },
+  "Tips_BT08_020_00_Caption": {
+    "speaker": "UI",
+    "text": "Custom Techs"
+  },
+  "Tips_BT08_020_00_Description": {
+    "speaker": "UI",
+    "text": "Through the repeated use of techs,\nhumans can learn unique techs based on existing moves.\nThese are called <b>custom techs</b>."
+  },
+  "Tips_BT08_021_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Soul>Soul Techs"
+  },
+  "Tips_BT08_021_00_Description": {
+    "speaker": "UI",
+    "text": "Techs that are attached to <emoji Role_Soul>souls are called <emoji Weapon_Soul><b>soul techs</b>.\nThese can only be used by <i>kugutsu</i>.\nTo make use of them, equip a <emoji Role_Soul>soul and then make sure\nto separately set the <emoji Weapon_Soul><b>soul tech</b> attached to it."
+  },
+  "Tips_BT08_022_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Blood>Blood Techs"
+  },
+  "Tips_BT08_022_00_Description": {
+    "speaker": "UI",
+    "text": "Techs used by vampires and knights. Using them consumes LP.\nThe use of blood techs greatly increases your combo rate.\nUnlike techs held by individuals, <emoji Weapon_Blood><b>blood techs</b> are\nassigned to the entire retinue, so they can only be\nequipped to one person at a time.\nMore can be acquired by turning humanoids into thralls."
+  },
+  "Tips_BT08_023_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Inheritance>Inherited Techs"
+  },
+  "Tips_BT08_023_00_Description": {
+    "speaker": "UI",
+    "text": "Techs used by ephemerals.\nMany of these afflict status ailments\nor have parameter-increasing effects.\nThese are not impacted by skill levels."
+  },
+  "Tips_BT08_024_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Magu>Monster Techs"
+  },
+  "Tips_BT08_024_00_Description": {
+    "speaker": "UI",
+    "text": "Techs used by monsters, relic-bearers, or mechs who\nare equipped with relics that contain absorbed monsters.\nIf the tech is something the monster already possessed\nthey will simply perform the attacks themselves.\nOtherwise, relic-bearers unleash the monsters contained\nin their relics to attack in their stead."
+  },
+  "Tips_BT08_025_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Magu>Monster Absorption"
+  },
+  "Tips_BT08_025_00_Description": {
+    "speaker": "UI",
+    "text": "Should a monster, relic-bearer, or mech equipped with an\nempty relic defeat a monster, that monster will be absorbed."
+  },
+  "Tips_BT08_026_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Magu>Unleash"
+  },
+  "Tips_BT08_026_00_Description": {
+    "speaker": "UI",
+    "text": "As the name suggests, <b>Unleash</b> is a tech by which\none can unleash a monster from a relic.\n<b>Unleashing</b> a monster will activate a monster tech\nthat deals immense damage in exchange for your HP."
+  },
+  "Tips_BT08_027_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Mecha_Proximity>Mech Melee Techs"
+  },
+  "Tips_BT08_027_00_Description": {
+    "speaker": "UI",
+    "text": "Techs used by mechs. In general, these will be automatically\nset when a mech is equipped with a <emoji Weapon_OneHandedSword>one-handed sword\nor a <emoji Weapon_DoubleHandedSword>two-handed sword.\n<emoji Weapon_Mecha_Proximity>Mech melee techs greatly increase your combo rate\nwhen used in United Attacks."
+  },
+  "Tips_BT08_028_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Mecha_Shooting>Mech Shooting Techs"
+  },
+  "Tips_BT08_028_00_Description": {
+    "speaker": "UI",
+    "text": "Techs used by mechs. In general, these will be automatically\nset when a mech is equipped with a <emoji Weapon_OneHandedFirearm>one-handed gun\nor a <emoji Weapon_DoubleHandedFirearm>two-handed gun.\nMany of these attacks possess <b>antiair</b> properties,\nmaking them effective against airborne enemies.\n<emoji Weapon_Mecha_Shooting>Mech shooting techs greatly increase your combo rate\nwhen used in United Attacks."
+  },
+  "Tips_BT08_029_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Mecha_Support>Mech Support Techs"
+  },
+  "Tips_BT08_029_00_Description": {
+    "speaker": "UI",
+    "text": "Techs used by mechs. In general, these will be automatically\nset when a mech is equipped with <emoji Weapon_MainArmor_big><emoji Weapon_SubArmor_big>armor.\n<emoji Weapon_Mecha_Support>Mech support techs are not affected by skills."
+  },
+  "Tips_BT08_030_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Magic_big>Spells"
+  },
+  "Tips_BT08_030_00_Description": {
+    "speaker": "UI",
+    "text": "Unlike techs, every <emoji Weapon_Magic_big><b>spell</b> corresponds to one of the five elements,\nand must be chanted for a number of turns before it can be cast.\nIf your skill level in an element is 1 or higher,\ncasting a <emoji Weapon_Magic_big><b>spell</b> of that element gives you a chance\nto learn one of its spells, with the chance increasing the higher\nyour <emoji Skill_Magic>magic skill, intelligence, and corresponding skill level\nin the element."
+  },
+  "Tips_BT08_031_00_Caption": {
+    "speaker": "UI",
+    "text": "About Conditionals"
+  },
+  "Tips_BT08_031_00_Description": {
+    "speaker": "UI",
+    "text": "Techs that will not activate unless specific conditions are met are\ncalled <b>conditional techs</b>. There are five types of these in all:\n<b>interrupts</b>, <b>counterattacks</b>, <b>protects</b>, <b>chains</b>, and <b>pursuits</b>.\nA character that has chosen one of these techs is in\na <b>conditional state</b>.\n\nWhen an enemy chooses a <b>conditional tech</b>,\ntheir action will be displayed as '???',\nwhich is a sign that a <b>conditional tech</b> is in play.\nA target will have their <b>conditional state</b> removed if they\nare attacked by a tech that possesses a <b>quell</b> effect."
+  },
+  "Tips_BT08_032_00_Caption": {
+    "speaker": "UI",
+    "text": "Conditional Techs: Interrupts"
+  },
+  "Tips_BT08_032_00_Description": {
+    "speaker": "UI",
+    "text": "Conditional techs known as <b>interrupts</b> can be used\nto preempt an enemy's action with one of your own.\n<b>Interrupts</b> are activated in response to an enemy using\na tech with either <emoji Slash>slash, <emoji Strike>blunt, or <emoji Stab>pierce properties."
+  },
+  "Tips_BT08_033_00_Caption": {
+    "speaker": "UI",
+    "text": "Conditional Techs: Counterattacks"
+  },
+  "Tips_BT08_033_00_Description": {
+    "speaker": "UI",
+    "text": "Conditional techs known as <b>counterattacks</b> can be used\nto nullify an enemy's attack and fire back with one of your own.\nWhile all <b>counterattacks</b> are devastatingly powerful,\nnot only can they sometimes fail, but there are some attacks\nthat cannot be <b>counterattacked</b>—including quells and attacks\nthat target the entire retinue. Use <b>counterattacks</b> with caution!"
+  },
+  "Tips_BT08_034_00_Caption": {
+    "speaker": "UI",
+    "text": "Conditional Techs: Protects"
+  },
+  "Tips_BT08_034_00_Description": {
+    "speaker": "UI",
+    "text": "Conditional techs known as <b>protects</b> can be used to have a character take attacks meant for an ally. <b>Protecting</b> an ally in this way reduces damage taken. <b>Protects</b> are useful in situations where you want to keep an ally who's near death in the fight. Unique among <b>protects</b> is the <b>Parry</b> technique, which has the user defend their own person and completely nullify attacks that target them."
+  },
+  "Tips_BT08_035_00_Caption": {
+    "speaker": "UI",
+    "text": "Conditional Techs: Chains"
+  },
+  "Tips_BT08_035_00_Description": {
+    "speaker": "UI",
+    "text": "Conditional techs known as <b>chains</b> can be used\nto perform a tech immediately after an ally acts.\nJumping in immediately after an ally's attack can create\nadvantageous situations if it causes <emoji CoopRange01>combo ranges\nto connect, but there are also times where it can disrupt\n<emoji CoopRange01>combo ranges instead, so plan carefully."
+  },
+  "Tips_BT08_036_00_Caption": {
+    "speaker": "UI",
+    "text": "Conditional Techs: Pursuits"
+  },
+  "Tips_BT08_036_00_Description": {
+    "speaker": "UI",
+    "text": "Conditional techs known as <b>pursuits</b> can be used\nto perform a tech immediately after an enemy acts.\n<b>Pursuits</b> are great for disrupting United Attacks."
+  },
+  "Tips_BT09_000_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_OneHandedSword>One-Handed Swords"
+  },
+  "Tips_BT09_000_00_Description": {
+    "speaker": "UI",
+    "text": "There are four types of <emoji Weapon_OneHandedSword>one-handed swords:\n<emoji Weapon_LongSword>longswords, <emoji Weapon_FineSword>foils, <emoji Weapon_Knife>daggers, and <emoji Weapon_Ax>axes.\nWill block when defending."
+  },
+  "Tips_BT09_001_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_LongSword>Longswords"
+  },
+  "Tips_BT09_001_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_OneHandedSword>one-handed sword weapon that allows the use of\n<emoji Weapon_OneHandedSword>general one-handed sword techs and <emoji Weapon_LongSword>longsword techs."
+  },
+  "Tips_BT09_002_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_FineSword>Foils"
+  },
+  "Tips_BT09_002_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_OneHandedSword>one-handed sword weapon that allows the use of\n<emoji Weapon_OneHandedSword>general one-handed sword techs and <emoji Weapon_FineSword>foil techs."
+  },
+  "Tips_BT09_003_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Knife>Daggers"
+  },
+  "Tips_BT09_003_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_OneHandedSword>one-handed sword weapon that allows the use of\n<emoji Weapon_OneHandedSword>general one-handed sword techs and <emoji Weapon_Knife>dagger techs."
+  },
+  "Tips_BT09_004_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Ax>Axes"
+  },
+  "Tips_BT09_004_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_OneHandedSword>one-handed sword weapon that allows the use of\n<emoji Weapon_OneHandedSword>general one-handed sword techs and <emoji Weapon_Ax>axe techs."
+  },
+  "Tips_BT09_005_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_DoubleHandedSword>Two-Handed Swords"
+  },
+  "Tips_BT09_005_00_Description": {
+    "speaker": "UI",
+    "text": "There are three types of <emoji Weapon_DoubleHandedSword>two-handed swords:\n<emoji Weapon_LargeSword>greatswords, <emoji Weapon_Blade>katana, and <emoji Weapon_Halberd>halberds.\nWill block when defending."
+  },
+  "Tips_BT09_006_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_LargeSword>Greatswords"
+  },
+  "Tips_BT09_006_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_DoubleHandedSword>two-handed sword weapon that allows the use of\n<emoji Weapon_DoubleHandedSword>general two-handed sword techs and <emoji Weapon_LargeSword>greatsword techs."
+  },
+  "Tips_BT09_007_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Blade>Katana"
+  },
+  "Tips_BT09_007_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_DoubleHandedSword>two-handed sword weapon that allows the use of\n<emoji Weapon_DoubleHandedSword>general two-handed sword techs and <emoji Weapon_Blade>katana techs. "
+  },
+  "Tips_BT09_008_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Halberd>Halberds"
+  },
+  "Tips_BT09_008_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_DoubleHandedSword>two-handed sword weapon that allows the use of\n<emoji Weapon_DoubleHandedSword>general two-handed sword techs and <emoji Weapon_Halberd>halberd techs. "
+  },
+  "Tips_BT09_009_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_OneHandedFirearm>One-Handed Guns"
+  },
+  "Tips_BT09_009_00_Description": {
+    "speaker": "UI",
+    "text": "Allows the use of <emoji Weapon_OneHandedFirearm>one-handed gun techs.\nWill evade when defending."
+  },
+  "Tips_BT09_011_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_DoubleHandedFirearm>Two-Handed Guns"
+  },
+  "Tips_BT09_011_00_Description": {
+    "speaker": "UI",
+    "text": "There are five types of <emoji Weapon_DoubleHandedFirearm>two-handed guns:\n<emoji Weapon_machineGun>machine guns, <emoji Weapon_Flamethrower>flamethrowers, <emoji Weapon_ElectricGun>zappers, <emoji Weapon_BombGun>boomers,\nand <emoji Weapon_ChemicalGun>catalyzers.\nWill block when defending."
+  },
+  "Tips_BT09_012_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_machineGun>Machine Guns"
+  },
+  "Tips_BT09_012_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_DoubleHandedFirearm>two-handed gun weapon that allows the use of\n<emoji Weapon_DoubleHandedFirearm>general two-handed gun techs and <emoji Weapon_machineGun>machine gun techs."
+  },
+  "Tips_BT09_013_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Flamethrower>Flamethrowers"
+  },
+  "Tips_BT09_013_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_DoubleHandedFirearm>two-handed gun weapon that allows the use of\n<emoji Weapon_DoubleHandedFirearm>general two-handed gun techs and <emoji Weapon_Flamethrower>flamethrower techs."
+  },
+  "Tips_BT09_014_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_ElectricGun>Zappers"
+  },
+  "Tips_BT09_014_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_DoubleHandedFirearm>two-handed gun weapon that allows the use of\n<emoji Weapon_DoubleHandedFirearm>general two-handed gun techs and <emoji Weapon_ElectricGun>zapper techs."
+  },
+  "Tips_BT09_016_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_BombGun>Boomers"
+  },
+  "Tips_BT09_016_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_DoubleHandedFirearm>two-handed gun weapon that allows the use of\n<emoji Weapon_DoubleHandedFirearm>general two-handed gun techs and <emoji Weapon_BombGun>boomer techs."
+  },
+  "Tips_BT09_015_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_ChemicalGun>Catalyzers"
+  },
+  "Tips_BT09_015_00_Description": {
+    "speaker": "UI",
+    "text": "A <emoji Weapon_DoubleHandedFirearm>two-handed gun weapon that allows the use of\n<emoji Weapon_DoubleHandedFirearm>general two-handed gun techs and <emoji Weapon_ChemicalGun>catalyzer techs."
+  },
+  "Tips_BT10_000_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_MainArmor_big>Main Armor"
+  },
+  "Tips_BT10_000_00_Description": {
+    "speaker": "UI",
+    "text": "Armaments that bolster the wearer's defenses.\nIncreases the wearer's resistances."
+  },
+  "Tips_BT10_006_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_SubArmor_big>Auxiliary Armor"
+  },
+  "Tips_BT10_006_00_Description": {
+    "speaker": "UI",
+    "text": "Armaments that bolster the wearer's defenses.\nSlightly increases the wearer's resistances.\nThere are five types of auxiliary armor: <emoji Weapon_Armor_Head>head armor, <emoji Weapon_Armor_Clothes>clothes,\n<emoji Weapon_Armor_Hand>hand armor, <emoji Weapon_Armor_Shoes>leg armor, and <emoji Weapon_Armor_Accessories>accessories."
+  },
+  "Tips_BT10_001_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Armor_Head>Head Armor"
+  },
+  "Tips_BT10_001_00_Description": {
+    "speaker": "UI",
+    "text": "A type of <emoji Weapon_SubArmor_big>auxiliary armor.\nMany head armaments raise <emoji Strike>blunt resistance."
+  },
+  "Tips_BT10_002_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Armor_Clothes>Clothes"
+  },
+  "Tips_BT10_002_00_Description": {
+    "speaker": "UI",
+    "text": "A type of <emoji Weapon_SubArmor_big>auxiliary armor.\nClothing armaments provide a variety of resistances."
+  },
+  "Tips_BT10_003_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Armor_Hand>Hand Armor"
+  },
+  "Tips_BT10_003_00_Description": {
+    "speaker": "UI",
+    "text": "A type of <emoji Weapon_SubArmor_big>auxiliary armor.\nMany hand armaments raise <emoji Slash>slash resistance."
+  },
+  "Tips_BT10_004_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Armor_Shoes>Leg Armor"
+  },
+  "Tips_BT10_004_00_Description": {
+    "speaker": "UI",
+    "text": "A type of <emoji Weapon_SubArmor_big>auxiliary armor.\nMany leg armaments raise <emoji Stab>pierce resistance."
+  },
+  "Tips_BT10_005_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Armor_Accessories>Accessories"
+  },
+  "Tips_BT10_005_00_Description": {
+    "speaker": "UI",
+    "text": "A type of <emoji Weapon_SubArmor_big>auxiliary armor.\nThese confer a variety of effects."
+  },
+  "Tips_BT11_000_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Cat_big>Cat Items"
+  },
+  "Tips_BT11_000_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Cat_big><b>Cat items</b> consist of <b>cat weapons</b> and <b>cat accessories</b>.\nThe power of <b>cat weapons<b> increases the more cats you collect."
+  },
+  "Tips_BT11_001_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Blood_big>Sanguine Gear"
+  },
+  "Tips_BT11_001_00_Description": {
+    "speaker": "UI",
+    "text": "Special armaments that house the power of vampires.\nThese can be created by taking an armament to serve as its base\nand applying a special <emoji Item_Gainen_big>concept to it. Also, each piece\nof <emoji Weapon_Blood_big><b>sanguine gear</b> comes with a <emoji Role_Blood>sanguine role attached.\n<emoji Role_Blood>Sanguine roles can only be equipped and used by vampires\nor knights that have been conferred <emoji Weapon_Blood_big><b>sanguine gear</b>."
+  },
+  "Tips_BT11_002_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Magu_big>Relics"
+  },
+  "Tips_BT11_002_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Weapon_Magu_big><b>Relics</b> that have absorbed monsters modify the parameters\nof their bearers. Unleashing a monster from a relic will cause those\nmodifiers to disappear, so be sure to handle relics with care."
+  },
+  "Tips_BT12_000_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectSpeedUp><emoji BtlEffectSpeedDown>Speed Up/Down"
+  },
+  "Tips_BT12_000_00_Description": {
+    "speaker": "UI",
+    "text": "An increase in speed hastens one's action order,\nas well as increasing their accuracy rate.\nA decrease, conversely, has the opposite effect.\nThis effect can be applied multiple times.\nThis effect persists for the duration of the battle\nin which it is activated."
+  },
+  "Tips_BT12_001_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectAttackUp><emoji BtlEffectAttackDown>Attack Power Up/Down"
+  },
+  "Tips_BT12_001_00_Description": {
+    "speaker": "UI",
+    "text": "An increase in attack power causes non-spell\nattacks to deal more damage.\nA decrease, conversely, causes them to do less.\nThis effect can be applied multiple times.\nThis effect persists for the duration of the battle\nin which it is activated."
+  },
+  "Tips_BT12_002_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectDefenseUp><emoji BtlEffectDefenseDown>Defense Up/Down"
+  },
+  "Tips_BT12_002_00_Description": {
+    "speaker": "UI",
+    "text": "An increase in defense reduces the amount of damage taken.\nA decrease, conversely, will result in more damage taken.\nThis effect can be applied multiple times.\nThis effect persists for the duration of the battle\nin which it is activated."
+  },
+  "Tips_BT12_003_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectMagicUp><emoji BtlEffectMagicDown>Spell Power Up/Down"
+  },
+  "Tips_BT12_003_00_Description": {
+    "speaker": "UI",
+    "text": "An increase in spell power causes spells to deal more damage.\nA decrease, conversely, causes them to do less.\nThis effect can be applied multiple times.\nThis effect persists for the duration of the battle\nin which it is activated."
+  },
+  "Tips_BT13_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Stun"
+  },
+  "Tips_BT13_000_00_Description": {
+    "speaker": "UI",
+    "text": "Causes the afflicted character to become inactionable for that turn and\ncancels whatever action they had prepared. Should a character chanting\na spell be <b>stunned</b>, both chant and spell will be canceled.\nA target is more likely to succumb to <b>stun</b> at low levels of HP."
+  },
+  "Tips_BT13_001_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectParalysis>Paralysis"
+  },
+  "Tips_BT13_001_00_Description": {
+    "speaker": "UI",
+    "text": "Renders the afflicted character inactionable for a while.\nA target is more likely to succumb to <emoji BtlEffectParalysis><b>paralysis</b>\nat low levels of HP.\nThis status clears up after a set number of turns."
+  },
+  "Tips_BT13_002_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectPoison>Poison"
+  },
+  "Tips_BT13_002_00_Description": {
+    "speaker": "UI",
+    "text": "Causes the afflicted character to take damage each turn.\nA target is more likely to succumb to <emoji BtlEffectPoison><b>poison</b>\nat low levels of HP.\nThis status clears up after a set number of turns."
+  },
+  "Tips_BT13_003_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectDarkness>Darkness"
+  },
+  "Tips_BT13_003_00_Description": {
+    "speaker": "UI",
+    "text": "Reduces the afflicted character's accuracy.\nA target is more likely to succumb to <emoji BtlEffectDarkness><b>darkness</b>\nat low levels of HP.\nThis status clears up after a set number of turns."
+  },
+  "Tips_BT13_004_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectStink>Stench"
+  },
+  "Tips_BT13_004_00_Description": {
+    "speaker": "UI",
+    "text": "Nullifies the afflicted character's tech and spell <emoji CoopRange01>combo range,\nmaking it impossible for them to participate in United Attacks.\nA target is more likely to succumb to <emoji BtlEffectStink><b>stench</b> at low levels\nof HP. This status clears up after a set number of turns.\nShould a character's <emoji BtlEffectStink><b>stench</b> status clear up before they perform\ntheir action for that turn, their <emoji CoopRange01>combo range will recover as well."
+  },
+  "Tips_BT13_005_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectAnger>Frenzy"
+  },
+  "Tips_BT13_005_00_Description": {
+    "speaker": "UI",
+    "text": "Should a target's enmity reach a high level after being targeted by\ntechs that possess a provoke effect, they will sometimes enter a\nstate called <emoji BtlEffectAnger><b>frenzy</b> that forces them to attack the target\nof their enmity and causes them to deal more damage.\nThis status persists until either the target of their enmity\nhas been defeated, or a set number of turns has passed."
+  },
+  "Tips_BT13_006_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectConfusion>Confusion"
+  },
+  "Tips_BT13_006_00_Description": {
+    "speaker": "UI",
+    "text": "A character afflicted with <emoji BtlEffectConfusion><b>confusion</b> will act of their own accord for a time and the <emoji CoopRange01>combo range of any techs and spells they perform will nullify United Attacks. Furthermore, they are prone to performing chains after allies act, ruining any United Attacks that could have otherwise happened. A target is more likely to succumb to <emoji BtlEffectConfusion><b>confusion</b> at low levels of HP. This status clears up after a set number of turns."
+  },
+  "Tips_BT13_007_00_Caption": {
+    "speaker": "UI",
+    "text": "Distract"
+  },
+  "Tips_BT13_007_00_Description": {
+    "speaker": "UI",
+    "text": "Increases the number of turns required to cast a spell.\nA target is more likely to get <b>distracted</b>\nat low levels of HP."
+  },
+  "Tips_BT13_008_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectStone>Petrification"
+  },
+  "Tips_BT13_008_00_Description": {
+    "speaker": "UI",
+    "text": "A status that renders the afflicted unable to act. They will,\nhowever, also not take damage or be impacted by a variety of\nother effects. Should your entire combat retinue be <emoji BtlEffectStone><b>petrified</b>\nduring a battle, it will be treated as a loss—so be careful when\nyour enemies are capable of afflicting this ailment.\nA target is more likely to succumb to <emoji BtlEffectStone><b>petrification</b> at low\nlevels of HP. This status will not clear up on its own."
+  },
+  "Tips_BT13_009_00_Caption": {
+    "speaker": "UI",
+    "text": "Sudden Death"
+  },
+  "Tips_BT13_009_00_Description": {
+    "speaker": "UI",
+    "text": "Successfully inflicting <b>sudden death</b> upon a target will\nimmediately incapacitate them, removing them from battle.\nA target is more likely to succumb to <b>sudden death</b>\nat low levels of HP."
+  },
+  "Tips_BT14_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Mech Stun"
+  },
+  "Tips_BT14_000_00_Description": {
+    "speaker": "UI",
+    "text": "A status ailment that can only be suffered by mechs.\nThe afflicted character's action for that turn will be canceled,\nand they will be left in an inactionable state. A target is more\nlikely to succumb to a <b>mech stun</b> at low levels of HP."
+  },
+  "Tips_BT14_001_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectParalysisMech>Mech Paralysis"
+  },
+  "Tips_BT14_001_00_Description": {
+    "speaker": "UI",
+    "text": "A status ailment that can only be suffered by mechs.\nThe afflicted character will be left unable to act for\na period of time. A target is more likely to succumb\nto <emoji BtlEffectParalysisMech><b>mech paralysis</b> at low levels of HP.\nThis status clears up after a set number of turns."
+  },
+  "Tips_BT15_000_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectNoDamage>Damage Immunity"
+  },
+  "Tips_BT15_000_00_Description": {
+    "speaker": "UI",
+    "text": "Nullifies damage one time.\nThis effect persists until an attack is nullified."
+  },
+  "Tips_BT15_001_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectNoEffect>Status Ailment Immunity"
+  },
+  "Tips_BT15_001_00_Description": {
+    "speaker": "UI",
+    "text": "Renders the target immune to status effects.\nThis effect persists for a set number of turns."
+  },
+  "Tips_BT15_002_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectNoEffectMech>Mech Ailment Immunity"
+  },
+  "Tips_BT15_002_00_Description": {
+    "speaker": "UI",
+    "text": "Renders the target immune to mech stun and <emoji BtlEffectParalysisMech>mech paralysis.\nThis effect persists for a set number of turns."
+  },
+  "Tips_BT15_003_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectBpUp><emoji BtlEffectBpDown>BP Cost Up/Down"
+  },
+  "Tips_BT15_003_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the <emoji BtlBPCost>BP cost of actions performed.\nThis effect persists for the duration of the battle\nin which it is activated."
+  },
+  "Tips_BT15_004_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectPowerUp><emoji BtlEffectPowerDown>Tech Power Up/Down"
+  },
+  "Tips_BT15_004_00_Description": {
+    "speaker": "UI",
+    "text": "Affects the power of techs and spells.\nThis effect persists for a set number of turns,\nwith the effect growing weaker each turn."
+  },
+  "Tips_BT15_005_00_Caption": {
+    "speaker": "UI",
+    "text": "<emoji BtlEffectCoopRangeUp>Combo Range Expansion"
+  },
+  "Tips_BT15_005_00_Description": {
+    "speaker": "UI",
+    "text": "Expands your <emoji CoopRange01>combo range, making it easier to perform\nUnited Attacks. This effect persists for the duration of the battle\nin which it is activated."
+  },
+  "Tips_BT16_000_00_Caption": {
+    "speaker": "UI",
+    "text": "Delay"
+  },
+  "Tips_BT16_000_00_Description": {
+    "speaker": "UI",
+    "text": "Moves the target's action order back on the timeline.\nThere also exists something called an <b>area delay</b>,\nwhich can affect all enemies grouped within a certain\nrange on the timeline. Furthermore, you'll want to keep\nin mind that delays will not affect someone who has\nsuccessfully blocked the delaying move while alive."
+  },
+  "Tips_BT16_002_00_Caption": {
+    "speaker": "UI",
+    "text": "Unblockable"
+  },
+  "Tips_BT16_002_00_Description": {
+    "speaker": "UI",
+    "text": "Techs and spells with the <b>unblockable</b> effect cannot be blocked.\nThey can, however, be evaded."
+  },
+  "Tips_BT16_003_00_Caption": {
+    "speaker": "UI",
+    "text": "Provoke"
+  },
+  "Tips_BT16_003_00_Description": {
+    "speaker": "UI",
+    "text": "Attacking an enemy with a tech that has a <b>provoke</b>\neffect can put that enemy into a <emoji BtlEffectAnger>frenzy state.\nShould that happen, they will become unable to attack\nanyone but the character who put them into that state.\nThis can be useful when trying to focus an enemy's attacks\non a single character or when aiming for a counterattack."
+  },
+  "Tips_BT16_004_00_Caption": {
+    "speaker": "UI",
+    "text": "Hasten Chant"
+  },
+  "Tips_BT16_004_00_Description": {
+    "speaker": "UI",
+    "text": "Reduces the number of turns required to chant a spell.\nThis will have no effect if a spell only has one turn of\nchanting left until it is cast."
+  },
+  "Tips_BT16_005_00_Caption": {
+    "speaker": "UI",
+    "text": "Stealth"
+  },
+  "Tips_BT16_005_00_Description": {
+    "speaker": "UI",
+    "text": "Makes a character less likely to be targeted by enemies.\nShould a character initiate stealth after they are already\nbeing targeted by an enemy, the enemy that lost sight\nof its target will attack someone else instead.\nFurthermore, if a character that was the target of an\nenemy's frenzy initiates stealth, that enemy's frenzy\nstatus will be removed."
+  },
+  "Tips_BT16_006_00_Caption": {
+    "speaker": "UI",
+    "text": "Remove Enmity"
+  },
+  "Tips_BT16_006_00_Description": {
+    "speaker": "UI",
+    "text": "Removes a target's <emoji BtlEffectAnger>frenzy status and resets\nthe enmity (likelihood of being targeted by an enemy)\nstate of all allies."
+  },
+  "Tips_BT16_007_00_Caption": {
+    "speaker": "UI",
+    "text": "BP Up/Down"
+  },
+  "Tips_BT16_007_00_Description": {
+    "speaker": "UI",
+    "text": "Changes the amount of <emoji BtlBPCost>BP available in the next round."
+  },
+  "Tips_BT16_008_00_Caption": {
+    "speaker": "UI",
+    "text": "Status Ailment Recuperation"
+  },
+  "Tips_BT16_008_00_Description": {
+    "speaker": "UI",
+    "text": "Removes afflicted status ailments."
+  },
+  "Tips_BT16_009_00_Caption": {
+    "speaker": "UI",
+    "text": "Mech Repair"
+  },
+  "Tips_BT16_009_00_Description": {
+    "speaker": "UI",
+    "text": "Removes <emoji BtlEffectParalysisMech>mech paralysis."
+  },
+  "Tips_BT16_010_00_Caption": {
+    "speaker": "UI",
+    "text": "Special Effect Removal"
+  },
+  "Tips_BT16_010_00_Description": {
+    "speaker": "UI",
+    "text": "Removes any special effects applied to a target."
+  },
+  "Tips_BA_006_00_Caption": {
+    "speaker": "UI",
+    "text": "Carrying Over Across Playthroughs"
+  },
+  "Tips_BA_006_00_Description": {
+    "speaker": "UI",
+    "text": "Upon completing the game, information pertaining to categories that can be carried over into future playthroughs will be updated. In general, the greatest value a category has ever reached will be saved, but items and monster-absorption status will always retain whatever state they were in when that playthrough was completed. Your completion status will be carried over if enabled, or completely reset if disabled. If you're unsure of what to do, we suggest using the default settings."
+  },
+  "Tips_BT04_014_00_Caption": {
+    "speaker": "UI",
+    "text": "Roles"
+  },
+  "Tips_BT04_014_00_Description": {
+    "speaker": "UI",
+    "text": "<emoji Role_Common><b>Roles</b> are one way you can change how characters fight.\nIn addition to standard <emoji Role_Common><b>roles</b> that represent a character's\nposition or personality, there are also <emoji Role_Soul><b>souls</b> that can only be\nequipped by <i>kugutsu</i>, <emoji Role_Inheritance01><b>ephemeral roles</b> that can\nonly be equipped by ephemerals, and <emoji Role_Blood><b>sanguine roles</b> that can\nonly be equipped by vampires and knights."
+  },
+  "Tips_BT06_013_00_Caption": {
+    "speaker": "UI",
+    "text": "Showstopper/Overdrive Techs and Spells"
+  },
+  "Tips_BT06_013_00_Description": {
+    "speaker": "UI",
+    "text": "When in overdrive, techs and spells with BP costs equal to or less than those used when participating in the United Attack that sparked it will be automatically chosen. Note that conditional techs, <emoji Weapon_Blood>blood techs, and techs that <emoji CoopRange04>cannot combo will not be chosen for overdrive combos, and that attacks performed while in overdrive are <b>unblockable</b>.\n\nFor showstoppers, you will receive one additional BP before it begins, and techs and spells will be automatically chosen from among those you have equipped (with the exception of <emoji Weapon_Blood>blood techs, which cannot be used in showstoppers). When you no longer have any BP left during a showstopper, the final tech or spell will be chosen with no regard for how much BP it costs."
+  },
+  "Tips_BT06_014_00_Caption": {
+    "speaker": "UI",
+    "text": "Spell BP Cost"
+  },
+  "Tips_BT06_014_00_Description": {
+    "speaker": "UI",
+    "text": "The BP cost of spells chosen automatically during overdrives\nor showstoppers is determined by the act that sparked it.\nIf an overdrive or showstopper was sparked by a spell,\nthe BP cost of the spells it uses will be as normal.\nIf an overdrive or showstopper is sparked by a tech,\nthe BP cost of spells it uses will equal the spell's normal\nBP cost plus the number of turns needed to chant it."
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "W03_LTXT_COMM_GLUTTONY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower of Gluttony"
+  },
+  "W03_LTXT_COMM_GLUTTONY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the watchtowers built to protect the Dark Castle. It presides over the dark virtue of gluttony. The odor of rotting food fills the air around it, attracting both animals and insects."
+  },
+  "W03_LTXT_COMM_LUST_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower of Lust"
+  },
+  "W03_LTXT_COMM_LUST_000_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the watchtowers built to protect the Dark Castle. It presides over the dark virtue of lust. A seductive smell fills the air around it, while suspicious shadows lie in wait for some dark purpose."
+  },
+  "W03_LTXT_COMM_SLOTH_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower of Sloth"
+  },
+  "W03_LTXT_COMM_SLOTH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the watchtowers built to protect the Dark Castle. It presides over the dark virtue of sloth. The air is dank and stagnant, and listless things lie about here and there."
+  },
+  "W03_LTXT_COMM_RAGE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower of Wrath"
+  },
+  "W03_LTXT_COMM_RAGE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the watchtowers built to protect the Dark Castle. It presides over the dark virtue of wrath. Aggression fills the air around it, while warriors with bloodshot eyes do battle nearby."
+  },
+  "W03_LTXT_COMM_GLUTTONY_SUPER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower of Gluttony"
+  },
+  "W03_LTXT_COMM_GLUTTONY_SUPER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Warden of Gluttony, he who devours all, lives in this tower. It has a deeply distorted presence."
+  },
+  "W03_LTXT_COMM_LUST_SUPER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower of Lust"
+  },
+  "W03_LTXT_COMM_LUST_SUPER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Warden of Lust, he who derives pleasure from the suffering of others, lives in this tower. It has a deeply distorted presence."
+  },
+  "W03_LTXT_COMM_SLOTH_SUPER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower of Sloth"
+  },
+  "W03_LTXT_COMM_SLOTH_SUPER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Warden of Sloth, he who uses others to carry out his evil will, lives in this tower. It has a deeply distorted presence."
+  },
+  "W03_LTXT_COMM_RAGE_SUPER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower of Wrath"
+  },
+  "W03_LTXT_COMM_RAGE_SUPER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The Warden of Wrath, he who is ever burning with rage, lives in this tower. It has a deeply distorted presence."
+  },
+  "W03_LTXT_COMM_GRAVEYARD_000_TITLE": {
+    "speaker": "UI",
+    "text": "Graveyard"
+  },
+  "W03_LTXT_COMM_GRAVEYARD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The headstones in this graveyard stick haphazardly out of the ground like crooked teeth. It is said you can still hear the groans of those buried here."
+  },
+  "W03_LTXT_COMM_TOWN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dark Town"
+  },
+  "W03_LTXT_COMM_TOWN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A town full of lifeless beings devoid of all vitality. Its residents show no attachment to life."
+  },
+  "W03_LTXT_COMM_WELL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dark Well"
+  },
+  "W03_LTXT_COMM_WELL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "An old well. You've no idea how deep it goes, and no one has ever tried gathering water from it."
+  },
+  "W03_LTXT_COMM_ROSE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower Ruins"
+  },
+  "W03_LTXT_COMM_ROSE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A ruin that somewhat resembles the watchtower it used to be. It's covered in roses and ivy."
+  },
+  "W03_LTXT_COMM_CASTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Dark Castle"
+  },
+  "W03_LTXT_COMM_CASTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This building towers into the sky in the center of Yomi. It is home to this world's ruler, the Dismal King."
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_TOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Gluttony's Extreme"
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_TOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the watchtowers built to protect the Dark Castle. It presides over the dark virtue of gluttony. The odor of rotting food fills the air around it, attracting both animals and insects."
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_TOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Watchtower of Gluttony"
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_FOOD_000_TITLE": {
+    "speaker": "UI",
+    "text": "Feeding a Glutton"
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_FOOD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Can you acquire enough food to satisfy the Warden of Gluttony?"
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_FOOD_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dark Town"
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_GOOD_FOOD_000_TITLE": {
+    "speaker": "UI",
+    "text": "Gluttony's Bliss"
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_GOOD_FOOD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You've heard you might obtain ingredients from this well that can satisfy even the Warden of Gluttony."
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_GOOD_FOOD_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Dark Well"
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_FOOD_BATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Gluttonous Battle"
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_FOOD_BATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Does this town contain the secret to defeating the Warden of Gluttony in an eating contest?"
+  },
+  "W03_EVAR_COMM_ALL_GLUTTONY_FOOD_BATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Dark Town"
+  },
+  "W03_EVAR_COMM_ALL_LUST_TOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Lust's Extreme"
+  },
+  "W03_EVAR_COMM_ALL_LUST_TOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the watchtowers built to protect the Dark Castle. It presides over the dark virtue of lust. A seductive smell fills the air around it, while suspicious shadows lie in wait for some dark purpose."
+  },
+  "W03_EVAR_COMM_ALL_LUST_TOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Watchtower of Lust"
+  },
+  "W03_EVAR_COMM_ALL_LUST_WOLF_000_TITLE": {
+    "speaker": "UI",
+    "text": "Howling Wolves"
+  },
+  "W03_EVAR_COMM_ALL_LUST_WOLF_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The sound of howling wolves fills the air. Perhaps you should stay away from this place."
+  },
+  "W03_EVAR_COMM_ALL_LUST_WOLF_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Area"
+  },
+  "W03_EVAR_COMM_ALL_SLOTH_TOWER_000_TITLE": {
+    "speaker": "UI",
+    "text": "Sloth's Extreme"
+  },
+  "W03_EVAR_COMM_ALL_SLOTH_TOWER_000_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the watchtowers built to protect the Dark Castle. It presides over the dark virtue of sloth. The air is dank and stagnant, and listless things lie about here and there."
+  },
+  "W03_EVAR_COMM_ALL_SLOTH_TOWER_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Watchtower of Sloth"
+  },
+  "W03_EVAR_COMM_ALL_RAGE_FIRE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Flames of Wrath"
+  },
+  "W03_EVAR_COMM_ALL_RAGE_FIRE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "One of the watchtowers built to protect the Dark Castle. It presides over the dark virtue of wrath. Aggression fills the air around it, while warriors with bloodshot eyes do battle nearby."
+  },
+  "W03_EVAR_COMM_ALL_RAGE_FIRE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Watchtower of Wrath"
+  },
+  "W03_EVAR_COMM_ALL_RAGE_FIRE_020_TITLE": {
+    "speaker": "UI",
+    "text": "Rematch with the Flames of Wrath"
+  },
+  "W03_EVAR_COMM_ALL_RAGE_FIRE_020_DETAIL": {
+    "speaker": "UI",
+    "text": "Another battle with the Warden of Wrath seems unavoidable."
+  },
+  "W03_EVAR_COMM_ALL_RAGE_FIRE_020_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Watchtower of Wrath"
+  },
+  "W03_EVAR_COMM_ALL_RAGE_FIRE_030_TITLE": {
+    "speaker": "UI",
+    "text": "The Warden's Absence"
+  },
+  "W03_EVAR_COMM_ALL_RAGE_FIRE_030_DETAIL": {
+    "speaker": "UI",
+    "text": "This may be the perfect chance to acquire the key you seek."
+  },
+  "W03_EVAR_COMM_ALL_RAGE_FIRE_030_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Watchtower of Wrath"
+  },
+  "W03_EVAR_COMM_CASTLE_DOOR_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Sealed Castle"
+  },
+  "W03_EVAR_COMM_CASTLE_DOOR_000_DETAIL": {
+    "speaker": "UI",
+    "text": "This building towers into the sky in the center of Yomi. It is home to this world's ruler, the Dismal King. The entrance is sealed."
+  },
+  "W03_EVAR_COMM_CASTLE_DOOR_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Investigate the Door"
+  },
+  "W03_EVAR_COMM_CASTLE_FINAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Opening the Castle"
+  },
+  "W03_EVAR_COMM_CASTLE_FINAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Open the doors of the Dark Castle so you might meet the Dismal King."
+  },
+  "W03_EVAR_COMM_CASTLE_FINAL_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Break the Seal"
+  },
+  "W03_EVAR_COMM_CASTLE_FINAL_PRIDE_110_TITLE": {
+    "speaker": "UI",
+    "text": "With Dolores Once More"
+  },
+  "W03_EVAR_COMM_CASTLE_FINAL_PRIDE_110_DETAIL": {
+    "speaker": "UI",
+    "text": "It seems you have no choice but to once more meet with Dolores, the Warden of Pride."
+  },
+  "W03_EVAR_COMM_CASTLE_FINAL_PRIDE_110_BUTTON": {
+    "speaker": "UI",
+    "text": "Meet With Dolores"
+  },
+  "W03_EVAR_COMM_BABY_GLUTTONY_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Warden of Gluttony's Defiance"
+  },
+  "W03_EVAR_COMM_BABY_GLUTTONY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The warden refuses to accept the Dismal King's revival. Is fighting the only option here?"
+  },
+  "W03_EVAR_COMM_BABY_GLUTTONY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Break Through"
+  },
+  "W03_EVAR_COMM_BABY_LUST_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Warden of Lust's Defiance"
+  },
+  "W03_EVAR_COMM_BABY_LUST_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The warden refuses to accept the Dismal King's revival. Is fighting the only option here?"
+  },
+  "W03_EVAR_COMM_BABY_LUST_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Break Through"
+  },
+  "W03_EVAR_COMM_BABY_SLOTH_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Warden of Sloth's Defiance"
+  },
+  "W03_EVAR_COMM_BABY_SLOTH_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The warden refuses to accept the Dismal King's revival. Is fighting the only option here?"
+  },
+  "W03_EVAR_COMM_BABY_SLOTH_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Break Through"
+  },
+  "W03_EVAR_COMM_BABY_RAGE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Warden of Wrath's Defiance"
+  },
+  "W03_EVAR_COMM_BABY_RAGE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The warden refuses to accept the Dismal King's revival. Is fighting the only option here?"
+  },
+  "W03_EVAR_COMM_BABY_RAGE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Break Through"
+  },
+  "W03_EVAR_COMM_BABY_GLUTTONY_100_TITLE": {
+    "speaker": "UI",
+    "text": "Surrounded by Thralls: Tower of Gluttony"
+  },
+  "W03_EVAR_COMM_BABY_GLUTTONY_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Dismal King's thralls have surrounded the tower. There's no point in stopping here. "
+  },
+  "W03_EVAR_COMM_BABY_GLUTTONY_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By Anyway"
+  },
+  "W03_EVAR_COMM_BABY_LUST_100_TITLE": {
+    "speaker": "UI",
+    "text": "Surrounded by Thralls: Tower of Lust"
+  },
+  "W03_EVAR_COMM_BABY_LUST_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Dismal King's thralls have surrounded the tower. There's no point in stopping here. "
+  },
+  "W03_EVAR_COMM_BABY_LUST_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By Anyway"
+  },
+  "W03_EVAR_COMM_BABY_SLOTH_100_TITLE": {
+    "speaker": "UI",
+    "text": "Surrounded by Thralls: Tower of Sloth"
+  },
+  "W03_EVAR_COMM_BABY_SLOTH_100_DETAIL": {
+    "speaker": "UI",
+    "text": "The Dismal King's thralls have surrounded the tower. There's no point in stopping here. "
+  },
+  "W03_EVAR_COMM_BABY_SLOTH_100_BUTTON": {
+    "speaker": "UI",
+    "text": "Stop By Anyway"
+  },
+  "W03_EVAR_COMM_BABY_SLOTH_200_TITLE": {
+    "speaker": "UI",
+    "text": "No Need to Turn Back"
+  },
+  "W03_EVAR_COMM_BABY_SLOTH_200_DETAIL": {
+    "speaker": "UI",
+    "text": "There's no need to draw closer to the watchtower since you already flew past it."
+  },
+  "W03_EVAR_COMM_BABY_SLOTH_200_BUTTON": {
+    "speaker": "UI",
+    "text": "Stay Away"
+  },
+  "W03_EVAR_COMM_BABY_TOWN_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Dismal King's Thralls"
+  },
+  "W03_EVAR_COMM_BABY_TOWN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Will you find any of the king's thralls in the lifeless town? And if you do, will they be of any use?"
+  },
+  "W03_EVAR_COMM_BABY_TOWN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Search for Thralls"
+  },
+  "W03_EVAR_COMM_BABY_RUIN_000_TITLE": {
+    "speaker": "UI",
+    "text": "Watchtower Ruins"
+  },
+  "W03_EVAR_COMM_BABY_RUIN_000_DETAIL": {
+    "speaker": "UI",
+    "text": "Will you find a way to smuggle the king to safety here?"
+  },
+  "W03_EVAR_COMM_BABY_RUIN_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Explore the Watchtower Ruins"
+  },
+  "W03_EVAR_COMM_BABY_FLY_000_TITLE": {
+    "speaker": "UI",
+    "text": "Escape Route"
+  },
+  "W03_EVAR_COMM_BABY_FLY_000_DETAIL": {
+    "speaker": "UI",
+    "text": "You can escape through here, but first you must overcome one more trial."
+  },
+  "W03_EVAR_COMM_BABY_FLY_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Press On"
+  },
+  "W03_EVAR_COMM_BABY_GRAVEYARD_000_TITLE": {
+    "speaker": "UI",
+    "text": "Leave Yomi"
+  },
+  "W03_EVAR_COMM_BABY_GRAVEYARD_000_DETAIL": {
+    "speaker": "UI",
+    "text": "If you can take the king from this world, his power will apparently return."
+  },
+  "W03_EVAR_COMM_BABY_GRAVEYARD_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Leave Yomi"
+  },
+  "W03_EVAR_COMM_LEVELUP_BATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Commotion in the Town"
+  },
+  "W03_EVAR_COMM_LEVELUP_BATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "The air in the town is positively murderous. Though filled with both fiends and fierce warriors who seek to repel them, everyone is just fighting whoever's closest."
+  },
+  "W03_EVAR_COMM_LEVELUP_BATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Fight It Out"
+  }
+}

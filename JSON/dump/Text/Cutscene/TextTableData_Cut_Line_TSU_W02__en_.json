@@ -1,0 +1,3530 @@
+{
+  "SUB_W02_WRLD_MIDO_DISASTER_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, what's with the light?"
+  },
+  "SUB_W02_WRLD_MIDO_DISASTER_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'd bet anything that there \nare spirits in this world."
+  },
+  "SUB_W02_WRLD_MIDO_DISASTER_000_CUT_010_020": {
+    "speaker": "ArchWitch",
+    "text": "Well met, Watcher. You have been summoned\nunto this land to bear witness to the battle\nbetween us witches and the foul scourge\nknown as the Calamity.\fI am the Arch Witch, and on behalf\nof all in the Witchdom Pulchra,\nI bid you welcome."
+  },
+  "SUB_W02_WRLD_MIDO_DISASTER_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not sure what some of those words mean there,\nlady, but I think you got the wrong guy.\nI'm just here to find some spirits."
+  },
+  "SUB_W02_WRLD_MIDO_DISASTER_000_CUT_010_040": {
+    "speaker": "ArchWitch",
+    "text": "It is by neither volition nor coincidence that\nyou have come to Pulchra, Watcher; out of all\nthe countless beings traversing the Conjoined\nWorlds, you were chosen for our summons."
+  },
+  "SUB_W02_WRLD_MIDO_DISASTER_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, whatever. I'm here to find spirits,\nlike I said. Once I do that, I'll just swing\non outta this Witchdom place and leave\nyou to it."
+  },
+  "SUB_W02_WRLD_MIDO_DISASTER_000_CUT_010_060": {
+    "speaker": "ArchWitch",
+    "text": "Unacceptable. You are the Watcher;\nto bear witness to our battle with\nthe Calamity is your solemn duty.\fUntil you have seen that duty done,\nI will not permit your search."
+  },
+  "SUB_W02_WRLD_MIDO_DISASTER_000_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And if I refuse?"
+  },
+  "SUB_W02_WRLD_MIDO_DISASTER_000_CUT_010_080": {
+    "speaker": "ArchWitch",
+    "text": "You cannot, for it is your destiny.\fNow then. One of our own awaits outside\nto serve as your escort. She will take\ncare of you from this point forth."
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_BLACK_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got something in the water there."
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_BLACK_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that was a whole lot of chatter about\nstuff I couldn't care less about. Still probably\nwon't be able to forget it, though..."
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_YELLOW_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got something on the ground there."
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_YELLOW_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Probably coulda done without knowing\nany of...whatever that was.\fAlso, that face looks like\na real meddler."
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_WHITE_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Think that weapon's got a face.\nWonder who it could it be?"
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_WHITE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All this witchy business ain't for me\nto worry about, believe you me."
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_RED_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's some kinda face in the flames."
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_RED_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Must be giving us some kind of warning\nor advice, maybe? Nice of it to offer,\nbut I'll be deciding things for myself."
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_BLUE_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got some kinda human face\nin this tree trunk."
+  },
+  "SUB_W02_EVAR_MIDO_MYSTERIOUS_VOICE_BLUE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, I always find myself wanting to go\nwhere someone tells me not to. Guess this\nface understands how folks operate."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a fire spirit here. Gonna have\nto fight it if I want its power."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_001": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a water spirit here. Gonna have\nto fight it if I want its power."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_002": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a wood spirit here. Gonna have\nto fight it if I want its power."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_003": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a metal spirit here. Gonna have\nto fight it if I want its power."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a pretty weak spirit here.\nI wonder if it'd even do the trick."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_011": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a decently powerful spirit here.\nMight be worth settling for this one."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_012": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Got a powerful spirit here. Tussling with\nthis fella is probably gonna end with me\ncussin' up a storm..."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_013": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, this spirit's got power for days!\nLot of things might happen if I take it on,\nbut winning ain't one."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better back off."
+  },
+  "SUB_W02_EVAR_MIDO_SPIRIT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's do this!"
+  },
+  "SUB_W02_EVAR_MIDO_ASSASIN_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like you made it.\nI knew there was something off\nabout the way you jumped."
+  },
+  "SUB_W02_EVAR_MIDO_ASSASIN_000_CUT_000_010": {
+    "speaker": "SquireAssasin",
+    "text": "Ah, it appears the Watcher can see through\nall manner of tricks. You must know exactly\nwhat I intend to do, then?"
+  },
+  "SUB_W02_EVAR_MIDO_ASSASIN_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure do—so let's go together."
+  },
+  "SUB_W02_EVAR_MIDO_ASSASIN_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "No idea there, fella."
+  },
+  "SUB_W02_EVAR_MIDO_ASSASIN_000_CUT_000_040": {
+    "speaker": "SquireAssasin",
+    "text": "Oh? A shame."
+  },
+  "SUB_W02_EVAR_MIDO_WILLMA_000_CUT_000_000": {
+    "speaker": "YellowWitchWillma",
+    "text": "So it's finally time to set out...\nOh, I feel like my heart is going\nto beat right out of my chest!"
+  },
+  "SUB_W02_EVAR_MIDO_WILLMA_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's roll out, lady."
+  },
+  "SUB_W02_EVAR_MIDO_WILLMA_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You should stick to witching."
+  },
+  "SUB_W02_EVAR_MIDO_WILLMA_000_CUT_000_030": {
+    "speaker": "YellowWitchWillma",
+    "text": "*sigh* Yes, I thought so as well.\nThank you, Watcher."
+  },
+  "SUB_W02_FUNC_MIDO_OUTPOST_CONTROL_200_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotta put the work in."
+  },
+  "SUB_W02_FUNC_MIDO_OUTPOST_CONTROL_210_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Keeping watch is a rough beat."
+  },
+  "SUB_W02_FUNC_MIDO_OUTPOST_CONTROL_220_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe just a little more?"
+  },
+  "SUB_W02_FUNC_MIDO_OUTPOST_CONTROL_230_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, not just yet."
+  },
+  "SUB_W02_FUNC_MIDO_OUTPOST_CONTROL_240_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Go get 'em, witches!"
+  },
+  "SUB_W02_FUNC_MIDO_OUTPOST_CONTROL_250_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not sure there's even a point\nto this whole 'watching' deal."
+  },
+  "SUB_W02_FUNC_MIDO_OUTPOST_CONTROL_260_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Really gotta put an end to this\ndang thing already..."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_980_CUT_000_000": {
+    "speaker": "Unknown_Person",
+    "text": "Victory now lies beyond the witches' grasp;\naiding them is naught but wasted effort.\nYet you can end all with a thought,\nif you but desire it."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_980_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry about that, champ, but I still\ngot stuff that needs doing here."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_980_CUT_000_020": {
+    "speaker": "Unknown_Person",
+    "text": "This is known. You may leave all to me."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_980_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Just butt out already."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_980_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure. Go ahead and end it."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_980_CUT_000_050": {
+    "speaker": "Unknown_Person",
+    "text": "Wise choice, Watcher. By your will\nalone is the fate of the witches set."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. Looks like I got the boot."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Lady said something about an escort \nwaitin' for me out here, but..."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There we go. You must be the escort\nthe Arch Witch was talking about, eh?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_030": {
+    "speaker": "Unknown_Person",
+    "text": "Trust not the witches, Watcher, for they\nwould use your power only to traverse\nthe Conjoined Worlds for themselves.\nUnderstood? Trust not the witches."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "What was that about? I'm starting to think\nthis world's gonna be more trouble than\nit's worth. Best bag some spirits and get\noutta here quick as I can."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh! The Watcher! You're here!\fAlso, crap! The Arch Witch and Mother are\ngoing to be <i>super</i> furious with me!"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Gotta admit though, I was expecting the Watcher\nto be a bit more...I dunno. Dignified, I guess?\nAlso older. You seem like a real nobody.\n...I mean, no offense."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry to disappoint. Also, I didn't ask for\na field trip chaperone, so how about you\njust hurry up and tell me what I'm supposed\nto be watching here?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "So the Arch Witch didn't explain anything?\nNot Calamity, not the witches, nothing?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Right then! Intros. So I'm Lita Caryx,\none of the witches of the blue.\fThat's important, because here in the\nWitchdom Pulchra, witches are divided\ninto five separate colors, and each\nof them has their own land."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Castle Black Swan on Ebon Lake is\nhome to witches of the black."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_110": {
+    "speaker": "Lita_Caryx",
+    "text": "To the west, you've got the Leone Bianco\nPalazzo, home to witches of the white."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_120": {
+    "speaker": "Lita_Caryx",
+    "text": "The Flame Fortress blazes in the south;\nit's home to witches of the red."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_130": {
+    "speaker": "Lita_Caryx",
+    "text": "This pinwheel here is the central place\nfor witches of the yellow. It's called\nthe Dusk Pinwheel. Neat, huh?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_140": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, and last but not certainly not least,\nthere's the Tree of the Forever Young,\nwhich is home to witches of the blue,\nlike myself."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_150": {
+    "speaker": "Lita_Caryx",
+    "text": "Our world is a land formed by the balance\nof vast spiritual energies, all of which\nare centered around the domain of the\nArch Witch: the Brilliant Tower."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_160": {
+    "speaker": "Lita_Caryx",
+    "text": "Once each generation, a Calamity strikes\nand threatens this balance—a Calamity\nthat takes a different form each time\nit appears.\fThis generation's Calamity is now\nupon us, and we face nothing less\nthan the very crystallization\nof our world."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_170": {
+    "speaker": "Lita_Caryx",
+    "text": "Calamities are a side effect of our magic usage,\nwhich means they tend to advance on places with\ngreat power. So right now, the crystallization\nis slowly taking over all of our domains."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_180": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'd suggest you just stop using magic,\nbut I suppose that wouldn't go over well."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_190": {
+    "speaker": "Lita_Caryx",
+    "text": "Exactly so, which is why we have to stand\nagainst the Calamity. If we don't fight it—\nand win—we won't be witches anymore."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_200": {
+    "speaker": "Lita_Caryx",
+    "text": "But it's not all doom and gloom!\nFighting a Calamity is one of those\nonce-in-a-lifetime things, so we try\nto make it a real party.\fI mean, you know. Break out the big\nspells, throw everything we've got into\neach battle... Just have fun while we\ntry not to die, basically!"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_210": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Kinda tough for a pacificist like me to\nwrap my noggin around, but I think I get\nthe general deal. You sure got that shiny\nlook in your eyes, at least."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_220": {
+    "speaker": "Lita_Caryx",
+    "text": "Right, so here's where you fit in:\nas this generation's Watcher, it's\nyour sacred duty to oversee our war."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_000_CUT_000_230": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All righty, then. Guess I'll just figure\nout where I wanna go...uh, watch."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "How am I not supposed to trust witches\nwhen they're runnin' the whole world?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, hey!"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "You're the Watcher, right?\nUh, but why are you just...spacing out?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's nothing. I'm good."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Some weirdo yelled at me."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Told me not to trust the witches.\nBut this place is called the <i>Witchdom</i>\nfor cripes' sakes, so can't really see\nwhat good that advice is gonna do a guy."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "What did this person look like?\nAny distinguishing features?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Couldn't see their face. And even if I could,\nI just got here like I said, so I don't exactly\nknow what you want from me."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_120": {
+    "speaker": "Lita_Caryx",
+    "text": "Huh. Yeah, okay. That's totally fair.\nSorry for the inquisition.\fSo let's do intros. I'm Lita, one of the\nwitches of the blue, and the Arch Witch\ntold me to be your guide."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_121": {
+    "speaker": "Lita_Caryx",
+    "text": "Fair enough. Okay, so I'm Lita, one of\nthe witches of the blue. The Arch Witch\ntold me to be your guide."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good to meet you. I'm—"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_140": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, no need to get into all that.\nYou're the Watcher. That's all I need."
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_150": {
+    "speaker": "Lita_Caryx",
+    "text": "Soooooo? Anything you want to ask up front,\nor do you just wanna get to the watching?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_160": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh...watching, I guess?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_170": {
+    "speaker": "Tsunanori_Mido",
+    "text": "How about you give me the lowdown?"
+  },
+  "SUB_W02_WRLD_MIDO_LITA_100_CUT_000_180": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Good idea. Always nice to know what\nyou're dealing with right up front.\fSo Pulchra's witches are divided into\nfive colors, each with their own land."
+  },
+  "SUB_W02_SCAN_MIDO_LITA_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Feels like we got some dangerous places\naround here. Might be a good idea\nto start with one of them."
+  },
+  "SUB_W02_SCAN_MIDO_LITA_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Huh?"
+  },
+  "SUB_W02_SCAN_MIDO_LITA_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. That's what my gut says,\nand it's never wrong."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_000": {
+    "speaker": "BlackWitchGrete",
+    "text": "Been a while."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "It sure has, Grete. You doing well?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_020": {
+    "speaker": "BlackWitchGrete",
+    "text": "Can't complain. Who's this?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "The Watcher. The Arch Witch's got me keeping\nan eye on... Er, showing him around."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there, gal."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_050": {
+    "speaker": "BlackWitchGrete",
+    "text": "Um... Actually, let's do this later.\nThings are fine here. No worries. Bye."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy howdy, talk about your rough intros.\nI kick her dog by accident, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, she's just shy. Give her time to\nget used to you, and then maybe you\ncan hold an actual conversation."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Oooh, look! A Calamity fiend! How lucky!\nNow I can say I fought it so I could protect\nthe Watcher, which is totally awesome!\nUh, so you just stand back there, okay?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_090": {
+    "speaker": "HERO",
+    "text": "Nope! I'm doing this!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_100": {
+    "speaker": "HERO",
+    "text": "Stand back. Got it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_110": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm so sorry, Grete. I know this is the\nbattleground of the black, but I just\nsort of lost track of my color and...\nYou know. Went for it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_120": {
+    "speaker": "BlackWitchGrete",
+    "text": "Oh, that's all right—I know that's just the\nsort of person you are. I'll make sure the\nBlack Sage doesn't find out, okay?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, she can chat with you just fine,\nso when can her and me talk?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_140": {
+    "speaker": "Lita_Caryx",
+    "text": "Your job is to watch. Not talk.\nMaybe focus on that, okay?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_150": {
+    "speaker": "BlackWitchGrete",
+    "text": "A stranger has stolen victory on the\nbattleground of the black. This will\nearn me a scolding most fearsome\nfrom the Black Sage."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_160": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Didn't mean to overstep there, lady,\nbut I thought what mattered was beating\nthis Calamity deal however we can."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_170": {
+    "speaker": "BlackWitchGrete",
+    "text": "Just leave. I don't want you here."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_180": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. Guess I should do less fighting\nand more watching, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_190": {
+    "speaker": "Lita_Caryx",
+    "text": "The Arch Witch said you're free to do as\nyou like, but that's a problem for Grete.\nSadly, I fear she's just going to wither\nmore and more."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_200": {
+    "speaker": "BlackWitchGrete",
+    "text": "The Watcher? More like the halfwit!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_210": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I lost that one—but at least\nI got Grete to talk to me!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLACK_000_CUT_000_220": {
+    "speaker": "Lita_Caryx",
+    "text": "I seriously have no idea\nwhy you're the Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_000": {
+    "speaker": "YellowWitchWillma",
+    "text": "Why have you come to the battleground\nof the yellow, Lita?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Gotta babysit the Watcher.\nArch Witch and my mother's orders."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_020": {
+    "speaker": "YellowWitchWillma",
+    "text": "Oh dear. I'm terribly sorry to hear that.\nYou <i>do</i> have perfect timing though,\nbecause there's a matter I want to discuss.\fIt appears the Dusk Pinwheel and the\nYellow Sage have flown off somewhere."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh, sorry. Pinwheels fly here?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "What else that size could be flying\naround out there if not the pinwheel?\nAlso, we're talking, and you're supposed\nto be watching. Don't interrupt."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Anyway, Willma, I know it's weird for the\nDusk Pinwheel to fly off in the middle of a\nCalamity, but if the Yellow Sage is with it,\nI'm sure everything's fine."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_060": {
+    "speaker": "YellowWitchWillma",
+    "text": "Sure, assuming they come back."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Willma, look! A Calamity fiend!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_080": {
+    "speaker": "YellowWitchWillma",
+    "text": "I, a proud witch of the yellow,\nwill handle this!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_090": {
+    "speaker": "HERO",
+    "text": "All yours."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_100": {
+    "speaker": "HERO",
+    "text": "Nope! This one's mine!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_110": {
+    "speaker": "YellowWitchWillma",
+    "text": "It proved a difficult fight without\nthe Yellow Sage, but we managed."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "By the way, your pinwheel\nwent up and flew off again."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_130": {
+    "speaker": "YellowWitchWillma",
+    "text": "Argh! I knew it! It's all my fault!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_140": {
+    "speaker": "Lita_Caryx",
+    "text": "You said you had something you wanted\nto talk about earlier, Willma. What was it?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_150": {
+    "speaker": "YellowWitchWillma",
+    "text": "Oh, it's nothing. The Dusk Pinwheel is a\nproblem for witches of the yellow, so I\ncan't possibly discuss it with a blue witch."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_160": {
+    "speaker": "Lita_Caryx",
+    "text": "Gotcha. Well, hang in there."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_170": {
+    "speaker": "YellowWitchWillma",
+    "text": "Thanks, Lita."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_180": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I don't mean to pry here, but are relations\nbad between all you witch folks just\nbecause of the colors?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_190": {
+    "speaker": "Lita_Caryx",
+    "text": "It's not that relations are bad—it's more a\nmatter of etiquette. It's considered rather\ninappropriate for one color of witch to\ninterfere with the affairs of another."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_200": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I'm the Watcher, and this color stuff\ndoesn't mean squat to me—and since I'm\ncurious about that nifty flying pinwheel\ndeal, I'm gonna go check it out."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_210": {
+    "speaker": "Lita_Caryx",
+    "text": "As you say, Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_220": {
+    "speaker": "YellowWitchWillma",
+    "text": "This is the first time I've seen someone\nother than a witch fight. How interesting."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_YELLOW_000_CUT_000_230": {
+    "speaker": "YellowWitchWillma",
+    "text": "Non-witches just can't cut it. *sigh*\nI should have seen that coming."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_000": {
+    "speaker": "RedWitchOrchid",
+    "text": "Well, well. If it isn't the infamous Watcher.\nDo you really think this stranger's blood\nis fit for joining with us witches, Lita?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I know how much that sort of thing interests\nyou, Red Orchid, but I'm pretty sure that's not\nwhat the Arch Witch meant when she told me\nto serve as his escort."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_020": {
+    "speaker": "RedWitchOrchid",
+    "text": "Which means she's probably sneaking a peep\nat us in her magic mirror as we speak—\nand I'm sure she'll <i>love</i> it! Ha!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not sure <i>I'm</i> loving it, though."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_040": {
+    "speaker": "RedWitchOrchid",
+    "text": "So you have come to the Witchdom at last,\nWatcher. Do enjoy yourself, now."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Look, Red Orchid, Calamity fiends!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_060": {
+    "speaker": "RedWitchOrchid",
+    "text": "Eee hee! Wonderful! Now let yourself\nbe captivated by a witch of the red!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_070": {
+    "speaker": "HERO",
+    "text": "Oh, I'm watching."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_080": {
+    "speaker": "HERO",
+    "text": "I'll do the captivating here!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_090": {
+    "speaker": "RedWitchOrchid",
+    "text": "O fiends of the Calamity, enjoy both\npleasure and pain from my crimson fires!\nBehna ascatella!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, that one certainly doesn't need\nanybody to watch over her."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_110": {
+    "speaker": "Lita_Caryx",
+    "text": "Eh, I wouldn't be so sure. Yes, we fight\nwith a distinct edge when the Red Orchid\nis directly involved in a battle, but she\ncan't be everywhere at once."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So the Calamity's got its own plans for why\nand how it attacks? Criminy, this war's\ngonna be tougher than I thought."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_130": {
+    "speaker": "RedWitchOrchid",
+    "text": "Hey! What kind of IDIOT goes and steals\nsomeone's limelight like that, huh!?\fStill, seeing you fight absolutely\ndid captivate me, so...\fI want your blood. I want it.\nGive it to me!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_RED_000_CUT_000_140": {
+    "speaker": "RedWitchOrchid",
+    "text": "The Watcher should maybe stick to watching.\nUgh. Begone. I've no need of your blood."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLUE_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "But...I wanted to fight, too."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLUE_000_CUT_000_010": {
+    "speaker": "BlueWitchNormal",
+    "text": "There isn't much you can do about that.\nYou just carry out the Arch Witch's orders while\n we protect the Tree of the Forever Young."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLUE_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Only natural for folks to worry\nabout their own home."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLUE_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, I'm sure Mother will protect it.\nThe real problem is that all the other\nblue witches are out fighting while\nI'm stuck wandering around with you!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLUE_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, I'm not keeping you here.\nYou wanna fight? Knock yourself out."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLUE_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "I CAN'T do that, you dingbat—that's why\nI'm so annoyed! Now quit trying to talk to\nme about stuff you know nothing about!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLUE_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Look, let's just go watch over the\nnext place, okay? That's your duty."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLUE_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "You seem a bit unclear on the whole\n'watching' aspect of your position."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_BLUE_000_CUT_000_080": {
+    "speaker": "BlueWitchNormal",
+    "text": "Can you get this guy out of here already?\nHe's really getting in the way."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Wait. Something feels...different."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I definitely feel a strange presence\ngathering at the Brilliant Tower,\nbut I almost can't believe it..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_010_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "We did it! We've destroyed\nall of the crystals!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_010_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Really makes a fella feel good\nto see a job well done."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_015_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Wait. It feels like... Yes! The five castles\nhave all completed their barrier spells!\nWe've protected the Witchdom!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_020_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Learn something there, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_020_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I always thought witches were something\nwe become, but I see now I was mistaken.\nWe have always been witches from the start."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_020_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "We don't save the world—we're part of it.\nDo you see? We ARE the Witchdom Pulchra."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_020_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "The world has been screaming for us to help it,\nand I finally heard its cries. WE are to blame\nfor this! WE brought about the Calamities!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_020_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Fiends are the cries of the Calamity,\nand one witch is connected to another\nby some force that we can't see.\nI...I understand that now."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_000_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Arch Witch!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_000_CUT_010_010": {
+    "speaker": "ArchWitch",
+    "text": "The Calamity is ended, Watcher.\nYour duty is nearly complete."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_000_CUT_010_020": {
+    "speaker": "ArchWitch",
+    "text": "It would appear you possess the power to\nchoose your own fate; a choice which is\nyours by right. Not even we witches have\nthe ability to intervene in this."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_000_CUT_010_030": {
+    "speaker": "ArchWitch",
+    "text": "As for you, Lita, your duty continues:\nI bid you experience the Watcher's choices\nby his side. Once you have done this,\nI will await you in the Brilliant Tower."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_000_CUT_010_040": {
+    "speaker": "Lita_Caryx",
+    "text": "The Arch Witch knows your choices will affect\nthe fate of the witches of Pulchra, Watcher.\nAnd while I know it's not my place to ask...\fWell, if you've come to understand anything\nabout us witches, I just hope you think of us\nas you move forward—even just a little."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_DISASTER_CLEAR_000_CUT_010_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Now let's be off."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_000": {
+    "speaker": "ArchWitch",
+    "text": "You have arrived, Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_010": {
+    "speaker": "ArchWitch",
+    "text": "...And I see you have obtained the power\nof a spirit. With your objective thus fulfilled,\nit is now the turn of us witches."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_020": {
+    "speaker": "ArchWitch",
+    "text": "Lita, your destiny has been decided:\nyou shall shoulder the burden\nof the final battle."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "But am I strong enough for that?\nBecause if I fail, the Witchdom will..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_040": {
+    "speaker": "ArchWitch",
+    "text": "You will have all of the witches of Pulchra\nbehind you—myself included. Rest easy,\nchild, for you do not fight alone."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "I understand—and I'm going to win!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_060": {
+    "speaker": "HERO",
+    "text": "Good luck, Lita."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_070": {
+    "speaker": "HERO",
+    "text": "Wrong! This is MY fight!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Thanks. Watch over me, okay?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "No. This fight belongs to the witches,\nand I cannot entrust it to the Watcher.\nBut thank you all the same—and know\nI will carry your feelings into battle."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_100": {
+    "speaker": "ArchWitch",
+    "text": "Do you truly intend to do this, Watcher?\nThis fight holds little meaning for you."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's my final duty, yeah? You witch gals\nhave had my back this whole time, and I\nwanna wrap it up all nice and neat for you."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_120": {
+    "speaker": "ArchWitch",
+    "text": "If that is how you feel, then so be it—\nfor even if you lose, Lita will be there.\nLet your mind rest easy and fight."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, you gals <i>really</i> don't trust me...\nWell, guess I'll just have to show\nyou some real results!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "We did it! We won!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. Nice job, bud."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Thank you, Watcher. I feel like I only\nsurvived because of all the things\nI saw and did when I was with you."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You know something? Maybe the big cheese\nin this whole deal isn't the Watcher,\nbut the witches who travel with him?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_040": {
+    "speaker": "ArchWitch",
+    "text": "Who can say? In any event, Lita has achieved\na great victory—so whatever the future\nmay hold, Pulchra will be ever secure."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_050": {
+    "speaker": "ArchWitch",
+    "text": "Now then, Watcher. The time\nhas come for your final duty."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_060": {
+    "speaker": "ArchWitch",
+    "text": "I bequeath unto you this Calamity Shard—\nor perhaps it would be better to call it a seed\nof the Calamity. Regardless, I would have you\ntake it away to the Conjoined Worlds."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Feels like a guy's being eighty-sixed here.\nI take it you're telling me to leave and\nnever come back?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_080": {
+    "speaker": "ArchWitch",
+    "text": "That is correct. And though you were here\nfor but a short time, know that we witches\nwill never forget you... Now begone!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_090": {
+    "speaker": "Lita_Caryx",
+    "text": "I had a blast, Watcher!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It was a real wild ride.\nSo long!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Lita! Lita, no!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_020_010": {
+    "speaker": "ArchWitch",
+    "text": "Lita has been turned to crystal.\nHer actions, however, have brought\nwe witches a great victory this day."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_020_020": {
+    "speaker": "ArchWitch",
+    "text": "Now then, Watcher. The time\nhas come for your final duty."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_020_030": {
+    "speaker": "ArchWitch",
+    "text": "I bequeath unto you this Calamity Shard—\nor perhaps it would be better to call it a seed\nof the Calamity. Regardless, I would have you\ntake it away to the Conjoined Worlds."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_020_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Kinda feels like a memento of Lita...\nAlso, are you saying I can't ever come\nback here so long as I have this on me?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_000_CUT_020_050": {
+    "speaker": "ArchWitch",
+    "text": "Correct. Now take your leave."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck! That wasn't so bad!\nAlso, there's no way I was gonna lose to\nthe Calamity when it was in such sad shape."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "So this is the Watcher's true power...\nIt's incredible!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_020": {
+    "speaker": "ArchWitch",
+    "text": "Thank you, Watcher. And now, at long last,\nwe are come to your final duty."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sweet cripes, lady! There's MORE!?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_040": {
+    "speaker": "ArchWitch",
+    "text": "I bequeath unto you this Calamity Shard—\nor perhaps it would be better to call it a seed\nof the Calamity. Regardless, I would have you\ntake it away to the Conjoined Worlds."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Look! The shard!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_060": {
+    "speaker": "ArchWitch",
+    "text": "You have taken the Calamity Shard into you.\nAs such, you can never be permitted to\nset foot in the Witchdom again."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well heck, I get it now: the Watcher's <i>real</i>\nrole is to make sure that not even a tiny\nbit of the Calamity hangs around."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_080": {
+    "speaker": "ArchWitch",
+    "text": "Correct. Now take your leave."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Wait, Arch Witch! Please!\fI beg of you, permit me to leave Pulchra.\nI would like to travel with the Watcher\nand see his journey through to the end."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_100": {
+    "speaker": "ArchWitch",
+    "text": "Ah, but this is a beautiful end indeed.\nYou are a witch, Lita; your path is yours\nto choose. I ask only that you return\nto us once you have seen all you can."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_110": {
+    "speaker": "Lita_Caryx",
+    "text": "I will, Arch Witch—and thank you."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_120": {
+    "speaker": "Lita_Caryx",
+    "text": "Right then, Watcher! I'm coming with you!\n...And if you try to say no, I'm gonna\nsmack you in your dumb face SO hard."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's no need for all that.\nPull up a seat and join the party."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_010_140": {
+    "speaker": "ArchWitch",
+    "text": "Off you go, then. Farewell."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_020_000": {
+    "speaker": "ArchWitch",
+    "text": "The Watcher was defeated, but this is good—\nfor the battle with the Calamity is one for\nwitches to fight, and it is only right that we\nassume control. Now come, Lita!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_010_CUT_020_010": {
+    "speaker": "Lita_Caryx",
+    "text": "As you wish, Arch Witch."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_000_010": {
+    "speaker": "ArchWitch",
+    "text": "You could have attained the power of a\nspirit elsewhere. Why have you chosen\nthe Brilliant Tower?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I sorta felt like getting a spirit's power\nby ending the Calamity would tie up everything\nI've done here as a Watcher all nice and neat.\fReal humdinger of an ending,\nif you ask me. Almost...beautiful."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_000_030": {
+    "speaker": "ArchWitch",
+    "text": "Beautiful, you say? Yes, I suppose it is\na fitting end for the struggle between\nus witches and the Calamity.\fI thank you for the choice you have made,\nWatcher. But now, it truly falls to you\nto decide whether or not this ending\nis a beautiful one."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "It's my turn to watch you now, Watcher.\nSo good luck...and make sure you win!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck yeah! I drew out the spirit's power\nfrom the Calamity and took care of the\ndang thing at the same time!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "So this is the Watcher's true power...\nIt's incredible!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_010_020": {
+    "speaker": "ArchWitch",
+    "text": "Thanks to you, Watcher, the beautiful end you\ndesired is nearly upon us. And so, I would\nentrust what remains to you: the Calamity Shard."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The Watcher's final duty, huh?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_010_050": {
+    "speaker": "ArchWitch",
+    "text": "You have absorbed the Calamity Shard. And though\nI know not what all it means, I understand this much:\nyou can never again set foot in the Witchdom,\nfor we must safeguard it from the Calamity."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_100_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. A beautiful ending, all right."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Hang on! This is the Brilliant Tower—\nwe can't just go waltzing into the place\nwithout the Arch Witch's permission."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, it's fine."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Did the Arch Witch call for you?\nBecause I haven't heard anything."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I guess we're in here now..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_010": {
+    "speaker": "ArchWitch",
+    "text": "Your duty is not complete, Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry about this, lady, but I'm not actually\nworried so much about whatever duty you think\nI've got. See, I snagged a spirit, which means\nit's time for this guy to skedaddle. "
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_030": {
+    "speaker": "ArchWitch",
+    "text": "You cannot leave until your duty is\nfulfilled. I believe I explained this."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this is a real pain in the rear.\nCan you do something here, Grey Witch?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_050": {
+    "speaker": "GreyWitch",
+    "text": "By fulfilling your duty, the gateway to\nthe Conjoined Worlds will be thrust open.\nThe Arch Witch indeed spoke true:\nthis is your final duty."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_060": {
+    "speaker": "GreyWitch",
+    "text": "Take it and begone from the Witchdom—\nand do not look to return."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Looks like the gate's open.\nSo long, ladies!\nBe good to each other!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh hey, almost forgot to ask...\nWhat's the Grey Witch's deal, anyway?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_090": {
+    "speaker": "GreyWitch",
+    "text": "Ask yourself this, Watcher: what color\nis formed by the merging of them all?\fIndeed, it is grey—and I, the Grey Witch,\nam the ultimate being, one who carries the\nstrength of all the colors of the Witchdom.\fAnd from this point forward, Pulchra will\nassume the hue of the grey, as will all\nthe witches that abide within."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds pretty drab if you ask this guy.\nSo what happens after Pulchra goes grey?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_110": {
+    "speaker": "GreyWitch",
+    "text": "Once this is done, I will turn all\nthe Conjoined Worlds to grey—\nall <i>life</i> to grey.\fAye, for this is the way the universe\nought to be—yourself included, Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Can't say I much care for the thought\nof Miyako City turnin' grey."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "If that happens, we're gonna have words."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. Better just fight you now."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_150": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, you can't turn anything grey until\nyou beat the Arch Witch and all her buds—\nand I got a feeling she and Lita aren't\ngonna let that happen."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_160": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Know what? I changed my mind. I think I'm\njust gonna wipe the floor with you now and\nkeep Miyako City nice and colorful.\nMind helping a guy out, Arch Witch?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_170": {
+    "speaker": "ArchWitch",
+    "text": "You are no longer the Watcher, and must\ntake your leave from this place at once."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_180": {
+    "speaker": "ArchWitch",
+    "text": "...And yet, grey magic is powerful indeed.\nSo before I bid you hence, I will make use\nof your strength one last time."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_900_CUT_010_190": {
+    "speaker": "GreyWitch",
+    "text": "I feel my power...fading? No... No!\nMust I truly wait for the next Calamity!?\nThe next Watcher!?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_910_CUT_020_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I figured you'd pull through,\nformer Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_910_CUT_020_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I got a name, you know: Tsunanori Mido.\nFigure you could call me that, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_910_CUT_020_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Mmm, we'll see. But you have a\nfinal duty to take care of first."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_910_CUT_020_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fine, fine. I'll take your dang Calamity\nShard and get the heck outta town.\nSo long, Lita."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_LASTBATTLE_910_CUT_020_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Farewell, Tsunanori! I'll see you\nagain in another world!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_000_CUT_000_000": {
+    "speaker": "BlackWitchGrete",
+    "text": "In the name of Grete, witch of the black,\nI command you to burst!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_000_CUT_000_001": {
+    "speaker": "Lita_Caryx",
+    "text": "That's AMAZING, Grete! You took out\nall of the Calamity fiends at once!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_000_CUT_000_010": {
+    "speaker": "BlackWitchGrete",
+    "text": "That's not quite accurate; it wasn't\nme that did it, but this grey staff.\nIt's powerful—<i>so</i> powerful—and...\nand I think I'm afraid of it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_000_CUT_000_020": {
+    "speaker": "BlackWitchGrete",
+    "text": "Which is why I need you to take it. If I keep it,\nit'll eventually start fighting with my own staff,\nand that's no good for anyone. A witch only has\nroom in her heart for one staff, after all."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I suppose I don't mind—but if you\never need it back, just let me know."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Blech! Okay, this is totally yours now.\nI am NOT going to haul that thing around\nand wait for it to start fighting with\nmy staff. No way, nuh-uh, not happening."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "If you're looking for a pack mule,\nI'm sure you can rent one somewhere.\fAlso, it's a real nice staff and all,\nbut I get the feeling there's something\na bit off about it..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_010_CUT_000_000": {
+    "speaker": "BlackWitchGrete",
+    "text": "Ah, excellent timing. It turns out I actually\nneed the grey staff back—for without it,\nI won't be able to defeat the Calamity."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_010_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "But what about your staff, Grete?\nWon't they just start fighting?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_010_CUT_000_020": {
+    "speaker": "BlackWitchGrete",
+    "text": "Yes, which is why I'm going to\nthrow mine away. The old\nthing is weak anyway."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_010_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "No! You can't! That staff awakened you to\nblack magic, remember? Look, at least let\nme hang onto it for you, all right?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_010_CUT_000_040": {
+    "speaker": "BlackWitchGrete",
+    "text": "...Yes, I suppose you're right."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_010_CUT_000_050": {
+    "speaker": "BlackWitchGrete",
+    "text": "Now as for the grey staff..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_010_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "...Really? All right, I understand.\nI won't say anything to anyone else."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_010_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I'll hang on to the black staff, maybe?\nBy the way, what were you and Grete\nwhispering about back there?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_010_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "You're the Watcher, not the Snooper—\nso stop trying to butt in on a\ngal's private conversations!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Grete said this old castle is where she\nfirst got her hands on the grey staff."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You serious there? Why didn't you\nswing by and check it out right away?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "This is a place witches must never go...\nalthough hearing that only makes a girl\nwant to do it all the more!\fWe'd all used to try and come in here as kids—\nsort of a test of courage, I guess. But the\none time I tried, the door was locked, and I\ncouldn't find another way inside."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Still, kids do manage to get in from\ntime to time, and it always turns into\na humungous kerfuffle.\fBut since I don't remember Grete ever\nstirring up a fuss, she must have only\ncame here in the very recent past."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Anyway, I got delayed by a bunch of things\nand never ended up getting back this way—\nbut now that we're here, I really need to\ngive it a thorough look-around.\fI mean, Grete's been acting SUPER weird.\nDid you see how she just tossed her\nstaff out? That's very not like her."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, that grey staff was really giving me\nthe willies. Felt more like the power of the\nCalamity than anything from you witch gals."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, it's actually sort of creepy when\nyou start talking like a real Watcher... \nAnyway, let's just check this place out."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hang on just a second there.\nThought you said this place was locked."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "It is—but we know Grete got in,\nso there HAS to be a way in."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, okay. Lemme take care of this."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There you go."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Seems like most anybody could come in here\nif they just...you know. Opened the door."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, there's nothing here but a mirror.\nWhole lotta fuss over nothing..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe we're supposed\nto talk to it?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_030": {
+    "speaker": "Old_Mirror",
+    "text": "Just so."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_040": {
+    "speaker": "Old_Mirror",
+    "text": "I have been ever so delighted at the sudden\nincrease in guests. Now please, make a request\nof me. What does your heart desire?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not really why I'm here, bud, but thanks for the\noffer. How about you just tell me about the witch\nwho swung by here earlier and left with a staff.\nHow'd she get her hands on it?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_060": {
+    "speaker": "Old_Mirror",
+    "text": "A question, is it? Excellent! Indeed,\none of my duties is to answer any\nand all questions asked of me.\fAs for your witch, she made but one request:\na wish for power. Such a simple request\ndeserved a simple answer, so I provided\nher with a staff of great might."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, but who'd you get the staff from?\nYou got someone else hanging around here?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_080": {
+    "speaker": "Old_Mirror",
+    "text": "The staff came from beyond that gate."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_090": {
+    "speaker": "Old_Mirror",
+    "text": "Alas, you cannot pass through it;\nit is a gateway for witches alone."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fine then, lemme change up the question:\nwhat sort of staff is it? I mean, it's clearly\npowerful, but it feels a little different\nfrom other witchy stuff I've been seeing."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_110": {
+    "speaker": "Old_Mirror",
+    "text": "A fine question! That is a grey staff,\nthe ultimate staff, hewn from the lifelong\nefforts of the Grey Witch. And speaking of\nthe Grey Witch..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_120": {
+    "speaker": "Old_Woman",
+    "text": "What are you gossiping about,\nyoung man!? Show some manners!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You the Grey Witch there, lady?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_140": {
+    "speaker": "Old_Woman",
+    "text": "Me? A witch? Ha! Oh, there truly are nothing\nbut idiots like you on the outside! No wonder\nthey're having trouble with the Calamity.\fBut now that the grey staff has abandoned this\ncastle, the Calamity will soon be brought to\nheel—and on that day, witches of all colors\nwill bow before the power of the grey!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_150": {
+    "speaker": "Lita_Caryx",
+    "text": "I don't know what the power of the grey is,\nbut I know we don't need it! We can take out\nthe Calamity just fine on our own, thank you!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_160": {
+    "speaker": "Old_Woman",
+    "text": "In that case, you will never attain the victory\nyou desire. Not that it matters...because you\nwill also never leave this castle!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_170": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I think you just filled in most of\nthe blanks, so thanks a bunch for that.\nGuess we'll be off now."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_180": {
+    "speaker": "Old_Woman",
+    "text": "Did you not hear me, you rude boy!?\nYou cannot leave this castle!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_190": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Lady, I'm a Watcher.\nI go wherever I want."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_010_200": {
+    "speaker": "Old_Woman",
+    "text": "A Watcher!? Damnation!\nStop them, you lot!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_OLD_CASTLE_000_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That's your classic stalling technique right\nthere. We gotta hurry back to Grete."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_020_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Where's Grete?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_020_CUT_000_010": {
+    "speaker": "Black_Witch",
+    "text": "She went to Castle Black Swan—right after\nunleashing a magic so powerful it destroyed\nevery Calamity fiend in sight!\fOh, but before she took off, she said:\n'Now the way to Castle Black Swan is clear.' \nEr, whatever <i>that</i> means."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_020_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "The only way to the castle is through\nan underground waterway. Let's go!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_030_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I hear Grete went to Castle Black Swan?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_030_CUT_000_010": {
+    "speaker": "Black_Witch",
+    "text": "Yes, she came through a short while ago.\nBut you may not pass, for you are not\na witch of the black."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_030_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hate to pull rank on you there, but I'm\nthe Watcher—and right now, I've got an\nurge to watch that castle."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_030_CUT_000_030": {
+    "speaker": "Black_Witch",
+    "text": "The Watcher? ...Very well, do as you wish.\nBut know this! The guards of this waterway\ncare not for your esteemed position, Watcher;\nthey will attack any who are not of the black."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_030_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Appreciate the tip."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_030_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wish I could've had myself\nan easier trip to the castle."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_000": {
+    "speaker": "BlackWitchGrete",
+    "text": "The power of the grey is greater than the black;\nI learned as much when I wielded this staff.\nNow leave the fight with the Calamity to me,\nfor I can win the day with ease!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_010": {
+    "speaker": "BlackWiseWitch",
+    "text": "You mustn't surrender yourself to the power\nof the grey, Grete, for it is no different\nfrom the Calamity itself—and using such\na power to best it would be no victory."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_020": {
+    "speaker": "BlackWitchGrete",
+    "text": "Yet black magic is no match for the\nCalamity! Indeed, it is useless!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Feel like this is the real battle against\nthe Calamity, maybe? A witch having to learn\nfor herself the meaning of victory, I mean."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "This black staff is your true staff."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, I dunno what you're thinking with this\nwhole 'grey staff' business, but you gotta\nput that thing back where you found it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_060": {
+    "speaker": "Unknown_Person",
+    "text": "If you enter into this conflict, Watcher,\nthat witch will forfeit her life.\fHowever, I have mastery of a trick which can\nmake it so the grey staff is damaged\nwhile the witch is left unharmed."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You're right that I got no beef with this\nwitch lady, but can't say I exactly trust\nyou here, either."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_080": {
+    "speaker": "Unknown_Person",
+    "text": "And yet, what choice have you?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Can't argue with that.\nGuess I'll handle that staff."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_010_000": {
+    "speaker": "BlackWiseWitch",
+    "text": "While the power of the grey staff remains,\nGrete, I want you to cast a spell with me—\nusing your own black staff, of course."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_010_010": {
+    "speaker": "BlackWitchGrete",
+    "text": "Right!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_020_000": {
+    "speaker": "BlackWitchGrete",
+    "text": "I can't believe I got to cast a spell\nwith the Black Sage herself!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_020_010": {
+    "speaker": "BlackWiseWitch",
+    "text": "And why not, Grete? For it was I who gave you\nthat staff in order to awaken the power of\nthe black that sleeps within you.\fIt is a staff of unhurried power that\nmatches your own talents within."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_020_020": {
+    "speaker": "BlackWiseWitch",
+    "text": "You are the type who makes slow progress—\na trait which gives you the ability to\nimpact things greatly.\fI know you wish to proceed at the same speed as\nother youthful witches, for that is what it means\nto be young. But such feelings created an opening\nthat invited the power of the grey."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_020_030": {
+    "speaker": "BlackWiseWitch",
+    "text": "I should have explained that to you more directly,\nbut I thought your haste and fretting would lead\nto growth as a witch of the black, and so left\nyou to your own devices. Pray forgive me."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_020_040": {
+    "speaker": "BlackWitchGrete",
+    "text": "I...I fear you praise me overmuch, Black Sage.\nBut I will continue in my own unhurried way\nto work hard and hone my skills as a proud\nwitch of the black."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_020_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, looks like we're all good here.\nBack to watching stuff!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_020_060": {
+    "speaker": "BlackWiseWitch",
+    "text": "A moment, Watcher. I believed we had no need of\nyour presence on our battlefield, but see now that\nI was mistaken; times such as these are <i>exactly</i>\nwhen we need your overarching perspective.\fYou have helped me to see this,\nand I am grateful beyond words."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_020_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not sure I deserve all that, seeing as I didn't\nexactly sign up for this Watcher business.\nBut hey, sounds like it worked out for you,\nso I guess I'm happy enough."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_BLACK_050_CUT_020_080": {
+    "speaker": "BlackWitchGrete",
+    "text": "Thank you, Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, this thing's just huge when you see it\nup close. Not sure why a pinwheel's giving me\nthe heebie-jeebies either, but there it is."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Ha ha! Did you actually think we'd have\nto fight a pinwheel? Anyway, let's go talk\nto the Yellow Sage."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_020": {
+    "speaker": "YellowWiseWitch",
+    "text": "You cannot enter without permission, witch of\nthe blue—and what's more, that one there is not\neven a witch! Aye, but the pinwheel is in foul\nspirits right now. Foul spirits indeed."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Is that why it flew off on its own?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_040": {
+    "speaker": "YellowWiseWitch",
+    "text": "Nay, its foul temper is the result of that,\nnot the cause. Someone caused the pinwheel's\ncompass to move, which made it float off\nthis way and that.\fThat is why the pinwheel is in such\nfoul spirits—and why I am, as well."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You think this is the deal\nWillma was talking about?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_060": {
+    "speaker": "YellowWiseWitch",
+    "text": "Pah! Willma is an apprentice witch, and nothing\nmore—she lacks the strength to interfere with\nthe compass. If it were so simple as all that,\nI would have already returned the thing."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_070": {
+    "speaker": "YellowWiseWitch",
+    "text": "Incredible magical power is required to move\nthe compass—the kind of power that shortens\none's very life.\fI can ill afford to expend such power in the\nmidst of a war with the Calamity, which is\nwhy I cannot manipulate the compass."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Then I will do—"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_090": {
+    "speaker": "YellowWiseWitch",
+    "text": "Never! Out of the question! A witch of a\ndifferent color can never be permitted\nto manipulate our compass!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_100": {
+    "speaker": "YellowWiseWitch",
+    "text": "Enough of this! The strange one here has\noverstayed his welcome, which has caused\nthe pinwheel's foul mood to descend ever\ndeeper into brood and bile.\fHow am I going to put this right?\nUgh. I feel a headache coming on."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_110": {
+    "speaker": "Lita_Caryx",
+    "text": "We <i>definitely</i> got the boot there."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Pinwheel zipped off somewhere, too. Seems like\nthe best thing here is to get that compass deal\nback to normal, but sounds like that's gonna\nbe a real pain in the rear."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "We went to the Dusk Pinwheel and heard\nall about the compass situation from the\nYellow Sage. Know anything about that, Willma?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_010": {
+    "speaker": "YellowWitchWillma",
+    "text": "...It's my fault. I got close to the compass,\nand it angered the pinwheel.\nOh, I really AM a golem!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Don't talk about yourself like that!\nWe've been friends since we were little,\nand a golem could never have become\nan apprentice witch."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_030": {
+    "speaker": "YellowWitchWillma",
+    "text": "But everyone else already passed their\nWitchterms, and I haven't even been allowed\nto <i>take</i> mine! ...It's because I'm a golem."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "But you have powerful magic!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_050": {
+    "speaker": "YellowWitchWillma",
+    "text": "I <i>did</i> have powerful magic—but now everyone else\nis a full witch, and I'm still an apprentice.\nMy strength in the past was just a golem's\nstrength, and that's why I'm not growing."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't think you're gonna be able to get through\nto her. Gotta ask though, is she really a golem?\nAlso, what's a golem?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Artificial life-forms hewn from the earth by\nwitches of the yellow. They can do manual labor\nand other simple tasks, though I'm not sure if\nthey ever made one that looks human."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, she seems pretty much like\nall the rest of you to me."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "There's just no way she could be a golem!\nC'mon, let's go talk to the Yellow Sage;\nI'm sure she'll know something."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_020_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Better ask about that compass deal too,\nbecause Willma definitely went near it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_000": {
+    "speaker": "YellowWiseWitch",
+    "text": "Oh, for heaven's sake... What is it now!?\nYou people can't just keep barging into\nthe pinwheel whenever you like!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I want to know why you've never let Willma\ntake her Witchterms. She and I are the same\nage, so she should've been able to take them\naround the same time as me."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_020": {
+    "speaker": "YellowWiseWitch",
+    "text": "Tsk! You blue witches have such a lack of\ndiscipline. Always running about meddling\nin the affairs of other colors."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well aware, thanks. But here's the thing:\nWillma's so upset about it, she actually\nthinks she might be a golem!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_040": {
+    "speaker": "YellowWiseWitch",
+    "text": "......"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "No... No, it can't be!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_060": {
+    "speaker": "YellowWiseWitch",
+    "text": "Don't be daft! If we could make golems with\nthe ability of witches, we'd simply mass-\nproduce them to fight the Calamity for us!\fWillma's case is just a matter of timing.\nWe have to work around to her turn, find a\nsuitable world for the exam, and so forth.\nThere's nothing sinister about it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, okay. But then why'd the pinwheel\nget all bent out of shape the moment she\nwalked up to the compass?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_080": {
+    "speaker": "YellowWiseWitch",
+    "text": "She got a reaction from the compass just by\n<i>approaching</i> it? I find that hard to\nbelieve; she'd have to have either the most\nperfect or the most terrible affinity with it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_090": {
+    "speaker": "YellowWitchWillma",
+    "text": "Then let me find out!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_100": {
+    "speaker": "YellowWiseWitch",
+    "text": "Willma!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_110": {
+    "speaker": "YellowWitchWillma",
+    "text": "I want to try one more time to see if the\npinwheel finds me worthy—and if it does,\nI want to finally take my Witchterms!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_120": {
+    "speaker": "YellowWiseWitch",
+    "text": "Not even I can say what will happen if you\napproach it again, girl—particularly if your\naffinity does turn out to be poor.\nYou could lose your magic—or even your life.\fBut I imagine you're prepared for that,\nso perhaps..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_130": {
+    "speaker": "YellowWiseWitch",
+    "text": "Willma!? What's wrong!?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_140": {
+    "speaker": "YellowWitchWillma",
+    "text": "Just...just a little more...\nPlease find me worthy..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_150": {
+    "speaker": "Unknown_Person",
+    "text": "I can help this child, Watcher...\nbut I will require your aid."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_160": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Without the Yellow Sage noticing?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_170": {
+    "speaker": "Unknown_Person",
+    "text": "She does not wish the girl to fail;\nshe will pretend not to notice even\nif she does catch wind of our scheme."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_040_CUT_000_180": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess that seals the deal, then."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_050_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Booted out. AGAIN."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_050_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess it went well for Willma."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_050_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "It must have—the Dusk Pinwheel has\nreturned to its original location."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_000": {
+    "speaker": "YellowWiseWitch",
+    "text": "If you seek Willma, she is resting within.\nAnd yes, she was successful; I'll schedule\nher Witchterms as soon as possible."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_010": {
+    "speaker": "YellowWitchWillma",
+    "text": "Don't bother. I'm not going to be a witch.\nThe compass showed me a different path.\fI'd never even considered doing something else\nwith my life, but now that I am, it's lifted\na huge weight off my shoulders.\fSo no, I won't be a witch. Instead,\nI'm going to visit worlds with the Watcher!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_020": {
+    "speaker": "YellowWitchWillma",
+    "text": "Will you bring me with you, Watcher?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure thing. Let's roll."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Maybe you're better off being a witch."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_050": {
+    "speaker": "YellowWitchWillma",
+    "text": "Thank you. And pray forgive me,\nYellow Sage."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_060": {
+    "speaker": "YellowWiseWitch",
+    "text": "If that is your decision, I must accept it.\nHowever, this is the first time I have ever\nheard of a Watcher leaving with a witch."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Oh man, this lady's staring a hole right\nthrough me... Happy thoughts, Tsunanori.\nJust keep smiling like you didn't butt\nright into this mess in the first place."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_080": {
+    "speaker": "YellowWiseWitch",
+    "text": "The Dusk Pinwheel is returned to its\nrightful place, and Willma has forged\nfor herself a new path.\fWith the pinwheel now o'erflowing with magic,\nit is time for me to put the finishing touch\non these events."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_090": {
+    "speaker": "YellowWiseWitch",
+    "text": "So long as I, the Yellow Sage, stand ready,\nI shall never permit the crystals of the\nCalamity to take root in our lands!\fO Dusk Pinwheel! Gather the power of\nthis land and us witches of the yellow,\nand rid us of the Calamity's menace!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_100": {
+    "speaker": "YellowWitchWillma",
+    "text": "Okay, SERIOUSLY!? What the hell!?\nI sounded SO cool and decisive there,\nbut now you've gone and killed it!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_110": {
+    "speaker": "YellowWiseWitch",
+    "text": "I would not permit it even if\nthe Watcher were willing, child."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That lady was onto me all along...\nGood thing I didn't make the wrong choice."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_130": {
+    "speaker": "YellowWiseWitch",
+    "text": "The witches of Pulchra have rules, Willma:\nyou go to another world for your Witchterms,\nand determine based on that experience whether\nor not you wish to become a full witch.\fTHAT is the meaning of the path the compass\nhas shown you—it has naught whatsoever to do\nwith this Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_000_140": {
+    "speaker": "YellowWitchWillma",
+    "text": "...I understand, great sage, and will patiently\nawait my Witchterms—but in order to do that,\nwe must first defeat the Calamity!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "You sure about this, Willma? You wanted to\nbe a witch so much, and... Well, to be honest,\nyou don't even know if you can trust this guy."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_010_010": {
+    "speaker": "YellowWitchWillma",
+    "text": "I appreciate the concern, but I'll be fine.\nThe compass only showed me the path; I'm the\none who decided to take it, and I'm the one\nwho'll take responsibility."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "And as for you, mister: I get what Willma's\nsaying, but if anything happens to her,\nthe Witchdom will <i>never</i> forgive you.\fAlso, you can take her AFTER you\nfinish watching over the Calamity,\nso get to watching already!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "This Watcher thing is one\nheck of a responsibility..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_060_CUT_020_000": {
+    "speaker": "Lita_Caryx",
+    "text": "We have to achieve victory over the Calamity\nquickly—for Willma, as well as everyone else.\nSo get moving, Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_041_CUT_000_070": {
+    "speaker": "YellowWiseWitch",
+    "text": "I suppose the truth always comes out eventually.\nI also knew Willma would realize it at some point,\nwhich is why I wanted her to take her Witchterms\nas soon as she possibly could.\fBut those other old crones dithered and\ndelayed, and now we must deal with it\nin the middle of a Calamity!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_041_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So Willma being a golem is why\nthe compass went all haywire?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_041_CUT_000_090": {
+    "speaker": "YellowWiseWitch",
+    "text": "Did I not tell you before she lacks such\nstrength? While a golem is essentially a\nmass of magical power, such a thing is not\nenough to explain the compass's behavior."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_041_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "So if the compass just moved on its own, it means\nyou need to acknowledge Willma's strength!\n<i>That's</i> why the Dusk Pinwheel keeps flying\naround—it wants you to get the message!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_041_CUT_000_110": {
+    "speaker": "YellowWiseWitch",
+    "text": "...Could it be? Am I the one who doesn't\nunderstand? Am I the one who doesn't\nbelieve in Willma? Am I just the same as\nall those other crones? Oh, by the hells!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_041_CUT_000_120": {
+    "speaker": "YellowWitchWillma",
+    "text": "Please, don't..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_041_CUT_000_130": {
+    "speaker": "YellowWiseWitch",
+    "text": "I'm so sorry, Willma! I have watched you\ngrow since the day of your birth, and yet\ndid not believe you possessed the strength\nto overcome your limits as a golem!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_041_CUT_000_140": {
+    "speaker": "YellowWitchWillma",
+    "text": "Then please permit me to approach the compass.\nIf it has deemed me worthy, it should return to\nits proper place."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_041_CUT_000_150": {
+    "speaker": "YellowWiseWitch",
+    "text": "I suppose it isn't the way of the witch\nto worry about worst-case scenarios...\fVery well, Willma. I will allow it.\nFie, but it is vexing that I was the\none being so fickle about all of this.\nI almost cannot bear the thought."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_061_CUT_000_000": {
+    "speaker": "YellowWiseWitch",
+    "text": "If you seek Willma, she is resting within;\nshe stretched her magical power to the limit\nin order to maintain her golem body.\fOh, but I was so worried watching it.\nI thought she might return to the earth."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_061_CUT_000_010": {
+    "speaker": "YellowWiseWitch",
+    "text": "Nonetheless, this should force the old crones\ninto letting her take the Witchterms. For who\nare we to judge when she has been found\nworthy by the Dusk Pinwheel itself?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_061_CUT_000_070": {
+    "speaker": "YellowWiseWitch",
+    "text": "If this is your choice, I will allow it.\nYou are free, after all."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_061_CUT_000_110": {
+    "speaker": "YellowWiseWitch",
+    "text": "Just the type of sound advice\nI would expect from you, Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_061_CUT_000_120": {
+    "speaker": "YellowWiseWitch",
+    "text": "Willma, you go to another world for your\nWitchterms, and determine based on that\nexperience whether or not you wish to\nbecome a full-fledged witch.\fTHAT is the meaning of the path the compass\nhas shown you—it has naught whatsoever to do\nwith this Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_061_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "It's still kind of hard to believe you're a golem,\nWillma, but... Well, look. What I DO know is\nthat we always wanted to become witches\ntogether, so I want you to keep at it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_061_CUT_010_010": {
+    "speaker": "YellowWitchWillma",
+    "text": "I <i>do</i> want to be a witch! That hasn't changed.\nIt's just that... Well, I can see a different\npossibility, and I guess I want to take my\nchances on it.\fAfter all, doing things differently\nis the witches' way, right?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_061_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, no matter where you go or what you do,\nyou'll always have friends in the Witchdom.\nDon't forget that, all right?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_YELLOW_CASTLE_061_CUT_010_030": {
+    "speaker": "Lita_Caryx",
+    "text": "You can take Willma with you once you're\ndone overseeing the Calamity, Watcher.\nUntil then, she needs to continue performing\nher duties as a witch of the yellow."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Psst! Hey, have you heard the gossip?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "What gossip? I haven't heard anything.\nAlso, is that really something we should\nbe talking about in front of the Watcher?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, you two can chatter away like two\nbirds on a wire for all this guy cares."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_030": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Okay, so here's the deal: two witches\nof the white are missing!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Is that weird? Feels like that kinda\nthing happens during...you know. War."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_050": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Not like this! See, when we go into battle,\nwe cast enchantments that ensure we have\na complete understanding of each other's\nlocations before we even engage the enemy."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_060": {
+    "speaker": "WhiteWitchNormal",
+    "text": "So no matter where a witch goes, we always\nknow just where she is—even if she gets\nturned to crystal!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotcha. Probably just ran for the hills,\nin that case."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Witches don't 'run for the hills,' you dolt!\nALL witches face ruination if the Calamity\nprevails, so there's no hill to even run to.\nAll we can do is stand and fight."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well sure, that's the game everybody talks,\nbut I'm sure there's all kinds of witches\nout there—including a few who don't wanna\ndie in a fight.\fI mean, did that not occur to you?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "It absolutely did NOT! These missing witches\nhave CLEARLY been caught in some kind of\nawful...something, and we have to find them!\fSo while I know your Watcher work is\nimportant, this has to take priority."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Welp, I suppose a fella can count this\nas 'keeping watch' if he squints.\nSo where you gals wanna look?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_120": {
+    "speaker": "Lita_Caryx",
+    "text": "We don't exactly have any clues, so...\nWhat about you? Know anything?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_WAVE1_OUTPOST_WHITE_000_CUT_000_130": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Hey, I thought gossiping was bad!\nAlso, I don't know a thing."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_000_000": {
+    "speaker": "SquireFake1",
+    "text": "Fine timing, m'lady! We just saw two people who\nlooked like the missing witches enter the mine.\nWe were going to pursue them, but thought we\nshould let the witches know first."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "That was the correct decision. Spirits are\nknown to appear within the mine, so it\nwould be most dangerous for you squires.\nNow please wait here while we investigate."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_000_020": {
+    "speaker": "SquireFake2",
+    "text": "Of course, m'lady."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Why in the world would those two\nhave wandered into a mine?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Do witches even need to mine stuff?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Of course. While we can do anything with enough\nmagic, having raw materials like ore allows us\nto create things more easily—and with less\nmagical power—than we could otherwise."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fair enough. Still, I don't see any pickaxes\naround here, or people to swing 'em.\nThis place abandoned, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_010_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Witches don't mine materials by hitting\nrocks with pointy sticks—though now that\nwe're down here, I might as well show you\nhow we <i>do</i> go about it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_010_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, there's a good one!\nIt's perfect for your first time."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, no. Those were fiends."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_020_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Fiends that dropped RAW ORE! Look, this\nis just way easier—they dig up the stuff,\nthen we...you know? Make 'em share a bit."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_020_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "A bit? This looks like all of it!\nI actually feel bad for those critters..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_020_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, now that your little bleeding heart\nunderstands how we mine, we should return\nto searching for the wayward witches."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Looks like we had a cave-in.\nYou okay?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yup, I still got all my pieces.\nWas that because of the mining?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "I can't say for certain, but I doubt that\nfiend was strong enough to cause a cave-in.\nNow let's get some light in here."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Boy howdy, do I ever love that witchy stuff.\nStill, we came here to search for witches,\nand now someone's gonna have to search for us."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, I'm sure the squires outside are\nalready hurrying off to get help."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_050": {
+    "speaker": "WhiteWitch1",
+    "text": "Hello? Anyone there!?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Bingo."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Right here!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_080": {
+    "speaker": "WhiteWitch1",
+    "text": "We felt a rumbling from the direction of the mine\nand came to investigate. We thought it strange\nthat there were two squires at the entrance,\nso we went deeper and voila! Here you are."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_090": {
+    "speaker": "WhiteWitch2",
+    "text": "Goodness! You're the Watcher, aren't you?\nOh, but this is just our lucky day!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Tell me about it. Those two squires told us\nthey saw the missing witches enter the mine,\nso we went deeper and voila. Here you are."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_110": {
+    "speaker": "WhiteWitch2",
+    "text": "Missing witches...? Ah, I see. Those\nsquires must be spreading the rumors."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_120": {
+    "speaker": "WhiteWitch1",
+    "text": "Well, as you can clearly see,\nwe're not missing."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But you are the pair everybody's\nbeen worried about, yeah?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_140": {
+    "speaker": "WhiteWitch1",
+    "text": "It certainly seems that way—though I don't\nhave the faintest idea why they're telling\neveryone we've gone missing. Perhaps those\nsquires just have it out for you, Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_150": {
+    "speaker": "WhiteWitch2",
+    "text": "Ha! I can't wait to see the look on their\nfaces when they learn the subjects of their\nlittle rumorfest showed up to help you!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_160": {
+    "speaker": "WhiteWitch1",
+    "text": "And with that, we're going after them.\nBe well, you two!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_170": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Appreciate it, ladies."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_180": {
+    "speaker": "Lita_Caryx",
+    "text": "We came to save them, but they saved us—\nkind of demoralizing, if you ask me.\fI mean, I honestly thought they ran off.\nFeelin' a bit ashamed of myself over here."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_000_CUT_030_190": {
+    "speaker": "Tsunanori_Mido",
+    "text": "C'mon, you're overthinking it.\nAll's well that ends well, right?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_010_CUT_000_000": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Psst! Hey, have you heard the gossip?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_010_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "If you mean the story about how two 'missing'\nwitches ended up rescuing the Watcher's party\nfrom a cave-in, then yes. Also, that's not\ngossip—every word is true."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_010_CUT_000_020": {
+    "speaker": "WhiteWitchNormal",
+    "text": "I hear they were even praised for their\nactions by the White Sage herself!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_010_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Meanwhile, I almost got the\nWatcher killed. *sigh*"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_010_CUT_000_040": {
+    "speaker": "WhiteWitchNormal",
+    "text": "Aw, cheer up! Gloom isn't like you.\nThat said, we need to catch those\ntwo suspicious squires on the double."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_010_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "That we do—and this time,\nI'm gonna be the one who succeeds!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_010_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure you wanna be so gung-ho about it?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_000_000": {
+    "speaker": "WhiteWitch1",
+    "text": "Impeccable timing, Watcher. We just chased\nthose two squires into the greenhouse,\nand you were here to see it all."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Leave the rest to me; we talked to\nthem last time, so we can confirm\nif it's truly them or not."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_000_020": {
+    "speaker": "WhiteWitch1",
+    "text": "Yes, I suppose even a lowly squire can't\nbe taken into custody without evidence.\nGo on—one of us will be right behind you."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, you ladies trying to grow\na jungle in here or what?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "We'll get lost if we aren't careful;\nnot even I know how big this place is.\fOh, and don't let your guard down,\nor you'll be eaten by one of these plants."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nice tip there, thanks. Also, I bet those\nsquire fellas are wishing they didn't\nget chased into this place."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_010_030": {
+    "speaker": "WhiteWitch1",
+    "text": "I'll start searching here, Watcher.\nWhy don't you head in that direction?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_010_040": {
+    "speaker": "Lita_Caryx",
+    "text": "I saw the squires over there!\nAfter them!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_010_050": {
+    "speaker": "Lita_Caryx",
+    "text": "There."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_010_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You really think we should be\nheading in this far?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_010_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Here."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_010_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this place is something else."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, that was close."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_020_010": {
+    "speaker": "WhiteWitch2",
+    "text": "Are you all right, Watcher!?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_020_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, thanks. Almost went and got\nmyself turned into supper there."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_020_030": {
+    "speaker": "WhiteWitch2",
+    "text": "Unfortunately, the squires WERE supper.\nAll that's left is their armor."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_020_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Mmm, I see."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_020_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "That looks like their gear, all right.\nGuess we'll never know what they were\ntrying to pull with this whole mess,\nbut at least it's over and done with."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_030_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, shucks. Now we'll never know what\nthey were targeting you for."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_030_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Should just ask 'em ourselves, maybe."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_030_020": {
+    "speaker": "Lita_Caryx",
+    "text": "You mean with necromancy? Er, sorry,\nbut that's one of the most forbidden\nschools of sorcery here in Pulchra."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_030_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure, but it's also easier to beg forgiveness\nthan ask permission right? I bet the White Sage\nwill let you off easy if you tell her nice."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_030_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Are you being serious right now?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_020_CUT_030_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, never mind. Let's just go."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_000": {
+    "speaker": "WhiteWiseWitch",
+    "text": "The Watcher would like to do some mining, and he\nwishes for all of you to accompany him. He would\nalso like to give you the fruits of this labor\nas thanks for the times you have aided him."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_010": {
+    "speaker": "WhiteWiseWitch",
+    "text": "I ask that you accept his proposal for two\nreasons. First, it is a kind offer, and you\nhave most definitely earned his thanks."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_020": {
+    "speaker": "WhiteWiseWitch",
+    "text": "But also, I wish to observe him, for I can't\nhelp but wonder <i>why</i> he wants to mine for ore\nin the midst of the Calamity. Please report\nback if you learn anything suspicious."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_030": {
+    "speaker": "WhiteWitch1",
+    "text": "Of course."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_040": {
+    "speaker": "WhiteWitch2",
+    "text": "With pleasure."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_050": {
+    "speaker": "WhiteWiseWitch",
+    "text": "Well? How was that? As you see,\nI told the truth, even if it\nwas not the entirety of it.\fThat said, I admit to harboring some doubts\nabout you, Watcher, because you are most\ncertainly hiding something. Is there some\nreason you're being targeted?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, there's this mysterious voice..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nope! Nothing hidden here."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I heard a creepy voice that told me not\nto trust the witches. Don't know why it\nsaid that or what the endgame might be,\nbut there it is."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Still, if this thing can make ME hear its voice,\nit could theoretically talk to anyone, yeah?\nI mean, not like that explains why they'd\ntarget me in the first place."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_100": {
+    "speaker": "WhiteWiseWitch",
+    "text": "I appreciate your honesty, and may have an\ninkling of who this mysterious voice belongs\nto. Regardless, it seems you are VERY\nimportant to them, Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_110": {
+    "speaker": "WhiteWiseWitch",
+    "text": "Now please make your way to the mines.\nThey will grow suspicious if you're late."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_030_CUT_000_120": {
+    "speaker": "WhiteWiseWitch",
+    "text": "What are you scheming here,\nGrey Witch...?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks for accepting my invite, ladies.\nI don't know the first thing about mining,\nso I'm hoping you two can help a guy out."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_010": {
+    "speaker": "WhiteWitch2",
+    "text": "We'll dig up lots of good stuff!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Say, I heard somebody say there's ghosts\nin this mine. You know if that's true?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_030": {
+    "speaker": "WhiteWitch1",
+    "text": "There have been occasions in which a spirit\nattracts a ghost—it's truly terrifying."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_040": {
+    "speaker": "WhiteWitch2",
+    "text": "Agreed. Ghosts are the WORST."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, I'm not much for spooks neither,\nso let's hold hands if we see one."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_060": {
+    "speaker": "WhiteWitch2",
+    "text": "Yes, please!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_070": {
+    "speaker": "WhiteWitch1",
+    "text": "It's a little dark."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_080": {
+    "speaker": "WhiteWitch2",
+    "text": "It doesn't get any brighter."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_090": {
+    "speaker": "SquireFake1",
+    "text": "Why...why did you kill...?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_100": {
+    "speaker": "WhiteWitch2",
+    "text": "EEEK! S-S-SQUIRE GHOST!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_110": {
+    "speaker": "WhiteWitch1",
+    "text": "But...but how is this possible?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_120": {
+    "speaker": "WhiteWitch2",
+    "text": "B-b-b-but..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_130": {
+    "speaker": "SquireFake1",
+    "text": "Melting... I'm melting...\nMy body is melting away..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_140": {
+    "speaker": "WhiteWitch2",
+    "text": "Nooo! I'm sorry, Mr. Ghost!\nPlease forgive me!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_150": {
+    "speaker": "WhiteWitch1",
+    "text": "Okay, now this is just getting annoying.\nEnough tricks, spirit! Why are you showing\nus some imaginary squire ghost!?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_160": {
+    "speaker": "SquireFake1",
+    "text": "Don't run... Take me with you...\nTake my hand..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_170": {
+    "speaker": "WhiteWitch2",
+    "text": "Eeek! No, don't hold my hand!\nWait, you CAN'T hold my hand!\nI'm YOU! You're ME! Noooooo!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_180": {
+    "speaker": "SquireFake1",
+    "text": "Yup. That oughta do it there."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_190": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wasn't sure your pal would get so worked up\nover some imaginary squire ghost—guess I \nunderestimated how much she hates 'em."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_200": {
+    "speaker": "WhiteWitch1",
+    "text": "Wait. You KNEW what was\ngoing on this whole time?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_210": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nah, I thought the squires were real at first—\nI mean, who wouldn't? But once I saw the pile of\narmor in the greenhouse, I realized it made more\nsense for them to have never existed at all.\fI mean, plants that melt down bones?\nC'mon. I wasn't born yesterday."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_220": {
+    "speaker": "WhiteWitch1",
+    "text": "So what now? Will you reveal our scheme\nand hand us over to the White Sage?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_230": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, this Watcher does one thing: watchin'.\nStill, the both of you should probably go\nfess up to the boss, if you ask me."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_240": {
+    "speaker": "Tsunanori_Mido",
+    "text": "But hey, lemme ask something first:\nyou ever hear a weird voice, maybe?\nOne that says not to trust witches?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_250": {
+    "speaker": "WhiteWitch1",
+    "text": "Uh, no? I mean, what kind of idiot would\ntell a witch not to trust a witch?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_260": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, that's what I was thinking,\nbut thanks all the same.\nNow get going, you two!\nYou've got a Calamity to beat."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_270": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm ashamed how ignorant I've been\nwhen it comes to how many kinds\nof witches there are in the world."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_WHITE_040_CUT_000_280": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, don't worry about it—nobody really\nknows who other folks are in the end."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, this fella's no witch.\nThe heck's the deal here?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "The 'deal' is that Pulchra has both\nwitches and squires who serve them.\nThis guy's a squire. He serves witches.\nEnd of explanation."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_020": {
+    "speaker": "SquireAssasin",
+    "text": "It saddens me to hear the two of you speak so\nindifferently toward a beleaguered squire such\nas I, for is it not a rule of this world that we\nshould offer words of support to social lessers?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh... Sure? Sorry about that.\nLemme start over.\fHey there, guy. You look bummed.\nWhat happened?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_040": {
+    "speaker": "SquireAssasin",
+    "text": "How very kind of you to ask! You see, m'lord,\nI am a squire who uses a particular set of\nskills in service to witches of the red.\fAlas, I have recently been given commands by both\nthe honorable Red Sage and her glorious elder\nsister, the Red Orchid, and now find myself at\na loss over whose order I should prioritize."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_050": {
+    "speaker": "SquireAssasin",
+    "text": "Hierarchically, I should put the Red Sage above\nall others. The Red Orchid, however, has always\nheld my skill in high esteem, and I should like\nto prove she is not mistaken in that evaluation."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "Yup, that's a real pickle, all right.\nWhat'd they ask you to do, anyway?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_070": {
+    "speaker": "SquireAssasin",
+    "text": "The Red Sage has commanded me to assassinate\nthe Red Orchid. The Red Orchid, conversely,\nhas baded me assassinate the Red Sage.\fI believe the term for my skills would be\n'wetwork' in some circles? But to put a\nfiner point on it, I am an assassin."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_080": {
+    "speaker": "SquireAssasin",
+    "text": "I beg you, m'lord! Help me solve this\nmost vexatious of workplace conundrums!\nWhose order should I carry out?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't kill either one. I mean, c'mon."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Kill 'em both, I say."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_110": {
+    "speaker": "Lita_Caryx",
+    "text": "Don't be a dolt! Look, I know those two are\nalways fighting, but assassination requests?\nWhat are they, children?\fAnd you! I know you're a squire, but show\nsome damn backbone here! You don't have\nto follow orders if the orders are insane."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_120": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeesh! Guess I've got no choice but to get them\nto make up. Oh, and you're coming too, Watcher—\nI want you to watch the hell out of this."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_130": {
+    "speaker": "SquireAssasin",
+    "text": "...Ignore a witch's command?\nI've never considered such a thing!\nCould I truly get away with it?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_000_CUT_000_140": {
+    "speaker": "SquireAssasin",
+    "text": "...Indeed, it is only by carrying out both\nsets of orders that I can honor all the tasks\nentrusted to me. That seems the best way\nI can fulfill my duties in their entirety!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So these two gals are always fighting, eh?\nThey your run-of-the-mill sister fights,\nor is their relationship really that rocky?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "The Red Sage is the Red Orchid's little sister—\nand the Red Orchid is one of the most powerful\nwitches in all Pulchra.\fAnd while I assume the Red Orchid isn't a fan of\nbeing passed over for sage in favor of her\nlittle sister, I don't know that for sure."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Also, the people around them are constantly\nrunning off on some random whim or another,\nwhich doesn't help matters much."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_010_000": {
+    "speaker": "RedWiseWitch",
+    "text": "What errand brings you here, Watcher?\nI hardly need you to look after me."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heard you and your sis were doing the ol'\nassassination polka, so came to check on you.\nLooks like you're very much not-assassinated\nat the moment, so that's swell."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_010_020": {
+    "speaker": "RedWiseWitch",
+    "text": "So the Red Orchid put out her own order,\ndid she? I always knew we were alike\nin some rather strange ways.\fHowever, your concern is unwarranted,\nbecause I do not fear assassination."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You sure about that? 'Cause the squire fella\nyou gave your orders to seemed pretty dang\nserious about the whole... Eh, never mind.\nI'm clearly wasting my breath here."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_010_040": {
+    "speaker": "Lita_Caryx",
+    "text": "So hey, how do I get the two of you to kiss and\nmake up? This is no time for squabbling, what\nwith the Calamity and all, so if you need us\nto play peacemaker, we're happy to do it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_010_050": {
+    "speaker": "RedWiseWitch",
+    "text": "I know how foolish this all must seem to you,\ngiven the times we now find ourselves in.\nBut in truth, the course of events often\nhinges upon such things as this."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_010_060": {
+    "speaker": "RedWiseWitch",
+    "text": "There is something in the Scorching Tower\nthat hails from our memories; I wonder if\nmy sister recalls it?\fThe answer to that question could cause us\nto lay down our arms—or more specifically,\nto point them at the Calamity instead\nof one another."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_010_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Tower, memories, got it. We'll swing by\nthe Red Orchid's place and let her know."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_020_000": {
+    "speaker": "RedWitchOrchid",
+    "text": "What errand brings you to\nthis battlefield?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_020_010": {
+    "speaker": "Lita_Caryx",
+    "text": "There's something from your memories in the\nScorching Tower—something you share with\nyour sister. Do you remember what it is?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_020_020": {
+    "speaker": "RedWitchOrchid",
+    "text": "Do you take me for a fool?\nI'm not so absent-minded as\nto forget something like that!\fBut also, this is none of your business.\nI understand her feelings and what she's\nattempting to do, and that is enough."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_020_030": {
+    "speaker": "Lita_Caryx",
+    "text": "So can I trust you two to make up\nand stop trying to kill each other?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_020_040": {
+    "speaker": "RedWitchOrchid",
+    "text": "You can. I will set off for\nthe Flame Fortress at once."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_000": {
+    "speaker": "RedWitchOrchid",
+    "text": "After reflecting on things, I realize\nordering your assassination was...\nWell, let's call it overkill."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_010": {
+    "speaker": "RedWiseWitch",
+    "text": "I feel exactly the same, Sister.\nAlso, I can't believe you remembered it."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_020": {
+    "speaker": "RedWitchOrchid",
+    "text": "Yes, and I'll never forget it.\nNot for the rest of my life."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_030": {
+    "speaker": "SquireAssasin",
+    "text": "A drink for m'ladies, if it please?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_040": {
+    "speaker": "RedWitchOrchid",
+    "text": "You? Bringing us tea? Oh ho ho!\nSister, this tea is clearly poisoned.\nI advise you to drink it with care."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_050": {
+    "speaker": "RedWiseWitch",
+    "text": "Worry not, sister of mine: I've cast an\nenchantment on myself that detoxifies\neverything that I consume."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_060": {
+    "speaker": "RedWiseWitch",
+    "text": "GYAAA!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_070": {
+    "speaker": "RedWitchOrchid",
+    "text": "The slimy cur put a poisoned needle\non the CUP instead of in the drink!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_080": {
+    "speaker": "SquireAssasin",
+    "text": "Just so, Red Orchid! The tea was a mere\ndistraction so you might lower your\nguard regarding the cup itself.\fAt last, I have done it! Not even\nthe great Red Orchid was able to\nsee through my deception!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_090": {
+    "speaker": "RedWiseWitch",
+    "text": "Sister..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_100": {
+    "speaker": "RedWitchOrchid",
+    "text": "I'm sorry...Zhu Ya..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_110": {
+    "speaker": "SquireAssasin",
+    "text": "I have done it! I carried out both\nsets of orders at the same time!\nWhat a great success!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_120": {
+    "speaker": "Lita_Caryx",
+    "text": "Do you have ANY idea what you've done,\nyou idiot? They literally JUST made up!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_130": {
+    "speaker": "SquireAssasin",
+    "text": "Wait, really? Oh. Oh no.\nWhat HAVE I done!?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You got an antidote, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_150": {
+    "speaker": "SquireAssasin",
+    "text": "Errr... No. But I can make one,\nprovided I have a scale from\nthe Salamander!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_020_CUT_000_160": {
+    "speaker": "Lita_Caryx",
+    "text": "Which means we're headed for the\nScorching Tower. C'mon, Watcher!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_030_CUT_000_000": {
+    "speaker": "RedWitchNormal",
+    "text": "There's the assassin!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_030_CUT_000_010": {
+    "speaker": "SquireAssasin",
+    "text": "Get in the tower! Quick!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_030_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, we're really short on time here.\nWhat are we gonna do?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_030_CUT_000_030": {
+    "speaker": "SquireAssasin",
+    "text": "If m'lord would be so good as to draw the\nSalamander's attention? While you do,\nI'll pick up a scale once it falls off."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_030_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Really, guy? I thought we'd just...\nI dunno. Tear it off, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_030_CUT_000_050": {
+    "speaker": "SquireAssasin",
+    "text": "Well, that's a simply ridiculous idea.\nNow go on with you!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_030_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Need anything else there, slugger?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_030_CUT_010_010": {
+    "speaker": "SquireAssasin",
+    "text": "This will do for now—although it\nmay prove rather difficult to drink."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_030_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I bet they'll manage, seeing as they'll both\nbe on the wrong side of the dirt if they don't.\nNow let's skedaddle back there before your\npursuers catch up to us, eh?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_000_000": {
+    "speaker": "RedWitchOrchid",
+    "text": "Zhu Ya!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_000_010": {
+    "speaker": "RedWiseWitch",
+    "text": "I'm all right, Sister—although slightly\nvexed we had to be saved by the Watcher."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_000_020": {
+    "speaker": "RedWitchOrchid",
+    "text": "An utter disgrace, to be certain.\nNow where is that squire!?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_000_030": {
+    "speaker": "SquireAssasin",
+    "text": "I am here, m'ladies, and will accept\nany punishment you deem fit."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_000_040": {
+    "speaker": "RedWitchOrchid",
+    "text": "As we hold some blame here, perhaps we can all\njust agree to be more careful in the future.\nIn the meantime, continue honing your skills so\nyou might do more good for us witches of the red."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_000_050": {
+    "speaker": "SquireAssasin",
+    "text": "It would be my pleasure, m'lady."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_000_060": {
+    "speaker": "RedWitchOrchid",
+    "text": "Well then, Sister? Let us use the power of\nthe Salamander that rests within us to\ncooperate and incinerate the Calamity\ncrystals which blanket our lands."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_000_070": {
+    "speaker": "RedWiseWitch",
+    "text": "Quite so. We will begin at once."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Looks like things are settled."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yeah, I was gonna squawk if they tried to\npunish the squire, but turns out they were\npretty sensible folks in the end."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_060_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Now let's get back to your watch."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_021_020": {
+    "speaker": "RedWitchOrchid",
+    "text": "One of the Red Sage's little riddles, is it?\nWell, perhaps I will pose one of my own:\nthe both of us went to retrieve a thing,\nbut ended up leaving a thing behind."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_021_030": {
+    "speaker": "RedWitchOrchid",
+    "text": "I'm sure you can puzzle this one out, Watcher.\nOnce you know both what we went to get\nand what was left behind, return here to me,\nand I will make peace with my sister."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_010_CUT_021_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Looks like it's riddle time for us!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_031_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Well? Did you solve the riddle?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_031_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Won't know until we poke around inside.\nWhat's the deal with this tower, anyway?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_031_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Preeetty much just what it looks like.\nThere's a fire spirit inside called\nthe salamander."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_031_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm guessing the riddle's connected to\nthat fire spirit fella. Talk about your\nheated questions!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_031_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, look! Fireproof gloves. Two, in fact—\none from each pair. So I guess we know\nwhat they came here to retrieve."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_031_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "They definitely came here to get\na scale from the Salamander."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_031_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, how about I go on ahead and get the\nSalamander's attention while you grab\nthe gloves and a scale?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_031_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Divide and conquer. Let's go!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_031_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "That went great! Er, but I don't get why they\nleft the gloves here. I mean, how did they\nplan to get the scale back without them?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_041_CUT_000_130": {
+    "speaker": "SquireAssasin",
+    "text": "Be that as it may, m'lady, I received no\ncountermanding orders. And as you know,\nI am a squire, and the commands I receive\nfrom witches are absolute.\fAnd with that, my duty is done.\nFarewell to you both!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_041_CUT_000_140": {
+    "speaker": "Lita_Caryx",
+    "text": "Stop!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_041_CUT_000_150": {
+    "speaker": "Tsunanori_Mido",
+    "text": "If that fella's an assassin, he's gotta have\nsome kind of antidote—and we're gonna\nget it out of him no matter what."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "This is the Squire's Burg, where they all live.\nAll witches have to respect them here;\nthe others get cranky if you don't."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So you're only nice to 'em in their home?\nI'm startin' to think this squire guy\nhas a point..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, wonderful idea! Let's just forgive\nthe cold-blooded assassin!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Didn't say that, exactly. But this squire\nclearly wanted us to come see this place,\nor he wouldn't have fled here.\fHe thinks that by exposing the whole\nsituation squires are put in, he might\nget us thrown off our game.\fHe probably figures he doesn't have much\nof a chance to take us out otherwise.\nAnyway, let's just poke around for now."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_000_040": {
+    "speaker": "SquireAssasin",
+    "text": "Well, well! The two of you clearly want an\nantidote! Yet, did it ever occur to you—even\nfor a moment—that I might not have one?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nope. You just strike me as an\nantidote-havin' kind of fella."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_000_060": {
+    "speaker": "SquireAssasin",
+    "text": "If there's one thing I loathe,\nit's undeserved confidence.\nThat's enough of you, Watcher!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_010_000": {
+    "speaker": "SquireAssasin",
+    "text": "...Here. The antidote. It's made from a\nscale of the Salamander, and should\nrevive flames that have been lost."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks, guy. You never really\nwanted to kill either of them\nin the first place, right?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_010_020": {
+    "speaker": "SquireAssasin",
+    "text": "Tell that to the two witches who gave\nmy orders—orders that are absolute."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_010_030": {
+    "speaker": "SquireAssasin",
+    "text": "But as I have managed to fulfill both\nsets of orders, I now answer to no one—\nand I will never relinquish this newfound\nfreedom! Never, I say! Huzzah!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_010_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh no! He jumped!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_010_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. That's one dead squire right there.\nBit of a shame, but hey, it's his call.\nNow let's get this antidote where\nit needs to go."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_051_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "R-right. Of course."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_061_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guy fought me. Guy lost."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_061_CUT_000_040": {
+    "speaker": "RedWitchOrchid",
+    "text": "It saddens me to think I let such a brilliant\nsquire die in vain—and I swear here and now,\nI will never permit such a thing again."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_061_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "......"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_061_CUT_010_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So, um... What do you think?\nAbout how that all turned out, I mean?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_COLOR_QUEST_RED_061_CUT_010_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not for me to say. You witch gals can all \nnoodle over it once the Calamity's done."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "One of our castles has fallen."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Everything's gonna be covered in crystal\nif we don't get this thing turned around.\nAnd the witches inside..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "Yes. They'll be crystal as well."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "But we won't give up because we lost one\ncastle, so please keep watching over us."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_010_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "We lost another castle to crystallization?\nDamn it! I knew a battle with the Calamity\nwould be hard, but THIS hard...?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_010_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "No, Lita. Don't give in to despair.\nThere's still hope yet!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_010_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Love that enthusiasm."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_020_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "No! A third castle, gone! Are we destined\nto lose our battle with the Calamity?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_020_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, it sure ain't a piece of good news.\nHeck, if this keeps up, I won't even be\nable to get the spirit's power—which means\nit's time to quit watching and start doing!"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_030_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I can't believe we've lost <i>four</i> castles...\nWe have to protect the last one, Watcher.\nWe HAVE to. No matter what."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_030_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I hear you, lady—and believe you me,\nI'm not gonna pull any punches."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_040_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "It's over... Every castle that protects\nPulchra has been consumed by crystal..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_CASTLE_FALLEN_040_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Farewell, my beloved world..."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_RETURN_100_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, cripes. Lita disappeared.\nWonder what's gonna happen to this world?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_RETURN_100_CUT_000_010": {
+    "speaker": "UI",
+    "text": "You acquired a wood spirit's power."
+  },
+  "SUB_W02_EVAR_MIDO_LITA_RETURN_100_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Reward for being a Watcher, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_LITA_RETURN_100_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, so long there, Lita.\nAnd so long to world of witches."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So where do I go watch\nover stuff next?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "The Arch Witch said you could go anywhere\nyou like—apparently things will happen\njust by your being there."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Go anywhere, do anything? Surprised this\nWatcher deal is so laid-back."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, it sounds like things will be the\nsame whether you show up or not.\nBut hey, what do I know?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_010_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Seems like things also change\nin places I don't visit."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_010_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Even though we witches are all fighting for\nour lives, we still don't fully understand the\nCalamity's power. We just know we have to drive\nit back; everything else can be decided later."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_010_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, if I help folks just by standing\naround watchin' stuff, I should probably\nswing by wherever's in the most danger. "
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_010_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "No one's really asking you to help."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_020_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So what's the Arch Witch doing while\nthe rest of you are fighting?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_020_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "She keeps vigil in the Brilliant Tower,\nensuring that the balance of spirit\nenergy is maintained."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_020_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So what's the deal with that tower,\nanyway? What's with all the light?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_020_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Mana gathers there from throughout the\nConjoined Worlds—and that power is the\nonly reason witches even exist."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_020_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So the Arch Witch collects mana and\nthen just hands it out to everybody?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_020_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, it's a little different than that.\n...Actually, a lot different.\n...Actually, <i>completely</i> different.\fBut hey, if that makes sense to you,\nthen go with it. You're the Watcher, not\na witch—you don't really need to get it."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_021_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So if you lose any of your bases,\nthe spiritual balance collapses and\nputs you in a real tough spot?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_021_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "That's right. Thankfully, the Arch Witch is\nin the Brilliant Tower trying to minimize\nthe possible impact of such a thing—\nand her power is REALLY impressive."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_021_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nice to hear the boss isn't just letting\nher employees duke it out while she\nsits in the big chair takin' it easy."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_021_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "We're not her 'employees,' and we're also\nnot fighting because she ordered us to.\nEvery witch has to battle the Calamity—\nit's just a thing we do."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_021_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this is a completely different\nworld than mine, I tell you what."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_030_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So if you destroy the crystals, the witches win.\nAnd if the world gets covered in crystals,\nthe Calamity wins. Is that the deal?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_030_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, it's pretty straightforward.\nBut witches have the power to quickly\nturn the tide, which means we can win\nno matter how grim it may look."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_030_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like wishful thinking to me."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_030_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, it's not!"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_100_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "There's a whole lot of places I gotta see.\nWonder what I should do?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_100_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "There's no use worrying too much about it;\nyou can't be in two places at once, after all.\nJust make the call and go."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_100_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Don't you got some kind of magic\nthat can clone me, maybe?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_100_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "We're witches, Watcher. Not ninjas."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_110_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure would've been nice to come to this\nworld when it wasn't facing a Calamity."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_110_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Not sure you would have liked that much,\nactually. The Witchdom isn't exactly a\nplace where strangers can drop by and\nstroll around taking in the sights."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_110_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Fair enough—but I'd still like to see what\na normal day looks like for a witch."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_110_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Huge pass on you doing that\nkind of watching, thanks."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_120_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look, I know there's a Calamity raging, but I\nstill feel like I got a chance to experience\nsome of the real witchin' life. This Watcher\njob actually ain't half-bad."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_120_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "It seems the Calamity awakened something in us.\nStuff that wouldn't normally happen is...\nWell, it's happening."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_120_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotta love that.\nSo what happens next?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_120_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Look, I know that this Watcher thing can feel\nlike you're just standing around doing nothing,\nbut it's really important that you don't make\nthose feelings obvious. You get me?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_120_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure do, boss."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_130_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, this fight's taking forever.\nYou witches gonna be okay here?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_130_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I admit, we're all a bit exhausted—\na disadvantage our enemy sadly lacks."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_130_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotcha. Take it witches aren't exactly\nbig fans of long battles, then?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_130_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I'M certainly not!\n...But I'm also pretty impatient."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_900_CUT_000_000": {
+    "speaker": "Unknown_Person",
+    "text": "Why do you continue\nyour vigil, Watcher?"
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_900_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "'Cause that was the agreement."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_900_CUT_000_020": {
+    "speaker": "Unknown_Person",
+    "text": "More curse than agreement, says I.\nYour soul was bound to this vigil by\nthe Arch Witch's ensorcelled words,\nand you have been much deceived."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_900_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Wait, the Arch Witch tricked me?\nWhat a crumbum!"
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_900_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...That what you were hoping I'd say there?\nWell, tough beans, because you definitely\nwin the 'who's more suspicious' competition.\fI mean, sure, the Arch Witch might be\nusin' me, but you're no different."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_900_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, what's the deal here?\nWhat's with the creepy grin?"
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_900_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Guess I'm just looking forward to what\ncomes next and couldn't help smiling."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_900_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Um, this is a war.\nYou know that, right?"
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_000": {
+    "speaker": "Unknown_Person",
+    "text": "I do not hate all the witches.\nOn the contrary, one could say\nI love each of them individually."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure. Go on."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_020": {
+    "speaker": "Unknown_Person",
+    "text": "The Arch Witch and sages, however, are a\ndifferent tale, for they are corrupt beings\nthat are neither great nor wise."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh-huh. And?"
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_040": {
+    "speaker": "Unknown_Person",
+    "text": "Without your strength, they would have\nno chance of saving Pulchra. Therefore,\nthere is no value in aiding them."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "And there IS value in my helping you?\nLook, I've got a purpose in all this;\nI'm not interested in whatever personal\nbeef you've got going on here."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_060": {
+    "speaker": "Unknown_Person",
+    "text": "Then I will make it so you might\naccomplish your goal immediately."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "It's not that easy."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Put your cards on the table, then."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "With magic, right? Just poof and I've\ngot everything I need? Bud, you must\nthink I just fell of the idiot wagon."
+  },
+  "SUB_W02_FUNC_MIDO_MYSTERIOUS_VOICE_OUTPOST_CONTROL_910_CUT_000_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Uhhh... Wow, okay. Someone's angry.\nDid I do something wrong?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_970_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, this fight's taking forever.\nHow much longer we got here?"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_970_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Just a little longer; I can feel\nthe Calamity's strength waning."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_970_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like wishful thinking to me."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_970_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, it's not!"
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_990_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look, I don't wanna be a jerk about this,\nbut do we have an end date for this war?\n'Cause I got no interest in being a Watcher\nuntil the dang sun burns out."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_990_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Victory is coming—I'm certain of it."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_990_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "All right, I'll buy that. I mean,\nyou seem pretty trustworthy."
+  },
+  "SUB_W02_FUNC_MIDO_LITA_OUTPOST_CONTROL_990_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Thank you, Watcher."
+  },
+  "SUB_W02_WRLD_MIDO_INITIAL_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Whoa!"
+  },
+  "SUB_W02_WRLD_MIDO_INITIAL_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Thanks, Musashi. I would've busted\nsomething if you weren't there\nto catch me."
+  },
+  "SUB_W02_WRLD_MIDO_INITIAL_000_CUT_000_020": {
+    "speaker": "Musashi_Kugutu",
+    "text": "We <i>kugutsu</i> have sworn to protect our\nmaster to the extent our bodies allow.\fAlso, if you perished here, we would\nnot be able to return to our world."
+  },
+  "SUB_W02_WRLD_MIDO_INITIAL_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Big responsibility, that."
+  },
+  "SUB_W02_WRLD_MIDO_INITIAL_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Makes sense to me. Also, despite the fact\nthis world looks pretty dang wacky,\nI feel surprisingly calm about all this.\fAnyway, let's hit the road and figure\nout where we're supposed to be going."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So the Emerald Wave is gonna point me\nto a being of power, eh? Probably best\nto check that out."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_010": {
+    "speaker": "Unknown_Person",
+    "text": "Halt, you suspicious stranger!"
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Uh... Wait, you mean me?\nI'm not suspicious."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_030": {
+    "speaker": "Unknown_Person",
+    "text": "Do you see anyone else standing around?\nAlso, you most certainly ARE suspicious!\nPeople don't just come falling out of\nthe sky, not even in the Witchdom Pulchra.\fNow who are you, and where\ndid you come from?"
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now hold on just a tick there.\nIs that where I am? And does\nthat make you an actual witch?"
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_050": {
+    "speaker": "Unknown_Person",
+    "text": "I'll ask the questions here, stranger.\nNow answer me—or else."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Heck, lady, no need for the scary stuff.\nSo I'm Tsunanori Mido, from Miyako City.\nNot that I think you'll know what any of\nthat means, but there ya have it."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_070": {
+    "speaker": "Unknown_Person",
+    "text": "Miyako City... Wait, that might've been\nthe world where Ameya was dispatched."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_080": {
+    "speaker": "Unknown_Person",
+    "text": "So why are you here, Tsunanori Mido,\nwhen you don't seem to even have known\nthis is the world of witches?"
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I came here looking\nfor a being of power.\fSee, there are four gods: the Black Tortoise,\nthe White Tiger, the Vermillion Bird, and the\nAzure Dragon, and a being that possesses the\npower of one of 'em must be in this world."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_100": {
+    "speaker": "Unknown_Person",
+    "text": "Oh, and you know your spirits, too!\nMore suspicious by the minute..."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Say, would you mind undoing this ivy, maybe?\nIt kinda stings a bit—er, or stings a lot,\nif I'm being honest.\fI mean, I'm not goin' anywhere—and\nif I start actin' funny, you can just\ntie me right back up."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_120": {
+    "speaker": "Unknown_Person",
+    "text": "You're pretty cheeky for a stranger...\nBut I suppose you're right."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_130": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm Lita Caryx, a witch of the blue—\nand I'm gonna be keeping a veeery\nclose eye on you for a while!"
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Appreciate that. I'm not familiar with this\nworld, so I was hoping someone might show\nme around. Pretty lucky to find somebody who\nknows the score and is easy on the eyes."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_150": {
+    "speaker": "Lita_Caryx",
+    "text": "I said I'd keep an eye on you, not give you\na guided tour—so can it with the sweet talk.\nNow then, where are you headed?"
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_160": {
+    "speaker": "Tsunanori_Mido",
+    "text": "To that forest. I think there's\na being of power there."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_170": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, there's a powerful spirit there, all right—\nbut if a weakling like you tries to challenge it,\nthis little walkabout is going to end with me\nrolling you into a shallow grave."
+  },
+  "SUB_W02_SCAN_MIDO_INITIAL_WAVE_000_CUT_000_180": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Huh. All right, then. Guess I'll try \nstretchin' my legs somewhere else."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, so this spirit here is so weak,\nit's basically a spirit in name only.\nYou good with that?"
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not worth it, then."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's do it."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, wouldn't do me any good if I died\ntaking on some spirit I couldn't handle.\nAlso, this is the first I've ever heard\nof there being strong and weak spirits."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Not sure I'd be quite so cavalier about it,\nbut it's your mission. Do as you like."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_100_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Okay, so not sure I'd call this spirit a\n'being of power,' but it's no weakling,\neither. Might be a good match for you."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_100_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Eh, let's back off."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_100_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds swell. Let's do it."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_100_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds like a good chance to get my hands on\nsome power—plus a fella's gotta challenge\nhimself every now and again, right?"
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_100_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Heh. That's the spirit."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_200_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So here's that 'being of power' you wanted.\nPersonally, I wouldn't come within a hundred\nmiles of the thing because I don't like dying,\nbut hey, you do you."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_200_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yikes. Better back off."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_200_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's do this!"
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_200_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not really looking to get myself killed here,\nbut I also can't do much more than overcome\nthis challenge and move on to the next."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_200_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I'll be sure to pick up any random\nlimbs that get torn from your body."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_300_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Hi, hey. So you WERE listening when\nI told you this spirit is way out of\nyour league, right? ...Because it is."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_300_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Gotcha. Let's back off."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_300_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm going for it anyway."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_300_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I don't have to win here—just need\nto borrow me some of its power.\nOnce I do that, we can skedaddle."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_300_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "Such a chipper attitude! But here's the thing:\nthis spirit is the guardian of the blue witches.\nIt's not some weak little pixie that's going to\nlet you wander up to it and take some power."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_999_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "So the spirit of this forest's gonna\nbecome another of your servants, huh?\nTsk. That's a damn shame."
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_999_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Or...we do something else?"
+  },
+  "SUB_W02_EVAR_MIDO_MOKU_999_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Yep. Now let's get it over with."
+  },
+  "SUB_W02_EVAR_MIDO_GET_SPIRIT_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "Get what you needed?"
+  },
+  "SUB_W02_EVAR_MIDO_GET_SPIRIT_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sure did. Musashi was able to copy part\nof the spirit's power. I'll look into just\nwhat kind of power it is later."
+  },
+  "SUB_W02_EVAR_MIDO_GET_SPIRIT_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "All right. Then let's move on.\nWhich should I guide you to next?\nWhat's a good fit for you?\nHmm... HMM... HMMMMMM..."
+  },
+  "SUB_W02_EVAR_MIDO_GET_SPIRIT_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Actually, I'll just figure it out myself.\nThanks for tryin', though."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, this is where I'm headed next.\nTalk about bright."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Wait, what? No. This is the tower of\nthe Arch Witch herself—you can't\njust strut on in there unless you have\nan invitation."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, I get that, but this place is connected\nto my destiny somehow. Can't tell you why\nI know that, but I do."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, are you a scryer now?\nA fortune teller? A seer?\fAnd think very carefully before you answer,\nbecause people who use that kind of magic\nin the Witchdom tend to go blind."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry, might not have been clear there.\nThe future's something I set for myself,\nnot some predetermined thing—but I'm still\nsure that going this way is the right call."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, that slightly annoying level of\nconfidence still isn't going to get you\ninto the tower without an invitation."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, I don't wanna go assuming anything,\nbut this kinda feels like the Arch Witch\nis inviting me inside."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Sigh. Yes, I guess she is...\nNow hurry up! She's a busy woman."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You gonna come with me?\nI'd feel better with the company."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Only the invited may enter the tower."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "...Uh, hey there, Arch Witch! Hello!?\nIf you can hear me, you don't mind if\nthis gal here tags along, do you!?"
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Okay, you're good."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_120": {
+    "speaker": "Lita_Caryx",
+    "text": "...Oh, fine. I suppose I'll join\nyou on this road to the future."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_000_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, good company makes for quick trips,\nbelieve you me."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'm not much for magic and hexes and\nso forth, but even I can tell this place\nholds tons and tons of power."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_010": {
+    "speaker": "ArchWitch",
+    "text": "Be welcome, stranger. And you as well,\nLita—you have my thanks for bringing\nthis traveler to me."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_020": {
+    "speaker": "Lita_Caryx",
+    "text": "I, um... I don't think I did anything quite\nso worthy of your praise, Arch Witch;\nhe's actually a rather odd little man."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Cripes, lady. I'm standin' right here.\fWell then, Arch Witch? What do you need\nwith this odd little fella here?"
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_040": {
+    "speaker": "ArchWitch",
+    "text": "While this tower is a place where magical\npower gathers, it also serves as a doorway\nto other worlds—worlds that I know you are\nmost eager to visit."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_050": {
+    "speaker": "ArchWitch",
+    "text": "If you would make use of it, however, I have\none condition: you must take Lita with you."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_060": {
+    "speaker": "Lita_Caryx",
+    "text": "WHAT!? Okay, this was NOT part of—"
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_070": {
+    "speaker": "ArchWitch",
+    "text": "Your encounter with this visitor was no mere\ncoincidence, Lita. And while I could likely\nsend most any witch along with him, you are\nthe one who stands before me now."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_080": {
+    "speaker": "ArchWitch",
+    "text": "The unseen hand has chosen you, child—\nI merely abide that choice.\fNow go with this man. See and experience\nwhat you can, then return to me and convey\nwhat is happening in the Conjoined Worlds."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_090": {
+    "speaker": "Lita_Caryx",
+    "text": "...As you wish, Arch Witch."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_100": {
+    "speaker": "Lita_Caryx",
+    "text": "Right then, Tsunanori. Let's go."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_110": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Look, I don't want to be rude or nothing here,\nbut there's someone else involved in this\ndecision. Or do I just have to go along with\nwhatever you two decide, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_120": {
+    "speaker": "Lita_Caryx",
+    "text": "You don't want me to come?"
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_130": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Nah, that ain't it. Heck, I'd love the\ncompany, so long as you're good with it."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_140": {
+    "speaker": "Lita_Caryx",
+    "text": "Ah, so you just need to be the one calling\nthe shots. Fine, fine. You're the protagonist,\nand I'm just some sidekick. Happy?"
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_150": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Now if we're good here, let's go.\nFor real this time."
+  },
+  "SUB_W02_EVAR_MIDO_BRILLIANTTOWER_000_CUT_010_160": {
+    "speaker": "ArchWitch",
+    "text": "Very good, young one.\nI will open the Astral Gate."
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_000": {
+    "speaker": "Lita_Caryx",
+    "text": "I'm not sure we should stop here."
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_010": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Aw, c'mon. It's a beautiful castle that just\nscreams 'I'm full of magic.' Heck, I bet some\nwitch with a fun color scheme is gonna wander\nout to greet us any second here."
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_020": {
+    "speaker": "Lita_Caryx",
+    "text": "...This is my home."
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You live in a fancy mansion like this?\nHeck, your family must be real important."
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_040": {
+    "speaker": "Lita_Caryx",
+    "text": "If by family you mean mother, then yes.\nWitches only have mothers, you see,\nand I don't have kids yet."
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. I had no idea witches were into\nasexual reproduction. So how's that work,\nanyway? Spores? Budding?"
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "No, you idiot! We have fathers, we just don't\nknow who they are. That's simply how things\nare done here."
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_070": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Right, gotcha. Well then,\nlet's go say hello to Mom."
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_080": {
+    "speaker": "Lita_Caryx",
+    "text": "Or we could not. Look, that could be a whole\ncan of worms, you know? My mother is the\nleader of the blue witches; there could be\ntrouble if she gets her hands on you."
+  },
+  "SUB_W02_EVAR_MIDO_BLUE_000_CUT_000_090": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, heck. I was hoping to meet the lady,\nbut I'm not looking to cause problems for\nanybody. Probably best to move on."
+  },
+  "SUB_W02_EVAR_MIDO_WHITE_000_CUT_000_000": {
+    "speaker": "WhiteWiseWitch",
+    "text": "Why, if it isn't Lita! It has been some\ntime, child. Ameya is currently out on\nher trial—which I thought you knew."
+  },
+  "SUB_W02_EVAR_MIDO_WHITE_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I haven't come for Ameya today, Sage.\nI'm just here so this strange little man\ncan introduce himself."
+  },
+  "SUB_W02_EVAR_MIDO_WHITE_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey there. The name's Tsunanori Mido,\nand I came here from Miyako City to\nfind a spirit's power."
+  },
+  "SUB_W02_EVAR_MIDO_WHITE_000_CUT_000_030": {
+    "speaker": "WhiteWiseWitch",
+    "text": "What a coincidence! My daughter is\ncurrently in Miyako City, and now\nhere you stand."
+  },
+  "SUB_W02_EVAR_MIDO_WHITE_000_CUT_000_040": {
+    "speaker": "WhiteWiseWitch",
+    "text": "Ah, but perhaps it is inevitable;\nthe Conjoined Worlds ever seek\nequilibrium, after all."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_000": {
+    "speaker": "RedWiseWitch",
+    "text": "I sensed some new thing had intruded upon\nthe Witchdom, but I see now it has already\nbeen apprehended. Well done, Lita—though\nI would expect no less of the next Blue Sage."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I suppose I technically <i>did</i>\napprehend him, but it's more like\nI'm...keeping an eye on him, I guess?"
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_020": {
+    "speaker": "RedWiseWitch",
+    "text": "Is that so? Well, you ought do as you like;\nhe doesn't seem strong enough to cause\nany real harm."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_030": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not planning to harm anyone, actually.\nAlso, rude."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_040": {
+    "speaker": "RedWiseWitch",
+    "text": "Who said you could speak to me,\nyou insolent man!? Such a thing\nrequires permission first."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sorry about—"
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_060": {
+    "speaker": "RedWiseWitch",
+    "text": "Well, this one seems utterly useless.\nWere I you, Lita, I'd dispose of him."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "I thank you for the counsel,\nRed Sage."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So are all witches like...that?"
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "While the Red Sage is a bit...aggressive,\nwitches <i>do</i> tend to view non-witches\nas something less than human."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Woof. Rough deal. So do you folks just\nnot have non-witches in this world?"
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_110": {
+    "speaker": "Lita_Caryx",
+    "text": "We do. Any who lack magical ability become\nsquires and are made to serve the witches.\nThey live on a remote island to the west."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_120": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds neat. Think we can swing\nby and check that out, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_130": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, strangers are <i>definitely</i> not allowed\nthere. Actually, it's probably best if\nyou just forget we ever talked about it."
+  },
+  "SUB_W02_EVAR_MIDO_RED_000_CUT_000_140": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Consider my lips zipped."
+  },
+  "SUB_W02_EVAR_MIDO_YELLOW_000_CUT_000_000": {
+    "speaker": "YellowWiseWitch",
+    "text": "The earth ought not to be shaking\nand moving, and yet here I find\npeople wandering aimlessly."
+  },
+  "SUB_W02_EVAR_MIDO_YELLOW_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Luck has smiled on me today,\nYellow Sage; it's a rare thing\nto find your domicile."
+  },
+  "SUB_W02_EVAR_MIDO_YELLOW_000_CUT_000_020": {
+    "speaker": "YellowWiseWitch",
+    "text": "The witches of the blue are ever welcome\nhere—the earth remains bounteous thanks\nto your magic, after all."
+  },
+  "SUB_W02_EVAR_MIDO_YELLOW_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, I'm currently showing this traveler\naround the Witchdom. Fair warning, though:\nhe's a bit of an oddball."
+  },
+  "SUB_W02_EVAR_MIDO_YELLOW_000_CUT_000_040": {
+    "speaker": "YellowWiseWitch",
+    "text": "Well, as much as I'd like for you to settle in\nand relax, even I cannot say when this place\nmight take off again. As such, I suggest you\nhead out while things are still calm."
+  },
+  "SUB_W02_EVAR_MIDO_YELLOW_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Of course. We'll talk another time."
+  },
+  "SUB_W02_EVAR_MIDO_YELLOW_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "I'd say I got the cold shoulder there,\nbut that would have required her to\nactually realize I existed first."
+  },
+  "SUB_W02_EVAR_MIDO_YELLOW_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "Yeah, she pretty clearly hated you.\nDidn't even need to say it or anything!"
+  },
+  "SUB_W02_EVAR_MIDO_YELLOW_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You witches are tough nuts to crack."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "So how do we reach that fancy\nCastle Black Swan?"
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "You just pass through this channel—\nI mean, assuming the Black Sage\nis in a good mood."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "The heck does that mean?"
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_000_030": {
+    "speaker": "Lita_Caryx",
+    "text": "Well, if the channel is flowing toward\nthe castle, getting there is a cinch.\nBut if it's flowing in the opposite\ndirection, it's pretty much impossible.\fAnd right now, it seems like it's\nvery much not a cinch."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_000_040": {
+    "speaker": "Tsunanori_Mido",
+    "text": "You think hitting this switch will change\nthe direction of the water, maybe?"
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_000_050": {
+    "speaker": "Lita_Caryx",
+    "text": "Probably. The bigger question is if you\ncan operate a magical control panel."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_000_060": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, won't know till I try."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_010_CUT_000_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Let's try this again."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_010_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, would ya look at that.\nI did it."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_010_010": {
+    "speaker": "Lita_Caryx",
+    "text": "Yes, I suppose it was pretty easy in the end.\nBut don't get cocky, because you're about to\nmeet the Black Sage herself."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_010_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Well, talk about ominous."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_011_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Seems like today's gonna be a bad one.\nLet's skip the castle for now."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_020_000": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Talk about your rough welcomes."
+  },
+  "SUB_W02_EVAR_MIDO_AQUEDUCT_000_CUT_020_010": {
+    "speaker": "Lita_Caryx",
+    "text": "I can't tell if she's welcoming you\nor just doesn't trust you."
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_000": {
+    "speaker": "BlackWiseWitch",
+    "text": "A being from another world has come into ours.\nThis must be a sign a Calamity is close—\nor perhaps this being <i>is</i> the Calamity?"
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_010": {
+    "speaker": "Lita_Caryx",
+    "text": "We should be so lucky to have the Calamity\ntake the form of this chump. "
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_020": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Not sure how to feel about that..."
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_030": {
+    "speaker": "BlackWiseWitch",
+    "text": "The Calamity comes with surety, and you\nmay yet be a part of it. Your feelings about\nthe matter cannot change what is to come."
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_040": {
+    "speaker": "BlackWiseWitch",
+    "text": "You would do well to prepare for the\nCalamity as well, witch of the blue."
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_050": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, so not to be rude, but can\nsomebody fill a guy in on this\nwhole Calamity deal?"
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_060": {
+    "speaker": "Lita_Caryx",
+    "text": "The Witchdom Pulchra is regularly beset by\nphenomena called Calamities that take\ndifferent forms each time they appear.\fWe witches are constantly honing our\nmagical abilities so we're ready to fight\nthem, because if we lose, we face ruination."
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_070": {
+    "speaker": "Lita_Caryx",
+    "text": "That said, we don't live our lives quaking\nin fear. When a Calamity comes, it comes—\nat which point we put it all on the line\nto try and beat it back."
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_080": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Hey, I respect that resolve.\nNot like me at all, if I'm honest."
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_090": {
+    "speaker": "Lita_Caryx",
+    "text": "Oh, stop. I know you came here looking\nfor spirits because you're bearing your\nown kind of burden.\fAnyway, that's enough dark talk for one day.\nFor now, let's just sit back and enjoy living\nin the moment—because that's the witchy way!"
+  },
+  "SUB_W02_EVAR_MIDO_BLACK_000_CUT_000_100": {
+    "speaker": "Tsunanori_Mido",
+    "text": "Sounds good to me."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "W04_WRLD_BOFO_INITIAL_000_TITLE": {
+    "speaker": "UI",
+    "text": "Mare Nostrum: The Sea World"
+  },
+  "W04_WRLD_BOFO_INITIAL_000_DETAIL": {
+    "speaker": "UI",
+    "text": "After passing through the door, you hear a voice telling you to take the triangle away. A moment later, you find yourself underwater!"
+  },
+  "W04_EVAR_BOFO_BASE_WORLDQUEST_LASTBATTLE_000_TITLE": {
+    "speaker": "UI",
+    "text": "Battle to Protect the Egg"
+  },
+  "W04_EVAR_BOFO_BASE_WORLDQUEST_LASTBATTLE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All that remains is for you to take the triangle out of this world—but to do that, you must save Ivar and take Deus Maris's egg through the cyclone. Once the captain's wish comes true, you can leave."
+  },
+  "W04_EVAR_BOFO_BASE_WORLDQUEST_LASTBATTLE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Battle for the Egg"
+  },
+  "W04_EVAR_BOFO_BASE_WORLDQUEST_LASTBATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Battle for the Egg"
+  },
+  "W04_EVAR_BOFO_BASE_WORLDQUEST_LASTBATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "All that remains is for you to take the triangle out of this world—but to grant Captain Ivar's wish, you must first recover Deus Maris's egg from Baltasar."
+  },
+  "W04_EVAR_BOFO_BASE_WORLDQUEST_LASTBATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Battle for the Egg"
+  },
+  "W04_EVAR_BOFO_BASE_WORLDQUEST_LASTBATTLE_RAFT_000_TITLE": {
+    "speaker": "UI",
+    "text": "Challengers of the Raft"
+  },
+  "W04_EVAR_BOFO_BASE_WORLDQUEST_LASTBATTLE_RAFT_000_DETAIL": {
+    "speaker": "UI",
+    "text": "All that remains is for you to take the triangle out of this world—but will even the finest of rafts be enough to get you to the cyclone?"
+  },
+  "W04_EVAR_BOFO_BASE_WORLDQUEST_LASTBATTLE_RAFT_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Cyclone"
+  },
+  "W04_EVAR_BOFO_PIRATESHIP_DEATH_COVE_000_TITLE": {
+    "speaker": "UI",
+    "text": "The Storm in Dead Man's Bay"
+  },
+  "W04_EVAR_BOFO_PIRATESHIP_DEATH_COVE_000_DETAIL": {
+    "speaker": "UI",
+    "text": "A giant cyclone has appeared out of nowhere—and to leave this world with the triangle, you must sail right into it. This plan, however, risks helping Baltasar hatch the egg and achieve his ambition."
+  },
+  "W04_EVAR_BOFO_PIRATESHIP_DEATH_COVE_000_BUTTON": {
+    "speaker": "UI",
+    "text": "Approach the Cyclone"
+  },
+  "W04_EVAR_BOFO_PIRATESHIP_LASTBATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "Baltasar's Threat"
+  },
+  "W04_EVAR_BOFO_PIRATESHIP_LASTBATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "If you want to take the triangle from this world, you must watch over Baltasar as he makes his heart's desire come true. Where will his dark ambitions lead him?"
+  },
+  "W04_EVAR_BOFO_PIRATESHIP_LASTBATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Baltasar"
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_SHIPYARD_011_TITLE": {
+    "speaker": "UI",
+    "text": "Time to Go Back"
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_SHIPYARD_011_DETAIL": {
+    "speaker": "UI",
+    "text": "You have the triangle and jewels necessary to leave this world. It's time to find a way home."
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_SHIPYARD_011_BUTTON": {
+    "speaker": "UI",
+    "text": "Enter the Shipyard"
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_LAST_BATTLE_115_TITLE": {
+    "speaker": "UI",
+    "text": "Returning to Heaven"
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_LAST_BATTLE_115_DETAIL": {
+    "speaker": "UI",
+    "text": "You now have the triangle and Baltasar's heart. Regardless of whose wish is granted, the time has come for you to leave this world."
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_LAST_BATTLE_115_BUTTON": {
+    "speaker": "UI",
+    "text": "Talk to Baltasar"
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_LAST_BATTLE_120_TITLE": {
+    "speaker": "UI",
+    "text": "The Final Battle"
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_LAST_BATTLE_120_DETAIL": {
+    "speaker": "UI",
+    "text": "You obtained Baltasar's heart, but not the triangle. The final battle for the triangle awaits at the cyclone."
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_LAST_BATTLE_120_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Final Battle"
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_LAST_BATTLE_010_TITLE": {
+    "speaker": "UI",
+    "text": "The True Battle"
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_LAST_BATTLE_010_DETAIL": {
+    "speaker": "UI",
+    "text": "With the triangle obtained, it's time to battle Baltasar—who now holds Deus Maris's egg and seeks to make his wish come true."
+  },
+  "W04_EVAR_BOFO_GHOSTSHIP_LAST_BATTLE_010_BUTTON": {
+    "speaker": "UI",
+    "text": "Begin the Final Battle"
+  }
+}
