@@ -1,0 +1,17 @@
+[
+  {"ID": "SL_RB_A_01_IHA01", "Type": "Invitation"},
+  {"ID": "SL_RB_A_02_IHA02", "Type": "Invitation"},
+  {"ID": "SL_RB_A_03_IHA03", "Type": "Invitation"},
+  {"ID": "SL_RB_A_04_IHA04", "Type": "Invitation"},
+  {"ID": "SL_RB_B_01_IHA05", "Type": "Perfume"},
+  {"ID": "SL_RB_B_02_IHA06", "Type": "Perfume"},
+  {"ID": "SL_RB_B_03_IHA07", "Type": "Perfume"},
+  {"ID": "SL_RB_B_04_IHA08", "Type": "Perfume"},
+  {"ID": "SL_RB_B_05_IHA09", "Type": "Perfume"},
+  {"ID": "SL_RB_C_01_IHA10", "Type": "Spore"},
+  {"ID": "SL_RB_C_02_IHA11", "Type": "Spore"},
+  {"ID": "SL_RB_C_03_IHA12", "Type": "Spore"},
+  {"ID": "SL_RB_C_04_IHA13", "Type": "Spore"},
+  {"ID": "SL_RB_C_05_IHA14", "Type": "Spore"},
+  {"ID": "SL_RB_C_06_IHA15", "Type": "Spore"}
+]

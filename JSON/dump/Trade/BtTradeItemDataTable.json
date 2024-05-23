@@ -2,106 +2,106 @@
     "SOZAI_SPIRIT_STONE": {
         "Value": 1, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_FE_MOKU": {
         "Value": 2, 
         "ItemCategory": "Material", 
         "FreeCategory": "FE", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_FE_KA": {
         "Value": 2, 
         "ItemCategory": "Material", 
         "FreeCategory": "FE", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_FE_DO": {
         "Value": 2, 
         "ItemCategory": "Material", 
         "FreeCategory": "FE", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_FE_KIN": {
         "Value": 2, 
         "ItemCategory": "Material", 
         "FreeCategory": "FE", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_FE_SUI": {
         "Value": 2, 
         "ItemCategory": "Material", 
         "FreeCategory": "FE", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_CRYSTAL_MOKU": {
         "Value": 6, 
         "ItemCategory": "Material", 
         "FreeCategory": "Crystal", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_CRYSTAL_KA": {
         "Value": 6, 
         "ItemCategory": "Material", 
         "FreeCategory": "Crystal", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_CRYSTAL_DO": {
         "Value": 6, 
         "ItemCategory": "Material", 
         "FreeCategory": "Crystal", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_CRYSTAL_KIN": {
         "Value": 6, 
         "ItemCategory": "Material", 
         "FreeCategory": "Crystal", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_CRYSTAL_SUI": {
         "Value": 6, 
         "ItemCategory": "Material", 
         "FreeCategory": "Crystal", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_MULLOCK": {
         "Value": 2, 
         "ItemCategory": "Material", 
         "FreeCategory": "Stone", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_IRON_ORE": {
         "Value": 3, 
         "ItemCategory": "Material", 
         "FreeCategory": "Stone", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_MAGIC_STONE": {
         "Value": 5, 
         "ItemCategory": "Material", 
         "FreeCategory": "Stone", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_OBSIDIAN": {
         "Value": 7, 
         "ItemCategory": "Material", 
         "FreeCategory": "Stone", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_NATIVE_SILVER": {
@@ -115,273 +115,273 @@
         "Value": 8, 
         "ItemCategory": "Material", 
         "FreeCategory": "Stone", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_SUPERALLOY": {
         "Value": 8, 
         "ItemCategory": "Material", 
         "FreeCategory": "Stone", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_FUR": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_MAGICAL_BEAST_FUR": {
         "Value": 4, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_BIG_BEAST_FUR": {
         "Value": 7, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_INSECT_SHELL": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_BEAST_BONE": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_MAGICAL_BEAST_BONE": {
         "Value": 4, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_BIG_BEAST_BONE": {
         "Value": 7, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_BEAST_FANG": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_MAGICAL_BEAST_FANG": {
         "Value": 4, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_BIG_BEAST_FANG": {
         "Value": 7, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_BEAST_CLAW": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_MAGICAL_BEAST_CLAW": {
         "Value": 4, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_BIG_BEAST_CLAW": {
         "Value": 7, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_FIBER": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_SCRUB": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_HINOKI": {
         "Value": 4, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_OAK": {
         "Value": 6, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_COCONUT": {
         "Value": 4, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_GELATIN": {
         "Value": 3, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_LIGULATE_FLOWER": {
         "Value": 3, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_DISK_FLOWER": {
         "Value": 6, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_SNAKESKIN": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_FEATHER": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_ALURA": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_SCREAM_ROOT": {
         "Value": 2, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_DEMON_BLOOD": {
         "Value": 4, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_ORB": {
         "Value": 4, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_SQUID_FIN": {
         "Value": 6, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_DRAGON_SCALE": {
         "Value": 6, 
         "ItemCategory": "Material", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_001": {
         "Value": 2, 
         "ItemCategory": "Material", 
         "FreeCategory": "Pollen", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_002": {
         "Value": 3, 
         "ItemCategory": "Material", 
         "FreeCategory": "Pollen", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_003": {
         "Value": 3, 
         "ItemCategory": "Material", 
         "FreeCategory": "Pollen", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SOZAI_004": {
         "Value": 3, 
         "ItemCategory": "Material", 
         "FreeCategory": "Pollen", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW_OLD_01": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW_OLD_02": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW01_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW01_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW01_C": {
@@ -430,112 +430,112 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW02_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW02_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW02_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW03_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW03_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW03_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW03_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW04_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW04_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW04_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW04_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW05_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW05_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW05_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW05_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLLSW06_A": {
@@ -619,14 +619,14 @@
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP01_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP01_C": {
@@ -654,112 +654,112 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP02_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP02_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP02_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP03_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP03_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP03_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP03_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP04_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP04_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP04_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP04_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP05_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP05_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP05_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP05_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLRAP06_A": {
@@ -864,14 +864,14 @@
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG01_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG01_C": {
@@ -906,105 +906,105 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG03_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG03_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG03_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG04_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG04_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG04_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG04_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG05_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG05_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG05_C": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG06_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG06_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG06_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG06_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG07_A": {
@@ -1032,49 +1032,49 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG08_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG08_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG08_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG09_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG09_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG09_C": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLDAG09_D": {
@@ -1137,21 +1137,21 @@
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE01_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE01_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE01_C": {
@@ -1165,56 +1165,56 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE02_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE02_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE02_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE03_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE03_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE03_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE03_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE04_A": {
@@ -1263,56 +1263,56 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE06_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE06_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE06_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE07_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE07_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE07_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE07_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WLAXE08_A": {
@@ -1382,21 +1382,21 @@
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW01_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW01_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW01_C": {
@@ -1410,7 +1410,7 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW01_GUARD_A": {
@@ -1438,112 +1438,112 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW02_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW02_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW02_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW03_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW03_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW03_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW03_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW04_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW04_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW04_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW04_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW05_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW05_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW05_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW05_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW06_A": {
@@ -1641,14 +1641,14 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW_EXCALIBUR_02": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW_EXCALIBUR_03": {
@@ -1669,84 +1669,84 @@
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW01_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW01_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW01_C": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW02_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW02_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW02_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW02_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW03_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW03_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW03_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW03_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW04_A": {
@@ -1774,28 +1774,28 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW05_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW05_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW05_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW06_A": {
@@ -1837,28 +1837,28 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW08_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW08_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW08_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHSSW09_A": {
@@ -1935,14 +1935,14 @@
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW01_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW01_C": {
@@ -1956,112 +1956,112 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW02_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW02_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW02_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW03_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW03_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW03_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW03_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW04_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW04_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW04_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW04_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW05_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW05_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW05_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW05_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHPSW06_A": {
@@ -2180,56 +2180,56 @@
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE_OLD_02": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE01_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE01_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE01_C": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE01_D": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE01_E": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE01_F": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE02_A": {
@@ -2278,56 +2278,56 @@
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE04_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE04_C": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE04_D": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE05_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE05_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE05_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE05_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE06_A": {
@@ -2348,28 +2348,28 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE07_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE07_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE07_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE08_A": {
@@ -2418,28 +2418,28 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE10_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE10_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE10_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE11_A": {
@@ -2474,28 +2474,28 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE13_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE13_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE13_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE14_A": {
@@ -2544,140 +2544,140 @@
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC_OLD_02": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC_OLD_03": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC_OLD_04": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC01_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC01_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC01_C": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC01_D": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC01_E": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC02_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC02_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC02_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC02_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC02_E": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC02_2_A": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHFLA01_ZERO": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHFLA01_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHFLA01_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHFLA01_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHFLA01_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHFLA01_2_A": {
@@ -2719,28 +2719,28 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHELE01_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHELE01_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHELE01_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHELE01_2_A": {
@@ -2782,28 +2782,28 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHBOM01_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHBOM01_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHBOM01_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHBOM01_2_A": {
@@ -2845,28 +2845,28 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHCHE01_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHCHE01_C": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHCHE01_D": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHCHE01_2_A": {
@@ -2908,455 +2908,455 @@
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_SWORD01": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_GUN00": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_GUN01": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "WLLSW_DW": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE_DW": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MAMCR01_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR02_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR03_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR04_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR05_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR06_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR07_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR08_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR09_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR10_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR11_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR12_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR13_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR14_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR15_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR16_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR17_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MAMCR18_DW": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "WLLSW01_MW": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "WHGSW01_MW": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GLONE01_MW": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "GHMAC01_MW": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Weapon", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MACL01_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MACL02_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MACL03_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MACL04_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA01_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA02_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA03_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA04_A": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA05_A": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA05_B": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA05_C": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA06_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA07_A": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA08_A": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA09_A": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA09_B": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA10_A": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA10_B": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_BONE01": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_BONE02": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_BONE03": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_BONE04": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_BEAST01": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_BEAST02": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_BEAST03": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_BEAST04": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_SNAKE01": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_SNAKE02": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_SNAKE03": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA_SNAKE04": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA11_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA12_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA13_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA14_A": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA15_A": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA15_B": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MANA16_A": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MAFA01_A": {
@@ -3412,126 +3412,126 @@
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MAFA09_A": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO00_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO00_B": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO01_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO02_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO03_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO04_A": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO05_A": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO05_B": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO06_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO06_B": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO07_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO07_B": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO08_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO08_B": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO09_A": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO10_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO11_A": {
@@ -3559,14 +3559,14 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO_ALL02": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO_ALL03": {
@@ -3608,1750 +3608,1750 @@
         "Value": 4, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO14_A": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO15_A": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MACW01_DM": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MACW02_DM": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MACW03_DM": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MACW04_DM": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MACW05_DM": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MACW06_DM": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MACW07_DM": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MACW08_DM": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MACW09_DM": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "SAIN01_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN01_B": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAIN02_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN03_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN04_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN05_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAIN06_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN06_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN07_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAIN08_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN09_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN09_B": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN10_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAIN11_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAIN12_A": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAIN13_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN13_B": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN14_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN14_B": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE01_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE02_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE03_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE04_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE05_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE05_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE06_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE07_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE07_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE08_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE09_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE10_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE10_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE11_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE12_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE13_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE14_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE15_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE15_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE16_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE17_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE18_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE18_B": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE18_C": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE18_D": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE18_E": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE18_F": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE18_G": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE18_H": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE19_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE20_A": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAHE21_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Strong", 
         "ExhibitProhibited": false
     }, 
     "SAHE22_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Strong", 
         "ExhibitProhibited": false
     }, 
     "SAHE23_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Strong", 
         "ExhibitProhibited": false
     }, 
     "SAHE24_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Strong", 
         "ExhibitProhibited": false
     }, 
     "SAHE25_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Strong", 
         "ExhibitProhibited": false
     }, 
     "SAHE26_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL01_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL02_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL03_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL04_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL05_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL06_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL06_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL07_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Strong", 
         "ExhibitProhibited": false
     }, 
     "SAGL07_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Strong", 
         "ExhibitProhibited": false
     }, 
     "SAGL08_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL09_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL10_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL11_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL12_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL13_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL13_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL14_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL15_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL16_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL17_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL18_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SAGL18_B": {
         "Value": 7, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SAGL19_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL20_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SAGL20_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL21_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL21_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH00_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH00_B": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH00_C": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH00_D": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Womens", 
         "ExhibitProhibited": false
     }, 
     "SASH01_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH02_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH03_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH04_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH04_B": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH05_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH05_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH06_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH07_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH08_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH09_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH09_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH09_C": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH10_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH10_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH11_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH12_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH12_B": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH13_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SASH14_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SASH15_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SASH16_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH16_B": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH16_C": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH17_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH17_A2": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH17_B": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH17_B2": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC00_A": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC01_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC02_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC03_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC04_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC05_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC06_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC07_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC08_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC09_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC10_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC11_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC12_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC13_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC14_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SAAC14_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SAAC15_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC15_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC16_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC16_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC17_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SAAC17_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SAAC18_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC18_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC19_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SAAC19_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SAAC20_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC20_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC21_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC21_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC22_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC22_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC23_A": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC23_B": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC24_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC25_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC26_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC27_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC28_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC29_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC30_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC31_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC32_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC33_A": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC34_A": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC35_A": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC35_B": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC36_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC37_A": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC37_B": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_RING_FOOL": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_RING_ATK": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_RING_DEF": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_RING_AGL": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_RING_MAG": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_DUMBBELL_1": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Dumbbell", 
         "ExhibitProhibited": false
     }, 
     "SAAC_DUMBBELL_2": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Dumbbell", 
         "ExhibitProhibited": false
     }, 
     "SAAC_DUMBBELL_3": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Dumbbell", 
         "ExhibitProhibited": false
     }, 
     "SAAC_DUMBBELL_4": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Dumbbell", 
         "ExhibitProhibited": false
     }, 
     "SAAC_WATCH_1": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Watch", 
         "ExhibitProhibited": false
     }, 
     "SAAC_WATCH_2": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Watch", 
         "ExhibitProhibited": false
     }, 
     "SAAC_WATCH_3": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Watch", 
         "ExhibitProhibited": false
     }, 
     "SAAC_WATCH_4": {
         "Value": 9, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Watch", 
         "ExhibitProhibited": false
     }, 
     "SAAC_TICKET_0": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Ticket", 
         "ExhibitProhibited": false
     }, 
     "SAAC_TICKET_1": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Ticket", 
         "ExhibitProhibited": false
     }, 
     "SAAC_TICKET_2": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Ticket", 
         "ExhibitProhibited": false
     }, 
     "SAAC_TICKET_3": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Ticket", 
         "ExhibitProhibited": false
     }, 
     "SAAC_TICKET_4": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Ticket", 
         "ExhibitProhibited": false
     }, 
     "SAAC_TICKET_5": {
         "Value": 6, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Ticket", 
         "ExhibitProhibited": false
     }, 
     "SAAC_GIVEAWAY_1": {
         "Value": 1, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_GIVEAWAY_2": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
+        "FreeCategory": "0", 
         "FreeCategory2": "Glitter", 
         "ExhibitProhibited": false
     }, 
     "SAAC_GIVEAWAY_3": {
         "Value": 2, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_GIVEAWAY_4": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_GIVEAWAY_5": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_GIVEAWAY_6": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_GIVEAWAY_7": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_GIVEAWAY_8": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_ABILITY_UP_1": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_ABILITY_UP_2": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_ABILITY_UP_3": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC_MASTR_CROWN_1": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "BLADGEAR_MANA00": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_MANA01": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_SAGL00": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_SAGL01": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_SAHE00": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_SAHE01": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_SASH00": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "BLADGEAR_SASH01": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "MANA01_DM": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MAFA01_DM": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "MARO01_DM": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAIN01_DS": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAHE01_DS": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAGL01_DS": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SASH01_DS": {
         "Value": 3, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC01_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC02_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC03_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC04_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC05_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC06_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC07_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC08_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC09_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC10_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC11_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC12_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC13_DS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC14_DS": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC15_DS": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC01_MS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC02_MS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC03_MS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC04_MS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC05_MS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC06_MS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC07_MS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "SAAC08_MS": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "DIVA_SLOT01_RES": {
         "Value": 999, 
-        "ItemCategory": "None", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "ItemCategory": "0", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "DIVA_SLOT02_RES": {
         "Value": 999, 
-        "ItemCategory": "None", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "ItemCategory": "0", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "DIVA_SLOT03_RES": {
         "Value": 999, 
-        "ItemCategory": "None", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "ItemCategory": "0", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "DIVA_SLOT04_RES": {
         "Value": 999, 
-        "ItemCategory": "None", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "ItemCategory": "0", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "ITEM_001": {
@@ -5386,140 +5386,140 @@
         "Value": 5, 
         "ItemCategory": "EquipItem", 
         "FreeCategory": "Armor", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "ITEM_006": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "ITEM_007": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "ITEM_008": {
         "Value": 5, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": true
     }, 
     "ITEM_009": {
         "Value": 8, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "ITEM_010": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "ITEM_011": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "ITEM_012": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "ITEM_013": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "ITEM_014": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "ITEM_015": {
         "Value": 4, 
         "ItemCategory": "EquipItem", 
-        "FreeCategory": "None", 
-        "FreeCategory2": "None", 
+        "FreeCategory": "0", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "KEY_ITEM_C01_LAST_TICKET": {
         "Value": 1, 
         "ItemCategory": "KeyItem", 
         "FreeCategory": "Ticket", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "KEY_ITEM_C01_YARIKOMI_TICKET_1": {
         "Value": 1, 
         "ItemCategory": "KeyItem", 
         "FreeCategory": "Ticket", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "KEY_ITEM_C01_YARIKOMI_TICKET_2": {
         "Value": 1, 
         "ItemCategory": "KeyItem", 
         "FreeCategory": "Ticket", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "KEY_ITEM_C01_YARIKOMI_TICKET_3": {
         "Value": 1, 
         "ItemCategory": "KeyItem", 
         "FreeCategory": "Ticket", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "KEY_ITEM_C01_YARIKOMI_TICKET_4": {
         "Value": 1, 
         "ItemCategory": "KeyItem", 
         "FreeCategory": "Ticket", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "KEY_ITEM_C01_YARIKOMI_TICKET_5": {
         "Value": 1, 
         "ItemCategory": "KeyItem", 
         "FreeCategory": "Ticket", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "KEY_ITEM_C01_YARIKOMI_TICKET_6": {
         "Value": 1, 
         "ItemCategory": "KeyItem", 
         "FreeCategory": "Ticket", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "KEY_ITEM_C01_YARIKOMI_TICKET_7": {
         "Value": 1, 
         "ItemCategory": "KeyItem", 
         "FreeCategory": "Ticket", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }, 
     "KEY_ITEM_C01_YARIKOMI_TICKET_8": {
         "Value": 1, 
         "ItemCategory": "KeyItem", 
         "FreeCategory": "Ticket", 
-        "FreeCategory2": "None", 
+        "FreeCategory2": "0", 
         "ExhibitProhibited": false
     }
 }

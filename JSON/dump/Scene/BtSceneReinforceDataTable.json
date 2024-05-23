@@ -4,485 +4,485 @@
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_M2304_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M2304_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W02_BLACKSWAN_00_T": {
     "Scene": "BS_W02_BLACKSWAN_00",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_M0900_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M0900_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W02_BLACKSWAN_10_T": {
     "Scene": "BS_W02_BLACKSWAN_10",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_M0900_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M0900_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W02_GREYWITCH_10_T": {
     "Scene": "BS_W02_GREYWITCH_10",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_W02_BOSS_GREY_D','E_W02_BOSS_GREY_D','E_W02_BOSS_GREY_D','E_W02_BOSS_GREY_D']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W02_BOSS_GREY_D","E_W02_BOSS_GREY_D","E_W02_BOSS_GREY_D","E_W02_BOSS_GREY_D"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W02_GREYWITCH_10_T2": {
     "Scene": "BS_W02_GREYWITCH_10",
     "Type": "Turn",
     "Parameter": "6",
     "Sequence": "1",
-    "Enemy": "['E_W02_BOSS_GREY_D','E_W02_BOSS_GREY_D','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W02_BOSS_GREY_D","E_W02_BOSS_GREY_D","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W08_HUMAN_10_T": {
     "Scene": "BS_W08_HUMAN_10",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_M0511_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M0511_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W08_FROG_10_T": {
     "Scene": "BS_W08_FROG_10",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_M0510_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M0510_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W08_INSECT_10_T": {
     "Scene": "BS_W08_INSECT_10",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_M0512_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M0512_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W09_BAF_SQUARE07_00_T": {
     "Scene": "BS_W09_BAF_SQUARE07_00",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_W09_SQUARE02_03_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W09_SQUARE02_03_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W09_SQUARE02_03_T": {
     "Scene": "BS_W09_SQUARE02_03",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_W09_SQUARE02_03_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W09_SQUARE02_03_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W09_SQUARE02_03_T2": {
     "Scene": "BS_W09_SQUARE02_03",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_W09_SQUARE02_03_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W09_SQUARE02_03_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W09_SQUARE04_00_T": {
     "Scene": "BS_W09_SQUARE04_00",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_W09_SQUARE02_03_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W09_SQUARE02_03_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W09_SQUARE04_00_T2": {
     "Scene": "BS_W09_SQUARE04_00",
     "Type": "Turn",
     "Parameter": "6",
     "Sequence": "1",
-    "Enemy": "['E_W09_SQUARE02_03_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W09_SQUARE02_03_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W09_PICK_POCKET_00_T": {
     "Scene": "BS_W09_PICK_POCKET_00",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_W09_SQUARE02_03_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W09_SQUARE02_03_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W09_PICK_POCKET_00_T2": {
     "Scene": "BS_W09_PICK_POCKET_00",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_W09_SQUARE02_03_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W09_SQUARE02_03_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W09_PICK_POCKET_01_T": {
     "Scene": "BS_W09_PICK_POCKET_01",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_W09_SQUARE02_03_B','E_W09_SQUARE02_03_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W09_SQUARE02_03_B","E_W09_SQUARE02_03_B","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W09_PICK_POCKET_01_T2": {
     "Scene": "BS_W09_PICK_POCKET_01",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_W09_SQUARE02_03_B','E_W09_SQUARE02_03_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W09_SQUARE02_03_B","E_W09_SQUARE02_03_B","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W13_AIRSHIP_21_A": {
     "Scene": "BS_W13_AIRSHIP_21",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_W13_M0300_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W13_M0300_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W13_AIRSHIP_21_A2": {
     "Scene": "BS_W13_AIRSHIP_21",
     "Type": "Turn",
     "Parameter": "8",
     "Sequence": "1",
-    "Enemy": "['E_W13_M0300_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W13_M0300_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W13_DIVING_21_A": {
     "Scene": "BS_W13_DIVING_21",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_W13_M0300_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W13_M0300_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W13_DIVING_21_A2": {
     "Scene": "BS_W13_DIVING_21",
     "Type": "Turn",
     "Parameter": "8",
     "Sequence": "1",
-    "Enemy": "['E_W13_M0300_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W13_M0300_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W13_FERRY_21_A": {
     "Scene": "BS_W13_FERRY_21",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_W13_M0300_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W13_M0300_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W13_FERRY_21_A2": {
     "Scene": "BS_W13_FERRY_21",
     "Type": "Turn",
     "Parameter": "8",
     "Sequence": "1",
-    "Enemy": "['E_W13_M0300_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W13_M0300_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W13_WARSHIP_21_A": {
     "Scene": "BS_W13_WARSHIP_21",
     "Type": "Active",
     "Parameter": "1",
     "Sequence": "1",
-    "Enemy": "['E_W13_M0300_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W13_M0300_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W13_WARSHIP_21_A2": {
     "Scene": "BS_W13_WARSHIP_21",
     "Type": "Active",
     "Parameter": "1",
     "Sequence": "1",
-    "Enemy": "['E_W13_M0300_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W13_M0300_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W14_BLACKSMITH_00_T": {
     "Scene": "BS_W14_BLACKSMITH_00",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_M1020_A','E_M1020_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M1020_A","E_M1020_A","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W14_BLACKSMITH_01_T": {
     "Scene": "BS_W14_BLACKSMITH_01",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_M1021_A','E_M1021_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M1021_A","E_M1021_A","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W14_BLACKSMITH_01_T2": {
     "Scene": "BS_W14_BLACKSMITH_01",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_M1021_A','E_M1021_A','E_M1021_A','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M1021_A","E_M1021_A","E_M1021_A","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W14_BLACKSMITH_02_T": {
     "Scene": "BS_W14_BLACKSMITH_02",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_M1022_A','E_M1022_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M1022_A","E_M1022_A","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W14_BLACKSMITH_02_T2": {
     "Scene": "BS_W14_BLACKSMITH_02",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_M1022_A','E_M1022_A','E_M1022_A','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M1022_A","E_M1022_A","E_M1022_A","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W14_BOSS_INTERVAL_00_T": {
     "Scene": "BS_W14_BOSS_INTERVAL_00",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_M0900_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M0900_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W14_BOSS_LAST_00_T": {
     "Scene": "BS_W14_BOSS_LAST_00",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_M0900_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M0900_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W14_BOSS_LAST_01_T": {
     "Scene": "BS_W14_BOSS_LAST_01",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_M0900_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M0900_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W15_EVAR_BOSS_31_T": {
     "Scene": "BS_W15_EVAR_BOSS_31",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_W15_M0002_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W15_M0002_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W17_REBEL_00_T2": {
     "Scene": "BS_W17_REBEL_00",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_B','E_W17_LAKERABELER_B','E_W17_LAKERABELER_B','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_B","E_W17_LAKERABELER_B","E_W17_LAKERABELER_B","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W17_REBEL_00_T3": {
     "Scene": "BS_W17_REBEL_00",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W17_REBEL_00_T4": {
     "Scene": "BS_W17_REBEL_00",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_B','E_W17_LAKERABELER_B','E_W17_LAKERABELER_B','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_B","E_W17_LAKERABELER_B","E_W17_LAKERABELER_B","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W17_REBEL_00_T5": {
     "Scene": "BS_W17_REBEL_00",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W17_REBEL_10_T2": {
     "Scene": "BS_W17_REBEL_10",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_W17_RABELARMY_B','E_W17_RABELARMY_B','E_W17_RABELARMY_B','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_RABELARMY_B","E_W17_RABELARMY_B","E_W17_RABELARMY_B","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W17_REBEL_10_T3": {
     "Scene": "BS_W17_REBEL_10",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W17_REBEL_10_T4": {
     "Scene": "BS_W17_REBEL_10",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_W17_RABELARMY_B','E_W17_RABELARMY_B','E_W17_RABELARMY_B','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_RABELARMY_B","E_W17_RABELARMY_B","E_W17_RABELARMY_B","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W17_REBEL_10_T5": {
     "Scene": "BS_W17_REBEL_10",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_040_T2": {
     "Scene": "BS_W99_040",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_B','E_W17_LAKERABELER_B','E_W17_LAKERABELER_B','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_B","E_W17_LAKERABELER_B","E_W17_LAKERABELER_B","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_040_T3": {
     "Scene": "BS_W99_040",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_040_T4": {
     "Scene": "BS_W99_040",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_B','E_W17_LAKERABELER_B','E_W17_LAKERABELER_B','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_B","E_W17_LAKERABELER_B","E_W17_LAKERABELER_B","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_040_T5": {
     "Scene": "BS_W99_040",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','E_W17_LAKERABELER_C','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","E_W17_LAKERABELER_C","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_041_T2": {
     "Scene": "BS_W99_041",
     "Type": "Turn",
     "Parameter": "2",
     "Sequence": "1",
-    "Enemy": "['E_W17_RABELARMY_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_RABELARMY_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_041_T3": {
     "Scene": "BS_W99_041",
     "Type": "Turn",
     "Parameter": "3",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_C','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_C","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_041_T4": {
     "Scene": "BS_W99_041",
     "Type": "Turn",
     "Parameter": "4",
     "Sequence": "1",
-    "Enemy": "['E_W17_RABELARMY_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_RABELARMY_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_041_T5": {
     "Scene": "BS_W99_041",
     "Type": "Turn",
     "Parameter": "5",
     "Sequence": "1",
-    "Enemy": "['E_W17_LAKERABELER_C','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_W17_LAKERABELER_C","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W19_BOSSALL_00_A": {
     "Scene": "BS_W19_BOSSALL_00",
     "Type": "Active",
     "Parameter": "1",
     "Sequence": "1",
-    "Enemy": "['E_M0800_A','E_M0820_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M0800_A","E_M0820_B","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_035_A1": {
     "Scene": "BS_W99_035",
     "Type": "Active",
     "Parameter": "1",
     "Sequence": "1",
-    "Enemy": "['E_M9031_A','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M9031_A","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_035_A2": {
     "Scene": "BS_W99_035",
     "Type": "Active",
     "Parameter": "1",
     "Sequence": "1",
-    "Enemy": "['E_M9031_V01_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M9031_V01_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   },
   "BS_W99_035_A3": {
     "Scene": "BS_W99_035",
     "Type": "Active",
     "Parameter": "1",
     "Sequence": "1",
-    "Enemy": "['E_M9031_V02_B','_NOT_SPECIFIED_','_NOT_SPECIFIED_','_NOT_SPECIFIED_']",
-    "Voice": "_NOT_SPECIFIED_",
-    "Text": "_NOT_SPECIFIED_"
+    "Enemy": ["E_M9031_V02_B","0","0","0"],
+    "Voice": "0",
+    "Text": "0"
   }
 }

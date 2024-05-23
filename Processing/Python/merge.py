@@ -2,83 +2,85 @@ import re,json,os,sys
 sys.path.insert(1, './modules/')
 import f_util
 
-JSON_ROOT = "./json"
+IN_ROOT = "./in"
 group = "Arts"
-base_file = "step1"
-text_file = "TextNamesDescptionsMerged"
-target_file = "BtArtsMagicDataTable"
+base_file = "BtArtsBaseDataTable"
+text_file = "BattleTextDictionary"
+magic_file = "BtArtsMagicDataTable"
+rank_file = "BtArtsRankDataTable"
+inherit_file = "BtArtsInheritArtsDataTable"
 
 IN_FORMAT = ".json"
 OUT_FORMAT = ".json"
-OUT_ROOT = "./merged-json"
+OUT_ROOT = "./out"
 
-STR_PROPS = ['Attribute',
-			 'AddEffect',
-			 'EffectType',
-			 'BaseElement',
-			 'BaseParameter']
+# STR_PROPS = ['Attribute',
+# 			 'AddEffect',
+# 			 'EffectType',
+# 			 'BaseElement',
+# 			 'BaseParameter']
 
-INT_PROPS = ['AddEffectParam',
-			 'EffectParam']
+# INT_PROPS = ['AddEffectParam',
+# 			 'EffectParam']
 
-BOOL_PROPS = ["MonsterArts",
-			"Magic",
-			"Rankup",
-			"OriginalArts",
-			"SoulArts",
-			"BloodArts",
-			"InheritArts",
-			"Invalid",
-			"Inspiration"]
+# BOOL_PROPS = ["MonsterArts",
+# 			"Magic",
+# 			"Rankup",
+# 			"OriginalArts",
+# 			"SoulArts",
+# 			"BloodArts",
+# 			"InheritArts",
+# 			"Invalid",
+# 			"Inspiration"]
 
-EXTRA_PROPS = ["Sequence",
-	        "DisableSelect",
-	        "DisableOutActor",
-	        "DisableOutActorObject",
-			"Sortindex",
-			"ArtsName",
-			"ArtsText",
-			"OverAttackFirst",
-			"OverAttackLast",
-			"BaseArts",
-			"label"]
+# EXTRA_PROPS = ["Sequence",
+# 	        "DisableSelect",
+# 	        "DisableOutActor",
+# 	        "DisableOutActorObject",
+# 			"Sortindex",
+# 			"ArtsName",
+# 			"ArtsText",
+# 			"OverAttackFirst",
+# 			"OverAttackLast",
+# 			"BaseArts",
+# 			"label"]
 
-ZERO_PROPS = ["Attack",
-			"AttackCount",
-			"AddSingleStageDamage",
-			"AddOverAttackDamage",
-			"BP",
-			"Hit",
-			"SureHit",
-			"Hate",
-			"Weapon",
-			"WeaponSub",
-			"Speed",
-			"AfterCasterSpeed",
-			"AfterTargetSpeed",
-			"BeforeGuard",
-			"AfterGuard",
-			"OverAttack",
-			"OverAttackLeft",
-			"OverAttackRight",
-			"OverAttackSelf",
-			"Bump",
-			"Limit",
-			"HitArea",
-			"Penetration",
-			"RaceSlayer",
-			"Random",
-			"ReserveType",
-			"ReserveProb",
-			"ReserveCancel",
-			"Trace",
-			"TraceDifficulty",
-			"Turn",
-			"AddEffectSequence"]
+# ZERO_PROPS = ["Attack",
+# 			"AttackCount",
+# 			"AddSingleStageDamage",
+# 			"AddOverAttackDamage",
+# 			"BP",
+# 			"Hit",
+# 			"SureHit",
+# 			"Hate",
+# 			"Weapon",
+# 			"WeaponSub",
+# 			"Speed",
+# 			"AfterCasterSpeed",
+# 			"AfterTargetSpeed",
+# 			"BeforeGuard",
+# 			"AfterGuard",
+# 			"OverAttack",
+# 			"OverAttackLeft",
+# 			"OverAttackRight",
+# 			"OverAttackSelf",
+# 			"Bump",
+# 			"Limit",
+# 			"HitArea",
+# 			"Penetration",
+# 			"RaceSlayer",
+# 			"Random",
+# 			"ReserveType",
+# 			"ReserveProb",
+# 			"ReserveCancel",
+# 			"Trace",
+# 			"TraceDifficulty",
+# 			"Turn",
+# 			"AddEffectSequence"]
 
-NONE_PROPS = ["BaseElement",
-			"EffectType",
-			"AddEffect"]
+# NONE_PROPS = ["BaseElement",
+# 			"EffectType",
+# 			"AddEffect"]
 
 def is_float(string):
     try:
@@ -140,7 +142,7 @@ def clean_props(_data: dict):
 				v.pop(prop)
 
 def inject_ui_text(_data):
-	_text_data = f_util.load_json(f"{OUT_ROOT}/{text_file}{IN_FORMAT}")
+	_text_data = f_util.load_json(f"{IN_ROOT}/{text_file}{IN_FORMAT}")
 	_arts_text = _text_data['Battle_Arts']
 	_arts_text_keys = list(_arts_text['name'].keys())
 	_arts_desc_keys = list(_arts_text['desc'].keys())
@@ -156,37 +158,50 @@ def inject_ui_text(_data):
 		if k in _arts_last_keys:
 			v.update({'OverAttackLast': _arts_text['last'][k]})
 
-def add_rank_info(_data, _key_array):
+def add_rank_info(_data, _keys):
+	_target = f_util.load_json(f"{IN_ROOT}/{rank_file}{IN_FORMAT}")
+	_target_keys = list(_target.keys())
 	for k,v in _target.items():
-		if k in _base_keys:
-			v.pop('Attack')
+		if k in _keys:
 			_data[k]['RankInfo'] = v
 
-def add_monster_info(_data, _key_array):
+def add_monster_info(_data, _keys):
+	_target = f_util.load_json(f"{IN_ROOT}/{monster_file}{IN_FORMAT}")
+	_target_keys = list(_target.keys())
 	for k,v in _target.items():
-		if k in _base_keys:
+		if k in _keys:
 			v.pop('Actor')
 			_base[k]['MonsterInfo'] = v
 
-def add_magic_info(_data, _key_array, _target):
+def add_magic_info(_data, _keys):
+	_target = f_util.load_json(f"{IN_ROOT}/{magic_file}{IN_FORMAT}")
+	_target_keys = list(_target.keys())
 	for k,v in _target.items():
-		if k in _key_array:
+		if k in _keys:
 			_data[k]['ElementLv'] = v['ElementLv']
 
-def merge_target_into_base():
-	_base        = f_util.load_json(f"{OUT_ROOT}/{base_file}{IN_FORMAT}")
-	_target      = f_util.load_json(f"{JSON_ROOT}/{group}/{target_file}{IN_FORMAT}")
-	_base_keys   = list(_base.keys())
-	_target_keys = list(_target.keys())
-	
-	# clean_props(_base)
-	# inject_ui_text(_base)
-	# add_rank_info(_base, _base_keys)
-	# add_monster_info(_base, _base_keys)
-	add_magic_info(_base, _base_keys, _target)
+def add_inherit_info(_data):
+	_target = f_util.load_json(f"{IN_ROOT}/{inherit_file}{IN_FORMAT}")
+	for item in _target:
+		_data[item['ID']]["InheritType"] = item['Type']
 
-	with open(f"{OUT_ROOT}/step2{OUT_FORMAT}", "w", encoding="utf-16-be") as outfile: 
-	    json.dump(_base, outfile, indent = 4)
+def merge_target_into_base():
+	_base        = f_util.load_json(f"{IN_ROOT}/{base_file}{IN_FORMAT}")
+	_base_keys   = _base.keys()
+
+	inject_ui_text(_base)
+	add_rank_info(_base, _base_keys)
+	add_magic_info(_base, _base_keys)
+	add_inherit_info(_base)
+
+	_new_data = []
+	for k,v in _base.items():
+		v["ID"] = k
+		_new_data.append(v)
+
+	
+	with open(f"{OUT_ROOT}/ArtsBase{OUT_FORMAT}", "w", encoding="utf-8") as outfile: 
+	    json.dump(_new_data, outfile, indent = 4)
 
 if __name__ == "__main__":
 	merge_target_into_base()

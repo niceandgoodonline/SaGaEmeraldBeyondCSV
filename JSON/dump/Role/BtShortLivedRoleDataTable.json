@@ -20,7 +20,7 @@
     "SL_ROLE_1_004": {
         "Name": "\u30a8\u30eb\u30c0\u30fc\u30ca\u30a4\u30c8", 
         "Skill": "OneHandedSword", 
-        "GrowRoute": "_NOT_SPECIFIED_", 
+        "GrowRoute": "0", 
         "Type": "Elder"
     }, 
     "SL_ROLE_2_001": {
@@ -44,7 +44,7 @@
     "SL_ROLE_2_004": {
         "Name": "\u30a8\u30eb\u30c0\u30fc\u30ac\u30fc\u30c9", 
         "Skill": "TwoHandedSword", 
-        "GrowRoute": "_NOT_SPECIFIED_", 
+        "GrowRoute": "0", 
         "Type": "Elder"
     }, 
     "SL_ROLE_3_001": {
@@ -68,7 +68,7 @@
     "SL_ROLE_3_004": {
         "Name": "\u30a8\u30eb\u30c0\u30fc\u30ac\u30f3\u30de\u30f3", 
         "Skill": "OneHandedGun", 
-        "GrowRoute": "_NOT_SPECIFIED_", 
+        "GrowRoute": "0", 
         "Type": "Elder"
     }, 
     "SL_ROLE_4_001": {
@@ -92,7 +92,7 @@
     "SL_ROLE_4_004": {
         "Name": "\u30a8\u30eb\u30c0\u30fc\u30b7\u30e5\u30fc\u30bf\u30fc", 
         "Skill": "TwoHandedGun", 
-        "GrowRoute": "_NOT_SPECIFIED_", 
+        "GrowRoute": "0", 
         "Type": "Elder"
     }, 
     "SL_ROLE_5_001": {
@@ -116,7 +116,7 @@
     "SL_ROLE_5_004": {
         "Name": "\u30a8\u30eb\u30c0\u30fc\u30e2\u30f3\u30af", 
         "Skill": "MartialArts", 
-        "GrowRoute": "_NOT_SPECIFIED_", 
+        "GrowRoute": "0", 
         "Type": "Elder"
     }, 
     "SL_ROLE_6_001": {
@@ -140,7 +140,7 @@
     "SL_ROLE_6_004": {
         "Name": "\u30a8\u30eb\u30c0\u30fc\u30e1\u30a4\u30b8", 
         "Skill": "Magic", 
-        "GrowRoute": "_NOT_SPECIFIED_", 
+        "GrowRoute": "0", 
         "Type": "Elder"
     }, 
     "SL_ROLE_7_001": {
@@ -164,7 +164,7 @@
     "SL_ROLE_7_004": {
         "Name": "\u30a8\u30eb\u30c0\u30fc\u30e2\u30f3\u30b9\u30bf\u30fc", 
         "Skill": "Monster", 
-        "GrowRoute": "_NOT_SPECIFIED_", 
+        "GrowRoute": "0", 
         "Type": "Elder"
     }
 }

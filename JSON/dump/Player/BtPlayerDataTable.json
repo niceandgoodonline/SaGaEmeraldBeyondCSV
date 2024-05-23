@@ -7,10 +7,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Tsunanori_Mido", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Tsunanori", 
         "Gogyo": [
             false
@@ -57,49 +57,49 @@
         "AT_Chant": 0, 
         "Equip": [
             "WLRAP01_A", 
-            "None", 
+            "0", 
             "MACL02_A", 
             "SAHE01_A", 
             "SASH01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WL000_A04", 
             "MAR_MA000_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Rapier", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_021", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
             "UNIQUE_ROLE_Tsunanori", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 10, 
         "GrowSTR": 6, 
@@ -128,10 +128,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Ameya_Aisling", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Ameya_Aisling", 
         "Gogyo": [
             false
@@ -177,13 +177,13 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MARO00_A", 
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "MAG_MG_D_01_Ki01", 
@@ -191,36 +191,36 @@
             "MAG_MG_D_03_Ki03", 
             "MAG_MG_D_04_Ki04", 
             "MAG_MG_D_05_Ki05", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "LongSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_007", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 5, 
         "GrowSTR": 4, 
@@ -249,10 +249,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Siugnas_Darkking", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Siugnas_Darkking", 
         "Gogyo": [
             false
@@ -304,44 +304,44 @@
             "SAHE26_A", 
             "SASH01_A", 
             "SAAC00_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_B01_BLD01", 
             "OHS_WL000_A01", 
             "OHS_WLLSW_B01", 
             "OHG_GL000_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "LongSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_101", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 1, 
         "GrowSTR": 9, 
@@ -370,10 +370,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Formina_Franklyn", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Sarab", 
         "Gogyo": [
             false
@@ -425,7 +425,7 @@
             "SAIN02_A", 
             "SAAC06_A", 
             "SASH00_D", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHG_GL000_A01", 
@@ -433,36 +433,36 @@
             "OHG_GL000_B01", 
             "THG_GH000_A01", 
             "THG_GHMAC_A01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "OneHandedGun", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_067", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 8, 
         "GrowSTR": 8, 
@@ -491,10 +491,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Bonnie_Blair", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Bonnie_Blair", 
         "Gogyo": [
             false
@@ -540,13 +540,13 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
+            "0", 
             "WLDAG01_A", 
             "MACL02_A", 
             "SAIN10_A", 
             "SAAC34_A", 
             "SASH01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "MAR_MA000_A01", 
@@ -554,36 +554,36 @@
             "MAR_MA000_A08", 
             "OHS_WL000_A01", 
             "OHS_WL000_A02", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "KickArts", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_067", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 16, 
         "GrowSTR": 9, 
@@ -615,13 +615,13 @@
         "MechaBody": "MBody_Diva_No5", 
         "Voice": "PC_Diva_No5", 
         "LpRecover": 4, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Diva_No5_01", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_023", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 0, 
         "PRM_STR": 0, 
@@ -667,44 +667,44 @@
             "DIVA_SLOT02_RES", 
             "DIVA_SLOT03_RES", 
             "DIVA_SLOT04_RES", 
-            "None"
+            "0"
         ], 
         "Arts": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MECHA_BODY_H", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": -1, 
         "GrowSTR": -1, 
@@ -733,16 +733,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Musashi_Kugutu", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Musashi", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_011", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 13, 
         "PRM_STR": 0, 
@@ -783,49 +783,49 @@
         "AT_Chant": 0, 
         "Equip": [
             "WHGSW01_A", 
-            "None", 
+            "0", 
             "MACL01_A", 
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH00_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
             "THS_WH000_A02", 
             "THS_WH000_PROTECT", 
             "THS_WHGSW_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "GreatSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_038", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
+            "0", 
+            "0", 
+            "0", 
             "SOUL_MUSASHI", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 13, 
         "GrowSTR": 7, 
@@ -854,16 +854,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Sukune_Kugutu", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Sukune", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_005", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 10, 
         "PRM_STR": 0, 
@@ -903,50 +903,50 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MACL01_A", 
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH00_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "MAR_MA000_A01", 
             "MAR_MA000_A02", 
             "MAR_MA000_A04", 
             "MAR_MA000_A06", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "StrikeArts", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_016", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
+            "0", 
+            "0", 
+            "0", 
             "SOUL_TOKI", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 15, 
         "GrowSTR": 5, 
@@ -975,16 +975,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Komachi_Kugutu", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Komachi", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_004", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 9, 
         "PRM_STR": 0, 
@@ -1025,12 +1025,12 @@
         "AT_Chant": 0, 
         "Equip": [
             "WLDAG01_A", 
-            "None", 
+            "0", 
             "MACL01_A", 
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH00_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
@@ -1038,36 +1038,36 @@
             "OHS_WLDAG_A01", 
             "OHS_WLDAG_B01", 
             "MAG_MG_B_01_Ka01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Dagger", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_050", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
+            "0", 
+            "0", 
+            "0", 
             "SOUL_KOMACHI", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 6, 
         "GrowSTR": 5, 
@@ -1096,16 +1096,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Bou_Kugutu", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Bou", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_016", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 10, 
         "PRM_STR": 0, 
@@ -1146,49 +1146,49 @@
         "AT_Chant": 0, 
         "Equip": [
             "GLONE01_A", 
-            "None", 
+            "0", 
             "MACL01_A", 
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH00_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHG_GL000_A01", 
             "OHG_GL000_A04", 
             "OHG_GL000_A05", 
             "OHG_GL000_B01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "OneHandedGun", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_045", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
+            "0", 
+            "0", 
+            "0", 
             "SOUL_BOU", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 9, 
         "GrowSTR": 5, 
@@ -1217,16 +1217,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_LoLo", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_LoLo", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_007", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 9, 
         "PRM_STR": 0, 
@@ -1270,46 +1270,46 @@
             "MAMCR02_DW", 
             "MACW01_DM", 
             "SAAC01_DS", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MON_M003_A01a", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MON_001", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 8, 
         "GrowSTR": 3, 
@@ -1338,10 +1338,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Shinobu_Kato", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Shinobu_Kato", 
         "Gogyo": [
             false
@@ -1392,8 +1392,8 @@
             "MACL03_A", 
             "SASH01_A", 
             "SAAC26_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
@@ -1401,36 +1401,36 @@
             "THS_WH000_PROTECT", 
             "OHS_WL000_A01", 
             "OHS_WLRAP_A01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "GreatSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_048", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 12, 
         "GrowSTR": 7, 
@@ -1459,10 +1459,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Macha_Copy", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Macha_Copy", 
         "Gogyo": [
             false
@@ -1513,8 +1513,8 @@
             "MARO01_A", 
             "SAHE17_A", 
             "SASH01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
@@ -1522,36 +1522,36 @@
             "THG_GH000_A01", 
             "MAG_MG_B_01_Ka01", 
             "MAG_MG_B_03_Ka03", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Rapier", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_015", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 13, 
         "GrowSTR": 2, 
@@ -1580,10 +1580,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": true, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_General", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_General", 
         "Gogyo": [
             false
@@ -1629,50 +1629,50 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MANA01_A", 
             "SAHE02_A", 
             "SASH01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MAR_MA000_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_031", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 4, 
         "GrowSTR": 3, 
@@ -1701,10 +1701,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Brave", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Brave", 
         "Gogyo": [
             false
@@ -1756,44 +1756,44 @@
             "SAGL17_A", 
             "SASH00_B", 
             "SAAC37_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
             "THS_WHPSW_A01", 
             "THG_GH000_A01", 
             "THG_GH000_A02", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Halberd", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_046", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 22, 
         "GrowSTR": 9, 
@@ -1822,10 +1822,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Philosopher", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Philosopher", 
         "Gogyo": [
             false
@@ -1872,49 +1872,49 @@
         "AT_Chant": 0, 
         "Equip": [
             "WLDAG01_A", 
-            "None", 
+            "0", 
             "MARO00_A", 
             "SAGL01_A", 
             "SASH01_A", 
             "SAAC36_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WLDAG_A01", 
             "MAG_MG_E_01_Su01", 
             "MAG_MG_A_02_Mo02", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Dagger", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_023", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 6, 
         "GrowSTR": 6, 
@@ -1943,10 +1943,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Killer", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Killer", 
         "Gogyo": [
             false
@@ -1997,45 +1997,45 @@
             "MACL01_A", 
             "SAHE21_A", 
             "SASH00_B", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WL000_A04", 
             "THS_WH000_A01", 
             "THS_WHSSW_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "SmuraiSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_040", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 12, 
         "GrowSTR": 8, 
@@ -2064,10 +2064,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Ilmurran", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Ilmurran", 
         "Gogyo": [
             false
@@ -2118,8 +2118,8 @@
             "MACL03_A", 
             "SAAC34_A", 
             "SASH01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHG_GL000_A01", 
@@ -2127,36 +2127,36 @@
             "OHS_WL000_A01", 
             "OHS_WL000_PROTECT", 
             "OHS_WLRAP_A01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "OneHandedGun", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_039", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 16, 
         "GrowSTR": 7, 
@@ -2185,10 +2185,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Champion", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Champion", 
         "Gogyo": [
             false
@@ -2234,50 +2234,50 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MANA01_A", 
             "SAGL01_A", 
             "SASH01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MAR_MA000_A01", 
             "MAR_MA000_A02", 
             "MAR_MA000_A07", 
             "MAR_MA000_A04", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "PunchArts", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_002", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 14, 
         "GrowSTR": 7, 
@@ -2306,16 +2306,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Beh_Cat", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Beh_Cat", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_009", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 9, 
         "PRM_STR": 0, 
@@ -2359,46 +2359,46 @@
             "MAMCR04_DW", 
             "MACW02_DM", 
             "SAAC02_DS", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MON_M003_A01a", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MON_002", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 8, 
         "GrowSTR": 2, 
@@ -2427,16 +2427,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Heh_Cat", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Heh_Cat", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_020", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 9, 
         "PRM_STR": 0, 
@@ -2480,46 +2480,46 @@
             "MAMCR06_DW", 
             "MACW03_DM", 
             "SAAC03_DS", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MON_M003_A01a", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MON_003", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 6, 
         "GrowSTR": 2, 
@@ -2548,16 +2548,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Eh_Cat", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Eh_Cat", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_003", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 9, 
         "PRM_STR": 0, 
@@ -2601,46 +2601,46 @@
             "MAMCR08_DW", 
             "MACW04_DM", 
             "SAAC04_DS", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MON_M003_A01a", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MON_004", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 7, 
         "GrowSTR": 3, 
@@ -2669,10 +2669,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Constantine", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Constantine", 
         "Gogyo": [
             false
@@ -2723,45 +2723,45 @@
             "MARO00_B", 
             "SAIN01_A", 
             "SASH00_C", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
             "THS_WHPSW_A01", 
             "OHG_GL000_A01", 
             "OHG_GL000_B01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Halberd", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_035", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 12, 
         "GrowSTR": 5, 
@@ -2790,16 +2790,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Imakoo_Werewolf", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Imakoo_Werewolf", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_013", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 12, 
         "PRM_STR": 0, 
@@ -2844,45 +2844,45 @@
             "MACW05_DM", 
             "SAAC05_DS", 
             "SAAC06_DS", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MON_M001X_A01a", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MON_005", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 20, 
         "GrowSTR": 7, 
@@ -2911,10 +2911,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Wednesday", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Wednesday", 
         "Gogyo": [
             false
@@ -2964,46 +2964,46 @@
             "GLONE_DW", 
             "MAFA01_A", 
             "SAAC09_DS", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WLLSW_B01", 
             "OHG_GL000_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "LongSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_053", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 14, 
         "GrowSTR": 8, 
@@ -3032,10 +3032,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Blath", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Blath", 
         "Gogyo": [
             false
@@ -3082,49 +3082,49 @@
         "AT_Chant": 0, 
         "Equip": [
             "WLAXE01_A", 
-            "None", 
+            "0", 
             "MARO00_A", 
             "SAHE09_A", 
             "SAAC06_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WLAXE_A01", 
             "MAR_MA000_A01", 
             "SL_RB_C_02_IHA11", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_043", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
             "SL_ROLE_1_002", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 15, 
         "GrowSTR": 6, 
@@ -3153,10 +3153,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Boudica", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Boudica", 
         "Gogyo": [
             false
@@ -3207,45 +3207,45 @@
             "MANA11_A", 
             "SAGL01_A", 
             "SASH03_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WLDAG_B01", 
             "THS_WH000_A01", 
             "THS_WHSSW_B01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "SmuraiSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_028", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 16, 
         "GrowSTR": 7, 
@@ -3274,10 +3274,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Lita_Caryx", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Lita_Caryx", 
         "Gogyo": [
             false
@@ -3329,44 +3329,44 @@
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
             "OHS_WL000_A01", 
             "OHS_WL000_A02", 
             "MAG_MG_A_01_Mo01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Halberd", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_017", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 27, 
         "GrowSTR": 6, 
@@ -3395,10 +3395,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_YellowWitchWillma", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_YellowWitchWillma", 
         "Gogyo": [
             false
@@ -3450,7 +3450,7 @@
             "SAIN03_A", 
             "SASH01_A", 
             "SAAC18_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHG_GL000_A01", 
@@ -3458,36 +3458,36 @@
             "THS_WH000_A01", 
             "MAG_MG_C_01_Do01", 
             "MAG_MG_C_02_Do02", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "OneHandedGun", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_019", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 28, 
         "GrowSTR": 6, 
@@ -3516,10 +3516,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_YellowWitchWillma_Golem", 
         "LpRecover": 3, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_YellowWitchWillma_Golem", 
         "Gogyo": [
             false
@@ -3571,7 +3571,7 @@
             "SAIN03_A", 
             "SASH01_A", 
             "SAAC18_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHG_GL000_A01", 
@@ -3579,36 +3579,36 @@
             "THS_WH000_A01", 
             "MAG_MG_C_01_Do01", 
             "MAG_MG_C_02_Do02", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "OneHandedGun", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_019", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 44, 
         "GrowSTR": 8, 
@@ -3637,10 +3637,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_SquireAssasin", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_SquireAssasin", 
         "Gogyo": [
             false
@@ -3692,7 +3692,7 @@
             "SAHE12_A", 
             "SAGL02_A", 
             "SASH03_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
@@ -3700,36 +3700,36 @@
             "OHS_WLDAG_B02", 
             "OHG_GL000_A01", 
             "OHG_GL000_A02", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Dagger", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_018", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 34, 
         "GrowSTR": 4, 
@@ -3758,10 +3758,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Dolores", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Dolores", 
         "Gogyo": [
             false
@@ -3812,8 +3812,8 @@
             "MANA01_A", 
             "SAGL01_A", 
             "SASH01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
@@ -3821,36 +3821,36 @@
             "OHS_WLAXE_B01", 
             "OHG_GL000_A01", 
             "OHG_GL000_B01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Axe", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_026", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 36, 
         "GrowSTR": 8, 
@@ -3879,10 +3879,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Ivar", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Ivar", 
         "Gogyo": [
             false
@@ -3934,44 +3934,44 @@
             "SASH01_A", 
             "SAAC13_A", 
             "SAAC04_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WL000_A04", 
             "THG_GH000_A01", 
             "THG_GHMAC_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "LongSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_029", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 34, 
         "GrowSTR": 8, 
@@ -4000,10 +4000,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Azure", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Azure", 
         "Gogyo": [
             false
@@ -4055,44 +4055,44 @@
             "SASH01_A", 
             "SAAC19_A", 
             "SAAC09_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WL000_A02", 
             "OHS_WLLSW_B01", 
             "OHS_WLDAG_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Dagger", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_041", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 32, 
         "GrowSTR": 7, 
@@ -4121,16 +4121,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Byaku", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Byaku", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_020", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 4, 
         "PRM_STR": 0, 
@@ -4174,46 +4174,46 @@
             "MAMCR12_DW", 
             "MACW06_DM", 
             "SAAC10_DS", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MON_M054_A01a", 
-            "None", 
+            "0", 
             "MAG_MG_E_01_Su01", 
             "MAG_MG_E_02_Su02", 
             "SL_RB_A_01_IHA01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MON_006", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
             "SL_ROLE_6_002", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 36, 
         "GrowSTR": 4, 
@@ -4242,16 +4242,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Erytheia", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Erytheia", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_027", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 4, 
         "PRM_STR": 0, 
@@ -4295,46 +4295,46 @@
             "MAMCR14_DW", 
             "MACW07_DM", 
             "SAAC11_DS", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MON_M054_A01a", 
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MAG_MG_B_01_Ka01", 
             "SL_RB_C_02_IHA11", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MON_007", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
             "SL_ROLE_7_002", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 34, 
         "GrowSTR": 3, 
@@ -4363,10 +4363,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Nitram", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Nitram", 
         "Gogyo": [
             false
@@ -4418,44 +4418,44 @@
             "SAHE12_A", 
             "SAGL01_A", 
             "SASH01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
             "THS_WHGSW_B01", 
             "OHS_WL000_A01", 
             "MAG_MG_B_01_Ka01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "GreatSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_011", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 36, 
         "GrowSTR": 11, 
@@ -4484,10 +4484,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Atihana", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Atihana", 
         "Gogyo": [
             false
@@ -4539,44 +4539,44 @@
             "SASH01_A", 
             "SAAC13_A", 
             "SAAC16_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WL000_A02", 
             "OHS_WLDAG_A01", 
             "MAG_MG_E_01_Su01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "LongSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_012", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 28, 
         "GrowSTR": 10, 
@@ -4605,10 +4605,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Nahoj", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Nahoj", 
         "Gogyo": [
             false
@@ -4660,44 +4660,44 @@
             "SAIN01_B", 
             "SASH01_A", 
             "SAAC02_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHG_GL000_A01", 
             "OHG_GL000_A05", 
             "OHS_WL000_A01", 
             "MAG_MG_A_01_Mo01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "OneHandedGun", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_013", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 29, 
         "GrowSTR": 5, 
@@ -4726,10 +4726,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Irbas", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Irbas", 
         "Gogyo": [
             false
@@ -4775,50 +4775,50 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MANA11_A", 
             "SAGL01_A", 
             "SASH01_A", 
             "SAAC01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "MAR_MA000_A01", 
             "MAR_MA000_A04", 
             "MAR_MA000_A06", 
             "MAG_MG_C_01_Do01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "StrikeArts", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_009", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 34, 
         "GrowSTR": 7, 
@@ -4847,16 +4847,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Gruman_Mole", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Gruman_Mole", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_010", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 13, 
         "PRM_STR": 0, 
@@ -4901,45 +4901,45 @@
             "MACW08_DM", 
             "SAAC12_DS", 
             "SAAC13_DS", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MON_M110_A01a", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MON_008", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 36, 
         "GrowSTR": 4, 
@@ -4971,13 +4971,13 @@
         "MechaBody": "MBody_Gold_SubManager", 
         "Voice": "PC_Gold_SubManager", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Gold_SubManager", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_028", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 100, 
         "LP": 14, 
         "PRM_STR": 10, 
@@ -5022,45 +5022,45 @@
             "GHCHE01_A", 
             "WLDAG01_A", 
             "GLONE07_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MECHA_BODY_C", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": -1, 
         "GrowSTR": -1, 
@@ -5089,10 +5089,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Scarecrow", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Scarecrow", 
         "Gogyo": [
             false
@@ -5143,8 +5143,8 @@
             "MARO01_A", 
             "SAHE21_A", 
             "SAGL01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "THG_GH000_A01", 
@@ -5152,36 +5152,36 @@
             "THS_WH000_A01", 
             "THS_WHSSW_B01", 
             "MAG_MG_A_01_Mo01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "MachineGun", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_036", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 26, 
         "GrowSTR": 4, 
@@ -5210,10 +5210,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Nana", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Nana", 
         "Gogyo": [
             false
@@ -5265,44 +5265,44 @@
             "SAAC05_A", 
             "SAAC14_A", 
             "SAAC19_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WLDAG_A01", 
             "OHS_WLAXE_A01", 
             "MAG_MG_C_02_Do02", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Dagger", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_061", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 26, 
         "GrowSTR": 9, 
@@ -5334,13 +5334,13 @@
         "MechaBody": "MBody_BX10_EX", 
         "Voice": "PC_BX10_EX", 
         "LpRecover": 3, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_BX10_EX", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_005", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 100, 
         "LP": 16, 
         "PRM_STR": 20, 
@@ -5386,44 +5386,44 @@
             "WLDAG01_B", 
             "GHFLA01_ZERO", 
             "SASH03_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MECHA_BODY_I", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": -1, 
         "GrowSTR": -1, 
@@ -5455,13 +5455,13 @@
         "MechaBody": "MBody_Mech_Bard", 
         "Voice": "PC_Mech_Bard", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Mech_Bard", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_011", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 90, 
         "LP": 10, 
         "PRM_STR": 15, 
@@ -5505,46 +5505,46 @@
             "WLRAP01_A", 
             "SAIN02_A", 
             "SAAC16_A", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "Arts": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MECHA_BODY_D", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": -1, 
         "GrowSTR": -1, 
@@ -5576,13 +5576,13 @@
         "MechaBody": "MBody_Sarab", 
         "Voice": "PC_Sarab", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Sarab", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_026", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 50, 
         "LP": 9, 
         "PRM_STR": 5, 
@@ -5627,45 +5627,45 @@
             "MACL02_A", 
             "MARO02_A", 
             "SAHE26_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MECHA_BODY_F", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": -1, 
         "GrowSTR": -1, 
@@ -5697,13 +5697,13 @@
         "MechaBody": "MBody_Simon", 
         "Voice": "PC_Simon", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Simon", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_003", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 90, 
         "LP": 15, 
         "PRM_STR": 15, 
@@ -5749,44 +5749,44 @@
             "GHMAC01_A", 
             "GHBOM01_A", 
             "MAFA01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MECHA_BODY_S", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": -1, 
         "GrowSTR": -1, 
@@ -5815,16 +5815,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Kina_Kikiri", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Kina_Kikiri", 
         "Gogyo": [
             false
         ], 
         "Formation": "BF_029", 
-        "BloodArts": "None", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 11, 
         "PRM_STR": 0, 
@@ -5869,45 +5869,45 @@
             "MACW09_DM", 
             "SAAC07_DS", 
             "SAAC08_DS", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MON_M072X_A01a", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_MON_009", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 38, 
         "GrowSTR": 6, 
@@ -5936,10 +5936,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Guinevere", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Guinevere", 
         "Gogyo": [
             false
@@ -5986,12 +5986,12 @@
         "AT_Chant": 0, 
         "Equip": [
             "WLLSW01_A", 
-            "None", 
+            "0", 
             "MARO00_B", 
             "SAIN03_A", 
             "SAHE17_A", 
             "SASH00_D", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
@@ -5999,36 +5999,36 @@
             "OHS_WLLSW_B01", 
             "MAR_MA000_A01", 
             "MAG_MG_B_01_Ka01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "LongSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_065", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 11, 
         "GrowSTR": 6, 
@@ -6057,10 +6057,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Spear", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Spear", 
         "Gogyo": [
             false
@@ -6111,45 +6111,45 @@
             "MARO00_B", 
             "SAIN01_B", 
             "SASH01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
             "THS_WH000_A02", 
             "OHS_WL000_A01", 
             "OHS_WL000_A04", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "GreatSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_055", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 16, 
         "GrowSTR": 12, 
@@ -6178,10 +6178,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Lancelot", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Lancelot", 
         "Gogyo": [
             false
@@ -6232,45 +6232,45 @@
             "MARO00_B", 
             "SAIN01_B", 
             "SASH01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
             "THS_WH000_A02", 
             "OHS_WL000_A01", 
             "OHS_WL000_A04", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "GreatSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_055", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 16, 
         "GrowSTR": 12, 
@@ -6299,10 +6299,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_LastEmperor", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_LastEmperor", 
         "Gogyo": [
             false
@@ -6349,12 +6349,12 @@
         "AT_Chant": 0, 
         "Equip": [
             "WHGSW10_A", 
-            "None", 
+            "0", 
             "MARO03_A", 
             "SAIN01_A", 
             "SAHE25_A", 
             "SASH00_C", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
@@ -6363,35 +6363,35 @@
             "MAR_MA000_A01", 
             "MAR_MA000_A07", 
             "MAR_MA000_B06", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "GreatSword", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_063", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 38, 
         "GrowSTR": 12, 
@@ -6420,10 +6420,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Naomi_Waka", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Naomi_Waka", 
         "Gogyo": [
             false
@@ -6469,50 +6469,50 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MARO00_B", 
             "SAIN01_B", 
             "SASH00_D", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "MAR_MA000_A01", 
             "MAR_MA000_A07", 
             "MAR_MA000_A02", 
             "MAR_MA000_A04", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "PunchArts", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_044", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 5, 
         "GrowSTR": 4, 
@@ -6541,10 +6541,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Professor", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Professor", 
         "Gogyo": [
             false
@@ -6596,7 +6596,7 @@
             "SAIN02_A", 
             "SASH17_A", 
             "SAAC21_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHG_GL000_A01", 
@@ -6604,36 +6604,36 @@
             "OHG_GL000_B04", 
             "THG_GH000_A01", 
             "THG_GHCHE_A01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "OneHandedGun", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_034", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 27, 
         "GrowSTR": 4, 
@@ -6662,10 +6662,10 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "PC_Emily_Bryant", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
+        "UniqueRole": "0", 
         "SupportRole": "SUPPORT_ROLE_Emily_Bryant", 
         "Gogyo": [
             false
@@ -6717,44 +6717,44 @@
             "SAIN02_A", 
             "SAHE02_A", 
             "SAGL14_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "THG_GH000_A01", 
             "THG_GH000_A02", 
             "THG_GHBOM_B01", 
             "MAG_MG_A_01_Mo01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
             "Bazooka", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
             "ROLE_047", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 28, 
         "GrowSTR": 6, 
@@ -6783,16 +6783,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "GUEST_LastEmperorSoul", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
-        "SupportRole": "None", 
+        "UniqueRole": "0", 
+        "SupportRole": "0", 
         "Gogyo": [
             false
         ], 
-        "Formation": "None", 
-        "BloodArts": "None", 
+        "Formation": "0", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 10, 
         "PRM_STR": 0, 
@@ -6832,13 +6832,13 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MARO01_A", 
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
@@ -6846,36 +6846,36 @@
             "THS_WH000_A01", 
             "THS_WHPSW_A01", 
             "MAG_MG_B_01_Ka01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 18, 
         "GrowSTR": 9, 
@@ -6904,16 +6904,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "GUEST_TowerLords", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
-        "SupportRole": "None", 
+        "UniqueRole": "0", 
+        "SupportRole": "0", 
         "Gogyo": [
             false
         ], 
-        "Formation": "None", 
-        "BloodArts": "None", 
+        "Formation": "0", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 10, 
         "PRM_STR": 0, 
@@ -6953,13 +6953,13 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MARO01_A", 
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
@@ -6967,36 +6967,36 @@
             "THS_WH000_A01", 
             "THS_WHPSW_A01", 
             "MAG_MG_B_01_Ka01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 5, 
         "GrowSTR": 4, 
@@ -7025,16 +7025,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "GUEST_Tsunanori_Mido", 
         "LpRecover": 3, 
-        "UniqueRole": "None", 
-        "SupportRole": "None", 
+        "UniqueRole": "0", 
+        "SupportRole": "0", 
         "Gogyo": [
             false
         ], 
-        "Formation": "None", 
-        "BloodArts": "None", 
+        "Formation": "0", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 11, 
         "PRM_STR": 0, 
@@ -7074,50 +7074,50 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MACL02_A", 
             "SAHE01_A", 
             "SASH01_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WL000_A04", 
             "MAR_MA000_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 10, 
         "GrowSTR": 6, 
@@ -7146,16 +7146,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "GUEST_Ameya_Aisling", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
-        "SupportRole": "None", 
+        "UniqueRole": "0", 
+        "SupportRole": "0", 
         "Gogyo": [
             false
         ], 
-        "Formation": "None", 
-        "BloodArts": "None", 
+        "Formation": "0", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 9, 
         "PRM_STR": 0, 
@@ -7195,13 +7195,13 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MARO00_A", 
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "MAG_MG_D_01_Ki01", 
@@ -7209,36 +7209,36 @@
             "MAG_MG_D_03_Ki03", 
             "MAG_MG_D_04_Ki04", 
             "MAG_MG_D_05_Ki05", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 5, 
         "GrowSTR": 4, 
@@ -7267,16 +7267,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "GUEST_Lita_Caryx", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
-        "SupportRole": "None", 
+        "UniqueRole": "0", 
+        "SupportRole": "0", 
         "Gogyo": [
             false
         ], 
-        "Formation": "None", 
-        "BloodArts": "None", 
+        "Formation": "0", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 10, 
         "PRM_STR": 0, 
@@ -7316,50 +7316,50 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MARO01_A", 
             "SAHE01_A", 
             "SAGL01_A", 
             "SASH01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "THS_WH000_A01", 
             "OHS_WL000_A01", 
             "OHS_WL000_A02", 
             "MAG_MG_A_01_Mo01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 7, 
         "GrowSTR": 6, 
@@ -7388,16 +7388,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "GUEST_Tyupu", 
         "LpRecover": 1, 
-        "UniqueRole": "None", 
-        "SupportRole": "None", 
+        "UniqueRole": "0", 
+        "SupportRole": "0", 
         "Gogyo": [
             false
         ], 
-        "Formation": "None", 
-        "BloodArts": "None", 
+        "Formation": "0", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 4, 
         "PRM_STR": 0, 
@@ -7437,50 +7437,50 @@
         "AT_Death": 0, 
         "AT_Chant": 0, 
         "Equip": [
-            "None", 
-            "None", 
+            "0", 
+            "0", 
             "MARO00_A", 
             "SAHE09_A", 
             "SAAC06_A", 
-            "None", 
-            "None"
+            "0", 
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WLAXE_A01", 
             "MAR_MA000_A01", 
             "SL_RB_C_02_IHA11", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 9, 
         "GrowSTR": 6, 
@@ -7509,16 +7509,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "GUEST_Tristan_Hernandes", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
-        "SupportRole": "None", 
+        "UniqueRole": "0", 
+        "SupportRole": "0", 
         "Gogyo": [
             false
         ], 
-        "Formation": "None", 
-        "BloodArts": "None", 
+        "Formation": "0", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 11, 
         "PRM_STR": 0, 
@@ -7564,7 +7564,7 @@
             "SAIN02_A", 
             "SAAC06_A", 
             "SASH01_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHG_GL000_A01", 
@@ -7572,36 +7572,36 @@
             "OHG_GLTWO_A01", 
             "OHG_GLTWO_A02", 
             "OHG_GLTWO_B01", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 8, 
         "GrowSTR": 8, 
@@ -7630,16 +7630,16 @@
         "InitIsGenus": false, 
         "Genus": false, 
         "SupportOnly": false, 
-        "MechaBody": "None", 
+        "MechaBody": "0", 
         "Voice": "GUEST_Ivar", 
         "LpRecover": 2, 
-        "UniqueRole": "None", 
-        "SupportRole": "None", 
+        "UniqueRole": "0", 
+        "SupportRole": "0", 
         "Gogyo": [
             false
         ], 
-        "Formation": "None", 
-        "BloodArts": "None", 
+        "Formation": "0", 
+        "BloodArts": "0", 
         "HP": 0, 
         "LP": 14, 
         "PRM_STR": 0, 
@@ -7685,44 +7685,44 @@
             "SASH01_A", 
             "SAAC13_A", 
             "SAAC04_A", 
-            "None"
+            "0"
         ], 
         "Arts": [
             "OHS_WL000_A01", 
             "OHS_WL000_A04", 
             "THG_GH000_A01", 
             "THG_GHMAC_A01", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ArtsRoute": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "Role": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "ExRole": [
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
         ], 
         "WorldIdea": [
-            "None", 
-            "None", 
-            "None"
+            "0", 
+            "0", 
+            "0"
         ], 
         "GrowHP": 34, 
         "GrowSTR": 8, 

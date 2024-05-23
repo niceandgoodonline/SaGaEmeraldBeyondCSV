@@ -1,442 +1,442 @@
 {
   "Mission_0051": {
     "MissionID": "Mission_0051",
-    "AddType": "['None']",
-    "AddParameter": "['None']"
+    "AddType": ["0"],
+    "AddParameter": ["0"]
   },
   "Mission_09071": {
     "MissionID": "Mission_09071",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_0051']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_0051"]
   },
   "Mission_0171": {
     "MissionID": "Mission_0171",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09071']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09071"]
   },
   "Mission_0261": {
     "MissionID": "Mission_0261",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09071']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09071"]
   },
   "Mission_0041": {
     "MissionID": "Mission_0041",
-    "AddType": "['None']",
-    "AddParameter": "['None']"
+    "AddType": ["0"],
+    "AddParameter": ["0"]
   },
   "Mission_0011": {
     "MissionID": "Mission_0011",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_0041']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_0041"]
   },
   "Mission_0111": {
     "MissionID": "Mission_0111",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_0011']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_0011"]
   },
   "Mission_0061": {
     "MissionID": "Mission_0061",
-    "AddType": "['None']",
-    "AddParameter": "['None']"
+    "AddType": ["0"],
+    "AddParameter": ["0"]
   },
   "Mission_0091": {
     "MissionID": "Mission_0091",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_0061']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_0061"]
   },
   "Mission_0031": {
     "MissionID": "Mission_0031",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['2']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["2"]
   },
   "Mission_0151": {
     "MissionID": "Mission_0151",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_0031']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_0031"]
   },
   "Mission_0191": {
     "MissionID": "Mission_0191",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_0151']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_0151"]
   },
   "Mission_0141": {
     "MissionID": "Mission_0141",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['3']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["3"]
   },
   "Mission_0931": {
     "MissionID": "Mission_0931",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['2']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["2"]
   },
   "Mission_0281": {
     "MissionID": "Mission_0281",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['2']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["2"]
   },
   "Mission_0282": {
     "MissionID": "Mission_0282",
-    "AddType": "['Mission','MissionRank']",
-    "AddParameter": "['Mission_0281','4']"
+    "AddType": ["Mission","MissionRank"],
+    "AddParameter": ["Mission_0281","4"]
   },
   "Mission_0052": {
     "MissionID": "Mission_0052",
-    "AddType": "['None']",
-    "AddParameter": "['None']"
+    "AddType": ["0"],
+    "AddParameter": ["0"]
   },
   "Mission_0271": {
     "MissionID": "Mission_0271",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['5']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["5"]
   },
   "Mission_0081": {
     "MissionID": "Mission_0081",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['2']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["2"]
   },
   "Mission_0101": {
     "MissionID": "Mission_0101",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['4']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["4"]
   },
   "Mission_0902": {
     "MissionID": "Mission_0902",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['5']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["5"]
   },
   "Mission_0221": {
     "MissionID": "Mission_0221",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['3']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["3"]
   },
   "Mission_0071": {
     "MissionID": "Mission_0071",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['6']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["6"]
   },
   "Mission_0201": {
     "MissionID": "Mission_0201",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['7']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["7"]
   },
   "Mission_0132": {
     "MissionID": "Mission_0132",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['6']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["6"]
   },
   "Mission_0181": {
     "MissionID": "Mission_0181",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['5']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["5"]
   },
   "Mission_0901": {
     "MissionID": "Mission_0901",
-    "AddType": "['None']",
-    "AddParameter": "['None']"
+    "AddType": ["0"],
+    "AddParameter": ["0"]
   },
   "Mission_0021": {
     "MissionID": "Mission_0021",
-    "AddType": "['None']",
-    "AddParameter": "['None']"
+    "AddType": ["0"],
+    "AddParameter": ["0"]
   },
   "Mission_0933": {
     "MissionID": "Mission_0933",
-    "AddType": "['None']",
-    "AddParameter": "['None']"
+    "AddType": ["0"],
+    "AddParameter": ["0"]
   },
   "Mission_09011": {
     "MissionID": "Mission_09011",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['3']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["3"]
   },
   "Mission_09321": {
     "MissionID": "Mission_09321",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['2']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["2"]
   },
   "Mission_09121": {
     "MissionID": "Mission_09121",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['2']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["2"]
   },
   "Mission_0909": {
     "MissionID": "Mission_0909",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['6']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["6"]
   },
   "Mission_0162": {
     "MissionID": "Mission_0162",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['10']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["10"]
   },
   "Mission_09271": {
     "MissionID": "Mission_09271",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['3']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["3"]
   },
   "Mission_09012": {
     "MissionID": "Mission_09012",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['5']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["5"]
   },
   "Mission_0919": {
     "MissionID": "Mission_0919",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['4']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["4"]
   },
   "Mission_0928": {
     "MissionID": "Mission_0928",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['5']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["5"]
   },
   "Mission_09331": {
     "MissionID": "Mission_09331",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['4']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["4"]
   },
   "Mission_0911": {
     "MissionID": "Mission_0911",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['8']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["8"]
   },
   "Mission_0907": {
     "MissionID": "Mission_0907",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['4']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["4"]
   },
   "Mission_09272": {
     "MissionID": "Mission_09272",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_0910']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_0910"]
   },
   "Mission_09322": {
     "MissionID": "Mission_09322",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['9']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["9"]
   },
   "Mission_0908": {
     "MissionID": "Mission_0908",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['6']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["6"]
   },
   "Mission_09013": {
     "MissionID": "Mission_09013",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['6']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["6"]
   },
   "Mission_0938": {
     "MissionID": "Mission_0938",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['10']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["10"]
   },
   "Mission_0910": {
     "MissionID": "Mission_0910",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_09122": {
     "MissionID": "Mission_09122",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['7']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["7"]
   },
   "Mission_0924": {
     "MissionID": "Mission_0924",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['7']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["7"]
   },
   "Mission_0935": {
     "MissionID": "Mission_0935",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_09014": {
     "MissionID": "Mission_09014",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0904": {
     "MissionID": "Mission_0904",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['7']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["7"]
   },
   "Mission_0936": {
     "MissionID": "Mission_0936",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['8']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["8"]
   },
   "Mission_0925": {
     "MissionID": "Mission_0925",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['8']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["8"]
   },
   "Mission_0927": {
     "MissionID": "Mission_0927",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0903": {
     "MissionID": "Mission_0903",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0905": {
     "MissionID": "Mission_0905",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['3']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["3"]
   },
   "Mission_0906": {
     "MissionID": "Mission_0906",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['9']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["9"]
   },
   "Mission_0912": {
     "MissionID": "Mission_0912",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0913": {
     "MissionID": "Mission_0913",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['2']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["2"]
   },
   "Mission_0915": {
     "MissionID": "Mission_0915",
-    "AddType": "['Mission','MissionRank']",
-    "AddParameter": "['Mission_0282','5']"
+    "AddType": ["Mission","MissionRank"],
+    "AddParameter": ["Mission_0282","5"]
   },
   "Mission_0917": {
     "MissionID": "Mission_0917",
-    "AddType": "['Mission','MissionRank']",
-    "AddParameter": "['Mission_0915','6']"
+    "AddType": ["Mission","MissionRank"],
+    "AddParameter": ["Mission_0915","6"]
   },
   "Mission_0920": {
     "MissionID": "Mission_0920",
-    "AddType": "['Mission','MissionRank']",
-    "AddParameter": "['Mission_0917','7']"
+    "AddType": ["Mission","MissionRank"],
+    "AddParameter": ["Mission_0917","7"]
   },
   "Mission_0921": {
     "MissionID": "Mission_0921",
-    "AddType": "['Mission','MissionRank']",
-    "AddParameter": "['Mission_0920','8']"
+    "AddType": ["Mission","MissionRank"],
+    "AddParameter": ["Mission_0920","8"]
   },
   "Mission_0922": {
     "MissionID": "Mission_0922",
-    "AddType": "['Mission','MissionRank']",
-    "AddParameter": "['Mission_0921','9']"
+    "AddType": ["Mission","MissionRank"],
+    "AddParameter": ["Mission_0921","9"]
   },
   "Mission_0926": {
     "MissionID": "Mission_0926",
-    "AddType": "['Mission','MissionRank']",
-    "AddParameter": "['Mission_0922','10']"
+    "AddType": ["Mission","MissionRank"],
+    "AddParameter": ["Mission_0922","10"]
   },
   "Mission_0930": {
     "MissionID": "Mission_0930",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0932": {
     "MissionID": "Mission_0932",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0934": {
     "MissionID": "Mission_0934",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0072": {
     "MissionID": "Mission_0072",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['9']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["9"]
   },
   "Mission_0001": {
     "MissionID": "Mission_0001",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0121": {
     "MissionID": "Mission_0121",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0122": {
     "MissionID": "Mission_0122",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0131": {
     "MissionID": "Mission_0131",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0161": {
     "MissionID": "Mission_0161",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0211": {
     "MissionID": "Mission_0211",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0241": {
     "MissionID": "Mission_0241",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0251": {
     "MissionID": "Mission_0251",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0291": {
     "MissionID": "Mission_0291",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0172": {
     "MissionID": "Mission_0172",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['9']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["9"]
   },
   "Mission_0916": {
     "MissionID": "Mission_0916",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0918": {
     "MissionID": "Mission_0918",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['5']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["5"]
   },
   "Mission_0929": {
     "MissionID": "Mission_0929",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['9']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["9"]
   },
   "Mission_0923": {
     "MissionID": "Mission_0923",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['9']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["9"]
   },
   "Mission_0182": {
     "MissionID": "Mission_0182",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['9']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["9"]
   },
   "Mission_0937": {
     "MissionID": "Mission_0937",
-    "AddType": "['Mission']",
-    "AddParameter": "['Mission_09272']"
+    "AddType": ["Mission"],
+    "AddParameter": ["Mission_09272"]
   },
   "Mission_0914": {
     "MissionID": "Mission_0914",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['3']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["3"]
   },
   "Mission_0231": {
     "MissionID": "Mission_0231",
-    "AddType": "['MissionRank']",
-    "AddParameter": "['4']"
+    "AddType": ["MissionRank"],
+    "AddParameter": ["4"]
   }
 }

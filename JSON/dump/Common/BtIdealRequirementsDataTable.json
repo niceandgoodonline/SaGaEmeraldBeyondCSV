@@ -7,14 +7,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_WILD": {
         "prob": 25, 
@@ -24,14 +24,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_FANTASY": {
         "prob": 25, 
@@ -41,14 +41,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_CHAOS": {
         "prob": 25, 
@@ -58,14 +58,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_MODAN": {
         "prob": 25, 
@@ -75,14 +75,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_NOSTALGY": {
         "prob": 25, 
@@ -92,14 +92,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_SCIENCE": {
         "prob": 25, 
@@ -109,14 +109,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_MAGIC": {
         "prob": 100, 
@@ -126,14 +126,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
         "setpattern": "Idea_Magic", 
-        "sozailabel": "None"
+        "sozailabel": "0"
     }, 
     "IDEA_GALE": {
         "prob": 100, 
@@ -143,14 +143,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
         "setpattern": "Idea_Gale", 
-        "sozailabel": "None"
+        "sozailabel": "0"
     }, 
     "IDEA_FIRE": {
         "prob": 100, 
@@ -160,14 +160,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
         "setpattern": "Idea_Fire", 
-        "sozailabel": "None"
+        "sozailabel": "0"
     }, 
     "IDEA_ICE": {
         "prob": 100, 
@@ -177,14 +177,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
         "setpattern": "Idea_Ice", 
-        "sozailabel": "None"
+        "sozailabel": "0"
     }, 
     "IDEA_LIGHTNING": {
         "prob": 100, 
@@ -194,14 +194,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
         "setpattern": "Idea_Lightning", 
-        "sozailabel": "None"
+        "sozailabel": "0"
     }, 
     "IDEA_BOMB": {
         "prob": 100, 
@@ -211,14 +211,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
         "setpattern": "Idea_Bonb", 
-        "sozailabel": "None"
+        "sozailabel": "0"
     }, 
     "IDEA_DEDICATION": {
         "prob": 0, 
@@ -228,14 +228,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_IDEAL": {
         "prob": 0, 
@@ -245,14 +245,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_GENIUS": {
         "prob": 0, 
@@ -262,14 +262,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_HONOR": {
         "prob": 0, 
@@ -279,14 +279,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_GUARD": {
         "prob": 0, 
@@ -296,14 +296,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_TRADITION": {
         "prob": 0, 
@@ -313,14 +313,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_FREE": {
         "prob": 0, 
@@ -330,14 +330,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_DICIPLINE": {
         "prob": 0, 
@@ -347,14 +347,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_GLITTER": {
         "prob": 0, 
@@ -364,14 +364,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_OBEDIENCE": {
         "prob": 0, 
@@ -381,14 +381,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_VITALITY": {
         "prob": 0, 
@@ -398,14 +398,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_HARMONY": {
         "prob": 0, 
@@ -415,14 +415,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_ORDER": {
         "prob": 0, 
@@ -432,14 +432,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_AMBITION": {
         "prob": 0, 
@@ -449,14 +449,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_SILENCE": {
         "prob": 0, 
@@ -466,14 +466,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_UPHEABAL": {
         "prob": 0, 
@@ -483,14 +483,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_AUTHORITY": {
         "prob": 0, 
@@ -500,14 +500,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_REINCARNATION": {
         "prob": 0, 
@@ -517,14 +517,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_PRIDE": {
         "prob": 0, 
@@ -534,14 +534,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_GREED": {
         "prob": 0, 
@@ -551,14 +551,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_LUST": {
         "prob": 0, 
@@ -568,14 +568,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_SLOTH": {
         "prob": 0, 
@@ -585,14 +585,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_WRATH": {
         "prob": 0, 
@@ -602,14 +602,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_GLUTTONY": {
         "prob": 0, 
@@ -619,14 +619,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_ENVY": {
         "prob": 0, 
@@ -636,14 +636,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_RETRO": {
         "prob": 0, 
@@ -653,14 +653,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_TECHNOLOGY": {
         "prob": 0, 
@@ -670,14 +670,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_ART": {
         "prob": 0, 
@@ -687,14 +687,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_MECHA": {
         "prob": 0, 
@@ -704,14 +704,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_DARKNIGHT": {
         "prob": 0, 
@@ -721,14 +721,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_WORLD_ART": {
         "prob": 0, 
@@ -738,14 +738,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_WORLD_WILD": {
         "prob": 0, 
@@ -755,14 +755,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_WORLD_MODAN": {
         "prob": 0, 
@@ -772,14 +772,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_WORLD_SF": {
         "prob": 0, 
@@ -789,14 +789,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA001": {
         "prob": 0, 
@@ -806,14 +806,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA002": {
         "prob": 0, 
@@ -823,14 +823,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA003": {
         "prob": 0, 
@@ -840,14 +840,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA004": {
         "prob": 0, 
@@ -857,14 +857,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA005": {
         "prob": 0, 
@@ -874,14 +874,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA006": {
         "prob": 0, 
@@ -891,14 +891,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA007": {
         "prob": 0, 
@@ -908,14 +908,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA008": {
         "prob": 0, 
@@ -925,14 +925,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA009": {
         "prob": 0, 
@@ -942,14 +942,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA010": {
         "prob": 0, 
@@ -959,14 +959,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA011": {
         "prob": 0, 
@@ -976,14 +976,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA012": {
         "prob": 0, 
@@ -993,14 +993,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA013": {
         "prob": 0, 
@@ -1010,14 +1010,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA014": {
         "prob": 0, 
@@ -1027,14 +1027,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA015": {
         "prob": 0, 
@@ -1044,14 +1044,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA016": {
         "prob": 0, 
@@ -1061,14 +1061,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA017": {
         "prob": 0, 
@@ -1078,14 +1078,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA018": {
         "prob": 0, 
@@ -1095,14 +1095,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA019": {
         "prob": 0, 
@@ -1112,14 +1112,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA020": {
         "prob": 0, 
@@ -1129,14 +1129,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
-        "scene": "None", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
+        "scene": "0", 
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_001": {
         "prob": 20, 
@@ -1146,14 +1146,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
         "race": "Beast", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_002": {
         "prob": 0, 
@@ -1163,14 +1163,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_A001": {
         "prob": 80, 
@@ -1180,14 +1180,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_A002": {
         "prob": 80, 
@@ -1197,14 +1197,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_A003": {
         "prob": 80, 
@@ -1214,14 +1214,14 @@
             "Magic", 
             "Order"
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_B001": {
         "prob": 95, 
@@ -1231,14 +1231,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_B002": {
         "prob": 95, 
@@ -1248,14 +1248,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_B003": {
         "prob": 95, 
@@ -1265,14 +1265,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_C001": {
         "prob": 0, 
@@ -1282,14 +1282,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_C002": {
         "prob": 0, 
@@ -1299,14 +1299,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_C003": {
         "prob": 0, 
@@ -1316,14 +1316,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_D001": {
         "prob": 0, 
@@ -1333,14 +1333,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_D002": {
         "prob": 0, 
@@ -1350,14 +1350,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_D003": {
         "prob": 0, 
@@ -1367,14 +1367,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_E001": {
         "prob": 100, 
@@ -1384,14 +1384,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_E002": {
         "prob": 100, 
@@ -1401,14 +1401,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_E003": {
         "prob": 100, 
@@ -1418,14 +1418,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_F001": {
         "prob": 100, 
@@ -1435,14 +1435,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_F002": {
         "prob": 100, 
@@ -1452,14 +1452,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_F003": {
         "prob": 100, 
@@ -1469,14 +1469,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_G001": {
         "prob": 100, 
@@ -1486,14 +1486,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_G002": {
         "prob": 100, 
@@ -1503,14 +1503,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_G003": {
         "prob": 100, 
@@ -1520,14 +1520,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_H001": {
         "prob": 100, 
@@ -1537,14 +1537,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
-        "equiplabel": "None", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "enemylabel": "0", 
+        "equiplabel": "0", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_H002": {
         "prob": 0, 
@@ -1554,14 +1554,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_H003": {
         "prob": 0, 
@@ -1571,14 +1571,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_I001": {
         "prob": 0, 
@@ -1588,14 +1588,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_I002": {
         "prob": 0, 
@@ -1605,14 +1605,14 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }, 
     "IDEA_I003": {
         "prob": 0, 
@@ -1622,13 +1622,13 @@
             0, 
             0
         ], 
-        "enemylabel": "None", 
+        "enemylabel": "0", 
         "equiplabel": "LongSword", 
-        "haveidea": "None", 
-        "itemlabel": "None", 
-        "race": "None", 
+        "haveidea": "0", 
+        "itemlabel": "0", 
+        "race": "0", 
         "scene": "BS_GUR_ZAKO1", 
-        "setpattern": "None", 
-        "sozailabel": "None"
+        "setpattern": "0", 
+        "sozailabel": "0"
     }
 }

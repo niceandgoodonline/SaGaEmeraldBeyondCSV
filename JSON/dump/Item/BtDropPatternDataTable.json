@@ -1,308 +1,104 @@
-{
-  "DL_ROCK": {
-    "Index": "0"
-  },
-  "DL_ROCK_RARE": {
-    "Index": "1"
-  },
-  "DL_WBOX_EMPTY": {
-    "Index": "2"
-  },
-  "DL_WBOX_LOW": {
-    "Index": "3"
-  },
-  "DL_WBOX_MIDDLE": {
-    "Index": "4"
-  },
-  "DL_WBOX_HIGH": {
-    "Index": "5"
-  },
-  "DL_CONTAINER": {
-    "Index": "6"
-  },
-  "DL_WEAPON": {
-    "Index": "7"
-  },
-  "DL_WEAPON_HIGH": {
-    "Index": "8"
-  },
-  "DL_MARMOR": {
-    "Index": "9"
-  },
-  "DL_MARMOR_HIGH": {
-    "Index": "10"
-  },
-  "DL_SARMOR": {
-    "Index": "11"
-  },
-  "DL_SARMOR_HIGH": {
-    "Index": "12"
-  },
-  "DL_STONE": {
-    "Index": "13"
-  },
-  "DL_WOOD": {
-    "Index": "14"
-  },
-  "DL_FUR": {
-    "Index": "15"
-  },
-  "DL_SHELL": {
-    "Index": "16"
-  },
-  "DL_BONE": {
-    "Index": "17"
-  },
-  "DL_FANG": {
-    "Index": "18"
-  },
-  "DL_CLAW": {
-    "Index": "19"
-  },
-  "DL_STONE_RARE": {
-    "Index": "20"
-  },
-  "DL_STONE_RARE_M": {
-    "Index": "21"
-  },
-  "DL_STONE_RARE_S": {
-    "Index": "22"
-  },
-  "DL_WOOD_RARE": {
-    "Index": "23"
-  },
-  "DL_FUR_RARE": {
-    "Index": "24"
-  },
-  "DL_SHELL_RARE": {
-    "Index": "25"
-  },
-  "DL_BONE_RARE": {
-    "Index": "26"
-  },
-  "DL_FANG_RARE": {
-    "Index": "27"
-  },
-  "DL_CLAW_RARE": {
-    "Index": "28"
-  },
-  "DL_M0110": {
-    "Index": "29"
-  },
-  "DL_M0210": {
-    "Index": "30"
-  },
-  "DL_M0320": {
-    "Index": "31"
-  },
-  "DL_M0410": {
-    "Index": "32"
-  },
-  "DL_M0420": {
-    "Index": "33"
-  },
-  "DL_M0500": {
-    "Index": "34"
-  },
-  "DL_M0520": {
-    "Index": "35"
-  },
-  "DL_M0710": {
-    "Index": "36"
-  },
-  "DL_M1000": {
-    "Index": "37"
-  },
-  "DL_M2000": {
-    "Index": "38"
-  },
-  "DL_M2100": {
-    "Index": "39"
-  },
-  "DL_M2200": {
-    "Index": "40"
-  },
-  "DL_M2300": {
-    "Index": "41"
-  },
-  "DL_M9051": {
-    "Index": "42"
-  },
-  "DL_W03_WELL": {
-    "Index": "43"
-  },
-  "DL_W10_CONTAINER_WEAPON": {
-    "Index": "44"
-  },
-  "DL_W10_CONTAINER_ACCE": {
-    "Index": "45"
-  },
-  "DL_W17_WEAPON_LOW": {
-    "Index": "46"
-  },
-  "DL_W17_WEAPON_HIGH": {
-    "Index": "47"
-  },
-  "DL_W17_MARMOR_LOW": {
-    "Index": "48"
-  },
-  "DL_W17_MARMOR_HIGH": {
-    "Index": "49"
-  },
-  "DL_W17_SARMOR_LOW": {
-    "Index": "50"
-  },
-  "DL_W17_SARMOR_HIGH": {
-    "Index": "51"
-  },
-  "DL_DROP_01": {
-    "Index": "52"
-  },
-  "DL_DROP_02": {
-    "Index": "53"
-  },
-  "DL_DROP_03": {
-    "Index": "54"
-  },
-  "DL_DROP_04": {
-    "Index": "55"
-  },
-  "DL_DROP_05": {
-    "Index": "56"
-  },
-  "DL_DROP_06": {
-    "Index": "57"
-  },
-  "DL_DROP_07": {
-    "Index": "58"
-  },
-  "DL_DROP_08": {
-    "Index": "59"
-  },
-  "DL_DROP_09": {
-    "Index": "60"
-  },
-  "DL_DROP_10": {
-    "Index": "61"
-  },
-  "DL_DROP_11": {
-    "Index": "62"
-  },
-  "DL_DROP_12": {
-    "Index": "63"
-  },
-  "DL_DROP_13": {
-    "Index": "64"
-  },
-  "DL_DROP_14": {
-    "Index": "65"
-  },
-  "DL_DROP_15": {
-    "Index": "66"
-  },
-  "DL_DROP_16": {
-    "Index": "67"
-  },
-  "DL_DROP_17": {
-    "Index": "68"
-  },
-  "DL_DROP_18": {
-    "Index": "69"
-  },
-  "DL_DROP_19": {
-    "Index": "70"
-  },
-  "DL_DROP_20": {
-    "Index": "71"
-  },
-  "DL_DROP_21": {
-    "Index": "72"
-  },
-  "DL_DROP_22": {
-    "Index": "73"
-  },
-  "DL_DROP_23": {
-    "Index": "74"
-  },
-  "DL_DROP_24": {
-    "Index": "75"
-  },
-  "DL_DROP_25": {
-    "Index": "76"
-  },
-  "DL_DROP_26": {
-    "Index": "77"
-  },
-  "DL_DROP_27": {
-    "Index": "78"
-  },
-  "DL_DROP_28": {
-    "Index": "79"
-  },
-  "DL_DROP_29": {
-    "Index": "80"
-  },
-  "DL_DROP_30": {
-    "Index": "81"
-  },
-  "DL_DROP_31": {
-    "Index": "82"
-  },
-  "DL_DROP_32": {
-    "Index": "83"
-  },
-  "DL_DROP_33": {
-    "Index": "84"
-  },
-  "DL_DROP_34": {
-    "Index": "85"
-  },
-  "DL_DROP_35": {
-    "Index": "86"
-  },
-  "DL_DROP_36": {
-    "Index": "87"
-  },
-  "DL_DROP_37": {
-    "Index": "88"
-  },
-  "DL_DROP_38": {
-    "Index": "89"
-  },
-  "DL_DROP_39": {
-    "Index": "90"
-  },
-  "DL_DROP_40": {
-    "Index": "91"
-  },
-  "DL_DROP_41": {
-    "Index": "92"
-  },
-  "DL_DROP_42": {
-    "Index": "93"
-  },
-  "DL_DROP_43": {
-    "Index": "94"
-  },
-  "DL_DROP_44": {
-    "Index": "95"
-  },
-  "DL_DROP_45": {
-    "Index": "96"
-  },
-  "DL_DROP_46": {
-    "Index": "97"
-  },
-  "DL_DROP_47": {
-    "Index": "98"
-  },
-  "DL_DROP_48": {
-    "Index": "99"
-  },
-  "DL_DROP_49": {
-    "Index": "100"
-  },
-  "DL_DROP_50": {
-    "Index": "101"
-  }
-}
+[
+  "DL_ROCK",
+  "DL_ROCK_RARE",
+  "DL_WBOX_EMPTY",
+  "DL_WBOX_LOW",
+  "DL_WBOX_MIDDLE",
+  "DL_WBOX_HIGH",
+  "DL_CONTAINER",
+  "DL_WEAPON",
+  "DL_WEAPON_HIGH",
+  "DL_MARMOR",
+  "DL_MARMOR_HIGH",
+  "DL_SARMOR",
+  "DL_SARMOR_HIGH",
+  "DL_STONE",
+  "DL_WOOD",
+  "DL_FUR",
+  "DL_SHELL",
+  "DL_BONE",
+  "DL_FANG",
+  "DL_CLAW",
+  "DL_STONE_RARE",
+  "DL_STONE_RARE_M",
+  "DL_STONE_RARE_S",
+  "DL_WOOD_RARE",
+  "DL_FUR_RARE",
+  "DL_SHELL_RARE",
+  "DL_BONE_RARE",
+  "DL_FANG_RARE",
+  "DL_CLAW_RARE",
+  "DL_M0110",
+  "DL_M0210",
+  "DL_M0320",
+  "DL_M0410",
+  "DL_M0420",
+  "DL_M0500",
+  "DL_M0520",
+  "DL_M0710",
+  "DL_M1000",
+  "DL_M2000",
+  "DL_M2100",
+  "DL_M2200",
+  "DL_M2300",
+  "DL_M9051",
+  "DL_W03_WELL",
+  "DL_W10_CONTAINER_WEAPON",
+  "DL_W10_CONTAINER_ACCE",
+  "DL_W17_WEAPON_LOW",
+  "DL_W17_WEAPON_HIGH",
+  "DL_W17_MARMOR_LOW",
+  "DL_W17_MARMOR_HIGH",
+  "DL_W17_SARMOR_LOW",
+  "DL_W17_SARMOR_HIGH",
+  "DL_DROP_01",
+  "DL_DROP_02",
+  "DL_DROP_03",
+  "DL_DROP_04",
+  "DL_DROP_05",
+  "DL_DROP_06",
+  "DL_DROP_07",
+  "DL_DROP_08",
+  "DL_DROP_09",
+  "DL_DROP_10",
+  "DL_DROP_11",
+  "DL_DROP_12",
+  "DL_DROP_13",
+  "DL_DROP_14",
+  "DL_DROP_15",
+  "DL_DROP_16",
+  "DL_DROP_17",
+  "DL_DROP_18",
+  "DL_DROP_19",
+  "DL_DROP_20",
+  "DL_DROP_21",
+  "DL_DROP_22",
+  "DL_DROP_23",
+  "DL_DROP_24",
+  "DL_DROP_25",
+  "DL_DROP_26",
+  "DL_DROP_27",
+  "DL_DROP_28",
+  "DL_DROP_29",
+  "DL_DROP_30",
+  "DL_DROP_31",
+  "DL_DROP_32",
+  "DL_DROP_33",
+  "DL_DROP_34",
+  "DL_DROP_35",
+  "DL_DROP_36",
+  "DL_DROP_37",
+  "DL_DROP_38",
+  "DL_DROP_39",
+  "DL_DROP_40",
+  "DL_DROP_41",
+  "DL_DROP_42",
+  "DL_DROP_43",
+  "DL_DROP_44",
+  "DL_DROP_45",
+  "DL_DROP_46",
+  "DL_DROP_47",
+  "DL_DROP_48",
+  "DL_DROP_49",
+  "DL_DROP_50"
+]

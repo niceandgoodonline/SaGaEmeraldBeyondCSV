@@ -1,1022 +1,1022 @@
 {
-    "MON_M000_A02a": {
-        "Actor": "M000_Summon", 
-        "HP": 1, 
-        "STR": 1, 
-        "TEX": 1, 
-        "QUI": 1, 
-        "VIT": 0, 
-        "INT": 1, 
-        "WIL": 1
-    }, 
-    "MON_M000_A01a": {
-        "Actor": "M000_Summon", 
-        "HP": 3, 
-        "STR": 3, 
-        "TEX": 0, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M000_A03a": {
-        "Actor": "M000_Summon", 
-        "HP": 0, 
-        "STR": 2, 
-        "TEX": 3, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M000_A04a": {
-        "Actor": "M000_Summon", 
-        "HP": 0, 
-        "STR": 2, 
-        "TEX": 3, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M000_A05a": {
-        "Actor": "M000_Summon", 
-        "HP": 0, 
-        "STR": 2, 
-        "TEX": 3, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M001_A02a": {
-        "Actor": "M001_Summon", 
-        "HP": 3, 
-        "STR": 2, 
-        "TEX": 2, 
-        "QUI": 0, 
-        "VIT": 3, 
-        "INT": 0, 
-        "WIL": 2
-    }, 
-    "MON_M001_A04a": {
-        "Actor": "M001_Summon", 
-        "HP": 4, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 3, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M002_A01a": {
-        "Actor": "M002_Summon", 
-        "HP": 1, 
-        "STR": 1, 
-        "TEX": 1, 
-        "QUI": 1, 
-        "VIT": 1, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M002_A02a": {
-        "Actor": "M002_Summon", 
-        "HP": 2, 
-        "STR": 2, 
-        "TEX": 1, 
-        "QUI": 0, 
-        "VIT": 1, 
-        "INT": 1, 
-        "WIL": 1
-    }, 
-    "MON_M002_A05a": {
-        "Actor": "M002_Summon", 
-        "HP": 4, 
-        "STR": 3, 
-        "TEX": 0, 
-        "QUI": 2, 
-        "VIT": 2, 
-        "INT": 0, 
-        "WIL": 2
-    }, 
-    "MON_M002_A04a": {
-        "Actor": "M002_Summon", 
-        "HP": 3, 
-        "STR": 2, 
-        "TEX": 2, 
-        "QUI": 2, 
-        "VIT": 2, 
-        "INT": 0, 
-        "WIL": 0
-    }, 
-    "MON_M002_A03a": {
-        "Actor": "M002_Summon", 
-        "HP": 2, 
-        "STR": 0, 
-        "TEX": 1, 
-        "QUI": 0, 
-        "VIT": 1, 
-        "INT": 2, 
-        "WIL": 3
-    }, 
-    "MON_M002_A03a_A": {
-        "Actor": "M002_Summon", 
-        "HP": 2, 
-        "STR": 0, 
-        "TEX": 1, 
-        "QUI": 0, 
-        "VIT": 1, 
-        "INT": 2, 
-        "WIL": 3
-    }, 
-    "MON_M002_A03a_B": {
-        "Actor": "M002_Summon", 
-        "HP": 2, 
-        "STR": 0, 
-        "TEX": 1, 
-        "QUI": 0, 
-        "VIT": 1, 
-        "INT": 2, 
-        "WIL": 3
-    }, 
-    "MON_M010_A01a": {
-        "Actor": "M010_Summon", 
-        "HP": 0, 
-        "STR": 2, 
-        "TEX": 2, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M010_A02a": {
-        "Actor": "M010_Summon", 
-        "HP": 0, 
-        "STR": 3, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 4
-    }, 
-    "MON_M010_B02a": {
-        "Actor": "M010_Summon", 
-        "HP": 0, 
-        "STR": 3, 
-        "TEX": 3, 
-        "QUI": 4, 
-        "VIT": 0, 
-        "INT": 4, 
-        "WIL": 4
-    }, 
-    "MON_M010_A04a": {
-        "Actor": "M010_Summon", 
-        "HP": 5, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 4
-    }, 
-    "MON_M011_A01a": {
-        "Actor": "M011_Summon", 
-        "HP": 9, 
-        "STR": 6, 
-        "TEX": 0, 
-        "QUI": 0, 
-        "VIT": 5, 
-        "INT": 3, 
-        "WIL": 4
-    }, 
-    "MON_M011_B02a": {
-        "Actor": "M011_Summon", 
-        "HP": 11, 
-        "STR": 7, 
-        "TEX": 0, 
-        "QUI": 4, 
-        "VIT": 6, 
-        "INT": 0, 
-        "WIL": 5
-    }, 
-    "MON_M012_A03a": {
-        "Actor": "M012_Summon", 
-        "HP": 0, 
-        "STR": 0, 
-        "TEX": 2, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 2
-    }, 
-    "MON_M012_A04a": {
-        "Actor": "M012_Summon", 
-        "HP": 0, 
-        "STR": 0, 
-        "TEX": 2, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M021_A01a": {
-        "Actor": "M021_Summon", 
-        "HP": 6, 
-        "STR": 3, 
-        "TEX": 0, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 3
-    }, 
-    "MON_M021_A02a": {
-        "Actor": "M021_Summon", 
-        "HP": 5, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 3, 
-        "INT": 0, 
-        "WIL": 4
-    }, 
-    "MON_M021_A03a": {
-        "Actor": "M021_Summon", 
-        "HP": 8, 
-        "STR": 4, 
-        "TEX": 0, 
-        "QUI": 4, 
-        "VIT": 5, 
-        "INT": 0, 
-        "WIL": 4
-    }, 
-    "MON_M021_A04a": {
-        "Actor": "M021_Summon", 
-        "HP": 6, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 4
-    }, 
-    "MON_M021_A05a": {
-        "Actor": "M021_Summon", 
-        "HP": 8, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 6, 
-        "WIL": 4
-    }, 
-    "MON_M022_A02a": {
-        "Actor": "M022_Summon", 
-        "HP": 4, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 0, 
-        "VIT": 2, 
-        "INT": 2, 
-        "WIL": 4
-    }, 
-    "MON_M022_A03a": {
-        "Actor": "M022_Summon", 
-        "HP": 6, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 0, 
-        "VIT": 3, 
-        "INT": 4, 
-        "WIL": 5
-    }, 
-    "MON_M023_A01a": {
-        "Actor": "M023_Summon", 
-        "HP": 1, 
-        "STR": 1, 
-        "TEX": 0, 
-        "QUI": 1, 
-        "VIT": 1, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M023_A03a": {
-        "Actor": "M023_Summon", 
-        "HP": 5, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 0, 
-        "WIL": 3
-    }, 
-    "MON_M030_A01a": {
-        "Actor": "M030_Summon", 
-        "HP": 1, 
-        "STR": 1, 
-        "TEX": 0, 
-        "QUI": 1, 
-        "VIT": 1, 
-        "INT": 1, 
-        "WIL": 1
-    }, 
-    "MON_M030_A04a": {
-        "Actor": "M030_Summon", 
-        "HP": 3, 
-        "STR": 2, 
-        "TEX": 0, 
-        "QUI": 2, 
-        "VIT": 2, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M030_A02a": {
-        "Actor": "M030_Summon", 
-        "HP": 0, 
-        "STR": 2, 
-        "TEX": 0, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 4
-    }, 
-    "MON_M031_A01a": {
-        "Actor": "M031_Summon", 
-        "HP": 2, 
-        "STR": 2, 
-        "TEX": 0, 
-        "QUI": 1, 
-        "VIT": 1, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M031_A01a_A": {
-        "Actor": "M031_Summon", 
-        "HP": 2, 
-        "STR": 2, 
-        "TEX": 0, 
-        "QUI": 1, 
-        "VIT": 1, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M031_A04a": {
-        "Actor": "M031_Summon", 
-        "HP": 0, 
-        "STR": 0, 
-        "TEX": 2, 
-        "QUI": 3, 
-        "VIT": 2, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M031_B01a": {
-        "Actor": "M031_Summon", 
-        "HP": 2, 
-        "STR": 0, 
-        "TEX": 1, 
-        "QUI": 3, 
-        "VIT": 1, 
-        "INT": 3, 
-        "WIL": 2
-    }, 
-    "MON_M032_A01a": {
-        "Actor": "M032_Summon", 
-        "HP": 5, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 3, 
-        "INT": 4, 
-        "WIL": 4
-    }, 
-    "MON_M032_A01a_A": {
-        "Actor": "M032_Summon", 
-        "HP": 5, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 3, 
-        "INT": 4, 
-        "WIL": 4
-    }, 
-    "MON_M032_A02a": {
-        "Actor": "M032_Summon", 
-        "HP": 7, 
-        "STR": 4, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 4
-    }, 
-    "MON_M032_B01a": {
-        "Actor": "M032_Summon", 
-        "HP": 9, 
-        "STR": 5, 
-        "TEX": 0, 
-        "QUI": 5, 
-        "VIT": 5, 
-        "INT": 5, 
-        "WIL": 0
-    }, 
-    "MON_M032_B02a": {
-        "Actor": "M032_Summon", 
-        "HP": 9, 
-        "STR": 5, 
-        "TEX": 0, 
-        "QUI": 5, 
-        "VIT": 8, 
-        "INT": 0, 
-        "WIL": 5
-    }, 
-    "MON_M040_A01a": {
-        "Actor": "M040_Summon", 
-        "HP": 2, 
-        "STR": 2, 
-        "TEX": 0, 
-        "QUI": 1, 
-        "VIT": 0, 
-        "INT": 1, 
-        "WIL": 1
-    }, 
-    "MON_M040_A03a": {
-        "Actor": "M040_Summon", 
-        "HP": 4, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 0
-    }, 
-    "MON_M040_A04a": {
-        "Actor": "M040_Summon", 
-        "HP": 4, 
-        "STR": 3, 
-        "TEX": 0, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M040_B02a": {
-        "Actor": "M040_Summon", 
-        "HP": 0, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 4, 
-        "VIT": 0, 
-        "INT": 4, 
-        "WIL": 4
-    }, 
-    "MON_M041_A02a": {
-        "Actor": "M041_Summon", 
-        "HP": 7, 
-        "STR": 4, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 4
-    }, 
-    "MON_M041_B01a": {
-        "Actor": "M041_Summon", 
-        "HP": 7, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 4, 
-        "WIL": 4
-    }, 
-    "MON_M041_B01a_A": {
-        "Actor": "M041_Summon", 
-        "HP": 7, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 4, 
-        "WIL": 4
-    }, 
-    "MON_M041_B03a": {
-        "Actor": "M041_Summon", 
-        "HP": 9, 
-        "STR": 5, 
-        "TEX": 0, 
-        "QUI": 5, 
-        "VIT": 5, 
-        "INT": 0, 
-        "WIL": 5
-    }, 
-    "MON_M042_A02a": {
-        "Actor": "M042_Summon", 
-        "HP": 5, 
-        "STR": 3, 
-        "TEX": 0, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 0, 
-        "WIL": 3
-    }, 
-    "MON_M042_A03a": {
-        "Actor": "M042_Summon", 
-        "HP": 7, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 4, 
-        "VIT": 4, 
-        "INT": 4, 
-        "WIL": 4
-    }, 
-    "MON_M042_A01a": {
-        "Actor": "M042_Summon", 
-        "HP": 6, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 4, 
-        "WIL": 0
-    }, 
-    "MON_M042_A04a": {
-        "Actor": "M042_Summon", 
-        "HP": 7, 
-        "STR": 4, 
-        "TEX": 4, 
-        "QUI": 4, 
-        "VIT": 0, 
-        "INT": 4, 
-        "WIL": 4
-    }, 
-    "MON_M050_A06a": {
-        "Actor": "M050_Summon", 
-        "HP": 4, 
-        "STR": 0, 
-        "TEX": 2, 
-        "QUI": 0, 
-        "VIT": 2, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M050_B02a": {
-        "Actor": "M050_Summon", 
-        "HP": 7, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 4, 
-        "WIL": 4
-    }, 
-    "MON_M051_A01a": {
-        "Actor": "M051_Summon", 
-        "HP": 5, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M051_B01a": {
-        "Actor": "M051_Summon", 
-        "HP": 7, 
-        "STR": 4, 
-        "TEX": 0, 
-        "QUI": 4, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 4
-    }, 
-    "MON_M051_B02a": {
-        "Actor": "M051_Summon", 
-        "HP": 0, 
-        "STR": 0, 
-        "TEX": 4, 
-        "QUI": 5, 
-        "VIT": 0, 
-        "INT": 0, 
-        "WIL": 4
-    }, 
-    "MON_M052_A01a": {
-        "Actor": "M052_Summon", 
-        "HP": 6, 
-        "STR": 3, 
-        "TEX": 3, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 3
-    }, 
-    "MON_M052_B02a": {
-        "Actor": "M052_Summon", 
-        "HP": 10, 
-        "STR": 6, 
-        "TEX": 0, 
-        "QUI": 5, 
-        "VIT": 5, 
-        "INT": 5, 
-        "WIL": 5
-    }, 
-    "MON_M070_A01a": {
-        "Actor": "M070_Summon", 
-        "HP": 2, 
-        "STR": 1, 
-        "TEX": 0, 
-        "QUI": 1, 
-        "VIT": 2, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M070_A02a": {
-        "Actor": "M070_Summon", 
-        "HP": 0, 
-        "STR": 3, 
-        "TEX": 2, 
-        "QUI": 0, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M070_A03a": {
-        "Actor": "M070_Summon", 
-        "HP": 6, 
-        "STR": 3, 
-        "TEX": 0, 
-        "QUI": 3, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 3
-    }, 
-    "MON_M070_A04a": {
-        "Actor": "M070_Summon", 
-        "HP": 0, 
-        "STR": 0, 
-        "TEX": 0, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M071_A02a": {
-        "Actor": "M071_Summon", 
-        "HP": 6, 
-        "STR": 4, 
-        "TEX": 3, 
-        "QUI": 0, 
-        "VIT": 3, 
-        "INT": 0, 
-        "WIL": 3
-    }, 
-    "MON_M071_A03a": {
-        "Actor": "M071_Summon", 
-        "HP": 7, 
-        "STR": 4, 
-        "TEX": 4, 
-        "QUI": 4, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 0
-    }, 
-    "MON_M071_B01a": {
-        "Actor": "M071_Summon", 
-        "HP": 8, 
-        "STR": 5, 
-        "TEX": 4, 
-        "QUI": 0, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 0
-    }, 
-    "MON_M072_A01a": {
-        "Actor": "M072_Summon", 
-        "HP": 3, 
-        "STR": 2, 
-        "TEX": 2, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M072_B03a": {
-        "Actor": "M072_Summon", 
-        "HP": 4, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M072_B03a_A": {
-        "Actor": "M072_Summon", 
-        "HP": 4, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M072_B01a": {
-        "Actor": "M072_Summon", 
-        "HP": 6, 
-        "STR": 4, 
-        "TEX": 0, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M080_A01a": {
-        "Actor": "M080_Summon", 
-        "HP": 0, 
-        "STR": 2, 
-        "TEX": 0, 
-        "QUI": 1, 
-        "VIT": 0, 
-        "INT": 1, 
-        "WIL": 1
-    }, 
-    "MON_M080_A05a": {
-        "Actor": "M080_Summon", 
-        "HP": 0, 
-        "STR": 3, 
-        "TEX": 2, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M080_A04a": {
-        "Actor": "M080_Summon", 
-        "HP": 5, 
-        "STR": 3, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 0, 
-        "WIL": 3
-    }, 
-    "MON_M080_A03a": {
-        "Actor": "M080_Summon", 
-        "HP": 0, 
-        "STR": 3, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 4, 
-        "WIL": 3
-    }, 
-    "MON_M081_A01a": {
-        "Actor": "M081_Summon", 
-        "HP": 2, 
-        "STR": 1, 
-        "TEX": 1, 
-        "QUI": 1, 
-        "VIT": 2, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M081_A01a_A": {
-        "Actor": "M081_Summon", 
-        "HP": 2, 
-        "STR": 1, 
-        "TEX": 1, 
-        "QUI": 1, 
-        "VIT": 2, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M081_A05a": {
-        "Actor": "M081_Summon", 
-        "HP": 3, 
-        "STR": 2, 
-        "TEX": 0, 
-        "QUI": 2, 
-        "VIT": 2, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M081_A05a_A": {
-        "Actor": "M081_Summon", 
-        "HP": 3, 
-        "STR": 2, 
-        "TEX": 0, 
-        "QUI": 2, 
-        "VIT": 2, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M081_A03a": {
-        "Actor": "M081_Summon", 
-        "HP": 0, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M081_A03a_A": {
-        "Actor": "M081_Summon", 
-        "HP": 0, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M082_A03a": {
-        "Actor": "M082_Summon", 
-        "HP": 2, 
-        "STR": 0, 
-        "TEX": 2, 
-        "QUI": 1, 
-        "VIT": 1, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M082_A02a": {
-        "Actor": "M082_Summon", 
-        "HP": 0, 
-        "STR": 1, 
-        "TEX": 1, 
-        "QUI": 1, 
-        "VIT": 1, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M090_A04a": {
-        "Actor": "M090_Summon", 
-        "HP": 0, 
-        "STR": 0, 
-        "TEX": 2, 
-        "QUI": 2, 
-        "VIT": 2, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M090_A01a": {
-        "Actor": "M090_Summon", 
-        "HP": 4, 
-        "STR": 0, 
-        "TEX": 2, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 4, 
-        "WIL": 3
-    }, 
-    "MON_M090_A02a": {
-        "Actor": "M090_Summon", 
-        "HP": 4, 
-        "STR": 0, 
-        "TEX": 2, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 4, 
-        "WIL": 3
-    }, 
-    "MON_M100_A01a": {
-        "Actor": "M100_Summon", 
-        "HP": 6, 
-        "STR": 4, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 0, 
-        "WIL": 3
-    }, 
-    "MON_M100_B01a": {
-        "Actor": "M100_Summon", 
-        "HP": 0, 
-        "STR": 3, 
-        "TEX": 4, 
-        "QUI": 4, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 4
-    }, 
-    "MON_M100_B01a_A": {
-        "Actor": "M100_Summon", 
-        "HP": 0, 
-        "STR": 3, 
-        "TEX": 4, 
-        "QUI": 4, 
-        "VIT": 4, 
-        "INT": 0, 
-        "WIL": 4
-    }, 
-    "MON_M100_B02a": {
-        "Actor": "M100_Summon", 
-        "HP": 9, 
-        "STR": 5, 
-        "TEX": 5, 
-        "QUI": 5, 
-        "VIT": 5, 
-        "INT": 0, 
-        "WIL": 5
-    }, 
-    "MON_M101_A01a": {
-        "Actor": "M101_Summon", 
-        "HP": 0, 
-        "STR": 2, 
-        "TEX": 2, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }, 
-    "MON_M101_A04a": {
-        "Actor": "M101_Summon", 
-        "HP": 5, 
-        "STR": 3, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 0, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M101_A02a": {
-        "Actor": "M101_Summon", 
-        "HP": 5, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 3, 
-        "WIL": 0
-    }, 
-    "MON_M101_B01a": {
-        "Actor": "M101_Summon", 
-        "HP": 5, 
-        "STR": 0, 
-        "TEX": 3, 
-        "QUI": 3, 
-        "VIT": 3, 
-        "INT": 3, 
-        "WIL": 3
-    }, 
-    "MON_M102_A03a": {
-        "Actor": "M102_Summon", 
-        "HP": 0, 
-        "STR": 1, 
-        "TEX": 1, 
-        "QUI": 1, 
-        "VIT": 1, 
-        "INT": 0, 
-        "WIL": 1
-    }, 
-    "MON_M102_A08a": {
-        "Actor": "M102_Summon", 
-        "HP": 0, 
-        "STR": 2, 
-        "TEX": 2, 
-        "QUI": 2, 
-        "VIT": 2, 
-        "INT": 0, 
-        "WIL": 2
-    }, 
-    "MON_M102_A04a": {
-        "Actor": "M102_Summon", 
-        "HP": 3, 
-        "STR": 0, 
-        "TEX": 1, 
-        "QUI": 2, 
-        "VIT": 2, 
-        "INT": 2, 
-        "WIL": 4
-    }, 
-    "MON_M102_A06a": {
-        "Actor": "M102_Summon", 
-        "HP": 4, 
-        "STR": 0, 
-        "TEX": 1, 
-        "QUI": 2, 
-        "VIT": 2, 
-        "INT": 3, 
-        "WIL": 5
-    }, 
-    "MON_M102_A01a": {
-        "Actor": "M102_Summon", 
-        "HP": 2, 
-        "STR": 0, 
-        "TEX": 1, 
-        "QUI": 1, 
-        "VIT": 1, 
-        "INT": 2, 
-        "WIL": 4
-    }, 
-    "MON_M102_A07a": {
-        "Actor": "M102_Summon", 
-        "HP": 0, 
-        "STR": 2, 
-        "TEX": 2, 
-        "QUI": 2, 
-        "VIT": 0, 
-        "INT": 2, 
-        "WIL": 2
-    }
+  "MON_M000_A02a": {
+    "Actor": "M000_Summon",
+    "HP": "1",
+    "Str": "1",
+    "Tec": "1",
+    "Qui": "1",
+    "Vit": "0",
+    "Int": "1",
+    "Wil": "1"
+  },
+  "MON_M000_A01a": {
+    "Actor": "M000_Summon",
+    "HP": "3",
+    "Str": "3",
+    "Tec": "0",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M000_A03a": {
+    "Actor": "M000_Summon",
+    "HP": "0",
+    "Str": "2",
+    "Tec": "3",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M000_A04a": {
+    "Actor": "M000_Summon",
+    "HP": "0",
+    "Str": "2",
+    "Tec": "3",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M000_A05a": {
+    "Actor": "M000_Summon",
+    "HP": "0",
+    "Str": "2",
+    "Tec": "3",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M001_A02a": {
+    "Actor": "M001_Summon",
+    "HP": "3",
+    "Str": "2",
+    "Tec": "2",
+    "Qui": "0",
+    "Vit": "3",
+    "Int": "0",
+    "Wil": "2"
+  },
+  "MON_M001_A04a": {
+    "Actor": "M001_Summon",
+    "HP": "4",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "3",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M002_A01a": {
+    "Actor": "M002_Summon",
+    "HP": "1",
+    "Str": "1",
+    "Tec": "1",
+    "Qui": "1",
+    "Vit": "1",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M002_A02a": {
+    "Actor": "M002_Summon",
+    "HP": "2",
+    "Str": "2",
+    "Tec": "1",
+    "Qui": "0",
+    "Vit": "1",
+    "Int": "1",
+    "Wil": "1"
+  },
+  "MON_M002_A05a": {
+    "Actor": "M002_Summon",
+    "HP": "4",
+    "Str": "3",
+    "Tec": "0",
+    "Qui": "2",
+    "Vit": "2",
+    "Int": "0",
+    "Wil": "2"
+  },
+  "MON_M002_A04a": {
+    "Actor": "M002_Summon",
+    "HP": "3",
+    "Str": "2",
+    "Tec": "2",
+    "Qui": "2",
+    "Vit": "2",
+    "Int": "0",
+    "Wil": "0"
+  },
+  "MON_M002_A03a": {
+    "Actor": "M002_Summon",
+    "HP": "2",
+    "Str": "0",
+    "Tec": "1",
+    "Qui": "0",
+    "Vit": "1",
+    "Int": "2",
+    "Wil": "3"
+  },
+  "MON_M002_A03a_A": {
+    "Actor": "M002_Summon",
+    "HP": "2",
+    "Str": "0",
+    "Tec": "1",
+    "Qui": "0",
+    "Vit": "1",
+    "Int": "2",
+    "Wil": "3"
+  },
+  "MON_M002_A03a_B": {
+    "Actor": "M002_Summon",
+    "HP": "2",
+    "Str": "0",
+    "Tec": "1",
+    "Qui": "0",
+    "Vit": "1",
+    "Int": "2",
+    "Wil": "3"
+  },
+  "MON_M010_A01a": {
+    "Actor": "M010_Summon",
+    "HP": "0",
+    "Str": "2",
+    "Tec": "2",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M010_A02a": {
+    "Actor": "M010_Summon",
+    "HP": "0",
+    "Str": "3",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "4"
+  },
+  "MON_M010_B02a": {
+    "Actor": "M010_Summon",
+    "HP": "0",
+    "Str": "3",
+    "Tec": "3",
+    "Qui": "4",
+    "Vit": "0",
+    "Int": "4",
+    "Wil": "4"
+  },
+  "MON_M010_A04a": {
+    "Actor": "M010_Summon",
+    "HP": "5",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "4"
+  },
+  "MON_M011_A01a": {
+    "Actor": "M011_Summon",
+    "HP": "9",
+    "Str": "6",
+    "Tec": "0",
+    "Qui": "0",
+    "Vit": "5",
+    "Int": "3",
+    "Wil": "4"
+  },
+  "MON_M011_B02a": {
+    "Actor": "M011_Summon",
+    "HP": "11",
+    "Str": "7",
+    "Tec": "0",
+    "Qui": "4",
+    "Vit": "6",
+    "Int": "0",
+    "Wil": "5"
+  },
+  "MON_M012_A03a": {
+    "Actor": "M012_Summon",
+    "HP": "0",
+    "Str": "0",
+    "Tec": "2",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "2"
+  },
+  "MON_M012_A04a": {
+    "Actor": "M012_Summon",
+    "HP": "0",
+    "Str": "0",
+    "Tec": "2",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M021_A01a": {
+    "Actor": "M021_Summon",
+    "HP": "6",
+    "Str": "3",
+    "Tec": "0",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "3"
+  },
+  "MON_M021_A02a": {
+    "Actor": "M021_Summon",
+    "HP": "5",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "3",
+    "Int": "0",
+    "Wil": "4"
+  },
+  "MON_M021_A03a": {
+    "Actor": "M021_Summon",
+    "HP": "8",
+    "Str": "4",
+    "Tec": "0",
+    "Qui": "4",
+    "Vit": "5",
+    "Int": "0",
+    "Wil": "4"
+  },
+  "MON_M021_A04a": {
+    "Actor": "M021_Summon",
+    "HP": "6",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "4"
+  },
+  "MON_M021_A05a": {
+    "Actor": "M021_Summon",
+    "HP": "8",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "6",
+    "Wil": "4"
+  },
+  "MON_M022_A02a": {
+    "Actor": "M022_Summon",
+    "HP": "4",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "0",
+    "Vit": "2",
+    "Int": "2",
+    "Wil": "4"
+  },
+  "MON_M022_A03a": {
+    "Actor": "M022_Summon",
+    "HP": "6",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "0",
+    "Vit": "3",
+    "Int": "4",
+    "Wil": "5"
+  },
+  "MON_M023_A01a": {
+    "Actor": "M023_Summon",
+    "HP": "1",
+    "Str": "1",
+    "Tec": "0",
+    "Qui": "1",
+    "Vit": "1",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M023_A03a": {
+    "Actor": "M023_Summon",
+    "HP": "5",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "0",
+    "Wil": "3"
+  },
+  "MON_M030_A01a": {
+    "Actor": "M030_Summon",
+    "HP": "1",
+    "Str": "1",
+    "Tec": "0",
+    "Qui": "1",
+    "Vit": "1",
+    "Int": "1",
+    "Wil": "1"
+  },
+  "MON_M030_A04a": {
+    "Actor": "M030_Summon",
+    "HP": "3",
+    "Str": "2",
+    "Tec": "0",
+    "Qui": "2",
+    "Vit": "2",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M030_A02a": {
+    "Actor": "M030_Summon",
+    "HP": "0",
+    "Str": "2",
+    "Tec": "0",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "4"
+  },
+  "MON_M031_A01a": {
+    "Actor": "M031_Summon",
+    "HP": "2",
+    "Str": "2",
+    "Tec": "0",
+    "Qui": "1",
+    "Vit": "1",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M031_A01a_A": {
+    "Actor": "M031_Summon",
+    "HP": "2",
+    "Str": "2",
+    "Tec": "0",
+    "Qui": "1",
+    "Vit": "1",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M031_A04a": {
+    "Actor": "M031_Summon",
+    "HP": "0",
+    "Str": "0",
+    "Tec": "2",
+    "Qui": "3",
+    "Vit": "2",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M031_B01a": {
+    "Actor": "M031_Summon",
+    "HP": "2",
+    "Str": "0",
+    "Tec": "1",
+    "Qui": "3",
+    "Vit": "1",
+    "Int": "3",
+    "Wil": "2"
+  },
+  "MON_M032_A01a": {
+    "Actor": "M032_Summon",
+    "HP": "5",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "3",
+    "Int": "4",
+    "Wil": "4"
+  },
+  "MON_M032_A01a_A": {
+    "Actor": "M032_Summon",
+    "HP": "5",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "3",
+    "Int": "4",
+    "Wil": "4"
+  },
+  "MON_M032_A02a": {
+    "Actor": "M032_Summon",
+    "HP": "7",
+    "Str": "4",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "4"
+  },
+  "MON_M032_B01a": {
+    "Actor": "M032_Summon",
+    "HP": "9",
+    "Str": "5",
+    "Tec": "0",
+    "Qui": "5",
+    "Vit": "5",
+    "Int": "5",
+    "Wil": "0"
+  },
+  "MON_M032_B02a": {
+    "Actor": "M032_Summon",
+    "HP": "9",
+    "Str": "5",
+    "Tec": "0",
+    "Qui": "5",
+    "Vit": "8",
+    "Int": "0",
+    "Wil": "5"
+  },
+  "MON_M040_A01a": {
+    "Actor": "M040_Summon",
+    "HP": "2",
+    "Str": "2",
+    "Tec": "0",
+    "Qui": "1",
+    "Vit": "0",
+    "Int": "1",
+    "Wil": "1"
+  },
+  "MON_M040_A03a": {
+    "Actor": "M040_Summon",
+    "HP": "4",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "0"
+  },
+  "MON_M040_A04a": {
+    "Actor": "M040_Summon",
+    "HP": "4",
+    "Str": "3",
+    "Tec": "0",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M040_B02a": {
+    "Actor": "M040_Summon",
+    "HP": "0",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "4",
+    "Vit": "0",
+    "Int": "4",
+    "Wil": "4"
+  },
+  "MON_M041_A02a": {
+    "Actor": "M041_Summon",
+    "HP": "7",
+    "Str": "4",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "4"
+  },
+  "MON_M041_B01a": {
+    "Actor": "M041_Summon",
+    "HP": "7",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "4",
+    "Wil": "4"
+  },
+  "MON_M041_B01a_A": {
+    "Actor": "M041_Summon",
+    "HP": "7",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "4",
+    "Wil": "4"
+  },
+  "MON_M041_B03a": {
+    "Actor": "M041_Summon",
+    "HP": "9",
+    "Str": "5",
+    "Tec": "0",
+    "Qui": "5",
+    "Vit": "5",
+    "Int": "0",
+    "Wil": "5"
+  },
+  "MON_M042_A02a": {
+    "Actor": "M042_Summon",
+    "HP": "5",
+    "Str": "3",
+    "Tec": "0",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "0",
+    "Wil": "3"
+  },
+  "MON_M042_A03a": {
+    "Actor": "M042_Summon",
+    "HP": "7",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "4",
+    "Vit": "4",
+    "Int": "4",
+    "Wil": "4"
+  },
+  "MON_M042_A01a": {
+    "Actor": "M042_Summon",
+    "HP": "6",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "4",
+    "Wil": "0"
+  },
+  "MON_M042_A04a": {
+    "Actor": "M042_Summon",
+    "HP": "7",
+    "Str": "4",
+    "Tec": "4",
+    "Qui": "4",
+    "Vit": "0",
+    "Int": "4",
+    "Wil": "4"
+  },
+  "MON_M050_A06a": {
+    "Actor": "M050_Summon",
+    "HP": "4",
+    "Str": "0",
+    "Tec": "2",
+    "Qui": "0",
+    "Vit": "2",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M050_B02a": {
+    "Actor": "M050_Summon",
+    "HP": "7",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "4",
+    "Wil": "4"
+  },
+  "MON_M051_A01a": {
+    "Actor": "M051_Summon",
+    "HP": "5",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M051_B01a": {
+    "Actor": "M051_Summon",
+    "HP": "7",
+    "Str": "4",
+    "Tec": "0",
+    "Qui": "4",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "4"
+  },
+  "MON_M051_B02a": {
+    "Actor": "M051_Summon",
+    "HP": "0",
+    "Str": "0",
+    "Tec": "4",
+    "Qui": "5",
+    "Vit": "0",
+    "Int": "0",
+    "Wil": "4"
+  },
+  "MON_M052_A01a": {
+    "Actor": "M052_Summon",
+    "HP": "6",
+    "Str": "3",
+    "Tec": "3",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "3"
+  },
+  "MON_M052_B02a": {
+    "Actor": "M052_Summon",
+    "HP": "10",
+    "Str": "6",
+    "Tec": "0",
+    "Qui": "5",
+    "Vit": "5",
+    "Int": "5",
+    "Wil": "5"
+  },
+  "MON_M070_A01a": {
+    "Actor": "M070_Summon",
+    "HP": "2",
+    "Str": "1",
+    "Tec": "0",
+    "Qui": "1",
+    "Vit": "2",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M070_A02a": {
+    "Actor": "M070_Summon",
+    "HP": "0",
+    "Str": "3",
+    "Tec": "2",
+    "Qui": "0",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M070_A03a": {
+    "Actor": "M070_Summon",
+    "HP": "6",
+    "Str": "3",
+    "Tec": "0",
+    "Qui": "3",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "3"
+  },
+  "MON_M070_A04a": {
+    "Actor": "M070_Summon",
+    "HP": "0",
+    "Str": "0",
+    "Tec": "0",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M071_A02a": {
+    "Actor": "M071_Summon",
+    "HP": "6",
+    "Str": "4",
+    "Tec": "3",
+    "Qui": "0",
+    "Vit": "3",
+    "Int": "0",
+    "Wil": "3"
+  },
+  "MON_M071_A03a": {
+    "Actor": "M071_Summon",
+    "HP": "7",
+    "Str": "4",
+    "Tec": "4",
+    "Qui": "4",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "0"
+  },
+  "MON_M071_B01a": {
+    "Actor": "M071_Summon",
+    "HP": "8",
+    "Str": "5",
+    "Tec": "4",
+    "Qui": "0",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "0"
+  },
+  "MON_M072_A01a": {
+    "Actor": "M072_Summon",
+    "HP": "3",
+    "Str": "2",
+    "Tec": "2",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M072_B03a": {
+    "Actor": "M072_Summon",
+    "HP": "4",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M072_B03a_A": {
+    "Actor": "M072_Summon",
+    "HP": "4",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M072_B01a": {
+    "Actor": "M072_Summon",
+    "HP": "6",
+    "Str": "4",
+    "Tec": "0",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M080_A01a": {
+    "Actor": "M080_Summon",
+    "HP": "0",
+    "Str": "2",
+    "Tec": "0",
+    "Qui": "1",
+    "Vit": "0",
+    "Int": "1",
+    "Wil": "1"
+  },
+  "MON_M080_A05a": {
+    "Actor": "M080_Summon",
+    "HP": "0",
+    "Str": "3",
+    "Tec": "2",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M080_A04a": {
+    "Actor": "M080_Summon",
+    "HP": "5",
+    "Str": "3",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "0",
+    "Wil": "3"
+  },
+  "MON_M080_A03a": {
+    "Actor": "M080_Summon",
+    "HP": "0",
+    "Str": "3",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "4",
+    "Wil": "3"
+  },
+  "MON_M081_A01a": {
+    "Actor": "M081_Summon",
+    "HP": "2",
+    "Str": "1",
+    "Tec": "1",
+    "Qui": "1",
+    "Vit": "2",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M081_A01a_A": {
+    "Actor": "M081_Summon",
+    "HP": "2",
+    "Str": "1",
+    "Tec": "1",
+    "Qui": "1",
+    "Vit": "2",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M081_A05a": {
+    "Actor": "M081_Summon",
+    "HP": "3",
+    "Str": "2",
+    "Tec": "0",
+    "Qui": "2",
+    "Vit": "2",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M081_A05a_A": {
+    "Actor": "M081_Summon",
+    "HP": "3",
+    "Str": "2",
+    "Tec": "0",
+    "Qui": "2",
+    "Vit": "2",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M081_A03a": {
+    "Actor": "M081_Summon",
+    "HP": "0",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M081_A03a_A": {
+    "Actor": "M081_Summon",
+    "HP": "0",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M082_A03a": {
+    "Actor": "M082_Summon",
+    "HP": "2",
+    "Str": "0",
+    "Tec": "2",
+    "Qui": "1",
+    "Vit": "1",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M082_A02a": {
+    "Actor": "M082_Summon",
+    "HP": "0",
+    "Str": "1",
+    "Tec": "1",
+    "Qui": "1",
+    "Vit": "1",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M090_A04a": {
+    "Actor": "M090_Summon",
+    "HP": "0",
+    "Str": "0",
+    "Tec": "2",
+    "Qui": "2",
+    "Vit": "2",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M090_A01a": {
+    "Actor": "M090_Summon",
+    "HP": "4",
+    "Str": "0",
+    "Tec": "2",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "4",
+    "Wil": "3"
+  },
+  "MON_M090_A02a": {
+    "Actor": "M090_Summon",
+    "HP": "4",
+    "Str": "0",
+    "Tec": "2",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "4",
+    "Wil": "3"
+  },
+  "MON_M100_A01a": {
+    "Actor": "M100_Summon",
+    "HP": "6",
+    "Str": "4",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "0",
+    "Wil": "3"
+  },
+  "MON_M100_B01a": {
+    "Actor": "M100_Summon",
+    "HP": "0",
+    "Str": "3",
+    "Tec": "4",
+    "Qui": "4",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "4"
+  },
+  "MON_M100_B01a_A": {
+    "Actor": "M100_Summon",
+    "HP": "0",
+    "Str": "3",
+    "Tec": "4",
+    "Qui": "4",
+    "Vit": "4",
+    "Int": "0",
+    "Wil": "4"
+  },
+  "MON_M100_B02a": {
+    "Actor": "M100_Summon",
+    "HP": "9",
+    "Str": "5",
+    "Tec": "5",
+    "Qui": "5",
+    "Vit": "5",
+    "Int": "0",
+    "Wil": "5"
+  },
+  "MON_M101_A01a": {
+    "Actor": "M101_Summon",
+    "HP": "0",
+    "Str": "2",
+    "Tec": "2",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  },
+  "MON_M101_A04a": {
+    "Actor": "M101_Summon",
+    "HP": "5",
+    "Str": "3",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "0",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M101_A02a": {
+    "Actor": "M101_Summon",
+    "HP": "5",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "3",
+    "Wil": "0"
+  },
+  "MON_M101_B01a": {
+    "Actor": "M101_Summon",
+    "HP": "5",
+    "Str": "0",
+    "Tec": "3",
+    "Qui": "3",
+    "Vit": "3",
+    "Int": "3",
+    "Wil": "3"
+  },
+  "MON_M102_A03a": {
+    "Actor": "M102_Summon",
+    "HP": "0",
+    "Str": "1",
+    "Tec": "1",
+    "Qui": "1",
+    "Vit": "1",
+    "Int": "0",
+    "Wil": "1"
+  },
+  "MON_M102_A08a": {
+    "Actor": "M102_Summon",
+    "HP": "0",
+    "Str": "2",
+    "Tec": "2",
+    "Qui": "2",
+    "Vit": "2",
+    "Int": "0",
+    "Wil": "2"
+  },
+  "MON_M102_A04a": {
+    "Actor": "M102_Summon",
+    "HP": "3",
+    "Str": "0",
+    "Tec": "1",
+    "Qui": "2",
+    "Vit": "2",
+    "Int": "2",
+    "Wil": "4"
+  },
+  "MON_M102_A06a": {
+    "Actor": "M102_Summon",
+    "HP": "4",
+    "Str": "0",
+    "Tec": "1",
+    "Qui": "2",
+    "Vit": "2",
+    "Int": "3",
+    "Wil": "5"
+  },
+  "MON_M102_A01a": {
+    "Actor": "M102_Summon",
+    "HP": "2",
+    "Str": "0",
+    "Tec": "1",
+    "Qui": "1",
+    "Vit": "1",
+    "Int": "2",
+    "Wil": "4"
+  },
+  "MON_M102_A07a": {
+    "Actor": "M102_Summon",
+    "HP": "0",
+    "Str": "2",
+    "Tec": "2",
+    "Qui": "2",
+    "Vit": "0",
+    "Int": "2",
+    "Wil": "2"
+  }
 }

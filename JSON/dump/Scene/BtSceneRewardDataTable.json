@@ -1,62 +1,126 @@
-{
-  "DefaultReward": {
-    "RewardItem0": "SOZAI_SPIRIT_STONE",
-    "RewardAmount0": "2",
-    "RewardItem1": "SOZAI_SPIRIT_STONE",
-    "RewardAmount1": "4",
-    "RewardItem2": "SOZAI_IRON_ORE",
-    "RewardAmount2": "1",
-    "RewardItem3": "SOZAI_MAGIC_STONE",
-    "RewardAmount3": "1"
+[
+  {
+    "ID": "DefaultReward", 
+    "Drops": [
+      {
+        "Item": "SOZAI_SPIRIT_STONE",
+        "Amount": "2"
+      },
+      {
+        "Item": "SOZAI_SPIRIT_STONE",
+        "Amount": "4"
+      },
+      {
+        "Item": "SOZAI_IRON_ORE",
+        "Amount": "1"
+      },
+      {
+        "Item": "SOZAI_MAGIC_STONE",
+        "Amount": "1"
+      }
+    ]
+  }, {
+  "ID": "DefaultReward_Moku",
+  "Drops":  [
+      {
+        "Item": "SOZAI_FE_MOKU",
+        "Amount": "1"
+      },
+      {
+        "Item": "SOZAI_FE_MOKU",
+        "Amount": "2"
+      },
+      {
+        "Item": "SOZAI_FE_MOKU",
+        "Amount": "4"
+      },
+      {
+        "Item": "SOZAI_FE_MOKU",
+        "Amount": "10"
+      }
+    ]
+  }, {
+  "ID": "DefaultReward_Ka",
+  "Drops": [
+      {
+        "Item": "SOZAI_FE_MOKU",
+        "Amount": "1"
+      },
+      {
+        "Item": "SOZAI_FE_MOKU",
+        "Amount": "2"
+      },
+      {
+        "Item": "SOZAI_FE_MOKU",
+        "Amount": "4"
+      },
+      {
+        "Item": "SOZAI_FE_MOKU",
+        "Amount": "10"
+      }
+    ]
   },
-  "DefaultReward_Moku": {
-    "RewardItem0": "SOZAI_FE_MOKU",
-    "RewardAmount0": "1",
-    "RewardItem1": "SOZAI_FE_MOKU",
-    "RewardAmount1": "2",
-    "RewardItem2": "SOZAI_FE_MOKU",
-    "RewardAmount2": "4",
-    "RewardItem3": "SOZAI_FE_MOKU",
-    "RewardAmount3": "10"
+  {
+    "ID": "DefaultReward_Do",
+    "Drops": [
+      {
+        "Item": "SOZAI_FE_DO",
+        "Amount": "1"
+      },
+      {
+        "Item": "SOZAI_FE_DO",
+        "Amount": "2"
+      },
+      {
+        "Item": "SOZAI_FE_DO",
+        "Amount": "4"
+      },
+      {
+        "Item": "SOZAI_FE_DO",
+        "Amount": "10"
+      }
+    ]
   },
-  "DefaultReward_Ka": {
-    "RewardItem0": "SOZAI_FE_KA",
-    "RewardAmount0": "1",
-    "RewardItem1": "SOZAI_FE_KA",
-    "RewardAmount1": "2",
-    "RewardItem2": "SOZAI_FE_KA",
-    "RewardAmount2": "4",
-    "RewardItem3": "SOZAI_FE_KA",
-    "RewardAmount3": "10"
+  {
+    "ID": "DefaultReward_Kin",
+    "Drops": [
+      {
+        "Item": "SOZAI_FE_KIN",
+        "Amount": "1"
+      },
+      {
+        "Item": "SOZAI_FE_KIN",
+        "Amount": "2"
+      },
+      {
+        "Item": "SOZAI_FE_KIN",
+        "Amount": "4"
+      },
+      {
+        "Item": "SOZAI_FE_KIN",
+        "Amount": "10"
+      }
+    ]
   },
-  "DefaultReward_Do": {
-    "RewardItem0": "SOZAI_FE_DO",
-    "RewardAmount0": "1",
-    "RewardItem1": "SOZAI_FE_DO",
-    "RewardAmount1": "2",
-    "RewardItem2": "SOZAI_FE_DO",
-    "RewardAmount2": "4",
-    "RewardItem3": "SOZAI_FE_DO",
-    "RewardAmount3": "10"
-  },
-  "DefaultReward_Kin": {
-    "RewardItem0": "SOZAI_FE_KIN",
-    "RewardAmount0": "1",
-    "RewardItem1": "SOZAI_FE_KIN",
-    "RewardAmount1": "2",
-    "RewardItem2": "SOZAI_FE_KIN",
-    "RewardAmount2": "4",
-    "RewardItem3": "SOZAI_FE_KIN",
-    "RewardAmount3": "10"
-  },
-  "DefaultReward_Sui": {
-    "RewardItem0": "SOZAI_FE_SUI",
-    "RewardAmount0": "1",
-    "RewardItem1": "SOZAI_FE_SUI",
-    "RewardAmount1": "2",
-    "RewardItem2": "SOZAI_FE_SUI",
-    "RewardAmount2": "4",
-    "RewardItem3": "SOZAI_FE_SUI",
-    "RewardAmount3": "10"
+  {
+    "ID": "DefaultReward_Sui",
+    "Drops": [
+      {
+        "Item": "SOZAI_FE_SUI",
+        "Amount": "1"
+      },
+      {
+        "Item": "SOZAI_FE_SUI",
+        "Amount": "2"
+      },
+      {
+        "Item": "SOZAI_FE_SUI",
+        "Amount": "4"
+      },
+      {
+        "Item": "SOZAI_FE_SUI",
+        "Amount": "10"
+      }
+    ]
   }
-}
+]

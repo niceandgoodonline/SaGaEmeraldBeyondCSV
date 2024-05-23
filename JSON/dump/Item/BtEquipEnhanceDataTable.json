@@ -57,7 +57,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_008"
         }
     }, 
@@ -409,7 +409,7 @@
                 "SOZAI_SCREAM_ROOT": 2, 
                 "SOZAI_FE_DO": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_035"
         }
     }, 
@@ -527,7 +527,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_044"
         }
     }, 
@@ -1001,7 +1001,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_080"
         }
     }, 
@@ -1508,7 +1508,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_119"
         }
     }, 
@@ -1960,7 +1960,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_153"
         }
     }, 
@@ -2456,7 +2456,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_193"
         }
     }, 
@@ -2887,7 +2887,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_229"
         }
     }, 
@@ -3361,7 +3361,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_265"
         }
     }, 
@@ -3370,7 +3370,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_266"
         }
     }, 
@@ -4291,7 +4291,7 @@
             "Materials": {
                 "SOZAI_SPIRIT_STONE": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_362"
         }
     }, 
@@ -5116,7 +5116,7 @@
                 "SOZAI_BIG_BEAST_FANG": 1, 
                 "SOZAI_FE_KIN": 30
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_400"
         }
     }, 
@@ -5186,7 +5186,7 @@
                 "SOZAI_FUR": 2, 
                 "SOZAI_FE_KA": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_407"
         }
     }, 
@@ -5196,7 +5196,7 @@
                 "SOZAI_FUR": 2, 
                 "SOZAI_FE_KA": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_408"
         }
     }, 
@@ -5206,7 +5206,7 @@
                 "SOZAI_FUR": 2, 
                 "SOZAI_FE_KA": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_409"
         }, 
         "MAFA01_A": {
@@ -5215,7 +5215,7 @@
                 "SOZAI_INSECT_SHELL": 2, 
                 "SOZAI_FE_KIN": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_410"
         }
     }, 
@@ -5225,7 +5225,7 @@
                 "SOZAI_INSECT_SHELL": 2, 
                 "SOZAI_FE_KIN": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_411"
         }
     }, 
@@ -5236,7 +5236,7 @@
                 "SOZAI_SCREAM_ROOT": 3, 
                 "SOZAI_FE_KIN": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_412"
         }, 
         "MANA_BEAST01": {
@@ -5245,7 +5245,7 @@
                 "SOZAI_BEAST_FANG": 2, 
                 "SOZAI_FE_MOKU": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_413"
         }, 
         "MANA_BONE01": {
@@ -5254,7 +5254,7 @@
                 "SOZAI_BEAST_BONE": 2, 
                 "SOZAI_FE_KA": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_414"
         }, 
         "MANA_SNAKE01": {
@@ -5263,7 +5263,7 @@
                 "SOZAI_SNAKESKIN": 2, 
                 "SOZAI_FE_DO": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_415"
         }
     }, 
@@ -5274,7 +5274,7 @@
                 "SOZAI_SCREAM_ROOT": 3, 
                 "SOZAI_FE_KIN": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_416"
         }, 
         "MANA07_A": {
@@ -5283,7 +5283,7 @@
                 "SOZAI_FUR": 8, 
                 "SOZAI_FE_SUI": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_417"
         }, 
         "MANA_BEAST02": {
@@ -5292,7 +5292,7 @@
                 "SOZAI_INSECT_SHELL": 8, 
                 "SOZAI_FE_MOKU": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_418"
         }
     }, 
@@ -5303,7 +5303,7 @@
                 "SOZAI_SCREAM_ROOT": 3, 
                 "SOZAI_FE_KIN": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_419"
         }, 
         "MANA_BEAST02": {
@@ -5312,7 +5312,7 @@
                 "SOZAI_INSECT_SHELL": 8, 
                 "SOZAI_FE_MOKU": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_420"
         }, 
         "MANA_BONE02": {
@@ -5321,7 +5321,7 @@
                 "SOZAI_BEAST_BONE": 8, 
                 "SOZAI_FE_KA": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_421"
         }
     }, 
@@ -5332,7 +5332,7 @@
                 "SOZAI_SCREAM_ROOT": 3, 
                 "SOZAI_FE_KIN": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_422"
         }, 
         "MANA_BONE02": {
@@ -5341,7 +5341,7 @@
                 "SOZAI_BEAST_BONE": 8, 
                 "SOZAI_FE_KA": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_423"
         }, 
         "MANA_SNAKE02": {
@@ -5350,7 +5350,7 @@
                 "SOZAI_SNAKESKIN": 3, 
                 "SOZAI_FE_DO": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_424"
         }
     }, 
@@ -5361,7 +5361,7 @@
                 "SOZAI_FUR": 8, 
                 "SOZAI_FE_SUI": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_425"
         }, 
         "MANA_BEAST02": {
@@ -5370,7 +5370,7 @@
                 "SOZAI_INSECT_SHELL": 8, 
                 "SOZAI_FE_MOKU": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_426"
         }, 
         "MANA_BONE02": {
@@ -5379,7 +5379,7 @@
                 "SOZAI_BEAST_BONE": 8, 
                 "SOZAI_FE_KA": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_427"
         }, 
         "MANA_SNAKE02": {
@@ -5388,7 +5388,7 @@
                 "SOZAI_SNAKESKIN": 3, 
                 "SOZAI_FE_DO": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_428"
         }
     }, 
@@ -5399,7 +5399,7 @@
                 "SOZAI_FIBER": 12, 
                 "SOZAI_FE_DO": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_429"
         }, 
         "MANA_BEAST03": {
@@ -5408,7 +5408,7 @@
                 "SOZAI_OAK": 1, 
                 "SOZAI_INSECT_SHELL": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_430"
         }, 
         "MANA_BONE03": {
@@ -5417,7 +5417,7 @@
                 "SOZAI_DISK_FLOWER": 1, 
                 "SOZAI_BEAST_BONE": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_431"
         }, 
         "MANA_SNAKE03": {
@@ -5437,7 +5437,7 @@
                 "SOZAI_FIBER": 12, 
                 "SOZAI_FE_DO": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_433"
         }, 
         "MANA_BEAST03": {
@@ -5446,7 +5446,7 @@
                 "SOZAI_OAK": 1, 
                 "SOZAI_INSECT_SHELL": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_434"
         }, 
         "MANA_BONE03": {
@@ -5455,7 +5455,7 @@
                 "SOZAI_DISK_FLOWER": 1, 
                 "SOZAI_BEAST_BONE": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_435"
         }, 
         "MANA_SNAKE03": {
@@ -5475,7 +5475,7 @@
                 "SOZAI_FIBER": 12, 
                 "SOZAI_FE_DO": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_437"
         }, 
         "MANA_BEAST03": {
@@ -5484,7 +5484,7 @@
                 "SOZAI_OAK": 1, 
                 "SOZAI_INSECT_SHELL": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_438"
         }, 
         "MANA_BONE03": {
@@ -5493,7 +5493,7 @@
                 "SOZAI_DISK_FLOWER": 1, 
                 "SOZAI_BEAST_BONE": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_439"
         }, 
         "MANA_SNAKE03": {
@@ -5513,7 +5513,7 @@
                 "SOZAI_FIBER": 12, 
                 "SOZAI_FE_DO": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_441"
         }, 
         "MANA_BEAST03": {
@@ -5522,7 +5522,7 @@
                 "SOZAI_OAK": 1, 
                 "SOZAI_INSECT_SHELL": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_442"
         }, 
         "MANA_BONE03": {
@@ -5531,7 +5531,7 @@
                 "SOZAI_DISK_FLOWER": 1, 
                 "SOZAI_BEAST_BONE": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_443"
         }, 
         "MANA_SNAKE03": {
@@ -5551,7 +5551,7 @@
                 "SOZAI_SQUID_FIN": 1, 
                 "SOZAI_ALURA": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_445"
         }, 
         "MANA_BEAST03": {
@@ -5560,7 +5560,7 @@
                 "SOZAI_OAK": 1, 
                 "SOZAI_INSECT_SHELL": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_446"
         }, 
         "MANA_BONE03": {
@@ -5569,7 +5569,7 @@
                 "SOZAI_DISK_FLOWER": 1, 
                 "SOZAI_BEAST_BONE": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_447"
         }
     }, 
@@ -5591,7 +5591,7 @@
                 "SOZAI_SQUID_FIN": 1, 
                 "SOZAI_ALURA": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_449"
         }, 
         "MANA_BEAST03": {
@@ -5600,7 +5600,7 @@
                 "SOZAI_OAK": 1, 
                 "SOZAI_INSECT_SHELL": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_450"
         }, 
         "MANA_BONE03": {
@@ -5609,7 +5609,7 @@
                 "SOZAI_DISK_FLOWER": 1, 
                 "SOZAI_BEAST_BONE": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_451"
         }, 
         "MANA_SNAKE04": {
@@ -5629,7 +5629,7 @@
                 "SOZAI_SQUID_FIN": 1, 
                 "SOZAI_FE_SUI": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_453"
         }, 
         "MANA_BEAST04": {
@@ -5638,7 +5638,7 @@
                 "SOZAI_MAGICAL_BEAST_FUR": 1, 
                 "SOZAI_FE_DO": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_454"
         }, 
         "MANA_BONE04": {
@@ -5647,7 +5647,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_FE_KA": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_455"
         }
     }, 
@@ -5658,7 +5658,7 @@
                 "SOZAI_SQUID_FIN": 1, 
                 "SOZAI_FE_SUI": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_456"
         }, 
         "MANA_BEAST04": {
@@ -5667,7 +5667,7 @@
                 "SOZAI_MAGICAL_BEAST_FUR": 1, 
                 "SOZAI_FE_DO": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_457"
         }, 
         "MANA_BONE04": {
@@ -5676,7 +5676,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_FE_KA": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_458"
         }
     }, 
@@ -5687,7 +5687,7 @@
                 "SOZAI_SQUID_FIN": 1, 
                 "SOZAI_FE_SUI": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_459"
         }, 
         "MANA_BEAST04": {
@@ -5696,7 +5696,7 @@
                 "SOZAI_MAGICAL_BEAST_FUR": 1, 
                 "SOZAI_FE_DO": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_460"
         }, 
         "MANA_BONE04": {
@@ -5705,7 +5705,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_FE_KA": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_461"
         }
     }, 
@@ -5749,7 +5749,7 @@
                 "SOZAI_INSECT_SHELL": 3, 
                 "SOZAI_FE_KA": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_465"
         }, 
         "MAFA01_A": {
@@ -5758,7 +5758,7 @@
                 "SOZAI_INSECT_SHELL": 2, 
                 "SOZAI_FE_KIN": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_466"
         }
     }, 
@@ -5769,7 +5769,7 @@
                 "SOZAI_SCRUB": 3, 
                 "SOZAI_FE_SUI": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_467"
         }, 
         "MAFA02_A": {
@@ -5778,7 +5778,7 @@
                 "SOZAI_INSECT_SHELL": 3, 
                 "SOZAI_FE_KA": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_468"
         }
     }, 
@@ -5789,7 +5789,7 @@
                 "SOZAI_SPIRIT_STONE": 10, 
                 "SOZAI_FE_KIN": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_469"
         }, 
         "MAFA03_A": {
@@ -5798,7 +5798,7 @@
                 "SOZAI_SPIRIT_STONE": 10, 
                 "SOZAI_BEAST_BONE": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_470"
         }
     }, 
@@ -5809,7 +5809,7 @@
                 "SOZAI_MAGICAL_BEAST_FUR": 1, 
                 "SOZAI_FEATHER": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_471"
         }, 
         "MAFA04_A": {
@@ -5818,7 +5818,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_INSECT_SHELL": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_472"
         }
     }, 
@@ -5829,7 +5829,7 @@
                 "SOZAI_MULLOCK": 16, 
                 "SOZAI_ORB": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_473"
         }, 
         "MAFA05_A": {
@@ -5838,7 +5838,7 @@
                 "SOZAI_BIG_BEAST_BONE": 1, 
                 "SOZAI_SPIRIT_STONE": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_476"
         }
     }, 
@@ -5849,7 +5849,7 @@
                 "SOZAI_DRAGON_SCALE": 1, 
                 "SOZAI_ORB": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_474"
         }, 
         "MAFA06_A": {
@@ -5858,7 +5858,7 @@
                 "SOZAI_NATIVE_SILVER": 2, 
                 "SOZAI_SPIRIT_STONE": 32
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_475"
         }
     }, 
@@ -5869,7 +5869,7 @@
                 "SOZAI_INSECT_SHELL": 3, 
                 "SOZAI_FE_KA": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_477"
         }
     }, 
@@ -5880,7 +5880,7 @@
                 "SOZAI_SPIRIT_STONE": 10, 
                 "SOZAI_BEAST_BONE": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_478"
         }
     }, 
@@ -5891,7 +5891,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_INSECT_SHELL": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_479"
         }, 
         "MAFA08_A": {
@@ -5911,7 +5911,7 @@
                 "SOZAI_BIG_BEAST_BONE": 1, 
                 "SOZAI_SPIRIT_STONE": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_481"
         }, 
         "MAFA09_A": {
@@ -5931,7 +5931,7 @@
                 "SOZAI_NATIVE_SILVER": 2, 
                 "SOZAI_SPIRIT_STONE": 32
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_483"
         }, 
         "MAFA07_A": {
@@ -5971,7 +5971,7 @@
             "Materials": {
                 "SOZAI_FIBER": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_487"
         }
     }, 
@@ -6004,7 +6004,7 @@
                 "SOZAI_FIBER": 3, 
                 "SOZAI_FE_MOKU": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_490"
         }
     }, 
@@ -6015,7 +6015,7 @@
                 "SOZAI_GELATIN": 1, 
                 "SOZAI_FE_MOKU": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_491"
         }, 
         "MARO10_A": {
@@ -6024,7 +6024,7 @@
                 "SOZAI_LIGULATE_FLOWER": 1, 
                 "SOZAI_FE_SUI": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_492"
         }
     }, 
@@ -6035,7 +6035,7 @@
                 "SOZAI_FIBER": 8, 
                 "SOZAI_LIGULATE_FLOWER": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_493"
         }
     }, 
@@ -6046,7 +6046,7 @@
                 "SOZAI_GELATIN": 2, 
                 "SOZAI_FE_KIN": 16
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_494"
         }, 
         "MARO11_A": {
@@ -6066,7 +6066,7 @@
                 "SOZAI_OAK": 2, 
                 "SOZAI_FE_DO": 20
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_496"
         }, 
         "MARO11_B": {
@@ -6086,7 +6086,7 @@
                 "SOZAI_SCREAM_ROOT": 8, 
                 "SOZAI_FE_DO": 24
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_498"
         }, 
         "MARO11_C": {
@@ -6106,7 +6106,7 @@
                 "SOZAI_FIBER": 8, 
                 "SOZAI_LIGULATE_FLOWER": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_500"
         }, 
         "MARO11_A": {
@@ -6146,7 +6146,7 @@
             "Materials": {
                 "SOZAI_FIBER": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_504"
         }, 
         "MARO_ALL01": {
@@ -6283,7 +6283,7 @@
             "Materials": {
                 "SOZAI_FIBER": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_517"
         }
     }, 
@@ -6294,7 +6294,7 @@
                 "SOZAI_BEAST_CLAW": 2, 
                 "SOZAI_FE_DO": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_518"
         }, 
         "SAIN03_A": {
@@ -6303,7 +6303,7 @@
                 "SOZAI_ALURA": 1, 
                 "SOZAI_FE_SUI": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_519"
         }
     }, 
@@ -6314,7 +6314,7 @@
                 "SOZAI_GELATIN": 2, 
                 "SOZAI_FE_MOKU": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_520"
         }, 
         "SAIN06_A": {
@@ -6323,7 +6323,7 @@
                 "SOZAI_INSECT_SHELL": 6, 
                 "SOZAI_SPIRIT_STONE": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_521"
         }
     }, 
@@ -6334,7 +6334,7 @@
                 "SOZAI_FIBER": 8, 
                 "SOZAI_FE_KA": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_522"
         }, 
         "SAIN07_A": {
@@ -6343,7 +6343,7 @@
                 "SOZAI_COCONUT": 1, 
                 "SOZAI_FE_SUI": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_523"
         }
     }, 
@@ -6354,7 +6354,7 @@
                 "SOZAI_BEAST_CLAW": 2, 
                 "SOZAI_FE_DO": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_524"
         }, 
         "SAIN05_A": {
@@ -6363,7 +6363,7 @@
                 "SOZAI_GELATIN": 2, 
                 "SOZAI_FE_MOKU": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_525"
         }, 
         "SAIN08_A": {
@@ -6383,7 +6383,7 @@
                 "SOZAI_COCONUT": 1, 
                 "SOZAI_FE_SUI": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_527"
         }, 
         "SAIN06_A": {
@@ -6392,7 +6392,7 @@
                 "SOZAI_INSECT_SHELL": 6, 
                 "SOZAI_SPIRIT_STONE": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_528"
         }, 
         "SAIN09_A": {
@@ -6421,7 +6421,7 @@
                 "SOZAI_GELATIN": 2, 
                 "SOZAI_FE_MOKU": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_531"
         }
     }, 
@@ -6486,7 +6486,7 @@
                 "SOZAI_FIBER": 1, 
                 "SOZAI_FEATHER": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_537"
         }, 
         "SAHE11_A": {
@@ -6494,7 +6494,7 @@
                 "SOZAI_BEAST_BONE": 1, 
                 "SOZAI_FE_DO": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_538"
         }
     }, 
@@ -6514,7 +6514,7 @@
                 "SOZAI_BEAST_BONE": 2, 
                 "SOZAI_FE_DO": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_540"
         }, 
         "SAHE12_A": {
@@ -6523,7 +6523,7 @@
                 "SOZAI_BEAST_FANG": 2, 
                 "SOZAI_FE_MOKU": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_541"
         }
     }, 
@@ -6543,7 +6543,7 @@
                 "SOZAI_BEAST_BONE": 2, 
                 "SOZAI_FE_DO": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_543"
         }
     }, 
@@ -6563,7 +6563,7 @@
                 "SOZAI_FEATHER": 4, 
                 "SOZAI_FE_MOKU": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_545"
         }
     }, 
@@ -6583,7 +6583,7 @@
                 "SOZAI_BEAST_BONE": 2, 
                 "SOZAI_FE_DO": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_547"
         }, 
         "SAHE12_A": {
@@ -6592,7 +6592,7 @@
                 "SOZAI_BEAST_FANG": 2, 
                 "SOZAI_FE_MOKU": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_548"
         }
     }, 
@@ -6612,7 +6612,7 @@
                 "SOZAI_SPIRIT_STONE": 5, 
                 "SOZAI_FE_KIN": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_550"
         }, 
         "SAHE07_A": {
@@ -6632,7 +6632,7 @@
                 "SOZAI_BEAST_BONE": 2, 
                 "SOZAI_FE_DO": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_552"
         }, 
         "SAHE13_A": {
@@ -6641,7 +6641,7 @@
                 "SOZAI_INSECT_SHELL": 2, 
                 "SOZAI_FE_KIN": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_553"
         }
     }, 
@@ -6661,7 +6661,7 @@
                 "SOZAI_SPIRIT_STONE": 5, 
                 "SOZAI_FE_KIN": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_555"
         }
     }, 
@@ -6672,7 +6672,7 @@
                 "SOZAI_FEATHER": 4, 
                 "SOZAI_FE_MOKU": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_556"
         }
     }, 
@@ -6692,7 +6692,7 @@
                 "SOZAI_FEATHER": 8, 
                 "SOZAI_FE_DO": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_558"
         }
     }, 
@@ -6703,7 +6703,7 @@
                 "SOZAI_SQUID_FIN": 1, 
                 "SOZAI_FE_DO": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_559"
         }, 
         "SAHE05_B": {
@@ -6732,7 +6732,7 @@
                 "SOZAI_SQUID_FIN": 1, 
                 "SOZAI_FE_DO": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_562"
         }
     }, 
@@ -6764,7 +6764,7 @@
                 "SOZAI_FIBER": 1, 
                 "SOZAI_FEATHER": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_565"
         }
     }, 
@@ -6775,7 +6775,7 @@
                 "SOZAI_BEAST_FANG": 2, 
                 "SOZAI_FE_KA": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_566"
         }
     }, 
@@ -6786,7 +6786,7 @@
                 "SOZAI_SCREAM_ROOT": 4, 
                 "SOZAI_FE_KA": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_567"
         }
     }, 
@@ -6797,7 +6797,7 @@
                 "SOZAI_SQUID_FIN": 1, 
                 "SOZAI_FE_KA": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_568"
         }
     }, 
@@ -6808,7 +6808,7 @@
                 "SOZAI_LIGULATE_FLOWER": 1, 
                 "SOZAI_FE_SUI": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_569"
         }, 
         "SAHE12_A": {
@@ -6817,7 +6817,7 @@
                 "SOZAI_BEAST_FANG": 2, 
                 "SOZAI_FE_MOKU": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_570"
         }
     }, 
@@ -6828,7 +6828,7 @@
                 "SOZAI_FEATHER": 1, 
                 "SOZAI_FE_KA": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_571"
         }, 
         "SAHE18_B": {
@@ -6837,7 +6837,7 @@
                 "SOZAI_FEATHER": 1, 
                 "SOZAI_FE_MOKU": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_572"
         }, 
         "SAHE18_C": {
@@ -6846,7 +6846,7 @@
                 "SOZAI_FEATHER": 1, 
                 "SOZAI_FE_DO": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_573"
         }, 
         "SAHE18_D": {
@@ -6855,7 +6855,7 @@
                 "SOZAI_FEATHER": 1, 
                 "SOZAI_FE_SUI": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_574"
         }, 
         "SAHE19_A": {
@@ -6864,7 +6864,7 @@
                 "SOZAI_FEATHER": 2, 
                 "SOZAI_FE_KIN": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_575"
         }
     }, 
@@ -6875,7 +6875,7 @@
                 "SOZAI_FE_KA": 6, 
                 "SOZAI_FE_DO": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_576"
         }, 
         "SAHE18_F": {
@@ -6884,7 +6884,7 @@
                 "SOZAI_FE_KA": 6, 
                 "SOZAI_FE_SUI": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_577"
         }
     }, 
@@ -6895,7 +6895,7 @@
                 "SOZAI_FE_SUI": 6, 
                 "SOZAI_FE_DO": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_578"
         }, 
         "SAHE18_H": {
@@ -6904,7 +6904,7 @@
                 "SOZAI_FE_SUI": 6, 
                 "SOZAI_FE_MOKU": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_579"
         }
     }, 
@@ -6915,7 +6915,7 @@
                 "SOZAI_FE_KA": 6, 
                 "SOZAI_FE_DO": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_580"
         }, 
         "SAHE18_G": {
@@ -6924,7 +6924,7 @@
                 "SOZAI_FE_SUI": 6, 
                 "SOZAI_FE_DO": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_581"
         }
     }, 
@@ -6935,7 +6935,7 @@
                 "SOZAI_FE_KA": 6, 
                 "SOZAI_FE_SUI": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_582"
         }, 
         "SAHE18_H": {
@@ -6944,7 +6944,7 @@
                 "SOZAI_FE_SUI": 6, 
                 "SOZAI_FE_MOKU": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_583"
         }
     }, 
@@ -6955,7 +6955,7 @@
                 "SOZAI_NATIVE_SILVER": 1, 
                 "SOZAI_ORB": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_584"
         }
     }, 
@@ -6966,7 +6966,7 @@
                 "SOZAI_COCONUT": 1, 
                 "SOZAI_001": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_585"
         }
     }, 
@@ -6977,7 +6977,7 @@
                 "SOZAI_DISK_FLOWER": 3, 
                 "SOZAI_FE_MOKU": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_586"
         }
     }, 
@@ -6987,7 +6987,7 @@
                 "SOZAI_FIBER": 1, 
                 "SOZAI_FE_MOKU": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_587"
         }, 
         "SAGL12_A": {
@@ -7006,7 +7006,7 @@
                 "SOZAI_FE_MOKU": 2, 
                 "SOZAI_FE_KIN": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_589"
         }
     }, 
@@ -7017,7 +7017,7 @@
                 "SOZAI_BEAST_CLAW": 2, 
                 "SOZAI_FE_MOKU": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_590"
         }, 
         "SAGL11_A": {
@@ -7037,7 +7037,7 @@
                 "SOZAI_NATIVE_SILVER": 1, 
                 "SOZAI_FE_SUI": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_592"
         }
     }, 
@@ -7048,7 +7048,7 @@
                 "SOZAI_MULLOCK": 6, 
                 "SOZAI_FE_KIN": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_593"
         }, 
         "SAGL08_A": {
@@ -7068,7 +7068,7 @@
                 "SOZAI_MAGICAL_BEAST_FANG": 1, 
                 "SOZAI_OAK": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_595"
         }, 
         "SAGL13_A": {
@@ -7088,7 +7088,7 @@
                 "SOZAI_MAGICAL_BEAST_FANG": 1, 
                 "SOZAI_OAK": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_597"
         }, 
         "SAGL13_B": {
@@ -7117,7 +7117,7 @@
                 "SOZAI_FE_MOKU": 2, 
                 "SOZAI_FE_KIN": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_600"
         }
     }, 
@@ -7148,7 +7148,7 @@
                 "SOZAI_MAGICAL_BEAST_FANG": 1, 
                 "SOZAI_OAK": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_603"
         }
     }, 
@@ -7168,7 +7168,7 @@
                 "SOZAI_MAGICAL_BEAST_FANG": 1, 
                 "SOZAI_OAK": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_605"
         }
     }, 
@@ -7295,7 +7295,7 @@
                 "SOZAI_FUR": 1, 
                 "SOZAI_FE_SUI": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_617"
         }
     }, 
@@ -7305,7 +7305,7 @@
                 "SOZAI_FUR": 1, 
                 "SOZAI_FE_SUI": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_618"
         }, 
         "SASH13_A": {
@@ -7313,7 +7313,7 @@
                 "SOZAI_SNAKESKIN": 2, 
                 "SOZAI_FE_SUI": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_648"
         }
     }, 
@@ -7323,7 +7323,7 @@
                 "SOZAI_FUR": 1, 
                 "SOZAI_FE_SUI": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_619"
         }
     }, 
@@ -7333,7 +7333,7 @@
                 "SOZAI_FUR": 1, 
                 "SOZAI_FE_SUI": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_620"
         }
     }, 
@@ -7343,7 +7343,7 @@
                 "SOZAI_FUR": 1, 
                 "SOZAI_FE_SUI": 1
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_621"
         }
     }, 
@@ -7354,7 +7354,7 @@
                 "SOZAI_BEAST_BONE": 1, 
                 "SOZAI_FE_KIN": 2
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_622"
         }, 
         "SASH07_A": {
@@ -7374,7 +7374,7 @@
                 "SOZAI_INSECT_SHELL": 2, 
                 "SOZAI_FE_KIN": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_624"
         }
     }, 
@@ -7385,7 +7385,7 @@
                 "SOZAI_INSECT_SHELL": 4, 
                 "SOZAI_FE_KIN": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_625"
         }, 
         "SASH08_A": {
@@ -7394,7 +7394,7 @@
                 "SOZAI_INSECT_SHELL": 4, 
                 "SOZAI_FE_KIN": 6
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_627"
         }, 
         "SASH11_A": {
@@ -7414,7 +7414,7 @@
                 "SOZAI_FUR": 6, 
                 "SOZAI_FE_SUI": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_626"
         }
     }, 
@@ -7425,7 +7425,7 @@
                 "SOZAI_NATIVE_SILVER": 2, 
                 "SOZAI_FE_SUI": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_629"
         }, 
         "SASH12_A": {
@@ -7443,7 +7443,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_FUR": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_631"
         }
     }, 
@@ -7454,7 +7454,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_INSECT_SHELL": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_632"
         }, 
         "SASH10_B": {
@@ -7463,7 +7463,7 @@
                 "SOZAI_BIG_BEAST_BONE": 1, 
                 "SOZAI_FE_KA": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_633"
         }
     }, 
@@ -7483,7 +7483,7 @@
                 "SOZAI_INSECT_SHELL": 2, 
                 "SOZAI_FE_KIN": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_635"
         }
     }, 
@@ -7494,7 +7494,7 @@
                 "SOZAI_FUR": 6, 
                 "SOZAI_FE_SUI": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_636"
         }, 
         "SASH12_A": {
@@ -7514,7 +7514,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_INSECT_SHELL": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_638"
         }, 
         "SASH12_B": {
@@ -7532,7 +7532,7 @@
                 "SOZAI_BIG_BEAST_BONE": 1, 
                 "SOZAI_FE_KA": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_640"
         }
     }, 
@@ -7543,7 +7543,7 @@
                 "SOZAI_FUR": 6, 
                 "SOZAI_FE_SUI": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_641"
         }, 
         "SASH10_A": {
@@ -7552,7 +7552,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_FUR": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_642"
         }
     }, 
@@ -7563,7 +7563,7 @@
                 "SOZAI_BIG_BEAST_BONE": 1, 
                 "SOZAI_FE_KA": 12
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_643"
         }, 
         "SASH06_A": {
@@ -7572,7 +7572,7 @@
                 "SOZAI_MAGICAL_BEAST_BONE": 1, 
                 "SOZAI_INSECT_SHELL": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_644"
         }, 
         "SASH12_B": {
@@ -7614,7 +7614,7 @@
                 "SOZAI_SCREAM_ROOT": 4, 
                 "SOZAI_ALURA": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_649"
         }
     }, 
@@ -7658,7 +7658,7 @@
                 "SOZAI_SCREAM_ROOT": 6, 
                 "SOZAI_FE_MOKU": 8
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_653"
         }
     }, 
@@ -7669,7 +7669,7 @@
                 "SOZAI_INSECT_SHELL": 8, 
                 "SOZAI_FE_KA": 10
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_654"
         }
     }, 
@@ -7679,7 +7679,7 @@
                 "SOZAI_BEAST_FANG": 1, 
                 "SOZAI_FE_DO": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_655"
         }, 
         "SAAC02_A": {
@@ -7687,7 +7687,7 @@
                 "SOZAI_MULLOCK": 1, 
                 "SOZAI_FE_MOKU": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_656"
         }, 
         "SAAC03_A": {
@@ -7695,7 +7695,7 @@
                 "SOZAI_ALURA": 1, 
                 "SOZAI_FE_KIN": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_657"
         }, 
         "SAAC04_A": {
@@ -7703,7 +7703,7 @@
                 "SOZAI_IRON_ORE": 1, 
                 "SOZAI_FE_KIN": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_658"
         }, 
         "SAAC05_A": {
@@ -7711,7 +7711,7 @@
                 "SOZAI_COCONUT": 1, 
                 "SOZAI_FE_KA": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_659"
         }, 
         "SAAC06_A": {
@@ -7719,7 +7719,7 @@
                 "SOZAI_LIGULATE_FLOWER": 1, 
                 "SOZAI_FE_SUI": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_660"
         }
     }, 
@@ -7729,7 +7729,7 @@
                 "SOZAI_BEAST_FANG": 2, 
                 "SOZAI_FE_DO": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_661"
         }
     }, 
@@ -7739,7 +7739,7 @@
                 "SOZAI_MULLOCK": 2, 
                 "SOZAI_FE_MOKU": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_662"
         }
     }, 
@@ -7749,7 +7749,7 @@
                 "SOZAI_ALURA": 2, 
                 "SOZAI_FE_KIN": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_663"
         }
     }, 
@@ -7759,7 +7759,7 @@
                 "SOZAI_IRON_ORE": 1, 
                 "SOZAI_FE_KIN": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_664"
         }
     }, 
@@ -7769,7 +7769,7 @@
                 "SOZAI_COCONUT": 2, 
                 "SOZAI_FE_KA": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_665"
         }
     }, 
@@ -7779,7 +7779,7 @@
                 "SOZAI_LIGULATE_FLOWER": 2, 
                 "SOZAI_FE_SUI": 4
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_666"
         }
     }, 
@@ -8238,7 +8238,7 @@
                 "SOZAI_001": 3, 
                 "SOZAI_GELATIN": 3
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_683"
         }
     }, 
@@ -8249,7 +8249,7 @@
                 "SOZAI_MULLOCK": 5, 
                 "SOZAI_FE_MOKU": 5
             }, 
-            "Concept": "None", 
+            "Concept": "0", 
             "label": "ENHANCE_684"
         }
     }, 

@@ -1,0 +1,398 @@
+{
+  "Normal": {
+    "Name": "\u306A\u3057",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Down": {
+    "Name": "\u6226\u95D8\u4E0D\u80FD",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Surprise": {
+    "Name": "\u4E0D\u610F\u6253\u3061",
+    "ParameterType": "0",
+    "Turn": "2",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Stun": {
+    "Name": "\u30B9\u30BF\u30F3",
+    "ParameterType": "0",
+    "Turn": "1",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "StunMecha": {
+    "Name": "\u30B9\u30BF\u30F3\uFF08\u30E1\u30AB\uFF09",
+    "ParameterType": "0",
+    "Turn": "1",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Poison": {
+    "Name": "\u6BD2",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "30",
+    "Recover": "20",
+    "TurnRecover": "20",
+    "RecoverParameter": "Vit"
+  },
+  "Paralysis": {
+    "Name": "\u9EBB\u75FA",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "20",
+    "TurnRecover": "25",
+    "RecoverParameter": "Vit"
+  },
+  "ParalysisMecha": {
+    "Name": "\u9EBB\u75FA\uFF08\u30E1\u30AB\uFF09",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "20",
+    "TurnRecover": "25",
+    "RecoverParameter": "Vit"
+  },
+  "Confusion": {
+    "Name": "\u6DF7\u4E71",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "15",
+    "TurnRecover": "20",
+    "RecoverParameter": "Wil"
+  },
+  "Darkness": {
+    "Name": "\u6697\u95C7",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "50",
+    "Recover": "10",
+    "TurnRecover": "15",
+    "RecoverParameter": "Wil"
+  },
+  "Rage": {
+    "Name": "\u6012\u308A",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "10",
+    "TurnRecover": "15",
+    "RecoverParameter": "Wil"
+  },
+  "Stone": {
+    "Name": "\u77F3\u5316",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Stench": {
+    "Name": "\u60AA\u81ED",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "20",
+    "TurnRecover": "15",
+    "RecoverParameter": "Vit"
+  },
+  "InvalidDamage": {
+    "Name": "\u30C0\u30E1\u30FC\u30B8\u7121\u52B9",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "InvalidEffect": {
+    "Name": "\u72B6\u614B\u7570\u5E38\u7121\u52B9",
+    "ParameterType": "Turn",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "InvalidEffectMecha": {
+    "Name": "\u72B6\u614B\u7570\u5E38\u7121\u52B9\uFF08\u30E1\u30AB\uFF09",
+    "ParameterType": "Turn",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "KongoProgram": {
+    "Name": "\u91D1\u525B\u30D7\u30ED\u30B0\u30E9\u30E0",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "BPCostUp": {
+    "Name": "BP\u30B3\u30B9\u30C8\u30A2\u30C3\u30D7",
+    "ParameterType": "Param",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "ArtsDamageUp": {
+    "Name": "\u6280\u5A01\u529B\u30A2\u30C3\u30D7",
+    "ParameterType": "Turn",
+    "Turn": "0",
+    "Param": "20",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Attack": {
+    "Name": "\u653B\u6483\u529B",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Defense": {
+    "Name": "\u9632\u5FA1\u529B",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Speed": {
+    "Name": "\u901F\u5EA6",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Magic": {
+    "Name": "\u8853\u529B",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Heal": {
+    "Name": "\u56DE\u5FA9",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Mecha": {
+    "Name": "\u30E1\u30AB\u9650\u5B9A",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Death": {
+    "Name": "\u5373\u6B7B",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "LPBreak": {
+    "Name": "LP\u30D6\u30EC\u30A4\u30AF",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "LPDeath": {
+    "Name": "LP0\u5373\u6B7B",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "HateUp": {
+    "Name": "\u6311\u767A",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "HateReset": {
+    "Name": "\u30D8\u30A4\u30C8\u6D88\u53BB",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Stealth": {
+    "Name": "\u30B9\u30C6\u30EB\u30B9",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Drain": {
+    "Name": "\u4F53\u529B\u5438\u53CE",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "Eat": {
+    "Name": "\u98DF\u3079\u308B",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "ChantExtend": {
+    "Name": "\u8A60\u5531\u5EF6\u9577",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "ChantShort": {
+    "Name": "\u8A60\u5531\u77ED\u7E2E",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "AreaBump": {
+    "Name": "\u7BC4\u56F2\u30D0\u30F3\u30D7",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "PartyBP": {
+    "Name": "\u5168\u4F53BP",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "InvalidGuard": {
+    "Name": "\u30AC\u30FC\u30C9\u4E0D\u53EF",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "InvalidReserve": {
+    "Name": "\u30EA\u30B6\u30FC\u30D6\u7121\u52B9",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "OverAttackBuff": {
+    "Name": "\u9023\u643A\u6642\u653B\u6483\u529B\u30A2\u30C3\u30D7",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "OverAttackArea": {
+    "Name": "\u9023\u643A\u7BC4\u56F2\u62E1\u5F35",
+    "ParameterType": "Param",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "RecoverStatus": {
+    "Name": "\u72B6\u614B\u7570\u5E38\u56DE\u5FA9",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "RecoverMecha": {
+    "Name": "\u30E1\u30AB\u4FEE\u7406",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  },
+  "RecoverSpecial": {
+    "Name": "\u7279\u6B8A\u52B9\u679C\u89E3\u9664",
+    "ParameterType": "0",
+    "Turn": "0",
+    "Param": "0",
+    "Recover": "0",
+    "TurnRecover": "0",
+    "RecoverParameter": "0"
+  }
+}

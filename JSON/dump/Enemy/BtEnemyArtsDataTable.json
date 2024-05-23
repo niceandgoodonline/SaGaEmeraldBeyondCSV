@@ -3,49 +3,37 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_CCM200_CV05_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_CCM200_CV05_B": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_CCM200_CV05_B", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_CCM200_CV05_C": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_CCM200_CV05_C", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_CCM200_CV05_D": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_CCM200_CV05_D", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_CCM200_CV05_E": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_CCM200_CV05_E", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "MOBJ": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "MOBJ", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0010_TEST": {
         "AI": "Normal", 
@@ -116,17 +104,13 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0210_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0230_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0230_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0300_TEST": {
         "AI": "Normal", 
@@ -171,185 +155,139 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0400_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0410_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0410_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0420_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0420_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0700_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0700_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0710_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0710_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0800_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0800_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0810_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0810_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0900_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0900_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1020_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1020_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1000_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1000_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1010_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1010_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M2000_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M2000_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M2100_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M2100_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_INT_BLOCK_TEST_A": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_INT_BLOCK_TEST_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_INT_BLOCK_TEST_B": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_INT_BLOCK_TEST_B", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_CCM200_CV05_A_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_CCM200_CV05_A_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_CCM200_CV05_B_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_CCM200_CV05_B_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_CCM200_CV05_C_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_CCM200_CV05_C_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0010_A_HIGH_LOAD_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0010_A_HIGH_LOAD_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0300_A_HIGH_LOAD_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0300_A_HIGH_LOAD_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0310_A_HIGH_LOAD_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0310_A_HIGH_LOAD_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0800_A_HIGH_LOAD_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0800_A_HIGH_LOAD_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0810_A_HIGH_LOAD_TEST": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0810_A_HIGH_LOAD_TEST", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0310_DUMMY": {
         "AI": "Normal", 
@@ -1963,9 +1901,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0123_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0123_A_HP75": {
         "AI": "HP", 
@@ -2929,9 +2865,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0401_B", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0401_B_Turn": {
         "AI": "TurnInterval", 
@@ -4846,9 +4780,7 @@
         "AI": "HP", 
         "AIParam": 2, 
         "Enemy": "E_M0900_R", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0900_R_HPMax": {
         "AI": "HPMax", 
@@ -4886,9 +4818,7 @@
         "AI": "HP", 
         "AIParam": 2, 
         "Enemy": "E_M0900_KOUCHU", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0901_A": {
         "AI": "Normal", 
@@ -4968,9 +4898,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0901_R", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0901_R_TurnInteravl": {
         "AI": "TurnInterval", 
@@ -5002,9 +4930,7 @@
         "AI": "HP", 
         "AIParam": 2, 
         "Enemy": "E_M0901_R", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0901_RINCHU": {
         "AI": "Normal", 
@@ -5023,9 +4949,7 @@
         "AI": "HP", 
         "AIParam": 2, 
         "Enemy": "E_M0901_RINCHU", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0902_A": {
         "AI": "Normal", 
@@ -5130,9 +5054,7 @@
         "AI": "HP", 
         "AIParam": 2, 
         "Enemy": "E_M0902_R", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0902_KEMUSHI": {
         "AI": "Normal", 
@@ -5151,9 +5073,7 @@
         "AI": "HP", 
         "AIParam": 2, 
         "Enemy": "E_M0902_KEMUSHI", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0903_A": {
         "AI": "Normal", 
@@ -5233,9 +5153,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0903_R", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0903_R_TurnInteravl": {
         "AI": "TurnInterval", 
@@ -5254,9 +5172,7 @@
         "AI": "HP", 
         "AIParam": 2, 
         "Enemy": "E_M0903_R", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0903_HAMUSHI": {
         "AI": "Normal", 
@@ -5275,9 +5191,7 @@
         "AI": "HP", 
         "AIParam": 2, 
         "Enemy": "E_M0903_HAMUSHI", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0904_A": {
         "AI": "Normal", 
@@ -5413,9 +5327,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M0904_R", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M0904_R_TurnInteravl": {
         "AI": "TurnInterval", 
@@ -5447,9 +5359,7 @@
         "AI": "HP", 
         "AIParam": 2, 
         "Enemy": "E_M0904_R", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1000_A": {
         "AI": "Normal", 
@@ -6081,257 +5991,193 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_B": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_B", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_C": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_C", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_D": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_D", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_E": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_E", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_F": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_F", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V01_A": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V01_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V01_B": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V01_B", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V01_C": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V01_C", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V01_D": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V01_D", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V01_E": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V01_E", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V01_F": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V01_F", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V01_G": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V01_G", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V01_H": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V01_H", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V02_A": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V02_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1500_V02_B": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1500_V02_B", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1510_A": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1510_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1510_B": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1510_B", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1510_C": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1510_C", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1510_D": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1510_D", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1510_E": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1510_E", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1510_F": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1510_F", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1510_G": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1510_G", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1510_H": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1510_H", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1510_EMPTY": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1510_EMPTY", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1520_A": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1520_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1520_B": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1520_B", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1520_C": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1520_C", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1520_D": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1520_D", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1520_E": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1520_E", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1520_F": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1520_F", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M1520_G": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M1520_G", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M2000_A": {
         "AI": "Normal", 
@@ -8022,9 +7868,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M3000_MKDGS_SGN", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M3000_M": {
         "AI": "Normal", 
@@ -8704,41 +8548,31 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M3000_V01_M", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M3000_V01_K": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M3000_V01_K", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M3000_V01_D": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M3000_V01_D", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M3000_V01_G": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M3000_V01_G", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M3000_V01_S": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M3000_V01_S", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M9011_A": {
         "AI": "Normal", 
@@ -9922,9 +9756,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_W00_SENSEI_00_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_C01_TUTORIAL_MONSTER": {
         "AI": "Normal", 
@@ -10152,9 +9984,7 @@
         "AI": "TurnInterval", 
         "AIParam": 4, 
         "Enemy": "E_C01_BOSS_TENKAI_E", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_C01_BOSS_TENKAI_E_Active": {
         "AI": "Active", 
@@ -10222,9 +10052,7 @@
         "AI": "TurnInterval", 
         "AIParam": 4, 
         "Enemy": "E_C01_BOSS_TENKAI_F", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_C01_BOSS_TENKAI_F_Active": {
         "AI": "Active", 
@@ -10378,9 +10206,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_SUM_LBOSS_M0512_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_SUM_LBOSS_M0812_A": {
         "AI": "Normal", 
@@ -13053,9 +12879,7 @@
         "AI": "TurnInterval", 
         "AIParam": 2, 
         "Enemy": "E_W01_MIDO_GOKAKUDO_00_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W01_MIDO_GOKAKUDO_00_A_Turn3": {
         "AI": "TurnInterval", 
@@ -13159,9 +12983,7 @@
         "AI": "TurnInterval", 
         "AIParam": 5, 
         "Enemy": "E_W01_MIDO_GOKAKUDO_00_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W01_MIDO_GOKAKUDO_00_A_Turn6": {
         "AI": "TurnInterval", 
@@ -13363,9 +13185,7 @@
         "AI": "TurnInterval", 
         "AIParam": 10, 
         "Enemy": "E_W01_MIDO_GOKAKUDO_00_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W02_BLACKSWAN_00_A": {
         "AI": "Normal", 
@@ -14598,9 +14418,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_W03_GLUTTONYBOSS_00_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W03_GLUTTONYBOSS_00_A_Active4": {
         "AI": "Active", 
@@ -14713,9 +14531,7 @@
         "AI": "Active", 
         "AIParam": 1, 
         "Enemy": "E_W03_LUSTBOSS_00_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W03_LUSTBOSS_01_A": {
         "AI": "Normal", 
@@ -14752,9 +14568,7 @@
         "AI": "Active", 
         "AIParam": 1, 
         "Enemy": "E_W03_LUSTBOSS_01_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W03_LUSTBOSS_10_A": {
         "AI": "Normal", 
@@ -14791,9 +14605,7 @@
         "AI": "Active", 
         "AIParam": 1, 
         "Enemy": "E_W03_LUSTBOSS_10_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W03_LUSTGUARD_00_A": {
         "AI": "Normal", 
@@ -14868,9 +14680,7 @@
         "AI": "Active", 
         "AIParam": 1, 
         "Enemy": "E_W03_SLOTHBOSS_01_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W03_SLOTHBOSS_10_A": {
         "AI": "Normal", 
@@ -14907,9 +14717,7 @@
         "AI": "Active", 
         "AIParam": 1, 
         "Enemy": "E_W03_SLOTHBOSS_10_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W03_SLOTHGUARD_00_A": {
         "AI": "Normal", 
@@ -16432,9 +16240,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_W04_BATTLESHIP_CAPTAIN", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W06_EVILCELL_A": {
         "AI": "Normal", 
@@ -17162,9 +16968,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_W08_SOILMASTER_M0220_A", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W08_SOILMASTER_M0220_A_Active": {
         "AI": "Active", 
@@ -17201,9 +17005,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_W08_SOILMASTER_M0220_B", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W08_SOILMASTER_M0220_B_Active": {
         "AI": "Active", 
@@ -17240,9 +17042,7 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_W08_SOILMASTER_M0220_C", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_W08_SOILMASTER_M0220_C_Active": {
         "AI": "Active", 
@@ -23086,25 +22886,19 @@
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M3000_FIRE", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M3000_ICE": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M3000_ICE", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_M3000_LIGHTNIG": {
         "AI": "Normal", 
         "AIParam": 0, 
         "Enemy": "E_M3000_LIGHTNIG", 
-        "Info": {
-            "None": false
-        }
+        "Info": {}
     }, 
     "E_LASTBOSS_MIDO_A": {
         "AI": "Normal", 
